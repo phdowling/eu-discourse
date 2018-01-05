@@ -1,0 +1,371 @@
+Procedure file
+Basic information
+2014/2111(DEC)
+
+DEC - Discharge procedure
+
+Procedure completed
+
+2013 discharge: European Railway Agency (ERA)
+
+Subject
+8.70.03.03 2013 discharge
+
+Key players
+European Parliament
+
+Committee responsible
+CONT
+
+Rapporteur
+
+Budgetary Control
+
+Appointed
+09/10/2014
+
+CZARNECKI Ryszard
+Shadow rapporteur
+
+ZDECHOVSKÝ Tomáš
+
+VAUGHAN Derek
+
+ALI Nedzhmi
+
+DE JONG Dennis
+
+JÁVOR Benedek
+
+VALLI Marco
+Committee for opinion
+TRAN
+
+Rapporteur for opinion
+
+Transport and Tourism
+
+Appointed
+11/12/2014
+
+RIQUET Dominique
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Budget
+
+GEORGIEVA Kristalina
+
+Key events
+30/07/2014
+
+Non-legislative basic document published
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+23/03/2015
+
+Vote in committee, 1st reading/single
+reading
+
+30/03/2015
+
+Committee report tabled for plenary,
+single reading
+
+28/04/2015
+
+Debate in Parliament
+
+29/04/2015
+
+Results of vote in Parliament
+
+29/04/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+COM(2014)0510
+
+Summary
+
+A8-0078/2015
+
+Summary
+
+T8-0151/2015
+
+Summary
+
+29/04/2015
+
+End of procedure in Parliament
+
+30/09/2015
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2014/2111(DEC)
+
+Procedure type
+
+DEC - Discharge procedure
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CONT/8/01639
+
+Documentation gateway
+Court of Auditors: opinion, report
+
+N8-0091/2014
+OJ C 442 10.12.2014, p. 0232
+
+08/07/2014
+
+CofA
+
+Summary
+
+COM(2014)0510
+
+30/07/2014
+
+EC
+
+Summary
+
+Committee draft report
+
+PE539.728
+
+29/01/2015
+
+EP
+
+Document attached to the procedure
+
+05304/2015
+
+30/01/2015
+
+CSL
+
+PE544.383
+
+26/02/2015
+
+EP
+
+PE539.786
+
+06/03/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0078/2015
+
+30/03/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0151/2015
+
+29/04/2015
+
+EP
+
+Summary
+
+Non-legislative basic document
+
+Committee opinion
+Amendments tabled in committee
+
+TRAN
+
+Summary
+
+Final act
+Budget 2015/1671
+OJ L 255 30.09.2015, p. 0291 Summary
+
+2014/2111(DEC) - 08/07/2014 Court of Auditors: opinion, report
+PURPOSE: presentation of the EU Court of Auditors report on the annual accounts of the European Railway Agency (ERA) for the year 2013,
+together with the Agencys reply.
+CONTENT: in accordance with the tasks conferred on the Court of Auditors by the Treaty on the Functioning of the European Union, the Court
+presents to the European Parliament and to the Council, in the context of the discharge procedure, a Statement of Assurance as to the
+reliability of the annual accounts of each institution, body or agency of the EU, and the legality and regularity of the transactions underlying
+them, on the basis of an independent external audit.
+This audit concerned, amongst others, the annual accounts of the European Railway Agency (ERA).
+Statement of assurance: pursuant to the provisions of Article 287 of the Treaty on the Functioning of the European Union (TFEU), the Court
+has audited:
+the annual accounts of the Agency, which comprise the financial statements and the reports on the implementation of the budget for
+the financial year ended 31 December 2013;
+the legality and regularity of the transactions underlying those accounts.
+Opinion on the reliability of the accounts: in the Courts opinion, the Agencys annual accounts present fairly, in all material respects, its
+financial position as at 31 December 2013 and the results of its operations and its cash flows for the year then ended, in accordance with the
+provisions of its Financial Regulation and the accounting rules adopted by the Commissions accounting officer.
+Opinion on the legality and regularity of the transactions underlying the accounts: in the Courts opinion, the transactions underlying the annual
+accounts for the year ended 31 December 2013 are legal and regular in all material respects.
+The report also makes a series of observations on the budgetary and financial management of the Agency, accompanied by the latters
+response. The main observations may be summarised as follows:
+The Courts observations:
+
+internal controls: the Court considered that there is room to improve the accuracy and documentation of information used in the
+Agencys procurement procedures;
+recruitment: at the end of 2013, 136 temporary employees were working for the Agency. In 2013 the Agency adopted a new decision
+in agreement with its Administrative Board and the Commission, according to which temporary employees can have indefinite
+contracts. The proposal for a revised founding regulation for ERA includes similar provisions but it is unclear if and when this will be
+adopted;
+double headquarters: the Agency is located in Lille and Valenciennes. As the Court mentioned in its Specific Annual Report for the
+financial year 2006, it is likely that costs could be reduced if all operations were centralised in one location. This might also facilitate a
+comprehensive seat agreement with the host Member State thereby clarifying the conditions under which the Agency and its staff
+operate.
+The Agencys reply:
+internal controls: the Agency has taken good note of the remark of the Court and will review its procurement procedure;
+recruitment: it has taken note of the comments of the Court;
+double headquarters: the Agency has regular contacts with the host Member State about a seat agreement. However, the French
+authorities have so far taken the view that the Protocol on Privileges and Immunities applies and that is sufficient for the Agency.
+Lastly, the Court of Auditors report contains a summary of the Agencys activities in 2013. This is focused on:
+Budget: EUR 25.8 million.
+Activities:
+follow-up activities, modifications of the texts, dissemination and monitoring activities in relation to the Single Safety Certificate;
+evaluation of the effectiveness and practical implementation of measures through the Joint Network Secretariat;
+development of a Single Safety Certificate Regime;
+implementation of a common template based on the relevant Directives and Commission Recommendation 2011/217/EU (known as
+DV29) to be used by the Member States to document the authorisation process applied;
+completion of the drafting of almost all the Technical Specifications for Interoperability (TSIs) applicable to the entire EU railway
+network;
+reports on railway safety and interoperability;
+various recommendations on safety assessment and reporting in the Member States;
+setting up and maintaining a series of registers for safety and interoperability;
+guidance, support and advice to the rail sector and Member States;
+cooperation with the TEN-T Executive Agency in evaluating specific ERTMS projects.
+
+2014/2111(DEC) - 30/07/2014 Non-legislative basic document
+PURPOSE: presentation by the Commission of the consolidated annual accounts of the European Union for the financial year 2013, as part of
+the 2013 discharge procedure.
+Analysis of the accounts of the European Railway Agency (ERA).
+CONTENT: this Commission document sets out the consolidated annual accounts of the European Union for the financial year 2013 as
+prepared on the basis of the information presented by the institutions, organisations and bodies of the EU, in accordance with Article 129 (2) of
+the Financial Regulation applicable to the EU's General Budget, including the European Railway Agency (ERA).
+The document contains the figures on which the discharge procedure is based.
+Discharge procedure of the EU agencies: the EU Budget finances a wide range of policies and programmes throughout the EU. In accordance
+with the priorities set by the European Parliament and the Council in the multi-annual financial framework (MFF), the European Commission
+carries out specific programmes, activities and projects in the field with the technical support of some specialised agencies.
+The consolidated annual accounts of the EU provide information on the activities of the institutions, agencies and other bodies of the EU from
+a budgetary and accrual accounting perspective.
+The consolidated reports on the implementation of the general budget of the EU include the budget implementation of all Institutions. Agencies
+do not have a separate budget inside the EU budget; and they are partially financed by a Commission budget subsidy.
+Each agency is subject to its own discharge procedure.
+ERA: in 2013, the tasks and budget of this agency were as follows:
+description of ERA's tasks: ERA, which is located in Lille-Valenciennes, was created by Regulation (EC) No 881/2004 of the European
+Parliament and of the Council. Its aim is to : (i) enhance the level of interoperability of railway systems and; (ii) develop a common
+approach to safety in order to contribute to creating a more competitive European railway sector with a high level of safety;
+ERA's budget for the 2013 financial year: the Agencys budget for 2013, as presented in the Commission document on the
+consolidated annual accounts of the European Union, gives the following figures:
+§
+
+Commitment appropriations :
+- committed : EUR 26 million;
+- paid : EUR 25 million;
+- carried-over : 0.
+
+§
+
+Payment appropriations :
+
+- committed : EUR 28 million;
+- paid : EUR 25 million;
+- carried-over : EUR 2 million.
+Please refer also to the final accounts of the ERA.
+
+2014/2111(DEC) - 30/03/2015 Committee report tabled for plenary, single reading
+The Committee on Budgetary Control adopted the report by Ryszard CZARNECKI (ECR, PL) ) on discharge in respect of the implementation
+of the budget of the European Railway Agency (ERA) for the financial year 2013.
+The committee recommended that the European Parliament grant the Executive Directorr of the of the Agency discharge in respect of the
+implementation of the Agencys budget for the financial year 2013.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2013 are reliable, and that the underlying transactions are legal and regular, Members called on the Parliament to approve the closure of
+the Centres accounts. They made, however, a number of recommendations that needed to be taken into account when the discharge is
+granted, in addition to the general recommendations that appear in the draft resolution on performance, financial management and control of
+EU agencies.
+Centres financial statements: Members noted that the final budget of the Centre for the financial year 2013 was EUR 25 858 799
+representing an increase of 0.23 % compared to 2012.
+Commitments and carry-overs: Members noted that budget monitoring efforts during the financial year 2013 resulted in a budget
+implementation rate of 97.87% and that the payment appropriations execution rate was 88.12%. They pointed out, however, that the
+level of committed appropriations carried over to 2013 was EUR 2 398 742, and committed appropriations carried over to 2014
+amounted to EUR 2 221 816. The decrease in the accrued amount carried over in comparison to the previous year occurred because
+of the underestimation/overestimation of the 2013 budgetary expenses.
+Members also made a series of observations on transfers, procurement and recruitment procedures, and internal audit, and the prevention
+and management of conflicts of interests.
+The committee expressed its deep disappointment that the Agency had still not adopted a clear, comprehensive and objective policy for the
+prevention and management of conflicts of interests, despite the discharge authority and the Courts special recommendations for consecutive
+years.
+Lastly, Members deplored the fact that the use of two locations (Lille and Valenciennes) to carry out its activities exposed the Agency to
+additional costs. They acknowledged the efforts made by the Agency to minimise the negative impact of the decision on its seat but called for
+a single location for the Agency, in a place easily accessible by public transport in order to save scarce resources.
+
+2014/2111(DEC) - 29/04/2015 Final act
+PURPOSE: to grant discharge to the European Railway Agency for the financial year 2013.
+NON LEGISLATIVE ACT: Decision (EU) 2015/1671 of the European Parliament on discharge in respect of the implementation of the budget of
+the European Railway Agency for the financial year 2013.
+CONTENT: with the present decision, the European Parliament grants discharge to the Executive Director of the European Railway Agency for
+the implementation of its budget for the financial year 2013.
+This decision is in line with the European Parliament's resolution adopted on 29 April 2015 and comprises a series of observations that form
+an integral part of the discharge decision (please refer to the summary of the opinion of 29 April 2015).
+Amongst Parliaments main observations, it deplored the fact that the use of two locations (Lille and Valenciennes) to carry out its activities
+exposed the Agency to additional costs. It called for a single location for the Agency, in a place easily accessible by public transport.
+
+2014/2111(DEC) - 29/04/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 550 votes to 131, with 4 abstentions, a decision to grant discharge to the Executive Director of the
+European Railway Agency (ERA) for the financial year 2013. The vote on the discharge decision approved the closure of the accounts (in
+accordance with Annex VI, Article 5(1) of the Rules of Procedure of the European Parliament.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2013 are reliable, and that the underlying transactions are legal and regular, Parliament adopted by 563 votes to 107, with 15
+abstentions, a resolution containing a number of recommendations that form an integral part of the discharge decision and as well as the
+general recommendations that appear in the resolution on performance, financial management and control of EU agencies:
+Centres financial statements: Parliament noted that the final budget of the Agency for the financial year 2013 was EUR 25 858 799
+representing an increase of 0.23% compared to 2012.
+Commitments and carry-overs: Parliament also noted that budget monitoring efforts during the financial year 2013 resulted in a budget
+implementation rate of 97.87% and that the payment appropriations execution rate was 88.12%. It pointed out, however, that the level
+
+of committed appropriations carried over to 2013 was EUR 2 398 742, and committed appropriations carried over to 2014 amounted to
+EUR 2 221 816. The decrease in the accrued amount carried over in comparison to the previous year occurred because of the
+underestimation/overestimation of the 2013 budgetary expenses.
+Parliament also made a series of observations on transfers, procurement and recruitment procedures, and internal audit, and the prevention
+and management of conflicts of interests.
+It expressed its deep disappointment that the Agency had still not adopted a clear, comprehensive and objective policy for the prevention and
+management of conflicts of interests, despite the discharge authority and the Courts special recommendations for consecutive years.
+Parliament deplored the fact that the use of two locations (Lille and Valenciennes) to carry out its activities exposed the Agency to additional
+costs. It acknowledged the efforts made by the Agency to minimise the negative impact of the decision on its seat but called for a single
+location for the Agency, in a place easily accessible by public transport in order to save scarce resources.
+Additional funding: lastly, Parliament stated that if the Agency is to receive new powers as a result of the extension of its tasks as a certifying
+agency for railway material, part of the funding for the Agency should come from fees and charges levied on the railway industry which must,
+in all circumstances, be appropriate to the level of expenses incurred by the Agency and must not represent a disproportionate cost for the
+railway industry.
+
+

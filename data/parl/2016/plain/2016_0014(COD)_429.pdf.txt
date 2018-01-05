@@ -1,0 +1,463 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0014(COD)
+
+Awaiting Parliament 1st reading / single reading / budget 1st
+stage
+
+Approval and market surveillance of motor vehicles and their trailers
+Repealing Directive 2007/46/EC 2003/0153(COD)
+Amending Regulation (EC) No 715/2007 2005/0282(COD)
+Amending Regulation (EC) No 595/2009 2007/0295(COD)
+Subject
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+3.20.06 Transport regulations, road safety, roadworthiness tests, driving
+licence
+3.40.03 Motor industry, cycle and motorcycle, commercial and agricultural
+vehicles
+3.70.02 Atmospheric pollution, motor vehicle pollution
+
+Key players
+European Parliament
+
+Committee responsible
+IMCO
+
+Rapporteur
+
+Internal Market and Consumer Protection
+
+Appointed
+02/02/2016
+
+DALTON Daniel
+Shadow rapporteur
+
+ŠTEFANEC Ivan
+
+SCHALDEMOSE
+Christel
+
+CHARANZOVÁ Dita
+
+DE JONG Dennis
+
+DURAND Pascal
+
+ZULLO Marco
+TROSZCZYNSKI
+Mylène
+Committee for opinion
+ENVI
+
+Rapporteur for opinion
+
+Environment, Public Health and Food Safety
+
+Appointed
+08/03/2016
+
+FJELLNER Christofer
+ITRE
+
+TRAN
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+Transport and Tourism
+
+02/05/2016
+DELLI Karima
+
+Council of the European Union
+Commission DG
+European Commission
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs BIEŃKOWSKA Elżbieta
+
+European Economic and
+
+Social Committee
+
+Key events
+27/01/2016
+
+Legislative proposal published
+
+04/02/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+28/11/2016
+
+Debate in Council
+
+09/02/2017
+
+Vote in committee, 1st reading/single
+reading
+
+20/02/2017
+
+Debate in Council
+
+01/03/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+04/04/2017
+
+Results of vote in Parliament
+
+04/04/2017
+
+Debate in Parliament
+
+04/04/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+04/04/2017
+
+Matter referred back to the committee
+responsible
+
+COM(2016)0031
+
+Summary
+
+A8-0048/2017
+
+Summary
+
+T8-0097/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0014(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Repealing Directive 2007/46/EC 2003/0153(COD)
+Amending Regulation (EC) No 715/2007 2005/0282(COD)
+Amending Regulation (EC) No 595/2009 2007/0295(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114; Rules of Procedure of the
+European Parliament EP 059-p4
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Awaiting Parliament 1st reading / single reading / budget 1st stage
+
+Committee dossier
+
+IMCO/8/05638
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0031
+
+27/01/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0009
+
+28/01/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0010
+
+28/01/2016
+
+EC
+
+Committee draft report
+
+PE585.750
+
+14/09/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.190
+
+18/10/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.249
+
+18/10/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.285
+
+19/10/2016
+
+EP
+
+Summary
+
+Committee opinion
+
+ENVI
+
+PE585.489
+
+05/12/2016
+
+EP
+
+Committee opinion
+
+TRAN
+
+PE587.469
+
+16/12/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0048/2017
+
+01/03/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, partial vote at
+1st reading/single reading
+
+T8-0097/2017
+
+04/04/2017
+
+EP
+
+Summary
+
+Additional information
+Research document
+
+Briefing
+
+Research document
+
+Briefing
+
+2016/0014(COD) - 27/01/2016 Legislative proposal
+PURPOSE: to revise the legal framework for the type-approval of motor vehicles and their trailers in order to ensure the proper functioning of
+the internal market while at the same time providing for a high level of public safety and environmental protection.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: a comprehensive EU type-approval framework for motor vehicles and their trailers, and of systems, components and
+separate technical units intended for such vehicles, was established by Directive 2007/46/EC of the European Parliament and of the Council.
+This framework aims at facilitating the free movement of motor vehicles and trailers in the internal market by laying down harmonised
+requirements designed to achieve common environmental and safety objectives. Directive 2007/46/EC covers motor vehicles for the carriage
+of passengers (category M) and of goods (category N), and their trailers (category O), as well as their systems and components.
+As part of the commitments the Commission made in its CARS2020 Action Plan for a strong, competitive and sustainable European car
+industry, the EU type-approval framework for motor vehicles has been the subject of a comprehensive fitness check in 2013.
+Although the fitness check confirmed that the existing regulatory framework has its merits in meeting policy objectives, it has come under
+harsh criticism after the discovery that a German manufacturer (VW) had for several years used software to manipulate the emission
+performance of its cars.
+Within a week of the outbreak of the scandal, the Commission announced that it would reinforce the type-approval system, in particular by
+ensuring adequate supervisory mechanisms to ensure a correct and harmonised application of the type-approval procedures.
+Triggered by the outburst of the VW emissions scandal, the European Parliament adopted on 27 October 2015 a Resolution on emission
+measurements in the automotive sector, calling on the Commission for significantly strengthening the current EU type approval regime
+including more EU oversight, in particular with regard to market surveillance, coordination and follow up regime for vehicles sold in the Union.
+IMPACT ASSESSMENT: the proposal is accompanied by an impact assessment of the VW emissions crisis on the review of the type-approval
+framework for motor vehicle.
+Already before the outburst of the VW crisis, the Commission was working on proposals to improve the type-approval legislation for motor
+vehicles, and identified main areas with a significant potential for improvement to better address the problems of unsafe and non-compliant
+automotive products. The assessment of the possible policy options resulted in the conclusion that regulatory action in these areas would be
+the most effective.
+The re-assessment of these policy options in the light of the VW crisis has highlighted the need to further increase their effectiveness in terms
+of detecting and preventing non-compliance problems.
+There is a warranted need for EU wide supervision to achieve a harmonised and co-ordinated enforcement based on commonly applicable
+criteria and uniformly applied by Member States.
+CONTENT: the proposed Regulation seeks to replace Directive 2007/46/EC. It sets out the harmonised rules and principles for the
+type-approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, and the
+individual vehicle approval.
+The proposal aims to strengthen the existing type-approval framework, by introducing market surveillance provisions. It also contains a wide
+range of measures relating to:
+the traceability of products and role and responsibilities of economic operators in the supply chain;
+responsibilities of and co-operation between the different national authorities involved in the enforcement of the technical
+harmonisation legislation for motor vehicles;
+the quality of the type-approval and conformity assessment tasks carried out by technical services;
+the post-market safeguard procedures and the provisions for the recall of vehicles,
+procedures for ensuring conformity of production.
+BUDGETARY IMPLICATION: the budgetary implication of this proposal is estimated at EUR 40.104 million (including administrative
+
+expenditure) for the period 2017-2020.
+In view of the constraints of the Multiannual Financial Framework 2014-2020, the implementation of the legislative proposal will have to be built
+on existing resources and to be designed in such a manner that additional financial resources under the EU budget are not needed. For the
+period following 31 December 2020, the amount shall be subject to the multiannual financial framework in force for the period commencing in
+2021.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2016/0014(COD) - 01/03/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on the Internal Market and Consumer Protection adopted the report by Daniel DALTON (ECR, UK) on the proposal for a
+regulation of the European Parliament and of the Council on the approval and market surveillance of motor vehicles and their trailers, and of
+systems, components and separate technical units intended for such vehicles.
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+An end to manipulation: Members stated that consumer protection is a priority of the Union and that everything should be done to prevent
+cheating by car manufacturers designed to manipulate pollution emission and fuel consumption tests in order to produce false results or
+circumvent any other rules.
+Responsibility of type-approval authorities and competent authorities: the proposed amendments aim to clarify the roles and responsibilities of
+national type approval authorities, testing centres and market surveillance bodies, in order to reinforce their independence and prevent
+conflicts of interest.
+Members proposed the following:
+Member States shall assess at least every three years the functioning of their type-approval activities and the quality of the
+type-approvals issued. They shall perform random market surveillance tests on at least 20 % of the new models placed on the Union
+market each year to verify whether the vehicles on the road comply with Union safety and environmental legislation;
+the approval authorities shall interpret and enforce the requirements of this Regulation in a uniform and consistent manner to avoid
+divergent standards being applied across the Union;
+Market surveillance authorities shall (i) perform regular checks to verify compliance with the requirements set out in this Regulation as
+well as with the correctness of the type approvals; (ii) prepare and submit a national market surveillance programme for approval by
+the Commission on an annual or multi-annual basis; (iii) to alert users within their territories within an adequate timeframe of
+non-compliance they have identified.
+Members proposed making publicly available the results of the national periodic reviews on the functioning of their surveillance activities. The
+Commission shall be empowered to supervise the work of the national authorities by means of regular audits, checks and tests of samples of
+the type-approvals issued and verifying the uniform, consistent and effective application of this Regulation.
+Compliance verification testing by the Commission: the European Commission may oblige a Member State to carry out a compliance test
+which it considers necessary, or do the tests itself under certain conditions.
+The European Commission may also oblige economic operators to take all necessary restrictive measures, including the recall of vehicles, so
+that non-compliant vehicles in question are brought into conformity.
+Manufacturers responsibility: the manufacturer shall be responsible to the approval authority for all aspects of the approval procedure and for
+ensuring conformity of production regardless of testing method used.
+The manufacturer shall: (i) ensure that the design of the vehicles does not incorporate strategies that unnecessarily alter the performance
+exhibited during applicable test procedures when those vehicles are operated under conditions that might reasonably be expected to be
+encountered in normal operation and use; (ii) disclose any engine management strategies which might be deployed, either through hardware
+or software means.
+Forum for enforcement: Members proposed strengthening the Forums powers. Its tasks shall be extended to: (i) the consideration of
+substantiated complaints, evidence or other relevant information presented by recognised third parties of possible non-compliance; (ii) the joint
+discussion and assessment of the national market surveillance programmes following their submission to the Commission; (iii) the review of
+the results of assessments of the functioning of market surveillance.
+Fees: Members proposed that the costs for their type-approval and market surveillance activities shall be covered by the Member States either
+through their national budgets, a fee-based structure (where national fees are levied on the manufacturers who have applied for type-approval
+in the Member State concerned), or apply a combination of both methods.
+Penalties: the proposal provides that the Commission may impose administrative fines (of up to EUR 30 000 per vehicle) on the manufacturer
+concerned in breach of the Regulation. Administrative fines levied by the Commissions may be used for the purposes of market surveillance
+measures and for measures to support persons negatively affected by infringements of this Regulation or other such activities to the benefit of
+affected consumers and, where appropriate, environmental protection.
+Database: Members proposed that the Commission should establish an online type-approval database for the secure electronic exchange of
+information related to type-approval procedures, authorisations issued and market surveillance.
+
+2016/0014(COD) - 04/04/2017 Text adopted by Parliament, partial vote at 1st reading/single
+reading
+
+The European Parliament adopted by 585 votes to 77, with 19 abstentions, amendments on the proposal for a regulation of the European
+Parliament and of the Council on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and
+separate technical units intended for such vehicles.
+The matter was referred back to the committee responsible for interinstitutional negotiations.
+The main amendments adopted in plenary concern the following issues:
+An end to manipulation: Members stated that consumer protection is a priority of the Union and that everything should be done to prevent
+cheating by car manufacturers designed to manipulate pollution emission and fuel consumption tests in order to produce false results or
+circumvent any other rules. Particular attention should be paid to the risk of illegal defeat devices.
+This Regulation should ensure reliable, harmonised and transparent type-approval and market surveillance procedures in the Member States.
+As consumer protection is a priority of the Union, manufacturers of vehicles circulating in the Union should be required to submit those
+vehicles for testing before being placed on the market and during their lifetime. Member States and the Commission should be guarantors of
+this double surveillance, the one being able to act where the other fails to do so.
+Responsibility of type-approval authorities and competent authorities: the proposed amendments aim to clarify the roles and responsibilities of
+national type approval authorities, testing centres and market surveillance bodies, in order to reinforce their independence and prevent
+conflicts of interest.
+Members proposed the following:
+Member States shall assess at least every three years the functioning of their type-approval activities and the quality of the
+type-approvals issued. They shall perform random market surveillance tests on at least 20 % of the new models placed on the Union
+market each year to verify whether the vehicles on the road comply with Union safety and environmental legislation;
+the approval authorities shall interpret and enforce the requirements of this Regulation in a uniform and consistent manner to avoid
+divergent standards being applied across the Union;
+Market surveillance authorities shall (i) perform regular checks to verify compliance with the requirements set out in this Regulation as
+well as with the correctness of the type approvals; (ii) prepare and submit a national market surveillance programme for approval by
+the Commission on an annual or multi-annual basis; (iii) to alert users within their territories within an adequate timeframe of
+non-compliance they have identified; (iv) inform, without delay, the Commission and the Member States where it considered that a
+vehicle is in breach of the Regulation.
+Members proposed making publicly available the results of the national periodic reviews on the functioning of their surveillance activities.
+The Commission shall be empowered to supervise the work of the national authorities by means of regular audits, checks and tests of
+samples of the type-approvals issued and verifying the uniform, consistent and effective application of this Regulation.
+Compliance verification testing by the Commission: the European Commission may:
+oblige a Member State to carry out a compliance test which it considers necessary, or do the tests itself under certain conditions;
+oblige economic operators to take all necessary restrictive measures, including the recall of vehicles, so that non-compliant vehicles in
+question are brought into conformity.
+Those tests and inspections shall be performed by means of, inter alia, laboratory tests and real-driving emissions tests, on the basis of
+statistically relevant samples, and shall be supplemented by documentary checks.
+Where technical services are designated for the purposes of this Article, the Commission shall ensure that a different technical service is used
+from the technical service that performed the original type approval test.
+Manufacturers responsibility: the manufacturer shall be responsible to the approval authority for all aspects of the approval procedure and for
+ensuring conformity of production regardless of testing method used.
+The manufacturer shall: (i) ensure that the design of the vehicles does not incorporate strategies that unnecessarily alter the performance
+exhibited during applicable test procedures when those vehicles are operated under conditions that might reasonably be expected to be
+encountered in normal operation and use; (ii) disclose any engine management strategies which might be deployed, either through hardware
+or software means; (iii) investigate and keep a register of complaints and non-conformities of vehicles, systems, components, separate
+technical units, parts or equipment that he placed on the market and keep his importers and distributors informed of such monitoring. If the
+number of complaints and non- conformities concerning safety or emission related equipment exceed 30 cases or 1 per cent of the total of
+vehicles, detailed information shall be sent to the relevant approval authority responsible.
+Forum for enforcement: Members proposed strengthening the Forums powers. Its tasks shall be extended to: (i) the consideration of
+substantiated complaints, evidence or other relevant information presented by recognised third parties of possible non-compliance; (ii) the joint
+discussion and assessment of the national market surveillance programmes following their submission to the Commission; (iii) the review of
+the results of assessments of the functioning of market surveillance.
+Fees: Members proposed that the costs for their type-approval and market surveillance activities shall be covered by the Member States either
+through their national budgets, a fee-based structure (where national fees are levied on the manufacturers who have applied for type-approval
+in the Member State concerned), or apply a combination of both methods.
+Penalties: the proposal provides that the Commission may impose administrative fines (of up to EUR 30 000 per vehicle) on the manufacturer
+concerned in breach of the Regulation. Administrative fines levied by the Commissions may be used for the purposes of market surveillance
+measures and for measures to support persons negatively affected by infringements of this Regulation or other such activities to the benefit of
+affected consumers and, where appropriate, environmental protection.
+In cases of non-conformity the consumer may face personal damage or damage to their own property. In such cases the consumer should be
+entitled to pursue compensation under relevant legislation addressing defective products or non-conforming goods.
+Database: Members proposed that the Commission should establish an online type-approval database for the secure electronic exchange of
+information related to type-approval procedures, authorisations issued and market surveillance.
+
+

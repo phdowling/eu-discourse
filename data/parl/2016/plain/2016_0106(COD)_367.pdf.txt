@@ -1,0 +1,483 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0106(COD)
+
+Procedure completed
+14/03/2017 Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+Entry/Exit System (EES)
+Amending Regulation (EC) No 767/2008 2004/0287(COD)
+Amending Regulation (EU) No 1077/2011 2009/0089(COD)
+See also 2016/0105(COD)
+Subject
+7.10.04 External borders crossing and controls, visas
+Legislative priorities
+Joint Declaration 2017
+
+Key players
+European Parliament
+
+Committee responsible
+LIBE
+
+Rapporteur
+
+Civil Liberties, Justice and Home Affairs
+
+Appointed
+20/04/2016
+
+DÍAZ DE MERA
+GARCÍA CONSUEGRA
+Agustín
+Shadow rapporteur
+
+FAJON Tanja
+
+HALLA-AHO Jussi
+
+MLINAR Angelika
+
+VERGIAT
+Marie-Christine
+
+ALBRECHT Jan Philipp
+
+VON STORCH Beatrix
+Committee for opinion
+BUDG
+
+Rapporteur for opinion
+
+Budgets
+
+Appointed
+25/04/2016
+
+HOHLMEIER Monika
+Committee for opinion on the legal basis
+JURI
+
+Rapporteur for opinion
+
+Legal Affairs
+
+Appointed
+19/04/2017
+
+GUTELAND Jytte
+
+Council of the European Union
+Commission DG
+European Commission
+Migration and Home Affairs
+
+Commissioner
+AVRAMOPOULOS Dimitris
+
+Key events
+06/04/2016
+
+Legislative proposal published
+
+COM(2016)0194
+
+Summary
+
+09/05/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+09/12/2016
+
+Debate in Council
+
+27/02/2017
+
+Vote in committee, 1st reading/single
+reading
+
+27/02/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+08/03/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+27/03/2017
+
+Debate in Council
+
+25/10/2017
+
+Debate in Parliament
+
+25/10/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+20/11/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+30/11/2017
+
+Final act signed
+
+30/11/2017
+
+End of procedure in Parliament
+
+09/12/2017
+
+Final act published in Official Journal
+
+A8-0057/2017
+
+Summary
+
+T8-0411/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0106(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 767/2008 2004/0287(COD)
+Amending Regulation (EU) No 1077/2011 2009/0089(COD)
+See also 2016/0105(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 087-p2; Treaty on the Functioning
+of the EU TFEU 077-p2; Treaty on the Functioning of the EU TFEU
+088-p2-a1
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+LIBE/8/06162
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0194
+
+06/04/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0114
+
+07/04/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0115
+
+07/04/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0116
+
+07/04/2016
+
+EC
+
+Document attached to the procedure
+
+N8-0141/2016
+OJ C 463 13.12.2016, p. 0014
+
+21/09/2016
+
+EDPS
+
+PE592.408
+
+30/11/2016
+
+EP
+
+PE587.729
+
+09/12/2016
+
+EP
+
+Committee draft report
+Committee opinion
+
+BUDG
+
+Summary
+
+Amendments tabled in committee
+
+PE597.482
+
+13/01/2017
+
+EP
+
+Amendments tabled in committee
+
+PE597.483
+
+13/01/2017
+
+EP
+
+A8-0057/2017
+
+08/03/2017
+
+EP
+
+PE603.073
+
+14/06/2017
+
+EP
+
+T8-0411/2017
+
+25/10/2017
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+Opinion on the legal basis
+
+JURI
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+Summary
+
+Summary
+
+Final act
+Regulation 2017/2226
+OJ L 327 09.12.2017, p. 0020
+
+2016/0106(COD) - 06/04/2016 Legislative proposal
+PURPOSE: to propose a revised version of the Entry/Exit System (EES) to speed-up, facilitate and reinforce border check procedures for
+non-EU nationals travelling to the EU.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: in February 2013, the Commission tabled a package of legislative proposals on Smart Borders to modernise the Schengen
+areas external border management. Since then, technical, financial and operational concerns on certain aspects of the design of the systems
+have been brought to light.
+Therefore, the Commission has decided to:
+revise its 2013 proposal for a Regulation for the establishment of an Entry/Exit System (EES);
+revise its 2013 proposal for Regulation amending the Schengen Borders Code to integrate the technical changes that result from the
+new proposal for a Regulation establishing an Entry/Exit System (EES);
+withdraw its 2013 proposal for a Regulation for a Registered Traveller Programme (RTP).
+CONTENT: this proposal is part of the broader 'Smart Borders Package', addressing the role of information systems in enhancing external
+border management, internal security and the fight against terrorism and organised crime. It seeks to modernise external border management
+by improving the quality and efficiency of controls and support Member States with the increasing numbers of travellers entering and exiting
+the EU.
+The main differences between this revised proposal and the 2013 proposals are as follows:
+Single system: only one system is proposed, the Entry Exit System.
+Scope of the new Entry Exit System: the scope of the new Entry Exit System includes border crossings by all third country nationals visiting
+the Schengen area for a short stay (maximum 90 days period in any period of 180 days), both visa-required and visa-exempt travellers, or
+eventually, on the basis of a touring visa (up to one year).
+The system will register the name, type of travel document and biometrics and the date and place of entry and exit. This will facilitate the
+border crossing of bona fide travellers, detect over-stayers and identify undocumented persons in the Schengen area. The EES will also
+record refusals of entry of third country nationals falling within its scope.
+Interoperability: this should be ensured between the EES and VIS in order to achieve more efficiency and rapidity at border checks.
+Biometric identifiers: while the 2013 EES proposals were relying on ten fingerprints, the revised EES proposals suggests a combination of four
+fingerprints and the facial image as biometric identifiers introduced from the start of operations of the EES. The four fingerprints are used at
+enrolment to check if the third country national was already registered in the system while the facial image allows for a quick and reliable
+(automatic) verification at subsequent entry that the individual subject to the border control is the one already registered in the EES.
+The Entry-Exit System will replace the current system of manual stamping of passports which is time consuming, does not provide reliable
+data on border crossings and does not allow the detection of over-stayers or address cases of loss or destruction of travelling documents.
+Data protection and data retention period: there is a significant reduction in the volume of personal data recorded in EES: 26 data items are to
+be recorded in EES instead of 36. Appropriate data protection safeguards and strict access rights are foreseen in accordance with EU data
+protection rules. The retention time for stored data is five years. This extended period shall reduce the re-enrolment frequency.
+The facilitation of border crossings: the approach for facilitation is based on the implementation of self-service systems and e-gates, which will
+allow third country nationals to initiate the procedure for border clearance, to be completed by providing additional information to the border
+guard on request. The use of these accelerators (introduced in the proposal amending the Schengen Borders Code) is optional for Member
+States, open to most of the travellers and does not require the development of any new system.
+
+In addition there will be a harmonised legal basis (again introduced in the amendments to the Schengen Borders Code) for the establishment
+of national Registered Travellers Programmes by Member States, on a voluntary basis.
+Law enforcement access: from the start of operations, Member States' law enforcement authorities and Europol will have access to the EES,
+under strictly defined conditions.
+BUDGETARY IMPLICATIONS: in the 2013 proposals, EUR 1.1 billion was set aside as an indicative amount for the development of an EES
+and an RTP. For the revised proposal, based on the preferred option of a single EES system including the law enforcement access, the
+amount needed has been estimated at EUR 480 million.
+
+2016/0106(COD) - 08/03/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Civil Liberties, Justice and Home Affairs adopted the report by Agustín DÍAZ DE MERA GARCÍA CONSUEGRA (EPP, ES)
+on the proposal for a regulation of the European Parliament and of the Council establishing an Entry/Exit System (EES) to register entry and
+exit data and refusal of entry data of third country nationals crossing the external borders of the Member States of the European Union and
+determining the conditions for access to the EES for law enforcement purposes and amending Regulation (EC) No 767/2008 and Regulation
+(EU) No 1077/2011.
+The committee recommended that the European Parliaments position adopted at first reading, following the ordinary legislative procedure,
+should amend the Commission proposal as follows:
+Subject matter: the amended text stipulated that the proposed Regulation establishes an 'Entry/Exit System' (EES) for the recording and
+storage of information on the date, time and place of entry and exit of third country nationals crossing the external borders of the Member
+States, for the calculation of the duration of their authorised stay, and for the generation of alerts to Member States when authorised periods
+for stay have expired as well as for the recording of the date, time and place of refusal of entry of third country nationals whose entry for a
+short stay {or on the basis of a touring visa} has been refused as well as the authority of the Member State which refused the entry and the
+reasons for refusal.
+Scope: for the purposes of the prevention, detection and investigation of terrorist offences or of other serious criminal offences, this Regulation
+also lays down in its Chapter IV the conditions and limitations under which Member States' designated law enforcement authorities and the
+European Police Office (Europol) may obtain access for consultation of the EES.
+Definitions: Members proposed to clarify the following terms:
+designated law enforcement authorities shall mean the authorities responsible for the prevention, detection or investigation of terrorist
+offences or of other serious criminal offences designated by the Member States;
+touring visa shall mean an authorisation issued by a Member State with a view to an intended stay in the territory of two or more
+Member States for a duration of 12 months in any 15 month period, provided that the applicant does not stay for more than 90 days in
+any 180 day period in the territory of the same Member State.
+Purpose of the EES: the amended text stated that in order to facilitate border crossing for third-country nationals who frequently travel and
+have been pre-vetted, Member States may establish national facilitation programmes and connect them to the EES. The EES shall enable the
+national competent authorities to have access to information on previous short stays or refusals of entry for the purposes of the examination of
+applications for access to national facilitation programmes and the adoption of decisions.
+Interoperability between the EES and the VIS and Europol: the idea of strengthened interoperability is outlined in a recital. Members also
+stipulated that access to the EES as a tool for the purpose of identifying an unknown suspect, perpetrator or suspected victim of a terrorist
+offence or other serious criminal offence shall be allowed where certain conditions are met and the consultation, as a matter of priority, of the
+data stored in the databases that are technically and legally accessible by Europol has not made it possible to verify the identity of the person
+concerned. Since fingerprint data of visa-holding third-country nationals are only stored in the VIS, a request for consultation of the VIS on the
+same data subject may be submitted in parallel to a request for consultation of the EES.
+Development and operational management: according to the text, eu-LISA shall play an important role in the development and maintenance of
+the EES. It shall be the controller responsible for the security of the web service, for the security of the personal data it contains and the
+process to extract the personal data from the central system into the web service.
+By developing and implementing the Central System, the National Uniform Interfaces, the Secure Communication Channel between the EES
+Central System and the VIS Central System, and the secure and encrypted Communication Infrastructure, eu-LISA shall:
+perform a risk assessment as part of the development of the EES;
+follow the principles of privacy by design and by default during the entire lifecycle of the system development;
+update the risk assessment for the VIS to take into account the new connection with the EES and follow up by implementing any
+additional security measures highlighted by the updated risk assessment.
+Personal data for visa holders: the border authority shall create an individual file of the third country national subject to a visa requirement to
+cross the external borders by entering the following data:
+type and number of the travel document or documents and three letter code of the issuing country of the travel document or
+documents;
+the facial image with sufficient image resolution and quality to be used in automated biometric matching, where possible extracted
+electronically from the eMRTD or the VIS, and where this is not possible, taken live.
+Where a visa holding third country national benefits from the national facilitation programme of a Member State, the Member State concerned
+may insert a notification in the individual file of that third country national specifying the national facilitation programme concerned.
+According to Members, knowing whether a person has been pre-vetted and accepted to a national facilitation programme in one of the
+Member States would be a valuable piece of information to border guards.
+
+Biometrics: the amended text stated that border guards shall, when capturing biometric data for the EES, fully respect human dignity, in
+particular in the event of difficulties encountered in the capturing of facial images or the taking of fingerprints.
+Retention period for data storage: Members proposed that each entry/exit record or refusal of entry record linked to an individual file shall be
+stored in the EES Central System for two years (as opposed to the Commissions five years) following the date of the exit record or of the
+refusal of entry record, as applicable.
+Data protection: the report stressed that data retrieved from the EES may be kept in national files only where necessary in an individual case,
+in accordance with the purpose of the EES and relevant Union law, in particular on data protection, and for no longer than necessary in that
+individual case. A Member State may keep the alphanumeric data which that Member State entered into the EES, in accordance with the
+purposes of the EES in its national entry exit system in full respect of Union Law.
+Reporting: the report noted that every quarter, eu-LISA shall publish statistics on the EES showing in particular the number, nationality, age,
+gender, duration of stay and border crossing point of entry of over stayers, of third country nationals who were refused entry, including the
+grounds for refusal, and of third country nationals whose stays were revoked or extended as well as the number of third country nationals
+exempt from the requirement to give fingerprints.
+Lastly, Members suggested enhancing rules on reporting back to the Parliament and the Council during and after the development of the EES,
+including an obligatory update on budgetary and cost developments, to ensure full parliamentary scrutiny and oversight of the process and to
+minimise the risk of cost overruns and delays.
+
+2016/0106(COD) - 25/10/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 477 votes to 139 with 50 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of
+third country nationals crossing the external borders of the Member States of the European Union and determining the conditions for access to
+the EES for law enforcement purposes and amending Regulation (EC) No 767/2008 and Regulation (EU) No 1077/2011.
+The European Parliaments position adopted at first reading, following the ordinary legislative procedure, amended the Commission proposal
+as follows:
+Purpose: the proposed regulation aims to establish an Entry/Exit System (EES) for:
+the recording and storage of the date, time and place of entry and exit of thirdcountry nationals crossing the borders of the Member
+States at which the EES is operated;
+the calculation of the duration of the authorised stay of such third-country nationals;
+the generation of alerts to Member States when the authorised stay has expired; and
+the recording and storage of the date, time and place of refusal of entry of third-country nationals whose entry for a short stay has
+been refused.
+Scope: in order to verify compliance with the provisions on the authorised period of stay on the territory of the Member States, the EES will
+apply to third country nationals crossing the external borders of the Schengen area, both those requiring a visa and those visa-exempt,
+admitted for a short stay of 90 days in any 180 day period.
+The system will replace the obligation to stamp the passports of third-country nationals, which is applicable to all Member States.
+Implementation: the amended text provides that the EES should be operated at the external borders of the Member States that apply the
+Schengen acquis in full. It will also be operated by Member States not yet applying the Schengen acquis in full, but for whom:
+the verification in accordance with the applicable Schengen evaluation procedure has already been successfully completed;
+passive access to the Visa Information System (VIS) has been granted;
+the provisions of the Schengen acquis relating to the Schengen Information System (SIS), have been put into effect in accordance
+with the relevant Act of Accession.
+Accordingly, Bulgaria and Romania will operate the EES.
+Data: the EES should record and process alphanumeric data and biometric data primarily for the purposes of improving the management of
+external borders, preventing irregular immigration and facilitating the management of migration flows. It will also be possible to access
+personal EES data in order to contribute to the prevention, detection and investigation of terrorist offences and of other serious criminal
+offences. Any search must be duly justified and proportionate in the light of the interest invoked.
+Four fingerprints per visa-exempt thirdcountry national should be registered in the EES, if physically possible. The fingerprints of visa-holding
+third-country nationals should be checked against the VIS. The facial image of both visa-exempt and visa holding third-country nationals
+should be registered in the EES.
+The data retention period is set at three years. If there is no exit record following the date of expiry of the period of authorised stay, the data
+shall be stored for a period of five years.
+The use of the EES, including the capturing of biometric data, must be in accordance with the safeguards laid down in the Convention for the
+Protection of Human Rights and Fundamental Freedoms, in the Charter of Fundamental Rights of the European Union and in the United
+Nations Convention on the Rights of the Child.
+Access to data: data stored in the EES will be accessible to border authorities, consular officers dealing with visas and authorities that check,
+within the territory of the Member States whether the conditions for entry to, or stay on, the territory of the Member States are fulfilled.
+For the purposes of the prevention, detection and investigation of terrorist offences or of other serious criminal offences, Member States
+designated authorities and Europol may obtain access to the EES for consultation.
+Technical architecture of the EES: the EES will be comprised of the following:
+
+a Central System (EES Central System) which operates a computerised central database of biometric and alphanumeric data;
+a National Uniform Interface in each Member State, enabling the connection of the EES Central System to the national border
+infrastructures in Member States in a secure manner;
+a Secure Communication Channel between the EES Central System and the VIS Central System;
+a secure and encrypted Communication Infrastructure between the EES Central System and the National Uniform Interfaces;
+a web service to allow: (i) thirdcountry nationals to verify at any moment the remaining authorised stay; (ii) carriers to verify whether
+third-country nationals holding a Schengen short-stay visa issued for one or two entries have already used the number of entries
+authorised by their visa;
+a data repository established at central level in order to enable the generation of statistics and reporting.
+Eu -LISA shall establish a Secure Communication Channel between the EES Central System and the VIS Central System to enable
+interoperability between the EES and the VIS.
+Communication of data to third countries: the amended text provides for the possibility of transferring personal data obtained by Member
+States to third countries: (i) in an exceptional case of urgency; (ii) where there is an imminent danger associated with a terrorist offence or
+where there is an imminent danger to the life of a person associated with a serious criminal offence. An imminent danger to the life of a person
+should be understood as covering a danger arising from a serious criminal offence committed against that person such as grievous bodily
+injury, illicit trade in human organs and tissue, kidnapping, illegal restraint and hostage-taking, sexual exploitation of children and child
+pornography, and rape.
+Such data should only be transferred to a third country if the reciprocal provision of any information on entry/exit records held by the
+requesting third country to the Member States operating the EES is ensured.
+
+

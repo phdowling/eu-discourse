@@ -1,0 +1,211 @@
+Short Summary – Public Release
+
+THE DOCUMENT
+CHALLENGE II
+Testing human and machine performance in detecting and
+classifying genuine and false travel documents
+
+European Agency for the Management of Operational Cooperation at the External Borders of the
+Member States of the European Union
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, 21 October 2014
+Research and Development Unit
+Frontex reference number: 17640a
+
+DISCLAIMERS
+This is a Frontex document. The information and views set out in the Document Challenge II Technical
+Report are based on the observations and data collected by the contributing experts during the test
+period and do not necessarily reflect the official opinion of the European Union. Neither any European
+Union institutions and bodies nor any person acting on their behalf may be held responsible for the use
+which may be made of the information contained therein.
+
+ACKNOWLEDGEMENTS
+The Document Challenge II Technical Report has been prepared by the Frontex Research and
+Development Unit (RDU) in cooperation with experts from the UK National Document Fraud Unit (NDFU),
+the Forensic Science Institute of the German Bundeskriminalamt (BKA), the German Federal Office for
+Information Security (BSI), the Royal Netherlands Marechaussee and the Portuguese Immigration and
+Borders Service (SEF).
+The RDU is grateful for the contribution of many colleagues at Frontex, for the participation in the
+exercise of border guards from several EU Member States and for the cooperation of the industry.
+
+2 of 7
+
+Introduction
+Travel document fraud is widely perceived as a serious problem affecting border control and the
+internal security of the European Union. The verification of the authenticity of travel documents is a
+key element of border checks and a pre-requisite for efficient border control. The continuous
+development and sophistication of the physical, optical, and electronic security features of travel
+documents currently in circulation brings significant challenges for border control officers, who need
+to increasingly rely on the support of document inspection systems (DIS) using advanced functionalities
+and automated components.
+The performance of document inspection solutions, although of importance for the effectiveness of
+border checks, is rarely taken into consideration when assessing the risk of document fraud. Analyses
+tend to focus on the threat of document fraud as detected at the border, rather than also encompassing
+an evaluation of the vulnerabilities related to the capacities (means) deployed (human and
+technological). However, although some vulnerabilities are technical in nature, others are more related
+to the integration and up-take of new technologies in the border management process.
+In line with its mandate, Frontex works in close cooperation with the Member States on the development
+of a portfolio of border check capacities and on the increasing of the capacity to assess and overcome
+existing and future challenges related to identity verification, travel document authentication, risk
+management and travel facilitation at the EU’s external borders.
+The current technical report is part of a wider range of activities developed by the Agency in order to
+provide facilitation assistance to Member States with regard to the roll-out of new technology for border
+checks, and to disseminate among all relevant stakeholders information about current practices, the
+benefits and challenges, and the end-user needs.
+
+What is the Document Challenge II
+The Document Challenge II was developed as a practical exercise simulating document inspection in
+the first line of border control, organised by the Frontex Research and Development Unit (RDU) in
+cooperation with the UK National Document Fraud Unit, the Forensic Science Institute of the German
+Bundeskriminalamt (BKA), the Royal Netherlands Marechaussee, and the Portuguese Immigration and
+Borders Service (SEF) and with the support of the German Federal Office for Information Security (BSI).
+Two hundred and thirteen documents, seven document inspection systems and thirty-nine border
+control officers deployed in the context of Frontex coordinated Joint Action Lusitania participated in
+the exercise.
+The main objective was to examine document inspection performance (by both humans and machines)
+in the first line of border control, aiming to better understand the complexity of the task of detecting
+false/falsified travel documents.
+
+3 of 7
+
+Results and Observations
+The results and observations collected during the exercise highlighted a series of vulnerabilities in the
+travel document inspection process. Participating experts put forward a set of recommendations
+contributing to the effective implementation of the Schengen Borders Code (Articles 5, 7 and 13).1 In
+particular, the following weaknesses should be considered:
+-
+
+The performance of technical equipment shows a degree of variability, indecision, and
+inconsistency, with errors happening when optical authentication is performed, as well as
+problems with electronic authentication resulting in a number of false documents being
+incorrectly accepted as genuine (and ceteris paribus, genuine documents being rejected as
+false). No automated document inspection system is capable of performing authentication
+of all possible physical security features and printing techniques.
+
+-
+
+The performance of border control officers is also highly variable and subjective. Although
+document ‘wizards’ with very high accuracy levels exist, time limitation in the first line of
+control negatively affects the detection of false documents. Qualitative experience –personal
+exposure to the practical detection of falsifications – rather than level of training or length of
+service is positively correlated with performance.
+
+-
+
+When trained/experienced officers use automated document inspection systems,
+effectiveness of document inspection tends to increase (in the cases when the operator rejects
+machine results, thus somewhat compensating for machine errors). However, both
+overreliance and unfounded mistrust in machine outputs cause false documents to be
+erroneously accepted as genuine. Human factors, or the interaction between the human
+operator and the machine, play an important role in the effective use of machine
+authentication and should be studied in more detail.
+
+-
+
+Performance depends on the intrinsic characteristics of the document to inspect. Lack of
+reference knowledge, as well as non-standard or unsuitable design and production of travel
+documents in circulation (passports and also ID cards), significantly affect the effectiveness of
+both technical and human capacities.
+
+Based on the results of the analysis, the following general recommendations have been proposed in
+order to mitigate the identified vulnerabilities.
+In relation to the use of automated document inspection systems:
+R-M.1. Develop and routinely update a set of EU-level minimum functionalities and
+operational performance requirements (for instance in terms of False Acceptance
+Rate/False Rejection Rate, Positive/Negative Effectiveness, etc) related to the use of
+automated document inspection systems at the EU’s external borders (and also for
+other law enforcement uses).
+
+1
+
+(Article 5 (entry conditions), Article7 (border checks on persons) and Article 13 (refusal of entry) of
+Regulation (EC) No 562/2006 of the European Parliament and of the Council of 15 March 2006
+establishing a Community Code on the rules governing the movement of persons across borders (the
+Schengen Borders Code), with subsequent amendments)
+4 of 7
+
+R-M.2.
+R-M.3.
+R-M.4.
+R-M.5.
+
+R-M.6.
+
+Develop and routinely update an EU-level performance testing methodology (and
+potentially a certification scheme).
+Develop and routinely update a common vendor-independent European reference
+document and template database.
+Monitor transactions and routinely test deployed operational systems against the
+minimum performance requirements (at the national level).
+Develop and implement procedures in order to provide, continuously maintain and
+update a set of trusted electronic certificates for Passive Authentication at the EUlevel.
+Establish a quality assurance process (a feedback loop) at the national level.
+
+In relation to human capabilities:
+R-H.1. Introduce the subject of operations, strengths and weaknesses of document inspection
+systems at the basic document training level.
+R-H.2. Develop and/or encourage intra-European mobility programs for the exchange of
+first line border control officers in order to facilitate the exposure of staff to different
+operational realities (especially traffic and origin of documents).
+R-H.3. Routinely challenge first line border control officers and set up an incentive
+mechanism.
+In relation to document design and document inspection systems manufacturers:
+R-D.1. Encourage the inclusion of inspection-related needs (and challenges) in the
+conceptualisation and design of travel documents.
+R-D.2. Encourage the development of EU-wide mandatory minimum security standards for
+ID cards similar to the ones already existing for passports and residency permits.
+R-D.3. Support the development of certification for documents compliant with ICAO
+standards.
+R-D.4. Foster the creation, maintenance, and dissemination of a travel document
+exception/defect list at the EU level.
+R-D.5. Encourage document inspection systems manufacturers to develop and integrate
+technology capable of authenticating printing techniques.
+R-D.6. Encourage harmonisation and the development of recommended minimum industry
+standards (or best practice guidelines addressing all components involved in machineassisted document inspection) for document inspection systems at the EU and/or ICAO
+level.
+In relation to further research:
+R-R.1. Comparative analysis of all document inspection use-cases in order to better
+understand the effect of the use of automated systems, strengths and weaknesses (with
+comparable data-sets, with focus on origin of documents, with time measurement, etc).
+R-R.2. Comparative usability analysis (including cognitive) of the use and perception of
+current automated document inspection systems in order to understand the effect of
+the human factor on the performance of the systems.
+R-R.3. Analysis of current operational effectiveness of electronic checks (and identification
+of vulnerabilities, for example: how often electronic checks are performed at the
+border; how many and what type of errors are detected; etc).
+R-R.4. Study of the operational effectiveness of other variables important for entry decisions
+in general – such as passenger profiling (individual risk assessment) – and in particular
+the effect of these variables on document inspection (positive and negative
+5 of 7
+
+biases/expectations). For example: does passenger profiling create assumptions
+regarding document authenticity and thus influence the effectiveness of document
+inspection?
+
+It is expected that the outcomes of this analysis will expand existing knowledge and contribute to the
+ongoing actions and initiatives undertaken at the European level by both Member States and the
+European Union for strengthening capacities and mitigating the associated risks of travel document
+fraud.
+
+6 of 7
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+www.frontex.europa.eu
+
+Research and Development Unit
+Warsaw, 21 October 2014
+Ref. No. 17640a
+
+

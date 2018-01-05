@@ -1,0 +1,453 @@
+Procedure file
+Basic information
+2016/0126(NLE)
+
+NLE - Non-legislative enactments
+
+Procedure completed
+
+EU/USA Agreement: protection of personal information relating to the
+prevention, investigation, detection, and prosecution of criminal offenses
+See also 2016/3004(RSP)
+Subject
+1.20.09 Protection of privacy and data protection
+6.40.11 Relations with industrialised countries
+7.40.04 Judicial cooperation in criminal matters
+Geographical area
+United States
+
+Key players
+European Parliament
+
+Committee responsible
+LIBE
+
+Rapporteur
+
+Civil Liberties, Justice and Home Affairs
+
+Appointed
+12/09/2016
+
+ALBRECHT Jan Philipp
+Shadow rapporteur
+
+VOSS Axel
+
+LAURISTIN Marju
+
+STEVENS Helga
+
+IN 'T VELD Sophia
+
+ERNST Cornelia
+
+WINBERG Kristina
+Committee for opinion
+AFET
+
+JURI
+
+Foreign Affairs
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Legal Affairs
+
+11/07/2016
+DZHAMBAZKI Angel
+
+Council of the European Union
+Commission DG
+European Commission
+Justice and Consumers
+
+Commissioner
+JOUROVÁ Věra
+
+Key events
+29/04/2016
+
+Initial legislative proposal published
+
+20/05/2016
+
+Act adopted by Council after consultation
+of Parliament
+
+12/07/2016
+
+Legislative proposal published
+
+12/09/2016
+
+Committee referral announced in
+
+COM(2016)0237
+
+Summary
+
+08523/2016
+
+Summary
+
+Parliament, 1st reading/single reading
+24/11/2016
+
+Vote in committee, 1st reading/single
+reading
+
+28/11/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+30/11/2016
+
+Debate in Parliament
+
+01/12/2016
+
+Results of vote in Parliament
+
+01/12/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+01/12/2016
+
+End of procedure in Parliament
+
+10/12/2016
+
+Final act published in Official Journal
+
+A8-0354/2016
+
+Summary
+
+T8-0465/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0126(NLE)
+
+Procedure type
+
+NLE - Non-legislative enactments
+
+Procedure subtype
+
+Consent by Parliament
+See also 2016/3004(RSP)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 016-p2; Treaty on the Functioning
+of the EU TFEU 218-p6a
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+LIBE/8/06417
+
+Documentation gateway
+Initial legislative proposal
+
+COM(2016)0237
+
+29/04/2016
+
+EC
+
+Document attached to the procedure
+
+COM(2016)0238
+
+29/04/2016
+
+EC
+
+Document attached to the procedure
+
+08557/2016
+
+18/05/2016
+
+CSL
+
+Legislative proposal
+
+08523/2016
+
+12/07/2016
+
+CSL
+
+Committee draft report
+
+PE592.131
+
+21/10/2016
+
+EP
+
+PE592.225
+
+09/11/2016
+
+EP
+
+PE594.012
+
+16/11/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0354/2016
+
+28/11/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0465/2016
+
+01/12/2016
+
+EP
+
+Summary
+
+Committee opinion
+Amendments tabled in committee
+
+Final act
+Decision 2016/2220
+OJ L 336 10.12.2016, p. 0001 Summary
+
+JURI
+
+Summary
+
+Summary
+
+2016/0126(NLE) - 29/04/2016 Initial legislative proposal
+PURPOSE: to conclude, on behalf of the European Union, an Agreement between the United States of America and the European Union on
+the protection of personal information relating to the prevention, investigation, detection, and prosecution of criminal offenses.
+PROPOSED ACT: Council Decision.
+ROLE OF THE EUROPEAN PARLIAMENT: Council may adopt the act only if Parliament has given its consent to the act.
+BACKGROUND: in 2006, a High Level Contact Group ("HLCG"), composed of senior officials from the Commission, the Council Presidency
+and the U.S. Departments of Justice, Homeland Security and State, was established to explore ways that would enable the EU and the U.S. to
+work more efficiently together in the exchange of law enforcement information while ensuring that the protection of personal data and privacy
+are guaranteed. The conclusion reached in the HLCG final report of October 20091 was that an international agreement binding both the EU
+and the U.S. to apply agreed common data protection principles for transatlantic data transfers in the law enforcement area was the best
+option.
+On 3 December 2010, the Council adopted a decision authorising the Commission to open negotiations on such an agreement between the
+European Union and the United States of America. On 28 March 2011, the Commission opened negotiations. On 8 September 2015, the
+Parties initialled the text.
+The Agreement should now be concluded on behalf of the European Union.
+CONTENT: the Commission proposes that the Council adopt a decision approving, on behalf of the EU, the Agreement between the United
+States of America and the European Union on the protection of personal information relating to the prevention, investigation, detection, and
+prosecution of criminal offenses.
+The Agreement aims to establish a comprehensive framework of data protection principles and safeguards when personal information is
+transferred for criminal law enforcement purposes between the U.S., on the one hand, and the EU or its Member States on the other . The
+objective is to ensure a high level of personal data protection when transferred between the U.S., on the one hand, and the EU or its Member
+States on the other, for law enforcement purposes and, thereby, enhance cooperation between the parties.
+Whilst not being itself the legal basis for any transfer of personal information to the U.S., the Agreement supplements, where necessary, data
+protection safeguards in existing and future data transfer agreements or national provisions authorising such transfers.
+1) Scope and general objectives: the Agreement aims to establish for the first time, a data protection instrument that covers in a
+comprehensive and consistent manner all data transfers in a given area (i.e. transatlantic data exchanges in the field of police cooperation and
+judicial cooperation in criminal matters).
+Furthermore, the Agreement will substantiate in the transatlantic context the general requirements on international data transfers laid down in
+the future directive on the protection of individuals with regard to the processing of personal data by competent authorities for the purposes of
+prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and the free movement of such
+data adopted on 14 April 2016.
+2) Data protection principles and safeguards: the Agreement covers important principles governing personal data processing as well as key
+safeguards and limitations:
+Purpose and use limitations: processing (which includes transfers) can take place only for explicit and legitimate purposes within the scope of
+the Umbrella Agreement, i.e. the prevention, investigation, detection or prosecution of criminal offences.
+The Agreement ensures the application of the safeguards to the entire "life cycle" of a given data set from the original transfer from the EU to
+its processing by a U.S. competent authority and vice-versa, as well as its possible further processing by another U.S. authority or, in the case
+of a data transfer from the U.S. to a competent authority of the EU or (one of) its Member States, its possible further sharing with/processing
+by another EU or Member State authority.
+Onward transfer: if a U.S. authority intends to further transfer data it has received from the EU or one of its Member States to a third
+country/international organisation not bound by the agreement, it will first have to obtain consent from the law enforcement authority in the EU
+which has originally transferred the data to the United States. This rule equally applies where an authority of the EU or one of its Member
+States intends to further transfer data it has received from the U.S. to a third country/international organisation.
+The provisions expressly take into account the special sensitivity of the transfer in bulk of data of unsuspected persons (e.g. PNR data of every
+passenger taking a flight, independently of any specific suspicion). The Agreement requires that any further transfer of personal information
+other than in relation to specific cases, may only take place under specific conditions that provide due justification for the onward transfer.
+In addition, the Parties to the Agreement must take measures to ensure:
+data quality and integrity of information ;
+information security and notification of an information security incident ;
+effective methods (such as logs) for demonstrating the lawfulness of processing and use of personal information;
+specific retention periods in order to ensure that data will not be retained for longer than necessary and appropriate. The retention
+periods will be subject to periodic reviews and will have to be published or otherwise made publicly available.
+Special categories of data: the processing of personal data revealing racial or ethnic origin, political opinions or religious or other beliefs,
+trade-union membership or personal information concerning health or sexual life, may only take place when appropriate safeguards are in
+place in accordance with law (e.g. masking the information after effecting the purpose for which the data was processed or requiring
+supervisory approval to access the information).
+3) Individual rights: data subjects will be able, for the first time, to avail themselves of rights of general application for any transatlantic transfer
+of personal data in the criminal law enforcement sector, these being:
+the right to access data and the right to rectification of data which concern them ;
+the right to administrative redress if an individual disagrees with the outcome of his or her request for access/rectification of personal
+
+data;
+the right to seek judicial redress for the i) denial of access, ii) denial of rectification or iii) unlawful disclosure by the authorities of the
+other Party
+4) Aspects relating to the application of the Agreement and oversight : measures must be put in pace in order to:
+promote accountability of the authorities processing personal data covered by the Agreement;
+establish one or more public authorities exercising independent oversight functions and powers, including review, investigation and
+intervention;
+ensure cooperation between oversight authorities; national contact points shall be established to assist with the identification of the
+oversight authority to be addressed in a particular case;
+conduct periodic joint reviews of the implementation and effectiveness of the Agreement.
+The Agreement will be of unlimited duration (which is justified by the nature of the Agreement as a framework providing for protections and
+safeguards, as well as in the light of the possibility of suspending and terminating the Agreement).
+
+2016/0126(NLE) - 12/07/2016 Legislative proposal
+PURPOSE: to conclude, on behalf of the European Union, the Agreement between the United States of America and the European Union on
+the protection of personal information relating to the prevention, investigation, detection, and prosecution of criminal offenses.
+PROPOSED ACT: Council Decision.
+ROLE OF THE EUROPEAN PARLIAMENT: Council may adopt the act only if Parliament has given its consent to the act.
+BACKGROUND: the Agreement between the United States of America and the European Union on the protection of personal information
+relating to the prevention, investigation, detection, and prosecution of criminal offenses was signed on 2 June 2016, subject to its conclusion at
+a later date.
+The Agreement should now be approved on behalf of the Union.
+The Union has competence covering all the provisions of the Agreement.
+In particular, the Union adopted Directive (EU) 2016/680 of the European Parliament and of the Council1 on the protection of natural persons
+with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data. This Directive provides
+transfers by Member States subject to appropriate safeguards.
+CONTENT: the draft Council Decision seeks to approve, on behalf of the European Union, the Agreement between the United States of
+America and the European Union on the protection of personal information relating to the prevention, investigation, detection, and prosecution
+of criminal offenses.
+The Agreement aims at establishing a comprehensive framework of data protection principles and safeguards when personal information is
+transferred for criminal law enforcement purposes between the United States, on the one hand, and the European Union or its Member States
+on the other. Its objective is to ensure a high level of data protection and, thereby, enhance cooperation between the parties.
+Whilst not being itself the legal basis for any transfer of personal information to the United States, the Agreement supplements, where
+necessary, data protection safeguards in existing and future data transfer agreements or national provisions authorising such transfers.
+The United Kingdom and Ireland are not bound by the rules laid down in the Agreement which relate to the processing of personal data by the
+Member States when carrying out activities which fall within the scope of Chapter 4 or 5 of Title V of Part Three of the TFEU where the United
+Kingdom and Ireland are not bound by the rules governing the forms of judicial cooperation in criminal matters or police cooperation which
+require compliance with the provisions laid down in the Agreement.
+Denmark is not bound by the rules laid down in the Agreement or subject to their application which relate to the processing of personal data by
+the Member States when carrying out activities which fall within the scope of Chapter 4 or 5 of Title V of Part Three of the TFEU.
+
+2016/0126(NLE) - 28/11/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Civil Liberties, Justice and Home Affairs adopted the report by Jan Philipp ALBRECHT (Greens/EFA, DE) on the draft
+Council decision on the conclusion, on behalf of the European Union, of the Agreement between the United States of America and the
+European Union on the protection of personal information relating to the prevention, investigation, detection, and prosecution of criminal
+offenses.
+The committee recommended that the European Parliament give its consent to the conclusion of the Agreement.
+In the short justification accompanying the draft resolution, it is recalled that, following calls by the European Parliament, on 3 December 2010,
+the Council adopted a decision authorising the Commission to open negotiations on an Agreement between the European Union and the
+United States of America on the protection of personal data when transferred and processed for the purpose of preventing investigating,
+detecting or prosecuting criminal offences, including terrorism, in the framework of police cooperation and judicial cooperation in criminal
+matters.
+On 28 March 2011, the Commission opened negotiations with the U.S. Department of Justice. Over the course of the negotiations, the
+Parliament was regularly informed.
+The text of the agreement was initialled on 8 September 2015.
+
+Following the adoption by the U.S. Congress of the Judicial Redress Act on 24 February 2016, on 18 July 2016, the Council decided to
+request the European Parliament to give its consent to the conclusion of the Agreement.
+The purpose of the Agreement is to ensure a high level of protection of the fundamental rights and freedoms of individuals, in particular the
+right to privacy with the respect to the processing of personal data when personal data are transferred to competent authorities of the
+European Union and its Member States and the US for these purposes.
+The Agreement contains provisions setting out the basic data protection principles, namely:
+purpose and use limitations of personal data transferred;
+data quality and integrity and retention periods;
+rules on onward transfers, both to domestic authorities of the contracting party and to third country authorities or international
+organisation not bound by the Agreement. In the latter case, the prior consent of the law enforcement authority originally transferring
+the data is required.
+One of the main novelties of the Umbrella Agreement is that it will allow the citizens of each Party to be able to seek judicial redress for the i)
+denial of access, ii) denial of rectification or iii) unlawful disclosure by the authorities of the other Party . These rights are exercised pursuant to
+the law of the State where they are invoked.
+In order to overcome the lack of rights for non-US citizens, the US Congress adopted the Judicial Redress Act on 24 February 2016. This Act
+will extend to the citizens of covered countries (e.g. the Member States) some judicial redress grounds provided under the 1974 US Privacy
+Act.
+Regarding the exemptions possible under Section 552a(j)(2) of the US Privacy Act, the data subject rights conferred by the Umbrella
+Agreement are formulated in an unconditional manner and accordingly, the US authorities may not invoke exemptions of the US Privacy Act
+for law enforcement databases to deny an effective judicial redress to EU citizens as it is currently the case for law enforcement databases
+such as for PNR data or the TFTP.
+The Umbrella Agreement provides that the Parties shall have in place one or more public oversight authorities that exercise independent
+oversight functions and powers, including review, investigation and intervention, where appropriate on their own initiative. It shall be subject to
+periodic joint reviews.
+The Rapporteur concluded that the agreement constitutes major progress for the protection of personal data when transferred between the EU
+and the US in the context of law enforcement activities.
+
+2016/0126(NLE) - 01/12/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 481 votes to 75, with 88 abstentions, a legislative resolution on the draft Council decision on the
+conclusion, on behalf of the European Union, of the Agreement between the United States of America and the European Union on the
+protection of personal information relating to the prevention, investigation, detection, and prosecution of criminal offenses.
+In line with the Committee on Civil Liberties, Justice and Home Affairs, the European Parliament gave its consent to the conclusion of the
+Agreement.
+The Agreement aims at establishing a comprehensive framework of data protection principles and safeguards when personal information is
+transferred for criminal law enforcement purposes between the United States, on the one hand, and the European Union or its Member States
+on the other. Its objective is to ensure a high level of data protection.
+
+2016/0126(NLE) - 02/12/2016 Final act
+PURPOSE: to conclude, on behalf of the European Union, an Agreement between the United States of America and the European Union on
+the protection of personal information relating to the prevention, investigation, detection, and prosecution of criminal offences.
+LEGISLATIVE ACT: Council Decision (EU) 2016/2220 on the conclusion, on behalf of the European Union, of the Agreement between the
+United States of America and the European Union on the protection of personal information relating to the prevention, investigation, detection,
+and prosecution of criminal offences.
+CONTENT: under this Decision, the Agreement between the United States of America and the European Union on the protection of personal
+information relating to the prevention, investigation, detection, and prosecution of criminal offences is approved on behalf of the European
+Union. It was signed on 2 June 2016, subject to its conclusion at a later date.
+Purpose: the Agreement aims to ensure a high level of protection of personal information and enhance cooperation between the United States
+and the European Union and its Member States, in relation to the prevention, investigation, - detection or prosecution of criminal offences,
+including terrorism.
+For this purpose, this Agreement establishes the framework for the protection of personal information when transferred between the United
+States, on the one hand, and the European Union or its Member States, on the other.
+This Agreement in and of itself shall not be the legal basis for any transfers of personal information. A legal basis for such transfers shall
+always be required. The Agreement supplements data protection safeguards in existing and future data transfer agreements or national
+provisions authorising such transfers.
+Data protection principles and safeguards: the Agreement covers important principles governing personal data processing as well as key
+safeguards and limitations:
+purpose and use limitations: the transfer of personal information shall be for specific purposes authorised by the legal basis for the
+transfer and the further processing of personal information by a Party shall not be incompatible with the purposes for which it was
+
+transferred;
+onward transfer: where a Competent Authority of one Party has transferred personal information relating to a specific case to a
+Competent Authority of the other Party, that information may be transferred to a State not bound by the present Agreement or
+international body only where the prior consent of the Competent Authority originally sending that information has been obtained;
+maintaining quality and integrity of information: the Parties shall take reasonable steps to ensure that personal information is
+maintained with such accuracy, relevance, timeliness and completeness as is necessary and appropriate for lawful processing of the
+information;
+- information security and notification of an information security incident: the Parties shall ensure that they have in place appropriate technical,
+security and organisational arrangements for the protection of personal information against all of the following: (a) accidental or unlawful
+destruction; (b) accidental loss; and (c) unauthorised disclosure, alteration, access, or other processing;
+- the setting of precise retention periods to ensure that data will not be retained longer than is necessary and appropriate. Processing of
+personal information revealing racial or ethnic origin, political opinions or religious or other beliefs, trade union membership or personal
+information concerning health or sexual life shall only take place under appropriate safeguards in accordance with law.
+The Parties shall ensure that any individual is entitled to seek access to his or her personal information and request a rectification if they
+consider it to be either inaccurate or has been improperly processed. They shall also ensure that any individual is entitled to seek
+administrative redress where he or she believes that his or her request for access has been improperly denied.
+ENTRY INTO FORCE: 10.12.2016.
+
+

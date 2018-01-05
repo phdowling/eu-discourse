@@ -1,0 +1,493 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Decision
+
+2013/0233(COD)
+
+Procedure completed
+
+Active and Assisted Living Research and Development Programme:
+participation of the Union
+See also 2011/0401(COD)
+Subject
+3.30.06 Information and communication technologies
+3.50.01.05 Research specific areas
+4.10.07 The elderly
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+Verts/ALE TURMES Claude
+
+15/10/2013
+
+Shadow rapporteur
+PPE PATRICIELLO Aldo
+S&D BADIA I CUTCHET Maria
+ALDE HALL Fiona
+ECR FORD Vicky
+Committee for opinion
+
+Rapporteur for opinion
+
+BUDG
+
+Budgets
+
+The committee decided not to
+give an opinion.
+
+EMPL
+
+Employment and Social Affairs
+
+The committee decided not to
+give an opinion.
+
+FEMM
+
+Women's Rights and Gender Equality
+
+S&D PALIADELI Chrysoula
+
+Council of the European Union
+Commission DG
+European Commission
+
+Appointed
+
+05/09/2013
+
+Commissioner
+
+Communications Networks, Content and Technology KROES Neelie
+
+European Economic and
+Social Committee
+
+Key events
+10/07/2013
+
+Legislative proposal published
+
+10/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/09/2013
+
+Debate in Council
+
+23/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+31/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/04/2014
+
+Results of vote in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+COM(2013)0500
+
+Summary
+
+A7-0076/2014
+
+Summary
+
+T7-0363/2014
+
+Summary
+
+06/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/05/2014
+
+Final act signed
+
+15/05/2014
+
+End of procedure in Parliament
+
+07/06/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0233(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Decision
+See also 2011/0401(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 188-p2; Treaty on the Functioning
+of the EU TFEU 185
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/13397
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0500
+
+10/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0251
+
+10/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0252
+
+10/07/2013
+
+EC
+
+Committee draft report
+
+PE523.017
+
+12/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.770
+
+06/12/2013
+
+EP
+
+PE522.834
+
+18/12/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0076/2014
+
+31/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0363/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Committee opinion
+
+FEMM
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Decision 2014/554
+
+Summary
+
+OJ L 169 07.06.2014, p. 0014 Summary
+
+2013/0233(COD) - 10/07/2013 Legislative proposal
+PURPOSE: to allow the participation of the Union in the Active and Assisted Living (AAL) Research and Development Programme jointly
+undertaken by several Member States.
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: demographic ageing has been identified in the Europe 2020 strategy as both a challenge and an opportunity for smart,
+sustainable, and inclusive growth. The flagship initiatives A Digital Agenda for Europe and Innovation Union both address demographic ageing
+as a priority. In its communication entitled The demographic future of Europe from challenge to opportunity, the Commission underlined that
+increased use of new technologies could help to control costs, improve well-being and promote the active participation in society of elderly
+people, as well as improving the competitiveness of Union economy.
+Decision No 742/2008/EC of the European Parliament and of the Council on the Community's participation in a research and development
+programme undertaken by several Member States aimed at enhancing the quality of life of older people through the use of new information
+and communication technologies provides for a Community financial contribution to the Ambient Assisted Living Joint Research and
+Development Programme (AAL JP) matching that of the Member States but not exceeding EUR 150 000 000 for the duration of the Seventh
+Framework Programme (2007-2013).
+An interim evaluation carried out in 2010 concluded that the AAL JP had achieved good progress towards its objectives and remarkable
+results. The Commission considers therefore that it should be continued beyond the current funding period (2013) because of its clear added
+value, in particular for SMEs, in creating the necessary critical mass in research and innovation at European level in the sector for healthy
+ageing. The new AAL JP would build upon the results of the previous AAL programme, provide for the greater involvement of users (a
+weakness identified in the evaluation), and include more flexibility in its implementation.
+It should be noted that the AAL programme is a major component for supporting the European Innovation Partnership on Active and Healthy
+Ageing with ICT-based innovation.
+IMPACT ASSESSMENT: the impact assessment report took the following options into consideration:
+Option 1 - status quo: the continuation of the AAL JP for the years 2014 2020 along the same lines as the current AAL JP;
+Option 2 - no AAL JP2: no dedicated EU programme and cofinancing to bring together national research and innovation programmes
+in the field of ICT for ageing well at the EU level after 2013;
+Option 3 - follow-up to AAL JP1: this option would comprise an adapted scope and improved implementation. The scope of the AAL
+JP2 programme would be aligned to the full scope of the EIP AHA. The level of EC financing from Horizon 2020 would remain the
+same as under the FP7. This option would also entail higher involvement of end-users, broadening the basis of funding to all actors,
+and improving the operational performance.
+The AAL JP General Assembly concluded by vote that continuing the programme is of strategic importance and 15 out of 23 currently
+participating countries stated their preferred scenario is the Option 3.
+LEGAL BASIS: Article 185 and the second paragraph of Article 188 of the Treaty on the functioning of the European Union (TFEU).
+CONTENT: the proposal for a Decision seeks to provide the legal means for the European Union to participate in the Active and Assisted
+Living (AAL) Research and Development Programme jointly undertaken by Austria, Belgium, Cyprus, Denmark, Spain, France, Hungary,
+Ireland, Luxembourg, the Netherlands, Poland, Portugal, Romania, Slovenia, Sweden, Switzerland and the United Kingdom.
+The AAL programme has the following objectives:
+accelerate the emergence of innovative ICT-based products and services for active and healthy ageing at home, in the community, or
+at work, thus improving the quality of life, autonomy, participation in social life, skills or employability of older adults and increasing the
+efficiency of health and social care provision;
+maintain a critical mass of trans-European applied research, development and innovation for ICT based products and services for
+ageing well, in particular involving SMEs and users;
+leverage private investments and improve conditions for industrial exploitation by providing a coherent framework for developing
+European approaches and solutions including common minimum standards that meets varying national and regional social
+preferences and regulatory aspects, respecting the privacy and dignity of the older adults and, where applicable, supporting access to
+services in rural and peripheral areas or benefiting other groups of people, such as people with disabilities.
+The proposal provides for derogations from the Horizon 2020 programmes Rules for Participation and Dissemination in order to create a
+favourable environment for the participation of SMEs.
+BUDGETARY IMPLICATION: the maximum amount EU contribution shall be EUR 175 million from the Horizon 2020 DG Connect budget
+allocated to Societal Challenge 1, theme health, demographic change and wellbeing.
+
+2013/0233(COD) - 31/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Claude TURMES (Greens/EFA, LU) on the proposal for a decision of
+the European Parliament and of the Council on the participation of the Union in the Active and Assisted Living (AAL) Research and
+Development Programme jointly undertaken by several Member States.
+
+The parliamentary committee recommended that the position adopted by the European Parliament at first reading under the ordinary
+legislative procedure should amend the Commissions proposal as follows:
+Union's financial contribution: the maximum Union financial contribution to the AAL Programme covering administrative costs and operational
+costs shall be EUR 166 250 000 (as opposed to EUR 175 000 000 in the Commissions proposal). The contribution shall be paid from
+appropriations in the general budget of the Union allocated to the relevant parts of the Specific Programme implementing the Horizon 2020
+Framework Programme.
+Any entity from any other country associated with the Horizon 2020 Framework Programme may participate in the indirect actions of the AAL
+Programme at any time provided it provides for its own co-financing.
+Programme objectives: the programme shall among other things:
+·
+
+accelerate the emergence of relevant and affordable innovative integrated solutions, products and services, including ICT-based, for
+people with disabilities and for active and healthy ageing, at home, in the community, or at work, aiming at improving their quality of
+life, social well-being and inclusion;
+
+·
+
+support development of solutions that contribute to the independence and alleviation of a sense of social isolation of older people ,
+whereby the ICT component should not replace human contact, but is complementary to it;
+
+·
+
+develop cost-effective and energy efficient solutions, which are compatible with varying social preferences, socio-economic factors (
+including energy poverty, social inclusion), gender aspects and ensure the protection and security of personal data. Members argued
+for the mandatory implementation of the concept of Design for All to ensure the development and deployment of products that are
+fully accessible for older people, people with disabilities and the broader population as a whole.
+
+·
+
+ensure that all ICT-product and services to be supported shall include features that take account of protection of privacy from the
+design stage;
+
+·
+
+protect older people from high energy bills and promote solutions improving energy efficiency, including from the perspective of the
+end-user.
+
+The AAL programme shall otherwise: i) ensure the effective promotion of gender equality; ii) establish a favourable environment for the
+participation of small and medium-sized enterprises.At least one SME shall be part of each consortium receiving grants under the annual calls.
+The programme should aim at dedicating 20% of its budget allocated for indirect actions to SMEs.
+Conditions applicable to the Unions financial contribution: Members stressed the need to ensure there be a strong coherence between the
+activities of the private-public partnerships and the research priorities defined in the Horizon 2020 Framework Programme, such as open
+access, equality between men and women and non-discrimination, as well as ethical principles.
+Rules of participation: the report proposes that the time to contract shall be published and limited to five months.
+By 31st December 2015, the Participating States together with the Ambient Assisted Living Association (AALA) shall evaluate the existing
+financing rules and adopt a single set of financing rules to apply to grants signed as of 2016, aiming at reducing the fragmentation and
+complexities involved with the use of financing rules of different national programmes.
+Furthermore, in accordance with the principles of transparency and non-discrimination, calls for proposals organised by AAL JP shall be
+published on the web-based Horizon 2020 Participant Portal.
+Evaluation: the Commission shall organise an independent interim evaluation of the AAL Programme by 30 June 2017 and report to the
+European Parliament and to the Council by 31 December 2017. The result of the independent interim evaluation shall be taken into account in
+the interim evaluation of Horizon 2020 Framework Programme.
+In order to respond to unforeseen situations or to new developments and needs the Commission may, following the interim evaluation of
+Horizon 2020, review the programme budget within the annual budgetary procedure.
+
+2013/0233(COD) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 628 votes to 25 with 10 abstentions, a legislative resolution on the proposal for a decision of the
+European Parliament and of the Council on the participation of the Union in the Active and Assisted Living (AAL) Research and Development
+Programme jointly undertaken by several Member States.
+Parliament adopted its position at first reading under the ordinary legislative procedure. The amendments adopted in plenary were the result of
+a compromise between Parliament and Council. They amend the Commissions proposal as follows:
+Union's financial contribution: the maximum Union financial contribution to the AAL Programme covering administrative costs and operational
+costs shall be EUR 175 000 000. The contribution shall be paid from appropriations in the general budget of the Union allocated to the relevant
+parts of the Specific Programme implementing the Horizon 2020 Framework Programme.
+In order to take into account the duration of Horizon 2020, calls for proposals under the AAL Programme should be launched at the latest by
+31 December 2020.
+Any Member State other than participating states and any other country associated to Horizon 2020 may apply to join the AAL Programme at
+any time, provided it provides for its own co-financing.
+Programme objectives: the programme will among other things:
+accelerate the emergence and take-up of relevant, affordable and integrated innovative ICT-based solutions for active and healthy
+ageing at home, in the community, or at work, thus improving the quality of life, autonomy, social inclusion, participation in social life,
+skills or employability of older adults and contributing to increasing the efficiency and effectiveness of health and social care provision;
+support the development of solutions that contribute to the independence and alleviation of a sense of social isolation of older adults ,
+
+in such a way that the ICT component does not reduce human contact, but is complementary to it;
+develop cost-effective, accessible and, where relevant, energy-efficient solutions, which are compatible with varying social
+preferences, socio-economic factors (including energy poverty, social inclusion), gender aspects, and regulatory aspects, including the
+protection and security of personal data by applying state-of-the-art privacy-by-design.
+The AAL Programme should ensure the effective promotion of gender equality as set out in Horizon 2020.
+Agreements between the Union and the AALA: these should provision for the publication of calls for proposals by the AALA in particular on the
+single portal for participants, as well as through other Horizon 2020 electronic means of dissemination managed by the Commission.
+The amended text also stressed the need to:
+reduce the administrative charges and avoid double audits and disproportionate documentation and reporting;
+assess more precisely the need for white coat jobs (in which about 20 million people across the Union were employed) and for
+investments in modern skills, such as using information technologies.
+Evaluation: by 30 June 2017 the Commission will carry out an interim evaluation of the AAL Programme and send that report to the European
+Parliament and to the Council by 31 December 2017. The result of the interim evaluation of AAL Programme shall be taken into account in the
+interim evaluation of Horizon 2020.
+
+2013/0233(COD) - 15/05/2014 Final act
+PURPOSE: to directly support and complement the Union policies in the field of active and healthy ageing.
+LEGISLATIVE ACT: Decision No 554/2014/EU of the European Parliament and of the Council on the participation of the Union in the Active
+and Assisted Living Research and Development Programme jointly undertaken by several Member States (ALA Programme).
+CONTENT: this Decision is part of a package of four legal acts for a new generation of public -private partnerships that will allow large-scale,
+long-term innovation projects to be carried out under the umbrella of Horizon 2020, the EU's research and innovation framework programme.
+Three other public-public partnerships will be further developed on research programmes jointly undertaken by Member States with the
+participation of the Union in the areas of:
+·
+
+a second research and development programme aimed at supporting research and development performing small and medium-sized
+enterprises (Eurostars-2);
+
+·
+
+a European research and innovation programme on metrology (EMPIR) ;
+
+·
+
+a second partnership programme between European and developing countries countries on clinical trials ( EDCTP-II).
+
+Objective: the Decision establishes the rules for participation for the Union in the Active and Assisted Living Research and Development
+Programme ("AAL Programme") jointly undertaken by Austria, Belgium, Cyprus, Denmark, France, Hungary, Ireland, Luxembourg, the
+Netherlands, Poland, Portugal, Romania, Slovenia, Spain, Sweden, Switzerland and the United Kingdom, in accordance with the conditions
+laid down in the Decision.
+Any Member State and any other country associated to Horizon 2020 may apply to join the AAL Programme at any time, provided it fulfils the
+conditions regarding financial contribution.
+Programme objectives: the ALA programme has the following objectives:
+·
+
+accelerate the emergence and take-up of relevant, affordable and integrated innovative ICT-based solutions for active and healthy
+ageing at home, in the community, or at work, thus improving the quality of life, autonomy, social inclusion, participation in social life,
+skills or employability of older adults and contributing to increasing the efficiency and effectiveness of health and social care
+provision;
+
+·
+
+support the development of solutions that contribute to the independence and alleviation of a sense of social isolation of older adults,
+in such a way that the ICT component does not reduce human contact, but is complementary to it;
+
+·
+
+develop cost-effective, accessible and energy-efficient solutions, which are compatible with varying social preferences,
+socio-economic factors (including energy poverty, social inclusion), gender aspects, and the protection and security of personal data.
+
+The AAL Programme should also ensure the promotion of gender equality and comply with ethical principles as set out in Horizon 2020.
+Union financial contribution: the Union financial contribution covering administrative costs and operational costs shall be up to
+EUR 175 000 000. This contribution shall be paid from appropriations allocated to the relevant parts of the Specific Programme implementing
+Horizon 2020.
+Implementation: the Participating States have agreed on the implementation structure for the AAL Programme and set up in 2007 the "Ambient
+Assisted Living" aisbl, an international non-profit association with legal personality established under Belgian law ('AALA'). The AALA should
+be used as the implementation structure and should take the role as allocation and monitoring body of the AAL Programme. It should manage
+the Union's financial contribution and should ensure an efficient implementation of the AAL Programme.
+Calls for proposals should be launched at the latest by 31 December 2020. In duly justified cases they may be launched by 31 December
+2021. Calls for proposals should also be published on the single portal for participants as well as through other Horizon 2020 electronic means
+of dissemination managed by the Commission.
+In order to protect the Unions financial interests, the Commission should have the right to reduce, suspend or terminate the Unions financial
+contribution if the programme is implemented inadequately.
+Evaluation: by 30 June 2017, the Commission shall carry out an interim evaluation of AAL. It shall send that report to the European Parliament
+and to the Council by 31 December 2017. The result of the interim evaluation of the programme shall be taken into account in the interim
+
+evaluation of Horizon 2020.
+ENTRY INTO FORCE: 27.06.2014.
+
+

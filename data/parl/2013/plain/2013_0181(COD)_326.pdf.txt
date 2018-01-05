@@ -1,0 +1,373 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0181(COD)
+
+Awaiting committee decision
+
+Statistics for the macroeconomic imbalances procedure
+See also Regulation (EU) No 1176/2011 2010/0281(COD)
+Subject
+5.10.01 Convergence of economic policies, public deficit, interest rates
+8.60 European statistical legislation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+22/07/2014
+
+LUCKE Bernd
+Shadow rapporteur
+
+MALETIĆ Ivana
+
+BAYET Hugues
+
+TREMOSA I
+BALCELLS Ramon
+
+VIEGAS Miguel
+
+LAMBERTS Philippe
+Former committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Committee for opinion
+EMPL
+
+Employment and Social Affairs
+
+REGI
+
+Regional Development
+
+ECR EPPINK Derk Jan
+
+18/06/2013
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Former committee for opinion
+EMPL
+
+Employment and Social Affairs
+
+S&D BERÈS Pervenche
+
+03/07/2013
+
+REGI
+
+Regional Development
+
+ALDE GODMANIS Ivars
+
+20/06/2013
+
+ALDE MĂNESCU Ramona
+Nicole
+
+20/06/2013
+
+Council of the European Union
+Commission DG
+European Commission
+Economic and Financial Affairs
+
+Commissioner
+MOSCOVICI Pierre
+
+Key events
+07/06/2013
+
+Legislative proposal published
+
+13/06/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+COM(2013)0342
+
+Summary
+
+24/02/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+11/03/2014
+
+Results of vote in Parliament
+
+11/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+11/03/2014
+
+Matter referred back to the committee
+responsible
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+25/05/2016
+
+Debate in Council
+
+A7-0143/2014
+
+Summary
+
+T7-0181/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0181(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+See also Regulation (EU) No 1176/2011 2010/0281(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Awaiting committee decision
+
+Committee dossier
+
+ECON/8/00179
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0342
+
+07/06/2013
+
+EC
+
+Summary
+
+CON/2013/0072
+OJ C 014 18.01.2014, p. 0005
+
+10/10/2013
+
+ECB
+
+Summary
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0143/2014
+
+24/02/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, partial vote at 1st
+reading/single reading
+
+T7-0181/2014
+
+11/03/2014
+
+EP
+
+Summary
+
+European Central Bank: opinion, guideline, report
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+2013/0181(COD) - 07/06/2013 Legislative proposal
+PURPOSE: to set in place a common and reliable procedure for the provision of relevant data for the macroeconomic imbalances procedure
+(MIP).
+PROPOSED ACT: Regulation of the European Parliament and the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: this initiative fits into the political context of improving of the economic governance of the Union which requires an ability to
+detect, prevent and correct macroeconomic imbalances.
+
+For this purpose, Regulation (EU) No 1176/2011 set out detailed rules for the early detection, prevention and correction of macroeconomic
+imbalances which emerge or persist in the euro area and the EU (the Macroeconomic Imbalances Procedure or MIP).
+The MIP and its scoreboard of indicators require efficient statistical quality monitoring of the indicators and of the underlying statistical
+information.
+The ECOFIN Councils of 8 November 2011 and 13 November 2012 underlined the importance for the credibility of the MIP of having timely
+statistics of the highest quality for inclusion in the scoreboard and invited the Commission (Eurostat) to take all necessary initiatives to assure
+a reliable procedure for the compilation of these statistics.
+IMPACT ASSESSMENT: no impact assessment was undertaken. The successful implementation of this Regulation will mainly require close
+cooperation from Member States statistical authorities with a view to improving the quality of the MIP relevant data and the underlying
+statistical information. No additional data collection mechanisms are foreseen.
+LEGAL BASIS: Article 338(1) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the proposed Regulation sets out the rules governing the way the statistical data that are relevant for the macroeconomic
+imbalances procedure are provided. These rules relate to the compilation, quality monitoring and release of the indicators in the
+macroeconomic imbalances procedure scoreboard.
+This Regulation will cover the monitoring of data quality; the compilation and transmission of data and metadata, and the
+reporting/communication on the data to the different stakeholders and to the European Parliament and the Council.
+The Regulation will introduce new tasks for the Commission (Eurostat) on the following main aspects:
+validating the quality of the MIP relevant data in relation to quality criteria that either exist already or will be further specified in certain
+areas;
+structuring, collecting and analysing Member States compilation sources and methods; and
+developing and implementing an improvement action plan.
+The work on the MIP relevant data will need to be supported by good website publication and dissemination arrangements, as well as release
+actions.
+The implementation of the proposed Regulation with a view to providing high quality statistics will require close cooperation with Member
+States statistical authorities covering both the scoreboard data and the underlying statistical information.
+BUDGETARY IMPLICATION: additional resources will be necessary in order to assure the high quality requirements for the MIP-relevant data.
+This has meant introducing a staff bid for 21 posts (12 posts and 9 external personnel) to cover the tasks required of the Commission
+(Eurostat).
+The overall impact on the EU budget is estimated at EUR 9.788 million for the period 2013-2016.
+Moreover, the Commission will need assistance from Member States experts in the context of the MIP missions covered by this proposal. At
+this stage, it is difficult to give a precise estimate of costs, in particular because all possible synergies will be sought with Eurostat missions in
+related areas.
+
+2013/0181(COD) - 10/10/2013 European Central Bank: opinion, guideline, report
+Opinion of the European Central Bank on a proposal for a regulation of the European Parliament and of the Council on the provision and
+quality of statistics for the macroeconomic imbalances procedure.
+The ECB underlines the importance of ensuring reliable statistical data for the macroeconomic imbalances procedure (MIP) established under
+Regulation (EU) No 1176/2011 of the European Parliament and of the Council on the prevention and correction of macro-economic
+imbalances.
+Within this context, the Commission has started a legislative initiative to assure the statistical quality of the MIP. The initiative aims to secure
+that the compilation, monitoring and release of the macro-economic and financial statistics relevant for the elaboration of MIP scoreboard
+indicators is conducted in a manner that delivers sound and independent figures.
+The proposed regulation provides that the Commission may carry out missions to investigate any problems and propose that the Council
+imposes fines on Member States that misrepresent MIP relevant data intentionally or by serious negligence.
+European Statistical System (ESS) and European System of Central Banks (ESCB) quality assurance of the statistics underlying the MIP: the
+quality assurance of macroeconomic and financial statistics is secured by the ESS and the ESCB as producers of European statistics.
+The ECB notes that the quality framework suggested by the proposed regulation targets statistical data for the MIP, while neglecting other
+economic and monetary policy purposes. It thereby seems to establish parallel quality assessments instead of integrating the statistical data
+for the MIP into the existing quality frameworks.
+Consequently, the ECB recommends that rather than introducing a new quality assurance framework by means of the proposed regulation, the
+already existing quality assurance arrangements of the ESS and the ESCB should also be applied to statistical data for the MIP.
+Enhancing quality assurance of statistics through a closer cooperation of the ESS and ESCB: since the responsibilities for the production of
+the macroeconomic and financial statistics underlying the indicators for the MIP are shared between the ESS and the ESCB, close cooperation
+between the two systems is necessary to assure their quality.
+The ECB points to the work initiated by the Committee on Monetary, Financial and Balance of Payments Statistics (CMFB), with a view to
+assessing the quality and comparability of the MIP relevant data under the current statistical legal framework. Once the work of the CMFB has
+progressed, practical arrangements for the cooperation between the ESS and the ESCB on quality assurance frameworks for statistical data
+for the MIP could be laid down.
+
+2013/0181(COD) - 24/02/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Derk Jan EPPINK (ECR, BE) on the proposal for a regulation of the
+European Parliament and of the Council on the provision and quality of statistics for the macroeconomic imbalances procedure (MIP).
+The parliamentary committee recommended that the position of the European Parliament adopted at first reading under the ordinary legislative
+procedure modify the Commission proposal as follows.
+Quality of data: Members underlined that reliable, accurate and useful statistical data are essential for effective surveillance of macroeconomic
+imbalances. To guarantee this goal, the independence of Eurostat should be strengthened in line with the European Parliament's proposals for
+the revision of Regulation (EC) No 223/2009 of the European Parliament and of the Council.
+Quality assurance procedures: the procedures put in place in the framework of this Regulation shall build on and take into consideration best
+practices in existing quality assurance procedures. They shall not result in the duplication of quality assurance efforts nor parallel data series.
+Transmission of data to the Commission: in order to clarify the process for transmission, reporting and communication of the data, Members
+suggested including (i) a cut-off date when the Commission (Eurostat) would extract the time series needed for the MIP Scoreboard and (ii) a
+publication date for the news release of the MIP Scoreboard indicators.
+Dialogue missions to Member States: in order to improve the effectiveness of the proposed procedures, the report suggested: i) to call the
+missions dialogue missionsin the Member States; ii) to clarify that the aim of these missions is to investigate in depth the quality of the data; iii)
+to ensure the right selection and distribution as well as a rotation of experts in good time, and iv) to provide that the general provision in
+relation to the dialogue missions does not apply where the sectoral legislation already foresees these visits.
+Provision of data by the Commission: when the Commission (Eurostat) expresses a reservation on the quality of a Member State's MIP
+relevant data, the Member State concerned shall be given the opportunity to defend its position.
+Sanctions: Members suggested that the Council, acting on the recommendations of the Commission, might decide, via a two-step procedure:
+1) to impose an interest-bearing deposit and subsequently, if the Commission assesses that the Member States has not complied with the
+corrective actions, as a last resort measure, 2) inflict a fine on a Member State that has acted intentionally to misrepresent the data or in the
+case of serious negligence which has impacted on the ability of the Commission to make a true and fair assessment.
+The Member State shall report to the Commission within a specified deadline on the corrective actions necessary to address and remedy the
+misrepresentation or serious negligence as well as to prevent similar circumstances to arise in future. The report shall be made public.
+The interest-bearing deposit shall be effective, dissuasive and proportionate to the nature, seriousness and duration of the misrepresentation
+and the amount of the interest bearing shall not exceed 0.05% of the GDP in the preceding year of the Member State concerned.
+Role of Parliament: the Commission shall inform the competent Committee of the European Parliament of any investigation or
+recommendation made pursuant to this regulation. The competent committee of the European Parliament may offer a Member State which is
+the subject of a Commission recommendation an opportunity to participate in an exchange of views.
+Report: the Commission (Eurostat) shall report at least annually to the European Parliament and to the Council on the activities carried out by
+the Commission (Eurostat) for the purpose of implementing this Regulation in the context of the European Semester.
+
+2013/0181(COD) - 11/03/2014 Text adopted by Parliament, partial vote at 1st reading/single
+reading
+The European Parliament adopted by 614 votes to 56 with 6 abstentions, certain amendments to the proposal for a regulation of the European
+Parliament and of the Council on the provision and quality of statistics for the macroeconomic imbalances procedure (MIP).
+The matter had been referred back to the competent committee. The vote had been postponed to a later session.
+The main amendments adopted in plenary were as follows:
+Quality of data: Parliament underlined that reliable, accurate and useful statistical data are essential for effective surveillance of
+macroeconomic imbalances. To guarantee this goal, the independence of Eurostat should be strengthened in line with the European
+Parliament's proposals for the revision of Regulation (EC) No 223/2009 of the European Parliament and of the Council.
+Quality assurance procedures: the procedures put in place in the framework of this Regulation shall build on and take into consideration best
+practices in existing quality assurance procedures. They shall not result in the duplication of quality assurance efforts nor parallel data series.
+Transmission of data to the Commission: in order to clarify the process for transmission, reporting and communication of the data, Members
+suggested including a cut-off date for the extraction by the Commission (Eurostat) of the MIP relevant data to compute for each Member State
+the MIP scoreboard indicators and set up a reference database on MIP relevant data.
+The Commission (Eurostat) shall make public the MIP relevant data used for the purposes of the macroeconomic imbalances procedure. It
+shall determine the publication date for the news release and communicate it to Member States within ten working days after the cut-off date
+Dialogue missions to Member States: in order to improve the effectiveness of the proposed procedures, Parliament wanted: i) to call the
+missions dialogue missions» in the Member States; ii) to clarify that the aim of these missions is to investigate in depth the quality of the data;
+iii) to ensure the right selection and distribution as well as a rotation of experts in good time, and iv) to provide that the general provision in
+relation to the dialogue missions does not apply where the sectoral legislation already foresees these Commission visits to Member States.
+Provision of data by the Commission: when the Commission (Eurostat) expresses a reservation on the quality of a Member State's MIP
+relevant data, the Member State concerned shall be given the opportunity to defend its position.
+Sanctions: Members suggested that the Council, acting on the recommendations of the Commission, might decide, via a two-step procedure:
+
+1) to impose an interest-bearing deposit and subsequently, if the Commission assesses that the Member States has not complied with the
+corrective actions, as a last resort measure, 2) inflict a fine on a Member State that has acted intentionally to misrepresent the data or in the
+case of serious negligence which has impacted on the ability of the Commission to make a true and fair assessment.
+The Member State shall report to the Commission within a specified deadline on the corrective actions necessary to address and remedy the
+misrepresentation or serious negligence as well as to prevent similar circumstances to arise in future. The report shall be made public.
+The interest-bearing deposit shall be effective, dissuasive and proportionate to the nature, seriousness and duration of the misrepresentation
+and the amount of the interest bearing shall not exceed 0.05% of the GDP in the preceding year of the Member State concerned.
+Role of Parliament: the Commission shall inform the competent Committee of the European Parliament of any investigation or
+recommendation made pursuant to this regulation. The competent committee of the European Parliament may offer a Member State which is
+the subject of a Commission recommendation an opportunity to participate in an exchange of views.
+Report: the Commission (Eurostat) shall report at least annually to the European Parliament and to the Council on the activities carried out by
+the Commission (Eurostat) for the purpose of implementing the Regulation in the context of the European Semester.
+
+

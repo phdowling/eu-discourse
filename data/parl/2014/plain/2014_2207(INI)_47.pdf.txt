@@ -1,0 +1,392 @@
+Procedure file
+Basic information
+2014/2207(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Safer healthcare in Europe: improving patient safety and fighting
+antimicrobial resistance
+
+Subject
+4.20.01 Medicine, diseases
+4.20.06 Health services, medical institutions
+4.20.07 Medical and para-medical professions
+4.60.08 Safety of products and services, product liability
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Rapporteur
+
+Environment, Public Health and Food Safety
+
+Appointed
+12/11/2014
+
+PEDICINI Piernicola
+Shadow rapporteur
+
+BUŞOI Cristian-Silviu
+
+SCHALDEMOSE
+Christel
+
+PAULSEN Marit
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Health and Food Safety
+
+ANDRIUKAITIS Vytenis Povilas
+
+Key events
+19/06/2014
+
+Non-legislative basic document published
+
+17/12/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+14/04/2015
+
+Vote in committee, 1st reading/single
+reading
+
+04/05/2015
+
+Committee report tabled for plenary,
+single reading
+
+18/05/2015
+
+Debate in Parliament
+
+19/05/2015
+
+Results of vote in Parliament
+
+19/05/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+19/05/2015
+
+End of procedure in Parliament
+
+Technical information
+Procedure reference
+
+2014/2207(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+COM(2014)0371
+
+Summary
+
+A8-0142/2015
+
+Summary
+
+T8-0197/2015
+
+Summary
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/8/01521
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2014)0371
+
+19/06/2014
+
+EC
+
+Summary
+
+Committee draft report
+
+PE549.124
+
+04/02/2015
+
+EP
+
+Amendments tabled in committee
+
+PE549.474
+
+09/03/2015
+
+EP
+
+Committee report tabled for plenary, single reading
+
+A8-0142/2015
+
+04/05/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0197/2015
+
+19/05/2015
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2015)470
+
+24/09/2015
+
+2014/2207(INI) - 19/06/2014 Non-legislative basic document
+PURPOSE: presentation of Commissions Second Report on the implementation of Council Recommendation 2009/C 151/01 on patient safety,
+including the prevention and control of healthcare associated infections.
+CONTENT: Council Recommendation 2009/C 151/01 set out a series of measures on general patient safety and healthcare-associated
+infections (HAI) and invited the Commission to report on whether the measures are working effectively and to consider the need for further
+action.
+Results of 1st implementation report: the Commissions first report, which was published in 2012, demonstrated satisfactory progress in the
+development of national policies and programmes on patient safety. It showed, however, uneven progress across the EU. Some Member
+States reported that implementation had been slowed by financial constraints resulting from the economic crisis. The Commission therefore
+proposed that its monitoring of the implementation of the general patient safety provisions be extended for another two years.
+Second report on patient safety: Member States have made progress on developing policies on patient safety since the Recommendation was
+adopted. 26 countries developed or are finalising patient safety strategies or programmes, either free-standing or under other national policies.
+Most gave examples of indicators to evaluate the strategies. However, the report states that the Recommendation has had less of an impact in
+increasing patient safety culture at healthcare setting level, i.e. encouraging health professionals to learn from errors in a blame-free
+environment.
+Furthermore, the impact on empowering patients is only partial. According to countries self-assessments, the Recommendation raised
+awareness about patient safety at healthcare setting level. Only half of countries judged that it had had an impact on empowering patient
+organisations and individual patients.
+The report sets out the measures that have been taken at EU level and notes that the Commissions Green Paper on mHealth highlights
+benefits of using telemedicine and mHealth solutions for ensuring patient safety.
+Amongst the results set out in the report, the following are noted :
+1) Education and training of health professionals: in this area, the report notes that further effort is required. Most countries reported that they
+encouraged multidisciplinary training on patient safety in healthcare settings, but three quarters do not provide information about the actual
+delivery of such training in hospitals.
+2) Public perception: the Recommendation did not change EU citizens perception of the safety of care. As in 2009, over 50% of respondents
+thought that patients could be harmed by hospital and non-hospital care. Also, 25% of respondents said that they or their family experienced
+an adverse event. Patients now report considerably more adverse events than in 2009 (46% vs. 28%). Most respondents felt, however, that
+such reporting does not lead to specific action being taken.
+3) Areas of interest identified by Member States and stakeholders: in their contributions to the report, Member States identified the following
+areas for further cooperation at EU level:
+·
+
+patient safety policies and programmes;
+
+·
+
+the development of blame-free reporting and learning systems and encouraging reporting by both health professionals and patients;
+and
+
+·
+
+the development and review of patient safety standards.
+
+4) EU action relating to healthcare-associated infections: the Recommendation provides that Member States should use case definitions
+agreed at EU level to allow consistent reporting of HAI. Commission Decision 2012/506/EU of 8 August 2012 includes in its annex general and
+specific systemic case definitions of HAI, including reporting instructions for each of the conditions. These case definitions of HAI will help not
+
+only to considerably improve surveillance across the EU, but will allow assessing the impact at EU level of the preventive measures
+undertaken.
+In particular, the ECDCs Europe-wide point prevalence survey of HAI and antimicrobial use in 2011-12 contributed to the improved collection
+of data on HAI, even in Member States that had not previously started with this activity. Since the Recommendation was published, one
+EU-wide point prevalence survey was organised in acute care hospitals in 2011-12 (ECDC PPS) and two in long-term care facilities. Overall,
+the level of participation in the European HAI surveillance modules was considered high in nine countries or regions (AT, DE, ES, FR, IT, LT,
+MT, PT and UK-Scotland), medium in 13 (BE, CZ, EE, FI, HU, LU, NL, NO, RO, SK, UK-England, UK-Northern Ireland and UK-Wales) and low
+in 11 countries (BG, CY, DK, EL, HR, Iceland, IE, LV, PL, SE and SI).
+The point prevalence report and the Commissions first implementation report indicate that
+Member States should focus their efforts on ensuring the targeted surveillance of HAI in surgical site infections, intensive care units and
+nursing homes and other long-term care facilities.
+Further measures by Member States are needed to improve the routine case ascertainment of HAI, through the development of national
+diagnostic guidelines, continued training of healthcare workers in applying case definitions of HAI and the reinforcement of laboratory and
+other diagnostic capacity in healthcare institutions. The report also discusses the need to establish: (i) adequate numbers of specialised
+infection control staff in hospitals and other healthcare institutions; (ii) sufficient isolation capacity for patients infected with clinically relevant
+microorganisms in acute care hospitals; (iii) standardised surveillance of alcohol hand rub consumption.
+Other measures required in improving patient safety and quality of care : the report concludes with a series of additional measures that could
+be of particular relevance for further EU work, in close collaboration with Member States and stakeholders:
+common definition of quality of care and further support for the development of common terminology, common indicators and research
+on patient safety;
+EU collaboration on patient safety and quality of care to exchange good practices and effective solutions. This could build on the
+current joint action and be extended to other topics identified by Member States and stakeholders;
+developing guidelines on how to provide information to patients on quality of care;
+development with Member States of an EU template on patient safety and quality of care standards to achieve common understanding
+of this concept in the EU;
+reflection with Member States on the issue of redress as provided for in Directive 2011/24/EU ;
+encouraging the development of training for patients, families and informal carers using ICT tools;
+encouraging reporting as a tool to spread a patient safety culture;
+regular updating and dissemination of the guide on the setting-up and functioning of reporting and learning systems.
+
+2014/2207(INI) - 04/05/2015 Committee report tabled for plenary, single reading
+The Committee on the Environment, Public Health and Food Safety adopted the own-initiative report by Piernicola PEDICINI (EFDD, IT) on
+safer healthcare in Europe: improving patient safety and fighting antimicrobial resistance.
+Members recalled that globally, 10 million people would die every year because of antimicrobial resistance by 2050, and that resistance to
+antibiotics that were commonly used to treat causative bacteria was at least 25 % or more in several Member States.
+In this context, Members set out the state of play on the Councils recommendations on patient safety and the Commissions second
+implementation report on the matter (please see the summaries set out in procedure reference 2013/2022(INI)). Members feedback and
+proposals for improvements include the following:
+ensure that health systems and healthcare facilities were managed independently of political choices, and that managers were
+appointed on the basis of merit and not of political affiliation;
+ensure basic training of all healthcare personnel, even those who were not in direct contact with patients;
+ensure the appropriate and up-to-date training of doctors and other healthcare professionals, as well as the exchange of best
+practices;
+ensure the adoption of a multidisciplinary approach in medical treatments;
+lighten the burden on healthcare facilities by promoting care and medical treatment at home;
+ensure that medical professionals inform patients when a medicine was used off-label and provide patients with information on the
+potential risks in order to enable them to give informed consent;
+promote information campaigns for patients concerning the risks of adverse events in the healthcare system and concerning possible
+preventive measures, starting with basic hygiene measures, and launch awareness-raising campaigns;
+step up hygiene precautions, making greater use of hygiene specialists to monitor all aspects of health and hygiene relating to
+healthcare facilities, patients and relations between patients and outside guests;
+develop EU guidance for patients involvement in patient safety strategies.
+With regard to the need to fight against antimicrobial resistance, Members proposed the following measures:
+remind physicians of the paramount importance of ensuring that the prescription of antibiotics for treatment was appropriate and
+responsible;
+ensure that, whenever possible, appropriate microbiological diagnosis was systematically performed before prescribing antibiotics;
+regulate the prescription of antibiotics for treatment;
+encourage the development of new revenue models whereby economic returns for companies were de-linked from prescribed
+volumes of antibiotics, and at the same time, while encouraging pharmaceutical innovation;
+regulate the sale and distribution of antibiotics;
+intensify infection control, in particular from a cross-border perspective, and especially by carefully monitoring potential carriage of
+multidrug-resistant bacteria;
+improve safety standards, especially for medical devices that are resistant to sterilisation (e.g. endoscopes);
+launch awareness campaigns targeting a wide audience
+increase public funding and create new academic positions to focus on exploring and validating new approaches for treating bacterial
+
+infections.
+The committee also made a series of recommendations regarding antibiotic use in veterinary medicine in general and in husbandry in
+particular.
+It went on to make recommendations on collaborative approaches within the EU, calling on Member States to cooperate on defining minimum
+patient safety standards and indicators for safety and quality of healthcare at the EU level. The Commission and the Member States were
+asked to further engage in a dialogue with all stakeholders and develop a coordinated, comprehensive and sustainable EU strategy for patient
+safety.
+They were also asked to optimise EU partnerships between academia and the pharmaceutical industry, and Members encouraged
+pharmaceutical companies, governments and academia to contribute with their best assets (infrastructure, compounds, ideas and financial
+resources) to ground-breaking fundamental research and pre-competitive joint projects. The EU should take part in any global initiative aimed
+at improving ways of combating antibiotic resistance.
+Lastly, Members stressed that antimicrobial resistance had become a serious problem that needed to be urgently tackled. It called on the
+Commission to consider proposing legislation on the prudent use of antibiotics if little or no progress had been made in Member States within
+five years of the publication of these recommendations.
+
+2014/2207(INI) - 19/05/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 637 votes to 32 with 10 abstentions a resolution on safer healthcare in Europe: improving patient safety
+and fighting antimicrobial resistance.
+It recalled that globally, 10 million people would die every year because of antimicrobial resistance by 2050, and that resistance to antibiotics
+that were commonly used to treat causative bacteria was at least 25 % or more in several Member States.
+Ensuring patient safety during economic crisis: Parliament called on Member States to make sure, in this period of economic crisis, that patient
+safety was not affected by austerity measures and that healthcare systems remained adequately funded. Member States were further asked to
+avoid short-term savings, which would lead to high costs in the medium to long term and to ensure that there were a sufficient number of
+healthcare professionals specialised in infection prevention and control, as well as hospital hygiene, with a view to a more patient-centred
+approach. Amongst other things, the resolution called on Member States to set specific and ambitious quantitative targets for reducing the use
+of antibiotics.
+At the same time, Parliament set out the state of play on the Councils recommendations on patient safety and the Commissions second
+implementation report on the matter (please see the summaries set out in procedure reference 2013/2022(INI)). Members feedback
+and proposals for improvements include the following:
+ensure that health managers were appointed on the basis of merit and not of political affiliation;
+ensure basic training of all healthcare personnel, even those who were not in direct contact with patients;
+ensure the appropriate and up-to-date training of doctors and other healthcare professionals, as well as the exchange of best
+practices;
+ensure the adoption of a multidisciplinary approach in medical treatments;
+lighten the burden on healthcare facilities by promoting care and medical treatment at home;
+ensure that medical professionals inform patients when a medicine was used off-label and provide patients with information on the
+potential risks in order to enable them to give informed consent;
+promote information campaigns for patients concerning the risks of adverse events in the healthcare system and concerning possible
+preventive measures, starting with basic hygiene measures, and launch awareness-raising campaigns;
+step up hygiene precautions, making greater use of hygiene specialists to monitor all aspects of health and hygiene relating to
+healthcare facilities, patients and relations between patients and outside guests;
+develop EU guidance for patients involvement in patient safety strategies.
+With regard to the need to fight against antimicrobial resistance, Parliament considered research for new antimicrobial drugs to be of the
+utmost importance, and called on the Commission to use the European Fund for Strategic Investments to stimulate research by, supporting
+existing structures such as the Innovative Medicines Initiatives. It called for greater attention to be focused on the development of new
+antimicrobial agents aimed at new targets. With regard to sales of antibiotics, Parliament called on Member States and the Commission to
+start a reflection process to develop a new economic model, that de-linked the volume of sales from the reward paid for a new antibiotic , which
+would reflect the societal value of a new antibiotic and allow for sufficient return on investment for the company, while the purchaser would
+gain the right to use the product and have full control over volumes.
+Parliament also proposed the following measures:
+remind physicians of the paramount importance of ensuring that the prescription of antibiotics for treatment was appropriate and
+responsible;
+ensure that, whenever possible, appropriate microbiological diagnosis was systematically performed before prescribing antibiotics;
+regulate the prescription of antibiotics for treatment;
+encourage the development of new revenue models whereby economic returns for companies were de-linked from prescribed
+volumes of antibiotics, and at the same time, while encouraging pharmaceutical innovation;
+regulate the sale and distribution of antibiotics;
+intensify infection control, in particular from a cross-border perspective, and especially by carefully monitoring potential carriage of
+multidrug-resistant bacteria;
+improve safety standards, especially for medical devices that are resistant to sterilisation (e.g. endoscopes);
+launch awareness campaigns targeting a wide audience
+increase public funding and create new academic positions to focus on exploring and validating new approaches for treating bacterial
+infections.
+make the records of hospitals and other healthcare facilities with regard to HAIs publicly available, so that patients can make informed
+
+choices;
+Parliament also asked the Commission to reflect on the consequences of the increased mobility provided for in Directive 2011/24/EU with
+regard to the enhanced antimicrobial resistance that could result from patients travelling throughout Europe for treatment.
+Parliament also made a series of recommendations regarding antibiotic use in veterinary medicine in general and in husbandry in particular,
+notably:
+introduce legal tools to restrict the use of antibiotics in animals if a significant risk to public health is identified;
+implement tougher controls to limit the use of antibiotics in veterinary medicine, by restricting the right to prescribe antibiotics to
+professionally qualified veterinarians and by decoupling the veterinarians right to both prescribe and sell antibiotics so as to eliminate
+all economic incentives;
+ensure that livestock farming and aquaculture focus on disease prevention through good hygiene, housing and animal husbandry and
+on strict biosecurity measures, rather than the prophylactic use of antibiotics.
+The Plenary did not adopt the position of its competent committee which had urges consideration of the possibility of banning antibiotics in
+medicated feed in the upcoming discussions on veterinary medicine and medicated feed legislation.
+On the other hand, Parliament agreed with its competent committee in calling on co-legislators, when negotiating the proposal for a regulation
+on veterinary medicinal products (2014/0257(COD)), to ensure that standards of quality, safety and efficacy of veterinary medicinal products
+were not lowered with the new legislation and to prohibit the on-line sale of antimicrobials. Parliament also called for research into the potential
+direct or indirect damage arising from by the use of antimicrobials in pets, and to develop mitigation measures to reduce the risk of potential
+transmission of antimicrobial resistance from pets to people.
+It went on to make recommendations on collaborative approaches within the EU, calling on Member States to cooperate on defining minimum
+patient safety standards and indicators for safety and quality of healthcare at the EU level. The Commission and the Member States were
+asked to further engage in a dialogue with all stakeholders and develop a coordinated, comprehensive and sustainable EU strategy for patient
+safety. They were also asked to optimise EU partnerships between academia and the pharmaceutical industry, and Members encouraged
+pharmaceutical companies, governments and academia to contribute with their best assets (infrastructure, compounds, ideas and financial
+resources) to ground-breaking fundamental research.
+The resolution asked the Commission to consider a legislative framework to encourage the development of new antibiotic drugs, for example
+in the form of an instrument governing antibiotics for human use similar to that already proposed for antibiotics for animal use.
+It also encouraged the EU to promote and take part in any global initiative aimed at improving ways of combating antibiotic resistance, and to
+support research in this field.
+Lastly, Parliament stressed that antimicrobial resistance had become a serious problem that needed to be urgently tackled. It called on the
+Commission to consider proposing legislation on the prudent use of antibiotics if little or no progress had been made in Member States within
+five years of the publication of these recommendations.
+
+

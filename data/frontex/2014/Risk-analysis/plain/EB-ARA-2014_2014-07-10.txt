@@ -1,0 +1,5165 @@
+Main BCPs
+Main BCPs between
+EB-RAN countries
+Regional borders
+Borders covered by EU/SAC data only
+Common borders
+Pan-European Transport Corridors
+
+Saint
+Petersburg
+!
+!
+
+SWEDEN
+
+Narva
+
+Estonia
+
+Finland
+
+Eastern European Borders
+Annual Risk Analysis 2014
+Latvia
+
+Terehova !
+!
+
+ESTONIA
+
+!
+
+Lithuania
+
+Moscow
+
+Belarus
+
+Medininkai
+
+Russian Fed.
+
+!
+!
+
+Kuznica !
+
+Minsk
+!
+
+!
+Russian
+Federation
+
+Poland
+!
+! Dolsk
+!
+Terespol! !
+!
+Domanove
+!
+!
+Pulemets
+!
+Dorohusk !
+
+!
+!
+Novi
+
+Yarylovychi
+
+!
+!
+
+Vystupovychi
+
+! Kiev
+
+Korczowa
+
+!
+!
+
+!
+Medyka !
+
+Slovakia
+
+! Ubla
+!
+Sokyriany
+!
+!
+Vysne Nemecke !
+! Mohyliv Podilskyi
+!!
+!
+!
+
+Zahony
+Hungary
+
+Sculeni !
+!
+Romania
+
+!
+!
+Albita !
+!
+Galati !
+
+!
+!
+!
+!
+
+Tudora
+
+Palanka
+
+Chisinau
+!
+!
+
+Reni
+
+Ukraine
+
+Eastern European Borders
+Annual Risk Analysis 2014
+
+1 of 50
+
+Frontex official publications fall into four main categories: risk analysis, training, operations
+and research, each marked with a distinct graphic identifier. Risk analysis publications bear a
+triangular symbol formed by an arrow drawing a triangle, with a dot at the centre. Metaphorically, the arrow represents the cyclical nature of risk analysis processes and its orientation
+towards an appropriate operational response. The triangle is a symbol of ideal proportions
+and knowledge, reflecting the pursuit of factual exactness, truth and exhaustive analysis.
+The dot at the centre represents the intelligence factor and the focal point where information from diverse sources converges to be processed, systematised and shared as analytical
+products. Thus, Frontex risk analysis is meant to be at the centre and to form a reliable basis for its operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Rondo ONZ 1
+00-124 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, July 2014
+Risk Analysis Unit
+Frontex reference number: 10118/2014
+Printed version:
+OPOCE Catalogue number TT-AG-14-001-EN-C
+ISBN 978-92-95033-90-0
+ISSN 2363-1031
+DOI 10.2819/4065
+
+PDF:
+TT-AG-14-001-EN-N
+ISBN 978-92-95033-86-3
+ISSN 2363-1031
+DOI 10.2819/3454
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply the
+expression of any opinion whatsoever on the part of Frontex concerning the legal status of
+any country, territory or city or its authorities, or concerning the delimitation of its frontiers
+or boundaries. All maps and charts included in this report are the sole property of Frontex
+and any unauthorised use is prohibited. Frontex disclaims any liability with respect to the
+boundaries, names and designations used on the maps. The contents of open-source boxes
+are unverified and presented only to give context and media representation of irregular-migration phenomena.
+
+ACKNOWLEDGMENTS
+The Eastern European Borders Annual Risk Analysis 2014 has been prepared by the Frontex
+Risk Analysis Unit. During the course of developing this product, many colleagues at Frontex and outside contributed to it and their assistance is hereby acknowledged with gratitude.
+
+2 of 50
+
+Table of contents
+Executive summary #5
+1. Introduction and methodology #7
+1.1.	Data collection and additional information #7
+1.2. Quality of available data #8
+1.3.	Application of the Common Integrated Risk Analysis Model #8
+2.	Situation at the common borders – the context
+2.1. Border controls #13
+2.2. Irregular migration #18
+2.3. Institutional changes #20
+2.4. Environmental scan #22
+
+#10
+
+3. Annual risk assessment 2014 #26
+3.1.	Risk of cross-border smuggling and exploitation of green  /  blue borders as a
+point of entry for smuggled goods (smuggling of tobacco products, precursors
+and drugs, stolen vehicles, and other goods) #27
+3.2.	Risk of significant transiting irregular migration flows originating outside of the
+wider EB-RAN region #32
+3.3.	Risk of sustained irregular migration flows from the EB-RAN region, including
+CIS countries and Georgia #37
+4. Outlook #44
+5. Statistical annex #46
+
+3 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+List of abbreviations used
+ABC 		
+Automated Border Control
+ANSF		
+Afghan National Security Forces
+API		
+Advance Passenger Information
+ARA		Annual Risk Analysis
+BCP 		border-crossing point
+CIRAM		
+Common Integrated Risk Analysis Model
+CIS
+Commonwealth of Independent States
+CSIS		
+Center for Strategic and International Studies
+Eastern Borders Conference
+EBC		
+EB-RAN 	Eastern European Borders Risk Analysis Network
+EC		European Commission
+EDF		
+European Union Document-Fraud
+EDF-RAN
+European Union Document-Fraud Risk Analysis Network
+EMCDDA	European Monitoring Centre for Drugs and Drug Addiction
+EU 		European Union
+EUR 		euro
+Eurodac		
+European dactyloscopy
+Europol		
+European Police Office
+Eurostat
+Statistical Office of European Communities
+FRAN 		Frontex Risk Analysis Network
+Frontex 	European Agency for the Management of Operational Cooperation at the
+External Borders of the Member States of the European Union
+GDP		Gross Domestic Product
+ICJ		 International Court of Justice
+IDPs		
+internally displaced persons
+INTERPOL	International Criminal Police Organization
+ISAF 		
+International Security Assistance Force
+JO 		Joint Operation
+LBTA
+	local border traffic agreement
+LBT
+	local border traffic
+n.a.		not applicable
+Q/Qtr		
+quarter of the year
+RFI		
+Request for Information
+RTP		
+Registered Traveller Programme
+Russian rouble
+RUB		
+SAC		
+Schengen Associated Countries
+SIS
+	Schengen Information System
+UK		 United Kingdom
+United Nations High Commissioner for Refugees
+UNHCR		
+UNOCD		
+United Nations Office on Drugs and Crime
+UNSCR		
+United Nations Security Council Resolution
+VIN		
+Vehicle Identification Number
+
+4 of 50
+
+Executive summary
+In 2013, border security at the borders between Member States and Belarus, Moldova, Ukraine and the Russian Federation
+was shaped by several interlinked factors.
+Firstly, overall regular passenger flow continued to grow in 2013, by roughly 10% from 2012.
+The growth was driven by expanding legal
+travel channels – growing visa issuance and
+implementation of local border traffic agreements – as well as longer-term economic developments in Eastern European Borders Risk
+Analysis Network (EB-RAN) countries and the
+Russian Federation encouraging mobility of
+people and goods. Growing regular traffic has
+generated considerable pressure on bordercrossing points’ (BCPs) capacity to keep the
+traffic both smooth and secure. In addition to
+development of infrastructure, Border Guard
+authorities are searching for new innovative
+solutions for border checks technology, logistics and processes. Although the growth of
+traffic can be expected to be modest in 2014,
+these efforts should be further encouraged,
+as long-term factors for the growth in traffic remain valid.
+Secondly and somewhat connected to regular
+passenger flows, the smuggling of excise and
+illicit goods remained a major threat to border
+security. Data collected within the EB-RAN,
+as well as during Frontex-coordinated Joint
+Operations, indicate that the smuggling of
+tobacco products was particularly common.
+Smuggling occurred primarily through official BCPs; however, a variety of modi operandi
+were also detected at green borders (between
+BCPs) varying from the so-called ‘ant smuggling’ through the BCPs to the use of rafts at
+the border rivers to smuggle large amounts
+of cigarettes across common borders.* Additionally, cross-border criminal activities also
+
+included attempts to smuggle stolen vehicles and motorbikes from the EU to EB-RAN
+countries. Smuggling of illicit drugs range from
+cannabis and synthetic drugs transiting  /  originating in the EU and smuggled towards EBRAN countries to heroin and precursors of
+amphetamines smuggled to the EU.
+Thirdly, there were more irregular movements
+of people across the common borders in 2013.
+However, the trends as regards modi operandi and origin of irregular migrants were
+quite varied.
+In 2013 detections of illegal border-crossing remained low (1 316) in comparison with
+other sections of the EU’s external borders:
+only 1.2% of all illegal border-crossings reported by Member States at the external
+borders were reported from the 6 000-kilometre-long eastern borders of the EU. Arguably this is because migrants taking the route
+via EB-RAN countries or the Russian Federation to the EU, especially non-regional migrants, face (a) logistic difficulties and high
+costs; (b) efficiently cooperating border-control authorities on both sides of the common borders; and therefore (c) high risk of
+detection. Although ‘push factors’ in origin
+countries of irregular migrants, such as Afghanistan, would point to a growing threat of
+illegal border-crossing, the magnitude of the
+threat will most likely be limited in a wider
+EU perspective.
+In contrast to the rather low level of threat
+as regards illegal border-crossing, the issue
+of migrants refused entry and then applying
+for asylum and absconding from reception
+centres can be assessed as the most serious
+at common borders in 2013 in terms of magnitude. The number of refusals of entry rose
+
+* For definition of
+common and regional
+borders see general map
+of the EB-RAN region in
+Figure 3, page 12.
+
+5 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+to over 50 000, i.e. 39% of the EU total, indicating a growing risk of abuse of legal travel
+channels. While the large number of refusals
+of entry can be partly explained by growth
+in regular traffic, two individual phenomena
+stood out in 2013:
+1.	A sharp increase in nationals of the Russian Federation of Chechen origin refused
+entry and then using asylum applications
+in Poland as a way to enter the EU and
+move further on to Germany.
+2.	The continued flow of Georgian nationals
+to Poland and further on to other Member
+States using a variety of modus operandi.
+The main entry point in both cases was the
+Polish-Belarusian border.
+While not attracting media attention and not
+putting the lives of migrants at risk, the use
+of this modus operandi appears to be a significant entry channel of irregular migration to
+the EU. It exploits possibilities for legal entry
+while still absorbing an important part of the
+resources at the border.
+The abuse of visas in order to work irregularly
+and  /  or overstay in other Member States than
+that stated in the visa was also reported, including continued use of fraudulent supporting documentation and falsified stamps to
+conceal the fact of overstaying.
+
+6 of 50
+
+As the abuse of visas, asylum system and
+other means of legal entry touches responsibilities of many authorities, the risks should
+be mitigated by searching for solutions from
+all four tiers of border security: measures implemented by third countries, cooperation
+agreements, border checks and measures
+within the area of free movement.
+The situation in Ukraine is the main uncertainty considering the outlook on border security. So far, at the common borders with
+the EU, the impact of the crisis has remained
+limited. However, continued political and economic pressure in Ukraine does make stabilisation of the situation hard to achieve.
+Population movements from the contested
+areas, especially Crimea and Eastern Ukraine
+are possible. On the other hand, economic and
+political instability may cause changes in labour migration, thus possibly also impacting
+irregular movements.
+Despite the existing risks in border security,
+there are also important positive developments in sight: the implementation of the
+EU-Moldova visa liberalisation in April 2014
+can be regarded as a major sign of enhanced
+border security and cooperation in the region,
+which makes it possible to promote regular
+cross-border mobility without compromising border security.
+
+1.Introduction and methodology
+The European Agency for the Management
+of Operational Cooperation at the External
+Borders of the Member States of the European Union (Frontex) created a concept of
+the Eastern Borders Conference (EBC) in August 2008. The EBC was designed as a regular activity  /  forum where specific challenges
+related to irregular migration at the eastern borders of the EU could be addressed by
+FRAN (Frontex Risk Analysis Network) representatives and the relevant neighbouring
+third countries.
+By 2009 Frontex had signed working arrangements with Ukraine, the Russian Federation,
+Moldova and Belarus. Subsequently, Frontex proposed to set up a permanent Eastern European Borders Risk Analysis Network
+(EB-RAN), to be comprised of the competent
+border-control authorities from the mentioned four countries and the Risk Analysis
+Unit of Frontex. Additional arrangements
+were later signed allowing for the establishment of regular information exchange and
+joint analytical activities: with Moldova in
+March 2009 (Cooperation Plan), with Ukraine
+in November 2010 (Mechanism on information exchange for risk analysis cooperation)
+and with Belarus in November 2010 (Memorandum on regular exchange information
+and joint analytical activities). Importantly,
+the Russian Federation opted to stay out of
+the EB-RAN.*
+
+1.1. Data collection and
+additional information
+In order to facilitate the exchange of information between the EB-RAN countries and
+Frontex, the Commission and Frontex set up
+a secure Internet platform on the European
+Commission’s CIRCABC server, similarly to
+
+what is available for the FRAN. This platform
+is used exclusively by EB-RAN countries and
+the Frontex Risk Analysis Unit.
+EB-RAN statistical data from Belarus, Moldova and Ukraine are available for the period 2010–2013. The core of the overview are
+the EB-RAN and monthly statistical data of
+neighbouring FRAN members: Norway, Finland, Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary and Romania (only common
+borders, or borders with the Russian Federation) covering the year 2013. There are five
+key indicators of irregular migration: (1) detections of illegal border-crossing, (2) detections of facilitators, (3) detections of illegal
+stay, (4) refusals of entry; and (5) asylum applications. The last indicator used in previous reports (detections of false documents)
+is now covered by the EDF-RAN (European
+Union Document-Fraud Risk Analysis Network) with its statistical templates.
+The 2014 Annual Risk Analysis will follow
+the notion of risk as defined by the updated
+Common Integrated Risk Analysis Model, introduced in 2011.
+EB-RAN countries – Belarus, Moldova and
+Ukraine – were addressed, prior to the expert meeting of 1 April 2014, with a Request
+for Information (RFI) covering the defined
+main risks in accordance to CIRAM methodology. Answers were received from all EB-RAN
+countries.
+Other sources include, in particular, bimonthly
+analytical reports from Member States, FRAN
+Quarterlies, Tailored Risk Analyses produced
+in 2013 and Frontex reporting from different Joint Operations coordinated by Frontex.
+
+* Even though the
+Russian Federation has
+opted to stay out of
+the Eastern European
+Borders Risk Analysis
+Network and does not
+contribute to its work,
+this report continues
+to cover external land
+borders of Member
+States with the Russian
+Federation with data
+only reported by Member
+States and Schengen
+Associated countries.
+
+7 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Open sources of information such as reports
+issued by government agencies, EU institutions and international or non-governmental organisations were also used.
+
+1.2. Quality of available data
+Consistent with other law-enforcement indicators, variation in administrative data related to border control depends on several
+factors. In this case, the number of detections of illegal border-crossing and refusals
+of entry are both functions of the amount
+of effort spent detecting migrants and the
+flow of irregular migrants. For example, increased detections of illegal border-crossing
+might be due to an actual increase in the flow
+of irregular migrants, or they may in fact be
+an outcome of more resources made available to detect migrants. In exceptional cases,
+an influx of resources may produce an increase in reported detections while effectively masking the actual decrease in the
+flow of migrants, resulting from a strong
+deterrent effect.
+Similar issues should be taken into account
+regarding the number of detections of crossborder crime at the borders. Higher numbers of detections at a particular BCP might
+indicate a surge in criminality, but may also
+be the result of more efficient border control and / or the presence of specialists whose
+expertise in a certain area (the identification of stolen vehicles, for instance) may
+increase the number of detections. The statistical data used for this analysis should
+not be considered as official statistics but
+as management of information to support
+the planning of joint operational activities.
+The data might therefore occasionally vary
+from data published officially by national authorities. The use of slightly adapted FRAN
+monthly statistical templates by EB-RAN
+countries created some compatibility issues between the FRAN and EB-RAN data
+sets. In particular, reasons for refusals of en-
+
+8 of 50
+
+try (Indicator 4) are standardised for FRAN
+members, but vary among EB-RAN members in line with their national legislations.
+Detections of illegal border-crossing at BCPs
+(Indicator 1B), as reported by EB-RAN countries, should also be analysed with caution
+since they may also include figures for persons using forged documents (Indicator 6).
+It should also be taken into consideration
+that figures for illegal stay (Indicator 3) refer only to detections at the border on exit
+of persons overstaying in a particular country. Considering some of the neighbouring
+Member States, the indicator on asylum
+applications does not have a clear link with
+common borders (especially Hungary, Finland and Norway) as most asylum seekers
+arrive in these countries using other routes.
+Considering reporting on detections of illegal border-crossing between BCPs, it should
+be noted that the growth of detections in
+Estonian data in 2013 is for the most part
+due to changes in reporting and not in the
+actual detections.
+
+1.3. Application of the Common
+Integrated Risk Analysis
+Model (CIRAM)
+A key development in the CIRAM update released in 2011 is the adoption of a management approach to risk analysis that defines
+risk as a function of threat, vulnerability and
+impact. Such an approach endeavours to
+emphasise risk analysis as a key tool in ensuring the optimal allocation of resources
+within constraints of budget, staff and the
+efficiency of equipment. According to the
+model, a ‘threat’ is a force or pressure acting upon the external borders that is characterised by both its magnitude and likelihood;
+‘vulnerability’ is defined as the capacity of a
+system to mitigate the threat; and ‘impact’
+is determined as the potential consequences
+of the threat. In this way, the structured and
+systematic breakdown of risk is presented in
+the risk assessment and conclusions chapters.
+
+Figure 1. Common Integrated Risk Analysis Model (CIRAM)
+
+risk
+Threat
+
+Vulnerability
+
+Magnitude and
+likelihood
+
+Level of vulnerability
+(EU, Member State
+of entry/destination)
+
+Modus operandi
+
+Who, where, when
+
+Trends and predictions
+(increase, decrease,
+stable, historical)
+
+Push factors
+
+Border permeability
+(terrain, infrastructure,
+capabilities, flows)
+Operational activities
+(staff, training,
+interoperability)
+Effectiveness of
+countermeasures
+
+Impact
+Level of impact of the threat
+(EU, Member State
+of entry/destination)
+
+Border and internal security
+
+Ability to manage
+legitimate passenger flow
+at border
+
+Humanitarian impact
+
+Pull factors
+
+Routes (difficulty and distance),
+access to facilitation
+
+9 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+2. S
+ ituation at the common
+borders – the context
+Table 1. S
+ ummary of FRAN, EB-RAN* and selected Member States** indicators for 2013
+EU Totals
+
+Member States
+(eastern land borders only) % of EU total
+
+EB-RAN
+
+Indicator
+Illegal border-crossing between BCPs
+
+107 365
+
+1 316
+
+1.2%
+
+3 392
+
+599
+
+6
+
+1.0%
+
+11
+
+Facilitators
+
+6 902
+
+39
+
+0.6%
+
+33
+
+Illegal stay
+
+344 888
+
+8 360
+
+2.4%
+
+32 979
+
+Clandestine entries
+
+Refusals of entry
+
+129 232
+
+50 356
+
+39%
+
+34 573
+
+Applications for asylum
+
+353 991
+
+52 534
+
+15%
+
+304
+
+False travel documents
+
+n.a.
+
+n.a.
+
+n.a.
+
+238
+
+Return decision issued
+
+224 305
+
+33 831
+
+15%
+
+n.a.
+
+Effective returns
+
+161 320
+
+24 580
+
+15%
+
+n.a.
+
+* 2013 data from Belarus, Moldova and Ukraine
+** Norway, Finland, Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary and Romania
+Source: FRAN data as of 18 March 2014
+
+10 of 50
+
+Figure 2. EB-RAN and FRAN indicators – common borders
+
+Monthly applications for international protection
+reported by EB-RAN countries
+
+60
+
+2011
+2012
+2013
+
+50
+
+8 000
+6 000
+5 000
+
+30
+
+4 000
+
+20
+
+3 000
+2 000
+
+10
+
+1 000
+
+0
+Jan
+
+Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+Monthly detections of facilitators
+reported by EB-RAN and FRAN neighbouring countries
+
+30
+
+2011
+2012
+2013
+
+25
+
+0
+
+15
+
+30
+
+10
+
+20
+
+5
+
+10
+
+700
+
+Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+Monthly detections of illegal border-crossing between BCPs
+reported by EB-RAN and FRAN neighbouring countries
+2011
+2012
+2013
+
+0
+
+350
+
+Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+Monthly detections of illegal border-crossing at BCPs
+reported by EB-RAN and FRAN neighbouring countries
+2011
+2012
+2013
+
+200
+
+400
+
+150
+
+300
+200
+
+100
+
+100
+
+50
+
+5 000
+4 500
+4 000
+3 500
+3 000
+2 500
+2 000
+1 500
+1 000
+500
+0
+
+Jan
+
+250
+
+500
+
+0
+
+2011
+2012
+2013
+
+300
+
+600
+
+Jul Aug Sep Oct Nov Dec
+
+Monthly detections of persons using fraudulent documents
+to illegally enter the territories of EB-RAN countries
+
+50
+40
+
+Jan
+
+Jan Feb Mar Apr May Jun
+
+60
+
+20
+
+800
+
+2011
+2012
+2013
+
+7 000
+
+40
+
+0
+
+Monthly applications for international protection
+reported by EB-RAN and FRAN neighbouring countries
+
+Jan Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+Monthly detections of illegal stayers
+reported by EB-RAN and FRAN neighbouring countries
+2011
+2012
+2013
+
+Jan Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+0
+
+10 000
+9 000
+8 000
+7 000
+6 000
+5 000
+4 000
+3 000
+2 000
+1 000
+0
+
+Jan Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+Monthly refusals fo entry reported by EB-RAN
+and FRAN neighbouring countries
+2011
+2012
+2013
+
+Jan Feb Mar Apr May Jun
+
+Jul
+
+Aug Sep Oct Nov Dec
+
+Source: EB-RAN and FRAN data as of 18 February 2013
+
+11 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Figure 3. General map of the Eastern European Borders
+Note on definitions: in the text ‘common borders’ refers both to borders between Member States and EB-RAN countries (covered by both sides) and borders of
+Member States  /  Schengen Associated Countries with the Russian Federation (covered only by the EU/SAC side of the border)
+
+Storskog
+!
+!
+
+Main BCPs
+Main BCPs between
+EB-RAN countries
+Regional borders
+Borders covered by EU/SAC data only
+Common borders
+Pan-European Transport Corridors
+
+Saint
+Petersburg !
+!
+!
+
+SWEDEN
+
+Narva
+
+Estonia
+
+Finland
+
+Russian
+Federation
+
+Niirala !
+!
+Imatra
+Nuijamaa !!
+!!
+ESTONIA
+!
+Vaalimaa
+!
+
+Latvia
+
+Terehova !
+!
+
+!
+
+Lithuania
+
+Moscow
+
+Belarus
+
+Medininkai
+
+Russian Fed.
+
+!
+!
+
+Kuznica !
+
+142.5
+
+Minsk
+!
+
+Population
+in millions
+
+!
+
+9.6
+
+Poland
+
+!
+! Dolsk
+!
+Terespol! !
+!
+Domanove
+!
+!
+Pulemets
+!
+Dorohusk !
+
+Russian
+Federation
+!
+!
+Novi
+
+Yarylovychi
+
+!
+!
+
+Vystupovychi
+
+! Kiev
+
+Korczowa
+
+!
+
+!
+!
+
+Medyka !
+Slovakia
+
+! Ubla
+!
+Sokyriany
+!
+!
+Vysne Nemecke !
+! Mohyliv Podilskyi
+!!
+!
+!
+
+Zahony
+Hungary
+
+Moldova
+
+3.6
+
+Sculeni !
+!
+Romania
+
+!
+!
+Albita !
+!
+Galati !
+
+!!
+!
+!
+
+Tudora
+
+Palanka
+
+Chisinau
+!
+!
+
+Reni
+Source: Open-source data as of December 2013, ESRI geodata
+
+12 of 50
+
+44.5
+
+Ukraine
+
+2.1. Border controls
+Regular passenger flows
+The total number of border-crossings (both
+entry and exit) in regular cross-border traffic
+at the common borders including the border
+with the Russian Federation reached approximately 77 million in 2013, roughly a 10%
+increase from 2012.* Belarus, Moldova and
+Ukraine reported additional 54 million border-crossings at their borders with regional
+neighbours.
+Depending on the border section, the main
+reasons for growth include the following
+factors: (a) increased visa issuance by Member States; (b) implementation of local border traffic agreements (LBTA); and (c) overall
+growth of shopping-related cross-border
+travel by both EU and EB-RAN country and
+Russian nationals.
+The Polish-Ukrainian border section remained the busiest in terms of border-crossings with roughly 16.7 million
+border-crossings (+11% compared to 2012)
+followed by Finland-Russian Federation
+with 12.9 million border-crossings (+8%).
+The sharpest growth of traffic was reported
+at Poland’s border with the Russian Federation’s Kaliningrad region, with a 52% growth
+from roughly 4 to 6 million border-crossings.
+The growth at this border section may be
+explained by increased visa issuance and
+especially the implementation of the local
+border traffic agreement in July 2012. The
+number of border-crossings (entry and exit)
+by citizens of the Russian Federation with
+local border traffic (LBT) permits increased
+from 27 000 in 2012 to 1.15 million in 2013.
+As reported by Polish border authorities
+the level of traffic is very high especially at
+weekends, pointing to shopping- and tourism-related travel.
+
+At the regional borders the busiest border
+section was the Ukrainian-Russian border
+with 28.2 million border-crossings.
+Both common and regional borders have
+some distinctive seasonal trends resulting
+from labour migration and tourism. Peaks
+during the holiday seasons and at weekends
+create considerable pressure on the capacity
+of the BCPs, which requires an optimal use
+of resources in order to avoid undue waiting
+times for bona fide travellers.
+Composition of regular passenger flows
+From the EU Member State point of view citizens enjoying free movement are subject to
+minimum checks, while third-country nationals, whether they require visas or not,
+are subject to more thorough checks, as defined by the Schengen Borders Code. Hence
+the composition and extent of passenger flow
+determine, to a large extent, the allocation
+of resources for border checks.
+
+* Data on regular traffic
+were collected for the
+second year in a row.
+However, due to some
+changes in sources as
+well as some problems in
+the traffic-data collection
+systems amongst
+Member States, data
+sets of 2012 and 2013
+are not fully comparable
+for all border sections.
+Therefore, a precise
+comparison of total
+regular traffic figures is
+not possible. However,
+the data clearly show an
+overall growing trend of
+regular traffic.
+
+Data on composition of the regular traffic was
+not available from all border sections, but generally the share of non-EU citizens remained
+clearly higher than that of EU-citizens, ranging from almost 90% at the Polish-Belarusian
+border to roughly 60% at the Latvian-Russian border. Even at the Slovakian-Ukrainian
+border – which was the only border section
+recording a decrease in the number of border-crossings – the number of non-EU citizens grew both in absolute and relative terms.
+From the point of view of EU Member State
+border authorities this means that a large majority of travellers go through the more thorough checks. Thus the growth in the traffic
+of non-EU nationals increases not only the
+number of checks but also the average time
+of performing the check.
+
+13 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Figure 4. Data on the number of border-crossings (entry and exit) show growth at several border sections
+Number of border-crossings in million by border section. For the Moldovan-Ukrainian border section the data by Ukraine shown in the map cover the whole
+border. According to Moldova the number of border-crossings at the sections of the border that are under control of Moldovan constitutional authorities was
+9.7 million
+
+LTU-RUS
+4%
+ROU-UKR
+4%
+
+SVK-UKR
+2%
+
+LVA-RUS
+2%
+
+0.31
+
++23%
+
+POL-UKR
+22%
+
+MDA-ROU
+6%
+
+5.84
+
+12.9
+
+12%
+
+HUN-UKR
+6%
+
++8%
+1.59
+
+EST-RUS
+8%
+POL-RUS
+8%
+BLR-LTU
+9%
+
+n.a.
+
+2.72
+
+0%
+
+FIN-RUS
+17%
+
+1.05
+
+n.a.
+6.18
+
+BLR-POL
+11%
+
++52%
+28.2
+
+8.8
+
+Total traffic in 2013 in milion;
+indication of the change compared
+to 2012 (+ increase / - decrease)
+
+16.7
+
+n.a.
+
+10.8
+
+n.a.
+
+0%
+
+6.92
+
++11%
+
++12%
+15.8
+
+n.a. – no data available for 2012
+
+n.a.
+1.86
+
+-4%
+4.64
+
+4.43
+
++6%
+
+n.a.
+
+2.91
+
+Note on sources: For common borders and EU MS/SAC border with the Russian Federation,
+all data by EU Member States, except by Ukraine for the Romanian-Ukrainian border
+and by Moldova for the Romanian-Moldovan border.
+For the Ukrainian-Moldovan border, Ukrainian data were used.
+
+n.a.
+
+Source: RFI from EB-RAN members and neighbouring FRAN members about regular traffic, January 2013
+
+Outlook on regular passenger traffic
+Most of the long-term factors, such as the
+development of transport connections and
+increased issuance of passports and visas,
+point to a continuing growth of regular passenger traffic. However, in the shorter term
+it is possible that this trend may stagnate or,
+at some border sections, even turn to a decrease in 2014. The reason is the slowdown
+
+14 of 50
+
+of economic growth in the Russian Federation and Ukraine – and the weakening of their
+currencies in relation to the euro – which is
+likely to limit the growth potential of regular
+traffic in the coming year in terms of tourism, shopping trips and lorry traffic. Much
+also depends on the Ukrainian crisis and its
+impact on the economy. However, based on
+the experiences from 2009, the effect of an
+economic drop on the foreign travel was less
+
+dramatic in the case of cheaper travel options to the nearby regions than in the case
+of more expensive longer-distance travel.
+In contrast to general developments, the EUMoldova visa liberalisation implemented in
+April 2014 is likely to have a positive impact
+on the growth of regular traffic at the Moldovan-Romanian border, though Moldova
+assesses the impact as relatively low.
+Visas
+EU-level data on visa issuance for 2013 are
+not yet available, but according to the data
+for 2012 the issuance of visas by Member
+States* in EB-RAN countries and the Russian Federation continued to grow in 2012.
+In fact visas issued in the Russian Federation
+alone accounted for 42% of all visas issued in
+2012, with nearly 6 million visas representing a 15% increase compared to the previous
+year. Visas issued in Ukraine followed, with
+1 283 014 visas issued in 2012, which was a
+10% increase compared to 2011.
+In 2012 Finland issued by far the largest number of visas (1 313 864) in the Russian Federation, with an 11% increase compared to 2011,
+followed by Spain (920 490, increase by 23%),
+Greece (655 887) and Italy (631 120). Poland
+was the biggest issuer of visas in Ukraine
+(447 813, an increase of 21% compared to 2011).
+According to Finnish data, the growth of visa
+issuance continued in 2013, with roughly 1.5
+million visas issued in the Russian Federation.
+Although the figures from 2012 only partly
+influenced the situation in 2013 (in terms of
+longer one- or two-year visas) and not all
+traffic conducted by these visas shows up at
+common borders, the trend of visa issuance
+is an important indicator of possible traffic
+growth and possible use of legal travel channels. On the other hand, it also gives context
+against which the trends in illegal border-
+
+crossings, refusals of entry and illegal stay
+can be better analysed.
+The average refusal rate for all visa applications in 2012 was 4.8%. Considering visas
+issued in Ukraine, Belarus and the Russian
+Federation the refusal rates were considerably lower, pointing to an overall lower
+per capita risk of irregular migration. Refusal rate for visas issued in 2012 was 2% in
+Ukraine, 0.9% in the Russian Federation and
+0.5% in Belarus. In relative terms, the highest
+rate of refused visas among EB-RAN countries was registered in Moldova (with refusals
+ratio of 6.6%); however, a sharply decreasing trend was observed from 11.4% in 2010
+to 4.8% in 2013.
+
+Number of passports issued in
+the Russian Federation grows
+sharply
+The number of passport** holders in the Russian Federation has
+risen sharply in recent years raising the potential for regular crossborder traffic. While in 2008 it was
+estimated that the share of citizens of the Russian Federation was
+only 5% the current estimate is 17%
+or roughly 23-25 million. While the
+passport holders have tended to
+concentrate in the large cities, such
+as Moscow and St Petersburg, the
+number of issued passports in the
+provinces has grown recently too.
+During the first three months of
+2013 there were already 2.7 million passport issued, which was
+22.5% more than during the
+corresponding period of the
+last year.
+
+* At the time of writing
+of this report data on
+EU visa issuance for 2013
+were not yet available.
+Visa data are collected
+on the basis of the
+place of making the
+application and not on
+the nationality of the
+visa applicant. Thus, for
+instance, applications
+made in the Russian
+Federation do not
+necessarily concern
+only Russian nationals.
+However, the data can be
+used as the most suitable
+approximation of the
+number of visas issued to
+citizens of that country.
+** In the Russian
+Federation there are
+two types of passports:
+the domestic and the
+international. The
+domestic is compulsory
+for all citizens over 14
+years of age and it is also
+valid for travel to most
+CIS countries. However,
+the international
+passport is required for
+all other cross-border
+travel.
+
+15 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Figure 5. Issuance of short-term visas in EB-RAN countries and the
+Russian Federation continued to grow in 2012
+Short-term visas issued in 2007–2012
+
+16 000 000
+14 000 000
+
+Other
+Moldova
+Belarus
+
+Ukraine
+Russian Federation
+
+12 000 000
+10 000 000
+8 000 000
+6 000 000
+4 000 000
+2 000 000
+0
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Source: European Commission Directorate-General Home Affairs, Overview of Schengen Visa
+Statistics 2009-2012, 2013.
+
+For example, after finishing the reconstruction of Privalka BCP – which increased its
+capacity threefold – Belarus continues reconstruction of several BCPs. Belarus is also
+interested in changing the status of some
+BCPs from local to international. In order to
+lift the pressure from the existing BCPs, new
+BCPs are also being built, such as BudomierzHrushev between Poland and Ukraine, which
+was opened in December 2013.
+However, in the current economic situation
+there are limits to investments in the new
+BCPs. Therefore, a new approach and innovative solutions to increase the efficiency of
+the currently available resources are necessary. The following not all-encompassing list
+of mitigation measures is intended to give a
+quick look at the measures that have been
+planned or implemented at various border
+sections in the region.
+a) New logistical and technical solutions
+for border checks
+
+© Polish Border Guard
+
+Effectiveness and speed of border checks can
+be enhanced by minimising the time required
+for passengers to move from the vehicles to
+the checks. One possible solution is the implementation of checks at particular lanes,
+as planned at large BCPs in southeast Finland. The general principle is that first-line
+border checks are made while the passengers are staying in their vehicles. The first
+experiences from the Finnish BCP of Imatra
+have been good.
+Figure 6. Budomierz-Hrushev BCP at the Polish-Ukrainian border
+
+16 of 50
+
+Possible measures to mitigate growing
+pressure in border checks
+
+Poland, on the other hand, has constructed
+special lanes for LBT permit holders at the BCP
+of Grzechotki in order to speed up checks.
+
+Growth of regular traffic in recent years has
+required increased resources from the border authorities to maintain security and facilitate travel. Consistent efforts to develop
+BCP infrastructure are needed to keep up
+with the growing traffic flows.
+
+Train border checks have also been developed either with mobile checks performed
+on trains (for example Helsinki / St Petersburg) or at departure stations (for example
+Vilnius /Minsk) thus minimising long stops at
+BCPs and allowing more time for the checks.
+
+© Finnish Border Guard
+
+Figure 7. Plan of infrastructure for lane checks (now under construction)
+
+Automated Border Control (ABC) can also
+help decrease pressure on BCP personnel.
+Looking from the EU-side of the border, the
+main problem has been the technical difficulty in using the ABC by third-country
+nationals.
+b) Online queuing  /  registration systems
+for border checks
+In order to avoid the formation of queues and
+to make border-crossing smoother for bona
+fide travellers, several Member States (Lithuania, Estonia and Finland) have adopted
+or are planning to introduce online systems
+for lorry and / or passenger traffic where a
+time slot for border checks can be ordered
+in advance. According to open sources, similar systems are planned also by the Russian
+Federal Agency for the Development of the
+State Border Facilities (Rosgranitsa) at the
+Finnish-Russian border.
+In addition to providing comfort to travellers, these systems make the operational
+environment more predictable for the border authorities and help in planning the use
+of resources.
+Another possible added value in these systems could be the exploitation of Advance
+Passenger Information (API). However, in the
+current systems, the data required to reserve
+the slot are limited, for example, to the name
+of the client and registration number of the
+vehicle. However, the possibilities to use the
+information available in the queuing systems
+should be fully explored.
+
+c) Strengthening of the co-operation
+between border authorities,
+especially customs
+Close cooperation between border and Customs authorities is one of the key issues in
+improving the capacity to counter cross-border crime. Additionally, cooperation makes
+the use of resources more efficient.
+In Finland, border guards and customs officials
+have continued the Nuija project, where the
+cargo and passenger traffic have been segregated. In the first phase of the project the
+Customs carried out first-line border checks
+in cargo traffic on behalf of the Border Guard.
+Cooperation also took place in the form of joint
+briefings at the beginning of each shift, joint
+field checks (including drug detection dogs) on
+lanes and further training for both authorities.
+The use of shared databases and information
+systems by the Border Guard, Customs and
+Traffic Police also increased the speed of border
+control. The NUIJA2 pilot, which ran from December 2012 to October 2013, further expanded
+cooperation. The Border Guard conducted certain duties on behalf of the Customs, for example checking vehicle insurances, tax-free sales
+export validation i.e. checking and stamping
+tax-free cheques and invoices. The project has
+resulted in more flexible and efficient use of
+resources and an altogether smoother process
+for customers (one-stop shop).
+d) Legal changes considering private
+imports of excise goods
+Small-scale smuggling of excise goods, especially petrol, for resale purposes has been
+
+17 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+widespread at several border sections. In
+some locations these activities produced significant queues at BCPs. Consequently, the
+restrictions of these activities can have important impacts on the volume of passenger
+flows. For example, when Estonia restricted
+the number of imports of fuel without excise
+duty in December 2013 to only one per month
+the traffic flow decreased by 20% arguably
+streamlining the border checks of other regular passenger flows.
+
+of drugs also remained an important threat
+to border security at several border sections.
+Cross-border crime was also behind a large
+number of detected illegal border-crossings,
+especially those involving migrants of regional nationalities.
+
+The smoothness of border checks is, indeed,
+a factor in the development of tourism. For
+example, it has been assessed that the reasons for the recent growth in Russian tourism
+in Estonia included improved transportation
+links and shorter queues for border checks.
+
+Detections of illegal border-crossing between
+BCPs dropped slightly by 11% from 5 299 to
+4 708 at common and regional borders (including the border with the Russian Federation with data from the EU or EB-RAN
+member side of the border only). Similarly,
+detections of illegal border-crossing at BCPs
+dropped by 15% from 2 236 to 1 908.
+
+e) Future possibilities: entry  /  exitsystems and Registered Passenger
+Programs
+An EU-level Entry / Exit System to record the
+time and place of entry and exit of third-country nationals would make checks of period of
+stay faster and at the same time mitigate
+the risk of the use of false stamps. Registered Traveller Programmes (RTPs) would
+allow certain groups of frequent travellers
+from third countries to enter using simplified
+border checks, again speeding up the checks.
+From the EU-point of view these mitigation
+measures are included into the Smart Borders
+package that should be fully implemented.
+
+2.2. Irregular migration
+The trends in irregular migration at the common borders were mixed with fewer detected
+attempts of illegal border-crossing but clearly
+more refusals of entry, indicating rising the
+risk of abuse of legal travel channels. Crossborder criminality, mainly of large- and smallscale smuggling of excise goods (tobacco),
+trafficking in stolen vehicles, and smuggling
+
+18 of 50
+
+Illegal border-crossing
+Detections at common and regional
+borders
+
+However, it should be strongly stressed that
+only 33% of the detected illegal border-crossings between BCPs and merely 9.4% of those
+at BCPs were associated with the purpose of
+irregular migration, while the share of smuggling purposes was 12% and 19%, respectively.
+‘Other’ reasons, which accounted for 40% of
+the detections and were reported especially
+from the regional borders, were often connected with illegal hunting, fishing and other
+local-level activities with little or no impact
+on the wider EB-RAN region.
+Detections by Member States  /Schengen
+Associated Countries
+In 2013 detections of illegal border-crossing by
+the Member States remained at a low level in
+comparison with other parts of the EU borders: only 1.2% of all illegal border-crossings
+reported by Member States at external borders were reported from the 6 000-kilometre-long EU’s eastern borders.
+In line with figures from common and regional borders, Member States also reported
+
+decreasing (-18%) detections of illegal bordercrossing between BCPs in 2013 (1 316) compared with the previous year (1 597). However,
+the figures were still clearly higher than in
+2011 (1 049). The drop in relation to 2012 can
+be explained by two main factors: the drop
+in detections of Somali nationals at the Slovakian-Ukrainian border and the overall increase in detections of illegal border-crossing
+by the Belarusian authorities at the Lithuanian-Belarusian border.
+The decrease of detections at the so-called
+eastern border route contrasted with the rising trend of detections of illegal border-crossing at the EU external border in general (+48%
+in comparison with 2012). Although the same
+external factors, such as the Syrian war, do
+have impact on practically all European borders, the magnitude of that impact in terms
+of irregular migration flows remained low at
+common land borders. The decrease of transiting non-regional migrants, especially Somalis and Afghans, at the eastern border route
+could be partly explained by the difficulty and
+cost of taking the eastern border route when
+compared with other cheaper and more reliable alternative routes towards the EU in 2013.
+The number of detected attempts of clandestine entry at the BCPs at common borders
+by Member States was only six (all reported
+by Romania). However, considering the high
+volume of vehicles, lorries and both cargo and
+passenger trains crossing common borders,
+the risk of use of this modus operandi should
+not be underestimated.
+Composition of the flow
+Member States detected more illegal border-crossings by regional nationalities (CIS*
+countries and Georgia) than transiting nonregional ones. However, in relative terms
+non-regional migrants more often tend to
+use illegal border-crossing as the modus operandi to enter the EU. Moreover, there is a
+
+Figure 8. Shares of regional and non-regional (other) migrants in
+detections of illegal border-crossing between BCPs by Member States
+in 2013 show a slightly declining number of regional migrants and
+more fluctuation in the number of detections of other migrants
+Detection of illegal border-crossings by neighbouring Member States in 2013 with shares of
+regional and other migrants
+
+1800
+other
+1600
+
+EB-RAN region nationals
+
+1400
+1200
+1000
+800
+600
+400
+200
+0
+
+2011
+
+2012
+
+2013
+
+Source: FRAN data as of 10 February 2014
+
+qualitative difference in the purpose of illegal
+border-crossing. As regards regional nationalities over one-third of cases were connected
+with other reasons than irregular migration
+(smuggling, other reasons), while in the case
+of transiting flows originating outside of the
+region, irregular migration was clearly the
+main purpose of illegal entry.
+In terms of nationalities reported by Member
+States, Georgians (235) ranked first, mainly
+detected at the Lithuanian-Belarusian border,
+followed by Afghans (149, mainly at the Slovakian-Ukrainian border) and the Vietnamese (149, mainly at the Lithuanian-Belarusian
+border). Syrian nationals were the fastest
+growing detected nationality, though the
+numbers of detections (114, or +208% in comparison with 2012 at all borders in question)
+remained low in wider European context.
+
+* Commonwealth of
+Independent States
+
+19 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Main entry points
+At common borders, in view of the data available from the both sides of the border, the busiest border sections in terms of detections of
+illegal border-crossing between BCPs were the
+Slovakian-Ukrainian (-13% in comparison with
+2012) and the Lithuanian-Belarusian borders
+(-2.7% compared with 2012). However, considering the Lithuanian-Belarusian border, it
+should be noted that the share of detections
+reported by Belarus rose, thus decreasing the
+pressure at the EU-side of the border.
+The largest increase reported by Member
+States was +163% reported by Estonia (with no
+data from the Russian Federation). However,
+the growth resulted mainly from changes in
+reporting. Moreover, only a minority of detections was connected with irregular migration.
+Abuse of legal entry
+In contrast to the relatively stable trend in detections of illegal border-crossings, the number of refusals of entry rose to over 50 000,
+i.e. 39% of the EU total, indicating a growing
+risk of abuse of legal travel channels. While
+the increase in refusals of entry can be partly
+explained by growing regular traffic, two
+main individual phenomena stood out in 2013:
+1.	A sharp increase in nationals of the Russian Federation of Chechen origin refused
+entry and then using asylum applications
+in Poland as a way to enter the EU and
+move further to Germany.
+2.	Continued flow of Georgian nationals to
+Poland and further on to other Member
+States by using a variety of modi operandi
+from illegal border-crossing between BCPs
+to the abuse of the asylum system.
+The main entry point in both cases was
+the Polish-Belarusian border, which issued
+roughly half of the total number of refusals
+
+20 of 50
+
+in 2013 (it should be noted that some persons
+were refused multiple times).
+It can be assessed that the issue of migrants
+who were refused entry and applied for asylum and who subsequently absconded from
+reception centres was indeed the most serious phenomenon of irregular migration at
+the common borders in 2013. While not attracting media attention and not putting the
+lives of migrants at risk, the use of this modus operandi appears to be a significant entry channel of irregular migration to the EU.
+It takes advantage of legal channels of entry but also creates considerable workload
+for border guards at BCPs.
+Document fraud
+Unlike in the case of refusals of entry, detections of fraudulent documents at common borders were most commonly made
+at the borders with Ukraine. Záhony BCP at
+the Hungarian land border with Ukraine reported the most cases of document fraud on
+entry to the EU / Schengen area.
+Although there was a decreasing trend in detections, the most common type of fraudulent document remained counterfeit stamps
+that were mostly used by Ukrainian nationals in order to conceal overstaying. Indeed,
+in the case of Ukrainian nationals more persons were detected using false documents on
+exit from Schengen area / EU than on entry.
+The detections of fraudulent documents
+by EB-RAN countries remained stable with
+Ukraine reporting 69% of detections.
+
+2.3. Institutional changes
+Visa liberalisation process with Eastern
+Partnership countries
+The EU conducts ‘Visa Liberalisation Dialogues’ with three Eastern Partnership coun-
+
+tries, namely Ukraine, Moldova and Georgia.
+Through these dialogues, the EU is taking
+gradual steps towards the long-term goal
+of visa-free travel on a case-by-case basis,
+provided that conditions for well-managed
+and secure mobility are in place.*
+Although only three out of the six Eastern
+Partnership states, namely Moldova, Ukraine
+and Georgia, have been granted Action Plans,
+all the six countries, including Belarus, Armenia and Azerbaijan, have been working
+towards visa liberalisation and meeting the
+criteria.
+In November 2013, the Commission proposed
+to grant visa-free travel to the Schengen
+area for Moldovan citizens holding a biometric passport. This proposal was built on the
+successful implementation by the Republic
+of Moldova of all the benchmarks set in its
+Visa Liberalisation Action Plan. Visa liberalisation between the EU and Moldova entered
+into force on 28 April 2014.
+As there is already a considerable mobility between Moldova and Romania, fuelled
+for example by a large number of Romanian
+passport holders in Moldova and well-developed security features of Moldovan travel
+documents, neither Moldova nor Romania
+expect visa liberalisation to radically change
+the operational environment at their common borders.
+Possible general impacts of visa
+liberalisations
+Except for Moldova, the timetable leading to
+actual visa liberalisation is not known, but
+some consequences for border-control authorities can be outlined.
+While visa liberalisation would promote and
+ease cross-border traffic, it would also increase the workload of border authorities. In
+the absence of a visa procedure, the nature
+
+of the checks would change and the assessment of the validity of entry would fall fully
+under the responsibility of border authorities.
+The growth of regular traffic would be felt
+mostly at land borders, but it would likely also
+increase traffic on existing air and sea routes
+as well as create new routes. In some cases
+this might require establishing new BCPs.
+As far as changes in modus operandi of irregular
+migration are concerned, it is likely that the
+abuse of legal entries would grow, increasing the number of refusals of entry.
+As regards mitigation measures most investments should be directed to strengthen
+border checks. These include measures that
+are necessary even without visa liberalisations and – looking on the issue in the longer
+term – are already included in the smart
+borders package, including entry / exit system that would mitigate the risk of overstaying and use of forged stamps. Registered
+Travellers Programmes (RTP) would help
+to ensure smooth passenger traffic flows.
+Coming to the border check procedures and
+technology, the already existing and partly
+implemented solutions such as Automated
+Border Control, online queuing systems,
+and changes in the flow of traffic through
+the border checks (change from booths to
+lanes and mobile devices) are among measures that could as well mitigate the pressure at BCPs.
+
+* At an extraordinary
+meeting on 6 March
+2014, the European
+Council decided to
+suspend bilateral
+talks with the Russian
+Federation on visa
+matters. This means that,
+at the time of writing,
+visa-free travel for
+Russian citizens has been
+postponed indefinitely.
+
+The management of regular traffic flows as
+well as identifying criminal activities among
+it would also require continuous and smooth
+information exchange between the authorities, including the Customs, on the both sides
+of the border, as well as police and migration authorities inland. In this regard, the
+activities of liaison officers could be broadened from visa issuance and border check
+support to a wider co-operation in criminal
+investigations, information exchange and
+risk analysis.
+
+21 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+The roll-out of and impact of Visa
+Information System and possible impacts
+on local border traffic permits
+Local border traffic agreements (LBTAs) provide for the issuance of permits entitling
+border residents to cross an external border under the local border traffic regime. In
+general LBT permits do not include other biometric identifiers besides the photograph
+of the holder. In light of the mandatory introduction of fingerprint checks in the Visa
+Information System at land borders from October 2014, there arises a question of whether
+LBT permits will be still exempt from the requirement to provide fingerprints. Mandatory fingerprints in border checks will most
+likely increase the average time spent at a
+border check thus adding to the challenge
+to keep the traffic smooth.
+
+2.4. Environmental scan
+Transit and origin countries
+� Russian Federation
+The Russian Federation is one of the largest receivers of migrants in the world, with
+roughly 10 million foreign workers in the
+country. The flow of irregular migration to
+the Russian Federation, especially with the
+intention to undertake unauthorised employment, continues at a large scale, too.
+In fact two contradictory trends coexist in
+the Russian migration policy. First, there is
+a recognised need for foreign workforce in
+the Russian Federation as well as plans to
+free the movement of labour in the context
+of the Common Economic Space and the
+planned Eurasian Union. On the other hand,
+there is an increasing popular and political
+criticism against the use of foreign workforce reflected in the wide-scale police raids
+against the migrants coming not just from
+
+22 of 50
+
+abroad, but also from the Northern Caucasus region of the Russian Federation.
+Estimates of the foreign labour force in the
+Russian Federation vary. The Russian Federal
+Migration Service assesses the number of irregular labour migrants at roughly 3.5–4 million. Of these, a large majority have arrived in
+the Russian Federation legally, but are working without permits.
+The large number of irregular migrant workforce is explained by two factors. First, the
+official quota for foreign workforce tends to
+be significantly smaller than the demand for
+labour. Secondly, visa freedom between CIS
+countries and the Russian Federation makes
+entering the Russian Federation legally easy,
+after which it is relatively easy to find work.
+The authorities have aimed to curb irregular migration by tightening legislation and
+introducing heavier fines. For example, in
+August 2013 new fines were introduced for
+migrants detected for illegal stay in Moscow
+and St Petersburg. According to these new
+rules, persons without valid documents for
+work or stay would be fined from RUB 5 000
+to 7 000 (EUR ~110–160) and face deportation with an entry ban for five years.
+Moreover, according to the new Russian regulations that came into force on 1 January
+2014, foreigners – including citizens from
+CIS countries – who lack long-term visas
+can stay in the Russian Federation for 90
+days in a 180-day period. Previously, it was
+enough to cross the border in order to get a
+new entry stamp to renew the 90-day permission. Violators are subject to a three-year
+ban on entering the Russian Federation. For
+those who are working in the Russian Federation without permission this may create
+an incentive to develop new modi operandi to
+circumvent this rule, such as falsifying entry / exit stamps.
+
+In addition to the new regulations, the migration issue became increasingly politicised in 2013. Two large anti-migrant riots
+in Moscow in 2013 – in August and October
+– were followed by the Russian authorities’
+raids on work places and accommodation
+of illegally working migrants. The police
+discovered, for example, garment factories with irregular foreign workforce. Many
+detainees were Vietnamese, but included
+Egyptian and Syrian nationals, too. Many
+Vietnamese migrants had been working illegally in Russia’s textile industry for years,
+often in conditions of near-slavery. According to open sources, several thousands of
+migrants were detained.
+These intensified raids on irregular migrants could trigger more movements towards EB-RAN countries and the EU. If the
+current economic downturn in the Russian
+Federation continues – due to the crisis in
+Ukraine and possible further sanctions on
+the Russian Federation – and has a negative
+impact on the labour market, migrants may
+start to look for new destinations. The most
+likely groups possibly attempting to search
+for work in the EU could include groups with
+significant diasporas both in the EU and the
+Russian Federation, including nationals of
+Vietnam. During the previous economic depression in 2009 the migrants originating
+from the CIS area mostly opted to return to
+their home countries.
+In the North Caucasus region the situation
+remains tense especially in Dagestan, which
+has witnessed most political violence in the
+Russian Federation in recent years. Although
+Chechnya has been relatively calm, instability in the region as a whole has increased
+as militants moved over from Chechnya to
+other republics. Dagestan is also one the
+poorest areas of the Russian Federation
+and has one of the youngest populations
+in the country. Continued attempts of nationals of the Russian Federation from the
+
+Northern Caucasus region to enter the EU
+either for security or economic reasons are
+therefore likely.
+Selected countries of origin
+Nationals of a wide variety of countries
+are detected for irregular migration using EB-RAN countries mainly as a transit
+area. In terms of possible changes in 2014
+two countries can be highlighted: Syria and
+Afghanistan.
+� Syria
+The complex dynamics of the civil war in
+Syria – which includes ethnic, religious and
+sectarian overtones, plus influential regional
+geopolitics not to mention Islamist extremism – will continue to contribute to the protraction of any political resolution to the
+conflict. The reign of terror plus other socio-economic considerations, including the
+extent of urban tenements’ destruction, will
+hinder returns back home at least in the short
+to medium term.
+With no end of the conflict in sight, considering the atrocities committed, difficult conditions in refugee camps, cities and towns, and
+no viable framework for a realistic political
+transition, Syrians will increasingly consider
+and eventually likely opt to leave their current place of refuge (over 2.5 million Syrians
+are already registered as refugees outside
+Syria – UNHCR) in order to secure a better
+future for their families.
+Migratory pressure on the EU’s external borders as well as EB-RAN countries’ borders
+is bound to continue as larger numbers of
+Syrian nationals, and those claiming to be
+of Syrian nationality, will seek different options beyond finding refuge in the countries
+immediately bordering Syria. In the CIS region, Armenia and the Russian Federation
+are the most likely destinations with possi-
+
+23 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+ble secondary movements towards the EU.
+Therefore, continued inflows through multiple border sections should be expected.
+� Afghanistan
+Afghanistan is currently in the middle of a
+complicated transition in key fields of security, the economy and institutions. The successes or failures of this transition are closely
+felt by the Afghan society and are also impacting the patterns of emigration.
+
+* UN High Commissioner
+for Refugees (UNHCR),
+Volrep and Border
+Monitoring Monthly Update,
+December 2013, available
+at: http://www.refworld.
+org/docid/52d7b3e84.html
+[accessed 13 June 2014]
+
+There are already signs that the uncertainty
+about Afghanistan’s future has reversed
+years of decline in the outflow of refugees,
+in which returning Afghans consistently outnumbered those fleeing. The number of internally displaced persons (IDPs) is growing
+and is currently estimated at some 600 000.
+The number of voluntary returns is declining,
+too. According to UNHCR, a total of 94 000
+Afghans returned to Afghanistan voluntarily
+in 2012, but in 2013 this figure fell to roughly
+38 000.* It also seems that the number of
+Afghan asylum seekers is growing again.
+According to the Afghan Ministry of Refugees and Repatriations, the most recent
+figures show 60 000 Afghan asylum seekers in 2013 in Western and other industrialised countries.
+Indeed, it is estimated that Afghanistan currently has a net outflow of people, in numbers
+not seen since 2001. Still, the future scale of
+outward migration from Afghanistan is still
+depending on the success of the complex
+transition in the area of security, the economy and institutions. Moreover, the scale of
+migration outside of the region depends on
+the policies of Iran and Pakistan in relation
+to Afghan migrants.
+The lead responsibility for security in Afghanistan has, since 2013, gradually been transitioned from the NATO-led International
+Security Assistance Force (ISAF) to the Af-
+
+24 of 50
+
+ghan National Security Forces (ANSF). The
+aim is for Afghan forces to have full responsibility for security across the country by the
+end of 2014.
+At the end of 2013 it was clear that security situation in Afghanistan continued to
+be highly volatile. Afghan forces were able
+to respond to attacks and mostly held on.
+While the Taliban’s assassination campaign
+did take a heavy toll on police officials and
+lower-level district officials, it is assessed
+that it did not succeed in breaking the central government’s ability to function. Most
+of the fighting remained in the eastern and
+southern parts of Afghanistan and was waged
+outside large cities.
+At the same time, the Taliban did not show
+signs of weakening either. The Afghan security forces were not able to make significant gains and also suffered heavy casualties
+that, according to unofficial sources, may
+have doubled since last year. According to
+the CSIS, total ISAF and ANSF casualties are
+now in fact far higher than at any previous
+moment in the war, in spite of the fact that
+the ISAF’s share of casualties is now negligible. In the southern rural areas of Afghanistan, the insurgents’ continued appearance
+as the more credible military force out of cities added weight to theories that the Taliban
+could be controlling those areas after 2014.
+Although the ANSF did succeed mostly to
+contain Taliban advances in 2013, the targeted killing of public officials and civilians
+indicates that a growing group of Afghan
+citizens are under increasing personal security threat.
+Facing the possible decrease of foreign aid, it
+is also assessed that incomes from drug-trade
+will be increasingly important. According to
+UNOCD, opium poppy cultivation in Afghanistan reached a record high in 2013. In 2013
+the cultivation amounted to some 209 000
+
+hectares, a 36% increase over 2012. Moreover, two provinces that had previously been
+declared poppy-free in northern Afghanistan lost this status. All in all, opium production in 2013 went up to some 5 500 tonnes,
+a 49% increase over 2012. In 2013 opium exports represented roughly 14% of the GDP of
+the country. As the level of opium production
+has tended to correlate with low development
+and high insecurity, the future prospects are
+worrying. This would also affect the countries on the export routes of the drugs – including Central Asian CIS countries and the
+Russian Federation.
+
+To conclude, it is likely that the problems
+encountered in all fields of transition will
+increase internal displacement, decrease voluntary returns and increase emigration from
+Afghanistan. In the past, a great majority of
+the Afghans leaving the country were able to
+find means of living in Iran or Pakistan. The
+current increasing reluctance of the governments of these two countries to receive
+Afghan migrants and refugees is, however,
+making this option less viable. This in turn is
+likely to increase the likelihood of attempts of
+secondary irregular movements out of the region, impacting among others the CIS region.
+
+25 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+3. Annual risk assessment 2014
+The following risk assessment is guided by
+the CIRAM working definition of risk as a
+function of three main components: threat,
+vulnerability and impact. A systematic examination of each component allows for classifying risks into categories of significance.
+Establishing a general context in which border
+authorities from EB-RAN countries and the
+neighbouring Member States operated during 2013 is therefore important for identifying
+the main border (regional and common) security risks. To narrow down the selection, a
+detailed analysis of the available monthly statistical data (both FRAN and EB-RAN), Frontex operational data, bi-monthly reports and
+previous EB-RAN annual risk analyses was
+performed. The following three main risks
+have been identified:
+
+26 of 50
+
+1.	Risk of cross-border smuggling and exploitation of green / blue borders as a point of
+entry for smuggled goods (smuggling of
+tobacco products, precursors and drugs,
+stolen vehicles, and other goods);
+2.	Risk of significant transiting irregular migration flows originating outside of the
+wider EB-RAN region (e.g. ‘non-regional’
+irregular migrants from Africa, the Middle East, Asia, Latin America);
+3.	Risk of sustained irregular migration flows
+originating from the EB-RAN region, including CIS countries and Georgia.
+Each identified risk is described in detail, broken down by its main components.
+
+3.1. R
+ isk of cross-border
+smuggling and exploitation
+of green  /  blue borders
+as a point of entry for
+smuggled goods (smuggling
+of tobacco products,
+precursors and drugs,
+stolen vehicles, and other
+goods)
+3.1.1. Description of the threat
+EB-RAN data, as well as information from
+Frontex-coordinated Joint Operations supported by open-source information, indicates that cross-border criminality, mainly
+large- and small-scale smuggling of excise
+goods, trafficking in stolen vehicles and the
+smuggling of drugs remain the most significant threat to border security at the common land borders.
+Due to the legal and institutional characteristics, national Border Guard authorities along
+the EU eastern border have different types and
+degrees of responsibility in the fight against
+cross-border crime. Moreover, the nature and
+extent of inter-agency cooperation at the external borders differs greatly between these
+countries. Typically, preventing the smuggling of goods falls more under the responsibility of Customs authorities than border
+guards. Nevertheless, border guards regularly have to react and engage in combating
+these criminal activities, especially along the
+green borders. Indeed, according to statistical data, at some border sections the smuggling of goods seems to be a more frequent
+reason for illegal border-crossing than reasons related to migration.
+Smuggling of excise goods
+As a response to the euro and financial crisis of the last years, many EU governments
+increased their taxes on excise goods. Between July 2012 and 2013, at least ten Mem-
+
+ber States increased their duties on cigarettes,
+on average by EUR 0.33 per pack of the ‘Most
+popular price category’, as defined by the European Commission.*
+Currently, the customer would pay EUR 5
+for an average pack of cigarettes in Finland,
+whereas across the Russian border, the same
+pack would cost him only around EUR 1.5. Not
+only individual consumers and small-scale
+smugglers from economically weak border
+regions try to take advantage of existing
+price differences. Large-scale criminal businesses illicitly import large amounts of cigarettes hidden on cargo trains and in lorries.
+
+* European Commission,
+Excise duty tables
+– part III, European
+Commission, Directorate
+General, Taxation and
+Customs Union, REF
+1038 rev 1, July 2013,
+http://ec.europa.eu/
+taxation_customs/
+resources/documents/
+taxation/excise_duties/
+tobacco_products/rates/
+excise_duties-part_iii_
+tobacco_en.pdf
+
+Legally binding agreements signed by the EU
+and the four largest tobacco manufacturers
+with the intention to address the problem
+of contraband cigarettes and to prevent the
+oversupply of third-country markets effectively cover international brands and 80% of
+the world market. However, many factories
+producing counterfeit cigarettes and ‘cheap
+whites’ are not concerned by the limitations
+and the tracking system provided by these
+agreements.
+Less prominent companies outside the EU still
+sell large quantities to third-country markets,
+where only an insignificant share of these
+cigarettes can be absorbed by the local demand. Much of the rest is then smuggled out
+to Member States. In particular, seizures of
+‘cheap white’ brands have been showing a
+strong upward tendency over the past few
+years. An example is the Jin Ling cigarette
+brand produced in Kaliningrad, which grew
+so popular among western consumers that
+this brand itself is being counterfeit.
+Although cigarette prices have recently also
+increased in the eastern neighbourhood of
+the EU, the smuggling of cigarettes from Belarus, Moldova, Ukraine and the Russian Federation remained highly profitable and fuelled
+the growth of transnational organised crime
+
+27 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+groups active in that business. Surprisingly,
+in Belarus, retail sales in 2012 increased despite of the upward price development. According to open sources, a large share of the
+risen demand was caused by ‘private exports’
+to countries of the EU.
+In 2013, most illicit cigarettes detected in the
+context of Frontex Joint Operations were
+smuggled across the eastern borders of the
+EU. In this context, more than 26.8 million cigarettes were seized in 374 incidents. A majority of detections were related to smaller
+amounts of cigarettes smuggled by residents
+of the border regions or other frequently
+travelling individuals. Excluding 10% of the
+largest seizures, an average of 40 cartons of
+illicit cigarettes were detected by the border authorities. The contraband was predominantly hidden in specially constructed
+concealed compartments in vehicles. Accordingly, around two-thirds of all detections at
+common borders were made in private cars
+or vans, and 13% on public buses.
+The contraband of petroleum products was
+mainly reported from the eastern EU borders with Belarus, the Russian Federation and
+Ukraine. This illegal activity was fuelled by
+the price difference between Member States
+and their third-country neighbours. In many
+cases, the smugglers crossed the border several times a week to fill up the large or illegally extended petrol tanks of their private
+vehicles. This type of contraband, commonly
+known as ‘ant smuggling’, did not only cause
+substantial fiscal losses, but also increased
+the workload of border guards significantly.
+Fuel smugglers were, to a large extent, responsible for long border queues at the BCPs
+at common borders. Member States like Estonia, Poland and Slovakia are currently taking measures to prevent that individuals cross
+the borders on a regular basis to import fuel
+for other than private use. Travellers arriving
+in Estonia by car, for example, may now bring
+fuel exempt from excise duty in the quantity
+
+28 of 50
+
+of one regular fuel tank only at the first entry within a calendar month.
+Exit of stolen vehicles
+According to Eurostat, the total number of
+vehicles, including cars, motor cycles, buses,
+lorries, construction and agricultural vehicles, stolen in the EU has been steadily falling from 1.85 million in 1998 to 0.88 million
+in 2010. Among the reasons were the development of advanced technical anti-theft
+measures and intensified international lawenforcement cooperation.
+Only a small share of the vehicles stolen in
+the EU is detected at its external borders,
+often in the context of Frontex Joint Operations. In contrast to the overall theft statistics, detections at the borders reported to
+Frontex have been slightly rising from 498 in
+2012 to 519 in 2013, around 60% of these at
+the EU’s eastern borders. The increase was
+mainly caused by a rise in awareness and related expertise of Frontex Guest Officers and
+regular border guards.
+Most car thefts were detected by queries in
+the SIS II, INTERPOL and national theft databases for the Vehicle Identification Number
+(VIN) specified on the engine, frame and major parts of most motor vehicles. Car thieves
+applied various modi operandi to cloud the
+identity of their stolen vehicles at the external borders, such as through manipulation of
+the VIN number. In other cases, vehicles were
+disassembled into parts to obscure identification or powers of attorney containing an authorisation to travel abroad were counterfeit.
+The above mentioned modi operandi were
+regularly reported at the EU’s eastern borders, where detections of stolen vehicles on
+exit increased from 289 in 2012 to 313 in 2013.
+The vehicle brand preferences did not change
+during the last years, as around 40% of the
+cars detected were produced by Volkswa-
+
+Figure 9. EB-RAN countries continue to be one of the main markets for vehicles stolen in the EU
+Main routes of stolen vehicles across the EU’s eastern borders
+
+Flows of stolen vehicles
+Main route for motorbikes
+stolen in Italy
+
+Mercedes
+17%
+Others
+55%
+
+Volkswagen
+14%
+
+BMW
+8%
+Renault
+6%
+
+Schengen Member States
+EU non-Schengen Member States
+third countries
+Borders with:
+third countries (external border)
+between Schengen Member States
+or Associated Countries
+between non-Schengen Member
+States or between third countries
+
+Source: Joint Operations Reporting Application and Member States bi-monthly reports
+
+gen, Mercedes Benz and BMW. The majority
+of persons driving stolen vehicles were nationals of the country to which they intended
+to leave the EU. For example, 131 of the 192
+persons attempting to transfer their stolen
+vehicle to Ukraine were of Ukrainian nationality, only 35 were EU citizens.
+Most cases were reported from the Ukrainian border, with numbers slightly decreasing
+
+from 189 in 2012 to 175 in 2013. The majority
+of the cars stopped on their way to Ukraine
+were stolen in Italy (26%), Germany (20%)
+and Spain (9%). Most stolen vehicles were
+about to leave the EU through Polish BCPs
+to Ukraine, particularly Medyka and Korczowa, which are situated at or in proximity to
+the economically important European Route
+E40 that connects Western Europe with the
+countries of Central Asia.
+
+29 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+* http://en.itar-tass.com/
+world/705571
+
+30 of 50
+
+With 70 detections of stolen vehicles in 2013,
+numbers reported from the Belarusian border
+remained stable in comparison to 2012. Moreover, Belarusian authorities reported frequent
+attempts to avoid import duties for both
+bought and stolen vehicles through the use
+of Belarusian vehicle documents and number plates belonging to ‘twin’ vehicles of similar appearance and technical specifications.
+Another way to evade import duties involved
+EU citizens requesting a duty-free temporary
+admission and subsequently transferring the
+vehicle to a Belarusian national.
+
+incidents were part of a temporary surge or
+represented an emerging trend.
+
+Border guards deployed at the EU external
+borders to Ukraine and Belarus registered
+further increase in the number of motorbikes stolen in Italy. As reported to Frontex, the phenomenon spread to an extent
+that this vehicle type represented more than
+74% of all Italian stolen vehicles detected at
+the border to Ukraine in 2013. From Italy,
+where the motorbikes were disassembled
+and loaded onto buses and vans, organised
+crime groups took the shortest routes and
+entered Ukraine from Hungary or the south
+of Poland. Most motorbikes were identified
+at the BCPs of Záhony and Medyka, being
+the nearest BCPs from Italy.
+
+Authorities and international organisations
+have observed that the northern route leading through Central Asia and the Russian
+Federation is continuously used to supply
+markets of both the EU and its eastern neighbours. One reason for the lasting significance
+of this route is presumably related to the establishment of the Customs Union of Belarus,
+Kazakhstan and the Russian Federation. According to EMCDDA and Europol, Lithuanian
+organised crime groups have access to the
+heroin trafficked via Central Asian countries
+through their Russian crime connections and
+therefore play an important role in its distribution in north-eastern Europe.
+
+Smuggling of illicit drugs
+
+An international operation in October 2013
+conducted in the Afghan Badakhshan province caused a major blow to opiate trade
+along the northern route. Afghanistan’s antidrug police in cooperation with the Russian
+drug control service and with support of the
+U.S. Drug Enforcement Administration raided
+two drug laboratories and seized more than
+4.7 tonnes of opiates and 1.2 tonnes of opium
+poppy seeds.*
+
+Towards the end of 2013, border authorities have seen a spate of cannabis smuggled
+from Poland to Belarus and Ukraine. Belarusian and Polish Border Guards reported
+that only between September and December they detected six major trafficking cases
+leading to the seizure of the total amount of
+around 230 kg of cannabis. In the largest of
+these cases, a resident of St Petersburg attempted to smuggle 90 kg of cannabis in a
+concealed compartment of his private vehicle. Also late in 2013, the Polish Border Guard
+seized 175 kg of hashish, which Russian nationals intended to traffic to Ukraine. The
+coming months will show whether these
+
+While, according to estimates of UNODC, the
+use of heroin generally decreased in the EU,
+substantial seizures of the substance were
+reported from the EU’s eastern borders. In
+one of the cases uncovered in March 2013,
+Belarusian police and Customs authorities
+seized more than 85 kg of heroin at the BCP
+of Kotlovka at the Lithuanian-Belarusian border. The substance was smuggled hidden in
+a semitrailer driven by a Moldovan citizen.
+
+Regarding amphetamines, the Russian Federation is assessed to be one of the most
+important source countries of the precursor chemical 1-phenyl-2-propanone (BMK), a
+colourless or slightly yellow oily liquid. BMK is
+systematically smuggled across the EU east-
+
+ern borders to amphetamine production sites
+in the EU. Significant production of amphetamines was reported by Poland and the Baltic
+countries. Amphetamines produced in the EU
+are trafficked extensively within the EU and,
+to a lesser extent, across its eastern borders.
+In the other direction of drug flow the Russian Federation and, to a lesser extent, Belarus
+and Ukraine have become destination countries of synthetic drugs and cocaine smuggled
+from and via the EU. A significant number of
+seizures in Central Europe suggest that cocaine from South America is increasingly trafficked to eastern markets within and outside
+the EU. According to EMCDDA, the proportion of cocaine seizures in ten countries located at the EU’s eastern border increased
+from a very low level of 0.1% in 2001 to 1.8%
+in 2011. The EU Drug Markets Report 2013
+thus highlights the Eastern Baltic Sea area as
+potentially an emerging cocaine entry point.
+3.1.3. Mitigation
+Changes in legislation
+Adjustments of legislation and introduction
+of limitations for the import of excise goods
+
+may give border officials the authority to
+tackle small-scale fuel or cigarette smuggling at BCPs. It would, moreover, reduce the
+workload of border authorities.
+Close cooperation between bordercontrol authorities and Customs services
+The detection of drugs and smuggled excise
+goods requires a close cooperation between
+border-control authorities and customs
+services.
+Improved international cooperation
+The exchange of information on criminal
+groups, modi operandi and stolen property
+would assist border guards in the detection
+of cross-border crime. Access to INTERPOL databases on stolen vehicles should be
+enhanced.
+Capacity building and procurement of
+technical equipment
+Enhancing technical equipment at BCPs would
+improve the efficiency of border guards’ work
+in the identification of stolen vehicles and machinery, as well as (synthetic) drugs.
+
+31 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+3.2. Risk of significant
+transiting irregular
+migration flows originating
+outside of the wider
+EB-RAN region
+3.2.1. Description of the threat
+EB-RAN countries are used as a transit area
+to the EU by irregular migrants originating
+from outside of the region, including the Middle East, South Asia and South East Asia. In
+addition to illegal entries, these transit flows
+often include further irregular secondary
+movements within the EU as the main destination countries are usually situated further
+inside the area of free movement.
+However, the magnitude of this threat of
+transiting flow has remained relatively small
+when compared, for example, with routes
+transiting Turkey or North African countries.
+Arguably this is because migrants travelling
+along the route via EB-RAN countries or the
+Russian Federation face: (a) more logistic
+difficulties and higher costs; (b) efficiently
+cooperating border-control authorities on
+both sides of common borders; and, therefore, (c) a high risk of detection.
+Still, the risk of transit use of the EB-RAN region, including the Russian Federation, should
+not be underestimated, especially considering
+the growing volume of international travel
+in the region, major cities near the borders
+(especially in the Russian Federation), evolving labour markets in the Russian Federation and the difficult situation in some of
+the major origin countries of migrants using this route, such as Afghanistan. Moreover, although EB-RAN countries as such do
+not form a unified transiting ‘route’ towards
+the EU, there are links between phenomena
+experienced at the different border sections
+along common borders, indicating that facilitators are actively searching for vulnerable border sections.
+
+32 of 50
+
+It is likely that most of the migrants arrive
+in the region (EB-RAN countries and  /  or the
+Russian Federation) legally or by abusing legal entries with fraudulently obtained visas
+and stay for varying times either irregularly
+or legally. In essence, migrants have then four
+main options of illegal entry to Member States
+from EB-RAN countries: (a) illegal bordercrossing of the land border between BCPs;
+(b) clandestine entry through BCPs; (c) use
+of false documents at BCPs; and (d) abuse of
+legal travel channels.
+It can be assessed that the option of illegal
+border-crossing between BCPs continued
+as the main modus operandi used by nonregional migrants (in contrast to regional
+ones, with the exception of Georgians), although the number of detections decreased
+slightly in relation to 2012.
+New developments
+� Illegal border-crossings between BCPs
+Magnitude of the threat
+Member States reported 663 detections of
+illegal border-crossing by non-regional migrants at common borders and borders with
+the Russian Federation, which was 25% less
+compared to 2012 (886), but still 109% more
+compared to 2011 (317). In all cases the direction was towards the EU.
+Illegal border-crossings reported on both
+sides of common borders (with available data
+for Belarus, Moldova and Ukraine) show, in
+relative terms, a slightly smaller 21% decrease
+from 1 308 in 2012 to 1 035 in 2013.
+The drop was mostly due to a sharp decrease
+in Somali nationals detected by Slovakia. Secondly, the drop in detections by Member
+States was made sharper by increased detections in Belarus at its border with Lithuania,
+
+thus decreasing the relative share of detections at the Lithuanian side of the border.
+Routes
+As regards the routes, the Slovakian-Ukrainian border remained the busiest in terms of
+detections of illegal border-crossing by the
+non-regional nationals. This border section
+was followed by the Lithuanian-Belarusian
+border. The northernmost section of common borders (Finland, Norway) remained
+peaceful in terms of illegal border-crossings, with only four detections of non-regional migrants, all Syrian nationals in 2013.
+Modus operandi
+According to EB-RAN experts, the process
+of illegal border-crossing by non-regional
+migrants is increasingly facilitated, consists
+of several legs and involves several criminal
+groups or hired local drivers etc. taking care
+of particular sections of the journey on both
+sides of common borders. Thus, people detected transporting the migrants are not
+necessary facilitators. Detections of mixed
+groups of different nationalities also continued in 2013, indicating that facilitators
+were able to attract clients from many different countries.
+Seasonality
+When detections at both common and regional borders are put together, a clear seasonality can be observed with the threat of
+illegal border-crossing peaking in July-August.
+However, in individual countries there were
+highly diverse trends. For example in Estonia,
+the top months of detections in 2013 were
+the months of January, February and October. The possible increase in attempted green
+border crossings during wintertime increases
+the risk of loss of life, especially in the case
+of nationalities that may not be aware of the
+dangers of harsh winter conditions.
+
+Composition of the flow
+Trends considering individual nationalities
+differed considerably in 2013, depending on
+a variety of push and pull factors, including
+the developments in origin countries, changing situation on the routes leading to the EU,
+and operational responses by the EU and EBRAN country authorities.
+Afghans were the top nationality detected
+for illegal border-crossing between BCPs in
+2013 although their trend was decreasing.
+At common and regional borders the number of detections dropped by 20% to 263 in
+2013. The drop was mostly due to fewer detections made by Poland, but in other reporting countries the trend was relatively stable.
+The threat of illegal border-crossings by Afghans can be assessed to remain at least
+stable in 2014 due to the ongoing security
+transition in Afghanistan and the uncertainties it produces.
+The detections of nationals of Vietnam at
+common and regional borders (209 in 2013)
+grew by 8% compared with 193 in 2012. In
+fact, illegal border-crossing between BCPs
+on the eastern border route was clearly the
+preferred option for the nationals of Vietnam
+to enter the EU, with only individual cases recorded on the Western Balkans and Eastern
+Mediterranean routes over the recent years.
+The reasons for the continuing popularity of
+the eastern border route among the Vietnamese are likely to include:
+a)	Significant Vietnamese communities in
+the Russian Federation, EB-RAN countries as well as Member States.
+b)	V ietnamese organised crime groups operating in the EU as well as in the Russian
+Federation and EB-RAN countries, creating the demand for irregular workforce.
+
+33 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+c)	Different approaches on visa issuance to
+Vietnamese nationals by the Russian Federation and Belarus, making it possible for
+the Vietnamese to seek entry first to the
+Russian Federation and further to Belarus and the proximity of EU borders.
+Additionally, the recent activity of the Russian Migration Service in closing some garment factories with Vietnamese irregular
+workforce may have triggered some of these
+movements.
+The arrival, stay and employment of Vietnamese citizens in the Russian Federation is
+usually facilitated by Vietnamese networks.
+There are also indications that Russian visas
+were obtained under false pretences to enter the Russian Federation.
+
+* PULSAR data collection
+covers all EU and
+Schengen Associated
+Countries, excluding
+Malta, Latvia, Lithuania,
+Ireland and Iceland.
+It includes data from
+Moldova, Albania,
+the former Yugoslav
+Republic of Macedonia,
+Bosnia-Herzegovina and
+Montenegro.
+
+34 of 50
+
+Vietnamese nationals mostly cross the border to the EU facilitated, though it should be
+noted that facilitators detected by border authorities are usually not Vietnamese, but include a variety of regional nationalities, such
+as Armenians. Indeed, although the crime
+groups behind the movements are likely to
+be Vietnamese, they tend to ‘outsource’ facilitation of these irregular movements to
+other crime groups. After reaching the EU,
+Vietnamese migrants are quickly transported
+in cars towards Poland, Germany and possibly further on to France and the UK, which
+together with Cyprus are the top five countries reporting detections of illegal stay of
+Vietnamese citizens.
+Syrians became the third most common nonregional nationality detected for illegal border-crossing (+208%), with 114 detections in
+2013 compared with 37 in 2012 and only 11 in
+2011. The growing trend is clear and somewhat
+expected due to the war in Syria and the resulting large population displacements and
+refugee flows. The entry points also showed
+more variation. While in 2011 detections of
+Syrians at common borders were reported
+
+just by two countries, in 2013 the detections
+were already spread over the borders of eleven
+countries.
+In many detected cases Syrian migrants
+and  /  or facilitators had links to the Armenian Syrian community. This is due to the
+recent flow of Syrian citizens  /  refugees of Armenian origin to Armenia and close links between Armenia and EB-RAN countries and
+the Russian Federation.
+Despite the growth in detections of illegal
+border-crossing by Syrian nationals, their
+level remained low when put in the wider
+EU context. This may be explained, first, by
+still relatively low flow of Syrian refugees to
+EB-RAN countries. Indeed, the number of
+asylum applications by Syrian nationals in
+the three EB-RAN countries together was
+only 98 in 2013. However, according to open
+sources, the number of applications is rising in the Russian Federation with roughly
+1 000 applications in 2013, of which roughly
+500 were accepted only in Moscow.
+Another factor is that Syrian citizens arriving
+in the CIS region with the intention to continue further to the EU are opting for other
+modi operandi, such as the use of air routes. For
+example, according to PULSAR data*, Moscow airports, and to lesser extent Kiev, are
+used as departure points of asylum Syrian
+asylum applicants arriving in the EU.
+There are also indications that Syrian citizens
+of Armenian ethnic background are able to
+obtain Armenian passports fairly easily, which
+enables them to travel legally in the CIS area
+without visas and also apply for visas with
+Armenian passports. For border authorities
+legal entries with legal passports are as such
+not a problem.
+In contrast to Syrians, the number of detections of Somali nationals went down sharply
+by 79%, from 342 detections in 2012 to only
+
+73 in 2013 at common and regional borders,
+which explains the overall drop in detections
+of transiting migrants at common borders.
+The decline was mainly due to a sharp decrease in detections at the Slovakian-Ukrainian border.
+� I llegal border-crossing at BCPs
+(clandestine entries)
+The detection of clandestine entries of nonregional nationalities (excluding both CIS and
+EU nationals) has been limited to individual
+cases at common borders. Most of the detections were made at regional borders. Moreover, only a minority of the cases reported
+were related to irregular migration.
+Due to the growing regular traffic flow of
+goods in lorries and trains, the detection of
+this modus operandi may become more challenging and should not be underestimated.
+� False documents
+Excluding the increase of detected false
+Swedish documents and, to a lesser extent,
+Syrian passports, which may be linked to the
+increased irregular entries by Syrian nationals, there were no major new phenomena as
+regards the use of false documents by nonregional migrants detected at the common
+land borders. Considering the widely reported
+use of forged EU documents by nationals
+of West and Central African countries the
+number of detections decreased sharply in
+2013. It is likely that the increased cooperation between border authorities in identifying forged EU documents made this modus
+operandi increasingly unsuccessful.
+� Abuse of legal travel channels
+
+by the Member States located at the eastern borders of the EU. Similar methods are
+also likely to be used in EB-RAN countries.
+However, while these modi operandi are probably very commonly used to enter legally and
+then subsequently stay illegally in the EU, they
+are often not linked with common borders,
+which is the focus of this report.
+In fact, at common borders and Member
+State borders with the Russian Federation
+the number of refusals reported by Member
+States for the non-regional migrants was
+just 429, which indicates a relatively low risk
+of abuse of legal travel channels by non-regional migrants (in contrast to regional migrants). It should, however, be noted that
+the number of refusals at the borders reveals only a part of the phenomenon, as it
+does not include persons that have been refused visas in Member States’ consulates in
+EB-RAN countries or refused entry to international trains or ferries by transport
+companies, for example due to the lack of
+a valid visa.
+According to EB-RAN experts, visa abuse
+cases tend to require a lot of effort from
+border authorities, for example, to verify
+claimed travel plans, supporting documentation etc.
+3.2.3. Impact
+Loss of life (increased illegal bordercrossing in winter)
+Attempts to cross the border illegally in winter
+time can be fatal, especially for persons who
+may not be fully aware of or prepared for the
+risks it includes as the death of a Sudanese
+national in January 2014 in Estonia proved.
+
+Attempts to abuse legal travel channels, especially visa issuance, are regularly documented
+
+35 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Labour exploitation and trafficking of
+human beings (especially Vietnamese
+nationals)
+In the EU, Vietnamese irregular migrants
+have been found working, for example, in
+nail bars, as gardeners in cannabis plantations and as couriers of methamphetamine.
+There is indeed an increased risk of trafficking in human beings accompanying the phenomenon of Vietnamese irregular migration
+through common borders. It should be noted
+that according to information received from
+Member States, the Vietnamese are among
+the nationalities most commonly detected
+as victims of human trafficking in the EU.
+Time consuming second-line checks in
+visa abuse cases
+Validating a long string of travel plans, work
+contracts etc. in second-line checks with limited availability of interpreters creates additional workload at BCPs.
+
+36 of 50
+
+3.2.4. Mitigation
+Strengthening  /  creating contact points in order to ensure timely common responses in illegal border-crossing cases.
+It was highlighted by experts of EB-RAN
+countries, especially Belarus, that creating
+and strengthening of contact points between
+EB-RAN countries and Member States border authorities facilitate timely common operational responses in illegal border-crossing
+cases.
+Cooperation in investigations
+Cooperation between neighbouring countries
+and with destination countries in ongoing investigations against facilitators  /  organised
+crime groups is vital, especially considering
+their increasing organisational flexibility. The
+same applies for cooperation between border
+authorities on falsified documents. Also the
+enhanced use of advance passenger information at BCPs, including cooperation with
+transport (railway, bus) companies would facilitate advance recognition of potential risk
+passengers.
+
+3.3. Risk of sustained irregular
+migration flows from the
+EB-RAN region, including
+CIS countries and Georgia
+3.3.1. Description of the threat
+The threat of irregular migration flows originating from the EB-RAN region, including
+the Russian Federation, CIS countries and
+Georgia, contains a variety of different migration motives and modi operandi. This is natural
+due to the geographic proximity, large regular traffic flows and wide labour migration.
+Although there are important variations between nationalities, the following main trends
+are clear: (a) the threat of illegal border-crossings for migration purposes remains relatively
+low, while (b) the threat of abuse of legal
+travel channels (asylum misuse, overstaying,
+obtaining visas under false pretences) is on a
+much higher level.
+Even though the abuse of legal travel channels  /  entries may not be facilitated in the
+meaning that persons are guided through the
+border, individual parts of the journey of irregular migrants are facilitated starting from
+production of fraudulent supporting documents to taxi drivers arranging further intraEU movements. As these facilitating acts are
+usually not connected with the time of actual border-crossing, they are challenging to
+identify and prosecute by border authorities.
+New developments
+� Illegal border-crossing
+Two main issues should be stressed when analysing the data on illegal border-crossing by
+regional migrants. First, it is clear that, in contrast to transiting non-regional migrants, illegal border-crossing of regional migrants is,
+in relative terms, less often connected with
+irregular migration, but rather with other,
+
+usually economic, activities. Secondly, the
+data need to be read carefully as the reporting countries may still have different practices in reporting the purpose of the illegal
+border-crossing.
+In 2013 the number of detected illegal border-crossings by regional migrants decreased
+slightly. Member States reported a 4% decrease (683 detections in 2013). Considering
+both sides of the common borders (with available data for Belarus, Moldova and Ukraine)
+there was also a 3% decrease (1 571 detections
+in 2013). Both abovementioned figures are in
+line with the gradually decreasing trend observed during the previous years that can be
+attributed to the widening legal travel channels and changes in modi operandi of irregular migration.
+Considering the main entry points, the trend
+was relatively stable both at the LithuanianBelarusian border and the Slovakian-Ukrainian borders.
+At regional borders the most affected border
+sections remained the Ukrainian-Moldovan
+and Ukrainian-Russian border sections, both
+seeing decreases of 28% and 10%, respectively. However, it should be reiterated that
+at the regional borders most cases of illegal
+border-crossing can be attributed to local inhabitants and are largely not connected with
+migration, but rather with smuggling activities, illegal logging, fishing or hunting. This
+also explains the fact that a great majority
+of the detected illegal border-crossings are
+made by the nationals of the countries sharing the border. For example, at the Belarusian-Ukrainian border, nationals of Belarus
+and Ukraine accounted for 95% of all detections of illegal border-crossing.
+There were no major changes in modus operandi of illegal border-crossing observed in
+2013. The border is usually crossed in small
+groups of 2–3 persons or individually. Regional
+
+37 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+migrants rarely use facilitation (with the exception of Georgian nationals); they are prepared and equipped with maps, compasses,
+change of clothes and they are often able to
+communicate in Russian, which helps in making the journey without facilitators.
+
+In the first two cases the main entry point
+was the Polish-Belarusian border. However,
+there were some notable differences in the
+modus operandi used by different nationalities,
+mostly deriving from their different motives
+of attempting irregular entry.
+
+� Abuse of legal travel channels
+
+a) Citizens of the Russian Federation
+
+In contrast to the threat of illegal bordercrossing, the magnitude of the threat of the
+abuse of legal travel channels is at a much
+higher level. The number of refusals of entry reported by Member States at common
+land borders reached 50 000 in 2013, mainly
+due to strong growth of refusals at the Polish land borders.
+
+For irregular migrants from the Russian Federation the abuse of legal travel channels
+was clearly the main modus operandi to enter
+the EU irregularly. In 2013 there were just 147
+Russian citizens detected for illegal bordercrossing between BCPs reported by Member
+States at common land borders, including the
+land border with the Russian Federation, of
+which only 37 were connected with irregular migration. In contrast, roughly 20 000
+refusals of entry were issued to Russian citizens at these borders (some Russians were
+refused more than once).
+
+While a considerable part of the refusals
+were not necessarily connected with irregular migration (some were simply the result
+of accidental attempts to cross the border
+with expired visas, etc. with no intention of
+cheating border authorities), three major phenomena of abuse of legal travel channels at
+common borders stood out in 2013:
+1.	A sharp increase in nationals of the Russian
+Federation of Chechen origin using asylum
+applications in Poland as a way of entering the EU to travel further on to Germany
+with the intention to file another asylum
+application and subsequently overstay.
+2.	Continued flow of Georgian nationals to
+Poland and further on to other Member
+States using a variety of modi operandi.
+3.	Continued abuse of visas in order to work
+irregularly and  /  or overstay in other Member States than that stated in the visa,
+mainly by EB-RAN country nationals, especially Ukrainians.
+Additionally there were other smaller phenomena reported by other regional CIS country
+nationals, mostly impacting regional borders.
+
+38 of 50
+
+Despite the large magnitude of the threat of
+abuse of legal travel channels, the phenomenon in 2013 had a limited geographic and temporal scope: the sharp rise in refusals of entry
+issued to Russians was geographically constrained mostly to Poland. It peaked sharply
+in April–June and involved a specific group of
+Russian nationals originating from the North
+Caucasus region, mainly Chechnya.
+The main entry point was clearly the PolishBelarusian border: of the total number of almost 23 000 refused nationals of the Russian
+Federation at all EU borders, including air borders, over 60% were refused there. As Figure 10 shows, the rise in refusals at the land
+borders was mainly confined to the PolishBelarusian border.
+This in turn led to highly diverse refusal rates
+at different border sections, when the number of refusals is compared with the number
+of regular entries. In per capita terms the rate
+of refusals was a hundred times larger at the
+
+Polish-Belarusian border than, for example,
+at the Estonian and Finnish borders with the
+Russian Federation.
+
+Figure 10. Refusals of entry by Member States at common borders
+and land borders with the Russian Federation show a sharp increase
+at Polish borders in 2013 but fairly stable trend at other borders
+sections
+
+The rise of refusals at the Polish-Belarusian
+border was connected to the modus operandi
+and route of nationals of the Russian Federation of Chechen origin aiming to reach
+Germany and apply for asylum there. They
+usually travelled in family units and arrived
+at the Polish BCPs without valid visas. After
+being refused entry by Poland most of the
+migrants applied for asylum. However, after
+the start of the asylum procedure many of
+them quickly absconded from reception centres and continued towards Germany, thus
+using asylum application in Poland mainly as
+an entry method to the EU.
+
+Refusals of entry issued to citizens of the Russian Federation by neighbouring Member
+States 2011-2013
+
+The reasons behind this sudden and large
+increase are not fully understood. Although
+security and economic situation in Chechnya
+and Northern Caucasus region as a whole is
+in many ways problematic, no major changes
+in the politics, security or economy in the region can be identified that could have possibly acted as a sudden push factor triggering
+the flow. The fact that some persons were
+refused entry several times indicates that all
+migrants were not always aware of the asylum option when arriving at the BCP. This may
+point to a conclusion that the journey had
+not been strictly facilitated, but was more
+improvised in nature. Indeed, it is likely that
+the sudden increase in the flow was trig-
+
+Estonia
+
+16 000
+
+Finland
+
+14 000
+
+Hungary
+
+12 000
+
+Lithuania
+
+10 000
+
+Latvia
+
+8 000
+
+Norway
+
+6 000
+
+Poland
+Romania
+
+4 000
+
+Slovakia
+
+2 000
+0
+
+2011
+
+2012
+
+2013
+
+Source FRAN data as of 10 February 2014
+
+gered by rumours about Germany granting
+asylum to Chechens as well as about asylum
+applicants receiving basic benefits under the
+Asylum Seekers Benefits Act based on general provisions applicable to all persons who
+receive social benefits.
+As regards the use of false documents, according to European Union-Document Fraud
+(EDF) data there was an increasing number
+of Russian citizens detected using false documents from 134 persons using false doc-
+
+© Biala24.pl
+
+Once in Germany, most migrants applied for
+asylum once again, Eurodac hits confirming
+earlier fingerprinting in Poland. In fact, only
+2% of the roughly 12 000 applicants of Russian citizenship got a positive decision by
+Germany in 2013. They were thus ordered to
+return to Poland, their first place of applying
+for asylum. However, many ignored this request and stayed in Germany, resulting in an
+increase in detections of illegal stay of Russian citizens detected in Germany.
+
+18 000
+
+Figure 11. Asylum reception centre in Biała
+Podlaska in eastern Poland
+
+39 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Figure 12. The main entry point to the EU by Russian citizens of Chechen origin was the Polish-Belarusian border
+Route from Chechnya to Poland and further on to Germany
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!!
+!
+!
+
+!
+!
+
+!
+!
+!
+!
+
+!
+!
+!
+!
+
+!
+!
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+!
+!
+!
+!
+
+Grozny
+
+!
+!
+
+!
+!
+
+Z
+
+!
+!
+
+!
+!
+
+! !
+!!
+!
+!
+
+!
+!
+
+!
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+Source: Joint Operations Reporting Application and open sources
+
+uments in 2012 to 156 in 2013. However, in
+relation to the number of Russians crossing
+the border and those abusing asylum procedures, the number of false document users
+is relatively low.
+b) Citizens of Georgia
+The trends of refusals of entry and asylum requests by nationals of Georgia remained relatively stable compared with
+2012. According to FRAN data, the number of refused Georgian nationals at all EU
+external borders decreased from 8 846 in
+
+40 of 50
+
+2012 to 8 100 in 2013. This was mainly due
+to fewer refusals issued at the Polish-Belarusian border. Despite the decrease in the
+number of refusals of entry at the PolishBelarusian border, there were still far more
+refusals of entry than regular entries by
+Georgian nationals recorded at that border section in 2013.
+Detections of illegal stay decreased too, falling to 3 973 persons detected in 2013 from
+4 636 in 2012. The main Member States detecting Georgians on illegal stay were Germany and Sweden.
+
+4 000
+
+Asylum - Germany
+Asylum - Poland
+Illegal stay - Germany
+Refusals of entry - Poland
+
+3 500
+3 000
+2 500
+2 000
+1 500
+1 000
+500
+
+ec
+D
+
+ov
+N
+
+ct
+O
+
+p
+Se
+
+l
+
+g
+Au
+
+Ju
+
+n
+Ju
+
+r
+
+ay
+M
+
+Ap
+
+ar
+M
+
+b
+
+0
+
+n
+
+After reaching Belarus or Ukraine some travel
+by train to BCPs where they are usually refused entry due to the lack of visa. After refusal they either apply for asylum or attempt
+illegal border-crossing between BCPs mainly
+from Belarus to Lithuania. Alternatively, some
+travel straight from Minsk airport to the vicinity of Latvian or Lithuanian border in order to cross it illegally between BCPs.
+
+Asylum applications by citizens of the Russian Federation in Poland and Germany in 2013;
+detections of illegal stay of citizens of the Russian Federation by Germany in 2013; Refusals
+of entry issued to citizens of the Russian Federation by Poland in 2013
+
+Fe
+
+In general, the main modus operandi of Georgian nationals attempting irregular entry to
+the EU has remained unchanged in recent
+years. The journey generally includes three
+legs: (a) from Georgia to Belarus  /  Ukraine,
+with no need of visa; (b) to the BCP or green
+border; and (c) secondary movements inside
+the area of free movement in the EU.
+
+Figure 13. Correlation between indicators on refusals of entry in
+Poland, asylum applications in Poland and Germany and detections
+of illegal stay by Germany of Russian citizens further corroborate the
+assumption of quick secondary movements from Poland to Germany
+
+Ja
+
+In contrast to developments at the EU borders, the number of Georgians refused entry
+by Belarus, Moldova and Ukraine increased
+by 51% from 414 in 2012 to 798 in 2013. The
+highest increase was reported at the Ukrainian-Belarusian border. The reasons for this
+increase may include changes in the Russian migration policy and  /  or migrants’ preference for different routing towards Ukraine.
+
+2013
+Source: FRAN data as of 10 February 2014
+
+There seems to be an increased risk of links
+between irregular migration and Georgian
+organised crime in the EU. This concern was
+highlighted by the Belarusian authorities in
+connection with the amnesty in Georgia,
+where, according to the Belarusians, up to
+
+© Border Service of Ukraine
+
+According to EDF data there was an increase
+in the number of Georgians detected using
+false documents in 2013. In 2012 Member
+States reported 118 persons using false documents, while in 2013 this number rose to
+182. However, these detections seem not to
+be connected with the phenomenon at the
+land borders, because the detections were
+made in other Member States. Passports were
+the most often reported type of false document used.
+
+Figure 14. Georgian citizens detected for attempting illegal bordercrossing from Ukraine to Slovakia
+
+41 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+17 000 prisoners were released at the beginning of 2013. Open sources in Member States
+have also reported the growth of Georgian
+crime groups. However, a clear link with irregular migration and its facilitation cannot
+be established.
+
+to prosecuting ’visa traders’. Member States’
+consular authorities in Ukraine seek to counter visa fraud with strengthening the capacity
+of their staff at consular sections and improving the technical equipment needed to detect false documents.
+
+c)	Citizens of Belarus, Moldova and
+Ukraine
+
+Still, in 2013 Member States reported 7 788
+refusals of entry at all external EU borders
+to nationals of Belarus, Moldova and Ukraine
+due to lack of appropriate documentation
+justifying the purpose and conditions of stay,
+indicating a continuing abuse of visas. Overstaying the length of the visa period is also
+a common modus operandi to abuse visas. Of
+almost 17 000 (decrease from 18 591 in 2012)
+detected illegally staying Belarusians, Moldovans and Ukrainians, roughly 8 000 were detected on exit from the EU at external land,
+sea and air borders during 2013. The main
+locations of these detections remained the
+Polish-Ukrainian and Hungarian-Ukrainian
+border sections.
+
+For EB-RAN country nationals the main modus operandi is to enter EU legally using visas
+issued by neighbouring countries and move
+to other Member States with the intention
+to overstay. However, the trend of detections
+was decreasing with Member States issuing 10% fewer refusals of entry to citizens of
+Belarus, Moldova and Ukraine in 2013 at all
+EU external borders (21 861) compared with
+2012 (24 313). The share of common borders,
+including borders with the Russian Federation, was roughly 20 000.
+Ukrainian nationals were refused entry mostly
+by Poland (77%) and Hungary (12%) reflecting the large volume of regular traffic. At the
+Polish-Belarusian border, which was the hotspot for refusals issued to nationals of Russian Federation and Georgia, refusals issued
+to nationals of Belarus remained at a much
+lower level.
+The issue of false supporting documentation
+for visa applications continued to be a threat.
+There are, for example, companies and individuals in Member States and Ukraine who, in
+exchange for money, provide visa applicants
+with necessary documents or even fictitious
+invitation letters. As mentioned already in the
+EB-ARA 2013 there is also a ‘market’ for supporting false documentation such as bank
+statements, employment status certificates
+or notary deeds in Ukraine.
+It can be assessed that the majority of Member States are faced with such practices,
+which are fuelled by many legal limitations
+
+42 of 50
+
+The use of false stamps is often linked with
+attempts to hide overstaying. According
+to EDF data, the number of detected false
+stamps decreased to 498 in 2013 from 616
+in 2012, mainly detected in Hungary, Poland
+and Slovakia.
+In 2013 only 279 illegal border-crossings between BCPs of nationals of these three countries were reported by Member States at
+common borders including the borders with
+the Russian Federation. Moreover, only 122
+were linked to migration purposes (89 by
+Moldovan nationals).
+d) Other CIS-country nationals
+Irregular migration of other CIS-country nationals such as Uzbeks and Tajiks tends to
+affect regional borders rather than common borders with Member States. Here the
+changes in migration regulations in the Russian Federation, which is the main destina-
+
+tion country for migrants from Central Asian
+CIS countries, play an important role.
+The new limitation of stay for foreigners entering the Russian Federation without a visa
+to no more than 90 days within a 180-day
+period is aimed to prevent labour migrants
+from indefinitely ‘renewing’ their legal 90day stay in the Russian Federation by simply
+crossing the border and coming back. If this
+rule of stay will be strictly enforced, it might
+impact the situation especially at regional and,
+to a lesser extent, common borders in 2014.
+3.3.2. Mitigation
+As the most prevalent modus operandi is to
+abuse legal travel channels, mitigation include
+a combination of issues and measures at all
+tiers of the four-tier access control model, including visa issuance, cross-border cooperation, border controls and cooperation with
+asylum process and police authorities within
+the area of free movement.
+Supporting consulates in visa issuance
+In visa abuse cases the key mitigation measures are focused on the consulates issuing visas. They should be increasingly supported by
+liaison officers of border-control authorities
+experienced with detecting false documents
+and fraudulent supporting documents. This
+has proved to be a very cost effective method
+to mitigate the risk.
+Information exchange between the consulates and BCPs in second-line checks should
+be also strengthened in order to create a similar situational picture.
+Use of Visa Information System
+The Visa Information System (VIS) is a system for the exchange of information on short-
+
+stay visas between Member States. The VIS
+facilitates the exchange of data between
+Schengen states on visa applications in order to ease procedures, prevent ‘visa shopping’ and assist in the fight against fraud. The
+roll-out will continue throughout 2014, but
+definite dates have not yet been determined
+by the Council.
+Increasing capacity of the asylum system
+In the case of sudden large flows of people
+applying for asylum and then absconding, the
+capacity of the asylum centres as well as fast
+processing and evaluation of asylum applications is crucial. The same applies for double
+applications in Member States.
+Exploring possibilities of compensatory
+controls at the internal borders
+The implementation of compensatory controls at the internal borders of the EU is also
+a factor in mitigating the risk of secondary
+movements inside the EU area of free movement, especially in cases when there is a
+well-established irregular flow between the
+Member States. Cooperation with police authorities inside the area of free movements
+should be stressed.
+Use of entry  /  exit systems
+In mitigating the risk of overstaying, the implementation of planned entry  /  exit systems
+would increase the efficiency of border checks
+to detect overstay.
+Media  /  information campaigns in third
+countries
+Providing correct information about asylum
+procedure to contain the spread of rumours
+in third countries may discourage would-be
+migrants’ to leave their countries of origin.
+
+43 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+4. Outlook
+4.1. Regular traffic
+The long-term factors for growth of regular
+cross-border traffic are still valid. However,
+due to the economic slowdown in Ukraine
+and the Russian Federation, deepened further by the Ukrainian crisis, the potential for
+growth in 2014 is clearly weaker than in 2013
+possibly leading to drop in the volume in regular traffic at some border sections.
+However, the measures to increase the capacity of BCPs by improving infrastructure,
+technology and border check process should
+not be abandoned but on the contrary – further encouraged. This is especially important
+in terms of (a) roll-out of the Visa Information
+System when all Schengen Member States
+will be required to be able to carry out fingerprint verifications at all BCPs and also to
+issue VIS visas with biometric features at the
+border when necessary; and (b) possible further visa liberalisations between the EU and
+Eastern Partnership countries that would very
+likely significantly increase traffic flows as
+well as increase the responsibility of border
+checks in validating the conditions of entry.
+
+4.2. Cross-border crime
+Cross-border crime will remain a major challenge affecting both green borders and BCPs.
+Price differences and unemployment in the
+border areas will continue to make locallevel smuggling of cigarettes and petrol an
+attractive source of income. However, legislative changes have proved to be an effective way to curtail these activities.
+Smuggling of illicit drugs across common borders is becoming increasingly varied in re-
+
+44 of 50
+
+gards of the variety of products, directions
+and markets.
+
+4.3. Irregular migration
+The situation in important origin countries of
+non-regional migrants, such as Afghanistan
+and Syria, remains highly problematic, which
+will very likely lead to continued large refugee flows. Another factor impacting both regional and non-regional migrants are changes
+in migration policies and labour markets in
+the Russian Federation, possibly triggered by
+the economic downturn and western economic sanctions, which may also act as a
+push factor for migrants to leave the Russian Federation.
+However, the impacts on common borders
+are much more difficult to assess as the geopolitical or economic developments have
+rarely directly correlated with the irregular
+migration flows in the region. Indeed, it is
+likely that, for example, the number of Syrian migrants attempting illegal border-crossing will increase in 2014, yet the magnitude of
+the threat will depend on several interlinked
+factors, such as changes in the use of other
+routes, prices of facilitation and the possibilities of entry to the CIS area. It is possible that
+the abuse of legal entry as a modus operandi
+may grow also among non-regional migrants.
+The abuse of legal entries by migrants from
+the EB-RAN region is likely to continue. Sudden flows such as those experienced in 2013
+are impossible to predict, but the risk of rumours being spread of a low-risk option to
+enter the EU remains valid. Changes of routes
+may lead to quickly increasing pressure at
+BCPs and on the asylum systems.
+
+Considering the abuse of visas, increased
+support by border authorities to consular
+offices is needed especially before the rollout of the VIS and implementation of Smart
+Borders package.
+
+The impact of the Ukrainian crisis has
+emerged as the main uncertainty in the outlook for 2014 and beyond. The impact on irregular migration still depends on the rapidly
+evolving situation in Ukraine. So far the direct impact of the Ukrainian crisis on common
+borders has been limited to a slight increase
+in asylum applications by Ukrainian nationals.
+At the time of writing this report four possible developments impacting both regular
+and irregular migration flows could be identified: (a) further population movements from
+Crimea and Eastern Ukraine; (b) movements
+of third-country nationals out of Ukraine;
+(c) changes in directions of labour migration
+and (d) Russian passport issuance in Crimea
+increasing the number of persons holding
+two valid passports.
+Population movements from Crimea are possible considering those persons who do not
+want to opt for Russian citizenship and passports that the Russian Federation has started
+to distribute. The main impact of these movements would most likely be limited to Ukraine,
+i.e. movements to the western parts of the
+country. Still, as sudden changes in the situation cannot be ruled out, for example, due
+to hostilities in the Eastern Ukraine, the bordering Member States have updated their
+contingency plans in case there would be
+significant flows of refugees from Ukraine.
+If the general instability in Ukraine continues for a longer period of time, it may also
+increase the number of people intending to
+leave Ukraine to work abroad. Among the
+
+© State Border Service of Ukraine
+
+4.4. Ukrainian crisis
+
+Figure 15. Ukrainian border guards keep performing tasks on the
+entrance to the Crimean peninsula
+
+first likely to leave are migrant communities present in Ukraine including, for example, Somalis. This might lead to an increase
+in asylum requests in the EU and more illegal border-crossings.
+As regards Ukrainian citizens, the continued
+instability in the country could lead to an increased risk of visa abuses and overstaying.
+Wider changes in directions of labour migration are also possible, for example, if visa-free
+travel between Ukraine and the Russian Federation is suspended. Vulnerable labour migrants could take more risks in taking work
+offers also from the irregular labour market.
+The policy of the Russian Federation to
+quickly issue passports in Crimea is likely to
+lead to an increased number of persons with
+two valid passports thus increasing the risk of
+visa abuses. The integrity of the passport issuance process may not be taken for granted
+either, which additionally increases the risk
+of the use of Russian passports obtained under a false identity.
+
+45 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+5. Statistical annex
+Explanatory note
+Detections reported for Member States for
+indicators Illegal border-crossing between
+BCPs, Illegal border-crossing at BCPs and Refusals of entry are detections at the common
+land borders on entry only. For Facilitators,
+detections at the common land borders on
+entry and exit are included. For Illegal stay,
+detections at the common land borders on
+exit only are included. For Asylum, all applications (land, sea, air and inland) are included.
+
+For EB-RAN countries, all indicators – save
+for Refusals of entry – include detections
+(applications) on exit and entry at land, sea
+and air borders.
+Each section in the table (reporting country, border type, place of detection, top
+five border sections and top ten nationalities) refers to total detections reported
+by EB-RAN countries and to neighbouring
+land border detections reported by Member States.
+
+LEGEND
+Symbols and abbreviations:		 n.a.
+											:		
+
+not applicable
+data not available
+
+Source: EB-RAN and FRAN data as of 10 February 2014, unless otherwise indicated
+Note:		‘Member States’ in the tables refer to FRAN Member States, including both
+28 EU Member States and three Schengen Associated Countries
+
+46 of 50
+
+Annex Table 1. Illegal border-crossing between BCPs
+Detections reported by purpose of illegal border-crossing and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+n.a.
+
+Purpose of Illegal Border-Crossing
+Other
+
+:
+
+:
+
+1 898
+
+40
+
+Irregular migration
+
+:
+
+:
+
+1 565
+
+33
+
+n.a.
+
+5 772
+
+5 299
+
+661
+
+14
+
+-88
+
+:
+
+:
+
+584
+
+12
+
+n.a.
+
+Ukraine
+
+2 023
+
+1 475
+
+1 318
+
+28
+
+-11
+
+Moldova
+
+1 384
+
+937
+
+691
+
+15
+
+-26
+
+Not specified
+Smuggling
+
+Top Ten Nationalities
+
+Georgia
+
+544
+
+645
+
+686
+
+15
+
+6.4
+
+Russian Federation
+
+590
+
+510
+
+498
+
+11
+
+-2.4
+
+Afghanistan
+
+-20
+
+268
+
+328
+
+263
+
+5.6
+
+Vietnam
+
+42
+
+193
+
+209
+
+4.4
+
+8.3
+
+Not specified
+
+36
+
+86
+
+193
+
+4.1
+
+124
+
+266
+
+198
+
+163
+
+3.5
+
+-18
+
+11
+
+37
+
+114
+
+2.4
+
+208
+
+Belarus
+Syria
+Somalia
+
+201
+
+342
+
+73
+
+1.6
+
+-79
+
+Others
+
+407
+
+548
+
+500
+
+11
+
+-8.8
+
+Total
+
+5 772
+
+5 299
+
+4 708
+
+100
+
+-11
+
+Annex Table 2. Illegal border-crossing at BCPs
+Detections reported by purpose of illegal border-crossing and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+Purpose of Illegal Border-Crossing
+Other
+
+:
+
+:
+
+1 363
+
+71
+
+n.a.
+
+Smuggling
+
+:
+
+:
+
+355
+
+19
+
+n.a.
+
+Irregular migration
+
+:
+
+:
+
+180
+
+9.4
+
+n.a.
+
+2 750
+
+2 236
+
+10
+
+0.5
+
+n.a.
+
+1 495
+
+1 192
+
+857
+
+45
+
+-28
+
+624
+
+566
+
+536
+
+28
+
+-5.3
+
+Not specified
+
+Top Ten Nationalities
+Ukraine
+Moldova
+
+90
+
+53
+
+95
+
+5.0
+
+79
+
+139
+
+98
+
+85
+
+4.5
+
+-13
+
+Romania
+
+77
+
+73
+
+62
+
+3.2
+
+-15
+
+Kyrgyzstan
+
+81
+
+34
+
+49
+
+2.6
+
+44
+
+Not specified
+
+29
+
+24
+
+43
+
+2.3
+
+79
+
+Belarus
+
+37
+
+43
+
+28
+
+1.5
+
+-35
+n.a.
+
+Tajikistan
+Russian Federation
+
+Afghanistan
+
+1
+
+11
+
+0.6
+
+Poland
+
+9
+
+11
+
+11
+
+0.6
+
+0
+
+Others
+
+168
+
+142
+
+131
+
+6.9
+
+-7.7
+
+Total
+
+2 750
+
+2 236
+
+1 908
+
+100
+
+-15
+
+47 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Annex Table 3. Facilitators
+Detections reported by place of detection and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+Place of Detection
+160
+
+124
+
+69
+
+96
+
+-44
+
+Inland
+
+0
+
+0
+
+3
+
+4.2
+
+n.a.
+
+Sea
+
+0
+
+2
+
+0
+
+n.a.
+
+Air
+
+6
+
+9
+
+0
+
+n.a.
+
+Land
+
+Top Ten Nationalities
+Belarus
+
+3
+
+4
+
+13
+
+18
+
+225
+
+Ukraine
+
+53
+
+53
+
+13
+
+18
+
+-75
+
+Moldova
+
+13
+
+10
+
+9
+
+13
+
+-10
+
+Russian Federation
+
+17
+
+14
+
+8
+
+11
+
+-43
+
+Poland
+
+10
+
+6
+
+6
+
+8.3
+
+0
+
+5
+
+0
+
+4
+
+5.6
+
+n.a.
+
+Tajikistan
+
+1
+
+1
+
+4
+
+5.6
+
+300
+
+Lithuania
+
+20
+
+7
+
+3
+
+4.2
+
+-57
+
+Not specified
+
+1
+
+4
+
+2
+
+2.8
+
+-50
+
+Turkey
+
+6
+
+3
+
+2
+
+2.8
+
+-33
+
+Others
+
+37
+
+33
+
+8
+
+11
+
+-76
+
+Total
+
+166
+
+135
+
+72
+
+100
+
+-47
+
+Vietnam
+
+Annex Table 4. Illegal stay
+Detections reported by place of detection and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+Land
+
+20 449
+
+24 176
+
+23 952
+
+58
+
+-0.9
+
+Air
+
+11 809
+
+14 013
+
+16 083
+
+39
+
+15
+
+Inland
+
+613
+
+678
+
+863
+
+2.1
+
+27
+
+Sea
+
+565
+
+568
+
+303
+
+0.7
+
+-47
+
+Between BCPs
+
+867
+
+699
+
+137
+
+0.3
+
+-80
+
+0
+
+0
+
+1
+
+0
+
+n.a.
+
+Ukraine
+
+6 115
+
+6 883
+
+8 159
+
+20
+
+19
+
+Russian Federation
+
+5 842
+
+7 051
+
+6 887
+
+17
+
+-2.3
+
+Georgia
+
+4 976
+
+4 187
+
+4 938
+
+12
+
+18
+
+Uzbekistan
+
+1 581
+
+2 889
+
+2 879
+
+7.0
+
+-0.3
+
+Azerbaijan
+
+1 384
+
+2 345
+
+2 261
+
+5.5
+
+-3.6
+
+Armenia
+
+1 480
+
+1 677
+
+1 737
+
+4.2
+
+3.6
+
+Moldova
+
+2 538
+
+2 139
+
+1 707
+
+4.1
+
+-20
+
+Belarus
+
+Place of Detection
+
+Not specified
+
+Top Ten Nationalities
+
+48 of 50
+
+1 232
+
+1 534
+
+1 487
+
+3.6
+
+-3.1
+
+Turkey
+
+777
+
+1 359
+
+1 455
+
+3.5
+
+7.1
+
+China
+
+713
+
+700
+
+913
+
+2.2
+
+30
+
+Others
+
+7 665
+
+9 370
+
+8 916
+
+22
+
+-4.8
+
+Total
+
+34 303
+
+40 134
+
+41 339
+
+100
+
+3.0
+
+Annex Table 5. Refusals of entry
+Refusals reported by border type and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+Border Type
+52 813
+
+62 463
+
+77 100
+
+91
+
+Air
+
+2 657
+
+2 690
+
+4 485
+
+5.3
+
+67
+
+Sea
+
+3 073
+
+3 184
+
+3 344
+
+3.9
+
+5.0
+
+Land
+
+23
+
+Top Ten Nationalities
+7 506
+
+9 226
+
+22 977
+
+27
+
+149
+
+Ukraine
+
+16 303
+
+19 182
+
+19 685
+
+23
+
+2.6
+
+Georgia
+
+4 169
+
+9 640
+
+9 643
+
+11
+
+0
+
+Lithuania
+
+3 942
+
+5 259
+
+5 372
+
+6.3
+
+2.1
+-10
+
+Russian Federation
+
+Belarus
+
+5 947
+
+4 972
+
+4 450
+
+5.2
+
+Moldova
+
+5 387
+
+3 608
+
+3 659
+
+4.3
+
+1.4
+
+Uzbekistan
+
+1 930
+
+1 169
+
+2 375
+
+2.8
+
+103
+
+Armenia
+
+1 014
+
+1 217
+
+1 901
+
+2.2
+
+56
+
+825
+
+1 889
+
+1 588
+
+1.9
+
+-16
+
+Tajikistan
+
+793
+
+1 085
+
+1 012
+
+1.2
+
+-6.7
+
+Others
+
+10 727
+
+11 090
+
+12 267
+
+14
+
+11
+
+Total
+
+58 543
+
+68 337
+
+84 929
+
+100
+
+24
+
+Not specified
+
+Annex Table 6. Applications for asylum
+Applications for international protection reported by top ten nationalities
+
+2011
+
+2012
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+Top Ten Nationalities
+Russian Federation
+Kosovo*
+Afghanistan
+Syria
+
+5 074
+
+6 801
+
+13 499
+
+26
+
+98
+
+483
+
+519
+
+6 609
+
+13
+
+1173
+
+2 438
+
+2 936
+
+3 661
+
+6.9
+
+25
+
+523
+
+1 212
+
+3 479
+
+6.6
+
+187
+
+484
+
+966
+
+3 450
+
+6.5
+
+257
+
+Eritrea
+
+1 266
+
+1 224
+
+3 404
+
+6.4
+
+178
+
+Somalia
+
+2 767
+
+2 745
+
+2 208
+
+4.2
+
+-20
+
+Georgia
+
+2 363
+
+3 900
+
+1 690
+
+3.2
+
+-57
+
+Algeria
+
+719
+
+901
+
+1 337
+
+2.5
+
+48
+
+Nigeria
+
+376
+
+530
+
+1 194
+
+2.3
+
+125
+
+Pakistan
+
+Others
+
+7 702
+
+8 997
+
+12 307
+
+23
+
+37
+
+Total
+
+24 195
+
+30 731
+
+52 838
+
+100
+
+72
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence
+
+49 of 50
+
+Frontex · Eastern European Borders Annual Risk Analysis 2014
+
+Annex Table 7. Document fraud
+Document fraud by place of detection, type of document, top ten nationalities and top ten coutries of issuance
+
+2013
+
+Share of
+total
+
+% change on
+prev. year
+
+2011
+
+2012
+
+Land
+
+193
+
+139
+
+135
+
+57
+
+-2.9
+
+Air
+
+135
+
+96
+
+102
+
+43
+
+6.3
+
+8
+
+1
+
+1
+
+0.4
+
+0
+
+248
+
+189
+
+200
+
+84
+
+5.8
+
+60
+
+26
+
+20
+
+8.4
+
+-23
+
+Place of Detection
+
+Sea
+
+Type of Document
+Passport
+Not specified
+Identity card
+
+12
+
+8
+
+10
+
+4.2
+
+25
+
+Visa
+
+13
+
+10
+
+5
+
+2.1
+
+-50
+
+3
+
+3
+
+3
+
+1.3
+
+0
+
+8.8
+
+Residence permit
+
+Top Ten Nationalities
+Ukraine
+
+139
+
+91
+
+99
+
+42
+
+Moldova
+
+47
+
+33
+
+44
+
+18
+
+33
+
+Georgia
+
+36
+
+23
+
+15
+
+6.3
+
+-35
+
+Russian Federation
+
+11
+
+7
+
+11
+
+4.6
+
+57
+
+1
+
+0
+
+8
+
+3.4
+
+n.a.
+
+20
+
+12
+
+7
+
+2.9
+
+-42
+
+2
+
+2
+
+6
+
+2.5
+
+200
+
+India
+Turkey
+Afghanistan
+Nigeria
+
+3
+
+3
+
+5
+
+2.1
+
+67
+
+Syria
+
+3
+
+7
+
+4
+
+1.7
+
+-43
+
+Armenia
+
+10
+
+13
+
+4
+
+1.7
+
+-69
+
+Others
+
+64
+
+45
+
+35
+
+15
+
+-22
+
+122
+
+76
+
+86
+
+36
+
+13
+
+60
+
+27
+
+21
+
+8.8
+
+-22
+
+Romania
+
+22
+
+17
+
+19
+
+8
+
+12
+
+Israel
+
+10
+
+2
+
+15
+
+6.3
+
+650
+
+Top Ten Countries of Issuance
+Ukraine
+Not specified
+
+Lithuania
+
+11
+
+8
+
+11
+
+4.6
+
+38
+
+Moldova
+
+10
+
+8
+
+10
+
+4.2
+
+25
+100
+
+Russian Federation
+
+5
+
+4
+
+8
+
+3.4
+
+Uzbekistan
+
+3
+
+0
+
+8
+
+3.4
+
+n.a.
+
+14
+
+13
+
+7
+
+2.9
+
+-46
+133
+
+Turkey
+
+1
+
+3
+
+7
+
+2.9
+
+Others
+
+78
+
+78
+
+46
+
+19
+
+-41
+
+Total
+
+336
+
+236
+
+238
+
+100
+
+0.8
+
+United Kingdom
+
+50 of 50
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+For Public Release
+Risk Analysis Unit
+Frontex reference number: 10118/2014
+
+Rondo ONZ 1
+00-124 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+Printed version:
+TT-AG-14-001-EN-C
+ISBN 978-92-95033-90-0
+ISSN 2363-1031
+DOI 10.2819/4065
+PDF:
+TT-AG-14-001-EN-N
+ISBN 978-92-95033-86-3
+ISSN 2363-1031
+DOI 10.2819/3454
+Warsaw, July 2014
+© Frontex, 2014
+
+

@@ -1,0 +1,403 @@
+Procedure file
+Basic information
+2016/2145(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+European Cloud Initiative
+
+Subject
+3.50.20 Scientific and technological cooperation and agreements
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+12/01/2017
+
+BUZEK Jerzy
+Shadow rapporteur
+
+BONI Michał
+
+NICA Dan
+
+FOX Ashley
+
+VAN NIEUWENHUIZEN
+Cora
+
+REIMON Michel
+Committee for opinion
+
+Rapporteur for opinion
+
+ECON
+
+Economic and Monetary Affairs
+
+The committee decided not to
+give an opinion.
+
+EMPL
+
+Employment and Social Affairs
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+Appointed
+
+24/05/2016
+MAYDELL Eva
+
+REGI
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+CULT
+
+Culture and Education
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+The committee decided not to
+give an opinion.
+07/11/2016
+BONI Michał
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Communications Networks, Content and Technology ANSIP Andrus
+
+Key events
+19/04/2016
+
+Non-legislative basic document published
+
+15/09/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+COM(2016)0178
+
+Summary
+
+12/01/2017
+
+Vote in committee, 1st reading/single
+reading
+
+26/01/2017
+
+Committee report tabled for plenary,
+single reading
+
+15/02/2017
+
+Debate in Parliament
+
+16/02/2017
+
+Results of vote in Parliament
+
+16/02/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+16/02/2017
+
+End of procedure in Parliament
+
+A8-0006/2017
+
+Summary
+
+T8-0052/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/2145(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Strategic initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/07102
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2016)0178
+
+19/04/2016
+
+EC
+
+Committee draft report
+
+PE587.505
+
+15/09/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.264
+
+25/10/2016
+
+EP
+
+Summary
+
+Committee opinion
+
+IMCO
+
+PE589.220
+
+29/11/2016
+
+EP
+
+Committee opinion
+
+LIBE
+
+PE593.831
+
+14/12/2016
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0006/2017
+
+26/01/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0052/2017
+
+16/02/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)358
+
+31/08/2017
+
+2016/2145(INI) - 19/04/2016 Non-legislative basic document
+PURPOSE: to present a European Cloud Initiative with a view to securing Europe's place in the global data-driven economy.
+BACKGROUND: the world is witnessing a dramatic increase in the amount and variety of data being produced. This " Big Data" phenomenon
+creates new possibilities to share knowledge, to carry out research and to develop and implement public policies. It is also becoming easier to
+exploit this data thanks to the Cloud. As Europe is the largest producer of scientific knowledge in the world, it is well placed to take the global
+lead in the developing of a science cloud.
+However, Europe is not yet fully tapping into the potential of data:
+many European businesses, research communities and public bodies are yet to tap into the full potential of data and of its potentially
+transformative effect on traditional sectors and on the way research is conducted. Data coming from publicly funded research is not
+always open; likewise data generated or collected by businesses is often not shared, and not always for commercial reasons;
+lack of interoperability prevents addressing grand societal challenges that require efficient data sharing and a multidisciplinary,
+multi-actor approach, e.g. climate change);
+fragmentation hampers data-driven science. Access policies for networking, data storage and computing differ;
+there is surging demand in Europe for a world-class High Performance Computing (HPC) infrastructure to process data in science and
+engineering. However, Europe is not participating in the HPC race in line with its economic and knowledge potential; it is lagging
+behind in comparison to the USA, China, Japan, Russia and India.
+
+The European Cloud Initiative will allow the EU to fully exploit the potential of data as a key driver of Open Science and the 4th industrial
+revolution. It is designed to help science, industry and public authorities in Europe access world-class data infrastructures and cloud-based
+services as they become the decisive factors for success in the digital economy.
+CONTENT: the European Cloud Initiative builds on the Digital Single Market Strategy, which aims, inter alia, to maximise the growth potential
+of the European digital economy. It aims to develop a trusted, open environment for the scientific community for storing, sharing and reusing
+scientific data and results, the European Open Science Cloud. It aims to deploy the underpinning super-computing capacity, the fast
+connectivity and the high-capacity cloud solutions needed via a European Data Infrastructure.
+1) European Open Science Cloud: the European Open Science Cloud aims to give Europe a global lead in scientific data infrastructures.
+Practically, it will offer 1.7 million European researchers and 70 million professionals in science and technology a virtual environment for
+storage, management, analysis and re-use of research data, across borders and scientific disciplines.
+As of 2016, the Commission will use the Horizon 2020 Work Programmes to: (i) provide funding to integrate and consolidate
+e-infrastructure platforms, (ii) federate existing research infrastructures and scientific clouds and (iii) support the development of
+cloud-based services for Open Science.
+As of 2017, the Commission will make open research data the default option, while ensuring opt-outs, for all new projects of the
+Horizon 2020 programme. It will encourage scientific data sharing and the creation of incentive schemes for researchers and
+businesses to share data
+2) European Data Infrastructure: the European Data Infrastructure, once fully implemented, will underpin the European Open Science Cloud. It
+will also support the EU to rank among the world's top supercomputing powers by realising exascale supercomputers around 2022, based on
+EU technology.
+From now until 2020, the Commission and participating Member States should develop and deploy a large scale European HPC, data
+and network infrastructure, including the following: (i) the acquisition of two co-designed, prototype exascale supercomputers and two
+operational systems which will rank in the top three of the world; (ii) the establishment of a European Big Data centre; (iii) the upgrade
+of the backbone network for research and innovation (GEANT) and the integration of European public services networks.
+3) Exploiting the potential of quantum technologies: the European Data Infrastructure should be complemented by an ambitious, long-term and
+large-scale flagship initiative to unlock the full potential of quantum technologies, accelerate their development and bring commercial products
+to public and private users.
+The Commission will start the preparatory steps for the flagship, with the aim of launching the ramp up phase in 2018.
+4) Financial implications: various sources of EU financing can be identified for the European Cloud Initiative: (i) Horizon 2020 Framework
+Programme for Research and Innovation; (ii) Connecting Europe Facility (CEF); (iii) European Structural and Investment Funds (ESIF); (iv)
+European Fund for Strategic Investments (EFSI).
+In cooperation with Member States and stakeholders, the Commission will explore appropriate governance and financing mechanisms for the
+Open Science Cloud and the European Data Infrastructure and define an implementation roadmap.
+
+2016/2145(INI) - 26/01/2017 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy adopted the own-initiative report by Jerzy BUZEK (EPP, PL) on the European Cloud
+Initiative.
+The report noted that the full potential of cloud computing for Europe can only be realised when data can flow freely across the Union with
+clear rules, and when international data flows play an increasingly important role in the European and global economy.
+The EU is lagging behind on the development of high-performance computing (HPC) as a result of its under-investment in establishing a
+complete HPC system.
+Firstly, Members welcomed the Commissions European Cloud Initiative as part of the implementation of the Digital Single Market (DSM)
+Strategy and the Digitising European Industry Package, thus fostering the growth of the European digital economy, contributing to the
+competitiveness of European businesses and services and enhancing global market positioning. They stressed that work on standardisation in
+cloud computing should be accelerated and that creating more awareness of the benefits of cloud computing is crucial.
+European Open Science Cloud (EOSC): Members gave their support to the EOSC as part of the European Cloud Initiative that will create a
+virtual environment where scientists and professionals from all regions can store, share, manage, analyse and reuse their research data. It
+must be developed and used with due regard for the fundamental rights enshrined in the Charter of Fundamental Rights. The committee
+welcomed the Commission's plan to extend the user base to the industry and to governments as fast as possible. The EOSC should be
+accompanied by a comprehensive cyber-security strategy, because the scientific community has a need for a reliable data infrastructure that
+can be used without exposing research work to data loss, corruption or intrusion.
+European programmes: Members urged the Commission to:
+lead by example, and to make all research data funded by European programmes such as Horizon 2020, the European Fund for
+Strategic Investments (EFSI), the European Structural and Investment Funds (ESI) and others and its results to be open by default,
+based on the findable, accessible, interoperable and reusable (FAIR) principles;
+identify appropriate financing mechanisms for the EOSC and the European Data Infrastructure (EDI);
+ensure that the EOSC benefits all regions of the Union, exploring the use of regional development funds for widening the initiative.
+Removing barriers: Members supported the Commissions intention to remove barriers, especially technical and legal ones, to the free
+movement of data and data services, to remove as well disproportionate data localisation requirements, and to promote the interoperability of
+data by linking the European Cloud Initiative to the Free Flow of Data Initiative. In order to achieve a digital society, the free flow of data must
+be regarded as the fifth freedom within the single market. They noted that a clear legal framework, sufficient skills and resources related to the
+
+management of big data, as well as the recognition of relevant professional qualifications are prerequisites for unleashing the full potential of
+cloud computing.
+The Commission is urged to engage with stakeholders, especially the industry, in identifying big data, and to create incentives for
+stakeholders, in particular SMEs and start-ups, to use, open and share data in the Single Market.
+Text and data mining: the report stressed that full availability of public data within the EOSC will not be sufficient to remove all barriers to
+data-based research. The initiative needs to be complemented by a modern copyright framework that should allow for the removal of
+fragmentation and lack of interoperability from the European data research process.
+Data protection, fundamental rights and data security: the report urged the Commission to take action to promote the further harmonisation of
+laws in the Member States in order to avoid jurisdictional confusion and fragmentation, and to ensure transparency in the digital single market.
+Stressing that the EU is a global importer and exporter of digital services, and that it requires a strong cloud computing and data economy to
+be competitive, Members called on the Commission to take a lead in striving towards the creation of uniform, globally accepted standards of
+personal data protection.
+Members recognised that a harmonised approach to the implementation of the General Data Protection Regulation, including guidelines,
+compliance toolkits and awareness-raising campaigns for citizens, researchers and businesses, is crucial, especially for the development of
+the EOSC and the facilitation of research cooperation, including by high-performance computing.
+Lastly, the Commission is urged to:
+cooperate in establishing a safe and trustworthy digital infrastructure and to build up high levels of cybersecurity in compliance with the
+Network and Information Security Directive;
+work with industry-led standard setting initiatives to ensure that the single market remains accessible to third countries and responsive
+to technological evolution, avoiding barriers which will hinder innovation and competitiveness in Europe.
+
+2016/2145(INI) - 16/02/2017 Text adopted by Parliament, single reading
+The European Parliament adopted by 444 votes to 93, with 50 abstentions, a resolution on the European Cloud Initiative.
+Members noted that the full potential of cloud computing for Europe can only be realised when data can flow freely across the Union with clear
+rules, and when international data flows play an increasingly important role in the European and global economy. They recalled that the EU is
+lagging behind on the development of high-performance computing (HPC) as a result of its under-investment in establishing a complete HPC
+system.
+Parliament welcomed the Commissions European Cloud Initiative as part of the implementation of the Digital Single Market (DSM) Strategy. It
+stressed that work on standardisation in cloud computing should be accelerated and that creating more awareness of the benefits of cloud
+computing is crucial.
+European Open Science Cloud (EOSC): Members gave their support to the EOSC as part of the European Cloud Initiative that will create a
+virtual environment where scientists and professionals from all regions can store, share, manage, analyse and reuse their research data. It
+must be developed and used with due regard for the fundamental rights enshrined in the Charter of Fundamental Rights. Parliament welcomed
+the Commission's plan to extend the user base to the industry and to governments as fast as possible.
+Solutions under the European Cloud Initiative should be developed with due regard for the fundamental rights enshrined in the Charter of
+Fundamental Rights.
+The scientific community needs a secured, safe and open-source high-capacity infrastructure in order to advance research and to prevent
+potential security breaches. The EOSC should be accompanied by a comprehensive cyber-security strategy.
+The Commission and the Member States, in cooperation with other stakeholders, are called upon to establish a roadmap to give as fast as
+possible a clear timescale for the implementation of the actions envisaged by the EOSC.
+Access to data and financing: Parliament urged the Commission to lead by example, and to make all research data funded by European
+programmes such as Horizon 2020, the European Fund for Strategic Investments (EFSI), the European Structural and Investment Funds
+(ESI) and others and its results to be open by default, based on the findable, accessible, interoperable and reusable ( FAIR) principles.
+Moreover, concerned by the EUR 4.7 billion financing gap of the European Cloud Initiative, Members called on the Commission to: (i) identify
+appropriate financing mechanisms for the EOSC and the European Data Infrastructure (EDI); (ii) provide sufficient resources for this policy
+area in Horizon 2020 and in its proposal for the Ninth Framework Programme.
+Removing barriers: Parliament supported the Commissions intention to remove barriers, especially technical and legal ones, to the free
+movement of data and data services, to remove as well disproportionate data localisation requirements, and to promote the interoperability of
+data by linking the European Cloud Initiative to the Free Flow of Data Initiative. In order to achieve a digital society, the free flow of data must
+be regarded as the fifth freedom within the single market. Members noted that a clear legal framework, sufficient skills and resources related to
+the management of big data, as well as the recognition of relevant professional qualifications are prerequisites for unleashing the full potential
+of cloud computing.
+The Commission is urged to: (i) engage with stakeholders, especially the industry, in identifying big data; (ii) create incentives for stakeholders,
+in particular SMEs and start-ups, to use, open and share data in the Single Market.
+Text and data mining: the resolution stressed that full availability of public data within the EOSC will not be sufficient to remove all barriers to
+data-based research. The initiative needs to be complemented by a modern copyright framework that should allow for the removal of
+fragmentation and lack of interoperability from the European data research process.
+Data protection, fundamental rights and data security: Parliament urged the Commission to take action to promote the further harmonisation of
+laws in the Member States in order to avoid jurisdictional confusion and fragmentation, and to ensure transparency in the digital single market.
+
+Stressing that the EU is a global importer and exporter of digital services, and that it requires a strong cloud computing and data economy to
+be competitive, Members called on the Commission to take a lead in striving towards the creation of uniform, globally accepted standards of
+personal data protection.
+Parliament recognised that a harmonised approach to the implementation of the General Data Protection Regulation, including guidelines,
+compliance toolkits and awareness-raising campaigns for citizens, researchers and businesses, is crucial, especially for the development of
+the EOSC and the facilitation of research cooperation, including by high-performance computing.
+Lastly, the Commission is urged to:
+cooperate in establishing a safe and trustworthy digital infrastructure and to build up high levels of cybersecurity in compliance with the
+Network and Information Security Directive;
+ensure that this initiative is fit for purpose, outward looking, future proof and technologically neutral in order for the EU to be a leader in
+this area;
+work with industry-led standard setting initiatives to ensure that the single market remains accessible to third countries and responsive
+to technological evolution, avoiding barriers which will hinder innovation and competitiveness in Europe.
+
+

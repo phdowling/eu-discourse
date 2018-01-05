@@ -1,0 +1,471 @@
+Procedure file
+Basic information
+2016/2059(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+EU strategy for liquefied natural gas and gas storage
+
+Subject
+3.60.03 Gas, electricity, natural gas, biogas
+3.60.08 Energy efficiency
+3.60.10 Security of energy supply
+3.60.15 Cooperation and agreements for energy
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+23/02/2016
+
+GYÜRK András
+Shadow rapporteur
+
+ZANONATO Flavio
+
+TOŠENOVSKÝ Evžen
+
+PUNSET Carolina
+
+SYLIKIOTIS Neoklis
+
+DALUNDE Jakop
+
+PAKSAS Rolandas
+BAY Nicolas
+Committee for opinion
+
+Rapporteur for opinion
+
+Foreign Affairs
+
+AFET
+
+Appointed
+04/05/2016
+
+HADJIGEORGIOU
+Takis
+INTA
+
+International Trade
+
+23/05/2016
+KOULOGLOU Stelios
+
+ENVI
+
+Environment, Public Health and Food Safety
+
+27/04/2016
+ZORRINHO Carlos
+
+IMCO
+
+Internal Market and Consumer Protection
+
+TRAN
+
+Transport and Tourism
+
+The committee decided not to
+give an opinion.
+07/04/2016
+MONTEIRO DE
+AGUIAR Cláudia
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Energy
+
+ARIAS CAÑETE Miguel
+
+Key events
+16/02/2016
+
+Non-legislative basic document published
+
+COM(2016)0049
+
+Summary
+
+28/04/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/09/2016
+
+Vote in committee, 1st reading/single
+reading
+
+30/09/2016
+
+Committee report tabled for plenary,
+single reading
+
+24/10/2016
+
+Debate in Parliament
+
+25/10/2016
+
+Results of vote in Parliament
+
+25/10/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+25/10/2016
+
+End of procedure in Parliament
+
+A8-0278/2016
+
+Summary
+
+T8-0406/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/2059(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/06297
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2016)0049
+
+16/02/2016
+
+EC
+
+Committee draft report
+
+PE582.327
+
+10/05/2016
+
+EP
+
+Amendments tabled in committee
+
+PE584.007
+
+20/06/2016
+
+EP
+
+Summary
+
+Committee opinion
+
+AFET
+
+PE582.256
+
+14/07/2016
+
+EP
+
+Committee opinion
+
+INTA
+
+PE585.452
+
+31/08/2016
+
+EP
+
+Committee opinion
+
+TRAN
+
+PE583.876
+
+07/09/2016
+
+EP
+
+Committee opinion
+
+ENVI
+
+PE584.261
+
+08/09/2016
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0278/2016
+
+30/09/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0406/2016
+
+25/10/2016
+
+EP
+
+Summary
+
+SP(2017)54
+
+29/03/2017
+
+Commission response to text adopted in
+plenary
+
+2016/2059(INI) - 16/02/2016 Non-legislative basic document
+PURPOSE: to present an EU strategy for liquefied natural gas and gas storage.
+BACKGROUND: the Commission's "Framework Strategy for a Resilient Energy Union with a Forward-Looking Climate Change Policy " gives
+concrete expression to the EU's ambition to bring about a transition to a sustainable, secure and competitive energy system.
+As stressed in the Communication on the State of the Energy Union, the geopolitical challenges linked to ensuring secure and resilient
+supplies of fossil fuels also remain significant, particularly as regards commodities for which the EU is highly dependent on imports.
+In this context, the Commission considers that the further diversification of the EU's natural gas supply remains a key objective, particularly as
+domestic production in the EU will continue to decline in coming decades. Vulnerability due to increasing import dependency can also be
+
+mitigated if the gas system remains flexible and able to respond to fluctuations in supply.
+As regards LNG, the prospect of a dramatic (50%) expansion in global supply over the next few years and consequently of lower prices
+presents a major opportunity for the EU, particularly when it comes to gas security and resilience. Four Member States in the Baltic,
+central-eastern and south-eastern European regions are heavily dependent on a single supplier, and hence vulnerable to supply interruptions.
+These Member States need rapidly to develop access to a diverse range of energy sources, and the availability of LNG could make a major
+contribution in this regard.
+LNG can also bring benefits in terms of competitiveness, as markets become exposed to greater competitive challenges from international
+suppliers.
+In addition to improving security and competitiveness, LNG has the potential in some cases to reduce environmental impacts, and hence
+support the EU's sustainability objective.
+Lastly, robust and sufficient gas storage facilities are crucial to energy security and resilience in times of major supply disruption. However, as
+with LNG, the full potential of storage to contribute to gas security and resilience is not currently being exploited.
+This strategy, which has been prepared in consultation with a wide range of stakeholders, goes into the above issues in further detail and
+draws conclusions as to what specific measures may be necessary.
+CONTENT: the present strategy aims to exploit the potential of liquefied natural gas (LNG) and gas storage to make the EU gas system more
+diverse and flexible, thus contributing to the key Energy Union objective of a secure, resilient and competitive gas supply. To exploit the full
+potential of access to a growing international LNG market and to make the EU an attractive market for suppliers the EU needs to:
+1) Ensure that the necessary infrastructure is in place to complete the internal market and allow all Member States to benefit from access to
+international LNG markets, either directly or via other Member States. This is particularly urgent for Member States that are overly dependent
+on a single supplier. The EU's current LNG terminals provide sufficient overall regasification capacity, with further additions planned. However,
+they are not optimally distributed across the EU. To meet the challenge of non-optimal distribution of LNG terminals, the Commission feels that
+increased interconnection to liquid hubs where gas from existing LNG terminals or from pipeline sources is traded would improve security of
+supply for those Member States who currently have access to only a limited number of supply sources, while also helping to integrate markets
+across borders.
+According to the Commissions analysis, the implementation of key projects of common interest supported in the high-level groups set up under
+the TEN-E policy will remove, or at least mitigate, the main vulnerabilities identified by the gas stress tests. It is therefore vital that the missing
+infrastructure links rapidly be constructed, and the requisite measures taken to promote liquid and competitive markets, including those to
+enable access to LNG and to promote new liquid hubs in the central and south eastern, Baltic and south western regions and the
+Mediterranean. The Commission supports the work being carried out in the high-level groups and encourages Member States and project
+promoters to accelerate final decisions on these key projects as a priority.
+2) Complete the internal gas market: the EU needs to complete the internal gas market so that it sends the right price signals both to attract
+LNG to where it is needed and to allow the necessary investments in infrastructure to take place. It is therefore crucial that Member States, in
+cooperation with national regulatory authorities (NRAs), take all necessary action to complete the internal gas market, eliminate the remaining
+regulatory, commercial and legal barriers and provide access for these markets to effective regional gas hubs.
+3) Improve the role of storage to ensure security of gas supply: where the geological conditions allow for it, storage plays a major role in
+balancing the usual daily and seasonal fluctuation of supply and demand. However, the effectiveness and efficiency of the use of storage
+across Member States' borders and at regional level, both under normal market conditions and in crisis situations, could be improved.
+Building on the proposed revision of the Gas Security of Supply Regulation , the Commission calls on Member States to optimise the
+effectiveness and efficiency of the use of storage across borders through regional preventive action and emergency plans.
+The Commission also invites Member States to take action in the context of these plans to facilitate the availability of and access to storage on
+a wider regional level.
+4) Cooperate more closely with international partners in promoting free, liquid and transparent LNG markets around the world. This means
+continuing to work closely with other current and potential suppliers such as Qatar, Nigeria, Egypt, Angola, Mozambique, Tanzania, Israel,
+Lebanon, Iran, Iraq and Libya) and with other major LNG importers such as Japan, South Korea, China and India, to eliminate obstacles LNG
+trade in world markets.
+5) Support the use of LNG as an alternative fuel in transport: the Commission calls on Member States ensure full implementation of Directive
+2014/94/EU on alternative fuels, including the establishment of LNG refuelling points across the TEN-T corridors and at maritime and inland
+ports. The EU should also continue to support the growth of LNG as an alternative fuel where it replaces more polluting conventional fuels and
+does not take the place of renewable energy sources, consistent with sustainability goals.
+The Commission will report on progress as regards the strategic LNG and storage objectives presented here in its annual State of the Energy
+Union, identifying, any additional measures required.
+
+2016/2059(INI) - 30/09/2016 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy adopted the own-initiative report by András GYÜRK (EPP, HU) in response to the
+Commission communication entitled An EU strategy for liquefied natural gas and gas storage.
+Whilst welcoming the Commission communication, Members stressed that an EU strategy for LNG must be consistent with the framework
+strategy for a resilient Energy Union, so as to contribute to increased security of energy supply, decarbonisation, the long-term sustainability of
+the economy and the delivery of affordable and competitive energy prices.
+Members agreed with the assessment of the Commission that Member States in the Baltic Sea region and in central and south-eastern
+Europe, and Ireland despite the huge infrastructure development efforts realised by certain Member States are still heavily reliant on a single
+supplier and are exposed to supply shocks and disruptions. The availability of LNG, including supporting pipeline infrastructure, in these
+
+Member States could significantly improve the current supply security situation, contributing to more competitive energy prices.
+The resolution stressed the need to:
+make the EU gas system more diverse and flexible and develop a strategy that aims at lessening EU gas dependency in the long term
+;
+promote, before supporting new regasification terminals, the most efficient use of existing LNG terminals from a cross-border
+perspective, so to avoid technology lock-in or stranded assets in fossil fuel infrastructure and ensure that consumers do not have to
+bear the costs of any new projects.
+Completing missing infrastructure
+As regards the LNG infrastructure, Members highlighted the importance of:
+giving priority to market-based solutions and to the utilisation of existing LNG infrastructure on a regional level;
+carrying out a careful analysis of LNG supply alternatives and options from a regional as well as an environmentally sustainable
+perspective, before deciding on new infrastructure;
+cooperating a regional level when building new LNG terminals and interconnections: Member States with access to the sea should
+cooperate closely with landlocked countries in order to avoid over-investment in unnecessary and uneconomic projects.
+The Commission and the Member States are called upon to:
+put in place strategies to support facilities that can be used in the future to manage the transfer and storage of renewable natural gas;
+fully implement key projects of common interest (PCIs), and to assign high priority primarily to the most economically and
+environmentally efficient.
+Regarding storage infrastructure, Members recalled that the cross-border accessibility of gas storages is one of the key tools to implement the
+principle of energy solidarity during gas shortages and emergency crisis. They emphasised that a more extensive use of Ukraines storage
+capacity will only be possible if an appropriate and stable commercial and legal framework and the integrity of supply infrastructure is
+guaranteed in Ukraine. The EU should support Ukraine in transitioning from dependency on Russian natural gas to LNG.
+Connecting LNG and storage to markets: the report emphasised the importance of the work of regional high-level groups, such as the Central
+East South Europe Gas Connectivity High Level Group (CESEC), the Baltic Energy Market Interconnection Plan (BEMIP) and the South-West
+Europe group.
+Members are called upon to:
+find cost-efficient and environmentally sustainable energy supply options to increase long-term security of supply for the Iberian
+peninsula, Central and South-East Europe, the Baltic states and Ireland;
+support the most vulnerable countries that continue to remain energy islands, such as Cyprus and Malta;
+prioritise gas production in the Mediterranean, Black Sea and Caspian regions, as well as for interconnecting landlocked countries in
+Central and South-East Europe to these new capacities in order to diversify supply sources in those regions.
+Making the EU an attractive market for LNG: Members urged the Member States to fully implement the Third Energy Package. They
+highlighted the important role that well-interconnected liquid gas hubs play on the gas markets that would ensure a single integrated market
+where gas can freely flow across borders in line with market price signals. They urged stakeholders to finalise the network code on rules
+regarding harmonised transmission tariff structures for gas as soon as possible.
+Gas storage in the internal market: the report highlighted the need to develop harmonised tariff structures across the EU and to increase
+transparency in tariff definition in order to achieve a higher utilisation rate of existing gas storages. It urged the Member States to fully
+implement the third energy package, particularly in relation to the provisions on granting access to bio-methane to the grid and to storage
+facilities. It also underlined the importance of eliminating regulatory barriers to developing regional storage concepts.
+Role of the EU as a player on international LNG markets: Members considered that, through its emergence as an important market, the EU
+can contribute to the evolution of gas trading rules with a view to improved flexibility and the convergence of global gas markets.
+In order to do so:
+the EUs trade policy should enhance the Unions and Member States energy diversification and reduce their dependency on imported
+energy from too few suppliers;
+the EU should play a more proactive role in the international energy diplomacy arena: it should explore new partnerships, review its
+existing ones and hold specific energy talks with other partners in areas such as but not limited to Central Asia, North Africa and the
+Americas;
+coherence between the EUs trade and energy policies should be enhanced.
+Sustainability and the use of LNG as an alternative fuel in transport, heat and power: Members acknowledged the potential of LNG as an
+alternative fuel, both in road and maritime transport. They underlined that wider use of LNG in freight transport could contribute to the
+decrease of global CO2, SOx, and NOx emissions, especially through using more LNG engines in maritime transport.
+The report recommended, inter alia:
+the creation of a joint project with the Member States and their regions, a common project of LNG Blue Corridors for Islands for the
+maritime sector, including ports of the TEN-T Comprehensive Network;
+the implementation of Directive 2014/94/EU as regards the establishment of CNG refuelling points, so as to ensure that motor vehicles
+running on that fuel can circulate in urban/suburban agglomerations and other densely populated areas, and at least along the existing
+TEN-T Core Network;
+the adoption of measures to promote: (i) the development of vessels and motor vehicles running on LNG; (ii) transport of LNG by rail;
+(iii) the development of an efficient network of refuelling infrastructure in order to close the existing gaps in provision and create a
+complete supply network.
+
+2016/2059(INI) - 25/10/2016 Text adopted by Parliament, single reading
+The European Parliament adopted by 415 votes to 223, with 55 abstentions, a resolution in response to the Commission communication
+entitled An EU strategy for liquefied natural gas and gas storage.
+Whilst welcoming the Commission communication, Members stressed that an EU strategy for LNG must be consistent with the framework
+strategy for a resilient Energy Union, so as to contribute to increased security of energy supply, decarbonisation, the long-term sustainability of
+the economy and the delivery of affordable and competitive energy prices.
+Members highlighted, in this context, current developments in global LNG markets, where oversupply has led to lower prices, presenting an
+opportunity to deliver lower energy costs to EU consumers through relatively cheaper gas supplies.
+(1) Reduce Union dependency: Members agreed with the assessment of the Commission that Member States in the Baltic Sea region and in
+central and south-eastern Europe, and Ireland despite the huge infrastructure development efforts realised by certain Member States are still
+heavily reliant on a single supplier and are exposed to supply shocks and disruptions. The availability of LNG, including supporting pipeline
+infrastructure, in these Member States could significantly improve the current supply security situation, contributing to more competitive energy
+prices.
+The resolution stressed the need to:
+make the EU gas system more diverse and flexible and develop a strategy that aims at lessening EU gas dependency in the long term
+;
+promote, before supporting new regasification terminals, the most efficient use of existing LNG terminals from a cross-border
+perspective, so to avoid technology lock-in or stranded assets in fossil fuel infrastructure and ensure that consumers do not have to
+bear the costs of any new projects.
+(2) Completing missing infrastructure:
+As regards the LNG infrastructure, Members highlighted the importance of:
+giving priority to market-based solutions and to the utilisation of existing LNG infrastructure on a regional level;
+carrying out a careful analysis of LNG supply alternatives and options from a regional as well as an environmentally sustainable
+perspective, before deciding on new infrastructure;
+cooperating a regional level when building new LNG terminals and interconnections: Member States with access to the sea should
+cooperate closely with landlocked countries in order to avoid over-investment in unnecessary and uneconomic projects.
+The Commission and the Member States are called upon to:
+put in place strategies to support facilities that can be used in the future to manage the transfer and storage of renewable natural gas;
+fully implement key projects of common interest (PCIs), and to assign high priority primarily to the most economically and
+environmentally efficient.
+Regarding storage infrastructure, Members recalled that the cross-border accessibility of gas storages is one of the key tools to implement the
+principle of energy solidarity during gas shortages and emergency crisis. They emphasised that a more extensive use of Ukraines storage
+capacity will only be possible if an appropriate and stable commercial and legal framework and the integrity of supply infrastructure is
+guaranteed in Ukraine. The EU should support Ukraine in transitioning from dependency on Russian natural gas to LNG.
+(3) Connecting LNG and storage to markets: Parliament emphasised the importance of the work of regional high-level groups, such as the
+Central East South Europe Gas Connectivity High Level Group (CESEC), the Baltic Energy Market Interconnection Plan (BEMIP) and the
+South-West Europe group.
+Members are called upon to:
+find cost-efficient and environmentally sustainable energy supply options to increase long-term security of supply for the Iberian
+peninsula, Central and South-East Europe, the Baltic states and Ireland;
+support the most vulnerable countries that continue to remain energy islands, such as Cyprus and Malta.
+Parliament expressed concern at the proposed doubling of capacity of the Nord Stream pipeline, and the counterproductive effects this would
+have on energy security and diversification of supply sources and the principle of solidarity among Member States. It considered that if,
+contrary to European interests, Nord Stream 2 were to be built it would necessarily require a sound assessment of LNG terminals accessibility
+and a detailed state of play on the North-South Gas Corridor.
+(4) Making the EU an attractive market for LNG: Members urged the Member States to fully implement the third energy package, while
+insisting that the completion of the internal gas market and the elimination of regulatory obstacles would greatly improve the liquidity of gas
+markets. They urged stakeholders to finalise the network code on rules regarding harmonised transmission tariff structures for gas as soon as
+possible.
+(5) Gas storage in the internal market: the resolution highlighted the need to develop harmonised tariff structures across the EU and to
+increase transparency in tariff definition in order to achieve a higher utilisation rate of existing gas storages. Members supported the
+Commissions proposal to enable the deployment of bio-methane and other renewable gases which comply with relevant EU quality standards
+in gas transmission, distribution and storage.
+(6) Role of the EU as a player on international LNG markets: Parliament supported the Commission, the European External Action Service and
+the Member States in their active engagement in energy diplomacy in order to promote a rule-based, transparent and well-functioning global
+gas market.
+Members considered it of key importance that the EUs trade policy should enhance the Unions and Member States energy diversification and
+reduce their dependency on imported energy from too few suppliers.
+Stressing that trade plays a key role in energy security, Members noted that strong energy partnerships, reinforced by the inclusion of energy
+
+chapters in the EUs trade agreements, are essential tools.
+(7) Sustainability and the use of LNG as an alternative fuel in transport, heat and power: Members acknowledged the potential of LNG as an
+alternative fuel, both in road and maritime transport. They underlined that wider use of LNG in freight transport could contribute to the
+decrease of global CO2, SOx, and NOx emissions, especially through using more LNG engines in maritime transport.
+The report recommended, inter alia:
+the creation of a common project of LNG Blue Corridors for Islands for the maritime sector, including ports of the TEN-T Comprehensive
+Network;
+the adoption of measures to promote: (i) the development of vessels and motor vehicles running on LNG; (ii) transport of LNG by rail; (iii) the
+development of an efficient network of refuelling infrastructure in order to close the existing gaps in provision and create a complete supply
+network.
+Lastly, Parliament noted that the use of small-scale LNG technology in certain areas, such as long-range transportation or industrial
+high-performance applications, could not only contribute to climate policy objectives but also result in significant business advantage. It also
+noted that LNG, and in particular CNG, is also a viable solution for public transport.
+
+

@@ -1,0 +1,344 @@
+Procedure file
+Basic information
+2016/0370(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed, awaiting publication in Official Journal
+
+Value added tax (VAT): certain obligations for supplies of services and
+distance sales of goods
+Amending Directive 2006/112/EC 2004/0079(CNS)
+Amending Directive 2009/132/EC 2008/0181(CNS)
+Subject
+2.40 Free movement of services, freedom to provide
+2.70.02 Indirect taxation, VAT, excise duties
+3.45.05 Business policy, electronic commerce, after-sales service,
+commercial distribution
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+15/12/2016
+
+IVAN Cătălin Sorin
+Shadow rapporteur
+
+LANGEN Werner
+
+LUCKE Bernd
+
+NAGTEGAAL Caroline
+
+LÓPEZ BERMEJO
+Paloma
+
+SCOTT CATO Molly
+KAPPEL Barbara
+Committee for opinion
+IMCO
+
+JURI
+
+Internal Market and Consumer Protection
+
+Legal Affairs
+
+Council of the European Union Council configuration
+
+European Commission
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+The committee decided not to
+give an opinion.
+Meeting
+
+Date
+
+Economic and Financial Affairs ECOFIN
+
+3582
+
+05/12/2017
+
+Commission DG
+
+Commissioner
+
+Taxation and Customs Union
+
+MOSCOVICI Pierre
+
+Key events
+01/12/2016
+
+Legislative proposal published
+
+16/01/2017
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/10/2017
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0757
+
+Summary
+
+16/10/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+07/11/2017
+
+Debate in Council
+
+30/11/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+05/12/2017
+
+Act adopted by Council after consultation
+of Parliament
+
+05/12/2017
+
+End of procedure in Parliament
+
+A8-0307/2017
+
+Summary
+
+T8-0471/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0370(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2006/112/EC 2004/0079(CNS)
+Amending Directive 2009/132/EC 2008/0181(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 113
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed, awaiting publication in Official Journal
+
+Committee dossier
+
+ECON/8/08648
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0757
+
+01/12/2016
+
+EC
+
+Summary
+
+Document attached to the procedure
+
+SWD(2016)0379
+
+01/12/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0382
+
+01/12/2016
+
+EC
+
+Committee draft report
+
+PE604.735
+
+23/05/2017
+
+EP
+
+Amendments tabled in committee
+
+PE606.187
+
+13/07/2017
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0307/2017
+
+16/10/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0471/2017
+
+30/11/2017
+
+EP
+
+Summary
+
+Additional information
+Research document
+
+Briefing
+
+2016/0370(CNS) - 01/12/2016 Legislative proposal
+PURPOSE: to modernise the VAT rules in the context of cross-border business to consumer (B2C) e-commerce.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consultation with the European Parliament but without needing to
+follow the latters opinion.
+BACKGROUND: In its communication of May 2015 entitled Strategy for Digital Single Market for Europe' and its communication of April 2016
+on an action plan on VAT entitled 'Towards a single EU VAT area , the Commission placed a high priority to overcoming barriers to
+
+cross-border e-commerce arising from onerous VAT obligations as well as an inherent lack of neutrality which harms EU business.
+It feels that there are three reasons to take action:
+it has been estimated that the costs of complying with VAT obligations are on average EUR 8 000 annually for each Member State to
+which a business supplies. This is a significant cost for business, in particular SMEs;
+the current system is not neutral as EU businesses are at a clear disadvantage to non-EU businesses which can legitimately and
+through high levels of noncompliance make VAT-free supplies into the EU;
+the complexity of the existing system as well as the current exemption for the importation of small consignments means that Member
+States lose valuable tax revenues. It is estimated that between VAT foregone and non-compliance from cross-border e-commerce
+such losses are currently as high as EUR 5 billion annually.
+In preparing this proposal the Commission carried out a regulatory fitness check of the existing Mini One Stop Shop (MOSS), which applies to
+B2C supplies of electronic services as well as the 2015 changes to the place of supply rules for such services.
+The proposal takes due account of this assessment. In particular, the proposal will address shortcomings and barriers faced by SMEs and
+micro-businesses.
+IMPACT ASSESSMENT: the impact assessment on the proposal was examined in June 2016 by the Regulatory Scrutiny Board. The Board
+gave a positive opinion to the proposal with some recommendations that have been taken on board.
+CONTENT: the proposal aims to amend Directive 2006/112/EC and Directive 2009/132/EC as regards certain value added tax obligations for
+supplies of services and distance sales of goods. The main provisions in the proposal are as follows:
+extension of MOSS from 1 January 2021 to intra-Community distance sales of tangible goods and services other than electronic
+services as well as to distance sales of goods from third countries;
+the introduction of a simplified arrangements for global declaration and payment of import VAT for importers of goods destined for final
+consumer where VAT has not been paid through the MOSS system; it is proposed that VAT will be collected from customers on
+importation and a simple monthly declaration to customs will be transmitted by the transporter;
+the removal of the existing intra-Community distance sales thresholds which are a cause of distortions in the single market;
+the removal of the existing VAT exemption for the importation of small consignments (total value between EUR 10 and EUR 22) from
+suppliers in third countries which disadvantages EU sellers;
+the introduction of a new annual threshold of EUR 10 000 below which the place of supply of services that may be covered by the
+intra-Community special scheme for electronic services remains in the Member State of the supplier; and the introduction of an annual
+threshold of EUR 100 000 below which simplified rules will apply to determine the place of establishment; these thresholds may be
+applied from 2018 to ecommerce and 2021 at the latest for distance sales;
+allowing for EU sellers to apply home country rules in areas such as invoicing and record keeping; and
+greater coordination between Member States when auditing of cross-border businesses who use the VAT system to ensure high
+compliance rates.
+In quantitative terms, the introduction of an intra-EU cross-border threshold in 2018 will take 6 500 businesses out of the current MOSS system
+leading to a potential cost saving for these businesses of EUR 13 million. The introduction in 2018 of simplified evidence requirements will
+benefit an additional 1 000 businesses. The threshold which will also apply to goods when the MOSS is extended in 2021 will benefit 430 000
+businesses with potential savings to these businesses of up to EUR 860 million.
+BUDGETARY IMPLICATIONS: the proposal is expected to increase VAT revenues for Member States by EUR 7 billion per year. It is
+estimated that the proposal will reduce administration burdens for business by EUR 2.3 billion annually.
+
+2016/0370(CNS) - 16/10/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, following a special legislative procedure (Parliaments consultation), the report by
+C?t?lin Sorin IVAN (S&D, RO) on the proposal for a Council directive amending Directive 2006/112/EC and Directive 2009/132/EC as regards
+certain value added tax obligations for supplies of services and distance sales of goods.
+The committee called on Parliament to approve the Commission proposal subject to the following amendments:
+Need for a definitive system: Members introduced a recital urging the adoption of a definitive VAT regime based on the destination principle,
+recalling in this respect that the VAT gap in the EU was approximately EUR 152 billion in 2015, while cross-border fraud accounted for a loss
+of VAT revenue of approximately EUR 50 billion a year.
+The amended text recalled that the Commission's proposal is only a building block for closing the VAT gap and that further measures are
+needed to effectively combat VAT fraud in the Union.
+Online platforms: the Commission's proposal provides for online platforms to be held responsible for the collection of VAT in supplies of
+services. Members, however, proposed that these platforms should also be held liable for the collection of VAT when they act as
+intermediaries in supplies of goods imported from third countries where the intrinsic value of the items does not exceed EUR 150 and they
+have an annual turnover exceeding EUR 1 million.
+Place of supply of services: the proposal provides that the place of supply of telecommunications, broadcasting and television services and
+services provided by electronic means to a non-taxable person shall be the place where that person is established.
+Members pointed out that this provision should not apply where the total value, exclusive of VAT, of such supplies does not in the current
+calendar year exceed EUR 35 000 (EUR 10 000 according to the Commission proposal) and did not exceed this threshold in the previous
+calendar year.
+Record keeping: one amendment proposed that the records shall be kept for a period of five years from the end of the calendar year during
+which the transaction was carried out.
+Implementation period: the Commission and Member States have a legal obligation to allow business to register to the new one-stop-shop by
+
+31 December 2020. Members, however, considered that business should be given 3 additional months until 1 April 2021 (instead of 1 January
+2021), to adapt their own IT systems to connect it to the new one-stop shop.
+Impact on postal services: Member States and the Commission should pay particular attention to the impact on the postal services sector as
+the amending Directive could lead to an increase in administrative costs for small consignments.
+
+2016/0370(CNS) - 30/11/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 540 votes to 30, with 68 abstentions, in line with a special legislative procedure (Parliaments
+consultation), a legislative resolution on the proposal for a Council directive amending Directive 2006/112/EC and Directive 2009/132/EC as
+regards certain value added tax obligations for supplies of services and distance sales of goods.
+Parliament approved the Commission proposal subject to the following amendments:
+Need for a definitive system: Parliament introduced a recital urging the adoption of a definitive VAT regime based on the destination principle,
+recalling in this respect that the VAT gap in the EU was approximately EUR 152 billion in 2015, while cross-border fraud accounted for a loss
+of VAT revenue of approximately EUR 50 billion a year. It also stressed the need for additional measures to effectively combat VAT fraud in
+the Union.
+Mini-One-Stop-Shop (MOSS): Member States should further promote the mini-one-stop shop to a wider range of SMEs as 99% of VAT
+revenue processed through the mini-one-stop shop is reported by only 13% of registered companies.
+Online platforms: the Commission's proposal provides for online platforms to be held responsible for the collection of VAT in supplies of
+services. Members, however, proposed that these platforms should also be held liable for the collection of VAT when they act as
+intermediaries in supplies of goods imported from third countries where the intrinsic value of the items does not exceed EUR 150 and they
+have an annual turnover exceeding EUR 1 million.
+Place of supply of services: the proposal provides that the place of supply of telecommunications, broadcasting and television services and
+services provided by electronic means to a non-taxable person shall be the place where that person is established.
+Members pointed out that this provision should not apply where the total value, exclusive of VAT, of such supplies does not in the current
+calendar year exceed EUR 35 000 (EUR 10 000 according to the Commission proposal) and did not exceed this threshold in the previous
+calendar year.
+Record keeping: one amendment proposed that the records shall be kept for a period of five years from the end of the calendar year during
+which the transaction was carried out.
+Implementation period: the Commission and Member States have a legal obligation to allow business to register to the new one-stop-shop by
+31 December 2020. Members, however, considered that business should be given 3 additional months until 1 April 2021 (instead of 1 January
+2021), to adapt their own IT systems to connect it to the new one-stop shop.
+Impact on postal services: Member States and the Commission should pay particular attention to the impact on the postal services sector as
+the amending Directive could lead to an increase in administrative costs for small consignments.
+
+

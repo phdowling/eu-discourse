@@ -1,0 +1,4494 @@
+General Report 2014
+
+Table of contents
+Foreword from the Chair of the Management Board
+& the Executive Director #3
+1. Introduction #7
+2. Developments at Policy Level #9
+3. Development at Agency Level #17
+4. Building Capacity #25
+5. Transparency and Access to Information #28
+6. Fundamental Rights #31
+7. I nternal Communication, Ethics and Integrity
+
+#35
+
+8. Summary of Budgetary and Human Resources issues #36
+10. Annexes #41
+Annex A. List of Management Board Members #41
+Annex B. List of Management Board Decisions adopted in 2014 #43
+Annex C. Situation at the external borders in 2014 #44
+Annex D. List of Joint Operational Activities #47
+Annex E. Comparative Analysis of Joint Operational Activities 2014 #53
+Annex G. List of Training Projects #56
+Annex H. Fundamental Rights Progress Report 2014 #58
+Annex I. Annual Report on Access to Documents #66
+Annex J. Appropriations 2014 #67
+Annex K. Breakdown of staff members1 by entities in Frontex on 31 December #68
+Annex L. Breakdown of Temporary Agents in Frontex #69
+Abbreviations used in General Report 2014 #70
+
+Frontex · General Report 2014
+
+© Swiss Border Guard,
+
+1
+
+Frontex · General Report 2014
+
+2
+
+Frontex · General Report 2014
+
+Foreword from the Chair
+of the Management Board
+& the Executive Director
+The massive number of migrants arriving at
+the EU’s borders kept migration issues in the
+headlines throughout 2014. It was the year in
+which Frontex, border guard authorities and all
+of the Member States were confronted with
+more than 280,000 illegal border crossings,
+double the previous record number (in 2011,
+the year of the Arab Spring). The ongoing conflict in Syria, instability in Iraq connected with
+the rise of ISIS and the further break-down of
+government structures in Libya, the main departure point for migrants last year, significantly contributed to what is considered to be
+the worst refugee crisis since World War Two.
+To assist Italy, which took the brunt of the migration wave, Frontex replaced its joint operations
+Hermes and Aeneas, which had been underway since 2013, with a larger operation: Triton,
+which was launched in November. In the first
+two months of Joint Operation Triton, 14,500
+people were rescued in the central Mediterranean, including 4,359 with the direct participation of vessels and aircraft co-funded by Frontex.
+As Frontex confronted the challenging migration situation in 2014 by assisting Member States at the external borders, it also
+recorded many successes in its other core
+activities. Among the year’s achievements
+were the expansion of the European Border
+Guard Team and the introduction of the Opera 2 system to help manage border guards
+and technical pools for deployment in Frontex
+operations. Frontex and the Member States,
+under the auspices of the European Commis-
+
+sion, also drafted the Eurosur Handbook to
+ensure the effective implementation of the
+system designed to enable better exchange
+of information about the situation at the external borders. The Agency also worked on a
+couple of important projects focused on air
+borders: it launched an initiative aimed at
+creating a new Air Border Risk Analysis Network (AB-RAN), which will gather information about potential challenges at airports;
+and, throughout the year, Frontex also coordinated Joint Operation VEGA Children at nine
+airports to test and evaluate a draft handbook which aims to help detect and protect
+minors at risk at air borders.
+In Brussels, a new Commission under the
+leadership of President Jean-Claude Juncker
+highlighted a new migration policy as being
+one of the priorities in its strategic guidelines. President Juncker appointed Dimitris
+Avramopoulos as the new Commissioner for
+Migration, Home Affairs and Citizenship, emphasising his role and that of Frontex in tackling the challenges of irregular migration and
+cross-border crime.
+On the policy front, in May 2014, the European Council and the European Parliament
+adopted the Sea Borders Surveillance Regulation laying down the rules for the monitoring of external maritime borders during
+joint operations coordinated by Frontex. The
+Agency has also been involved in the preparation of the Smart Borders Package and the
+Schengen Evaluation mechanism.
+
+3
+
+Frontex · General Report 2014
+
+A milestone in 2014 was the accepting of
+the first Consultative Forum Annual Report.
+Many of the conclusions drawn have been
+implemented since then or are currently being implemented. A highlight of 2014 was the
+appointment of a new executive director in
+November: Fabrice Leggeri took over as executive director following the departure of Ilkka
+Laitinen, who led Frontex from its establishment in 2006 until May 2014. Between June
+2014 and December 2014, the Agency was
+led by Gil Arias, as interim executive director;
+his excellent work is very much appreciated.
+Among Frontex’s efforts to build the capacity of European border guards was the Joint
+Master’s programme in Strategic Border Management, which successfully underwent a
+joint European evaluation. The first Master’s
+course will begin in September 2015.
+Frontex, which marks its 10th anniversary in
+2015, will also receive an independent external evaluation of its activities. The document
+will provide an opportunity for Frontex and
+EU policy makers to consider its plans going
+forward. As the Agency continues to deal with
+ongoing emergencies at EU borders, it also
+has to find strategic solutions and plans for
+its future, in order to create a flexible structure for guarding European borders.
+
+Frontex will, of course, continue to play its
+part, bearing in mind that it cannot solve all
+of Europe’s challenges at the borders. It will
+continue to work closely with the Commission,
+the Parliament and Member States, as well as
+other EU agencies. It will expand its cooperation with third countries, especially countries
+of transit and origin of irregular migration.
+This is a challenge which is going to require
+a holistic approach from all relevant actors.
+We would like to thank all of the employees
+of the Agency for their hard work and commitment in 2014. We are convinced that in
+2015 and beyond Frontex will remain a place
+where its cadre of professionals feels challenged and motivated in a changing world.
+We appreciate the excellent cooperation
+among Member State representatives in the
+management board, as well as the trust and
+partnership between the management board,
+the Agency and the European Commission.
+In 2015, Europe celebrates the 30th anniversary of the Schengen agreement, which gives
+citizens the freedom to travel throughout
+most of the European Union without ever
+stopping at a border crossing. The agreement
+has also created a joint responsibility for Member States to protect the external borders,
+where Frontex will continue to play a key role.
+Ralf Göbel
+Chair of the Management Board
+&
+Fabrice Leggeri
+Executive Director
+
+4
+
+Frontex · General Report 2014
+
+5
+
+© Frontex 2014
+
+6
+
+Frontex · General Report 2014
+
+1. Introduction
+Mission Statement
+Frontex supports, coordinates and develops European border management in line
+with the Charter of Fundamental Rights of
+the EU and other international obligations.
+Frontex supports the Member States* (MS)
+to achieve an efficient, high and uniform level
+of border control. Frontex coordinates operational measures to jointly respond to exceptional situations at the external borders.
+Frontex develops capacities at the Member
+State and European level as combined instruments to tackle challenges of migration
+flows, and the fight against serious organised
+crime and terrorism at the external borders.
+Frontex is the trustworthy European Border
+Agency, strengthening the European area of
+Freedom, Security and Justice by supporting the Member States to keep up with their
+responsibilities.
+
+Vision
+Frontex applies the concept of Integrated
+Border Management and promotes a European border culture based on the full respect,
+protection and promotion of fundamental
+rights. Frontex applies the concept of Integrated Border Management with a balanced focus on effective border control and
+fight against serious crime. The agency uses
+effectively all means including enhanced interagency cooperation and cooperation with
+Third Countries to fulfil its remit. Frontex
+promotes the European border guard culture with the full respect and promotion of
+
+fundamental rights as an integral element.
+Special focus is applied to the right to asylum
+and international protection and the principle of non-refoulement. Professional staff
+and a set of operational and administrative
+capabilities enable Frontex to add value to
+the European Union.
+
+* The term ‘Member
+State’ includes the
+Member States of the
+European Union and the
+Schengen Associated
+Countries
+
+Values
+Within a team-work focused framework, enabled by open communication, Frontex staff
+members share and live the corporate values.
+Consequently, they perform their activities
+in a highly professional way. Humanity links
+Frontex activities with the full respect, protection and promotion of fundamental rights
+as an unconditional and integral component
+of effective integrated border management
+resulting in trust in Frontex.
+
+Purpose of the report
+Frontex General Report 2014 takes the Programme of Work 2014 as a reference but does
+not aim to report against each and every objective set. It gives the reader a broad overview of activities carried out during 2014, and
+additionally highlights individual operational
+activities and achievements. This information is then complemented with general financial information and annexes presenting
+lists of different types of activity, comparative analysis of joint operations and summaries of budgetary and human resources. Some
+information may be repeated between chapters to provide context.
+
+7
+
+© Frontex 2014
+
+© European Union, 2014
+
+8
+
+Frontex · General Report 2014
+
+2. Developments at Policy Level
+The year 2014 was marked by the reaction to a
+record number of illegal border crossings that
+were close to 280 000, almost three times as
+high as the year before. A new Commission
+in Brussels under the leadership of President
+Jean-Claude Juncker made migration one of
+its priorities. President Juncker highlighted
+the role of Frontex in helping to deal with
+the massive wave of migrants and its role in
+helping national search and rescue authorities prevent tragedies at sea. Earlier in the
+year, the European Council and Parliament
+adopted the rules for the surveillance of the
+external sea borders in the context of operational cooperation coordinated by Frontex.
+
+with a full and consistent implementation
+of the Common European Asylum System.
+The new commissioner is working together
+with Federica Mogherini, High Representative of the Union for Foreign Affairs and
+Vice-President Frans Timmermans on the
+migration portfolio, related security issues
+and cooperation with Third Countries. Upon
+taking office, Commissioner Avramopoulos
+has also emphasised the role of Frontex in
+helping Europe to manage the massive inflow of migrants.
+
+New Commission
+
+In May 2014, the Council and the European
+Parliament adopted Council Regulation (EU)
+656/2014 establishing rules for the surveillance of the external sea borders in the context of operational cooperation coordinated
+by Frontex. The Regulation, which replaces
+Council Decision 2010/252/EU that was annulled by the Court of Justice of the European Union, lays down rules for surveillance
+of the external sea borders during joint operations coordinated by Frontex, including the
+detection, interception and disembarkation
+of persons. It also adopted specific rules on
+search and rescue of distressed vessels and
+persons on board. The regulation reinforces
+the fundamental rights approach to Frontex
+operational activities.
+
+President Juncker named a new migration
+policy as one of the priorities in his strategic guidelines for the new European Commission, which took office in November. He
+called for a strong common asylum policy to
+assist people in need, while dealing more robustly with an uncontrolled influx of irregular
+migrants, notably through better cooperation with Third Countries.
+President Juncker also said he wanted to
+boost Frontex’s operational capacity by increasing its budget and enabling it to pool
+more resources from Member States. This,
+according to the new head of the Commission, would increase the ability of the Agency
+to quickly deploy border guards and equipment in Frontex-coordinated joint operations.
+The Commission President appointed Dimitris Avramopoulos as the new Commissioner
+for Migration, Home Affairs and Citizenship, emphasising his role in tackling irregular migration and cross-border crime, along
+
+Sea Borders Surveillance
+Regulation
+
+The Regulation also requires that a Member State hosting a Frontex operation “shall
+take into account the general situation in ...
+(a) Third Country” whenever the joint operation allows to disembark in, force to enter,
+apprehend and hand over persons to a Third
+Country with specific focus on the respect of
+the principle of non-refoulement.
+
+9
+
+Smart Borders Package
+The first examination of the Smart Borders
+Package was completed in February 2014,
+during which the Council and the European
+Parliament voiced technical, operational and
+cost concerns, mainly related to the overall feasibility of the new systems proposed
+by the Commission in February 2013, and of
+some of its features.
+The Smart Borders Package aims at harnessing new technologies for the purpose
+of accelerating and simplifying, but also reinforcing, border checks for those crossing
+the EU external borders. This ‘package’ is in
+fact two main regulatory proposals put forward jointly by the Commission.
+The package includes a proposal for an Entry/
+Exit System. This potential database would
+keep a record of the time and place of entry
+and exit of third-country nationals travelling
+to the EU. It would also replace the current
+manual system of stamping passports to calculate the length of the authorised stay of an
+individual with a simplified, electronic system.
+The data would then be made available to
+border control and immigration authorities.
+The second component is the Registered
+Traveller Programme, which would allow frequent travellers who are not EU citizens to
+bypass lengthy passport queues upon arrival.
+The stated objective of the Smart Borders
+Package is to create a more open and secure
+Europe relying on state-of-the-art technologies. Progress on the matter was restricted
+
+10
+
+to studies by the European Commission and
+one by the European Parliament.
+In order to further assess the technical, organisational and financial impacts of the various possible ways to address these issues, the
+Commission is looking into options for implementing the Smart Borders Package. This
+exercise consists of two stages comprising of
+a Commission-led technical study aimed at
+identifying and assessing the most suitable
+and promising options and a pilot project,
+which will test selected solutions.
+The pilot project was entrusted to the European Agency for the Operational Management of large-scale IT Systems in the Area
+of Freedom, Security and Justice (eu-LISA)
+to verify the feasibility of the options identified in the technical study and validate the
+selected concepts for both automated and
+manual border controls.
+
+Visas Requirements
+On March 17, the European Parliament endorsed the Agreement between the EU and
+the Republic of Azerbaijan on the facilitation
+of the issuance of visas. As of April 28, Moldova has also been transferred to the list of
+Third Countries whose nationals are exempt
+from visa requirements.
+Two new regulation proposals were launched
+by the European Commission on 1 April 2014.
+One concerns a Regulation for the establishment of a touring visa and the second concerns a Regulation on the Union Code on
+Visas (Visa Code). The aim of both proposals
+
+is to simplify the procedures for those willing to enter to the EU for short stays and to
+reduce costs of processing, whilst maintaining the same level of security.
+
+countries such as Syria, Iraq and Afghanistan. Some of them have returned to Europe
+radicalised where they might carry out terrorist attacks.
+
+Post Visa Liberalisation
+Monitoring Mechanism
+
+To deal with the rising threat, the Commission presented informal recommendations on
+checks of travel documents, including use of
+the relevant databases at the border crossing
+points. It also recommended an improvement
+of the technical infrastructure at border crossings, including the increased use of passport
+readers, e-gates, and, where relevant, mobile terminals. It also encouraged the use of
+advanced passenger data in accordance with
+the Council Directive 82/2004 to enable more
+targeted checks on incoming flights.
+
+Frontex continued to provide support to the
+European Commission on monitoring developments in a number of Third Countries related
+to visa liberalisation. In 2014, the Commission
+adopted two reports concluding that Colombia and Peru meet the criteria to start negotiating agreements allowing their citizens
+visa-free access to the Schengen area. Negotiations with these countries may start in the
+first quarter of 2015.
+
+Schengen Evaluation
+Mechanism
+The Schengen Governance package was
+adopted in October 2013 by the European
+Parliament and the Council. It includes a regulation on the establishment of an evaluation
+and monitoring mechanism to verify the application of the Schengen acquis. Based on
+this new legislation, several additional tasks
+were implemented starting in 2014.
+These include delivery of two risk analyses on
+an annual basis: one to the European Commission and the Member States containing
+the priorities for the evaluation in the following year and one to the European Commission containing only the priorities for the
+implementation of unannounced visits (Frontex experts may participate in the evaluation
+visits). The Agency will also continue to reinforce Schengen Evaluation training.
+
+Foreign Fighters
+In 2014, Member States have become increasingly concerned by the return of their
+own citizens who took part in conflicts in
+
+© Frontex 2014
+
+© Frontex 2014
+
+Frontex · General Report 2014
+
+At international level, the United Nations Security Council (UNSC) adopted Resolution
+2178 which requires UN Member States to
+criminalise travel abroad for terrorist purposes as well as financing and facilitation of
+such travel. A number of Member States had
+updated their legal frameworks prior to the
+UNSC Resolution to better address the foreign fighters challenge; others are in the process of doing so or considering it.
+
+European Council Guidelines
+for the Area of Freedom,
+Security and Justice
+On 26-27 June 2014 the European Council defined the strategic guidelines for legislative
+and operational planning for the coming years
+in the Area of Freedom, Security and Justice
+(AFSJ). The new priorities are to transpose,
+implement and consolidate the legal instruments and policy measures which were set
+out in the Stockholm Programme 2010-2014
+but also to intensify cooperation, enhance
+the role of EU agencies and explore the potential for new technologies.
+In addition, the guidelines also call for a renewal
+of the Internal Security Strategy by mid-2015
+as part of the efforts to promote operational
+police cooperation and to prevent and combat serious organised crime, including human
+trafficking and smuggling, as well as corruption. Furthermore, the Council Conclusions of
+December 2014 on a renewed Internal Security Strategy call for an update of the EU Integrated Border Management (IBM) Concept.
+The Internal Security Strategy represents the
+EU’s common understanding of the threats it
+is facing and its commitment to using all the
+resources and expertise available for tackling
+them together. It represents a shared agenda
+of actions for Member States, EU institutions
+and agencies.
+
+12
+
+Frontex contributed to the revision process
+of the Internal Security Strategy as part of
+the Commission’s public consultation. With
+other Justice and Home Affairs (JHA) Agencies, Frontex developed a paper on ‘Priorities
+of the network of JHA Agencies in 2015’ in order to provide their input, as key operational
+players, to the new Guidelines.
+
+Multiannual Financial
+Framework 2014–2020
+The Multiannual Financial Framework (MFF),
+proposed by the European Commission and
+approved by the Council and Parliament, sets
+the maximum annual amounts which the EU
+may spend in different political fields between
+2014 and 2020. In the field of Home Affairs,
+EU launched two new funds: the Asylum and
+Migration Fund (EUR 3.869 billion) and the Internal Security Fund (ISF) (EUR 4.648 billion).
+Each Member State must present its national programme to describe how it plans
+to allocate the funds. According to the Regulation on ISF – Borders and Visa, Frontex
+must be consulted by the Commission on the
+content of the draft national programmes,
+and in particular on the activities financed
+under operating support. In 2014 Frontex
+provided contributions to the consultation
+process of the national programmes of 10
+Member States that submitted their drafts
+to the Commission in 2014.
+
+Cooperation with Third
+Countries, EU Agencies and
+International Organisations
+In February 2014, Frontex concluded a cooperation plan with the competent authorities
+in Turkey. The plan sets out concrete actions
+for implementation in the coming years, covering a wide range of activities, with emphasis
+on risk analysis, information exchange, training
+and joint operations. Frontex concluded equiva-
+
+© Frontex 2014
+
+Frontex · General Report 2014
+
+lent cooperation plans with Azerbaijan and Moldova in April and December 2014, respectively.
+In 2014 Frontex has paid special attention to
+the countries bordering the Mediterranean
+Sea, especially considering the humanitarian
+aspects of irregular migration along the maritime routes. Following the mandates from
+the Management Board to conclude working arrangements, the Agency has undertaken further efforts to renew negotiations
+with the authorities in Egypt, Morocco, Senegal and Tunisia.
+Frontex is participating in the European Commission-led initiatives within the framework
+of the EU Dialogue on Migration, Mobility and
+Security, in particular with Tunisia and Morocco, thus establishing and maintaining direct contacts with the competent authorities
+of these countries. The mobility partnerships
+signed with Morocco and Tunisia set out political objectives and provide for a series of initiatives for effective migration management
+including border and security related aspects.
+Since March 2014, Frontex has also been engaged with the European Asylum Support
+Office (EASO) in a technical assistance project aimed at familiarizing Tunisia and Morocco with the work of both agencies under
+the interregional project “Promoting participation of European Neighbourhood Policy
+countries in the work of EU agencies”. Activities within the framework of this project are
+
+aimed at providing insight into EU standards
+and sharing good practices in regard to effective migration and border management.
+Cooperation on risk analysis at regional level
+between Frontex and Third Country partners
+has proven very efficient, especially under
+the Western Balkans Risk Analysis Network
+(WB-RAN), where initial steps to engage with
+the Kosovo* Border Police were taken up with
+the agreement of the network group. The
+Eastern European Borders Risk Analysis Network (EB-RAN) with Belarus, Ukraine and
+Moldova has been consolidated and consistently produces high quality analytical
+products.
+
+* This designation is without
+prejudice to positions on status,
+and is in line with UNSC 1244 and
+the ICJ Opinion on the Kosovo
+Declaration of Independence
+
+Concrete results have also been achieved
+within the framework of the Africa-Frontex Intelligence Community (AFIC). Practical cooperation and joint efforts between
+the Agency and experts from most of West
+African countries continued in 2014 and resulted in the publication of the third annual
+AFIC risk analysis report.
+To enhance cooperation with countries of
+origin and transit on the African continent,
+Frontex declared its readiness to support the
+Rabat and Khartoum Process as far as the activities are covered by its remit. An engagement with Eastern African and Horn of Africa
+countries in the framework of AFIC could be
+a good way to gradually engage with the
+countries in the region.
+
+13
+
+Frontex · General Report 2014
+
+As part of the implementation of the Eurosur framework aimed at improving situational awareness at EU external borders and
+increasing reaction capability of border authorities, Frontex worked closely with other
+European agencies. Consequently, European
+Fisheries Control Agency (EFCA) agreed to
+provide Vessel Monitoring System (VMS) data
+to Frontex, while EU SatCen will deliver services and information products based on the
+analysis of satellite imagery tailored to Frontex’s needs for border surveillance.
+
+In 2014, Frontex contributed to Forced Return
+Monitoring (FReM) project ran by the International Centre for Migration Policy Development (ICMPD). Together with eight member
+states, the two organisations prepared the
+“Framework for a European Pool of Forced
+Return Monitors (EPFRM)” and “Guidelines
+and Monitoring Tools”.
+Frontex worked with the European Asylum
+Support Office (EASO) and UNHCR on the
+introduction of protection indicators in Operational Plans for Joint Operations and development of a training module on international
+law and fundamental rights specially designed
+for border guards. EASO and Frontex have also
+initiated study visits and discussions to prepare the implementation of an efficient referral mechanism at the EU external borders
+for migrants seeking protection in Europe.
+The cooperation with the European External Action Service (EEAS) took a new shape
+© Frontex 2014
+
+Frontex and Europol agreed on the text of a
+new working arrangement that would allow
+for the transmission of personal data and ex-
+
+change of information under the framework
+of interagency cooperation pursuant to Article 14 of the Frontex Regulation.
+
+© Straz Graniczna, 2014
+
+In October 2014, Frontex held the 22nd International Border Police Conference (IBPC), which
+included a higher number of top level representatives of international border guards.
+The IBPC, which was organised by Frontex
+for the second time, offered an opportunity
+for border guard authorities from around the
+world to share knowledge and experiences
+on various topics related to border management and security.
+
+14
+
+with the approval of the Working Arrangement by the Management Board of Frontex.
+Under the agreement, Frontex and the EUled Crisis Management Operations (CMOs)
+will cooperate in civilian Common Security
+and Defence Policy missions and exchange information for situational awareness and risk
+analysis. The two also agreed to jointly build
+capacity in Third Countries, especially through
+EU funded technical assistance projects.
+At the operational level, Frontex continued its
+engagement in EU Policy Cycle 2014-2017 and
+European Multidisciplinary Platform against
+Criminal Threats (EMPACT) that included facilitation of irregular migration and trafficking in
+human beings. The Agency also joined the firearms smuggling priority, concentrating its effort
+on Western Balkans and Eastern external borders. Frontex participated in Europol’s Operation Archimedes, a practical exercise planned to
+dismantle most threatening criminal networks
+in Europe. The Agency shared the operational
+results from selected ongoing joint operations
+with Europol and Member States and contributed to other priority areas such as combatting
+property crime, excise goods, drugs trafficking.
+Frontex successfully implemented a new activity under the European Patrols Network
+(EPN) tailored for EMPACT: working visits in
+debriefing sites at the border.
+The activity formed part of the EPN Staff Exchange, which enables networking, sharing
+
+of expertise and best practices among the
+relevant EU MS staff. It was focused on the
+team leaders coordinating the work of debriefing teams in Frontex joint maritime operations. The designated team leader(s) from
+one hosting MS had an opportunity to carry
+out working visit (lasting approx. one week)
+to debriefing sites in sea operation hosted in
+another MS. The team leader was integrated
+into daily duties, related to coordination of
+debriefing activities, and worked under the
+supervision and guidance of the local team
+leader. Some of the visits were enhanced by
+the training on debriefing techniques provided for the visitors and local staff by Frontex.
+Six mutual visits of team leaders from host MS
+(Spain, Greece, Italy) took place. Two visits of
+Spanish and Greek team leaders in Italy took
+place in the time of Joint Action Days of EMPACT.
+In 2014, Frontex also implemented its first
+common project with Interpol, merging the
+Frontex’s Reference Manual with Interpol’s
+Dial-Doc platform. This project is focused
+on technology that makes it easier for border guards to check if a travel document is
+fake by comparing it with images of counterfeit documents.
+Frontex and eu-LISA signed a working arrangement and concluded a cooperation plan
+for 2014. It consisting of four different activities: research and development, training, risk
+analysis and administrative topics.
+
+15
+
+© Frontex 2014
+
+16
+
+Frontex · General Report 2014
+
+3. Development at Agency Level
+The year 2014 marked a year of changes in
+leadership atop Frontex and brought new
+challenges with a record number of irregular
+migrants crossing the EU borders.
+In May, Frontex’s first Executive Director Ilkka
+Laitinen stepped down after nine years in office. Deputy Executive Director Gil Arias took
+the top post on an interim basis. In November, the Frontex Management Board chose
+Fabrice Leggeri to become the Agency’s Executive Director. Mr. Leggeri officially took
+office in mid-January 2015 and Mr. Arias resumed his earlier position of Deputy Executive Director.
+In 2014, the operational capabilities of Frontex and European Border Guards were tested
+with the highest number of illegal border
+crossings since Frontex began collecting data
+eight years ago. During the year, 280 000
+such crossings were detected, twice the previous record set in 2011, the year of the Arab
+Spring. The ongoing conflict in Syria, as well
+as lack of effective government in Libya -- the
+main departure point for migrants in 2014,
+significantly contributed to the worst refugee crisis since World War Two.
+The European Union’s sea borders took the
+brunt of the influx of migrants. In all of 2014,
+nearly 218 000 migrants were detected during joint sea operations, or around 600 per
+day. This compares to less than 54 000 in
+2013. The biggest migration pressure appeared in the Central Mediterranean with
+some 170 000 migrants arriving in Italy. Syrians and Eritreans were the two main nationalities making their way from Libya, followed
+by nationals of Sub-Saharan countries. The
+situation of a de-facto failed state in Libya,
+where law enforcement is virtually absent
+
+has created favourable conditions for the
+people-smuggling networks to flourish and
+operate with impunity.
+The number of suspected people smugglers
+who were apprehended in maritime operations stood at 1 086, three times the figure from the previous year. The drastic rise
+is maritime crossing also resulted in many
+deadly accidents involving overloaded and
+often unseaworthy migrant boats. In 2014,
+across all the Frontex-coordinated joint operations in the Central Mediterranean, more
+than 173 500 migrants were saved during
+search and rescue operations, the number
+4.5 times higher than in 2013.
+
+Increased operational activity
+in the Central Mediterranean
+To help Italy deal with the rising tide of migrants, Frontex launched Joint Operation
+Triton at the beginning of November after receiving an additional budget allocation from
+the European Commission. JO Triton was
+launched with participation of 18 Member
+States, replacing two other operations carried out in Italy since 2013: JO Hermes and
+JO Aeneas. As the two earlier operations in
+Italy, JO Triton aims at improving the border surveillance and border control through
+joint patrols with the assets provided by the
+Member States. Its operational area covers
+the territorial waters of Italy and Malta, as
+well as parts of the search and rescue (SAR)
+zones of both states.
+Although the key objective of JO Triton is
+to support Italian authorities at the external sea borders, the operation also provides
+additional search and rescue capacity in the
+Central Mediterranean as assets deployed
+
+17
+
+Frontex · General Report 2014
+
+In addition to detecting migrant-smuggling,
+maritime operations coordinated by Frontex
+uncovered other types of crimes, including
+drug trafficking. As a result, 344 suspected
+drug traffickers were arrested in connection to smuggling some 43 tonnes of hashish
+worth more than EUR 65 million and 35 kg
+of cocaine worth EUR 2 million. Most of the
+drugs were seized in the Western and Central Mediterranean area.
+
+In November and December, the first two
+months of JO Triton, 14 500 people were
+saved in SAR operations, including some 4
+350 rescued with the direct participation of
+vessels and aircraft co-financed by Frontex.
+
+Large merchant vessels used to
+smuggle people
+
+European Border Guard Team
+and Technical Equipment Pool
+
+In the second half of 2014, Frontex began to
+observe a rising number of large merchant
+vessels in the Central and Eastern Mediterranean that were being used for smuggling
+people. The cargo vessels were usually decommissioned ships bought by smugglers
+from scrapyards. They departed from the
+Turkish coast and headed for Italy. When approaching Italy, migrants made a distress call
+in the middle of the sea, often with a satellite
+phone. Several tailored operational actions
+were undertaken by Frontex to address this
+new method of people smuggling.
+© Frontex 2014
+
+To test the preparedness of Frontex and
+Member States and their operational effectiveness, Frontex held its annual rapid intervention exercise REX 2014 in November and
+December in Croatia, at the borders with Bosnia and Herzegovina and Montenegro. Seventeen Member States and two Third Countries
+took part in the exercise deploying a total of
+37 guest officers, two observers and various
+technical equipment to the operational area.
+In order to optimise the use of resources the
+exercise was itself a real operational activity
+designed to enhance the operational capacity of the Croatian border guard service at its
+section of the EU’s external border. The guest
+officers were deployed at minimum notice, in
+line with the “Rapid” mechanism, and carried
+out real border management tasks alongside
+their Croatian peers.
+At the beginning of 2014 there were approximately 2 500 guest officers in the EBGT pool
+and by the end of the year this number grew
+to about 3 400 guest officers matching at
+least one of the 13 EBGT profiles. With the
+minimum number of guest officers required
+set at 1 850 by the Frontex Management
+Board, the number of EBGT pool members now significantly exceeds operational
+requirements, making the quality of pool
+
+18
+
+© Frontex 2014
+
+Cross-Border Crime
+
+in the operation routinely suspend all border control activities to respond to search
+and rescue coordination centre (MRCC) requests to assist with distress calls.
+
+members a priority. Consequently, efforts
+were concentrated on ensuring that adequate numbers of each individual profile were
+available in the pool at all times. In 2014, the
+Agency also began to review and revise the
+current 13 border guard profiles.
+
+and accuracy of the data relating to the use
+of human and technical resources, monitoring
+the numbers in the pools and recording their
+use in Frontex coordinated activities. Opera
+2 is due to be released for use in Frontex operational activities in March 2015.
+
+Technical equipment pool efforts were concentrated on carrying out a pilot project for
+the acquisition of border surveillance services, as well as improving the monitoring
+and reporting procedures related to the overall minimum number of technical equipment
+(OMNTE).
+
+Air Borders-Risk Analysis
+Network
+
+Opera 2
+Frontex has worked to improve the Opera
+operational resources management system,
+which is a custom-developed software application used by Frontex staff and Member
+States to manage the EBGT and Technical
+Equipment pools, as well as the deployment
+of resources in almost all types of Frontex coordinated operational activities.
+The improvements introduced in Opera 2 will
+enable Frontex to manage closely the pools
+and the deployment of resources, as well as
+to produce accurate and fully up-to-date reports. The flexibility of the application has
+been increased and now allows monitoring
+of a much wider range of resources. In addition, the new version of the application focuses specifically on improving the quality
+
+Frontex launched an initiative aimed at creating a new Air Borders Risk Analysis Network (AB-RAN). This is meant to create a risk
+analysis community, as well as standardised
+and structured information exchange relevant for the air borders. Such a community
+and information exchange will result in enhanced situation knowledge on the phenomena at the external air borders of the EU and
+lead to better risk analysis based planning and
+implementation of operational activities at
+the air borders. In the short term, the benefit of the network will be a solid foundation
+for establishing, common understanding of
+the objectives, possibilities as well as limitations of information exchange.
+
+Eurosur
+December 2014 was the benchmark for all
+Member States to be connected to the European Border Surveillance System (Eurosur).
+The system puts in place a common platform
+for Member State authorities to exchange information with each other and with Fron-
+
+19
+
+Frontex · General Report 2014
+
+external borders, especially countries of transit and departure of irregular migrants.
+In line with Eurosur regulation, Frontex also
+developed the methodology for attribution
+of impact levels to external border sections
+of Member States.
+
+© Frontex 2014
+
+Frontex also created the Analysis Layer Products and Services (ALPS) Catalogue, which
+lists, describes and defines the analytical
+reports and services to be shared by the
+National Coordination Centres (NCCs) and
+Frontex within the EUROSUR Analysis Layer.
+
+tex to improve situational awareness at EU
+external borders and increase reaction capability in border control.
+Frontex and Member States, under the auspices of the Commission, drafted a Eurosur
+Handbook with a view to ensure efficient,
+harmonised implementation of the system
+at EU level. The handbook defines the role
+and tasks of Frontex and National Coordination Centres (NCCs), which coordinate and
+exchange information among all authorities
+with a responsibility for external land and sea
+border surveillance at national level, as well
+as with the other NCCs and Frontex.
+The handbook provides guidelines for reaction
+capability, technical and operational guidelines,
+recommendations and best practices for implementation and management of Eurosur.
+The document also discusses the contents and
+form of the National and European Situational
+Pictures, which present the overall picture of
+situation at the external borders based on information derived from the NCCs and Frontex.
+Finally, it covers the Common Pre-frontier Intelligence Picture, which relates to information
+and intelligence on the areas beyond the EU
+
+20
+
+Frontex Compatible
+Operational Image (FCOI)
+Frontex continued testing FCOI within ongoing joint maritime operations in 2014 using Host MS infrastructure, participating MS
+air/naval/terrestrial technical equipment deployed in joint operations. Also several tailored workshops have been arranged in order
+to test real time motion picture secure transmission via 3G/4G networks.
+The core idea of the FCOI is to provide secured transmission of the operational data
+from the technical equipment deployed in
+the JOs to the Coordination Centres (LCC/
+RCC/ICC) in Host MS and Frontex in the real
+or close to the real time.
+
+Frontex Fusion Service
+In 2014, Frontex gradually delivered the initial operational services via the Frontex Fusion Services (FFS). FFS provided updated and
+close to real time situational picture which included information services, such as the satellite-based Vessel Detection Service which
+allowed location of small boats at sea.
+The core objective of the services is to enhance reaction capability and emergency
+response of the national border authorities
+
+Frontex · General Report 2014
+
+at their external borders. Due to the nature
+of migration in the Mediterranean Sea, lives
+of migrants are often at risk, and practical
+examples show that FFS brought significant
+added value providing timely information to
+MS authorities that allowed more effective
+rescue operations and saving lives.
+
+border guards to detect and react to criminal
+activities that take place in the transit areas
+of Schengen and non-Schengen airports, including Third Country airports.
+The operational objective of the second Joint
+Operation Alexis 2014 was to enhance document expertise of border guards in charge
+of passport control at airports as well as implement gate checks at arrival and departure gates.
+
+Joint return operations (JRO)
+
+Alexis 2014
+Joint Operation Alexis 2014 focused on
+strengthening the operational capabilities
+of EU airports by addressing specific needs
+and vulnerabilities at international airports.
+Two Alexis operations were implemented
+which differed in scope and target.
+The operational aim of Joint Operation Alexis I
+2014 was to enhance capabilities of EU airport
+
+In total Alexis 2014 took place at 33 airports
+with participation of 24 Member States and
+six Third Countries. Seventy-five officers were
+deployed, including an Interpol expert. As part
+of the operation, Frontex organised dedicated
+© Frontex 2014
+
+In 2014, Frontex continued testing the socalled collecting joint return operations,
+where a charter flight to collect their own
+nationals in the EU territory is organised by
+a Third Country using its own national escorts. All together four collecting joint return operations were carried out, two to
+Albania and two to Georgia. For the purpose of organising such return flights, the
+professional standards of Third Countries’
+escorts and procedures needed to be harmonised with EU standards. To that end, Frontex has developed “Guidance for Collecting
+Joint Return Operations by Air Coordinated
+by Frontex” and held training sessions for
+the Albanian and Georgian escorts and escort leaders to ensure a harmonised training
+level and common standards on the protection and promotion of fundamental rights.
+These operations are subject to certain conditions, including the obligation to have an
+independent monitor on board. The collecting JRO have proven effective and helped reduce the costs of returning migrants to their
+country of origin.
+
+Frontex · General Report 2014
+
+Consultative Forum members and other NonGovernmental Organisations (NGOs) with
+field presence in the countries of origin/departure/destination of irregular migration
+provided Frontex with information on circumstances on the ground, including migrant
+profiles. For example, several organisations
+supplied information to risk analysis products,
+participated in risk analysis events such tactical meetings where presentations were delivered on the situation in countries of origin
+and transit of migrants. They also supported
+the risk analysis unit in the preparation of
+some weekly operational briefings.
+
+Amid the growing importance of Internet services such as Facebook and Twitter, Frontex
+Media Monitoring Team has initiated social
+media monitoring activities. The upgrade and
+expansion of the media monitoring products
+has been introduced by adding the content
+retrieved in the social media platforms to a
+daily newsletter, internal alerts and responses
+to various media information requests. The
+main focus is to increase awareness of what
+is being said in the social media about Frontex institutional activities and operations, as
+well as web discussions on irregular migration and border management issues.
+
+Fundamental rights video
+
+PeDRA
+
+To support the delivery of the fundamental
+rights component of the operational briefings, in 2014 the Frontex Fundamental Rights
+Officer developed a five-minute video on the
+main fundamental rights provisions that have
+a particular practical relevance for the work
+of border guards. The short video is now part
+of the briefing package and is regularly shown
+during operational briefings.
+
+In 2014, Frontex PeDRA project was launched
+with the aim of using personal data of individuals involved in border-related criminal activities to reduce the risk of exploitation of
+vulnerable groups and increasing border security. The project will allow Frontex to create risk analyses, the results of which will
+be depersonalised, and Personal Data Packages (PDPs) to be transmitted to Europol on
+a case-by-case basis. PeDRA aims to achieve
+increased prevention, detections and arrests
+of facilitators and traffickers made possible
+by a more effective operational response by
+Member States and Frontex, and more successful investigations by Europol.
+
+New Monthly Analysis process,
+outputs and clients
+Frontex set up a new Monthly Analysis process in response to increasing demand for
+situation updates and analysis on the general situation at the EU borders, and specific
+hot spots. An Analytical Board composed of
+senior analysts has been set up to manage
+the process which produces three different
+analytical products that differ in content
+from focus on data overviews to analytical
+
+22
+
+Social Media Monitoring
+
+At the end of 2014 a consultation period
+began with a draft notification submitted to the European Data Protection Supervisor who will monitor and evaluate
+PeDRA activities from a data protection
+perspective.
+
+© Frontex 2014
+
+Contribution to Risk Analysis
+Products
+
+interpretation and outlook. The new products are distributed to Frontex partners in
+the MS as well as high level fora such as
+SCIFA and meetings of the Council working parties.
+
+© Frontex 2014
+
+document training sessions, which were carried out by five document expert training
+teams at four EU airports for local staff and
+guest officers.
+
+© Frontex 2014
+
+Frontex · General Report 2014
+
+New Headquarters
+At the end of 2014, Frontex successfully relocated to the new premises in the Warsaw Spire office complex. The final relocation
+did not cause any service disruption for the
+Agency as it was carried out during the
+Christmas break. Frontex new premises are
+designed to meet the technical and organisational requirements of the Agency for its
+current activities and for the next ten years.
+
+The new building provides services which
+were not available in the previous building,
+such as adequate meeting facilities. The move
+also helped enhance the Agency’s security
+systems, provide a large data centre and expand the Frontex situation centre and joint
+analytical room.
+The entire process took place over four
+months starting in September 2014.
+
+23
+
+© Frontex 2014
+
+24
+
+Frontex · General Report 2014
+
+4. Building Capacity
+In 2014, Frontex sought to improve the
+mechanism used to acquire resources for
+Frontex operational activities. The development and improvement of the technical
+equipment and EBGT pools is an ongoing
+task that includes the implementation of
+seconded guest officer mechanism, revision
+of the profiles of EBGT members, improving
+the Opera resource management application and carrying out regular Rapid Intervention Exercises (REX).
+
+Seconded Guest Officer (SGO)
+Mechanism
+As a result of the second SGO Call for Secondment between December 2013 and May 2014,
+76 SGOs of various profiles were selected for
+deployment in Frontex-coordinated operations. In the first call for secondment, Frontex engaged 69 SGOs creating the pool of
+over 170 SGOs
+SGOs are border guards from the Member
+States seconded to Frontex for a period of
+up to six months, during any 12-month period. SGOs are also entered into the European Border Guard Teams pool. Unlike
+regular Guest Officers, SGOs can be deployed to multiple locations and operations
+during their six-month deployment period,
+without the express consent of their national authority.
+Two years after the introduction of the SGO
+Rules, several practical measures were taken
+to improve the SGO mechanism. These include the establishment of an SGO Task Force
+which is to improve the decision-making process and make it fully applicable to the specific needs of SGOs.
+
+VEGA Children
+In 2014, Frontex coordinated the Joint Operation VEGA Children at nine European airports
+with the aim to test, assess and evaluate in
+real life implementation of the draft VEGA
+Children Handbook, a collection of best practices on the detection and protection of children at risk at air borders. The scope of the
+joint operation was to support the processes
+of identification of accompanied, separated
+and unaccompanied children at risk, the activation of the referral mechanism by the
+relevant authorities and disruption of the activities of criminal networks – all following
+the standard operational procedures of the
+draft handbook. During the joint operation,
+39 cases of children at risk were reported
+and the referral mechanism was activated
+for eight of them.
+The handbook will offer practical guidance
+to border guards, who often play a key role
+in initiating these processes as well as dismantling the related criminal activities. The
+draft handbook will be finalised taking into
+account the observations and recommendations received by deployed officers and
+experts and will be published in the second
+quarter of 2015.
+
+Enhancing Border Checks
+In 2014, Frontex aimed to build up and improve a portfolio of capacities in border
+checks, to increase security and enhance
+travel facilitation at the borders through data
+collection. The information collected in relation to operational practices for land border
+checks was analysed and compiled in an updated version of the ‘Best Practices in border
+
+25
+
+checks at EU land Border Crossing Points’ that
+Frontex is to put forward in 2015.
+Frontex also launched the process of identifying and collecting best practices for Border
+Checks at EU sea ports, which is to harmonise the various existing operational practices
+and adapt existing controls to the Reporting
+Formalities Directive 2010/65/EU.
+As far as the harmonisation process is concerned, 2014 activities continued the identification of best practices for land border
+surveillance that support and improve the
+current operational practices.
+
+Development of a framework
+for building a passenger
+analysis capacity in Member
+States
+Frontex has explored the possible added value
+of a Passenger Analysis Model (PAM) to help
+Member States that have not yet developed
+such a tool to increase their capacity in border control.
+Frontex presented the PAM in a workshop in
+December and will assess the needs for further work in this area.
+
+European Joint Master’s in
+Strategic Border Management
+(EJMSBM)
+In 2014, the Joint Master’s programme in
+Strategic Border Management developed
+by Frontex in collaboration with six partner
+universities and more than twenty Member
+States border guard academies underwent
+a special procedure for accreditation: a joint
+European evaluation. This procedure will ensure that the programme is in line with all
+Consortium Partners’ national requirements
+in higher education and that the joint award
+is recognised as a master’s award in any education system in Europe and elsewhere.
+
+26
+
+The programme was evaluated based on a
+set of criteria and standards defined by the
+European Consortium for Accreditation (ECA)
+and implemented across EU as part of the accreditation/validation methodology for joint
+programmes. The international accreditation
+panel was coordinated by the Dutch accreditation agency and was made up of prestigious academics, quality assurance experts
+and specialists in specific subject areas from
+the UK, the Netherlands, Estonia, Belgium,
+Slovenia and Ireland.
+Following the documents study and a series
+of interviews with representatives of the development groups and the consortium partners the panel accredited the programme
+and stated that it would help develop professional competences based on the Sectoral Qualifications Framework for Border
+Guarding (SQF).
+The first master’s course will begin in September 2015.
+
+Document fraud and
+risk assessment
+In 2014, Frontex published and disseminated
+to both Member States and the European
+Commission the “Document Challenge II”
+report, which highlighted the strengths and
+weaknesses of human and technical capabilities to inspect document authenticity,
+discussed operational and technical vulnerabilities, and recommended areas for improvement and countermeasures in order to make
+document inspection in the first line of border checks more effective and accurate. The
+document was based on data from a 2013 exercise in which 42 experts and seven automated document inspection systems were
+challenged to correctly identify genuine and
+false travel documents. Portuguese SEF (Foreign Nationals and Border Control Service)
+and experts from the UK National Document
+Fraud Unit, the Dutch Royal Marechaussee,
+
+© Frontex 2014
+
+Frontex · General Report 2014
+
+and the German Bundeskriminalamt took
+part in the challenge.
+
+Sustainable Support for Greece
+and Bulgaria
+Joint Operation Attica continued in 2014 with
+the deployment of screening experts and interpreters from 14 member states.
+The aim of JO Attica is to support Greece
+and Bulgaria in building return capacity. As
+the first step in an effective return process
+
+JO Attica coordinated screening activities at
+the Greek/Turkish land and sea borders, in
+Athens, at the Bulgarian/Turkish land border and in Sofia, effectively reacting to the
+changed routes of migratory flows.
+In addition, Frontex advised border authorities in both countries on issues related to
+the identification interviews at third country
+embassies, the organisation of return flights
+(commercial, national and joint return operations), and building of the pool of national
+screening experts.
+
+27
+
+Frontex · General Report 2014
+
+5. Transparency and Access
+to Information
+Providing information to the
+public
+In 2014, journalists and civil society organisations regularly contacted Frontex to seek
+information about Frontex activities, specific
+operations and migratory trends. The Agency
+provided information, organised interviews
+and facilitated media visits to a variety of operational areas mainly in Italy, Greece, Bulgaria, Spain Hungary and Poland. Throughout
+the year, Frontex facilitated access to operations for more than 300 media outlets by
+taking journalists on board of patrol vessels,
+embedding them or arranging interviews
+with officers deployed in Frontex-coordinated operations at the EU borders. During
+the year more formal media briefings were
+held in Brussels and Rome.
+The interest of mass-media reached its peak
+in the second half of the year with the preparations to and the launch of Joint Operation
+Triton in the Central Mediterranean.
+In 2014, Frontex deployed for the first time
+a Field Press Officer (FPO), whose role is to
+assist journalists visiting the operational areas, arranging interviews and helping them to
+obtain the necessary photographs and video
+material. FPOs will be deployed to Frontexcoordinated operations in crisis situations.
+
+Contacts with researchers
+In 2014 there was high demand for information about Frontex activities not only from
+the media but also from citizens, researchers and students. The Agency answered more
+than 600 requests for information and hosted
+
+28
+
+meetings with individual researchers and student groups. Border guard, police and diplomatic academies continued to include study
+visits to Frontex in their curricula. Last year,
+Frontex welcomed at its premises almost
+500 researchers and students interested in
+the Agency’s activities.
+
+Outreach
+Frontex further improved its on-line presence making the official website more userfriendly, publishing new content on the
+Frontex YouTube channel and actively communicating on the Facebook page of The European Day for Border Guards (ED4BG).
+Frontex also produced a short educational
+video entitled ‘Operational Cycle’ to explain
+joint operations coordinated by the Agency.
+European Day for Border Guards, the annual event celebrating border guards from
+all Member States and Schengen Associated Countries gathered more than 700
+guests, who discussed issues related to search
+and rescue at sea, useful technology, Integrated Border Management and contingency
+planning.
+The ED4BG exhibitors included 39 national
+authorities from 28 countries. Border Guard
+academies and the Frontex Consultative Forum on Fundamental Rights and EU-funded
+research projects related to border management were also represented.
+In 2014, an ‘ED4BG on the road’ interactive
+seminar dedicated to risk analysis in border
+management was organised in Bucharest.
+
+It was attended by around 100 students
+who had the opportunity to learn more on
+a given subject and pose questions to Frontex experts. Additionally, the seminar was
+live-streamed on the ED4BG website with a
+chat function enabling the general public to
+participate in the discussion. As part of outreach events, Frontex became one of the
+official partners of Planete+ Doc Film Festival, a documentary film festival taking place
+in Warsaw. Frontex had its own movie section entitled Borderlands with documentaries dedicated to the topic of trafficking in
+human beings. The audience was engaged
+in a related debate and had a chance to lis-
+
+ten and talk to representatives of La Strada
+Polska, the Polish Border Guard and Frontex.
+Frontex representatives also attended a number of meetings and debates organised by
+international organisations and NGOs dedicated to the topics of migration and the role
+of Frontex – these included meetings in Germany, France, Italy and Netherlands.
+Frontex also published a book entitled ‘Twelve
+Seconds to Decide’. Addressed to a wider audience, it presents a whole array of Frontex
+activities and challenges which it faces using
+accessible language and narratives.
+
+© Frontex 2014
+
+29
+
+© Frontex 2014
+
+30
+
+Frontex · General Report 2014
+
+6. Fundamental Rights
+Frontex Fundamental Rights
+Officer
+During 2014, the Fundamental Rights Officer
+(FRO) focused her efforts on the establishment of an effective monitoring mechanism
+on fundamental rights for Frontex activities.
+The Agency has taken considerable steps
+to strengthen its reporting and monitoring mechanisms in all incidents taking place
+within Frontex coordinated activities, and
+especially in relation to allegations of fundamental rights violations. FRO has observed
+the internally available procedures designed
+to report, monitor and deal with allegations
+of violations of fundamental rights within
+the Agency and proposed a comprehensive
+concept for a monitoring system to ensure
+that the current procedures work in a more
+coordinated and coherent manner and become more effective.
+A comprehensive system that identifies
+shortcomings in fundamental rights procedures and practices will result in better information on how fundamental rights are
+observed in practice. The commitment of all
+Member States, and especially those hosting Frontex coordinated joint operations,
+is crucial to ensure that information on the
+measures taken is duly communicated to the
+relevant Agency staff, including the FRO, via
+the established information channels to ensure transparency and accountability of the
+activities coordinated by Frontex.
+In addition to supporting the overall establishment of the effective monitoring system, FRO performed her own monitoring
+and reporting activities. In 2014, FRO visited
+selected sea and land operations and also
+embarked on Joint Return Operations on a
+
+regular basis. Learning where the shortcomings exist will result in recommendations on
+how to address and prepare clear instructions
+and guidelines for Frontex-coordinated operations and activities in the future.
+In the case of joint return operations, the
+observations and best practices identified
+during the implementation of the operation aim to enhance the implementation
+of fundamental rights during the operations. For instance, adequate consideration of medical conditions of returnees or
+risks related to the embarkation of families with children.
+Following the adoption of the Sea Borders
+Surveillance Regulation, FRO devoted considerable attention to supporting the inclusion
+of adequate fundamental rights provisions
+during the drafting of the Operational plans
+of maritime joint operations.
+FRO also contributed to the drafting of the
+VEGA Children Handbook, a collection of best
+practices on detection and protection of children at risk at air borders, and the pilot implementation of these best practices. This
+pilot project was also supported by members of the Consultative Forum. The novelty
+of participation of civil society and international organisations experts in joint operations aimed at identifying children at risk
+at the borders was one of the landmarks of
+the year in terms of strategic development
+of operational capacities with a fundamental rights based approach.
+In 2014, FRO was also involved in the drafting
+of the fundamental rights related aspects of the
+Eurosur Handbook, on the possible impact the
+system may have on fundamental rights. This
+
+31
+
+Frontex · General Report 2014
+
+work was done in close coordination with the
+EU Fundamental Rights Agency (FRA).
+It has become a standard practice for FRO
+to take part in the regular pre-deployment
+briefings provided to participants of Frontexcoordinated joint operations to inform them
+about the fundamental rights aspects of the
+Agency’s mandate.
+
+FRO and other Frontex experts worked
+closely with EASO to ensure more efficient
+referral procedures from border guards to asylum authorities in line with the Asylum Procedures Directive from June 2013 (32/2013/EU).
+
+Consultative Forum
+The Consultative Forum on Fundamental
+Rights (CF) provided its expert support and
+© Frontex 2014
+
+In 2014, FRO has participated in the training of Escort Leaders for joint return operations to assess the needs of the monitoring
+tools during this type of operations, as well
+as to provide feedback on relevant Fundamental Rights aspects. FRO has also supported initiatives to train monitors of forced
+
+return operations on fundamental rights implications of JROs in the framework of the
+International Centre for Migration Policy Development (ICMPD) forced return monitoring project “FReM”, financed by the European
+Commission.
+
+32
+
+© Frontex 2014
+
+advice in various thematic areas, particularly
+on training, operations and strategic planning.
+In the area of strategic planning, the CF provided recommendations to the Frontex Preliminary Draft Programme of Work 2015 as
+well as the Frontex Strategy and Multi-Annual Plan 2015–2018.
+CF members supported Frontex Training Unit
+in the development and finalisation of the
+Fundamental Rights Module of the Joint Masters’ programme in Strategic Border Management. Most of the CF recommendations are
+now reflected in the final adopted version of
+the Module. The CF working group on training initiated systematic discussions with the
+Frontex Training Unit.
+In 2014, Frontex requested CF support in its
+operational activities, particularly in the field
+of joint return operations. The forum was
+also actively engaged in in the revision of internal guidelines for officers participating in
+joint operations with a fundamental rights
+
+based approach and provision of information
+on the human rights situation in Third Countries. The CF was also invited to contribute
+to the drafting process of the Handbook on
+VEGA Children as well as the Joint Operation
+VEGA Children 2014 that served to test the
+operability and usefulness of its provisions.
+To better understand the reality of border
+control in joint operations, a CF delegation
+conducted a visit to the Bulgarian-Turkish
+border in September 2014.
+The CF published its first annual report in July.
+Based on its first year of work, the Consultative Forum presented a proposal to the
+Management Board for revision of the Consultative Forum Working Methods. The Management Board adopted amendments on
+the number and scope of CF meetings (e.g.
+broadening their scope to allow for a more
+effective participation of Management Board
+representatives) and extended the term of CF
+Chairs from one to two years.
+
+33
+
+Frontex · General Report 2014
+
+© Frontex, 2014
+
+34
+
+7. I nternal Communication,
+Ethics and Integrity
+
+Fundamental Rights Training
+As a result of the close cooperation with both
+the European Union Agency for Fundamental Rights and the UN High Commissioner
+for Refugees (UNHCR), as well as with support from the Fundamental Rights Officer,
+the concept of the basic fundamental rights
+training for Frontex staff has been developed.
+This Fundamental Rights training is a requirement stemming from the Frontex Regulation.
+Basic two-day fundamental-rights trainings
+are mandatory for all Frontex staff. Following the first pilot session, as well as the subsequent three sessions organised in 2013,
+additional four sessions took place in 2014.
+All the courses were delivered by external
+fundamental-rights experts. Altogether, 138
+Frontex employees had been trained so far.
+The training objectives, are three-fold: knowledge, skills and attitude. Specifically, staff are
+expected to understand the basics and principles of fundamental rights, to be able to ap-
+
+ply a human-rights perspective in their field
+of work or put them into practice using a “human-rights analysis tool” and consequently
+accept them as relevant to their work.
+
+Internal Communication
+Information sessions on general interest
+topics such as Public Access to Documents,
+Anti-Fraud policy and the obligation of non
+refoulement in Frontex-coordinated operations were held for all staff throughout the
+year. In addition, at Brown Bag Luncheons,
+staff members held informal presentations
+during which they shared information and
+experience on different areas of Frontex activities and provided project updates. These
+popular events took place twice a month at
+lunch break.
+The monthly electronic internal newsletter
+FrontexINFORMER continued to be a reference point for Agency developments as well
+as a platform for sharing news and information among Frontex staff.
+
+Frontex · General Report 2014
+
+8. Summary of Budgetary
+and Human Resources issues
+The initial budget of EUR 89.2 million for activities indicated in the 2014 Frontex Programme of Work was based on a year of
+zero growth in terms of both financial and
+human resources.
+The Management Board adopted an amending budget on 22 October 2014 for an additional EUR 4.2 million, hence the final budget
+for the year amounted to EUR 93.4 million.
+This budget amendment was necessary to re-
+
+inforce the Agency’s capacity to support the
+implementation of the Joint Operation Triton. This Frontex-coordinated operation was
+agreed upon at the end of September 2014 after a series of consultations between Frontex,
+the Italian authorities and DG HOME in response to the intensive migratory flows in the
+Central Mediterranean area throughout 2014.
+By 31 December 2014, the Agency committed 99% of its appropriations, and used 69%
+
+© Straz Graniczna, 2014
+
+36
+
+of its appropriations for payments. The final
+actual utilisation of appropriations for 2014
+will be higher as Frontex can make payments
+on carryover appropriations until 31 December 2015.
+
+Figure 1 Budget development 2010–2014
+
+120 000
+100 000
+
+General Budget
+
+As of 2014, Frontex started the implementation of Activity Based Budgeting (ABB). Core
+governance level activities were endorsed
+by the Management Board which forms the
+basis for the allocation of direct and indirect
+
+Euro thousand
+
+The distribution of the 2014 budget reflects
+the importance given to operational activities. There is a 65:35 distribution ratio between operational and administrative titles.
+
+80 000
+60 000
+40 000
+20 000
+0
+
+5.2%
+
+27.3%
+
+-24.2%
+
+4.9%
+
+-0.6%
+
+92 847
+
+118 187
+
+89 578
+
+93 950
+
+93 411
+
+2010
+
+2011
+
+2012
+
+2013
+
+Year (% indicate year to year budget change)
+
+2014
+
+Frontex · General Report 2014
+
+Figure 2 Regular budget distribution
+
+21%
+
+14%
+
+65%
+
+Staff
+
+Other Administrative
+
+Operational Activities
+
+Figure 3 ABB distribution
+
+costs. The implementation of the budget
+for 2014, based on ABB, indicated that 79%
+of the human and financial resources are directly attributable to the core operational
+activities. The purpose of ABB is that all resources, both human and financial, which are
+needed to implement an activity will be allocated to that activity. The Agency has identified the potential in the ABB approach to
+improve its resource utilisation and performance management.
+
+Operational Budget
+From the 2014 operational budget amounting to EUR 60.5 million, 77% of the available
+funds were committed for joint operations
+(land, sea, air borders and return cooperation)
+as indicated in the chart below. This allocation of funds is guided by the Frontex Programme of Work as adopted by the Frontex
+Management Board. Additionally, the budget
+amendment adopted in October 2014 was allocated to reinforce operational activities in
+the Central Mediterranean area.
+
+Use of appropriations 2013 carried forward to 2014
+
+21%
+
+By the close of the 2014 financial year, Frontex managed to use to a large extent the
+
+79%
+
+Direct costs
+
+38
+
+Indirect costs
+
+Frontex · General Report 2014
+
+Figure 4 Final Operational Budget Distribution
+
+0.9%
+
+payment appropriations made in 2013. Of
+the total amount carried forward from
+2013 to 2014, EUR 28.9 million was paid in
+2014, while EUR 2.8 million needed to be
+cancelled. The main reasons for the cancellations were related to the non-implementation of contracts or due to the fact
+that grant beneficiaries requested lower
+amounts than estimated at the beginning
+of an operational activity. Nevertheless,
+the total budget utilisation of the appropriations made available to Frontex in 2013
+was 95%.
+
+Procurement
+Part of the implementation of the Agency’s
+budget relates to the execution of procurement procedures - purchasing products
+and services from contractors. It needs
+to be emphasised that Frontex is not outsourcing any of its operational activities.
+At the end of 2014, the Agency moved to
+new premises, which resulted in many procurement procedures for ICT equipment
+or furniture for the Agency’s new premises. Overall, 1 087 procurement procedures were carried out in 2014 either by
+launching tenders or using Framework contracts concluded by the Agency or by the
+Commission.
+
+0.7%
+12.0%
+
+1.6%
+7.9%
+
+8.2%
+46.9%
+
+4.2%
+
+14.0%
+
+3.6%
+
+Land Borders
+
+Return co-operation
+
+Training &
+Research & Development
+
+Sea borders
+
+Risk analysis & Frontex
+Situation Centre
+
+Pooled Resources
+
+Air borders
+
+EUROSUR
+
+Misc. operational activities
+Supporting operational
+activities
+
+Figure 5 Procurement procedures
+
+1%
+5%
+26%
+
+1%
+32%
+
+33%
+
+2%
+
+Open tenders
+
+Procedures under framework
+contracts
+
+Negotiated procedures
+with 3 candidates
+
+Other (contracts with/of EU institutions
+and other procedures)
+
+Negotiated procedures
+with 1 candidates
+Exceptional negotiated
+procedures
+
+Payment against invoice
+(below 1000 EUR)
+
+39
+
+Frontex · General Report 2014
+
+Human Resources
+Recruitment
+Similar to other EU Agencies and Institutions,
+Frontex committed to apply the 5% reduction
+objective over five years (2014-2018 inclusive)
+to the number of temporary agents employed
+at the Agency. Despite the requested reduction, recruitment within the Agency remains
+high mostly due to a high volume in the rotation of the staff.
+There were 46 new staff members recruited
+in 2014. Thirty recruitment procedures were
+launched, of which 13 will be finalised in 2015.
+The procedure for the selection of the Frontex Executive Director was finalised by the
+Management Board Decision No 25/2014 on
+26 November 2014, appointing Fabrice Leggeri as the new Executive Director.
+Breakdown tables of staff members by Frontex entities and the number of temporary
+agents, contract agents and seconded national experts are attached as Annex K and
+Annex L.
+
+40
+
+In areas where additional support was
+needed, an external company continued to
+provide interim services. In 2014, 14 interim
+employees worked for the Agency on short
+term contracts.
+Staff Development and Training
+In 2014, the staff members were provided
+with possible to attend:
+n	EU language courses (20 sessions),
+n	fundamental rights training (4 sessions),
+n	training on self-assessment in the context
+of annual appraisal exercise (6 sessions).
+Sixty-seven other training courses were organised, including 60 specific courses ranging
+from training on biometrics to EU civil service law and EU public procurement reform.
+As a result of the 2014 Reclassification Exercise, 15 temporary agents were reclassified
+to higher grade and are included in the figures under Annex L.
+
+Frontex · General Report 2014
+
+10. Annexes
+Annex A. List of Management Board
+Members
+Country
+
+Name
+
+Position/Rank
+
+Institution
+
+Austria
+
+Mr Robert Strondl
+
+Head of Department of
+Operational Affairs
+Major General
+
+Ministry of the Interior
+
+Belgium
+
+Mr Herbert Veyt
+
+Director of Operations
+Chief Commissioner
+
+Federal Police
+
+Bulgaria
+
+Mr Zaharin Penov
+
+Director General
+General Commissioner
+
+Chief Directorate Border Police
+
+Croatia
+
+Mr Zlatko Sokolar
+
+Head of Border Police
+Directorate
+
+Ministry of Interior
+
+Cyprus
+
+Mr Glykerios Leontiou
+
+Commander of Aliens and
+Immigration Unit
+Superintendent A
+
+Cyprus Police
+
+Mr Tomáš Tuhý
+replaced by
+
+Deputy Police President
+Colonel
+
+Mr Martin Vondrášek
+
+Deputy Police President
+Colonel
+
+Mr Richard Østerlund la Cour
+
+Chief Superintendent
+
+Danish National Police
+
+Mr Rando Kruusmaa
+
+Deputy Director General
+Lieutenant Colonel
+
+Police and Border Guard Board
+
+Czech
+Republic
+Denmark
+Estonia
+
+Police Presidium of the Czech
+Republic
+
+Mr Matti Möttönen
+replaced by
+
+Deputy Chief of the Finnish
+Border Guard
+Rear Admiral
+
+Mr. Ilkka Laitinen
+
+Brigadier General
+
+Mr François Lucas
+replaced by
+
+Director of Immigration
+
+Mr Benoît Brocart
+
+Director of immigration
+
+Germany
+
+Mr Ralf Göbel
+
+Chairman of the Frontex
+Management Board Deputy
+Director General
+
+Greece
+
+Mr Alexandros Denekos
+replaced by
+
+Director of Aliens Division
+Police Brigadier General
+
+Mr Alexandros Soukoulis
+
+Police Brigadier General
+
+Hungary
+
+Mr Zsolt Halmosi
+
+Director General
+in charge of policing
+Major General
+
+Hungarian National Police
+
+Ireland
+
+Mr John O'Driscoll
+
+Head of Bureau
+Detective Chief Superintendent
+
+Garda National Immigration
+Bureau (GNIB)
+
+Italy
+
+Mr Giovanni Pinto
+
+Central Director of Central
+Directorate for Immigration &
+Border Police
+
+Ministry of Interior
+
+Latvia
+
+Mr Normunds Garbars
+
+Chief of the State Border Guard
+General
+
+State Border Guard
+
+Lithuania
+
+Mr Vainius Butinas
+
+Commander of the State Border
+Guard Service
+
+State Border Guard Service
+
+Finland
+
+France
+
+Finnish Border Guard
+
+Ministry of Interior
+Federal Ministry of Interior
+Directorate General of the
+Federal Police Matters
+Hellenic Police
+
+41
+
+Frontex · General Report 2014
+
+Country
+
+Name
+
+Position/Rank
+
+Institution
+
+Luxembourg
+
+Mr Thierry Fehr
+
+Director
+
+National Airport Police Unit
+
+Malta
+
+Mr Neville Xuereb
+
+Superintendent
+
+Malta Police Force,
+Special Branch
+
+Netherlands
+
+Mr J.A.J Hans Leijtens
+
+Commander
+Lieutenant General
+
+Royal Netherlands
+Marechaussee
+
+Poland
+
+Mr Dominik Tracz
+
+Commander-in-Chief
+of Border Guard
+Major General
+
+Polish Border Guard
+
+Portugal
+
+Mr Manuel Jarmela Palos
+
+National Director
+
+Aliens and Border Service
+
+Romania
+
+Mr Ioan Buda
+
+General Inspector
+
+General Inspectorate of
+Romanian Border Police
+
+Slovakia
+
+Mr Ľudovít Bíró
+
+Director
+
+Border and Aliens Police
+Bureau, Presidium of Police
+Force
+
+Slovenia
+
+Mr Marko Gaŝperlin
+
+Deputy Chairman of the Frontex
+Management Board
+Assistant Director
+Senior Police Superintendent
+
+Ministry of the Interior
+General Police Directorate
+
+Spain
+
+Mr Emilio Baos Arrabal
+
+General Commissioner
+
+National Police Force
+
+Sweden
+
+Mr Sören Clerton
+
+Deputy Commissioner
+Head of Division
+
+National Bureau of
+Investigation/Central Border
+Management Division
+
+UK
+
+Mr Paul Morgan
+
+Director for the South and
+Europe
+
+Border Force (Home Office)
+
+Iceland
+
+Ms Sigrídur Björk Gudjónsdóttir
+replaced by
+
+District Commissioner
+
+Mr Ólafur Helgi Kjartansson
+
+District Commissioner
+
+Mr Stein Ulrich
+replaced by
+
+Senior Adviser
+
+Mr Jan Eirik Thomassen
+
+Assistant National Police
+Commissioner
+
+Switzerland
+
+Mr Héribert Wider
+
+Lieutenant Colonel
+
+Swiss Border Guard
+
+Lichtenstein
+
+Mr Mario Büchel
+replaced by
+
+Head of Security and Traffic
+Division
+
+National Police
+
+Mr Uwe Langenbahn
+
+Deputy Chief
+
+Mr Stefano Manservisi
+replaced by
+
+Director General
+
+Mr Matthias Ruete
+
+Director General
+
+Ms Belinda Pyke
+
+Director - Migration and Borders
+
+Norway
+
+European
+Commission
+
+42
+
+Sudurnes Police District
+
+National Police Directorate
+
+Directorate General Home
+Affairs, European Commission
+
+Frontex · General Report 2014
+
+Annex B. List of Management Board
+Decisions adopted in 2014
+01
+
+Decision of MB on the Frontex Financial Regulation
+
+08 January 2014
+
+02
+
+Decision of MB on the adoption of Programme of Work 2014 and the Budget 2014
+
+14 February 2014
+
+03
+
+Decision of MB on the Public Access to Documents
+
+19 February 2014
+
+04
+
+Decision of MB on IE request to participate in and contribute financially to operation
+activities coordinated by Frontex
+
+19 March 2014
+
+05
+
+Decision of MB on UK request to participate in and contribute financially to operation
+activities coordinated by Frontex
+
+19 March 2014
+
+06
+
+Decision of MB adopting rules relating to the technical equipment, including Overall
+Minimum Number of Technical Equipment (OMNTE) to be deployed for Frontex
+coordinated operational activities in 2015
+
+26 March 2014
+
+07
+
+Decision of MB adopting Frontex General Report 2013
+
+27 March 2014
+
+08
+
+Decision of MB on the adoption of the Frontex’s Strategy and Multi Annual Plan 2015-2018
+
+10 April 2014
+
+09
+
+Decision of MB on the adoption of the Unit Costs for Operational Activities
+
+07 May 2014
+
+10
+
+Decision of MB on the adoption of the Multi Annual Staff Policy Plan 2015-2017
+
+20 May 2014
+
+11
+
+Decision of MB on the adoption of MB’s analysis and assessment of the Annual Activity
+Report 2013
+
+20 May 2014
+
+12
+
+Decision of MB on applying by analogy certain Commission’s Staff Implementing Rules
+
+21 May 2014
+
+13
+
+Decision of MB on the presentation of the Consultative Forum Annual Report 2013
+
+23 June 2014
+
+14
+
+Decision of MB on the adoption of the MB ‘s opinion on the final accounts for 2013
+
+26 June 2014
+
+15
+
+Decision of MB on the Amendment of Frontex Programme of Work (N1) And Frontex
+Budget 2014 (N1)
+
+17 July 2014
+
+16
+
+Decision of MB on the Implementing rules to the Frontex Financial Regulation
+
+19 August 2014
+
+17
+
+Decision of MB on the approval of the DED report to the MB on the use of power to give
+internal instructions on non-classified sensitive information
+
+26 August 2014
+
+18
+
+Decision of MB authorising the request for derogations and non-application of certain EC
+implementing rules to the staff regulations
+
+11 September 2014
+
+19
+
+Decision of MB on the revision of the working methods of the Frontex Consultative Forum
+and the modalities for the transmission of information to the Frontex Consultative Forum
+
+24 September 2014
+
+20
+
+Decision of MB on the adoption of the dates planned for the MB meetings in 2015.
+
+24 September 2014
+
+21
+
+Decision of MB on designation of the reporting officers for Executive Management’s annual
+appraisals
+
+25 September 2014
+
+22
+
+Decision of MB on granting differential allowance to Mr Gil Arias Fernandez for the period
+of his temporary assignment to the post of Executive Director
+
+25 September 2014
+
+23
+
+Decision of MB authorising to request for derogations from the European Commission
+implementing rules on working time
+
+25 September 2014
+
+24
+
+Decision of MB on the amendment of Frontex Programme of Work 2014 (N2) and Frontex
+Budget 2014 (N2)
+
+22 October 2014
+
+25
+
+Decision of MB on the appointment of the Executive Director
+
+26 November 2014
+
+26
+
+Decision of MB on the establishment of a permanent MB working group on budget and
+accounts
+
+27 November 2014
+
+43
+
+Frontex · General Report 2014
+
+Annex C. Situation at the external
+borders in 2014
+Detections of illegal border-crossing reached
+a new record of more than 280 000 in 2014.
+This was twice as much as the previous high
+of 140 000 detections in 2011, the year of the
+Arab Spring. This unprecedented number of
+migrants crossing the EU external border illegally mainly had its roots in the civil war
+in Syria and instability in other countries in
+the region, including the emergence of the
+militant organisation known as the Islamic
+State. In addition the crisis in Iraq and lack
+of effective government in Libya have created the region’s worst refugee crisis since
+the Second World War.
+This unprecedented number of migrants detected on the external borders of the EU had
+several implications for border control authorities and EU internal security:
+1) Most of detections of irregular migrants
+were reported as part of search and rescue operations in the Central Mediterranean area. In 2014, border control authorities
+saved the lives of thousands of people. Not
+all could be helped, unfortunately, as facilitators have increasingly used unsafe, overcrowded boats, stretching to the limit the
+capacities of search and rescue operations
+of the EU coastal states.
+2) The surging demand for crossing to the EU
+has also created new modus operandi. Since
+September, Frontex has monitored an increasing use of large cargo ships to transport
+migrants directly from the Turkish coast to
+Italy. This multi-million euro business for organised crime groups is likely to be replicated
+in the Central Mediterranean area. Another
+worrying trend has been the increasing de-
+
+44
+
+liberate attempts to involve merchant ships
+in rescuing migrants. This has prompted the
+International Maritime Organization (IMO) to
+voice concerns of the shipping industry over
+its involvement in rescue operations.
+3) With a record number of migrants crossing the border illegally, most resources were
+devoted to their immediate care, and not towards screening and obtaining basic information like their nationality. Consequently,
+upon arrival in the EU, many migrants continued their journey to other Member States,
+increasing the movements of persons staying illegally within the EU.
+
+Entry points
+The increase in the number of illegal bordercrossing in 2014 was not evenly distributed
+along all border sections. Three areas can be
+identified as the major entry points:
+1) The Central Mediterranean: In the annual
+total for 2014, detections of illegal bordercrossing on the Central Mediterranean route
+accounted for the largest percentage of all
+detections (170 664, or 60% of the total).
+This represented a fourfold increase in detections compared to 2013. Most migrants
+departed from Libya where facilitators continue to take advantage of the lack of law
+enforcement capacities to prevent departures. The peak in detections was reached in
+June, but detections for the last months of
+the year continue to be much higher than in
+previous years, suggesting that many more
+migrants could arrive in the spring.
+
+Frontex · General Report 2014
+
+2) Detections on the Eastern Mediterranean
+route also increased, from about 25 000 in
+2013 to nearly 51 000 in 2014. In contrast to
+2013, when detections were split between
+land and sea border, nearly 85% of the detections were reported from the Aegean Sea
+(around 43 000). This sharp increase in the
+Aegean Sea meant that migrants departed
+from a larger number of areas than in previous years and arrived in a larger number of
+islands, stretching capacity of surveillance.
+Indeed, in many cases, many were not detected while sailing, but once they had already reached the land.
+3) For the second year in a row, detections
+in the Western Balkans increased significantly from 6 391 in 2012 to 19 951 in 2013 to
+43 357 in 2014. This brought the Western Balkan route on par with detections in the Aegean Sea. While the Western Balkans route
+includes several border sections virtually all
+detections (97%) were reported at the green
+border between Hungary and Serbia.
+Elsewhere along the external borders, there
+have been episodes of high pressure, but at
+a smaller scale. Detections increased by 15%
+in the Western Mediterranean area (7 842
+compared to 6 838 in 2013), mostly at the
+land border in Melilla (Spanish enclave in Morocco). Circular migration between Albania
+and Greece remained stable with about 8
+800 detections in 2014. A similar stable trend
+was reported from the Eastern land border
+with 1 275 detections.
+
+Main nationalities
+In terms of nationalities, Syrians (79 169) represented 28% of the total number of irregular migrants who arrived in the EU in 2014.
+They were also the top nationality for other
+indicators, in particular asylum applications,
+reflecting the dire situation in Syria and the
+desperate plight of Syrian asylum seekers.
+However, the vast majority of Syrians did not
+
+apply for asylum in the Member States of entry (mostly Italy and Greece) but primarily in
+Germany and Sweden.
+The detections of Eritreans also reached a
+record level (more than 34 600, compared
+to 11 300 in 2013). They were mostly arriving through Libya on the Central Mediterranean route. Like Syrians, they did not apply
+for asylum in the Member States of entry, but
+rather continue to other Member States. According to findings gathered by Frontex joint
+debriefing teams, many of the Eritreans had
+lived for some time in Libya but decided to
+leave for Italy because of the violence they
+were facing. Other Eritreans claimed they
+had been deported from Israel in April 2014,
+when the authorities there did not renew
+their permit of stay.
+Detections of Afghans sharply increased to
+around 22 000 from about 9 500 in 2013. Afghans were detected on the Eastern Mediterranean route (mostly crossing the Eastern
+Aegean Sea to Greece), and then once again
+on the Western Balkan route at the Hungarian-Serbian land border (totalling 8 342).
+Detections of citizens from Kosovo crossing
+the land border illegally between Serbia and
+Hungary sharply increased to total more than
+22 000 detections in 2014 (compared to 6 129
+in 2013). This trend has been at least partially
+linked with rumours among Kosovo population that France’s decision to remove Kosovo from the national list of safe countries
+will make it more straightforward to obtain
+asylum in this Member States.
+
+Other indicators
+Among the other indicators, the strongest
+increase in terms of percentage and volume
+was reported to EASO for asylum applications, reaching about 650 000 applications at
+the EU level (up 40%). As with illegal bordercrossing, the top nationalities were Syrians
+
+45
+
+Frontex · General Report 2014
+
+and Eritreans, as indeed many entered the
+EU to escape violence in their country of origin. However, in most cases they did not apply for asylum in the Member States of entry,
+but in other EU countries.
+
+number of Russians of Chechen origin applying for asylum in Poland and Germany after
+being refused entry. This modus operandi was
+not used so much in 2014 due to successful
+media campaigns in Chechnya.
+
+There were 441 780 detections of illegal stays
+in the EU, which represents an increasing
+trend compared to the year before and recent reporting periods. However, the actual
+trend is difficult to establish due to specific
+reporting requirements in various Member
+States that bias the data.
+
+Detections of facilitators increased by 41% to
+about 10 000, mostly due to increased detections in Spain and Greece. Italy reported a stable number of facilitators compared to 2013.
+
+There was a steady trend of 161 309 thirdcountry nationals effectively returned to
+countries outside the EU. In terms of nationalities, there is a striking difference between the nationality detected crossing the
+border illegally or staying illegally in the EU,
+and the nationality effectively returned. Most
+effective returns concerned Albania nationals,
+followed by citizens of Pakistan and Ukraine.
+Member States reported a total of 115 061 refusals of entry at the external borders of the
+EU, a decrease of 11% compared to last year.
+The decrease is due to the fact that 2013 was
+a record year, following the exceptionally large
+
+46
+
+Detections of fraudulent documents remained relatively stable, with 9 400 detections reported to Frontex. As in the previous
+year, this number appears very low compared
+to the multi-million flow of passengers on
+entries into the EU.
+Detections of clandestine entry in vehicles increased strongly from 599 in 2013 to 3059 in
+2014. The increase was mostly due to a tenfold increase in detections reported from the
+Bulgarian border crossings along the land border with Turkey. The increase started in August, possibly as an indirect consequence of
+enhanced measures at the green border that
+might have caused a partial displacement of
+the flow from green border to border crossing
+points, by way of clandestine entries
+
+Frontex · General Report 2014
+
+Annex D. List of Joint Operational
+Activities
+Air Borders
+Name of the Project
+
+Operational area
+
+Lenght
+
+Participating MS and TC
+
+JO VEGA Children 2014
+
+9 Participating airports: Amsterdam,
+Brussels, Frankfurt, Geneva, Lisbon,
+Madrid, Bucharest, Porto, Zurich
+
+63 days
+
+8 Member States: Belgium, Switzerland,
+Germany,Spain, Netherlands, Portugal,
+Romania, Ireland International
+Organizations: International
+Organization for Migration – IOM,
+United Nations High Commissioner for
+Refugees – UNHCR.
+Non-Governmental Organizations:
+Caritas Austria, Terre des Hommes and
+Croatian Law Centre.
+
+JO Focal Points 2014 Air
+– Regular
+
+28 EU Focal Points Air activated:
+Amsterdam, Arlanda, Athens,
+Bergamo, Brussels, Budapest, Paris
+Charles de Gaulle, Dusseldorf,
+Rome Fiumicino, Frankfurt,
+Geneva, Helsinki, Ljubljana, Lisbon,
+Lyon, Madrid, Marseille, Munich,
+Milano Malpensa, Nice, Orly,
+Bucharest, Prague, Riga, Vienna,
+Vilnius, Warsaw, Zurich Airports
+
+352 days
+24 Member States: Austria, Belgium,
+(permanent Bulgaria, Switzerland, Czech Republic,
+operation) Denmark, Germany, Estonia, Finland,
+France, Hungary, Spain, Greece, Italy,
+Latvia, Lithuania, Netherlands, Norway,
+Poland, Portugal, Romania, Slovenia,
+Slovakia, Sweden
+6 Third Countries: Albania, Bosnia and
+Herzegovina, The Former Yugoslav
+Republic of Macedonia, Serbia,
+Moldova and Turkey
+
+5 Coordination Point airports
+activated: Skopje, Tirana, Sarajevo,
+Belgrade, and Chisinau Airports
+JO Focal Points 2014 Air
+– Intermediate Managers
+
+20 EU Focal Points Air activated:
+Amsterdam, Athens, Brussels,
+Bucharest, Dusseldorf, Frankfurt,
+Helsinki, Lisbon, Madrid, Milano
+Malpensa, Munich, Paris Charles
+de Gaulle, Paris Orly, Prague, Riga,
+Rome Fiumicino, Vienna, Vilnius,
+Warsaw, Zurich
+
+280 days
+(permanent
+operational
+concept)
+
+3 Third Countries: Cape Verde, Georgia,
+Ukraine
+
+1 Coordination Point airport
+activated: Tbilisi
+PP Flight Tracking
+
+8 EU Interbational Airports: Vienna,
+Brussels, Dusseldorf, Rome
+Fiumicino, Milan Malpensa,
+Ljubljana, Zurich, Amsterdam
+3 Third Country Airports: Tirana,
+Belgrade and Skopje
+
+24 Member States: Austria, Belgium,
+Bulgaria, Croatia, Czech Republic,
+Germany, Denmark, Estonia, Finland,
+France, Greece, Hungary, Italy, Iceland,
+Latvia, Lithuania, Netherlands, Poland,
+Portugal, Romania, Spain, Slovenia,
+Sweden, Switzerland
+
+70 days
+
+Member States: Austria, Belgium,
+Switzerland, Germany, The
+Netherlands, Italy, Slovenia and
+Sweden
+Third Countries: Albania, the Former
+Yugoslav Republic of Macedonia and
+Serbia
+
+47
+
+Frontex · General Report 2014
+
+Name of the Project
+
+Operational area
+
+JO Alexis 2014
+
+33 EU International airports:
+Amsterdam, Athens, Barcelona,
+Bergamo, Bratislava, Brussels,
+Budapest, Bucharest,
+Coppenhagen, Paris Charles de
+Gaulle, Paris Orly, Geneva, Lyon,
+Prague, Sofia, Cologne, Dusseldorf,
+Geneva, Helsinki, Ljubljana,
+Lisbon, Madrid, Marseille, Milano
+Malpensa, Porto, Riga, Roma
+Fiumicino, Tallinn, Timisoara,
+Stuttgart, Vienna, Vilnius, Warsaw
+
+124
+operational
+days
+
+9 EU International Airports: Lisbon,
+Milan Malpensa, Stockholm,
+Vienna, Madrid, Lisbon, Bergamo,
+Athens, Paris Charles de Gaulle
+
+149
+operational
+days
+
+JO Pegasus 2014
+
+Lenght
+
+Participating MS and TC
+24 Member States: Austria, Belgium,
+Bulgaria, Czech Republic, Germany,
+Denmark, Estonia, Finland, France,
+Greece, Hungary, Italy, Latvia,
+Lithuania, Luxembourg, Netherlands,
+Poland, Portugal, Romania, Spain,
+Slovakia, Slovenia, Switzerland, United
+Kingdom
+6 Third Countries: Albania, Bosnia and
+Hercegovina, Macedonia, Moldova,
+Georgia, Ukraine
+11 Member States: Austria, Estonia,
+Greece, Spain, Romania, Latvia, The
+Netherlands, Italy, France, Sweden,
+Portugal
+
+Land Borders
+Name of the Project
+
+Operational area
+
+Lenght
+
+Participating MS and TC
+
+JO Focal Points 2013
+(extension)
+
+Bulgaria, Croatia, Greece, Hungary,
+Poland and Romania
+
+90
+operational
+days
+
+19 Member States: Austria, Bulgaria,
+Switzerland, Croatia, Czech Republic,
+Germany, Estonia, Finland, France,
+Hungary, Greece, Lithuania, the
+Netherlands, Norway, Poland, Portugal,
+Romania, Slovenia, Slovakia
+
+JO Focal Points 2014 Land
+
+Bulgaria, Croatia, Estonia, Finland,
+Greece, Hungary, Latvia, Lithuania,
+Norway, Poland, Romania and
+Slovakia
+
+275
+operational
+days
+
+25 Member States: Austria, Belgium,
+Bulgaria, Switzerland, Croatia, Czech
+Republic, Denmark, Germany, Estonia,
+Finland, France, Hungary, Greece, Italy,
+Latvia, Lithuania, the Netherlands,
+Norway, Poland, Portugal, Romania,
+Slovenia , Slovakia, Spain, Sweden
+6 Third Countries: Albania, Bosnia and
+Herzegovina, The Former Yugoslav
+Republic of Macedonia, Serbia,
+Moldova, and Ukraine
+
+48
+
+JO Coordination Points
+2014
+
+designated border crossing points/
+Hosting Third Countries Albania,
+the former Yugoslav Republic of
+Macedonia, Moldova, Ukraine
+
+255
+operational
+days
+
+12 Member States: Austria, Croatia,
+Estonia, Finland, France, Hungary,
+Latvia, the Netherlands, Poland,
+Romania, Slovenia, Switzerland
+
+JO Poseidon Land 2013
+(extension)
+
+Greece and Bulgaria
+
+85
+operational
+days
+
+15 Member States: Austria, Bulgaria,
+Switzerland, Estonia, Finland, Greece,
+Lithuania, the Netherlands, Poland,
+Portugal, Romania, Slovenia , Spain,
+United Kingdom
+
+Frontex · General Report 2014
+
+Name of the Project
+
+Operational area
+
+Lenght
+
+JO Poseidon Land 2014
+
+Greece and Bulgaria
+
+281
+operational
+days
+
+Participating MS and TC
+25 Member States: Austria, Belgium,
+Bulgaria, Switzerland, Croatia,
+Czech Republic, Denmark, Germany,
+Estonia, Finland, France, Hungary,
+Greece, Latvia, Lithuania, Malta,
+the Netherlands, Norway, Poland,
+Portugal, Romania, Slovenia, Spain,
+Sweden, the United Kingdom
+1 Third Country: Moldova
+
+JO Flexible Operational
+Activities 2014
+
+Hungary, Croatia, Poland
+
+171
+operational
+days
+
+18 Member States: Austria, Bulgaria,
+Switzerland, Croatia, Czech Republic,
+Germany, Estonia, Finland, France,
+Hungary, Latvia, Lithuania, Poland,
+Portugal, Romania, Slovakia, Slovenia,
+Spain
+4 Third Countries: Albania, Bosnia and
+Herzegovina, Serbia, Moldova
+
+JO Rex 2014
+
+Croatia
+
+20
+operational
+days
+
+17 Member States: Austria, Bulgaria,
+Switzerland, Denmark, Germany,
+Estonia, Finland, France, Latvia,
+Norway, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, Sweden
+2 Third Countries: Albania, Bosnia and
+Herzegovina
+
+Sea Borders
+Name of the Project
+
+Operational area
+
+Lenght
+
+Participating MS and TC
+
+JO EPN Triton 2014
+
+Central Mediterranean
+
+61 days
+
+Host MS: Italy
+18 Member States: Austria, Belgium,
+Denmark, France, Germany, Greece,
+Iceland,Lithuania, Malta, Netherland,
+Norway, Poland, Portugal, Romania,
+Slovenia, Spain, Switzerland, United
+Kingdom
+
+JO EPN Hera 2014
+
+Atlantic region
+
+92 days
+
+Host MS: Spain
+1 Member State: France
+
+JO EPN Indalo 2014
+
+Western Mediterranean
+
+151 days
+
+Host MS: Spain
+9 Member States: Belgium, Denmark,
+Finland, France, Greece, Italy, Portugal,
+Romania, Slovakia
+1 Third Country: Moroccan Observer
+based on bi-lateral agreement with
+Spain
+
+49
+
+Frontex · General Report 2014
+
+Name of the Project
+
+Operational area
+
+Lenght
+
+Participating MS and TC
+
+JO EPN Minerva 2014
+
+Western Mediterranean (seaports)
+
+40 days
+
+Host MS: Spain
+15 Member States: Belgium, Bulgaria,
+Czech Republic, Denmark, Estonia,
+Finland, France, Italy, Netherlands,
+Norway, Portugal, Romania, Slovenia,
+Sweden, Switzerland
+1 Third Country: Ukraine Moroccan
+Observer based on bi-lateral
+agreement with Spain
+
+JO EPN Hermes 2013
+
+Central Mediterranean
+
+120 days
+
+Host MS: Italy
+11 Member States: Belgium, Denmark,
+Finland, France, Italy, Netherlands,
+Poland, Portugal, Romania, Spain,
+Sweden
+
+JO EPN Hermes 2014
+
+Central Mediterranean
+
+184 days
+
+Host MS: Italy
+19 Member States: Austria, Belgium,
+Denmark, France, Germany, Greece,
+Iceland,Lithuania, Malta, Netherland,
+Norway, Poland, Portugal, Romania,
+Slovenia, Spain, Switzerland, United
+Kingdom, Czech Republic
+2 Third Countries: Turkey, Moldova
+
+JO EPN Aeneas 2013/ 2014
+
+Central Mediterranean
+
+273 days
+
+Host MS: Italy
+15 Member States: Belgium, Denmark,
+Estonia, France, Germany, Greece,
+Lithuania, Netherland, Norway, Poland,
+Portugal, Romania, Spain, Sweden,
+Switzerland;
+3 Third Countries: Albania, Georgia,
+Turkey
+
+JO Poseidon Sea 2013/2014 Eastern Mediterranean
+
+365 days
+
+Host MS: Greece
+20 Member States: Austria, Bulgaria,
+Croatia, Denmark, Estonia, Finland,
+France, Germany, Iceland, Italy, Latvia,
+Lithuania, Malta, Netherlands, Norway,
+Poland, Portugal, Romania, Slovakia,
+Spain, Sweden, United Kingdom
+2 Third Countries: Albania, Georgia
+
+JO Focal Points Sea 2014
+
+EPN General
+
+Border Crossing Points in 9 MS:
+Romania, Bulgaria, Spain, Portugal,
+Slovenia, Croatia, Lithuania,
+Finland and Estonia
+
+178 days
+
+EPN General activities: EPN
+Common Patrols/ EPN ALPHA &
+FOXTROT AREA 3 rounds, Frontex
+Compatible Operational Image,
+Frontex Positioning System and
+tailored meetings/workshops
+
+365 days
+
+19 Member States: Austria, Bulgaria,
+Belgium, Denmark, Estonia, Finland,
+France, Germany, Latvia, Lithuania,
+Netherlands, Norway, Portugal,
+Romania, Slovakia, Slovenia, Czech
+Republic, Spain, Sweden
+
+1829 days
+in total
+
+50
+
+Host MS: Portugal, Spain, Slovenia,
+Croatia, Finland, Estonia, Lithuania,
+Bulgaria, Romania
+
+all MS
+
+Frontex · General Report 2014
+
+Returns
+Name of
+the Project Operational area
+
+Lenght
+
+Participating MS and TC
+
+365 days
+
+Host MS: Greece and Bulgaria
+
+Austria, Denmark, Estonia, France,
+Italy, Latvia, the Netherlands,
+Poland, Portugal, Romania, Slovakia,
+Slovenia, Spain, United Kingdom
+
+Return Operations Sector
+JO Attica
+2014
+
+GR – external land and sea
+borders and Athens
+BG – external land border and
+Sofia
+
+Joint Return Operations
+No.
+
+Destination(s)
+
+Organising country
+
+Participating states (with returnees)
+
+Total no. of returnees
+
+1
+
+Nigeria
+
+Italy
+
+IT, MT, GR
+
+42
+
+2
+
+Pakistan
+
+Greece
+
+GR, ES
+
+41
+
+3
+
+FYR of Macedonia
+
+Germany
+
+DE, SE
+
+80
+
+4
+
+Nigeria
+
+UK
+
+UK, BG, DK, DE, IS, NL, ES, SE
+
+62
+
+5
+
+Serbia
+
+Germany
+
+DE, SE
+
+67
+
+6
+
+Albania (TC)
+
+France
+
+FR, BE, ES
+
+48
+
+7
+
+Pakistan
+
+Greece
+
+GR, ES
+
+50
+
+8
+
+Georgia
+
+Spain
+
+ES, FR, AT, GR, PL, SE
+
+27
+
+9
+
+Colombia & Dominican Rep.
+
+Spain
+
+ES, GR
+
+96
+
+10
+
+Kosovo
+
+Austria
+
+AT, FI, SE, DE, FR, HU, SK
+
+45
+
+11
+
+Pakistan
+
+Greece
+
+GR, FR, HU, PL, SE
+
+32
+
+12
+
+Nigeria
+
+Italy
+
+IT, BG, DK, ES, FI, FR, GR, LT, NO, SE
+
+50
+
+13
+
+Serbia & FYR of Macedonia
+
+Spain
+
+ES, FR, DE
+
+29
+
+14
+
+Bosnia i Herzegovina & Albania
+
+Germany
+
+DE, SE, FR, FI, ES
+
+74
+
+15
+
+Serbia
+
+Germany
+
+DE, SE
+
+65
+
+16
+
+Nigeria
+
+The Netherlands
+
+NL, NO, SE, FR, PL, BG, DE, RO, ES, MT
+
+43
+
+17
+
+Kosovo
+
+Austria
+
+AT, FI, FR, DE, HU, SE
+
+71
+
+18
+
+Nigeria
+
+Italy
+
+IT, BG, FR, DE, NO, MT, PT, CH
+
+50
+
+19
+
+DRC
+
+Belgium
+
+BE, FR, LU
+
+20
+
+20
+
+Kosovo
+
+Sweden
+
+SE, NO, HU, DE.
+
+44
+
+21
+
+Albania (TC)
+
+France
+
+FR, BE, FI
+
+51
+
+22
+
+Pakistan
+
+Spain
+
+ES, FR, BG, BE, LT, MT, SE
+
+27
+
+23
+
+Ecuador & Colombia
+
+Spain
+
+ES, BG
+
+94
+
+24
+
+Nigeria
+
+Austria
+
+AT, FR, DE, FI, CH, GR, DK, SK, NO, MT
+
+26
+
+25
+
+Serbia & FYR of Macedonia
+
+Germany
+
+DE, LU
+
+42
+
+26
+
+Albania & Georgia
+
+Spain
+
+ES, FR, GR, SE, NO
+
+44
+
+27
+
+Nigeria
+
+Italy
+
+IT, BG, FI, GR, NO, PL
+
+45
+
+28
+
+Kosovo
+
+Hungary
+
+HU, DE, FI
+
+70
+
+29
+
+Pakistan
+
+Greece
+
+GR, BG, LT
+
+43
+
+30
+
+Kosovo
+
+Sweden
+
+SE, DE, FR, HU
+
+76
+
+31
+
+Georgia (TC)
+
+Switzerland
+
+CH, FR, DE, DK, PL
+
+15
+
+32
+
+Bosnia i Herzegovina & Serbia
+
+Germany
+
+DE, SE, LU
+
+60
+
+33
+
+Nigeria
+
+The Netherlands
+
+NL, DK, SE, FI, PT, CH, NO, DE, BG, MT, BE, ES
+
+41
+
+34
+
+Albania
+
+Sweden
+
+SE, FI, DE, BE, FR, ES
+
+60
+
+35
+
+DRC
+
+Belgium
+
+BE, FI, RO
+
+23
+
+36
+
+Kosovo
+
+Hungary
+
+HU, AT, DE, FR
+
+69
+
+37
+
+Serbia & Albania
+
+Germany
+
+SE, DE
+
+54
+
+38
+
+Georgia (TC)
+
+France
+
+FR, DK, DE, LT, NL, PL
+
+18
+
+39
+
+Kosovo
+
+Austria
+
+AT, HU
+
+50
+
+51
+
+Frontex · General Report 2014
+
+Joint Return Operations
+No.
+
+Destination(s)
+
+Organising country
+
+Participating states (with returnees)
+
+Total no. of returnees
+
+40
+
+Pakistan
+
+Spain
+
+ES, BG, PL
+
+26
+
+41
+
+Serbia
+
+Sweden
+
+SE, DE
+
+56
+
+42
+
+Albania & Georgia
+
+Austria
+
+AT, ES, FR, DE, FI, LT
+
+75
+
+43
+
+Nigeria
+
+Norway
+
+NO, DK, FI, GR, ES, PT, SE, CH
+
+47
+
+44
+
+Russia
+
+Poland
+
+PL, CH
+
+42
+
+45
+
+Kosovo
+
+Hungary
+
+HU, FI, DE
+
+Sum of returnees in 2014
+
+52
+
+81
+
+2271
+
+Frontex · General Report 2014
+
+Annex E. Comparative Analysis
+of Joint Operational Activities 2014
+At Air Borders
+The number of officer-days of air border joint
+operations increased from 5 988 officer-days
+in 2013 to 6 703 in 2014 despite a slight reduction in the budget, mainly due to the
+continuous deployment of SGOs in the operational areas.
+Six joint activities were carried out for a total of 1 038 operational days, while in 2013
+the air border operational activities were implemented under the umbrella of three large
+scale joint operations for a total of 680 operational days.
+The number of deployed officers fell 8% (241
+in 2013 versus 222 in 2014), but the duration
+of deployments was extended especially in
+the case of SGOs.
+The number of participating MS/SAC remained very high (28) and additional eight
+Third Countries took part in joint operations.
+The budget of Air Border Sector was decreased to EUR 2 200 000 EUR from EUR
+2 255 000 in 2013.
+
+At Land Borders
+In 2014, seven joint activities (including REX)
+were carried out at external land borders for
+a total of 1 177 operational days, while in 2013
+eight joint activities (REX included) took place
+for a total of 1 061 operational days.
+The number of deployed officer rose to 1 008
+from 984 in 2013 and the average duration of
+
+deployments was extended, especially in the
+case of SGO deployment.
+The number of hosting MS/SAC remained the
+same (12); the number of participating MS/
+SAC remained very high (28 in 2014 compared
+to 27 in 2013) as well as the level of participation of TC (four in 2014 and five in 2013).
+In 2014, the budget of Land Border Sector
+was EUR 7 480 000, or 2.2% lower than in
+2013 (EUR 7 641 900).
+The area of gravity was partly on the GreekTurkish and Bulgarian-Turkish land borders,
+where the Joint Operation Poseidon Land 2013
+extension and Poseidon Land 2014 were implemented continuously throughout the year
+and partly on the Hungarian–Serbian and
+Croatian–Serbian land borders, where Joint
+Operations Focal Points Land, Flexible Operational Activities were implemented. Operational activities at those border sections
+were mainly focused on specialised green
+border surveillance and debriefing activities.
+The deployment of additional Hellenic Police officers along the Greek–Turkish land
+border, in the framework of national operation “Aspida” (shield) launched as from August 2012, continued in 2014. The Bulgarian
+authorities implemented a similar large scale
+special operation (as from November 2013),
+leading to a sharp decrease of the detections
+in the area. Comparing data collected during the course of 2013 and 2014, a 54% decrease in the number of apprehension was
+reported in the operational area of Poseidon Land in 2014 compared to 2013. While
+the Greek authorities reported an increase
+
+53
+
+Frontex · General Report 2014
+
+of 93% in the number of apprehended migrants in their area, irregular migration pressure decreased in the Bulgarian operational
+area by roughly 66% in comparison with the
+previous year. The displacement of irregular migrants towards Greek territory can be
+linked to the extension of the Bulgarian special police operation, the further extension of
+the Integrated Border Surveillance System
+(IBSS) and the completion of the engineering technical obstacle (ETO) at the Bulgarian–Turkish border.
+
+At Sea Borders
+Aiming to facilitate interoperability and flexible response to the irregular migration phenomena and cross-border crime, eight joint
+maritime operations and seven tailored activities, as well as coordination of national
+patrolling in predefined European Patrol Network (EPN) areas were implemented in 2014.
+The number of operational days in sea operations in 2014 increased by 8% (1 829 in 2014
+versus 1 689 in 2013), due to activation of EPNTriton in the Central Mediterranean area.
+In 2014, Frontex significantly increased its
+budget for sea operation. The scale of Frontex-financed technical means’ deployment
+was 60 % higher compared with previous
+year (43 006 patrolling hours versus 26 590).
+This corresponded to the increased number of guest officers deployed in maritime
+operations.
+Deployed experts performed 50% more operational officer-days (some 20 000 compared
+to 13 352). In addition, during the maritime
+joint operations, crew members performed
+33 767 operational officer-days (27,300 in
+2013). The increase was a result of more intensive patrolling activities.
+The number of participating EU MS/SAC in
+joint sea operations stood at 28, as in the pre-
+
+54
+
+vious year. There were also six Third Countries involved in sea operations in 2014, one
+more than in 2013.
+With regard to financing of the operation
+activities, the budget for the year 2014 was
+EUR 28 383 700 compared to previous year
+allocation of EUR 28 885 000. This budget
+was however complimented by 6 800 000
+EUR from the 2013 budget which was dedicated to extensions of sea operations in 2014.
+In total, 217 776 migrants (some 600 migrants per day) were intercepted during the
+joint sea operations in 2014 in contrast to
+53 758, or about 147 per day, in 2013. The migration pressure in Central Mediterranean
+areas represented main part of the overall
+flows via sea borders – approx. 170 000 migrants arrived to Italy during sea operations
+in 2014. Furthermore, 1 086 suspected facilitators were apprehended during the joint
+maritime operations – three times the previous year’s tally of 357.
+For the second year in a row, there was a
+five-fold increase in migration flows in the
+Central Mediterranean, where the risk of fatalities was also considerably high due to use
+of unseaworthy overloaded boats.
+In the area covered by JO Poseidon Sea, the
+number of migrants increased more than
+four-fold compared with previous year (approx. 45 000 in 2014 versus 10 815 in 2013).
+Assets taking part in Frontex-coordinated operations rescued 173 543 migrants, nearly four
+times the number from the previous year, or
+475 people per day, on average.
+During the maritime joint operations some
+other types of cross-border crime, including
+drug trafficking were detected.
+Some 43 tonnes of hashish worth more than
+EUR 65 million and 35 kg of cocaine worth
+
+Frontex · General Report 2014
+
+2 million were seized and 344 suspected drug
+traffickers were arrested.
+
+For the year 2014, the budget of Return Operations Sector was increased by 1.76%.
+
+Most of the drugs were seized in the Western and Central Mediterranean area.
+
+Focal Points
+
+Moreover, twenty-four million contraband
+cigarettes worth EUR 2.8 million were also
+seized and seven cases of possible sea pollution and two cases of possible illegal fishing were detected.
+
+Return Operations
+Frontex organised 45 joint return operations
+(JROs) in 2014 with a total of 2 271 returnees
+compared to 39 JROs with 2 152 returnees
+in 2013. Even though four flights to African
+countries were cancelled due to the Ebola
+outbreak, this was still the largest number of
+operations and returnees since 2006.
+Fourteen Member States took the role of a
+JRO organiser in 2014. Greece and Hungary
+organised the JROs for the first time. The top
+five destination countries of joint returns in
+2014 were Nigeria, Kosovo, Albania, Serbia
+and Pakistan, together making up 37 of the
+45 joint return operations.
+In 2014, one joint operation (JO Attica) lasting all year round was carried out, as in the
+previous year. The number of Member States
+participating in the JO remains unchanged,
+while the number of deployed officers fell
+40%. However, the duration of deployments
+was extended due to the new concept of SGO
+deployments. The number of deployed interpreters was increased by 61%, covering more
+operational locations.
+
+The Focal Points Concept continued to serve
+as a platform at air, sea and land external borders for the further development of cooperation between EU Member States and also
+for the cooperation with Third Countries by
+deployment of border guards to provide operational support and to gather experience
+and best practices.
+Furthermore, the concept supported the implementation of other regional and local joint
+operations launched in the same operational
+areas and enabled the reinforcement of border sections affected by irregular migration.
+During JO Focal Points 2014 Air – Regular
+Officers Member States and Third Countries deployed and hosted 65 officers in total at different airports within and outside
+the European Union, including deployment
+of seven observers from six Third Countries,
+five EU officers as advisors deployed at Non
+EU airports. Moreover, four Frontex Seconded
+Guest Officers were deployed at number of
+EU airports to support the local authorities
+with expertise.
+During JO Focal Points 2014 Land – 12 MS
+hosted the Focal Points at the BCPs and 24 MS
+were participating. In total there were 173 officers deployed for 8 788 officer-days.
+During JO Focal Points 2014 Sea – 9 MS hosted
+the Focal Points at the seaport border crossing points and 19 MS participated. In total,
+37 officers were deployed for 1,153 officer-days.
+
+55
+
+Frontex · General Report 2014
+
+Annex G. List of Training Projects
+PROJECTS
+Project
+ref. number
+2014/TRU/2
+
+Project title / Type of event
+
+Number of
+participants
+
+Number of
+man-days
+
+European Joint Masters in Strategic Border Management
+Other activities
+
+2014/TRU/4
+
+Number
+of events
+8
+
+310
+
+1 033
+
+Curricula for Mid-Level Border Guard Education
+Training
+Other activities
+
+2
+
+36
+
+432
+
+12
+
+149
+
+554
+
+2014/TRU/19 Development and certification of training experts
+Training
+
+1
+
+18
+
+54
+
+Other activities
+
+4
+
+21
+
+70
+
+2014/TRU/20 Profile training for Maritime Border Surveillance Officers
+Training
+
+1
+
+8
+
+16
+
+Other activities
+
+3
+
+21
+
+58
+
+ACTIVITIES / BUSINESS AS USUAL
+BaU ref.
+number
+2014/TRU/1
+
+BaU title / Type of event
+
+Other activities
+
+2013/TRU/5
+
+2014/TRU/6
+
+2014/TRU/7
+
+56
+
+Number of
+man-days
+
+13
+
+165
+
+1 400
+
+9
+
+150
+
+509
+
+SQF for Border Guards and Educational Standards in line
+with Bologna / Copenhagen principles
+Training
+
+3
+
+66
+
+308
+
+Other activities
+
+7
+
+49
+
+104
+
+Air Crew Training
+Training
+
+2
+
+16
+
+48
+
+Other activities
+
+3
+
+34
+
+60
+
+Training
+
+6
+
+202
+
+2 047
+
+Other activities
+
+5
+
+10
+
+36
+
+8
+
+57
+
+506
+
+Training and certification of EUBG canine team instructors
+
+Falsified documents detection training
+Training
+
+2014/TRU/8
+
+Number of
+participants
+
+Common Core Curriculum for EUBG basic training
+Training
+
+2014/TRU/3
+
+Number
+of events
+
+Training for Schengen Evaluators
+Training
+
+3
+
+88
+
+343
+
+Other activities
+
+6
+
+58
+
+112
+
+Frontex · General Report 2014
+
+BaU ref.
+number
+2014/TRU/9
+
+BaU title / Type of event
+
+Number
+of events
+
+Number of
+participants
+
+Number of
+man-days
+
+Training in the field of return operations
+Training
+
+6
+
+96
+
+416
+
+Other activities
+
+4
+
+23
+
+70
+
+4
+
+10
+
+79
+
+23
+
+206
+
+533
+
+2013/TRU/10 Detection of stolen vehicles training
+Other activities
+2014/TRU/11 Training tools for EBGT and Schengen Borders Code
+Other activities
+2014/TRU/12 Second-line Airport Officers’ Profile Training
+Training
+
+4
+
+81
+
+738
+
+Other activities
+
+3
+
+29
+
+41
+
+2014/TRU/13 Training in English communication for Border Guards
+Training
+
+5
+
+88
+
+243
+
+Other activities
+
+3
+
+15
+
+45
+
+Training
+
+9
+
+157
+
+1 183
+
+Other activities
+
+6
+
+44
+
+96
+
+Training
+
+5
+
+108
+
+324
+
+Other activities
+
+6
+
+43
+
+74
+
+4
+
+6
+
+19
+
+2014/TRU/14 Profile trainings for Intelligence Professionals
+
+2014/TRU/16 Fundamental rights and anti-trafficking in human beings
+
+2014/TRU/17 Training Unit ICT platform
+Other activities
+2014/TRU/18 Training Support Network
+Training
+Other activities
+
+SUMMARY
+
+1
+
+32
+
+97
+
+10
+
+204
+
+306
+
+Total
+number
+of events
+189
+
+Total
+number of
+participants
+2 600
+
+Total
+number of
+man-days
+11 954
+
+57
+
+Frontex · General Report 2014
+
+Annex H. Fundamental Rights Progress
+Report 2014
+Introduction
+
+Joint Operations
+
+Art. 1, paragraph 2 of the Frontex amended
+Regulation explicitly indicates that the
+Agency, when implementing its mandate,
+shall always act in full compliance with the
+EU Charter of Fundamental Rights, relevant
+obligations and principles of international
+law. The Frontex Fundamental Rights Strategy, adopted in March 2011, together with its
+Action Plan, refer to the Fundamental Rights
+Progress Report (Par 37 and Action 18, respectively). Following the structure of the
+strategy, the current Progress Report aims
+to provide an overview of the current state
+of play and progress made by Frontex in 2014
+as regards the implementation of the Fundamental Rights Strategy and Action Plan
+in particular in the areas of joint operations,
+Risk Analysis and Capacity Building.
+
+1. O
+ perational Plans, Operational
+Briefings, Reporting system
+
+Article 1 paragraph 2 of the Frontex Regulation further states that the Agency shall take
+into consideration the reports of the Consultative Forum in accordance to Art. 26(a)
+of the Regulation. The Consultative Forum
+prepares a specific annual and public report
+of its activities. The very first CF Annual Report covering its activities and strategic recommendations in 2013 was published on 28
+July 2014.
+The present Progress Report covers the period from January to December 2014.
+
+58
+
+Specific sections on “Fundamental rights in
+Frontex coordinated activities” and the “Code
+of Conduct” were introduced in the Handbooks of the Operational Plans for all Frontexcoordinated joint operations. The Handbooks
+were developed for each type of operation
+(land, sea, air, return). The standard text related to Fundamental Rights has been established in cooperation with FRO and the
+Legal Affairs Unit.
+All participants in Frontex coordinated joint
+operations and activities are introduced to
+the importance of fundamental rights issues during Operational Briefings, organised
+by Frontex and the Host Member States and
+delivered to guest officers before their actual
+deployment to the operational areas. During
+the briefings, guest officers receive information on the fundamental rights principles that
+apply to all Frontex coordinated activities and
+the obligation to promote and protect fundamental rights, including the principle of
+non-refoulement, in line with relevant international and European law. To support the
+delivery of the fundamental rights component of the operational briefings, in 2014 the
+Frontex Fundamental Rights Officer developed a 5-minute video on the main fundamental rights provisions that have a particular
+practical relevance for the work of border
+guards. This video is now part of the briefing package and is regularly shown during
+operational briefings.
+
+Frontex · General Report 2014
+
+The national component of operational briefings, delivered by the national authorities is
+mostly focused on the reporting mechanism
+on incidents, including those related to fundamental rights. As mandated in the Code of
+Conduct annexed to the Operational Plans,
+all participants in Frontex coordinated operational activities have the obligation to report any allegation of fundamental rights
+violations occurring in the context of joint
+operations according to the Serious Incident
+Report mechanism.
+In the course of 2014, Frontex has further
+strengthened the cooperation – already
+started in 2013 – with international organisations such as UNHCR and FRA to deliver
+part of the fundamental rights session during pre-deployment briefings. Experts from
+those organisations have been invited to provide the guest officers with a specific briefing
+on fundamental rights including right to international protection, the principle of nonrefoulement, identification and referral to
+relevant authorities of vulnerable groups such
+as victims of trafficking and unaccompanied
+minors, both from a theoretical and practical/operational perspective. For instance, in
+2014, such practice has been implemented in
+the framework of joint operations at sea in
+Greece, Italy and Spain.
+2. I mplementation of the new
+EU Regulation 656/2014/EU
+Frontex paid special attention to the implementation of the new EU Regulation establishing rules for the surveillance of the
+external sea borders in the context of operational cooperation coordinated by the
+European Agency for the Management of Operational Cooperation at the External Borders
+of the Member States of the European Union
+focusing on its strong fundamental rights obligations. Namely, amendments were introduced to Annex 3 of operational plans (Rules
+of Engagement) and to the tailored Mission
+
+Report of the Technical Equipment (for Host
+and contributing MS Vessels).
+The Regulation also requires an “assessment
+of the general situation in a third country”
+whenever the joint operation allows for the
+disembarkation, or any other form of handing
+over apprehend persons to a Third Country.
+In 2014, such a possibility was only theoretically foreseen for the joint operations carried out in Spain and Greece.
+3. Joint Return Operations (JROs)
+At the start of each deployment period, JO
+Attica 2014 provides screening experts and
+interpreters with an on-the-spot briefing,
+during which specific reference is made to
+Fundamental Rights in Frontex activities.
+The briefing includes relevant information
+and specific guidance and the video from the
+Fundamental Rights Officer. All participants
+in Frontex activities are advised on how to
+manage vulnerable migrants and refer requests for international protection. In addition, all participants in Frontex activities are
+informed of the need and obligation to report concerns or allegations, including possible allegation of fundamental rights violations
+occurring in Frontex coordinated joint operations, and the reporting method to be used
+in these cases – the Serious Incident Reporting mechanism.
+Monitoring of JROs: art. 8.6 of the Return
+Directive obliges Member States to put in
+place an effective monitoring system, however, there is not a unified enforced monitoring system in Member States. Frontex
+efforts were directed to ensure an increase
+in the percentage of physically monitored
+flights in the framework of Frontex coordinated return flights. The Agency also holds
+observer status within the ICMPD-led “FReM”
+project which established and trained a pool
+of European monitors. On 22 October 2014,
+the European Ombudsman launched a new
+
+59
+
+Frontex · General Report 2014
+
+Own-Initiative Enquiry on Joint Return Operations coordinated by Frontex with focus on
+two main aspects: i) the monitoring of JROS
+and ii) conditions and treatment of migrants.
+Frontex’s answer was sent in January 2015.
+A new concept of Collecting Joint Return
+Operations (CJROs) was further developed
+for two destinations (Albania and Georgia)
+based on some Member States’ experiences
+with such type of operations organised at
+national level. Escorts from the two selected
+destination countries were trained by Frontex to ensure a harmonised training level and
+common standards and on the protection
+and promotion of fundamental rights. These
+operations are subject to certain conditions,
+such as the obligation to have an independent monitor on board.
+During two medical seminars organised in
+2014, five police medical doctors from Member States with experience in JROs developed
+guidelines for medical precautionary measures for JROs and escorts to become an integral part of various Frontex trainings in the
+field of returns. The aim is to improve and
+optimise escorts’ awareness and capacity to
+perform their duties safely. Medical doctors
+also developed a “fit-to-travel” form that reflects adequate fundamental rights standards
+and requirements of the Code of Conduct for
+Joint Return Operations.
+4. Joint Operation VEGA Children 2014
+During the VEGA Children Pilot Project conducted in 2013 Frontex, representatives of
+Member States, International and Non-Governmental Organisations members of the
+Frontex Consultative Forum on Fundamental
+Rights and the Frontex Fundamental Rights
+Officer provided expert support to the drafting of the draft VEGA Children Handbook, a
+collection of best practices on detection and
+protection of children at risk on the move at
+air borders.
+
+60
+
+In 2014, Frontex coordinated the Joint Operation VEGA Children at nine European airports
+with the aim to test, assess and evaluate
+the draft Handbook in real life implementation. The scope of the joint operation was
+to support the key processes of identification of accompanied, separated and unaccompanied children on the move at risk, the
+activation of the referral mechanism by the
+relevant authorities and disruption the activities of criminal networks, following the
+standard operational procedures of the draft
+VEGA Children Handbook. The Handbook offers specific guidance to border guards, who
+often play a key role in initiating these processes and dismantling the related criminal activities.
+Experts from the Consultative Forum were
+deployed at the selected EU airports to support with their expertise the work of the local
+border guard authorities and offices deployed
+by Frontex. Their main role was to observe,
+advise and assist the deployed officers during the application of standard operational
+procedures for the identification of children
+at risk at external air border controls. In this
+framework, the joint operation provided a
+unique opportunity to enhance mutual exchange of professional knowledge with civil
+society and international organisations and
+to collect best practices to be implemented in
+future activities to ensure greater protection
+of vulnerable children as well as effectively
+disrupt the activities of criminal networks.
+The draft Handbook will be published in the
+second quarter of 2015.
+5. Participation of partner organisations
+in operational activities
+In November 2014, the Fundamental Rights
+Agency (FRA) published two reports on the
+fundamental rights situation at air and land
+border crossing points. The reports complement and earlier FRA report on the situation
+
+Frontex · General Report 2014
+
+at the EU’s southern sea borders. Frontex has
+taken note of the contents as well as the recommendations illustrated in those reports.
+The Agency will work on the follow up to
+such reports in 2015 together with FRA and
+other relevant partners.
+
+Media monitoring: information collected from
+open sources raises awareness among staff
+and Member States about potential cases of
+violations of fundamental rights, allowing the
+Fundamental Rights Officer and operational
+staff to take appropriate action.
+
+a) Risk Analysis
+
+Serious Incident reporting: the SIR procedure is the official reporting mechanism to
+inform and report on serious incidents involving also cases of alleged violations of
+fundamental rights, in the frame of Frontex
+coordinated joint operations. The mechanism foresees initial reporting and follow-up
+measures, namely through the appointment
+of a SIR coordinator (Frontex Fundamental
+Rights Officer) who ensures collection of all
+necessary information and proposes measures aimed at addressing the incident.
+
+In 2014, efforts to mainstream fundamental rights aspects into risk analysis activities
+and products were concentrated on three
+main areas.
+The procedure for debriefing interviews
+with migrants was improved, with the inclusion of information on the possibility for
+migrants to reveal and report fundamental
+rights violations.
+Consultative Forum members and other
+NGOs with field presence in the countries
+of origin/departure/destination had the opportunity to provide information on circumstances on the ground, including migrant
+profiles, available for various risk analysis
+purposes. For instance, organisations provided specific written contributions to risk
+analysis products, participated in risk analysis events such “tactical meetings” where
+information was provided on the situation
+in countries of origin and transit of refugees
+and migrants (the Jesuit Refugee Service and
+UNHCR), supported the risk analysis unit in
+the preparation of some weekly operational
+briefings (UNHCR).
+The Handbook on Risk Profiles on Victims in
+Trafficking in Human Beings was updated.
+b) Frontex Situation Centre (FSC)
+Fundamental rights are an integral part in the
+overall situation monitoring activities and in
+the Eurosur framework. This engagement is
+reflected in some concrete activities.
+
+Frontex Fusion Services (FFS): during 2014
+Frontex gradually delivered the initial operational services provided via the Frontex Fusion Services (FFS). The core objective of the
+services provided to Frontex and the Member
+States is to enhance reaction capability and
+emergency response of the national border
+authorities. In provision of FFS brought significant added value in provision of information
+to MS Authorities that helped conduct more
+effective search and rescue operations at sea.
+The Eurosur Handbook includes a dedicated
+chapter on fundamental rights as well as a
+part on fundamental rights in the chapter on
+monitoring and reporting activities, where
+fundamental rights principles are linked to all
+main areas of Eurosur Framework and connected best practices are outlined.
+Eurosur Training: the standard curriculum of
+the trainings delivered to the Eurosur community includes a fundamental rights session,
+More detailed topics related to fundamental
+rights, as described in the Eurosur Handbook
+can be discussed and further integrated into
+the daily activities.
+
+61
+
+Frontex · General Report 2014
+
+Capacity Building
+
+E-learning tools on fundamental rights
+
+The principles of fundamental rights and international protection are fully integrated
+into all Frontex training activities. In 2014
+several new training programmes and products with fundamental rights aspects have
+been developed and launched. Previously developed programmes and products also continued to be implemented. Specific activities
+with focus on fundamental rights carried out
+in 2014 include:
+
+The development of e-learning tools on fundamental rights has been initiated and will
+continue in 2015.
+
+Training of trainers on Fundamental
+Rights and Anti-Trafficking in Human
+Beings
+
+Fundamental rights and ethics are integral to
+every aspect of border guarding learning and
+practice. This is the reason why Fundamental Rights learning is playing an important
+role within the framework of the European
+Joint Master’s in Strategic Border Management. The Master’s has a dedicated Module
+on Fundamental Rights and Ethics in European Border Management of 5 ECTS credits
+(140 hours of learning) that aims to equip the
+students with the knowledge, skills and competences necessary to integrate the respect,
+promotion and fulfilment of fundamental
+rights and ethics when taking strategic decisions and considering their implications on
+border management. The students will obtain knowledge on fundamental rights and
+ethics as reflected in European and international legal frameworks as well as emanating from relevant jurisprudence and case law.
+The module will enable the learners to make
+strategic decisions and to review current institutional structures and policies in a manner
+that is respectful of fundamental rights and
+ethics. This module is one of the foundation
+modules for the whole Master’s Programme.
+
+The training of national trainers is based on
+the methodology developed in the Fundamental Rights Trainers’ Manual and the Anti-Trafficking in Human Beings Trainers’ Manual. Two
+train-the-trainers courses have been organised for Member States (MSs) and Schengen
+Associated Countries (SAC) and one course for
+Working Arrangement Countries (WACs) on
+Fundamental Rights for border guards, while
+two train-the-trainers courses for MS have
+been organised on Anti-trafficking in Human
+Beings. Experts from the partnership organisations such as the European Asylum Support Office (EASO), the United Nations High
+Commissioner for Refugees (UNHCR), the Organisation for Security and Co-operation in
+Europe (OSCE), the International Organisation
+for Migration (IOM) and the Office of the High
+Commissioner for Human Rights (OHCHR) all
+contributed to the training courses.
+The participants are trained on the content
+of the two manuals as well as on how to design a training programme and apply relevant
+methodologies and participatory approach
+in trainings on fundamental rights and antitrafficking in human beings. The use of creative, interactive teaching methods helped
+to ensure the active and committed involvement of participants.
+
+62
+
+An e-learning assessment on anti-trafficking
+in human beings has been developed and will
+be launched in 2015.
+European Joint Master’s in Strategic
+Border Management
+
+Furthermore, Fundamental Rights learning
+is integrated throughout the entire Master’s programme, in all the other nine modules of the programme, where fundamental
+rights and ethical considerations are taken
+into account when approaching the strategic developments within the border guard
+
+Frontex · General Report 2014
+
+organisations, the change management plans,
+the aspects related to Innovation and Technology in Border Security, Cooperation in
+Border Management, Risk and Threat Management, the Global Context of Border Security etc.
+The Master’s curriculum was reviewed by the
+Frontex Consultative Forum on Fundamental
+Rights which provided a valuable contribution to its content and approach to learning.
+Sectoral Qualifications Framework for
+Border Guarding
+The programme contains a guide to integrate Fundamental Rights into all border
+guard learning, with a view to assist Member States in integrating fundamental rights
+aspects into all training courses. The guide
+aims to supports curriculum developers with
+writing and assessing learning outcomes related to fundamental rights that become increasingly more specific and are suitable for
+programmes and course curricula.
+In 2014 the project focused on the development of a manual and a course concept for
+training developers that include practical and
+theoretical lessons on how to integrate fundamental rights learning outcomes into all
+courses and curricula in border guard area.
+Three training courses were delivered in 2014.
+European Border Guard Teams (EBGT)
+profile trainings
+A dedicated session related to fundamental
+rights and international protection is delivered in each profile training for EBGT members (Profile training for Debriefing experts,
+Profile training for Screening experts, Profile training for Second-Line Interview experts and Second-Line Airport Officers profile
+trainings). The topics covered are: fundamental rights in the work of border guards,
+international protection, identification of vul-
+
+nerable persons, access to the EU and nonrefoulement principles, risk factors when
+interviewing persons with disadvantages,
+serious incidents reporting. All topics are presented from a legal and more prominently
+from a practical point of view, bearing in
+mind the perspective of EBGT members and
+guest officers.
+The development of a new profile training
+- EBGT Land Border Surveillance Training has been initiated in 2014 and will continue
+in 2015. The content of the training will have
+a practical and interdisciplinary approach and
+will focus on aspects like communication, detection of cases of irregular migration / Trafficking in Human Beings, lawful measures of
+border guards, first aid, reporting in a Joint
+Operation, use of coercive force, etc.
+Curricula for mid-level Border Guard
+education (MLC)
+The new course “Operational Training for
+EU Mid-management in Border Guarding”
+was developed in 2014 by EU MS experts in
+line with SQF level 6, as a common education programme for mid to high-level officers of agencies responsible for border security
+in the European Union. It includes four distinct modules, of which one is dedicated to
+Fundamental Rights topics: Introduction to
+Fundamental Rights, Risks of Infringing Fundamental Rights, Fundamental Rights Awareness Visit, Review of Fundamental Rights
+Awareness Visit, Violations of Fundamental Rights, Characteristics of a Fundamental
+Rights-compliant Operational Manager, Future of Fundamental Rights in Border Guards’
+activities.
+At the same time, all other three modules
+include relevant fundamental rights issues
+among their topics.
+
+63
+
+Frontex · General Report 2014
+
+Fundamental Rights Training for
+Frontex staff
+As a result of the close cooperation with both
+the European Union Agency for Fundamental rights (FRA) and the UN High Commissioner for Refugees (UNHCR) as well as with
+support from FRO, the concept of the basic
+fundamental rights training for Frontex staff
+has been developed. This concept derives
+from Frontex Fundamental Rights Strategy.
+
+participating in the exchanges had the opportunity to deepen their knowledge on fundamental rights issues. In the CCC Teachers’
+Mobility programme the participating border guard teachers had the opportunity to
+observe how the respect of fundamental
+rights in Frontex joint operations work in the
+hosting Focal Points and to exchange experience on fundamental rights training with
+their counterparts in the hosting Partnership Academies.
+
+Basic two-day fundamental-rights trainings
+are mandatory for all Frontex staff. Following the first pilot session as well as the subsequent three sessions organised in 2013,
+additional four sessions took place in 2014.
+All trainings had been delivered by two external experts in fundamental rights. Altogether 138 Frontex staff members had been
+trained so far. Further training sessions will
+take place in 2015.
+
+Fundamental Rights aspects are also part
+of these training activities carried out in the
+course of 2014: trainings in the area of joint
+return operations such as trainings for Escort
+Leaders, the Joint European Cross Border Cooperation Study Module; development of the
+Schengen Borders Code E-learning Tool and
+Training Manual for Schengen Evaluators, the
+Mid-level English Language tool developed
+for Border Guards at Airports.
+
+The training objectives, in terms of learner
+outcomes, are three-fold: knowledge, skills
+and attitude. Specifically, staff are expected
+to understand the basics and principles of
+human rights, to be able to apply a humanrights perspective in their field of work or
+put them into practice using a “human-rights
+analysis tool” and finally to accept them as
+relevant to their work.
+
+Frontex also translated the book “Hope in
+my Heart, Freedom on my Mind” into English, published on the open market also under the title “Paradise Denied”. The book tells
+the real life story of Zekarias Kebraeb, a young
+Eritrean who fled his country in search of a
+better life in Europe and eventually was allowed to remain in Germany. The book raises
+awareness about the situation of irregular
+migrants, their views and their needs when
+in contact with public authorities. The book
+will be used in the context of training activities for European border guards carried out
+by Frontex.
+
+Other training initiatives
+The Common Core Curriculum (CCC) Interoperability Assessment Programme (IAP) aims
+to assess the interoperability of border guard
+forces in Europe. Special attention is devoted
+to the promotion and protection of fundamental rights. The evaluation of the CCC-IAP
+directed to border guard students in EU MSs,
+SAC and WACs addressed several a number
+of questions on fundamental rights. The programme will continue over the first quarter
+of 2015. Also in the framework of the CCC
+Students’ Exchange programme, students
+
+64
+
+External Relations with Third
+Countries
+All Frontex cooperation activities with authorities of Third Countries have been guided
+by the principle of the full respect for fundamental rights and its active promotion. In
+2014 the Agency has started a revision process of working arrangements to enhance
+
+Frontex · General Report 2014
+
+the focus on the respect and promotion of
+fundamental rights and principles in the operational cooperation with Third Countries.
+Frontex and the European Asylum Support
+Office (EASO) are undertaking an 18-month
+project entitled “Promoting the participation
+of Jordan in the work of EASO as well as the
+participation of Morocco and Tunisia in the
+work of EASO and Frontex”. Led and coordinated by EASO and funded by the European Neighbourhood Partnership Instrument
+(ENPI), the project falls under the responsibility of the EU Directorate-General Development and Cooperation (DG DEVCO). The
+project aims to promote the participation of
+the three countries in the work of the agencies; EASO alone will implement measures in
+Jordan, while EASO and Frontex will jointly
+be involved in activities in Morocco and Tunisia. A component of the project includes a
+workshop to be held in these countries on
+how the Agency respects and promotes fundamental rights.
+Frontex is also running the EU funded Eastern
+Partnership (EaP) – IBM – Capacity Building
+Project, which aims to ensure border security and to facilitate legitimate movements
+of persons and goods in the region, while ensuring that the fight against corruption and
+respect for human rights will be given the
+necessary attention throughout the project.
+It has three components entailing: 1) capacity building in support in national training
+
+curricula in the state training institutions, 2)
+specialised trainings including operational
+capacity building and 3) cross cutting issues
+characterised by specific horizontal initiatives. This will pay special attention to the
+good governance principles, focusing notably on ownership, sustainability, integrity,
+transparency, anti-corruption, interagency
+cooperation as well as respect and protection of fundamental rights, according to EU
+and international standards and best practices. As such, these initiatives will be performed through

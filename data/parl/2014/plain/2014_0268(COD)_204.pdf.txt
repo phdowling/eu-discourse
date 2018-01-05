@@ -1,0 +1,519 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2014/0268(COD)
+
+Procedure completed
+
+Emission limits and type-approval for internal combustion engines for
+non-road mobile machinery
+Repealing Directive 97/68/EC 1995/0209(COD)
+Amending Regulation (EU) No 167/2013 2010/0212(COD)
+Amending Regulation (EU) No 1024/2012 2011/0226(COD)
+Subject
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+3.40.03 Motor industry, cycle and motorcycle, commercial and agricultural
+vehicles
+3.70.02 Atmospheric pollution, motor vehicle pollution
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Rapporteur
+
+Environment, Public Health and Food Safety
+
+Appointed
+10/02/2015
+
+GARDINI Elisabetta
+Shadow rapporteur
+
+DANCE Seb
+
+DUNCAN Ian
+
+HUITEMA Jan
+
+ECK Stefan
+
+EICKHOUT Bas
+
+EVI Eleonora
+Committee for opinion
+IMCO
+
+Rapporteur for opinion
+
+Internal Market and Consumer Protection
+
+Appointed
+05/11/2014
+
+POSPÍŠIL Jiří
+
+Council of the European Union
+Commission DG
+European Commission
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs BIEŃKOWSKA Elżbieta
+
+European Economic and
+Social Committee
+
+Key events
+25/09/2014
+
+Legislative proposal published
+
+12/11/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+Vote in committee, 1st reading/single
+
+COM(2014)0581
+
+Summary
+
+15/09/2015
+
+reading
+
+15/09/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+30/09/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0276/2015
+
+26/04/2016
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE610.750
+GEDA/A/(2017)007928
+
+04/07/2016
+
+Debate in Parliament
+
+05/07/2016
+
+Results of vote in Parliament
+
+05/07/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+18/07/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+14/09/2016
+
+Final act signed
+
+14/09/2016
+
+End of procedure in Parliament
+
+16/09/2016
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0296/2016
+
+Technical information
+Procedure reference
+
+2014/0268(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Repealing Directive 97/68/EC 1995/0209(COD)
+Amending Regulation (EU) No 167/2013 2010/0212(COD)
+Amending Regulation (EU) No 1024/2012 2011/0226(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/8/01933
+
+Documentation gateway
+Legislative proposal
+
+COM(2014)0581
+
+25/09/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0281
+
+25/09/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0282
+
+25/09/2014
+
+EC
+
+Committee draft report
+
+PE557.123
+
+07/05/2015
+
+EP
+
+Amendments tabled in committee
+
+PE557.137
+
+10/06/2015
+
+EP
+
+PE549.464
+
+24/06/2015
+
+EP
+
+PE564.906
+
+03/07/2015
+
+EP
+
+Committee opinion
+Amendments tabled in committee
+
+IMCO
+
+Summary
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0276/2015
+
+30/09/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0296/2016
+
+05/07/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2016)657
+
+12/10/2016
+
+Coreper letter confirming interinstitutional
+agreement
+
+GEDA/A/(2017)007928
+
+24/08/2017
+
+CSL
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2016/1628
+OJ L 252 16.09.2016, p. 0053 Summary
+Final legislative act with provisions for delegated acts
+
+Delegated acts
+2016/3048(DEA)
+
+Examination of delegated act
+
+2016/3049(DEA)
+
+Examination of delegated act
+
+2014/0268(COD) - 25/09/2014 Legislative proposal
+PURPOSE: to protect human health and the environment, and ensure the proper functioning of the internal market for engines in non-road
+mobile machinery (NRMM).
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the emissions limits for non-road mobile machinery (NRMM) are currently set out in Directive 97/68/EC. This Directive was
+amended a number of times, but several technical reviews have concluded that the legislation in its current form has shortcomings.
+Non-road mobile machinery (NRMM) covers a large variety of combustion engines installed in machines ranging from small handheld
+equipment, construction machinery and generating sets, to railcars, locomotives and inland waterway vessels.
+These engines contribute significantly to air pollution and are accountable for roughly 15% of the nitrogen oxide (NOx) and 5% of the
+particulate matter (PM) emissions in the EU.
+The proposal also ties in with the industrial policy update of 2012 and could make an important contribution to technical harmonisation in the
+context of the EU-US trade negotiations (Transatlantic Trade and Investment Partnership - TTIP).
+IMPACT ASSESSMENT: the impact assessment took into account in the analytical design that the preferred choice might be a combination of
+elements from different options. Alongside the no-policy change scenario, these options are:
+alignment with US standards in scope and limit values.
+step towards road sector ambition levels, for the most relevant emission sources.
+extended level of ambition through enhanced monitoring provisions.
+CONTENT: the proposal significantly upgrades the NRMM engine type-approval system with respect to the technical requirements on
+emissions by adopting stricter levels, as well as introducing the split-level approach which is already used in other pieces of legislation in the
+area of EU type-approval of motor vehicles.
+This approach foresees legislation in two steps:
+first, the fundamental provisions will be laid down by the European Parliament and the Council in a Regulation based on the ordinary
+legislative procedure;
+secondly, the technical specifications implementing the fundamental provisions will be laid down in delegated acts adopted by the
+Commission in accordance with Article 290 of the TFEU.
+The draft proposal and its implementing and delegated acts will carry over and improve on the existing requirements laid down in Directive
+
+97/68/EC. Compared to the existing act, the proposal for a regulation will:
+introduce new emission limits reflecting technological progress and EU policies in the on-road sector, with a view to achieving EU air
+quality targets;
+extend the scope, with a view to improving market harmonisation (EU and international) and minimising the risk of market distortions;
+introduce measures for simplifying administrative procedures and improving enforcement, including conditions for better market
+surveillance.
+In particular, the delegated acts adopted under this proposal will include, amongst others:
+detailed technical requirements of the test cycles;
+technical test and measurement procedures;
+detailed arrangements and requirements for the exceptions granted under this Regulation;
+detailed provisions for type-approval procedures.
+The proposal also provides general and specific transitional periods in order to allow sufficient lead time for engine and machinery
+manufacturers, as well as for administrations.
+BUDGETARY IMPLICATION: the cost associated to setting up an electronic database for the exchange of type-approval information was
+already assessed in a feasibility study commissioned by the UNECE in June 2006.
+The study predicted one off start-up costs in the EUR 50 000 to EUR 150 000 range and operating costs of EUR 5 000 to EUR 15 000 per
+month, depending on the length of the contract with the service provider. A similar monthly range is provided for operating a help desk service,
+if required.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2014/0268(COD) - 30/09/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on the Environment, Public Health and Food Safety adopted the report by GARDINI (EPP, IT) on the proposal for a regulation
+of the European Parliament and of the Council on requirements relating to emission limits and type-approval for internal combustion engines
+for non-road mobile machinery.
+The parliamentary committee recommended that the European Parliament's position adopted at first reading following the ordinary legislative
+procedure amends the Commission proposal as follows.
+Purpose: in addition to broadening the scope of Union legislation in the field of market harmonisation, while minimising market distortions,
+Members consider that this Regulation should aim to simplify the current legal framework, including measures for simplifying administrative
+procedures, and to improve the general conditions for enforcement, in particular by strengthening the rules on market surveillance.
+Definition of "engine": Members clarified the definition in order to cover all engine technologies, in particular with a view to whether or not they
+use electronic control unit(s) (ECUs) or after-treatment systems.
+Retrofitting the engines already in service: given the long lifetimes of non-road mobile machinery, Members suggest that it is appropriate to
+consider retrofitting the engines already in service. Such retrofitting should in particular target densely populated urban areas and those in
+breach of Union air quality legislation.
+Protection for persons working in the vicinity of machinery: Members stressed the necessity to keep the cumulative exposure of persons
+working in the vicinity of several different items of mobile machinery and equipment as low as possible. They recommend in this regard that
+state-of-the-art technologies should be used to minimise emissions.
+Member States should have the power to prohibit the use of combustion engines for reasons of health and safety at work, in particular in poor
+air quality hotspots.
+Ultrafine particles: to ensure that emissions of ultrafine particulate pollutants (size of 0.1?m and below) are controlled, the Commission should
+be empowered to adopt a number-based approach drawing on the results of the Particulate Measurement Programme (PMP) of the United
+Nations Economic Commission for Europe (UNECE) and should achieve at least the level of protection afforded by the existing Union
+legislation on road vehicles.
+Agricultural vehicles: the Regulation should also apply to agricultural vehicles covered by the provisions of Regulation (EU) No 167/2013 of the
+European Parliament and of the Council which replaces the repealed Directive 97/68/EC. In order to avoid unnecessary administrative
+burdens, the engines of the phase IIIB should be able to benefit from the transitional provisions laid down in this regulation with regard to the
+requirements for the application of the phase V.
+Inland waterway vessels: an amendment to table I-6 in annex II expands the application of the same emission limit values as inland waterways
+propulsion engines to inland waterways auxiliary engines from >560kW only to include all powers.
+Members also introduced an amendment allowing alignment of the inland waterways propulsion engine reference power with the American
+standard which does not impose a reference power greater than or equal to 37 kW.
+Monitoring of emissions of the engines in service: Members have suggested that such testing shall be conducted under the responsibility of
+the manufacturer or the entity entrusted with such testing and under the supervision of the national type approval authority.
+The Commission should conduct monitoring programmes to determine to what extent, the emissions resulting from the test cycle and on which
+the type -approval is based, correspond to the emissions measured in actual operation.
+Certificate of conformity: MEPs felt that the formalities should evolve with the digital age and that it was appropriate to draw to reduce
+administrative burdens and costs.
+
+Thus, instead of delivering a certificate of conformity, the manufacturer may apply a mark of conformity to the engine. That conformity marking
+shall include an electronic code readable with widely available information technology (IT) tools and allowing the retrieval of information on the
+engine from the manufacturer's website.
+The Commission should be empowered to adopt a template for the conformity marking and the retrievable information and to establish the
+acceptable types of electronic codes used to access the information on the engine.
+Exchange of data and information: in this field, Members considered that using the well-established Internal Market Information System (IMI)
+would save costs and unnecessary administrative efforts as compared to the set-up of a new digital platform proposed by the Commission.
+Financial support for retrofitting: Members proposed that the Member States may make provision for financial incentives that apply to the
+retrofitting of in-use engines which do comply with this Regulation in order to meet the emission limit values set out in the Annex applicable to
+the type of engine to be retrofitted.
+Transitional measures: during the period between the repeal of Directive 97/68/EC and the mandatory dates for stage V, it should not only still
+be possible to grant EU type-approvals under Directive 97/68/EC, but also the applicable exemptions.
+In addition, for engines of the category NRE used in mobile cranes, Member States shall authorise an extension of the transition period by an
+additional 12 months.
+For a period not exceeding 10 years from the applicable date for the placing on the market of Stage V engines set out in Annex III, Member
+States may authorise the placing on the market of engines of category RLL with a maximum net power greater than 2000 kW that do not
+comply with the emission limits set out in Annex II, and which are to be installed in locomotives which only run on a technically isolated 1520
+mm railway network.
+Finally, Members underlined the possible synergies between the non-road mobile machinery sector and heavy-duty vehicles as the related
+technologies are interlinked, and called on the Commission to consider further action in this area.
+
+2014/0268(COD) - 05/07/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 623 votes to 57 with 27 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on requirements relating to emission limits and type-approval for internal combustion engines for
+non-road mobile machinery.
+Parliaments position adopted in first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Objective and scope of the regulation: the regulation aims to: (i) broaden the scope of Union legislation in the field of market harmonisation,
+while minimising the risk of market distortions; (ii) simplify the current legal framework, and to improve the general conditions for enforcement
+of such legislation, in particular by strengthening the rules on market surveillance.
+The legislation will define the categories of internal combustion engines in non-road mobile machinery (NRMM), such as lawn mowers,
+bulldozers, diesel locomotives and inland waterway vessels, which will be divided into sub-categories according to the power of the engine.
+For each category, it sets emission limits for CO, HC, NOX and particulate matter (PM) and deadlines for implementing them, starting from
+2018. The new emission limits will be applied to engines for non-road mobile machinery as well as for agricultural and forestry machinery.
+Engines for export and for use by the armed forces should not be subject to the emission limits laid down in the regulation. However, in order
+to distinguish such engines from engines that are subject to those emission limits, markings should be required in certain cases.
+The new regulation also provides for (i) certain exemptions to the emission limit requirements in respect of engines to be used in potentially
+explosive atmospheres and in lifeboat launch vehicles; (ii) certain exemptions and rules in respect of engines that incorporate new
+technologies or new concepts.
+Protection for persons working in the vicinity of machinery: Parliament stressed the need to keep the cumulative exposure of persons working
+in the vicinity of several different items of mobile machinery and equipment as low as possible. It recommended that technology that is
+currently available should be used to minimise emissions.
+Member States are free to lay down such requirements as they may deem necessary to ensure that the public and workers are protected
+whenever non-road mobile machinery is in use, provided that such requirements do not affect the placing on the market of engines for such
+machinery.
+Retrofitting of engines already in service: given the long lifetime of non-road mobile machinery, Members proposed considering the retrofitting
+of engines already in service. Such retrofitting should, in particular, target densely populated urban areas as a means of helping Member
+States to comply with Union air quality legislation.
+Obligations of economic operators: manufacturers should keep the EU type-approval certificate with its attachments and, where applicable, a
+copy of the statement of conformity at the disposal of the approval authorities for a period of 10 years after the placing on the market of an
+engine. They should provide national authorities, upon reasoned request and via the approval authority, with a copy of the EU type-approval
+certificate for an engine.
+An importer that has reason to believe or considers that an engine is not in conformity with the regulation, and in particular that it does not
+correspond to its EU type approval, should not place the engine on the market until it has been brought into conformity.
+Engine types and engine families should be designed and fitted with emission control strategies in such a way as to prevent tampering to the
+extent possible. The use of defeat strategies should be prohibited.
+Monitoring of emissions of in-service engines: Members suggested that testing should be conducted under the responsibility of the
+manufacturer and in compliance with the requirements of the approval authority.
+The Commission shall conduct monitoring programmes for each engine category to determine to what extent the emissions measured from
+the test cycle correspond to the emissions measured in actual operation. Those programmes and their results shall, on a yearly basis, be the
+
+subject of a presentation to the Member States and, subsequently, of a communication to the public.
+Statement of conformity: the statement of conformity shall specify the particular features and restrictions that are to apply to the engine. It may
+also be delivered in the form of a secure electronic file.
+The Commission may adopt implementing acts laying down the template for the statement of conformity, including the features aimed at
+preventing forgery and allowing verification of the secure electronic file.
+Exchange of data and information: national authorities should be required to cooperate efficiently with each other and with the Commission,
+and to exchange data and information relating to EU type approvals by means of the Internal Market Information System (IMI). A module of IMI
+specifically customised for non-road mobile machinery should be established. Manufacturers and technical services may use IMI for the
+exchange of data and information on engines for non-road mobile machinery.
+Transitional provisions: during the period between the repeal of Directive 97/68/EC and compulsory dates for Phase V, it should not only still
+be possible to grant EU type-approvals under Directive 97/68/EC, but also the applicable exemptions. Transition engines may continue to be
+placed on the market during the transition period provided that the machinery in which the transition engine is installed has a production date
+not later than 18 months following the start of the transition period.
+For engines of the category NRE used in mobile cranes, Member States shall authorise an extension of the transition period by an additional
+12 months.
+For a period not exceeding 10 years from the applicable date for the placing on the market of Stage V engines set out in Annex III, Member
+States may authorise the placing on the market of engines of category RLL with a maximum net power greater than 2000 kW that do not
+comply with the emission limits set out in Annex II, and which are to be installed in locomotives which only run on a technically isolated 1520
+mm railway network.
+Review: by 31 December 2018, the Commission shall submit a report regarding the assessment of the possibility of laying down harmonised
+measures for the installation of retrofit emission control devices in engines in non-road mobile machinery that has already been placed on the
+Union market. That report shall also address technical measures and financial incentive schemes as a means of helping Member States to
+comply with Union air quality legislation, by assessing possible action against air pollution in densely populated areas, and with due respect for
+the Union rules on state aid.
+
+2014/0268(COD) - 14/09/2016 Final act
+PURPOSE: to adopt stricter emission limits for internal combustion engines for non-road mobile machinery.
+LEGISLATIVE ACT: Regulation (EU) 2016/1628 of the European Parliament and of the Council on requirements relating to gaseous and
+particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, amending Regulations
+(EU) No 1024/2012 and (EU) No 167/2013, and amending and repealing Directive 97/68/EC.
+CONTENT: the Regulation updates the current legislation (Directive 97/68/EC) which no longer corresponds to the most recent technological
+developments. It sets new requirements to reduce pollutant emissions from non-road mobile machinery engines. These requirements address
+air pollution at source to protect the health of EU citizens and the environment.
+This Regulation seeks to ensure the good functioning of the internal market and to strengthen market surveillance while protecting human
+health and the environment. It also addresses competitiveness and compliance aspects, with the aim of removing obstacles to external trade
+by reducing the regulatory barriers that result from diverging emission requirements
+Scope: the Regulation shall apply to different categories of internal combustion engines in non-road mobile machinery (NRMM), such as lawn
+mowers, bulldozers, diesel locomotives and inland waterway vessels, which will be divided into sub-categories according to the power of the
+engine.
+Emission limits: for each category, it sets emission limits for carbon monoxide (CO), total hydrocarbons (HC) and oxides of nitrogen (NOx) and
+particulate matter (PM) and deadlines for implementing them, starting from 2018. The new emission limits will be applied to engines for
+non-road mobile machinery as well as for agricultural and forestry machinery.
+Engines intended for export to third countries and use by the armed forces are not subject to the emission limits laid down in the Regulation.
+Certain exemptions from the emission limit requirements are also provided for engines for use in potentially explosive atmospheres and for
+non-road mobile machinery that is exclusively used for the launch and recovery of lifeboats.
+EU type-approval procedures: the Regulation lays down the requirements for EU type-approval. Only engines which are in compliance with the
+requirements on emission limits and the type-approval procedures will be allowed on the market. Manufacturers shall keep
+the EU type-approval certificate with its attachments and, where applicable, a copy of the statement of conformity at the disposal of the
+approval authorities for a period of 10 years after the placing on the market of an engine.
+Before an EU-type-approved motor is placed on the market, importers must ensure that the EU type-approval certificate is accompanied by its
+attachments.
+An importer that has reason to believe or considers that an engine is not in conformity with this Regulation, and in particular that it does not
+correspond to its EU type-approval, shall not place the engine on the market until it has been brought into conformity.
+Engine types and engine families shall be designed and fitted with emission control strategies in such a way as to prevent tampering to the
+extent possible.
+ENTRY INTO FORCE: 6.10.2016.
+APPLICATION: from 1.1.2017.
+DELEGATED ACTS: the Commission may adopt delegated acts in respect of the monitoring of in-service emission performance, technical
+tests and measurement procedures, conformity of production, separate delivery of engine exhaust after-treatment systems, engines for
+
+field-testing, engines for use in explosive atmospheres, equivalence of engine EU type-approvals. The powers to adopt such delegated acts is
+conferred on the Commission for a period of five years (tacitly renewable) from 6 October 2016. The European Parliament or the Council shall
+have the right to object to a delegated act with a period of two months (extendable two months) from the date of notification of the act.
+
+

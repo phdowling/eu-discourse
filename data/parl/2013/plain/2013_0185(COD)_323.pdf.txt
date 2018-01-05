@@ -1,0 +1,548 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2013/0185(COD)
+
+Procedure completed
+
+Rules governing actions for damages under national law for infringements of
+the competition law provisions of the Member States and of the EU
+
+Subject
+2.60 Competition
+2.80 Cooperation between administrations
+3.45.05 Business policy, electronic commerce, after-sales service,
+commercial distribution
+4.60.06 Consumers' economic and legal interests
+7.40.02 Judicial cooperation in civil and commercial matters
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Appointed
+
+ECON Economic and Monetary Affairs
+(Associated committee)
+
+PPE SCHWAB Andreas
+
+18/06/2013
+
+Shadow rapporteur
+S&D SÁNCHEZ PRESEDO
+Antolín
+ALDE IN 'T VELD Sophia
+Verts/ALE EICKHOUT Bas
+ECR EPPINK Derk Jan
+GUE/NGL KLUTE Jürgen
+
+Committee for opinion
+ITRE
+
+IMCO
+
+Rapporteur for opinion
+
+Appointed
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+Internal Market and Consumer Protection
+
+ALDE SCHMIDT Olle
+
+09/07/2013
+
+S&D RAPKAY Bernhard
+
+19/06/2013
+
+JURI Legal Affairs
+(Associated committee)
+
+Council of the European Union
+Commission DG
+European Commission
+Competition
+
+Commissioner
+ALMUNIA Joaquín
+
+European Economic and
+Social Committee
+
+Key events
+11/06/2013
+
+Legislative proposal published
+
+01/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+03/12/2013
+
+Debate in Council
+
+12/12/2013
+
+Referral to associated committees
+announced in Parliament
+
+27/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2013)0404
+
+Summary
+
+Summary
+
+04/02/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+16/04/2014
+
+Debate in Parliament
+
+17/04/2014
+
+Results of vote in Parliament
+
+17/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+10/11/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+26/11/2014
+
+Final act signed
+
+26/11/2014
+
+End of procedure in Parliament
+
+05/12/2014
+
+Final act published in Official Journal
+
+A7-0089/2014
+
+Summary
+
+T7-0451/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0185(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114; Treaty on the Functioning of
+the EU TFEU 103-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/7/13019
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0404
+
+11/06/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0203
+
+11/06/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0204
+
+11/06/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0270
+
+11/06/2013
+
+EC
+
+PE516.968
+
+03/10/2013
+
+EP
+
+CES4975/2013
+
+16/10/2013
+
+ESC
+
+PE521.623
+
+08/11/2013
+
+EP
+
+Committee draft report
+Economic and Social Committee: opinion,
+report
+Amendments tabled in committee
+
+Summary
+
+Committee opinion
+
+IMCO
+
+PE519.553
+
+09/01/2014
+
+EP
+
+Committee opinion
+
+JURI
+
+PE524.711
+
+27/01/2014
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0089/2014
+
+04/02/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0451/2014
+
+17/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2014/104
+OJ L 349 05.12.2014, p. 0001 Summary
+
+2013/0185(COD) - 11/06/2013 Legislative proposal
+PURPOSE: to facilitate the introduction of damage and interest claims by victims of antitrust violations.
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: damages claims for breaches of Articles 101 or 102 of the Treaty on the Functioning of the European Union (TFEU)
+constitute an important area of private enforcement of EU competition law. It follows from the direct effect of the prohibitions laid down in
+Articles 101 and 102 of the Treaty that any individual can claim compensation for the harm suffered, where there is a causal relationship
+between that harm and an infringement of the EU competition rules. Injured parties must be able to seek compensation not only for the actual
+loss suffered but also for the gain of which they have been deprived plus interest.
+The Court of Justice of the European Union has clarified that the full effectiveness of the EU competition rules and, in particular, the practical effect of
+the prohibitions they contain would be put at risk if it were not open to any person to claim damages for loss caused to him/her by a contract or conduct
+liable to restrict or distort competition. It considered that damages actions strengthen the working of the EU competition rules and can thus make a
+significant contribution to maintaining effective competition in the EU.
+While the right to full compensation is guaranteed by the Treaty itself, the practical exercise of this right is often rendered difficult or almost impossible
+because of the applicable rules and procedures. Despite some recent signs of improvement in a few Member States, to date most victims of infringements
+of the EU competition rules in practice do not obtain compensation for the harm suffered . Besides these specific substantive obstacles to effective
+compensation (already identified in the Commissions 2005 Green Paper), there is a wide diversity as regards the national legal rules governing antitrust
+damages actions.
+To remedy this situation, the Commission put forward concrete policy proposals in its 2008 White Paper. In the ensuing public consultation,
+civil society and institutional stakeholders, such as the European Parliament, largely welcomed these policy measures and called for specific
+EU legislation on antitrust damages actions.
+IMPACT ASSESSMENT: the impact assessment report focused on four options which ranged from no action at the EU level, through a
+soft-law approach, to two options for legally binding EU action. The preferred option is considered to be the most cost-efficient way of
+achieving the set objectives.
+LEGAL BASIS: Articles 103 and 114 of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: this proposal seeks to ensure the effective enforcement of the EU competition rules in particular by ensuring that victims of infringements of
+the EU competition rules can obtain full compensation for the harm they suffered .
+Scope: the proposed Directive would set out rules ensuring equivalent protection throughout the Union for all natural or legal persons for harm
+they they have suffered as a result of infringements of the EU competition rules and ensure that their right under EU law to full compensation
+can be effectively exercised in the national courts.
+Disclosure of evidence: provision is made to ensure that, under certain conditions, the national courts can order the defendant or a third party
+to disclose the evidence a claimant will need to prove his his antitrust damages claim and/or a related defence.
+National courts should have at their disposal effective measures to protect any business secrets or otherwise confidential information disclosed during the
+proceedings. Furthermore, disclosure should not be allowed where it would be contrary to certain rights and obligations such as the obligation of
+professional secrecy.
+Probative effect of national decisions: pursuant to Council Regulation No 1/2003, a Commission decision relating to proceedings under Article 101 or
+102 of the Treaty has a probative effect in subsequent actions for damages. It is proposed to give final infringement decisions by national competition
+authorities (or by a national review court) similar effect.
+Limitation periods: the Commission proposes that the national rules on limitation periods for a damages action: (i) allow victims sufficient time (at least
+five years) to bring an action after they became aware of the infringement, the harm it caused and the identity of the infringer; (ii) prevent a limitation period
+from starting to run before the day on which a continuous or repeated infringement ceases.
+Joint and several liability: where several undertakings infringe the competition rules jointly (typically in the case of a cartel), it is appropriate that they be
+jointly and severally liable for the entire harm caused by the infringement. The new proposal, however, introduces certain modifications with regard to the
+liability regime of immunity recipients.
+Passing-on of overcharges: injured parties are entitled to compensation for actual loss (overcharge harm) and for loss of profit. To ensure that only the
+
+direct and indirect purchasers that actually suffered overcharge harm can effectively claim compensation, the proposed Directive explicitly recognises the
+possibility for the infringing undertaking to invoke the passing-on defence.
+However, in situations where the overcharge was passed on to natural or legal persons at the next level of the supply chain for whom it is legally impossible
+to claim compensation, the passing-on defence cannot be invoked.
+Quantification of harm: to assist victims of a cartel in quantifying the harm caused by the competition law infringement, the proposed Directive provides
+for a rebuttable presumption with regard to the existence of harm resulting from a cartel. The infringing undertaking could rebut this presumption and use the
+evidence at its disposal to prove that the cartel did not cause harm.
+Consensual Dispute Resolution: to provide an incentive to parties to settle their dispute consensually, the proposed Directive aims at optimising the
+balance between out-of-court settlements and actions for damages.
+BUDGETARY IMPLICATION: the proposed Directive would have no budgetary implications.
+
+2013/0185(COD) - 03/12/2013 Debate in Council
+The Council agreed on a general approach on a draft directive concerning actions for damages for breaches of antitrust law which aims to
+facilitate claims by victims of infringements of EU competition rules. It invited the Presidency to start negotiations with the European Parliament
+on the basis of the general approach with a view to reaching an agreement at first reading.
+The main points of the compromise were as follows:
+Legal basis: the compromise text maintains the dual legal basis as proposed by the Commission.
+Limits on the use of evidence obtained solely through access to the file of a competition authority (Article 7): the wording has been amended in
+order to allow Member States to protect the documents that have been obtained by a natural or legal person solely through access to the file
+of a competition authority by either classifying them as inadmissible or by other means, using the tools available under national law.
+Such a provision, while securing the protection of the identified documents, does not predetermine the ways in which Member States shall
+secure such protection.
+Effect of national decisions (Article 9): the Presidency compromise removes the cross-border binding effect of national decisions and only
+obliges Member States to accept them as means of evidence, in line with applicable national procedural rules.
+Joint and several liability (Article 11): the objective of the Commission proposal was to strike the right balance between private and public
+enforcement of competition law.
+The proposal states that it should be avoided that by paying contribution to non-settling co-infringers for damages they paid to non-settling
+injured parties, the total amount of compensation paid by the settling co-infringers exceeds their relative responsibility for the harm caused by
+the infringement. It is therefore appropriate that the immunity recipient is liable in principle only to his own direct and indirect purchasers or
+providers. The immunity recipient should remain fully liable to the injured parties other than his direct or indirect purchasers or providers only
+where they cannot obtain full compensation from the other infringers.
+The Presidency compromise deletes the sentence, thereby limiting the protection of leniency applicants against civil liability to what is
+necessary to neutralise the negative effect of actions for damages on leniency programmes and public enforcement.
+
+2013/0185(COD) - 04/02/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Andreas SCHWAB (EPP, DE) on the proposal for a directive of the
+European Parliament and of the Council on certain rules governing actions for damages under national law for infringements of the competition
+law provisions of the Member States and of the European Union.
+The Committee on Economic and Monetary Affairs, exercising its prerogatives as an associated committee under Parliaments Rule 50 of the
+Rules of Procedure, also gave an opinion on the report.
+The committee recommended that Parliaments position adopted at first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Scope of the Directive: anyone who has suffered harm caused by an infringement of Article 101 or 102 TFEU or of national competition law by
+an undertaking or by a group of undertakings could effectively exercise the right to claim full compensation for that harm from that undertaking
+or group.
+Right to full compensation: a person who has suffered harm caused by an infringement of Union or national competition law should be able to
+claim and obtain full compensation for that harm. Full compensation shall not include other damages such as punitive damages or multiple
+damages, and penalties leading to overcompensation. The total level of fines and damages paid shall not be affected by proceedings on the
+part of the competition authority that follow on from or precede a private action.
+Disclosure of evidence: Member States should ensure that in a proceeding relating to an action for damages before a national court in the
+Union upon request of a claimant who has presented a reasoned justification containing available facts and evidence sufficient to support the
+plausibility of its claim for damages. National courts can order the defendant or a third party to disclose relevant evidence. Member States shall
+ensure that national courts request the disclosure of evidence from the national competition authority where the defendant does not provide
+the evidence requested.
+Member States should ensure that: (i) national courts limit disclosure of evidence to that which is proportionate and which relates to an action
+for damages in the Union; (ii) national courts have the power to order disclosure of evidence containing confidential information where they
+consider it relevant to the action for damages; (iii) national courts give full effect to applicable legal professional privilege under Union or
+national law when ordering the disclosure of evidence.
+
+Interested parties in possession of a document requested for disclosure should be heard before a national court orders disclosure regarding
+information derived from the specified documents.
+Disclosure of evidence included in the file of a competition authority: it is stipulated that as a general rule, national courts shall not order a
+party or a third party to disclose either of the following categories of evidence in any form: (a) leniency statements; or (b) settlement
+submissions.
+Where a claimant has presented reasonably available facts and evidence showing plausibly that certain data or information pertaining to a
+document included in the file of a competition authority which cannot be otherwise provided is necessary for determining the damage and
+supporting its claim, national courts, may: (a) access and analyse such a document; (b) hear the interested parties in the possession of it; and
+(c) order the limited disclosure of the relevant data.
+Limitation periods: the limitation period should begin on the latest date after an injured party knows.
+Joint and several liability: where the undertaking is a small or medium-sized enterprise, has not led or induced the infringement of competition
+law by other undertakings and has shown that its relative responsibility for the damage caused by the infringement is less than 5 % of the total,
+that it shall only be liable to its direct and indirect purchasers.
+Suspensive effect of consensual dispute resolution: according to the proposal, Member States shall ensure that national courts seized of an
+action for damages may suspend proceedings where the parties to those proceedings are involved in consensual dispute resolution
+concerning the claim covered by that action for damages. Members considered that this suspension should not be longer than one year.
+Following a consensual settlement, a competition authority may consider the compensation paid prior to the decision as a mitigating factor
+when setting fines.
+Review: the Commission should review this Directive and shall submit a report to the European Parliament and the Council by four years after
+the date of entry into force of this Directive. Where appropriate, that review should be accompanied by a legislative proposal.
+
+2013/0185(COD) - 17/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 541 to 25 votes with 12 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council on certain rules governing actions for damages under national law for infringements of the competition
+law provisions of the Member States and of the European Union.
+Parliament adopted its position at first reading following the ordinary legislative procedure. The amendments adopted in plenary are the result
+of an agreement negotiated between the European Parliament and the Council. They modify the proposal as follows:
+Scope of the directive: thanks to the new rules, any natural or legal person who has suffered harm caused by an infringement of competition
+law by an undertaking or by a group of undertakings could effectively exercise the right to claim full compensation for that harm from that
+undertaking or group.
+Right to full compensation: the full compensation for the damage should be obtained. It should cover the right to compensation for actual loss
+and for loss of profit, plus payment of interest. It should not lead to overcompensation, whether by means of punitive, multiple or other types of
+damages.
+Principles of effectiveness and equivalence: all national rules and procedures relating to the exercise of claims for damages should be
+designed and applied in such a way that they do not render practically impossible or excessively difficult the exercise of the right to full
+compensation.
+Furthermore, the national rules and procedures relating to actions for damages resulting from infringements of Article 101 or 102 TFEU should
+not be less favourable to the alleged injured parties than those governing similar actions for damages resulting from infringements of national
+law.
+Disclosure of evidence: national courts should be able to order the defendant or a third party to disclose relevant evidence which lies in their
+control in proceedings relating to an action for damages in the Union upon request of a claimant who has presented a reasoned justification
+containing reasonably available facts and evidence sufficient to support the plausibility of its claim for damages.
+The court should be able under its strict control, especially as regards the necessity and proportionality of the disclosure measure , to order
+disclosure of specified pieces of evidence or categories of evidence upon request of a party.
+The demand for disclosure should be proportionate. Provisions have been introduced to prevent fishing expeditions, that is, non-specific
+searches of information which are unlikely to be of relevance for the parties in the procedure.
+National courts would have the power to order disclosure of evidence containing confidential information where they consider it relevant to the
+action for damages. In this case, they should have at their disposal effective measures to protect such information.
+Those from whom disclosure is sought should have an opportunity to be heard before a national court orders disclosure.
+It is stated that the interest of undertakings to avoid actions for damages following an infringement of competition law shall not constitute an
+interest that warrants protection.
+Disclosure of evidence included in the file of a competition authority: to ensure the undertakings' continued willingness to voluntarily approach
+competition authorities with leniency statements or settlement submissions, disclosure of evidence should in no case apply to these
+documents.
+The applicant may submit a reasoned request that a national court accesses the above-mentioned documents only to verify that their contents
+meet the Directives definitions relating to the concepts of the statement made by a company with a view to getting leniency and settlement
+submissions.
+During this evaluation, the national authorities could only request the assistance of a competent competition authority. The authors of the
+
+documents concerned could also be heard. In any event, the court would not allow access to these documents to the other parties or to third
+parties.
+Penalties: national courts should be able to effectively impose penalties on parties, third parties and their legal representatives in the event of
+failure or refusal to comply with any national courts disclosure order.
+Limitation periods: the limitation period shall not begin to run before the infringement has ceased and the claimant knows, or can reasonably
+be expected to know the behaviour and the fact that it constitutes an infringement of competition law, the fact that the infringement of
+competition law caused harm to him and the identity of the infringing undertaking.
+Joint and several liability: where the undertaking is a small or medium-sized enterprise, it would be liable only to its own direct and indirect
+purchasers if: a) its market share in the relevant market was below 5% at any time during the infringement; and if b) the application of the
+normal rules of joint and several liability would irretrievably jeopardize the economic viability of the company concerned.
+Suspensive effect of consensual dispute resolution: according to the amended text, the suspension should not be longer than two years.
+As a result of consensual dispute resolution, a competition authority could consider that compensation paid as a result of a consensual
+settlement and prior to its decision imposing a fine to be a mitigating factor in the setting thereof.
+Review of the Directive: the Commission should submit a report by four years after the date of entry into force. Where appropriate, that review
+would be accompanied by a legislative proposal.
+
+2013/0185(COD) - 26/11/2014 Final act
+PURPOSE: to facilitate the introduction of damage and interest claims by victims of antitrust violations.
+LEGISLATIVE ACT : Directive 2014/104/EU of the European Parliament and of the Council on certain rules governing actions for damages
+under national law for infringements of the competition law provisions of the Member States and of the European Union.
+CONTENT: the Directive sets out certain rules necessary to ensure that anyone who has suffered harm caused by an infringement of
+competition law by an undertaking or by an association of undertakings can effectively exercise the right to claim full compensation for that
+harm from that undertaking or association.
+Disclosure of evidence: national courts will be able to order the defendant or a third party to disclose relevant evidence which lies in their
+control in proceedings relating to an action for damages in the Union, upon request of a claimant who has presented a reasoned justification
+containing reasonably available facts and evidence sufficient to support the plausibility of its claim.
+Member States must ensure, however, that national courts limit the disclosure of evidence to that which is proportionate. Provisions have been
+made to prevent fishing for information, meaning non-specific searches for information which is unlikely to be of relevance for the parties in the
+procedure.
+Member States shall ensure that national courts have the power to order the disclosure of evidence containing confidential information where
+they consider it relevant to the action for damages. When ordering the disclosure of such information, national courts must have at their
+disposal effective measures to protect such information. Those from whom disclosure is sought must be provided with an opportunity to be
+heard before a national court orders disclosure.
+Disclosure of evidence included in the file of a competition authority (leniency programme): a claimant may present a reasoned request that a
+national court access leniency statements or settlement submissions for the sole purpose of ensuring that their contents correspond to the
+definitions in the Directive.
+The authors of the evidence in question may also have the possibility to be heard. In no case shall the national court permit other parties or
+third parties access to that evidence.
+Penalties: national courts must be able effectively to impose penalties on parties, third parties and their legal representatives in the event of
+circumstances set out in the directive.
+Effect of national decisions: Member States shall ensure that where a final decision is taken in another Member State, that final decision may
+be presented before their national courts as at least prima facie evidence that an infringement of competition law has occurred.
+Limitation periods: limitation periods shall not begin to run before the infringement of competition law has ceased and the claimant knows, or
+can reasonably be expected to know of the behaviour and the fact that it constitutes an infringement of competition law. Limitation periods for
+bringing actions for damages are at least five years.
+Joint and several liability: undertakings which have infringed competition law through joint behaviour must be jointly and severally liable for the
+harm caused by the infringement of competition law. Where the infringer is a small or medium-sized enterprise (SME) it will be liable only to its
+own direct and indirect purchasers where: (a) its market share in the relevant market was below 5 % at any time during the infringement of
+competition law; and (b) the application of the normal rules of joint and several liability would irretrievably jeopardise its economic viability and
+cause its assets to lose all their value. This derogation shall not apply where the SME has led the infringement of competition law.
+Passing-on of overcharges and the right to full compensation: compensation of harm can be claimed by anyone who suffered it, irrespective of
+whether they are direct or indirect purchasers from an infringer, and compensation of harm exceeding that caused by the infringement of
+competition law to the claimant, as well as the absence of liability of the infringer, must be avoided.
+The defendant in an action for damages can invoke as a defence against a claim for damages the fact that the claimant passed on the whole
+or part of the overcharge resulting from the infringement of competition law. The burden of proving that the overcharge was passed on shall be
+on the defendant.
+Member States shall ensure that neither the burden nor the standard of proof required for the quantification of harm renders the exercise of the
+right to damages practically impossible or excessively difficult.
+Suspensive and other effects of consensual dispute resolution: the limitation period for bringing an action for damages must be suspended for
+
+the duration of any consensual dispute resolution process. Proceedings may be suspended for up to two years.
+A competition authority may consider compensation paid as a result of a consensual settlement and prior to its decision imposing a fine to be a
+mitigating factor.
+Review of the Directive: the Commission must submit a report by 27 December 2020. If appropriate, the report shall be accompanied by a
+legislative proposal.
+ENTRY INTO FORCE: 25.12.2014.
+TRANSPOSITION: by 27.12.2016.
+
+

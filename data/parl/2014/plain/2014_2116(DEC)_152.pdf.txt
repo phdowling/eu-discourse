@@ -1,0 +1,376 @@
+Procedure file
+Basic information
+2014/2116(DEC)
+
+DEC - Discharge procedure
+
+Procedure completed
+
+2013 discharge: European Chemicals Agency (ECHA)
+
+Subject
+8.70.03.03 2013 discharge
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Budgetary Control
+
+CONT
+
+Appointed
+09/10/2014
+
+CZARNECKI Ryszard
+Shadow rapporteur
+
+ZDECHOVSKÝ Tomáš
+
+VAUGHAN Derek
+
+ALI Nedzhmi
+
+DE JONG Dennis
+
+JÁVOR Benedek
+
+VALLI Marco
+Committee for opinion
+ENVI
+
+Rapporteur for opinion
+
+Environment, Public Health and Food Safety
+
+Appointed
+05/11/2014
+
+LA VIA Giovanni
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Budget
+
+GEORGIEVA Kristalina
+
+Key events
+30/07/2014
+
+Non-legislative basic document published
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+23/03/2015
+
+Vote in committee, 1st reading/single
+reading
+
+30/03/2015
+
+Committee report tabled for plenary,
+single reading
+
+28/04/2015
+
+Debate in Parliament
+
+29/04/2015
+
+Results of vote in Parliament
+
+29/04/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+COM(2014)0510
+
+Summary
+
+A8-0073/2015
+
+Summary
+
+T8-0140/2015
+
+Summary
+
+29/04/2015
+
+End of procedure in Parliament
+
+30/09/2015
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2014/2116(DEC)
+
+Procedure type
+
+DEC - Discharge procedure
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CONT/8/01564
+
+Documentation gateway
+Court of Auditors: opinion, report
+
+N8-0080/2014
+OJ C 442 10.12.2014, p. 0132
+
+01/07/2014
+
+CofA
+
+Summary
+
+COM(2014)0510
+
+30/07/2014
+
+EC
+
+Summary
+
+Committee draft report
+
+PE539.706
+
+29/01/2015
+
+EP
+
+Document attached to the procedure
+
+05304/2015
+
+30/01/2015
+
+CSL
+
+PE541.500
+
+03/02/2015
+
+EP
+
+PE539.766
+
+05/03/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0073/2015
+
+30/03/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0140/2015
+
+29/04/2015
+
+EP
+
+Summary
+
+Non-legislative basic document
+
+Committee opinion
+Amendments tabled in committee
+
+ENVI
+
+Summary
+
+Final act
+Budget 2015/1651
+OJ L 255 30.09.2015, p. 0219 Summary
+
+2014/2116(DEC) - 01/07/2014 Court of Auditors: opinion, report
+PURPOSE: presentation of the EU Court of Auditors report on the annual accounts of the European Chemicals Agency (ECHA) for the year
+2013, together with the Agencys reply.
+CONTENT: in accordance with the tasks conferred on the Court of Auditors by the Treaty on the Functioning of the European Union, the Court
+presents to the European Parliament and to the Council, in the context of the discharge procedure, a Statement of Assurance as to the
+reliability of the annual accounts of each institution, body or agency of the EU, and the legality and regularity of the transactions underlying
+them, on the basis of an independent external audit.
+This audit concerned, amongst others, the annual accounts of the European Chemicals Agency (ECHA).
+Statement of assurance: pursuant to the provisions of Article 287 of the Treaty on the Functioning of the European Union (TFEU), the Court
+has audited:
+the annual accounts of the Agency, which comprise the financial statements and the reports on the implementation of the budget for
+the financial year ended 31 December 2013;
+the legality and regularity of the transactions underlying those accounts.
+Opinion on the reliability of the accounts: in the Courts opinion, the Agencys annual accounts present fairly, in all material respects, its
+financial position as at 31 December 2013 and the results of its operations and its cash flows for the year then ended, in accordance with the
+provisions of its Financial Regulation and the accounting rules adopted by the Commissions accounting officer.
+Opinion on the legality and regularity of the transactions underlying the accounts: in the Courts opinion, the transactions underlying the annual
+accounts for the year ended 31 December 2013 are legal and regular in all material respects.
+The report also makes a series of observations on the budgetary and financial management of the Agency, accompanied by the latters
+response. The main observations may be summarised as follows:
+The Courts observations:
+
+budgetary management: as in 2012, the level of committed appropriations carried over to 2014 remained high for operational
+expenses at EUR 10.6 million (46 %), this mainly resulted from the multiannual nature of planned IT development projects (EUR 6.3
+million), cost for translations ordered in 2013 but not received by the year end (EUR 1.3 million) and substance evaluations for which
+the regulatory deadline was February 2014 (EUR 1.7 million);
+financial management: in 2013, the ECHAs Executive Director confirmed reasonable assurance that resources have been used for
+their intended purpose and in accordance with the principles of sound financial management, and that the control procedures in place
+give the necessary guarantees concerning the legality and regularity of the underlying transactions. However, a reservation to this
+assurance was made since the mandate of the Agency does not include controls or inspections at national level and therefore no
+confirmation could be given that only registered or authorised substances and products, for which a fee has been paid to the Agency,
+were circulating on the European Union market.
+The Agencys reply:
+budgetary management: ECHA will continue to be attentive to avoid any non-justified carry-over operations;
+financial management: the Agency recalled that the Executive Director of the European Chemicals Agency included the following text
+in his Declaration of Assurance for 2013: as regards the implementation of the European Union legislation and the fee regulations
+under the Agencys remit, this assurance has to be limited to the field of competences of the Agency. Since the mandate of the
+European Chemicals Agency does not include controls or inspections at national level, it cannot be confirmed that only registered or
+authorised substances and products, for which a fee has been paid to the Agency, are circulating on the European Union market.
+Lastly, the Court of Auditors report contains a summary of the Agencys activities in 2013. This is focused on the following:
+Budget: EUR 107.7 million.
+Activities:
+number of dossiers processed: 14 839;
+number of confidentiality requests assessment completed: 662;
+number of enquiries received: 1 903;
+number of decisions issued on data-sharing disputes: 11;
+number of substances on which information made public (excluding confidential information): 10 561.
+The Agency also:
+carried out evaluations for compliance checks;
+classified and labelled 6.1 million for over 125 000 substances;
+provided advice and assistance, including to institutions and EU bodies;
+established scientific IT tools to enable IT solution for Member States for single point of access to dossiers and substance data;
+ensured communication operations (including through its website);
+ensured international cooperation.
+
+2014/2116(DEC) - 30/07/2014 Non-legislative basic document
+PURPOSE: presentation by the Commission of the consolidated annual accounts of the European Union for the financial year 2013, as part of
+the 2013 discharge procedure.
+Analysis of the accounts of the European Chemicals Agency (ECHA).
+CONTENT: this Commission document sets out the consolidated annual accounts of the European Union for the financial year 2013 as
+prepared on the basis of the information presented by the institutions, organisations and bodies of the EU, in accordance with Article 129 (2) of
+the Financial Regulation applicable to the EU's General Budget, including the European Chemicals Agency (ECHA).
+The document contains the figures on which the discharge procedure is based.
+Discharge procedure of the EU agencies: the EU Budget finances a wide range of policies and programmes throughout the EU. In accordance
+with the priorities set by the European Parliament and the Council in the multi-annual financial framework (MFF), the European Commission
+carries out specific programmes, activities and projects in the field with the technical support of some specialised agencies.
+The consolidated annual accounts of the EU provide information on the activities of the institutions, agencies and other bodies of the EU from
+a budgetary and accrual accounting perspective.
+The consolidated reports on the implementation of the general budget of the EU include the budget implementation of all Institutions. Agencies
+do not have a separate budget inside the EU budget; and they are partially financed by a Commission budget subsidy.
+Each agency is subject to its own discharge procedure.
+ECHA: in 2013, the tasks and budget of this agency were as follows:
+description of ECHA's tasks: ECHA, located in Helsinki, was set up by Regulation (EC) No 1907/2006 of the European Parliament and
+of the Council and its main tasks are to : (i) help businesses comply with the legislation in force; (ii) promote the safe use of chemicals;
+(iii) provide information on chemicals; (iv) assess hazardous substances;
+ECHA's budget for the 2013 financial year: the Agencys budget for 2013, as presented in the Commission document on the
+consolidated annual accounts of the European Union, gives the following figures:
+§
+
+Commitment appropriations :
+- committed : EUR 108 million;
+- paid : EUR 106 million;
+
+- carried-over : 0.
+§
+
+Payment appropriations :
+- committed : EUR 123 million;
+- paid : EUR 106 million;
+- carried-over : EUR 14 million.
+
+Please refer also to the final accounts of the ECHA.
+
+2014/2116(DEC) - 30/03/2015 Committee report tabled for plenary, single reading
+The Committee on Budgetary Control adopted the report by Ryszard CZARNECKI (ECR, PL) on discharge in respect of the implementation of
+the budget of the European Chemicals Agency (ECHA) for the financial year 2013.
+It called on the European Parliament to grant the Executive Director of the Agency discharge in respect of the implementation of the Agencys
+budget for the financial year 2013.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2013 are reliable, and that the underlying transactions are legal and regular, Members called on the Parliament to approve the closure of
+the Agencys accounts. They made, however, a number of recommendations that needed to be taken into account when the discharge is
+granted, in addition to the general recommendations that appear in the draft resolution on performance, financial management and control of
+EU agencies.
+Agencys financial statements: Members noted that the final budget of the Agency for the financial year 2013 was EUR 107 270 800. It
+received Union subsidies of EUR 7.632 from the Commission and the Instrument for Pre-Accession Assistance pre-financing
+amounting to EUR 103 524, as well as other contributions and funding from the Commission amounting to EUR 920 900.
+Commitments and carry-overs: Members noted that budget monitoring efforts during the financial year 2013 resulted in a budget
+implementation rate of 98.64% and that the payment appropriations execution rate was 86.18%. They noted with concern that the
+level of committed appropriations carried over to 2014 remained high at 46% mainly due to the multiannual nature of planned IT
+development projects.
+Members also made a series of observations on procurement procedures, recruitment and internal control.
+They also noted with concern that the Agencys Executive Director made a reservation regarding his declaration of assurance for the year
+2013, since the Agency's mandate does not include controls or inspections at national level and therefore, no confirmation could be given that
+only registered or authorised substances and products, for which a fee was paid to the Agency, were circulating on the Union market. Lastly,
+they noted the appointment of a small and medium-sized enterprises (SMEs) ambassador who advocates the interest of smaller enterprises
+externally and internally within the Agency. Members noted furthermore that the Agencys priority is to provide intensive support so that SMEs
+will be able to comply with the requirements as well as the introduction of the authorisation process as part of the REACH Regulation, in order
+to encourage the substitution of the most hazardous chemicals and innovation by swapping them for safer alternatives.
+
+2014/2116(DEC) - 29/04/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 557 votes to 127, with 5 abstentions, a decision to grant discharge to the Executive Director of the
+European Chemicals Agency (ECHA) for the financial year 2013.
+The vote on the discharge decision approved the closure of the accounts (in accordance with Annex VI, Article 5(1) of the Rules of Procedure
+of the European Parliament).
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2013 are reliable, and that the underlying transactions are legal and regular, Parliament adopted by 577 votes to 105, with 7 abstentions,
+a resolution containing a number of recommendations that form an integral part of the discharge decision and as well as the general
+recommendations that appear in the resolution on performance, financial management and control of EU agencies:
+Agencys financial statements: Parliament noted that the final budget of the Agency for the financial year 2013 was EUR 107 270 800.
+It received Union subsidies of EUR 7.632 million from the Commission and the Instrument for Pre-Accession Assistance pre-financing
+amounting to EUR 103 524, as well as other contributions and funding from the Commission amounting to EUR 920 900.
+Commitments and carry-overs: Parliament noted that budget monitoring efforts during the financial year 2013 resulted in a budget
+implementation rate of 98.64% and that the payment appropriations execution rate was 86.18%. It noted with concern that the level of
+committed appropriations carried over to 2014 remained high at 46% mainly due to the multiannual nature of planned IT development
+projects.
+Parliament also made a series of observations on procurement procedures, recruitment and internal control.
+Furthermore, it noted with concern that the Agencys Executive Director made a reservation regarding his declaration of assurance for the year
+2013, since the Agency's mandate does not include controls or inspections at national level and therefore, no confirmation could be given that
+only registered or authorised substances and products, for which a fee was paid to the Agency, were circulating on the Union market.
+Parliament asked again that the Agency make clear in its internal and external communication that it receives funds from the general budget of
+the Union ("Union subsidy") instead of a "Commission" or "Community" subsidy.
+Implementation of REACH: Lastly, Parliament stated that the appointment of a small and medium-sized enterprises (SMEs) ambassador who
+advocates the interest of smaller enterprises externally and internally within the Agency. It noted furthermore that the Agencys priority is to
+provide intensive support so that SMEs will be able to comply with the requirements as well as the introduction of the authorisation process as
+
+part of the REACH Regulation, in order to encourage the substitution of the most hazardous chemicals and innovation by swapping them for
+safer alternatives.
+
+2014/2116(DEC) - 29/04/2015 Final act
+PURPOSE: to grant discharge to the European Chemicals Agency (ECHA) for the financial year 2013.
+NON LEGISLATIVE ACT: Decision (EU) 2015/1651 of the European Parliament on discharge in respect of the implementation of the budget of
+the European Chemicals Agency for the financial year 2013.
+CONTENT: with the present decision, the European Parliament grants discharge to the Executive Director of the European Chemicals Agency
+discharge in respect of the implementation of the Agency's budget for the financial year 2013.
+This decision is in line with the European Parliament's resolution adopted on 29 April 2015 and comprises a series of observations that form
+an integral part of the discharge decision (please refer to the summary of the opinion of 29 April 2015).
+Amongst Parliaments main observations, the latter called on the Agency to continuously review its internal processes regarding declarations of
+interests for its personnel and further improve its policies in order to ensure the independence and transparency in all of the Agency's work
+areas.
+
+

@@ -1,0 +1,445 @@
+Procedure file
+Basic information
+2013/0234(NLE)
+
+NLE - Non-legislative enactments
+
+Procedure completed
+
+ECSEL Joint Undertaking for the implementation of the Joint Technology
+Initiative on ?Electronic Components and Systems for European
+Leadership?
+Repealing Regulation (EC) No 74/2008 2007/0088(CNS)
+Repealing Regulation (EC) No 72/2008 2007/0122(CNS)
+Subject
+3.40.06 Electronics, electrotechnical industries, ICT, robotics
+3.50.20 Scientific and technological cooperation and agreements
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+PPE RÜBIG Paul
+
+10/10/2013
+
+Shadow rapporteur
+S&D DROUTSAS Dimitrios
+ALDE PANAYOTOV Vladko
+Todorov
+Verts/ALE TURMES Claude
+ECR TOŠENOVSKÝ Evžen
+Committee for opinion
+
+Rapporteur for opinion
+
+BUDG
+
+Budgets
+
+The committee decided not to
+give an opinion.
+
+CONT
+
+Budgetary Control
+
+S&D GEIER Jens
+
+Council of the European Union
+Commission DG
+European Commission
+
+Appointed
+
+14/10/2013
+
+Commissioner
+
+Communications Networks, Content and Technology KROES Neelie
+
+Key events
+10/07/2013
+
+Legislative proposal published
+
+10/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/09/2013
+
+Debate in Council
+
+23/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+31/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/04/2014
+
+Results of vote in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+06/05/2014
+
+Act adopted by Council after consultation
+of Parliament
+
+06/05/2014
+
+End of procedure in Parliament
+
+COM(2013)0501
+
+Summary
+
+A7-0074/2014
+
+Summary
+
+T7-0374/2014
+
+Summary
+
+07/06/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0234(NLE)
+
+Procedure type
+
+NLE - Non-legislative enactments
+
+Procedure subtype
+
+Consultation of Parliament
+Repealing Regulation (EC) No 74/2008 2007/0088(CNS)
+Repealing Regulation (EC) No 72/2008 2007/0122(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 187; Treaty on the Functioning of
+the EU TFEU 188 -a1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/13407
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0501
+
+10/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0255
+
+10/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0256
+
+10/07/2013
+
+EC
+
+Committee draft report
+
+PE523.014
+
+21/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.773
+
+06/12/2013
+
+EP
+
+PE521.741
+
+08/01/2014
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0074/2014
+
+31/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0374/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Follow-up document
+
+SWD(2017)0338
+
+06/10/2017
+
+EC
+
+Follow-up document
+
+SWD(2017)0339
+
+06/10/2017
+
+EC
+
+Committee opinion
+
+CONT
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/561
+OJ L 169 07.06.2014, p. 0152 Summary
+
+2013/0234(NLE) - 10/07/2013 Legislative proposal
+PURPOSE: the establishment of the Electronic Components and Systems for European Leadership (ECSEL) Joint Undertaking (JU).
+
+PROPOSED ACT: Council Regulation.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: in order to better align EU support for research and innovation with industrial goals and attract higher industrial investments
+in Europe, Horizon 2020 provides for the setting-up of public-private partnerships in key areas where research and innovation could contribute
+to Europes wider competitiveness goals and help tackle societal challenges. Micro- and nanoelectronics, and smart embedded components
+and systems are priority fields identified within the ICT theme in Horizon 2020.
+Europe is facing two main challenges in electronic components and systems, a sector that represents more than EUR 1 000 billion in turnover
+worldwide. One is to be in control of the key elements of the value chain, (i.e. design, manufacturing and integration in final products), that are
+essential to ensure the sustainability of value creation from electronics in Europe including the competitiveness of many other European
+industrial sectors (automotive, energy, health, web industry, etc.). The other is to bridge important gaps in the innovation chains in order to
+better transform research excellence into commercial successes. At the same time, Europe must cope with fierce global competition, declining
+market shares of its industry, high costs of research and innovation and fast-paced technological development.
+The ECSEL JU replaces the previous ENIAC and ARTEMIS JUs launched under the Seventh Framework Programme (2007-2013) which
+respectively aimed at creating a Europe-wide research and development programme in the fields of nanoelectronics and embedded systems
+with an incentive for industry, Member States and the European Union to align strategies and increase investments.
+The JUs demonstrated that they can successfully play the role of catalyst for ambitious projects increasing the engagement of the private
+sector champions in a framework in which national and European public authorities can support topics of high strategic value. In the period
+2008-2012, a total research, development and innovation investment of EUR 2.8 billion was realised by some 2 000 participants of which over
+500 are SMEs.
+IMPACT ASSESSMENT: the proposal is accompanied by a summary of the impact assessment.
+LEGAL BASIS: Articles 187 and 188 of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the new proposal for a public-private partnership (PPP) concerns a Joint Undertaking (JU) in the field of electronic components
+and systems. The ECSEL (Electronic Components and Systems for European Leadership) JU replaces the previous ENIAC and ARTEMIS
+JUs respectively in the fields of nanoelectronics and embedded computing systems launched under the Seventh Framework Programme.
+The proposal lays down the objectives, the legal status, the operating rules and the statutes for the period 2014-2024 (and financial
+programming up to 2020). The JUs headquarters would be in Brussels (Belgium).
+The main specific objectives of this new JU include the following:
+to contribute to the development of a strong and globally competitive electronics components and systems industry in the Union;
+to align strategies with Member States to attract private investment and contribute to sound public finances by avoiding unnecessary
+duplication and fragmentation of efforts;
+to maintain and grow semiconductor and smart system manufacturing capability in Europe;
+to secure a commanding position in design and systems engineering including embedded technologies;
+to provide access for all stakeholders to a world-class infrastructure for the design and manufacture of electronic components and
+embedded and smart systems;
+to build a dynamic ecosystem involving innovative small- and medium-sized enterprises (SMEs), strengthening existing clusters and
+nurturing the creation of new clusters in promising new areas.
+BUDGETARY IMPLICATION: the indicative EU contribution is of EUR 1 215 255 000 at current prices (EFTA included) over the total lifetime
+of the ECSEL JU (until 2024). This allocation would have to be committed before 21 December 2020, when the Horizon 2020 comes to an end
+and paid by 31 December 2024.
+
+2013/0234(NLE) - 31/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted, in the framework of a special legislative procedure (Parliament consultation), the
+report by Paul RÜBIG (EPP, AT) on the proposal for a Council regulation on the ECSEL Joint Undertaking.
+The committee approved the Commission proposal subject to the following amendments:
+Establishment of a Joint Undertaking: for the implementation of the Joint Technology Initiative on ECSEL, a Joint undertaking, ECSEL,
+(Electronic Components and Systems for European Leadership), should be established for a period from 1 January 2014 until 31 December
+2024. In order to take account of the duration of Horizon 2020, all calls for proposals should be launched by 31 December 2020.
+Objectives: the Joint Undertaking should: (i) ensure the availability of electronic components and systems for key markets and for addressing
+societal challenges by bridging the gap between research and industrial and commercial exploitation; (ii) apply a simplified operating model
+and simplification measures; (iii) promote the involvement of small and medium-sized enterprises (SMEs).
+Scope of work: Members introduced a new article which aims to clarify the scope of activities of the ECSEL Joint Undertaking, in particular
+with respect to the relevant Technology Readiness Levels (TRLs) covered by its research programme. The rules of participation also call for a
+greater consideration of the TRL-concept to stipulate funding levels, which is taken up in this article with a view to the funding rates used in
+indirect actions.
+Unions financial contribution: the maximum Union contribution, including contributions from member states of the European Free Trade
+Association (EFTA), to the ECSEL Joint Undertaking to cover administrative costs and operational costs should be EUR 1 154 492 250
+(compared to EUR 1 215 255 000 as proposed by the Commission).
+The Union's financial contribution should be conditional upon proof by the ECSEL Joint Undertaking that its multiannual work plan and the
+actions which it funds correspond to the research priorities laid down in the Horizon 2020 Framework Programme.
+
+Staff: in exceptional circumstances, the Governing Board could, by motivated decision, decide to temporarily suspend the delegation of the
+appointing authority powers to the Executive Director. In this case, the Governing Board should inform in writing the Commission and the
+European Parliament on such decisions of suspension within 5 working days, provide detailed reasons and specify the implementing rules of
+new or temporary provisions with regard to the management of the Joint Undertaking. The ECSEL Joint Undertaking should take appropriate
+administrative measures, inter alia, through training and prevention strategies, to avoid conflicts of interest.
+Evaluation: by 30 June 2017, the Commission should organise an independent interim evaluation of the ECSEL Joint Undertaking. The results
+of the independent interim evaluation of the ECSEL Joint Undertaking shall be taken into account in the interim evaluation of Horizon 2020. In
+order to respond to unforeseen situations or to new developments and needs the Commission may, following the interim evaluation of Horizon
+2020, within the annual budgetary procedure, review the budget of the ECSEL Joint Undertaking.
+The evaluation should pay specific attention to the impact on the accessibility of entities from Union Member States which are not members of
+the ESCEL Joint Undertaking to funding under the ECSEL Joint Undertaking.
+Discharge: Members proposed that the discharge for the implementation of the budget of the ECSEL Joint Undertaking should be given by the
+European Parliament, upon recommendation of the Council.
+Audits: the European Court of Auditors should regularly carry out audits not only of compliance but also of the performance of the Joint
+Undertaking's activities and partners on the basis of documents or on-the-spot checks.
+Anti-fraud measures: the amended text provides that the staff of the Joint Undertaking, the Executive Director and the members of the
+Governing Board should, without delay and without any question of their responsibility being called into question as a result, notify OLAF of
+any frauds which have come to their attention in the fulfilment of their duties or remit.
+
+2013/0234(NLE) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 631 votes to 42, with 4 abstentions, a legislative resolution on the proposal for a Council regulation on
+the ECSEL Joint Undertaking.
+Parliament approved the Commission proposal subject to the following amendments:
+Joint Undertaking: to implement the Joint Technology Initiative on Electronic Components and Systems for European Leadership, the ECSEL
+Joint Undertaking should be established for a period up to 31 December 2024. In order to take into account the duration of the Horizon 2020
+Framework Programme, calls for proposals under ECSEL Joint Undertaking should be launched at the latest by 31 December 2020. In duly
+justified cases calls for proposals may be launched until 31 December 2021.
+The ECSEL Joint Undertaking should provide continued support to the nanoelectronics and embedded computing systems research
+programmes by implementing the remaining actions initiated under the ENIAC and ARTEMIS Joint Undertakings.
+The ECSEL Joint Undertaking should seek to develop close interactions with the European Structural and Investment Funds (ESIF).
+Financial contributions: the maximum Union contribution, including contributions from member states of the European Free Trade Association
+(EFTA), to the ECSEL Joint Undertaking to cover administrative costs and operational costs should be EUR 1 184 874 000.
+The ECSEL Participating States shall make a financial contribution to the operational costs of the ECSEL Joint Undertaking to commensurate
+to the contribution of the Union. The amount of at least EUR 1 170 000 000 is envisaged. The private members should make or arrange for
+their constituent entities and affiliated entities to make contributions to the ECSEL Joint Undertaking of at least EUR 1 657 500 000.
+Openness and transparency: in order to facilitate participation, the calls for proposals launched by the ECSEL Joint Undertaking should also
+be published on the single portal for participants as well as through other Horizon 2020 electronic means of dissemination managed by the
+Commission. The ECSEL Joint Undertaking should operate in an open and transparent way providing all relevant information in a timely
+manner to its appropriate bodies as well as promoting its activities, including information and dissemination activities to the wider public.
+Discharge: in view of the specific nature and the current status of the Joint Undertakings, and in order to ensure continuity with the 7th
+Framework Programme, the Joint Undertakings should continue to be subject to a separate discharge.
+Simplification: for the purpose of simplification, administrative burdens should be reduced for all parties. Double audits and disproportionate
+documentation and reporting should be avoided.
+Participation rules: specific criteria regarding the eligibility of individual applicants to receive funding from ECSEL Participating States may be
+determined by the relevant funding authorities. Such criteria could cover, inter alia, the applicant type, including legal status and purpose,
+conditions of liability and viability, including financial soundness, and the fulfilment of fiscal and social obligations.
+Evaluation: by 30 June 2017, the Commission should carry out, with the assistance of independent experts, an interim evaluation of Joint
+Undertaking, and send a report to the European Parliament and to the Council by 31 December 2017. The results of the interim evaluation of
+the ECSEL Joint Undertaking shall be taken into account in the interim evaluation of Horizon 2020.
+
+2013/0234(NLE) - 06/05/2014 Final act
+PURPOSE : to strengthen industrial research and innovation across the Union by means of the implementation, by the ECSEL Joint
+Undertaking, of the Joint Technology Initiative on Electronic Components and Systems for European Leadership.
+NON-LEGISLATIVE ACT: Council Regulation (EU) n° 561/2014 establishing the ECSEL Joint Undertaking.
+CONTENT: the Framework Programme for Research and Innovation, Horizon 2020, supports public-private partnerships in research and
+innovation in order that the Union might tackle certain key challenges.
+This Regulation aims to establish a new Joint Undertaking (JU) for the implementation of the Joint Technology Initiative on Electronic
+
+Components and Systems for European Leadership for a period up to 31 December 2024.
+The ECSEL Joint Undertaking replaces the ENIAC and the ARTEMIS Joint Undertakings, established in the specific areas of nanoelectronics
+and embedded computing systems respectively and set up under the Seventh Framework Programme.
+The ECSEL JU is a body entrusted with the implementation of a public-private partnership. Its seat will be located in Brussels, Belgium.
+In order to take into account the duration of Horizon 2020, calls for proposals under the ECSEL Joint Undertaking must be launched at the
+latest by 31 December 2020 (in duly justified cases, by 31 December 2021). Calls for proposals will be published on the single portal for
+participants as well as through other Horizon 2020 electronic means of dissemination managed by the Commission.
+The rules for participation and dissemination of the Horizon 2020 programme will apply to the JU.
+Objectives of the JU: the ECSEL JU shall aim to:
+·
+
+contribute to the development of a strong and globally competitive electronics components and systems industry in the Union;
+
+·
+
+align strategies with Member States to attract private investment and contribute to the effectiveness of public support by avoiding an
+unnecessary duplication and fragmentation of efforts and by facilitating the participation of actors involved in research and
+innovation;
+
+·
+
+maintain and grow semiconductor and smart system manufacturing capability in Europe, including leadership in manufacturing
+equipment and materials processing;
+
+·
+
+secure a commanding position in design and systems engineering including embedded technologies;
+
+·
+
+provide access to a world-class infrastructure for the design and manufacture of electronic components and
+embedded/cyber-physical and smart systems; and
+
+·
+
+build a dynamic ecosystem involving Small and Medium-Sized Enterprises (SMEs), thereby strengthening existing clusters and
+nurturing the creation of new clusters in promising new areas.
+
+The ECSEL JU should seek to develop close interactions with the European Structural and Investment Funds (ESIF).
+Funding: the Union financial contribution to the ECSEL JU shall come from Horizon 2020 and be up to EUR 1 184 874 000. The ECSEL
+Participating States shall make a financial contribution to the operational costs of the ECSEL Joint Undertaking that is commensurate with the
+Unions financial contribution. The amount shall be at least EUR 1 170 000 000.
+The Commission may terminate, proportionally reduce or suspend the Unions financial contribution to the JU or trigger the winding-up
+procedure if members other than the Union, including their constituent entities and affiliated entities, do not provide contributions.
+The Regulation contains provisions that aim to ensure the protection of the EUs financial interests.
+The discharge for the implementation of the budget of the JU shall be given by the European Parliament, upon recommendation of the Council
+in accordance with the procedure provided for in the financial rules of the ECSEL JU.
+Evaluation: by 30 June 2017 the Commission shall carry out, with the assistance of independent experts, an interim evaluation of the JU. It
+shall send that report to the European Parliament and to the Council by 31 December 2017. The results of the interim evaluation shall be taken
+into account in the interim evaluation of Horizon 2020.
+The JUs mandate will end on 31 December 2024 and the JU will be wound up.
+ENTRY INTO FORCE: 27.06.2014.
+
+

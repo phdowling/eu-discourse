@@ -1,0 +1,549 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2014/0136(COD)
+
+Procedure completed
+
+Appliances burning gaseous fuels
+Repealing Directive 2009/142/EC 2007/0225(COD)
+Subject
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+3.40.06 Electronics, electrotechnical industries, ICT, robotics
+4.60.08 Safety of products and services, product liability
+
+Key players
+European Parliament
+
+Committee responsible
+IMCO
+
+Rapporteur
+
+Internal Market and Consumer Protection
+
+Appointed
+17/07/2014
+
+STIHLER Catherine
+Shadow rapporteur
+
+BUŞOI Cristian-Silviu
+
+DALTON Daniel
+
+CHARANZOVÁ Dita
+
+DURAND Pascal
+Former committee responsible
+IMCO
+
+Internal Market and Consumer Protection
+
+Committee for opinion
+
+Rapporteur for opinion
+
+INTA
+
+International Trade
+
+The committee decided not to
+give an opinion.
+
+ENVI
+
+Environment, Public Health and Food Safety
+
+The committee decided not to
+give an opinion.
+
+ITRE
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+Former committee for opinion
+INTA
+
+International Trade
+
+ENVI
+
+Environment, Public Health and Food Safety
+
+ITRE
+
+Industry, Research and Energy
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+European Economic and
+Social Committee
+
+Key events
+
+Commissioner
+BIEŃKOWSKA Elżbieta
+
+Appointed
+
+12/05/2014
+
+Legislative proposal published
+
+COM(2014)0258
+
+Summary
+
+03/07/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/12/2014
+
+Debate in Council
+
+23/04/2015
+
+Vote in committee, 1st reading/single
+reading
+
+23/04/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+30/04/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0147/2015
+
+Summary
+
+10/11/2015
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE610.793
+GEDA/A/(2015)010802
+
+19/01/2016
+
+Debate in Parliament
+
+20/01/2016
+
+Results of vote in Parliament
+
+20/01/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+12/02/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+12/02/2016
+
+End of procedure in Parliament
+
+09/03/2016
+
+Final act signed
+
+31/03/2016
+
+Final act published in Official Journal
+
+Summary
+
+T8-0013/2016
+
+Technical information
+Procedure reference
+
+2014/0136(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Repealing Directive 2009/142/EC 2007/0225(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+IMCO/8/00446
+
+Documentation gateway
+Legislative proposal
+
+COM(2014)0258
+
+12/05/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0150
+
+12/05/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0151
+
+12/05/2014
+
+EC
+
+CES3986/2014
+
+10/09/2014
+
+ESC
+
+Economic and Social Committee: opinion, report
+
+Summary
+
+Committee draft report
+
+PE544.262
+
+20/01/2015
+
+EP
+
+Amendments tabled in committee
+
+PE549.463
+
+04/03/2015
+
+EP
+
+A8-0147/2015
+
+30/04/2015
+
+EP
+
+GEDA/A/(2015)010802
+
+12/10/2015
+
+CSL
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0013/2016
+
+20/01/2016
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2016)191
+
+16/03/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+Coreper letter confirming interinstitutional
+agreement
+
+Summary
+
+Summary
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2016/426
+OJ L 081 31.03.2016, p. 0099 Summary
+Final legislative act with provisions for delegated acts
+
+2014/0136(COD) - 12/05/2014 Legislative proposal
+PURPOSE: to amend Directive 2009/142/EC to ensure that appliances burning gaseous fuels on the market fulfil the requirements providing
+for a high level of protection of health and safety of users and protection of domestic animals or property and for rational use of energy.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND : Directive 2009/142/EC setting out the conditions for the placing on the market and putting into service of appliance burning
+gaseous fuels is based on the New Approach principles regarding technical harmonisation and standards. It sets out only the essential
+requirements applying to appliances burning gaseous fuels, whereas technical details are adopted by the European Committee for
+Standardisation (CEN) and the European Committee for Electrotechnical Standardisation (Cenelec) in accordance with Regulation (EU) No
+1025/2012 on European Standardisation.
+Experience from the implementation of Directive 2009/142/EC has shown the need to modify some of its provisions in order to clarify and
+update them and ensure thus legal certainty as regards the definitions relating to its scope, the content of the Member States' communications
+of their gas types and supply pressures and certain essential requirements.The Commission proposes to replace Directive 2009/142/EC with a
+Regulation, so as to impose clear and detailed rules which do not give room for divergent transposition by Member States and ensure a
+uniform implementation throughout the Union.
+IMPACT ASSESSMENT: the option of modifying Directive 2009/142/EC was found to be the preferred option because: (i) it is considered
+more effective since it will be enforceable in law ; (ii) it does not entail significant costs for economic operators and notified bodies; (iii) no
+significant economic or social impacts could be identified.
+CONTENT: the proposed Regulation does not change the current scope of Directive 2009/142/EC. However, it modifies some of its provisions
+in order to clarify and update their content. The proposed Regulation is also aligned to the provisions of Decision No 768/2008/EC establishing
+a common framework for the marketing of products (NLF Decision).
+The proposal provides for :
+·
+
+the removal of the outdated temperature limit of 105°C from the definition of the scope;
+
+·
+
+the introduction of currently missing definitions for the sector specific terminology under Directive 2009/142/EC;
+
+·
+
+the introduction of a harmonised content and form of the communications of Member States on the types of gas and corresponding
+supply pressures used on their territory;
+
+·
+
+the clarification of the relationship between Directive 2009/142/EC and other EU harmonisation legislation, including Ecodesign
+implementing measures under Directive 2009/125/EC and other Union energy policy instruments;
+
+·
+
+the improvement of the readability of some of the provisions of Directive 2009/142/EC.
+
+The modification also includes the following points:
+Making available on the market of gas appliances and fittings, obligations of economic operators, CE marking, free movement: the proposal
+contains the typical provisions for product-related Union harmonisation legislation and sets out the obligations of the relevant economic
+
+operators (manufacturers, authorised representatives, importers and distributors), in accordance with the NLF Decision.
+The proposed Regulation keeps the existing provision according to which fittings do not bear the CE marking. However, in order to improve
+clarity, the certificate accompanying fittings under Directive 2009/142/EC has been qualified as Fitting conformity certificate, in order to better
+define its content and clarify its relationship with the EU declaration of conformity requirement under other possibly applicable Union
+harmonisation legislation.
+Notified bodies: in line with the NLF Decision, the proposal reinforces the notification criteria for notified bodies and introduces specific
+requirements for notifying authorities.
+Conformity assessment: the proposal keeps the conformity assessment procedures provided for under Directive 2009/142/EC. However, it
+updates the corresponding modules in line with the NLF Decision. In particular, it keeps the requirement for a notified body intervention in the
+design and production phase of all appliances and fittings.
+Furthermore, it keeps the current approach for the design phase, according to which the type examination of the product by the notified body
+takes the form of examination of the complete appliance or fitting. Therefore, in accordance with the NLF Decision, it provides only for the
+EU-type examination production type.
+ENTRY INRO FORCE: the proposed Regulation will become applicable two years after its entry into force to allow manufacturers, notified
+bodies, Member States and European Standardisation Bodies, time to adapt to the new requirements.
+A transitional provision is envisaged for the certificates issued by notified bodies under Directive 2009/142/EC so as to allow stocks to be
+absorbed and ensure a smooth transition to the new requirements.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2014/0136(COD) - 30/04/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on the Internal Market and Consumer Protection adopted a report drafted by Catherine STIHLER (S&D, UK) on the proposal
+for a regulation of the European Parliament and of the Council on appliances burning gaseous fuels.
+The committee recommended that the European Parliaments position adopted at first reading under the ordinary legislative procedure should
+amend the Commission proposal as follows:
+Scope of the proposal: this Regulation should apply to domestic and non-domestic appliances intended for a number of specified applications
+burning gaseous fuels and to fittings designed to be incorporated into such appliances.
+Members proposed several amendments in order to strengthen the text from a point of view of consumer safety.
+The provisions of this Regulation do not affect the Member States entitlement to lay down rules concerning commissioning or periodic
+inspections of appliances burning gaseous fuels, or other measures such as installer training or certification, in order to ensure their correct
+installation, use and maintenance, including precautionary safety measures. Those rules and measures are essential in preventing gas
+poisoning, including from carbon monoxide (CO), and the leakage of any substances harmful to health and safety.
+Availability on the market and putting into service: it is stated that appliances shall only be made available on the market and put into service if,
+when normally used, they comply with this Regulation.
+Fittings: Members considered that fittings should satisfy the essential requirements so as to fulfil correctly their intended purpose when
+incorporated into an appliance or assembled to constitute such an appliance. It is considered justified that fittings should also bear the CE
+marking. Exceptions should be provided for in cases where the size or nature of the appliance or fitting does not allow it.
+Given that the fitting should bear the CE marking, Members proposed deleting the obligation of manufacturers to issue a fitting conformity
+certificate.
+Alignment with the New Legislative Framework (NLF): the proposal seeks to align the Regulation to the provisions to the goods package
+adopted in 2008 and in particular to the Decision EC 768/2008 on a common framework for the marketing of products.
+After careful analysis of the proposal and a comprehensive comparison with the proposals of the ''Alignment Package'', Members offer several
+amendments aiming to improve the consistency of the text with the NLF:
+the appliances covered by this Regulation include those burning gaseous fuels (?appliances?) and fittings which are new to the Union
+market when they are placed on the market; that is to say they are either new appliances and fittings made by a manufacturer
+established in the Union or appliances and fittings, whether new or second-hand, imported from a third country; it should apply to all
+forms of supply across the Union, including distance selling;
+the address shall indicate a single point at which the manufacturer can be contacted. The contact details shall be in a language easily
+understood by appliance manufacturers and the market surveillance authorities;
+instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible;
+the EU declaration of conformity may be a dossier made up of relevant individual declarations of conformity; it shall be in a language
+which can be easily understood by appliance manufacturers and market surveillance authorities;
+in order to assist compliance with the essential requirements applicable to finished appliances, the EU declaration of conformity for a
+fitting shall state the characteristics of the fitting and it shall contain instructions on how the fitting should be incorporated into an
+appliance or assembled to constitute such an appliance;
+a copy of the EU declaration of conformity shall be supplied with the appliance or the fitting;
+the CE marking and the inscriptions referred to in Annex IV shall be affixed visibly, legibly and indelibly to the appliance and the fitting
+or to their data plate. Where that is not possible or not warranted on account of the nature of the appliance or the fitting, the CE
+marking shall be affixed to the packaging and to the instructions accompanying the appliance or the fitting;
+interested parties should have the right to appeal against the result of an assessment carried out by a notified body;
+a procedure should enable interested parties to be informed of measures intended to be taken with regard to appliances and fittings
+
+presenting a risk to the health or safety of persons or to domestic animals or property.
+Market surveillance: Members introduced a new Chapter on Union Market Surveillance, Control of appliances and fittings entering the Union
+market and Union Safeguard Procedure, aligned to Articles of Decision EC 768/2008.
+
+2014/0136(COD) - 20/01/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 629 votes to 63, with 16 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on appliances burning gaseous fuels.
+Parliament?s position, adopted at first reading under the ordinary legislative procedure, amended the Commission proposal as follows:
+Scope of the proposal: this Regulation should apply to domestic and non-domestic appliances intended for a number of specified applications
+and to fittings designed to be incorporated into such appliances
+Parliament proposed several amendments in order to strengthen the text from a point of view of consumer safety.
+The provisions of this Regulation do not affect the Member States? entitlement to lay down rules concerning commissioning or periodic
+inspections of appliances burning gaseous fuels, or other measures such as installer training or certification, in order to ensure their correct
+installation, use and maintenance, including precautionary safety measures. Those rules and measures are essential in preventing gas
+poisoning, including from carbon monoxide (CO), and the leakage of any substances harmful to health and safety.
+Moreover, this Regulation shall not affect the obligation upon Member States to adopt measures with respect to the promotion of the use of
+energy from renewable sources and to the energy efficiency of buildings.
+Availability on the market and putting into service: Parliament stated that appliances shall only be made available on the market and put into
+service if, when normally used, they comply with this Regulation.
+At trade fairs, exhibitions, demonstrations or similar events, Member States shall not prevent the showing of appliances or fittings which do not
+comply with this Regulation, provided that a visible sign clearly indicates that such appliances or fittings do not comply with this Regulation and
+that they are not for sale until they have been brought into conformity. During demonstrations, adequate safety measures shall be taken to
+ensure the protection of persons, domestic animals and property.
+Gas supply conditions: by 18 months after the entry into force of the Regulation, Member States shall communicate to the Commission and the
+other Member States the types of gas and corresponding supply pressures of gaseous fuels used on their territory . They shall communicate
+any changes thereof within six months after the announcement of the envisaged changes.
+Alignment with the New Legislative Framework (NLF): the proposal seeks to align the Regulation to the provisions to the goods package
+adopted in 2008 and in particular to the Decision EC 768/2008 on a common framework for the marketing of products.
+Members offer several amendments aiming to improve the consistency of the text with the NLF:
+this Regulation covers appliances and fittings which are new to the Union market when they are placed on the market; that is to say
+they are either new appliances and fittings made by a manufacturer established in the Union or appliances and fittings, whether new
+or second-hand, imported from a third country. It shall apply to all forms of supply, including distance selling;
+manufacturers shall indicate on the fitting their name, registered trade name or registered trade mark, and the postal address at which
+they can be contacted or, where that is not possible, on the packaging or in a document accompanying the fitting. The address shall
+indicate a single point at which the manufacturer can be contacted. The contact details shall be in a language easily understood by
+appliance manufacturers and the market surveillance authorities;
+instructions and safety information as well as any labelling, shall be clear, understandable and intelligible;
+manufacturers shall ensure that the fitting is accompanied by a copy of the EU declaration of conformity containing, inter alia,
+instructions for incorporation or assembly, adjustment, operation and maintenance in a language which can be easily understood by
+appliance manufacturers, as determined by the Member State concerned. Where a large number of fittings are delivered to a single
+user, the batch or consignment concerned may be accompanied by a single copy of the EU declaration of conformity;
+before placing an appliance on the market, importers shall ensure that the appropriate conformity assessment procedure has been
+carried out by the manufacturer and that the manufacturer has drawn up the technical documentation, that the fitting bears the CE
+marking and is accompanied by a copy of the EU declaration of conformity.
+EU declaration of conformity: the EU declaration of conformity for a fitting shall state the characteristics of the fitting and shall contain
+instructions on how the fitting should be incorporated into an appliance or assembled to constitute an appliance. The EU declaration of
+conformity shall be in a language which can be easily understood by appliance manufacturers and market surveillance authorities, as
+determined by the Member State concerned.
+CE marking: the CE marking shall be affixed visibly, legibly and indelibly to the appliance and the fitting or to their data plate as far as
+relevant. Where that is not possible or not warranted on account of the nature of the appliance or the fitting, it shall be affixed to the packaging
+and to the documents accompanying the appliance or the fitting. It shall be affixed before the appliance or the fitting is placed on the market.
+Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take
+appropriate action in the event of improper use of that marking.
+Market surveillance: in order to ensure legal certainty, Parliament proposed to clarify that rules on Union market surveillance and control of
+products entering the Union market provided for in Regulation (EC) No 765/2008 apply to appliances and fittings covered by this Regulation.
+Members also introduced provisions relating to the procedure at national level for dealing with appliances or fittings presenting a risk, Union
+safeguard procedures and compliant appliances or fittings which present a risk for the health and safety of persons.
+
+2014/0136(COD) - 09/03/2016 Final act
+
+PURPOSE: to update internal market rules applicable to gas appliances to ensure that appliances and their fittings respect requirements for a
+high level of protection of the health and safety of persons, domestic animals and property, as well as for sensible energy use.
+LEGISLATIVE ACT: Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and
+repealing Directive 2000/142/EC.
+CONTENT: the new Regulation revises the provisions of Directive 2009/142/EC. It covers appliances and fittings which are new to the Union
+market when they are placed on the market; that is to say, they are either new appliances and fittings made by a manufacturer established in
+the Union or appliances and fittings, whether new or second-hand, imported from a third country.
+Scope: the Regulation applies to domestic and non-domestic appliances intended for a number of specified applications and to fittings
+designed to be incorporated into such appliances. Typical appliances burning gaseous fuels include boilers, gas cookers/ovens/barbecues and
+patio heaters.
+Appliances specifically designed for use on aircrafts and railways or for research purposes for temporary use in laboratories are excluded from
+the scope.
+The Regulation does not prevent Member States from:
+laying down rules concerning commissioning or periodic inspections of appliances or other measures such as installer training or
+certification, in order to ensure the correct installation, use and maintenance of appliances, including precautionary safety measures;
+laying down requirements as they may deem necessary concerning installation aspects, space ventilation conditions and aspects
+relating to the safety of the building itself and its energy performance, provided that those requirements do not impose design
+requirements on appliances.
+adopting measures with respect to the promotion of the use of energy from renewable sources and to the energy efficiency of
+buildings, provided that such measures are compatible with the TFEU.
+Obligations of economic operators (manufacturers, importers, distributors): all economic operators intervening in the supply and distribution
+chain must take appropriate measures to ensure that they make available on the market only appliances which are in conformity with the
+Regulation. In particular, manufacturers must ensure that appliances have been designed and manufactured in accordance with the applicable
+essential health and safety requirements set out in Annex I. They must particularly:
+implement the conformity assessment procedures established by the Regulation;
+keep the technical documentation and the EU declaration of conformity for 10 years after the appliance has been placed on the
+market;
+carry out sample testing of appliances made available on the market, investigate, and, if necessary, keep a register of complaints, of
+non-conforming appliances and fittings and recalls of such appliances and fittings, and shall keep distributors informed of any such
+monitoring;
+ensure that their appliances and fittings bear a type, batch or serial number or other element allowing their identification;
+indicate on the appliance their name, registered trade name or registered trade mark, and the postal address at which they can be
+contacted or, where that is not possible, on the packaging or in a document accompanying the appliance;
+ensure that instructions and safety information, as well as any labelling, is clear, understandable, intelligible and legible;
+further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to
+demonstrate the conformity of the appliance with the Regulation, in a language which can be easily understood by that authority;
+immediately take the corrective measures necessary to bring the appliance into conformity, to withdraw it or recall it, if appropriate.
+For their part, importers must make sure that the appliances and fittings they place on the market comply with the requirements and do not
+present a risk. They must also make sure that conformity assessment procedures have been carried out and that the CE marking and
+documentation drawn up by manufacturers are available for inspection by the competent national authorities.
+CE marking: before the appliance is placed on the market, the CE marking shall be affixed visibly, legibly and indelibly to the appliance or to its
+data plate, or where that is not possible, it shall be affixed to the packaging and to the accompanying documents. The CE marking and the
+identification number may be followed by any other mark indicating a special risk or use. Member States shall take appropriate action in the
+event of improper use of that marking.
+Notifying authorities: the Regulation sets requirements for notifying authorities responsible for conformity assessment bodies. These bodies
+must apply the conformity assessment procedures without creating unnecessary burdens for economic operators. Interested parties have the
+right to appeal against the result of a conformity assessment carried out by a notified body.
+Market surveillance: in the context of aligning the legislation on subsystems and safety components with the new legislative framework for the
+marketing of products, and in order to ensure legal certainty, the rules on Union market surveillance and control of products entering the Union
+market provided for in Regulation (EC) No 765/2008 apply to appliances and equipment referred to in the Regulation.
+The new Regulation also contains provisions regarding procedures at national level for dealing with appliances or equipment presenting a risk,
+Union safeguard procedures, and compliant appliances which present a risk to health and safety.
+Transitional provisions: Member States shall not impede the making available on the market of products which are in conformity with Directive
+2009/9/EC and which were placed on the market before 21 April 2018.
+ENTRY INTO FORCE: 20.4.2016.
+APPLICATION: from 21.4.2018, with the exception of certain provisions that apply from 21.10.2016 or from 21.3.2018.
+DELEGATED ACTS: the Commission may adopt delegated acts in respect of in respect of the content of the Member States' communications
+on the gas supply conditions on their territory. The power to adopt delegated acts shall be conferred on the Commission for a period of 5 years
+(which may be tacitly extended) from 21 April 2018. The European Parliament or the Council may raise objections to a delegated act within
+two months from the date of notification (which may be extended by two months). If the European Parliament or the Commission raise
+objections, the delegated act will not enter into force.
+
+

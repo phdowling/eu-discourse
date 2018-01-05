@@ -1,0 +1,449 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2013/0221(COD)
+
+Procedure completed
+
+Making available on the market of pressure equipment. Recast
+Repealing Directive 97/23/EC 1993/0462(COD)
+Subject
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+3.40.08 Mechanical engineering, machine-tool industry
+
+Key players
+European Parliament
+
+Committee responsible
+IMCO
+
+Internal Market and Consumer Protection
+
+Rapporteur
+
+Appointed
+
+PPE ROITHOVÁ Zuzana
+
+09/07/2013
+
+Shadow rapporteur
+S&D WESTPHAL Kerstin
+ALDE MANDERS Toine
+ECR FOX Ashley
+EFD SALVINI Matteo
+Committee for opinion
+
+Rapporteur for opinion
+
+ITRE
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+EFD SPERONI Francesco
+Enrico
+
+Council of the European Union
+Commission DG
+European Commission
+
+Appointed
+
+02/12/2013
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs TAJANI Antonio
+
+European Economic and
+Social Committee
+
+Key events
+28/06/2013
+
+Legislative proposal published
+
+04/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+07/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/04/2014
+
+Results of vote in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+13/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/05/2014
+
+Final act signed
+
+COM(2013)0471
+
+Summary
+
+A7-0008/2014
+
+Summary
+
+T7-0390/2014
+
+Summary
+
+15/05/2014
+
+End of procedure in Parliament
+
+27/06/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0221(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Recast
+
+Legislative instrument
+
+Directive
+Repealing Directive 97/23/EC 1993/0462(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+IMCO/7/13231
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0471
+
+28/06/2013
+
+EC
+
+PE519.690
+
+11/10/2013
+
+EP
+
+Economic and Social Committee: opinion, report
+
+CES5475/2013
+
+16/10/2013
+
+ESC
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0008/2014
+
+07/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0390/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)471
+
+09/07/2014
+
+Committee draft report
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2014/68
+OJ L 189 27.06.2014, p. 0164 Summary
+Corrigendum to final act 32014L0068R(04)
+OJ L 157 23.06.2015, p. 0112 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0221(COD) - 28/06/2013 Legislative proposal
+PURPOSE: to recast Directive 97/23/EC of the European Parliament and of the Council on the approximation of the laws of the Member
+States concerning pressure equipment.
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+
+equal footing with the Council.
+BACKGROUND: Directive 97/23/EC is an example of that Union harmonisation legislation, ensuring the free movement of pressure
+equipment. It sets out essential safety requirements that pressure equipment and assemblies must comply with in order to be made available
+on the EU market.
+(1) Experience with the enforcement of the legislation has shown that measures taken at national level have led to divergent approaches and
+to a different treatment of economic operators inside the EU, which undermines the objective of this directive.
+To remedy these horizontal shortcomings in Union harmonisation legislation observed across several industrial sectors, the New Legislative
+Framework was adopted in 2008 as part of the goods package. The New Legislative Framework (NLF) consists of two complementary
+instruments, Regulation (EC) No 765/2008 on accreditation and market surveillance and Decision No 768/2008/EC establishing a common
+framework for the marketing of products (NLF Decision).
+In view of ensuring consistency across Union harmonisation legislation for industrial products, it is necessary to align Directive 97/23/EC to the
+provisions of the NLF Decision. The Commission has already proposed the alignment of nine other Directives to the NLF Decision within an
+NLF implementation package adopted on 21 November 2011.
+(2) Directive 97/23/EC provides for a classification of pressure equipment in categories, according to the ascending level of risk due to
+pressure. This includes the classification of the fluid contained in the pressure equipment as dangerous or not, according to Council Directive
+67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of
+dangerous substances.
+On 1 June 2015 Directive, 67/548/EEC is to be repealed and replaced by Regulation (EC) No 1272/2008 of the European Parliament and of
+the Council on classification, labelling and packaging of substances and mixtures, which implements in the Union the Globally Harmonised
+System of Classification and Labelling of Chemicals that has been adopted at international level, within the United Nations (UN) structure.
+Regulation (EC) No 1272/2008 introduces new hazard classes and categories only partially corresponding to those provided for by Directive
+67/548/EEC. Directive 97/23/EC should therefore be aligned to Regulation (EC) No 1272/2008 while maintaining the existing levels of
+protection of that Directive.
+IMPACT ASSESSMENT:
+Alignment to the New Legislative Framework Decision: three options were examined and compared:
+Option 1 - no changes to the current situation;
+Option 2 - alignment to the NLF Decision by non-legislative measures;
+Option 3 - alignment to the NLF Decision by legislative measures. This option consists in integrating the provisions of the NLF
+Decision into Directive 97/23/EC. Option 3 was found to be the preferred option.
+Alignment to the CLP Regulation: the impact assessment study concluded that the impact of the proposed alignment would be limited and in
+particular that the overall economic impact will be low.
+Based on the number of substances that would be subject to a different classification and the proportion of manufacturers that would be
+affected, the impact assessment study estimates the overall costs of aligning Directive 97/23/EC to the CLP Regulation to be of the order of
+EUR 8.5 million per year. The cost is due to the changes in the alignment for the health hazard classes.
+However, looking at the current compliance costs, and according to the impact assessment study, the total average cost of the conformity
+assessment for the pressure equipment covered by Directive 97/23/EC is estimated at EUR 236.3 million per year. Therefore, the incremental
+cost due to the alignment of Directive 97/23/EC to the CLP Regulation is low compared to the total cost for conformity assessment. However,
+the implementation of the CLP Regulation in the Union is mandatory and the cost cannot be avoided.
+LEGAL BASIS: Article 114 of the Treaty on the Functioning of the European Union.
+CONTENT: this proposal intends to align Directive 97/23/EC on pressure equipment to:
+the goods package adopted in 2008 and in particular to Decision No 768/2008/EC establishing a common framework for the marketing of
+products;
+Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and
+mixtures.
+The changes made to the provisions of Directive 97/23/EC concern: the definitions, the obligations of economic operators, the presumption of
+conformity provided by harmonised standards, the declaration of conformity, CE marking, conformity assessment bodies, the safeguard clause
+procedure, the conformity assessment procedures and the classification of the fluids.
+The proposal includes:
+measures to address the problem of non-compliance by clarifying the obligations of economic operators and requiring enhanced
+traceability requirements;
+measures intended to ensure the quality of work done by conformity assessment bodies by reinforcing the notification requirements,
+revised notification process, specifying requirements for notifying authorities and more stringent information obligations;
+measures intended to ensure greater consistency amongst Directives by aligning commonly used definitions and terminology and
+aligning the conformity assessment procedures.
+BUDGETARY IMPLICATION: the proposal has no implication for the EU budget.
+DELEGATED ACTS: this proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union (TFEU).
+
+2013/0221(COD) - 07/01/2014 Committee report tabled for plenary, 1st reading/single reading
+
+The Committee on the Internal Market and Consumer Protection adopted the report by Zuzana ROITHOVÁ (EPP, CZ) on the proposal for a
+directive of the European Parliament and of the Council on the harmonisation of the laws of the Member States relating to making available on
+the market of pressure equipment (recast).
+The committee recommended that Parliaments position in first reading following the ordinary legislative procedure should amend the
+Commission proposal.
+It should be recalled that the commission presented this recast of Directive 97/23/EC on the approximation of the laws of the Member States
+concerning pressure equipment in June 2013 in the framework of the implementation of the New Legislative Framework (NLF) adopted in
+2008 (the Goods Package).
+This Directive was separated from the alignment package presented in November 2011 because, unlike the other 9 Directives, this recast also
+contained an alignment with another EU legislative act, namely Regulation (EC) No 1272/2008 (CLP Regulation) on classification, labelling
+and packaging of substances and mixtures.
+The committee supported the Commissions general intention of a simple alignment and therefore limited its amendments to the proposal to
+changes reflecting the agreement obtained between Council and Parliament on the nine other Directives and which had been omitted in the
+proposal.
+Scope: the Directive covered pressure equipment which is new to the Union market when it was placed on the market; that is to say it was
+either new pressure equipment made by a manufacturer established in the Union or pressure equipment, whether new or second-hand,
+imported from a third country.
+The Directive should apply to all forms of supply, including distance selling.
+Economic operators: the latter should be responsible for the compliance of pressure equipment with the requirements of the Directive, so as to
+ensure a high level of protection of public interests, such as the health and safety of persons, and the protection of domestic animals and of
+property.
+Manufacturers should indicate, on the pressure equipment, their name, registered trade name or registered trademark and the postal address
+at which they can be contacted or, where that is not possible, on their packaging or in a document accompanying the equipment. The
+address should indicate a single point at which the manufacturer can be contacted. The contact details should be in a language easily
+understood by consumers, other users and market surveillance authorities.
+Every importer should indicate on the pressure equipment his name, registered trade name or registered trade mark and the postal address at
+which he can be contacted.
+Lightening the administrative burden: in order to reduce the administrative burden on economic operators, that single EU declaration of
+conformity may be a dossier made up of relevant individual declarations of conformity.
+CE mark: Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall
+take appropriate action in the event of improper use of that marking.
+Reasonable transitional period: Members proposed clarification related to the legal situation for products which had been legally placed on the
+market in compliance with the current Directive before the new Directive applied, but which were still in stock. These products might still be
+made available on the market after the date of application of the new Directive.
+
+2013/0221(COD) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 608 votes to 16, against 10 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council on the harmonisation of the laws of the Member States relating to making available on the market of
+pressure equipment (recast).
+The committee recommended that Parliaments position in first reading following the ordinary legislative procedure should amend the
+Commission proposal.
+It should be recalled that the commission presented this recast of Directive 97/23/EC on the approximation of the laws of the Member States
+concerning pressure equipment in June 2013 in the framework of the implementation of the New Legislative Framework (NLF) adopted in
+2008 (the Goods Package).
+This Directive was separated from the alignment package presented in November 2011 because, unlike the other 9 Directives, this recast also
+contained an alignment with another EU legislative act, namely Regulation (EC) No 1272/2008 (CLP Regulation) on classification, labelling
+and packaging of substances and mixtures.
+The committee supported the Commissions general intention of a simple alignment and therefore limited its amendments to the proposal to
+changes reflecting the agreement obtained between Council and Parliament on the nine other Directives and which had been omitted in the
+proposal.
+Scope: the Directive covered pressure equipment which is new to the Union market when it was placed on the market; that is to say it was
+either new pressure equipment made by a manufacturer established in the Union or pressure equipment, whether new or second-hand,
+imported from a third country.
+The Directive should apply to all forms of supply, including distance selling.
+Economic operators: the latter should be responsible for the compliance of pressure equipment with the requirements of the Directive, so as to
+ensure a high level of protection of public interests, such as the health and safety of persons, and the protection of domestic animals and of
+property.
+Manufacturers should indicate, on the pressure equipment, their name, registered trade name or registered trademark and the postal address
+
+at which they can be contacted or, where that is not possible, on their packaging or in a document accompanying the equipment. The
+address should indicate a single point at which the manufacturer can be contacted. The contact details should be in a language easily
+understood by consumers, other users and market surveillance authorities.
+Every importer should indicate on the pressure equipment his name, registered trade name or registered trade mark and the postal address at
+which he can be contacted.
+Lightening the administrative burden: in order to reduce the administrative burden on economic operators, that single EU declaration of
+conformity may be a dossier made up of relevant individual declarations of conformity.
+CE marking: this shall be affixed visibly, legibly and indelibly to each item of pressure equipment or its dataplate. Member States shall build
+upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event
+of improper use of that marking.
+Reasonable transitional period: Parliament and the Council clarified the legal situation of products which have been placed legally on the
+market in conformity with the Directive in force, i.a. before the new Directive applies, but which are still in stock in the distribution chain.
+Market surveillance and control of pressure equipment and assemblies entering the Union market: a procedure for dealing with pressure
+equipment or assemblies presenting a risk at national level has been introduced as well as a Union safeguard measure.
+In case of formal non-compliance of equipment, Member States shall require the relevant economic operator to put an end to the
+non-compliance concerned. Where the non-compliance persists, the Member State concerned shall take all appropriate measures to restrict or
+prohibit the equipment or assembly being made available on the market or ensure that it is recalled or withdrawn from the market.
+The Commission should adopt immediately applicable implementing acts where, in duly justified cases relating to compliant pressure
+equipment or assemblies which present a risk to the health or safety of persons, to domestic animals or to property, imperative grounds of
+urgency so require.
+In order to take into account emerging very serious safety reasons, the power to adopt acts should be delegated to the Commission in respect
+of amendments to classification of pressure equipment or assemblies.
+Lastly, when matters relating to this Directive, other than its implementation or infringements, are being examined, i.e. in a Commission expert
+group, the European Parliament should in line with existing practice receive full information and documentation and, where appropriate, an
+invitation to attend such meetings.
+
+2013/0221(COD) - 15/05/2014 Final act
+PURPOSE: to recast Directive 97/23/EC of the European Parliament and of the Council on the approximation of the laws of the Member
+States concerning pressure equipment.
+LEGISLATIVE ACT: Directive 2014/68/EU of the European Parliament and of the Council on the harmonisation of the laws of the Member
+States relating to the making available on the market of pressure equipment.
+CONTENT: Directive 97/23/EC is an example of Union harmonisation legislation, which ensures the free movement of pressure equipment. It
+sets out essential safety requirements that pressure equipment and assemblies must comply with in order to be made available on the EU
+market.
+In order to remedy the shortcomings of the current legislation, this Directive aims to align Directive 97/23/ EC: i) on the new legislative
+framework comprising of Council Regulation (EC) No 765/2008 on accreditation and market surveillance and Decision No 768/2008/EC on a
+common framework for the marketing of products and ii) to Regulation (EC) No 1272/2008 of the European Parliament and of the Council on
+classification, labelling and packaging of substances and mixtures.
+The Directive shall apply to the design, manufacture and conformity assessment of pressure equipment (eg, boilers, pressure cookers, fire
+extinguishers, heat exchangers, steam generators, process heating) with a maximum allowable pressure PS greater than 0.5 bar.
+This Directive covers pressure equipment and assemblies which are new to the Union market when they are placed on the market; that is to
+say they are either new pressure equipment or assemblies made by a manufacturer established in the Union or pressure equipment or
+assemblies, whether new or second-hand, imported from a third country.
+The changes introduced by this Directive relate to the definitions, obligations of economic operators (including the EU declaration of
+conformity), the presumption of conformity, the conformity assessment procedures, Union safeguard procedure, the classification of pressure
+equipment, comitology and delegated acts.
+Economic operators should be responsible for the compliance of pressure equipment and assemblies with the requirements of this Directive, in
+relation to their respective roles in the supply chain, so as to ensure a high level of protection of public interests, such as health and safety of
+persons, and the protection of domestic animals and of property, and to guarantee fair competition on the Union market.
+Manufacturers should indicate, on the pressure equipment, their name, registered trade name or registered trademark and the postal address
+at which they can be contacted or, where that is not possible, on their packaging or in a document accompanying the equipment. The address
+should indicate a single point at which the manufacturer can be contacted. The contact details should be in a language easily understood by
+consumers, other users and market surveillance authorities. Every importer should indicate on the pressure equipment or assembly his name,
+registered trade name or registered trade mark and the postal address at which he can be contacted.
+Non-compliance: Member States shall require the relevant economic operator to put an end to the non-compliance concerned. Where the
+non-compliance persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the equipment or assembly
+being made available on the market or ensure that it is recalled or withdrawn from the market.
+ENTRY INTO FORCE: 17.07.2014.
+TRANSPOSITION: 28.02.2015 and 18.07.2014 depending on the provisions. The Directive shall apply from 01.06.2015 and from 19.07.2015
+
+depending on the provisions.
+DELEGATED ACTS: the Commission shall be empowered to adopt delegated acts in order to take into account emerging serious safety
+reasons. The power to adopt delegated acts shall be conferred on the Commission for a period of five years from 1 June 2015. The European
+Parliament or the Council may raise objections to a delegated act within a period of two months from the date of notification (this may be
+extended by two months). If the European Parliament or Council express objections, the delegated act will not enter into force.
+
+2013/0221(COD) - 15/05/2014 Corrigendum to final act
+Corrigendum to Directive 2014/68/EU of the European Parliament and of the Council of 15 May 2014 on the harmonisation of the laws of the
+Member States relating to the making available on the market of pressure equipment ((Official Journal of the European Union L 189 of 27 June
+2014)
+Article 14(7) (Conformity assessment procedures):
+instead of: 7. By way of derogation from paragraphs 1 and 2 of this Article, the competent authorities may, where justified in respect
+of which the procedures referred to in paragraphs 1 and 2 of this Article have not been applied and the use of which is in the interests
+of experimentation.
+read:7. By way of derogation from paragraphs 1 to 6 of this Article, the competent authorities may, where justified in respect of which
+the procedures referred to in paragraphs 1 to 6 of this Article have not been applied and the use of which is in the interests of
+experimentation;
+Article 48(2) (Transitional provisions):
+instead of: 2. Member States shall not impede the making available on the market and/or the putting into service of pressure
+equipment or assemblies covered by Directive 97/23/EC which are in conformity with that Directive and which were placed on the
+market before 1 June 2015.
+read: 2. Member States shall not impede the making available on the market and/or the putting into service of pressure equipment or
+assemblies covered by Directive 97/23/EC which are in conformity with that Directive and which were placed on the market before 19
+July 2016.
+
+

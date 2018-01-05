@@ -1,0 +1,311 @@
+Procedure file
+Basic information
+2016/0374(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Awaiting final decision
+
+Value added tax (VAT): rates applied to books, newspapers and periodicals
+Amending Directive 2006/112/EC 2004/0079(CNS)
+Subject
+2.70.02 Indirect taxation, VAT, excise duties
+4.45.08 Cultural and artistic activities, books and reading, arts
+
+Key players
+Committee responsible
+
+European Parliament
+
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+08/12/2016
+
+VANDENKENDELAERE Tom
+Shadow rapporteur
+
+DELVAUX Mady
+
+LUCKE Bernd
+
+VAN NIEUWENHUIZEN
+Cora
+
+LÓPEZ BERMEJO
+Paloma
+
+SCOTT CATO Molly
+KAPPEL Barbara
+Committee for opinion
+IMCO
+
+Internal Market and Consumer Protection
+
+CULT
+
+Culture and Education
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+15/02/2017
+ZDROJEWSKI Bogdan
+Andrzej
+
+JURI
+
+Legal Affairs
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+
+Key events
+01/12/2016
+
+Legislative proposal published
+
+16/01/2017
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+21/03/2017
+
+Debate in Council
+
+03/05/2017
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0758
+
+Summary
+
+09/05/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+01/06/2017
+
+Results of vote in Parliament
+
+01/06/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+16/06/2017
+
+Debate in Council
+
+A8-0189/2017
+
+Summary
+
+T8-0233/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0374(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2006/112/EC 2004/0079(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 113
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Awaiting final decision
+
+Committee dossier
+
+ECON/8/08651
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0758
+
+01/12/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0392
+
+01/12/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0393
+
+01/12/2016
+
+EC
+
+Committee draft report
+
+PE599.762
+
+07/03/2017
+
+EP
+
+Amendments tabled in committee
+
+PE602.780
+
+05/04/2017
+
+EP
+
+PE601.090
+
+26/04/2017
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0189/2017
+
+09/05/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0233/2017
+
+01/06/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)494
+
+19/07/2017
+
+Committee opinion
+
+CULT
+
+Summary
+
+2016/0374(CNS) - 01/12/2016 Legislative proposal
+PURPOSE: to authorise the Member States to reduce the rates of value added tax applied to books, newspapers and periodicals.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: Council Directive 2006/112/EC provides that Member States may apply reduced rates of value added tax (VAT) to
+publications on any means of physical support. However, a reduced VAT rate cannot be applied to electronically supplied publications, which
+have to be taxed at the standard VAT rate. In line with the Commission's Digital Single Market Strategy and in order to keep abreast of
+technological progress in a digital economy, Member States should be enabled to align the VAT rates for electronically supplied publications
+with lower VAT rates for publications on any means of physical support (minimum 15%).
+In the Action Plan on VAT, the current rules on VAT rates do not fully take into account technological and economic developments with regard
+
+to e-books and electronic newspapers. It outlined that electronically supplied publications should be able to benefit from the same preferential
+VAT rate treatment as publications on any means of physical support.
+Modernising VAT for the digital economy is also a key objective of the Digital Single Market Strategy.
+IMPACT ASSESSMENT: the preferred option is the one which would enable Member States to apply reduced VAT rates lower than the
+current minimum of 5% or to grant exemptions with deductibility of the VAT paid at the preceding stage to the supply of publications, both on
+any means of physical support or electronically supplied.
+It is estimated that this option could lead to a maximum decrease of VAT revenues for Member States by 2021 by EUR 4.7 billion annually, if
+all Member States decided to apply the current VAT rates for printed publications as well to e-publications.
+CONTENT: the Commission is proposing to amend the VAT Directive in order to grant all Member States, the possibility to apply the same
+VAT rates to electronically supplied publications as Member States currently apply to printed publications , which include reduced (minimum
+5%), super-reduced (less than 5%) and zero rates.
+The supply of pure music and video content would continue to be taxed at the standard VAT rate, as would publications that predominantly
+consist of music and video content. Member States would have the discretion to specify the term "predominantly" in their national VAT law.
+This solution would also allow Member States to continue to apply a reduced rate for audio books, audio newspapers and periodicals for
+people with sight loss.
+
+2016/0374(CNS) - 09/05/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, in line with the consultation procedure, the report by Tom
+VANDENKENDELAERE (EPP, BE) on the proposal for a Council directive amending Directive 2006/112/EC, as regards rates of value added
+tax applied to books, newspapers and periodicals.
+The committee approved the Commission proposal subject to the following amendments:
+Subject matter: Members stated that the Directive shall aim at simpler, more fraud-proof and business-friendly VAT systems across the
+Member States, as well as keeping pace with today's digital and mobile economy.
+Scope of the Directive: the Commission shall clarify whether the proposed Directive also applies to brochures, leaflets and similar printed
+matter, childrens picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts.
+Towards a better coordinated regime: Members noted that the flexibility granted to Member States in the context of the current proposal in no
+way prejudges the definitive VAT regime to be rolled out and shall not remove the need for a more coordinated, efficient and simpler system of
+reduced VAT rates with fewer exceptions.
+Follow-up: three years following the entry into force of the Directive, the Commission shall produce a report identifying the Member States that
+have adopted similar reduced or super-reduced VAT rates for books, newspapers and periodicals and their electronic equivalent, and evaluate
+the impact of those measures in terms of budgetary implications and development of the cultural sector.
+
+2016/0374(CNS) - 01/06/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 590 votes to 8, with 10 abstentions, in line with the consultation procedure, a legislative resolution on the
+proposal for a Council directive amending Directive 2006/112/EC, as regards rates of value added tax applied to books, newspapers and
+periodicals.
+As a reminder, the Commission proposal seeks to grant all Member States, the possibility to apply the same VAT rates to electronically
+supplied publications as Member States currently apply to printed publications.
+Parliament approved the Commission proposal subject to the following amendments:
+Subject matter: Members stated that the Directive shall aim at simpler, more fraud-proof and business-friendly VAT systems across the
+Member States, as well as keeping pace with today's digital and mobile economy. It shall:
+stimulate innovation, creation, investment and the production of new content, and facilitate digital learning, knowledge transfer and the
+access to, and promotion of, culture in the digital environment;
+promote reading and encourage investment in new content for publishers.
+Scope of the Directive: the Commission shall clarify whether the proposed Directive also applies to brochures, leaflets and similar printed
+matter, childrens picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts.
+Blind and visually impaired persons: Members suggested that adapted and audio electronic books, newspapers and periodicals are to be
+understood as not wholly or predominantly consisting of music or video content. Therefore, reduced VAT rates could also be applied to those
+formats in order to facilitate access to books, newspapers and periodicals for persons who are blind, visually impaired or otherwise
+print-disabled.
+Towards a better coordinated regime: Members noted that the flexibility granted to Member States in the context of the current proposal in no
+way prejudges the definitive VAT regime to be rolled out and shall not remove the need for a more coordinated, efficient and simpler system of
+reduced VAT rates with fewer exceptions.
+Follow-up: three years following the entry into force of the Directive, the Commission shall produce a report identifying the Member States that
+have adopted similar reduced or super-reduced VAT rates for books, newspapers and periodicals and their electronic equivalent, and evaluate
+the impact of those measures in terms of budgetary implications and development of the cultural sector.
+The amended text refers to a resolution of 13 October 2011 in which the European Parliament recalled that one of the key features of VAT is
+
+the principle of neutrality and, for that reason, it argued that all books, newspapers and magazines, regardless of format, should be treated in
+exactly the same way.
+
+

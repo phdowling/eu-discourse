@@ -1,0 +1,479 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Decision
+
+2013/0064(COD)
+
+Procedure completed
+
+Framework for space surveillance and tracking (SST) support
+See also 2011/0368(COD)
+See also 2011/0392(COD)
+See also 2011/0402(CNS)
+Amended by 2016/0282A(COD)
+Subject
+3.40.05 Aeronautical industry, aerospace industry
+3.50.01.05 Research specific areas
+3.50.20 Scientific and technological cooperation and agreements
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+Verts/ALE ANDERSDOTTER 18/04/2013
+Amelia
+Shadow rapporteur
+PPE MAZEJ KUKOVIČ Zofija
+S&D PRODI Vittorio
+ALDE JOHANSSON Kent
+ECR KARIM Sajjad
+GUE/NGL FLASAROVÁ Věra
+
+Committee for opinion
+AFET
+BUDG
+
+ENVI
+
+Rapporteur for opinion
+
+Appointed
+
+Foreign Affairs
+
+PPE GAHLER Michael
+
+21/03/2013
+
+Budgets
+
+PPE CARVALHO Maria Da
+Graça
+
+10/06/2013
+
+Environment, Public Health and Food Safety
+
+The committee decided not to
+give an opinion.
+
+TRAN
+
+Transport and Tourism
+
+The committee decided not to
+give an opinion.
+
+REGI
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs TAJANI Antonio
+
+Key events
+28/02/2013
+
+Legislative proposal published
+
+14/03/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+30/05/2013
+
+Debate in Council
+
+16/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2013)0107
+
+Summary
+
+16/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+02/04/2014
+
+Results of vote in Parliament
+
+02/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+14/04/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+16/04/2014
+
+Final act signed
+
+16/04/2014
+
+End of procedure in Parliament
+
+27/05/2014
+
+Final act published in Official Journal
+
+A7-0030/2014
+
+Summary
+
+T7-0270/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0064(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Decision
+See also 2011/0368(COD)
+See also 2011/0392(COD)
+See also 2011/0402(CNS)
+Amended by 2016/0282A(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 189
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/12177
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0107
+
+28/02/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0054
+
+28/02/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0055
+
+28/02/2013
+
+EC
+
+CES3545/2013
+
+10/07/2013
+
+ESC
+
+PE521.718
+
+23/10/2013
+
+EP
+
+PE519.703
+
+15/11/2013
+
+EP
+
+PE523.078
+
+19/11/2013
+
+EP
+
+PE519.586
+
+03/12/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0030/2014
+
+16/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0270/2014
+
+02/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Economic and Social Committee: opinion,
+report
+Committee draft report
+Committee opinion
+
+BUDG
+
+Amendments tabled in committee
+Committee opinion
+
+AFET
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Decision 2014/541
+OJ L 158 27.05.2014, p. 0227 Summary
+
+2013/0064(COD) - 28/02/2013 Legislative proposal
+PURPOSE: to establish a space surveillance and tracking support programme for the period 2014 to 2020.
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: space-based applications and derived services as well as space research have become critical for the implementation of EU
+policies, such as environment, climate change, maritime policies, development, agriculture, security related policies.
+In Europe there are today limited capacities to monitor and survey satellites and space debris as well as re-entry of space objects into the
+Earth's atmosphere. Furthermore, there are no proper services to issue collision warnings for satellite operators.
+A space surveillance and tracking ('SST') support programme should therefore be established with the aim to support the setting up and
+operation of services consisting of monitoring and surveying space objects with a view to preventing damage to spacecraft resulting from
+collisions.
+In its Communication entitled "Towards a space strategy for the European Union that benefits its citizens", the Commission underlined that the
+shared competence in the field of space conferred upon the Union by the Treaty on the Functioning of the European Union (TFEU) goes hand
+in hand with a reinforced partnership with the Member States. The need for EU action in the domain has been supported by Member States in
+several Council Resolutions and Conclusions. In its resolution on a space strategy for the European Union adopted on 19 January 2012, the
+European Parliament shares this point of view.
+IMPACT ASSESSMENT: the proposal follows an extensive consultation with stakeholders and the public. It is accompanied by an impact
+assessment.
+During the consultation, Member States asked the EU to define the governance and data policy for a European SST service, to play an active
+role in the setting up of the service, and to make best use of existing sensors and expertise. The consultation also showed that the public
+opinion is aware of and supports the need to protect space infrastructure.
+LEGAL BASIS: Article 189(2) of the TFEU.
+CONTENT: the current proposal for a Decision concerns the establishment of a European service which will seek to prevent collisions
+between spacecraft or between spacecraft and debris and monitor uncontrolled re-entry of complete spacecraft or parts thereof. In technical
+terms this service is referred to as a European SST service.
+The proposal defines the objectives of the proposed action, namely, the provision of Space Surveillance and Tracking services, the scope of
+the services to be provided, the governance aspects, as well as the budgetary resources. The proposed Decision allows for the definition of a
+partnership, whereby Member States will contribute with their existing and future assets to the SST capability at European level and the Union
+will provide a legal framework and a financial contribution to the implementation of the actions defined. The legal framework defines the
+governance scheme and the data policy.
+Lastly, the proposed European SST services accommodate an essential objective of the space industrial policy of the EU (indentified in the
+Commission's Communication on Elements for an EU Space Industrial Policy to be released in 2013), namely to achieve European
+technological non-dependence in critical domains, and to maintain independent access to space.
+BUDGETARY IMPLICATION: the SST programme remains within the overall EU budget envelope proposed by the Commission for the next
+Multiannual Financial Framework.
+No funding requests beyond the MFF proposal are made.
+The indicative Union overall contribution to the implementation of the support programme is EUR 70 million over the period from 2014-2020 at
+current prices. However, this overall contribution depends on the outcome of the ongoing co-decision process on the MFF.
+
+2013/0064(COD) - 16/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Amelia ANDERSDOTTER (Greens/EFA, SE) on the proposal for a
+decision of the European Parliament and of the Council establishing a space surveillance and tracking support programme (SST).
+The committee recommended that the position of the European Parliament adopted in first reading following the ordinary legislative procedure
+
+should amend the Commission proposal as follows:
+Overall objectives: Members specified that the SST support programme should contribute to ensuring the long-term availability of European
+and national space infrastructure facilities and services essential for the safety and security of the economies, societies and citizens in Europe,
+by equipping the European Union with an autonomous space surveillance and tracking system.
+Specific objectives: the programme should contribute to the following specific objectives:
+·
+
+assessing and reducing the risks to in-orbit operations of European spacecraft in terms of collisions, enabling spacecraft operators to
+more efficiently plan and carry out mitigation measures;
+
+·
+
+reducing the risks relating to the launch of European spacecraft;
+
+·
+
+surveying uncontrolled re-entries of spacecraft or space debris into the Earth's atmosphere and providing more accurate and efficient
+early warnings with the aim of reducing the potential risks to the safety of Union citizens and mitigating potential damage to critical
+terrestrial infrastructure.
+
+Main actions: the report proposed to define the establishment of the networking of sensors, of the processing of data and of the SST services
+as main actions rather than objectives, from which specific actions will be developed by the Commission in its multiannual work programme.
+SST services: these must include a freely available and re-usable public information service on orbital elements of space objects orbiting the
+Earth.
+Commissions role: this should: (i) be responsible for the SST support programme, manage the funds allocated, while providing transparency
+and clarity regarding the different sources of funding; (ii) define the governance and the data policy for the European SST service; (iii) ensure,
+in addition, the necessary dialogue and coordination bringing together relevant actors such as European Defence Agency (EDA) and
+European Space Agency (ESA) in view of ensuring coherence between military and civilian space programmes.
+Use and exchange of SST data and information: Members stressed that efficient operations should be ensured and the use of the
+generated SST information should be maximised while preventing the unauthorised disclosure of SST data and information.
+SST data and information generated in the framework of the SST support programme should be made available, including to third countries,
+on a need-to-know basis, in accordance with the instructions and security rules of the originator of the SST information and of the owner of the
+space object concerned.
+Financing: the amount of Union funding allocated to the SST support programme for the period 2014-2020 will be EUR 70 million. Up to EUR
+26.5 million may also come from the Copernicus programme.
+Planning: in order to ensure proper planning of the programme, the Commission should have the power to adopt delegated acts in respect of
+the adoption of a multiannual work programme.
+Report: at the beginning of each year, the Commission should send a report to the European Parliament and to the Council. The report should
+include information on the participation to the SST support programme and the actions supported by the programme.
+
+2013/0064(COD) - 02/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 602 votes to 17, with 10 abstentions, a legislative resolution on the proposal for a decision of the
+European Parliament and of the Council establishing a space surveillance and tracking support programme (SST).
+Parliament adopted its position at first reading following the ordinary legislative procedure. The amendments adopted in plenary are the result
+of an agreement negotiated between the European Parliament and the Council. They amend the proposal as follows:
+Overall objective: Parliament and the Council agreed that the SST support programme should have as its general aim to contribute to ensuring
+the long-term availability of European and national space infrastructure facilities and services essential for the safety and security of the
+economies, societies and citizens in Europe.
+The specific objectives are as follows:
+assessing and reducing the risks to in-orbit operations of European spacecraft in terms of collisions, enabling spacecraft operators to
+more efficiently plan and carry out mitigation measures;
+reducing the risks relating to the launch of European spacecraft;
+surveying uncontrolled re-entries of spacecraft or space debris into the Earth's atmosphere and providing more accurate and efficient
+early warnings with the aim of reducing the potential risks to the safety of Union citizens and mitigating potential damage to critical
+terrestrial infrastructure;
+seeking to prevent the proliferation of space debris.
+Main actions: the SST support programme shall support the following actions which seek to establish an SST capacity at European level and
+with the appropriate level of European autonomy:
+the establishment and operation of a sensor function consisting of a network of Member State ground-based and/ or space-based
+sensors, including national sensors developed through ESA, to survey and track space objects and to produce a database thereof ;
+the establishment and operation of a processing function to process and analyse the SST data ?at national level to produce SST
+information and services for transmission to the SST service provision function.
+The SST support framework shall not cover the development of new SST sensors.
+SST services: the SST services shall be of a civilian nature. They shall comprise the following services: (i) the generation of collision
+avoidance alerts during the launch, early orbit, in-orbit operation and disposal phases of spacecraft missions; (ii) the
+
+characterisation of in-orbit fragmentations, break-ups or collisions; (iii) the risk assessment of the uncontrolled re-entry of space objects and
+space debris into the Earth's atmosphere and the generation of related information, including the estimation of the
+timeframe and likely location of possible impact.
+Commissions role: the Commission shall: (i) manage the SST support framework and ensure its implementation; (ii) monitor risks related
+to the SST support framework; (iii) ensure the update of SST user requirements as appropriate; (iv) define general guidelines for the
+governance of the SST support framework; and (v) facilitate the broadest possible participation of Member States.
+The Commission shall provide to the European Parliament and to the Council , in a timely manner, all relevant information on the
+implementation of the SST support framework, in particular to provide transparency and clarity regarding: (a) the indicative efforts and the
+different Union sources of funding; (b) participation in the SST support framework and the actions supported thereby; (c) the evolution of the
+networking of Member State SST assets and of SST service provision; and (d) the exchange and use of SST information.
+Participation of Member States: any Member State wishing to participate in the implementation of the actions shall submit an application to the
+Commission demonstrating compliance with a certain number of criteria:
+Member States which comply with the criteria shall designate a national entity to represent them. The designated national entities shall
+constitute a consortium.
+Responsibility for the operation of sensors, the processing of data and the implementation of data policy shall lie with the participating Member
+States. The assets of participating Member States shall remain fully under national control.
+The European Union Satellite Centre (SATCEN) may cooperate with the consortium by concluding the necessary implementing arrangements
+with the participating Member States.
+Monitoring and evaluation: no later than 1 July 2018, the Commission shall forward a report on the implementation of the SST support
+framework to the European Parliament and the Council. This report may be accompanied by proposals for amendments, where appropriate,
+including the possibility for a basic act within the meaning of the Regulation (EU, Euratom) No 966/2012 (on financial rules applicable to the
+EUs general budget) for SST.
+
+2013/0064(COD) - 16/04/2014 Final act
+PURPOSE: to establish a Framework for Space Surveillance and Tracking Support (SST).
+LEGISLATIVE ACT: Decision No 541/2014/EU of the European Parliament and of the Council establishing a Framework for Space
+Surveillance and Tracking Support.
+CONTENT: space debris has become a serious threat to the security, safety and sustainability of space activities. This Decision aims to
+establish an SST support framework with the aim of supporting the setting up and operation of services consisting of:
+·
+
+assessing and reducing the risks to in-orbit operations of European spacecraft relating to collisions and enabling spacecraft
+operators to plan and carry out mitigation measures more efficiently;
+
+·
+
+reducing the risks relating to the launch of European spacecraft;
+
+·
+
+surveying uncontrolled re-entries of spacecraft or space debris into the Earth's atmosphere and providing more accurate and efficient
+early warnings;
+
+·
+
+seeking to prevent the proliferation of space debris.
+
+The actions supported by the SST support framework, include the establishment and operation of a sensor function consisting of a network of
+Member State ground-based and/or space-based sensors, including national sensors developed through ESA, to survey and track space
+objects and to produce a database thereof.
+The SST support framework should promote the evolution of the networking of Member State SST assets for SST service provision. SST
+service provision should benefit all operators, public and private, of space-based infrastructures.
+The SST support framework shall compliment the actitivites carried out under programmes such as Horizon 2020, Copernicus and Galileo. It
+should contribute to ensuring the peaceful use and exploration of outer space.
+The operation of SST services should be based on a partnership between the Union and the Member States and use existing as well as future
+national expertise and assets, including those developed through ESA.
+Member States should retain ownership and control over their assets and should remain responsible for their operations, maintenance and
+renewal. The SST support framework should not provide financial support for the development of new SST sensors.
+The Commission and the Member States should promote and facilitate participation by the greatest number of Member States in the SST
+support framework, subject to compliance with participation criteria. All Member States which comply with the criteria shall designate a national
+entity to represent them. The designated national entities shall constitute a consortium and conclude an agreement laying down the rules and
+mechanisms for their cooperation in the implementation of the actions.
+The Commission shall monitor the implementation of the SST support framework. By 1 July 2018, the Commission shall forward a report
+concerning the achievement of the objectives of this Decision.
+ENTRY INTO FORCE: 16.06.2014.
+
+

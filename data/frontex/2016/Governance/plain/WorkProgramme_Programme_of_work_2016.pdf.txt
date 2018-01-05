@@ -1,0 +1,7614 @@
+Warsaw, 24 December 2015
+Reg. No. 7/2016
+
+Frontex`
+Single
+Programming
+Document
+2016 - 2019
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member States
+of the European Union
+
+www.frontex.europa.eu
+Plac Europejski 6, 00-844 Warsaw, Poland
+Tel. +48 22 205 95 00
+Fax +48 22 205 95 01
+
+Single Programming Document 2016 - 2019
+
+1. Contents
+INTRODUCTION
+
+4
+
+1.1.
+1.2.
+1.3.
+
+4
+5
+8
+
+1.4.
+
+Foreword
+List of Acronyms
+Mission Statement
+1.3.1.
+
+Mission .................................................................................................. 8
+
+1.3.2.
+
+Vision .................................................................................................... 8
+
+1.3.3.
+
+Values ................................................................................................... 8
+
+1.3.4.
+
+Mandate ................................................................................................ 9
+
+1.3.5.
+
+Tasks .................................................................................................... 9
+
+Strategic Direction
+
+SECTION I – GENERAL CONTEXT
+2.1. Influencing Factors
+
+10
+
+11
+11
+
+2.1.1. Legal Framework ......................................................................................... 11
+2.1.2. Political Framework ...................................................................................... 11
+2.1.3. Economical/Financial Framework ...................................................................... 11
+
+SECTION II – MULTI ANNUAL PROGRAMMING 2016 – 2019
+3.1. Multi Annual Objectives
+3.2. Strategic Action Areas
+
+13
+13
+14
+
+3.2.1. JOINT OPERATIONS (AND PILOT PROJECTS)........................................................... 14
+3.2.2. RISK ANALYSIS ............................................................................................. 15
+3.2.3. MANAGEMENT OF POOLED RESOURCES ................................................................ 15
+3.2.4. TRAINING .................................................................................................. 16
+3.2.5. RESEARCH AND DEVELOPMENT .......................................................................... 16
+3.2.6. EUROSUR................................................................................................... 16
+3.2.7. SITUATIONAL MONITORING .............................................................................. 16
+3.2.8.1 EXTERNAL RELATIONS .................................................................................. 17
+3.2.8.2 COMMUNICATION ........................................................................................ 17
+3.2.9. FUNDAMENTAL RIGHTS................................................................................... 17
+3.2.10. ADMINISTRATION ........................................................................................ 18
+3.2.11. ORGANISATIONAL DEVELOPMENT AND OVERHEADS ................................................. 18
+
+SECTION III – PROGRAMME OF WORK 2016
+4.1. Activity Based Budgeting and the Programme of Work
+4.2. Strategic Action Areas in the Programme of Work 2016
+
+19
+19
+20
+
+4.2.1. Joint Operations (and Pilot Projects) .................................................................. 20
+4.2.1. Joint Operations & Pilot Projects ...................................................................... 23
+4.2.2. Risk Analysis ............................................................................................... 28
+4.2.3. Management of Pooled Resources ...................................................................... 29
+4.2.4. Training .................................................................................................... 31
+4.2.5. Research and Development ............................................................................. 32
+4.2.6. Eurosur ..................................................................................................... 35
+4.2.7. Situation Monitoring...................................................................................... 36
+4.2.8.1. External Relations ..................................................................................... 36
+
+4.2.8.2. Communication ......................................................................................... 39
+4.2.9. Fundamental Rights ...................................................................................... 40
+4.2.10. Administration ........................................................................................... 41
+4.2.11. Organisational Development and Overheads ........................................................ 45
+
+SECTION IV – BUDGET 2016
+ANNEX I - Procurement Plan 2016
+ANNEX II – Training Portfolio 2016
+
+47
+50
+55
+
+3/79
+
+INTRODUCTION
+1.1. Foreword
+Frontex’ Strategy and Multi Annual Plan 2016 - 2019 (MAP 2015 - 2018) is the mid to long-term
+strategic business plan of the agency. In addition, the structure of the MAP 2016 – 2019 is brought
+in line with the joint statement of the European Parliament, the Council of the EU and the
+European Commission on decentralised agencies, adopted on 19 July 2012, forming Section II of
+the Single Programming Document 2016 – 2019.
+It shows how Frontex’ Mission Statement is translated into multi annual objectives and linked
+with strategic action areas.
+The MAP 2016 - 2019 also aims at outlining the Future long term strategy regarding the activities
+of the Agency1.
+The purpose of the MAP 2016 – 2019 is:
+-
+
+to serve as a reference for the development of the annual programmes of work;
+
+-
+
+to ensure transparency, efficiency and accountability regarding Frontex’ activities;
+
+-
+
+to provide the Management Board with a commonly agreed framework for its
+undertakings;
+
+-
+
+to enable the Executive Director to perform his duties within key objectives and the
+strategic action areas as established by the Management Board;
+
+The MAP 2016 – 2019 is not a static plan. It will be validated annually during the preparation
+phase for the annual programmes of work.
+
+1
+
+Art 20/2i Frontex’ Regulation (L 1168/2011, 25th October 2011)
+
+4/79
+
+1.2. List of Acronyms
+A/V
+ABB
+ABC
+ABM
+AOP
+AFIC
+API
+ARA
+
+Audio / Video
+Activity Based Budgeting
+Automated Border Control
+Activity Based Management
+Action Oriented Project
+Africa/Frontex Intelligence Community
+Advanced Passenger Information
+Annual Risk Assessment
+
+BG
+
+Border Guard
+
+C2System
+CCC
+CCG
+CeCLAD-M
+CEPOL
+CF
+CIRAM
+CISE
+CPIP
+CSDP
+
+Command and Control System
+Common Core Curriculum
+Core Country Group
+Centre de Coordination pour la Lutte Anti-drogue en Méditerranée
+European Police College
+Consultative Forum
+Common Integrated Risk Analysis Model
+Common Information Sharing Environment
+Common Pre Frontier Intelligence Picture
+Common Security and Defence Policy
+
+EAC
+EASO
+EB ARA
+EBF
+EBGT
+EB RAN
+EDF
+EEAS
+EFCA
+EMSA
+EPN
+ESP
+EU
+Eurojust
+Europol
+EUROSUR
+ETS
+
+European Union Accession Country
+European Asylum Support Office
+Eastern Balkan Annual Risk Assessment
+External Borders Fund
+European Border Guard Team
+Eastern Balkan Risk Analysis Network
+European Union Document Fraud (Project)
+European External Action Service
+European Fishery Control Agency
+European Maritime Safety Agency
+European Patrol Network
+European Situational Picture
+European Union
+European Union's Judicial Cooperation Unit
+European Police Office
+European Border Surveillance System
+European Training Scheme
+
+FOSS
+FOO
+FISO
+FR
+FRA
+FRAN
+FRONBAC
+FRO
+FSC
+Fx
+
+Frontex’ One Stop Shop
+Frontex’ Operational Office
+Frontex’ Intelligence Support Officer
+Fundamental Right
+Fundamental Rights Agency
+Frontex’ Risk Analysis Network
+Frontex and Borders Analytical Community
+Fundamental Rights Officer
+Frontex’ Situation Centre
+Frontex
+
+GIS
+
+Geographical Information System
+
+5/79
+
+HQ
+HR
+
+Head Quarter
+Human Resources
+
+ICT
+ILO
+INTERPOL
+IO
+IOM
+ISF
+ISS
+
+Information and Communication Technology
+Immigration Liaison Officer
+International Police Office
+International Organization
+International Organization for Migration
+Internal Security Fund
+Internal Security Strategy
+
+JO
+JORA
+JRO
+
+Joint Operation
+Joint Operations Reporting Application
+Joint Return Operation
+
+MAF
+MAOC-N
+MAP
+MB
+MS
+
+Multi Annual Financial Framework
+Maritime Analysis and Operations Centre - Narcotics
+Multi Annual Plan
+Management Board
+Member State
+
+NCC
+NGO
+NTCC
+
+National Coordination Centre
+Non-Governmental Organization
+National Third Country Coordination Centre
+
+OPA
+OPERA
+OSINT
+
+Optionally Piloted Aircraft
+Operational Resources Application
+Open Source Intelligence
+
+RA
+RAU
+RPAS
+
+Risk Analysis
+Risk Analysis Unit
+Remotely Piloted Aircraft Systems
+
+SAC
+SGO
+SNE
+SOCTA
+SOP
+SQF
+SW
+
+Schengen Associated Country
+Seconded Guest Officer
+Seconded National Expert
+Serious Organized Crime Threat Assessment
+Standard Operating Procedure
+Specific Qualification Framework
+Strength and Weakness
+
+TA
+TC
+TDF
+TEP
+TEU
+TFEU
+THB
+
+Temporary Agent
+Third Country
+Travel Document Forgery
+Technical Equipment Pool
+Treaty of the European Union
+Treaty on the Functioning of the European Union
+Trafficking in Human Beings
+
+UNHCR
+
+United Nations High Commissioner on Refugees
+
+6/79
+
+VIS
+
+Visa Information System
+
+WAC
+WB ARA
+WB RAN
+
+Working Arrangement Country
+Western Balkan Annual Risk Assessment
+Western Balkan Risk Analysis Network
+
+7/79
+
+1.3. Mission Statement
+1.3.1. Mission
+Frontex supports, coordinates and develops European border management in line with the
+Treaties including the Charter of Fundamental Rights of the EU as well as other international
+obligations.
+Frontex supports the Member States2 (MS) to achieve an efficient, high and uniform level of
+border control in accordance with the relevant EU Acquis in particular the Schengen Border Code.
+Frontex coordinates operational and EU measures to jointly respond to exceptional situations at
+the external borders.
+Frontex develops capacities at Member States and European level as combined instruments to
+tackle challenges focusing of migration flows, but also contributing to fight cross border crime
+and terrorism at the external borders.
+
+1.3.2. Vision
+Frontex is the trustworthy European Border Agency, strengthening the European area of Freedom,
+Security and Justice.
+Frontex is supporting the Members States to keep up their responsibilities by providing
+operational solidarity, especially to those facing disproportionate pressures at their external
+borders.
+Frontex applies the concept of Integrated Border Management with a balanced focus on effective
+border control and fight against cross border crime. The agency uses effectively all means
+including enhanced interagency cooperation and cooperation with Non EU and Third countries to
+fulfil its remit.
+Frontex promotes the European border guard culture with the full respect and promotion of
+fundamental rights as an integral element. Special focus is applied to the right for asylum and
+international protection and the principle of non-refoulment.
+Frontex builds the capacities and capabilities in the Member States aiming at developing a
+functioning European System for Border Guards.
+Professional staff and a set of operational and administrative capabilities enable Frontex to add
+value to the European Union.
+Frontex is the preferred provider of operational support and expertise on border management to
+Member States, the Commission and other EU Agencies.
+
+1.3.3. Values
+Within a team-work focused framework, enabled by open communication, Frontex’ staff
+members share and live the corporate values. Consequently, they perform their activities in a
+highly professional way. Humanity links Frontex’ activities with the promotion and respect of
+fundamental rights as unconditional and integral component of effective integrated border
+management resulting in trust in Frontex
+
+2
+
+The term ‘Member State’ includes the Member States of the European Union and the Schengen Associated Countries
+
+8/79
+
+1.3.4. Mandate
+Article 15 Frontex Regulation defines Frontex as a body of the Union. As EU Agency, Frontex is
+mandated, while considering that the responsibility for the control and surveillance of external
+borders lies with the Member States, to facilitate and render more effective the application of
+existing and future Union measures relating to the management of external borders, in particular
+the Schengen Borders Code established by Regulation (EC) No 562/2006 (*). It shall do so by
+ensuring the coordination of the actions of the Member States in the implementation of those
+measures, thereby contributing to an efficient, high and uniform level of control on persons and
+of surveillance of the external borders of the Member States.
+Frontex shall also provide the Commission and the Member States with the necessary technical
+support and expertise in the management of the external borders and promote solidarity between
+Member States, especially those facing specific and disproportionate pressures.
+Frontex should improve the exchange of information and the cooperation with other Union
+bodies, offices and agencies, such as the European Maritime Safety Agency and the European
+Union Satellite Centre, in order to make best use of information, capabilities and systems which
+are already available at European level, such as the European Earth monitoring programme.
+Frontex should provide the necessary assistance for the development and operation of EUROSUR
+and, as appropriate, for the development of CISE, including the interoperability of systems, in
+particular by establishing, maintaining and coordinating the EUROSUR framework.
+Frontex build its external relations in order to facilitate the implementation of its mandate.
+
+1.3.5. Tasks
+In fulfilling its mandate, Frontex shall perform the following tasks:
+
+
+
+coordinate operational cooperation between Member States in the field of management
+of external borders;
+assist Member States on training of national border guards, including the establishment
+of common training standards;
+
+9/79
+
+
+
+
+
+
+
+
+
+
+
+
+
+carry out risk analyses, including the assessment of the capacity of Member States to face
+threats and pressures at the external borders;
+participate in the development of research relevant for the control and surveillance of
+external borders;
+assist Member States in circumstances requiring increased technical and operational
+assistance at the external borders, taking into account that some situations may involve
+humanitarian emergencies and rescue at sea;
+set up European Border Guard Teams that are to be deployed during joint operations,
+pilot projects and rapid interventions;
+provide Member States with the necessary support in coordinating or organising joint
+return operations;
+deploy border guards from the European Border Guard Teams to Member States in joint
+operations, pilot projects or in rapid interventions in accordance with Regulation (EC) No
+863/2007;
+evaluate the results of the joint operations and pilot projects and make a comprehensive
+comparative analysis of those results with a view to enhancing the quality, coherence
+and efficiency of future operations and project
+establish and maintain the communication network for EUROSUR in accordance with
+Article 7 Eurosur Regulation;
+establish and maintain the European situational picture in accordance with Article 10
+Eurosur Regulation;
+establish and maintain the common pre-frontier intelligence picture in accordance with
+Article 11 Eurosur Regulation;
+coordinate the common application of surveillance tools in accordance with Article 12
+Eurosur Regulation;
+
+1.4. Strategic Direction
+Frontex’ strategic direction is determined by a number of elements such as:
+Strengthening the multi-purpose character of joint operations to better contribute to the
+priorities of the Internal Security Strategy by increasing the contributions to fight against border
+related crime within the priorities of the EU Policy Cycle / EMPACT mechanism;
+Realisation of contingency planning – preparedness for possible emergency situations by
+developing operational contingency modules used to further improve agility and flexible response
+capability.
+Utilisation of ‘own equipment’ and of Seconded Guest Officers (Frontex’ own resources);
+Use of external funding to finance border security related initiatives (e.g. technical assistance
+projects in Third Countries);
+
+10/79
+
+SECTION I – GENERAL CONTEXT
+2.1. Influencing Factors
+2.1.1. Legal Framework
+
+
+Treaty on the European Union (TEU) and the Treaty on the Functioning of the
+European Union (TFEU) as well as the Charter of Fundamental Rights of the European
+Union;
+
+
+
+The Frontex Regulation and possible changes based on findings for the Art 33 evaluation;
+
+
+
+The Eurosur Regulation;
+
+
+
+The Schengen Border Code including the Schengen Governance Package
+
+
+
+Other EU legal acts relevant for integrated border management;
+
+
+
+The EU Staff Regulations;
+
+
+
+The EU Financial Regulations;
+
+2.1.2. Political Framework
+
+
+The future enlargement of the European Union and the Schengen area;
+
+
+
+The Internal Security Strategy;
+
+
+
+The Global Approach to Migration and Mobility (GAMM)
+
+
+
+The developments after the Stockholm Programme
+
+
+
+EU Action on Migratory Pressure
+
+
+
+The development and implementation of the Smart Borders Initiative;
+
+
+
+Council Conclusions
+
+
+
+Joint Statement of the European Parliament, the Council of the EU and the European
+Commission on decentralised Agencies;
+
+
+
+Common Approach on EU decentralised Agencies (including roadmap);
+
+
+
+The political developments in Third Countries of origin or transit for irregular migration;
+
+
+
+Conclusion of working arrangements and readmission agreements;
+
+2.1.3. Economical/Financial Framework
+
+
+The EU Multi Annual Financial Framework 2014 – 2020;
+
+11/79
+
+
+
+The financial situation within the public sector of Member States, within the EU, and the
+subsequent austerity measures and ‘downsizing policies’;
+
+
+
+Gradual application of activity based management (ABM) including activity based
+budgeting (ABB);
+
+12/79
+
+SECTION II – MULTI ANNUAL PROGRAMMING 2016 – 2019
+3.1. Multi Annual Objectives
+The following four multi annual objectives (with descriptions) are seen in compliance with
+Frontex’ Mission Statement:
+
+AWARENESS
+
+RESPONSE
+
+Information management is carried out
+comprehensively and all layers of the
+European Situational Picture as well as the
+Common Pre-frontiers Intelligence Picture on
+migration and crime at EU external borders
+are maintained effectively.
+
+Targeted and protection sensitive joint
+operational responses at sea-, land- and air
+borders, and joint return operations in
+exceptional situations are provided in a timely
+and sustainable manner to assist Member States
+providing border security and add value by
+- strengthening the border management
+capacity of Member States under specific
+and disproportionate pressure assessed
+through risk analysis and Eurosur impact
+level assignment;
+- enhancing proactive multipurpose and
+protection sensitive flexible responses to
+significant uncertainties at external borders
+as identified by risk analysis;
+
+MSs and SACs are supported with
+comprehensive risk analysis services and
+products, serving as a basis for targeted
+operational cooperation and also meeting the
+needs of the European institutions.
+
+Adequately trained human resources and
+technical solutions and equipment are made
+available to joint operations in a timely manner
+and cost effective way according to the plan.
+
+DEVELOPMENT
+
+PERFORMANCE
+
+Best practices, competences and technical
+capacities are harmonised at European level
+according to the prioritised needs allowing
+the strengthening of the Member States’
+border management capacity by extensively
+using Frontex’ comprehensive and integrated
+portfolio of products and services.
+
+Tasks empowered to Frontex are organised and
+implemented in compliance with applicable law,
+the mandate, fundamental rights and subject to
+an internal control system.
+
+Such ‘European best practices’ in border and
+crisis management and training, in line with
+the EU concept of IBM, are maintained,
+promoted and delivered to MSs and other
+stakeholders, especially in situations which
+have an impact on EU border security.
+Interoperability is achieved through the
+implementation of standards developed in
+cooperation with Member States.
+
+Relevant
+findings
+of
+evaluations
+are
+appropriately taken into account when
+developing the functioning of the organisation.
+Actions are prioritised during the annual
+planning, and adjusted or reviewed according to
+pre-defined
+criteria
+whenever
+deemed
+necessary;
+Human and financial resources are managed in
+line with guiding principles provided by the
+legislator and political authorities.
+Monitoring and reporting is continuously done by
+applying the pre-set performance indicators.
+
+13/79
+
+3.2. Strategic Action Areas
+3.2.1. JOINT OPERATIONS (AND PILOT PROJECTS)
+Description
+Coordinate multipurpose joint activities that sustain the operational presence in areas at the
+external borders exposed to specific and disproportionate pressure as assessed by risk
+analysis and Eurosur impact assessment as well as facing significant security concerns and
+other uncertainties;
+To provide timely, structured and protection sensitive responses at the EU and the MS in
+exceptional situations having high impact on EU border management.
+Further optimise the use of Frontex’ budget for operational purposes and to increase the
+intensity and flexibility of operational activities by:
+- prioritising the use of participating Member States’ Technical Equipment, and well
+trained members of EBGT;
+- better analysis of operational needs, gap analysis and identification of options to
+close the gaps;
+- co-financing host Member State’s additional operational activities that establish the
+core infrastructure for the management of joint operations;
+- co-financing host Member State’s temporary re-deployments of the “reserve” of
+experts and technical equipment, in accordance with Frontex’ strategic guidelines
+on co-financing during JO (e.g. unit costs);
+- making full use of projects and products contribution to Eurosur implementation;
+- To further enhance and sustain operational cooperation with relevant partners as
+well as Third Countries through tailored JOs;
+Add capacity to sound EU border management and enhance flexibility and effectiveness by
+further developing the European Patrol Network (EPN) and increasingly conducting
+operational activities using functional structures and platforms; furthermore promote
+regional border control cooperation structures as platforms for Frontex’ activities if
+appropriate; furthermore promote regional border control cooperation structures as
+platforms for Frontex’ activities if appropriate;
+Develop operational contingency modules in the event of emergency situations by
+reinforcing/modifying ongoing operational activities or launching new joint operations thus
+ensuring enhanced operational capacity adding EU value in situations of specific migration
+pressure;
+
+Priority
+Level
+
+1
+
+1
+
+1
+
+1
+
+Implement the "hotspot" approach in the front line Member States as well as provide
+administrative and logistical support for the establishment and operation of the "hotspot"
+European Union Regional Task Forces.
+
+1
+
+Further develop a system to identify, collect, elaborate and disseminate best practices by
+implementing functional strategies and delivery of services contributing to significantly
+enhance MS capacities;
+
+2
+
+Intensify the tailored concepts of different types of joint operations (land, sea, air, return
+activities) and target the alignment of Frontex’ operations with the priorities of the Internal
+Security Strategy (EU Policy Cycle);
+
+2
+
+Facilitate operational cooperation by ensuring effective coordination with any existing
+Member State local or regional liaison officers (e.g. ILOs) outside the EU;
+Association with the implementation of a pilot project ‘Enhanced cooperation of coast guard
+functions in the EU’ and possible contributions to the discussions on the existing EU legal
+framework including improved cooperation of cost guard functions in the EU.
+
+2
+
+2
+
+14/79
+
+3.2.2. RISK ANALYSIS
+Description
+EU Borders Risk Analysis Products, Services and Methodology
+To provide and consolidate the platforms for the exchange of actionable information,
+knowledge and analysis enabling Frontex, Member States, and other participating EU entities
+to experience being part of the most up to date situational awareness system.
+
+Priority
+Level
+
+1
+
+To enhance the applicability of common risk analysis methodology across the EU, including
+the development of capacity assessment component of situation awareness.
+Operational Risk Analysis Products and Services
+To perform reporting, analysis and evaluations including fundamental rights aspect for joint
+operations and other operational purposes.
+
+1
+
+To further enhance the quantitative and qualitative information gathering for the purpose
+of situation awareness in joint operations
+Data Management, GIS and technical support to analysis
+To gradually develop and implement the processing of information also containing personal
+data for the purpose of risk analysis and for the purpose of transmission to MSs and EU law
+enforcement agencies, in line with the agreed timeframe.
+
+1
+
+To provide and enhance core risk analysis tools and services for quantitative and qualitative
+data analysis and visualisation;
+To implement core risk analysis training thus enhancing the analytical capabilities of MS and
+TC;
+Support to EU Policies and Regulations
+To provide analytical and other expertise to support EU institutions, in particular the
+European Commission, by continuing to support the implementation of relevant regulations
+and policies, contribute to the establishment of evaluation and monitoring mechanism with
+regard to the application of the Schengen acquis.
+Third Country Strategic Products and Services
+To provide and expand the frameworks for the exchange of actionable information,
+knowledge and analysis on phenomena beyond EU borders enabling the sharing of situation
+awareness between Frontex, Member States and Third Countries.
+
+1
+
+2
+
+To continue developing the third country monitoring services and products, including
+production for the analysis layer.
+To continue identifying and expanding new possible information sources.
+Risk Analysis EUROSUR specific products and services
+To continue providing the relevant products and services for the CPIP/ESP Analysis Layer
+while keeping the internal and external stakeholders informed on developments
+
+2
+
+To provide relevant input for the satellite imagery services under Copernicus framework
+
+3.2.3. MANAGEMENT OF POOLED RESOURCES
+Description
+To provide technical assistance in support to Frontex coordinated Joint Operations by
+effectively procuring operational Technical Equipment and Human Resources, managing
+additional calls for contributions, reporting and analysing of the use of operational resources.
+
+Priority
+Level
+
+1
+
+To strengthen the existing pooling mechanisms based on Annual Bilateral Talks, managing
+Technical Equipment and EBGT pools (including Seconded Guest Officers).
+
+1
+
+To develop the capacity to pool resources with solutions to acquire technical equipment and
+services, hence bridging identified gaps that cannot be covered by MS/SAC.
+
+1
+
+To increase Frontex reaction capacity by improving and exercising the Rapid Intervention
+mechanism for the deployment of trained European Border Guard Teams in urgent and
+
+15/79
+
+exceptional cases; Contribute to enhanced interoperability and operational reaction
+capabilities in case of urgent and exceptional migratory pressure.
+
+2
+
+3.2.4. TRAINING
+Description
+Educational Standards (Common Core Curricula) To establish, maintain and develop
+educational standards from the basic level up to the Master degree based on the Sectoral
+Qualifications Framework (SQF) for Border Guarding.
+European Border Guard Team (EBGT) Training
+To improve capability, capacity and performance of selected profiles listed in the EBGT pool.
+Complementary Disciplines
+To complement national programmes in Member States/SAC towards having specialised trained
+professionals to perform border guard activities with common training tools, qualifying
+national multipliers and trainers.
+Training Networks
+To establish, maintain and develop supporting networks for training activities.
+
+Priority
+Level
+
+1
+
+1
+
+1
+2
+
+3.2.5. RESEARCH AND DEVELOPMENT
+Description
+Harmonization of EU Member States’ border control capacities by developing/updating best
+practices/ guidelines and by providing technical support and expertise to Member States in
+applying them, as well as identification of capability gaps;
+Technical assistance to the European Commission and Member States and (further)
+development of border control capacities;
+Assessment of border control technologies for steering their (further) development based on
+end-user needs;
+Innovation in Border Management
+
+Priority
+Level
+
+1
+
+1
+
+2
+2
+
+3.2.6. EUROSUR
+Description
+To ensure the operational running of functions of the Eurosur framework, including
+communication network, as integral part of Frontex’ regular business.
+
+Priority
+Level
+
+1
+
+3.2.7. SITUATIONAL MONITORING
+Description
+Provide and fuse real time and/or close to real time situational awareness and surveillance
+services (via Frontex Fusion Services) and Senior duty Officers’ 12/7 situation monitoring
+activities and products in support of Member States’ situational awareness and reaction
+capabilities at the external borders of the EU or European Situational Picture (ESP) and
+Common Pre-frontier Intelligence Picture (CPIP);
+
+Priority
+Level
+
+1
+
+16/79
+
+Further develop and implement the European Border Surveillance framework (EUROSUR) and
+promote the operational integration of EUROSUR into border control activities across the EU;
+
+1
+
+Exploring a possible follow up of the project on air border monitoring.
+Develop the capacity for increased information exchange and monitoring namely through the
+enhancement of existing Frontex information exchange tools, development of integrated
+systems for information exchange and situation monitoring and adoption of 3rd party
+information exchange tools for bilateral and multilateral communication
+
+2
+
+3.2.8.1 EXTERNAL RELATIONS3
+Description
+Support the MSs’ Border Management Services by
+ strengthened effective cooperation with partners in the field of internal security and
+the detection/prevention of cross-border crime (EU Policy Cycle);
+ Strengthened effective cooperation with partners in the field of migration management
+and return (mixed migratory flows and vulnerable groups at the EU external border);
+Establish operational and capacity building cooperation, launch EU funded technical assistance
+projects related to border management, promote interagency cooperation with and amongst
+competent authorities of third countries; deploying Liaison Officers to third countries in
+justified cases (including the option of joint deployments with other Agencies); follow,
+participate in and contribute to Commission-led initiatives and other relevant activities
+regarding cooperation with third countries;
+
+Priority
+Level
+
+1
+
+1
+
+Enhance coordination with EU Agencies (Europol, EASO, CEPOL, EU-LISA, Eurojust, FRA, and
+others) and cooperation with relevant international organisations (UNHCR, IOM, DCAF,
+Interpol);
+
+1
+
+Encourage and promote coordinated activities between different national authorities (border
+guard, coast guard, police, customs etc.) as well as national and international carriers by
+involving them in Frontex’ activities;
+
+2
+
+Support Member States to use EU financial instruments (e.g. MAF, ISF) in a more efficient way.
+
+2
+
+3.2.8.2 COMMUNICATION
+Description
+Increase transparency and enhance Frontex’ reputation through active communication on its
+activities in line with Frontex’ internal and external communication strategy; supported by
+improved and streamlined production processes for publications, audio-video and multimedia
+products with a particular focus on the agency’s online presence;
+
+Priority
+Level
+
+1
+
+3.2.9. FUNDAMENTAL RIGHTS
+Description
+
+3
+
+Priority
+Level
+
+Enhance strategic cooperation with Frontex’ Consultative Forum on Fundamental Rights;
+
+1
+
+Embed the respect for Fundamental Rights in the culture of Frontex
+
+1
+
+The split between External Relations and Public Relations (Communication) as separate Strategic Action Areas should be considered;
+
+thus allowing better differentiation between objectives and assignment of tasks;
+
+17/79
+
+3.2.10. ADMINISTRATION
+Description
+
+Priority
+Level
+
+Update and align the regulatory framework in order to support adequately the implementation
+of Frontex activities;
+
+1
+
+Carry out recruitment and reallocation of staff procedures in a uniform, transparent and
+efficient way adhering to best practice guidelines. Vacancies are subjected to a rigorous
+‘needs and competency-based assessment’ to respond to the flexibility and agility
+requirements of the Agency;
+
+1
+
+Increase the awareness of performance management in different HR related processes;
+
+1
+
+Promote knowledge and understanding on the respect, protection and promotion of
+fundamental rights within Frontex staff;
+
+1
+
+Improve continuously the planning, monitoring and execution of Frontex’ financial resources
+in order to achieve efficiency gains;
+
+1
+
+Plan asset acquisition side-by-side with the Programme of Work using historical data and
+inventory reports as facilitator as and when required;
+
+1
+
+Provide technical (ICT) support to operational and enabling areas to maintain and improve the
+necessary infrastructure for operational and administrative purposes;
+
+1
+
+Support proactively the financial management of operational and enabling action areas aiming
+at continuously improving the agency’s processes;
+
+1
+
+Provide support related to management of human resources to all operational and enabling
+areas;
+
+1
+
+Provide physical security to Frontex’ premises and staff;
+
+1
+
+Provide security for the ICT Systems of Frontex;
+
+1
+
+Setting up and implementing an intranet / content management system for Frontex;
+
+1
+
+Setting up and implementing a document management system for Frontex;
+
+1
+
+Set up and implement an automated system for human resource management;
+
+2
+
+Explore and support the optimisation of use of complimentary EU funding in the field of
+integrated border management for the agency and its stakeholders.
+
+2
+
+Legal Affairs
+
+2
+
+Consolidation of ICT systems in order to supply common components, reduce number of
+systems, overlapping of functionalities and reduce costs;
+
+2
+
+3.2.11. ORGANISATIONAL DEVELOPMENT AND OVERHEADS
+Description
+Senior Management
+Implement activity based management (ABM) including activity based budgeting (ABB) aiming
+at improving performance and quality management to align Frontex’ products and services to
+stakeholders needs;
+
+Priority
+Level
+1
+
+1
+
+Implementation of recommendations from Art 33 Evaluation
+
+1
+
+Divisional Management (Operations and Capacity Building)
+
+2
+
+Improve the performance and overall management (culture) of Frontex;
+
+2
+
+Maintain a tailored project management system for Frontex;
+
+2
+
+Implementation of business continuity in Frontex, including ICT solutions.
+
+2
+
+18/79
+
+SECTION III – PROGRAMME OF WORK 2016
+4.1. Activity Based Budgeting and the Programme of Work
+
+Activity based draft budget 2016
+Direct costs
+Governance Level Activities
+
+Total
+Total cost 2016
+Indirect costs
+
+Staff
+
+Operational
+
+Total
+Direct costs
+
+1. Joint operations
+
+6 637 351
+
+186 352 000
+
+192 989 351
+
+15 594 876
+
+208 584 227
+
+2. Risk Analysis
+
+3 851 779
+
+1 800 000
+
+5 651 779
+
+1 936 874
+
+7 588 653
+
+3. Management of Pooled Resources
+
+1 256 100
+
+1 100 000
+
+2 356 100
+
+686 386
+
+3 042 486
+
+4. Training
+
+1 560 400
+
+5 000 000
+
+6 560 400
+
+994 504
+
+7 554 904
+
+5. Research and Development
+
+1 219 456
+
+1 100 000
+
+2 319 456
+
+544 646
+
+2 864 102
+
+6. EUROSUR
+
+1 940 597
+
+11 300 000
+
+13 240 597
+
+1 662 681
+
+14 903 277
+
+7. Situational monitoring
+
+1 786 744
+
+1 898 000
+
+3 684 744
+
+969 969
+
+4 654 714
+
+8. External and public relations
+
+1 771 834
+
+1 649 000
+
+3 420 834
+
+840 940
+
+4 261 774
+
+330 089
+
+110 000
+
+440 089
+
+140 774
+
+580 863
+
+20 354 350
+
+210 309 000
+
+230 663 350
+
+23 371 650
+
+254 035 000
+
+91%
+
+9%
+
+100%
+
+9. Fundamental Rights incl. Consultative Forum
+TOTAL ACTIVITIES
+
+* The activity "8. External and public relations" covers a mix of cooperation with third countries, international organisations, with EU institutions or agencies,
+external communication, and events such as European Day for Border Guards;
+
+In 2015 the agency launched the activity based management of its budget. In May 2014 the Management
+Board had decided on the areas to be shown in an activity based budget on governance level.
+The approach can be explained as follows:
+Direct costs are costs directly related to operational activities. This includes operational costs and costs for
+(operational) staff.
+Operational costs are financial resources stemming mainly from Title 3, but also from Title 2 (e.g. for the
+Consultative Forum or public relations related costs).
+The number of staff shown as direct costs (see table to the left) are those staff members that are working
+in the respective operational units/sectors/teams.
+Depending on the grade of the staff, staff related (direct) costs may be higher or lower.
+For Eurosur, as such a unit or sector does not exist, the relevant staff members are indicated from Risk
+Analysis, the Frontex Situation Centre and ICT carrying out Eurosur related tasks (=30).
+Indirect costs are composed of costs for support staff and administrative & support costs. Indirect staff
+(‘support staff’) include the staff working in traditional administrative functions (e.g. Finance, Human
+Resources, ICT, as well as the Executive Director, the Deputy Executive Director and the Division Directors
+and their assistants) supporting the direct operational staff. The reason to include the Director’s group is
+that they cannot be allocated to one specific activity, but their work is of horizontal nature across the
+agency.
+The allocation of indirect staff is done proportional to the number of staff members directly assigned to the
+units/sectors/teams. Hence, 296 staff members are supported by 121 staff members working either in
+administrative functions or implementing governance level activities.
+In the overview above the administrative and support expenditures account for 10.13% of the total direct
+costs (direct staff costs + operational direct costs), and are allocated proportionally to each governance
+level activity. The administrative and support expenditure include expenditures for rent, stationary, ICT
+equipment (hardware, software, contracts) and for MB meetings.
+
+19/79
+
+By applying an activity based approach and setting into relation total direct costs to total indirect costs, a
+ratio of 91% to 9% can be established.
+
+4.2. Strategic Action Areas in the Programme of Work 2016
+
+Resource Allocation per Strategic Action Area
+100
+90
+
+86.3
+
+80
+
+Percentage
+
+70
+60
+50
+40
+30
+20
+10
+0
+
+24
+
+23
+14
+0.8
+
+5
+0.5
+
+52.3
+
+30.5
+
+75.2
+
+5
+0.3
+
+20.2
+
+20.5
+
+10.0
+
+3.3
+
+10.0
+
+6
+0.0
+
+The chart above shows the distribution of human and financial resources per strategic action areas (in
+percent). Overall the ‘knowledge areas’ (e.g. Risk Analysis, Situational Monitoring, Eurosur) but also the
+classical support areas (Administration, Organisational Development) show as work intensive, requiring a
+significant percentage of staff allocation
+In comparison to that the distribution of financial resources (T3) is significantly different. With 86.7% the
+main share is allocated to operational activities. When including ‘other’ operational activities such as Risk
+Analysis, Eurosur and Capacity Building activities the share increases to 96%.4
+
+4.2.1. Joint Operations (and Pilot Projects)
+The total estimated budget for joint operational activities (excluding ‘operational flexibility’) is 165 073
+000 EUR. The further breakdown of this amount is shown in the table below. This table shows a significant
+increase in financial resources allocated to operational activities. Compared to the resources available at
+the beginning of 2015 this means a tripling of financial resources to scale up operational activities, mainly
+within JO Triton and Poseidon. This will be used to reinforce the number of assets and extending the
+territorial scope of those operations, thus allowing to increase the search and rescue possibilities within the
+mandate of Frontex.
+
+4
+
+Setting of ration is based on rounding – small amounts e.g. 100.000 Euros = 0.14% rounded to 0% (Fundamental Rights)
+
+20/79
+
+Types of operational
+activities
+
+Maritime
+activities
+
+Initially
+Estimated
+Allocation
+(EUR)
+
+operational
+
+Estimated
+Allocation
+(EUR)
+
+Reserved
+Operational
+Flexibility
+(EUR)
+
+Possible
+Allocation (EUR)
+
+77 828 000
+
+92 828 000
+
+9 972 000
+
+102 800 000
+
+Land operational activities
+
+7 345 000
+
+12 345 000
+
+3 405 000
+
+15 750 000
+
+Air operational activities
+
+2 150 000
+
+2 150 000
+
+652 000
+
+2 802 000
+
+Return operational activities
+
+7 750 000
+
+57 750 000
+
+7 250 000
+
+65 000 000
+
+Operational Flexibility
+Sum
+
+21 279 000
+95 073 000
+
+165 073 000
+
+186 352 000
+
+Approach of Operational Concepts
+Despite the functional structure of the organisation, and in application of the practice applied over the last
+year, the programme of work for 2016 shows the allocation of resources (human and financial) to activities
+under the Strategic Action Area ‘Joint Operations’ in line with operational concepts instead. Those concepts
+foresee mixed operational activities covering not just one but more types of borders. It also showed, that
+this approach – besides simplification – also provides additional flexibility, enabling to better deal with
+shifting operational needs due to the developments in the geographical areas of interest.
+During 2016 an amount of 21.3 ME (shown in the document under ‘operational flexibility’) will be further
+allocated to operational activities according to the migratory pressure. The column titled ‘Possible
+Allocation’ shows the indicative allocation to the amount to different types of borders.
+Based on the agreements found during the further planning process (‘Annual Bilateral Talks’) the allocation
+of resources might be further specified. During and after the Annual Bilateral Talks also the ‘Assessment of
+Operational Deployment and Plan of Operational Activities 2016’ will be finalised, containing a brief on the
+operational scope, area, Member States involved and the allocated resources. The document are annexed
+to the Single Planning Document for the adoption of the Programme of Work 2016.
+Hotspot Approach
+The aim of the Hotspot approach is to provide a platform for the agencies to intervene, rapidly and in an
+integrated manner, in frontline Member States when there is a crisis due to specific and disproportionate
+migratory pressure at their external borders, consisting of mixed migratory flows and the Member State
+concerned might request support and assistance to better cope with that pressure.
+The support offered and the duration of assistance to the Member State concerned will depend on its needs
+and the development of the situation. This is intended to be a flexible tool that can be applied in a tailored
+manner. In such a “Hotspot” approach different Agencies (European Asylum Support Office, Frontex and
+Europol) will work on the ground with frontline Member States to swiftly identify, register and fingerprint
+incoming migrants. The work of the agencies will be complementary to one another. An EU Regional Task
+Force (EURTF) is responsible for the overall operational coordination of the work of the different teams of
+experts from EU Agencies involved in the “Hotspot” approach, the information exchange among these teams
+and will coordinate its efforts with national authorities.
+Frontex was assigned as the service provider for the EURTF implemented in Catania, Italy and is responsible
+to ensure the working conditions for the staff deployed in the EURTF by other EU Agencies. Frontex will play
+a particularly active role with regard to return operations and supporting Europol's and Eurojust' work in
+dismantling of smuggling networks by fully utilising the possibilities to exchange personal data for this
+purpose;
+
+21/79
+
+Return
+Primarily immediate support on return to frontline Member States (especially Italy and Greece) and
+identification of best practices on the acquisition of travel documents and on the removal of irregularly
+present third country nationals.
+The work will focus on nationals of those third countries that are a priority to return from the frontline
+Member States and would support those Member States in a number of stages (pre-return, return operations
+and capacity building).
+The foreseen change to Frontex’ organisational structure will allow to enhance Frontex' role in the area of
+returns by stepping up efforts to make full use of its current mandate in assisting Member States in return
+operations and other relevant activities.
+Western Balkan
+The Western Balkan will remain a main area of interest for operational response activities. Hence,
+operational activities implemented at EU external land borders will be planned and coordinated in the
+Western Balkan region and the South Eastern land borders; those activities will be combined in synchronised
+way with “Flexible Operational Activities” organised at the same areas (at the green borders and at the
+BCPs) according to operational needs.
+Copernicus
+On 10 November 2015 Frontex signed a Delegation Agreement with DG GROW amounting to EUR 47.5 m for
+the period 2015-2020 in order to implement the Border Surveillance component of the Copernicus Security
+Services. The objective of this component is to provide increased situational awareness when responding to
+security challenges at the external border through detection and monitoring of cross-border security threats,
+risk assessment and early warning systems, mapping and monitoring. For 2016, an indicative amount of EUR
+7.503 m has been earmarked.”
+
+22/79
+
+4.2.1. Joint Operations & Pilot Projects
+Title
+Focal Points Concept
+
+Activity ID
+JOU 1
+
+Description
+
+Output
+
+HR
+
+The general aim of this concept is to further
+develop and intensify the implementation of
+multipurpose operational concepts, further
+develop the operational activities at air, sea
+and land borders as permanent platforms for
+providing sustaining operational presence and
+information exchange/gathering in areas
+exposed to specific and disproportionate
+pressure, for reinforcement at external borders
+when needed by Flexible Operational Activities
+and to work as a platform for strengthening the
+interagency cooperation and gaining border
+related intelligence.
+
+Under Focal Points concept the following
+operational activities will be implemented:
+
+24.5
+
+-JO Focal Points Land;
+-JO Coordination Points Land;
+-JO Focal Points Sea;
+-JO Focal Points Air Regular officers;
+-JO Focal Points Air Intermediate Managers;
+-JO Flexible Operational Activities Land on border
+surveillance;
+-JO Flexible Operational Activities Land on border
+checks;
+
+FR
+13,328.000
+Land
+borders
+(including
+the
+flexible
+operational
+activities) 86-88%,
+Air borders - 810%
+Sea borders - 4%
+
+Focal Points are selected for activation
+according to recommendations resulting from
+short/mid-term risk analysis reports delivered
+throughout the year, in order to respond in an
+effective and accurate manner to threats at the
+external borders of the EU. Focal Points can
+also be activated upon justification based on
+the MS national risk analysis The operational
+activities at external land borders will be
+implemented according to risk analysis
+recommendations to support MS at the external
+borders.
+he main focus of the operational activities to
+be implemented at EU external land borders
+will remain in the South Eastern and Western
+Balkan region
+
+23/79
+
+Indic
+ator
+custo
+mer
+satisf
+actio
+n,
+timeli
+ness;
+Align
+ment
+Index
+;
+partic
+ipatio
+n
+ratio
+
+Focal Points concept will also cover Flexible
+Operational Activities focussing on the green
+border surveillance, debriefing and screening
+activities and additionally insuring increased
+border checks capacities in BCPs.
+Title
+EPN Concept
+
+Activity ID
+JOU-2
+
+Description
+Joint maritime operations within the
+Framework of European Patrols Network (EPN)
+will be implemented according to risk analysis
+priorities to support MS at the external borders
+in operational areas of Central Mediterranean,
+Eastern and Western Mediterranean Regions,
+and Atlantic Ocean in order to control irregular
+migration flows towards the territory of the MS
+of the EU and to tackle cross border crime.
+
+Output
+Under EPN concept the following operational
+activities are foreseen:
+-
+
+EPN Triton;
+EPN Poseidon Sea;
+EPN Hera;
+EPN Indalo;
+EPN Minerva
+
+EPN Triton
+44-46%
+
+Indicator
+customer
+satisfaction,
+timeliness;
+Alignment
+Index;
+participation
+ratio
+
+EPN Hera
+1,5%
+EPN Indalo
+5%
+EPN
+Minerva
+0.7%
+
+By demonstrating sustainable operational
+presence and information exchange/gathering
+in areas of the external borders exposed to
+specific and disproportionate pressure,
+substantial contribution is provided in
+accordance to the EUROSUR objectives and
+cooperation and coordination with other Union
+agencies and bodies or international
+organizations as well as Third Countries is
+systematically enhanced.
+Activity ID
+
+FR
+91,250.000
+
+EPN
+Poseidon
+46-48%
+
+Frontex will maintain enhanced operational
+activities in the Central and Eastern
+Mediterranean, by joint operations EPN Triton
+and EPN Poseidon Sea, including Hot Spots
+concept.
+
+Title
+
+HR
+30
+
+Description
+
+Output
+
+24/79
+
+HR
+
+FR
+
+Indicator
+
+Pulsar Concept
+
+JOU-3
+
+Title
+Vega Concept
+
+Title
+Return
+Support
+Operational Concept
+
+The operational activities at external air
+borders will be implemented according to risk
+analysis recommendations and identified needs
+to support MS across the entire external air
+borders as well as in Third Countries having
+signed working arrangements with Frontex.
+Focus will be given to threats and perceived
+vulnerabilities/needs identified at the external
+air borders.
+
+The concept will cover following operational
+activities:
+
+Activity ID
+JOU-5
+
+1,000.000
+JO Alexis
+I and II
+55-60%
+
+- JO Alexis I and II
+- JO Pegasus
+- JO Eurocup
+
+JO
+Pegasus
+25-30%
+JO
+Eurocup
+15-20 %
+
+Activity ID
+Description
+Output
+Frontex will promote effective protection The Vega concept will cover
+JOU-4
+measures
+for
+vulnerable
+persons/groups operational activities:
+(children and victims of trafficking in human
+beings) at external air, land and sea borders from - JO VEGA Children
+a law enforcement point of view. Under this - PP VEGA
+concept Frontex will further develop cooperation
+with non-EU Countries and with EU Agencies and
+International Organisations (Europol, FRA,
+Interpol, UNHCR, and IOM) organizing also public
+awareness session at EU airports.
+
+–
+
+9
+
+Description
+Frontex will enhance the practical cooperation
+on return by scaling up numbers of joint return
+operations where destinations will be based on
+request from the EU Member States on assistance
+and coordination. The Rolling Operational Plan
+will be replaced by a web based platform for day
+to day update of request for assistance and
+coordination.
+
+Output
+
+Frontex under this concept will scale up prereturn assistance to the EU Member States and
+
+25/79
+
+following
+
+HR
+2
+
+HR
+28
+
+FR
+200.000
+
+Indicator
+customer
+satisfaction,
+timeliness;
+Alignment
+Index;
+participation
+ratio
+
+FR
+57,750.000
+
+Indicator
+customer
+satisfaction,
+timeliness;
+Alignment
+Index;
+participation
+ratio
+
+facilitate cooperation with third countries on
+identification and acquisition of travel
+documents.
+The activities will also cover third country
+delegation visits (Task Forces) for identification
+purpose and issuing travel documents.
+Frontex, as part of the flexible support on
+return, will provide on request capacity building
+on return including training, linking screening
+process with the actual identification and return
+process.
+Frontex will ensure the operational coordination
+of an integrated system of return management
+to build synergies between EU funded return
+projects and Frontex.
+The role of Frontex Direct Contact Points on
+return (DCPs) will be further enhanced as part of
+the operational coordination of return
+management and for the exchanging of
+operational experience and knowledge in return
+matters.
+Title
+Additional Products and
+Services
+
+Activity ID
+JOU-6
+
+Description
+Products and Services that can be delivered in
+addition and more tailored to products and
+services of the concepts mentioned before.
+Activities under EPN General are related to
+harmonization,
+compatibility
+and
+interoperability seeking to further develop
+operational effectiveness and efficiency in
+
+Output
+- Frontex Positioning System;
+- Frontex Compatible Operational Image;
+- EPN Staff Exchange;
+- EPN Yellow Pages;
+- Tailored Working Groups;
+- Support to regional cooperation for in
+maritime domain;
+- Operational Heads of Airports Conference;
+- All-in-One meeting;
+- PP Reference Manual;
+
+26/79
+
+HR
+7.5
+
+FR
+1,545.000
+
+Indicator
+customer
+satisfaction,
+timeliness;
+Alignment
+Index;
+participation
+ratio
+
+Title
+Operational Flexibility
+
+Activity ID
+JOU-7
+
+coherence with the main recommendations and
+conclusions of the JOs.
+
+- Project Reference Manual online;
+- Project Air Border Monitoring;
+- Best practices on Land border’s
+procedures.
+
+Description
+Operational Flexibility shall enable the short
+term assignment of additional financial
+resources based on exceptional developments of
+the migratory pressure and related changes to
+risk levels.
+
+Output
+Enhance joint operations at different types of
+borders (indicative):
+
+The reserved allocations for land border
+operational activities may be used to enhance
+green border surveillance activities and border
+checks covering additional operational areas
+(not included under operational concept)
+affected by irregular migration flow.
+
+-
+
+JO Focal Points Land;
+EPN Triton;
+EPN Poseidon Sea
+EPN Indalo
+JO Alexis I and II
+
+ICC
+
+HR
+0
+
+FR
+21,279.000
+Land
+borders 3,405.000
+Air
+borders:
+652.000
+Sea
+borders 9,972.000
+(EPN
+Triton50%, EPN
+Poseidon
+Sea-35%,
+EPN
+Indalo15%)
+
+The operational flexibility allocated to joint
+maritime operations might be used to enhance
+ongoing operational activities such as EPN
+Triton, EPN Poseidon Sea, and EPN Indalo.
+of Operational Flexibility At external air borders
+the fluctuating migratory pressure varies week
+by week. Such phenomena are identified often
+at the last moment before activities are
+launched or even in course of them. The
+reserved operational flexibility budget has
+therefore been distributed to the different joint
+operations carried out at airports with the aim
+to have resources immediately available per
+each of those activities while additional budget
+
+Return:
+7,250.000
+
+27/79
+
+Indicator
+customer
+satisfaction,
+timeliness;
+Alignment
+Index;
+participation
+ratio
+
+can be later transferred between different
+activities according to the need.
+The use of the budget will be triggered by
+emerging needs identified by Frontex or directly
+by the participating Member States in course of
+the year. The needs may encompass a certain
+number of irregular migrants arriving at certain
+airports, new connections and etc.
+
+4.2.2. Risk Analysis
+Title
+Strategic risk analysis
+products services and
+risk
+analysis
+methodology
+
+Activity ID
+RAU-1
+
+Description
+To provide platforms for information exchange
+and joint analytical work by Frontex and Member
+States in order to generate and share in-depth
+knowledge and up-to-date situational awareness
+achieved also through the constant development
+of methodology for risk analysis.
+
+Output
+EDF-ARA, EDF meetings, Annual Risk
+Analysis
+package,
+Stakeholders
+participation in the Annual Risk Analysis
+process; 2 Risk Analysis Thematic Meetings;
+Regular monthly products; Updates of
+situation at the external borders;
+Specialised EU MS capacity assessment;
+Methodology for capacity assessment; THB
+Handbook package; Thematic workshops
+with THB experts
+
+HR
+13.1
+
+FR
+430.000
+
+Indicator
+participation ratio;
+customer
+satisfaction;
+timeliness; nr of
+downloads; nr of
+stakeholders
+consulted;
+participation ratio;
+
+Operational risk analysis
+services and products
+
+RAU-2
+
+Operational analysis products and services are
+delivered in order to provide situation
+awareness and advice for the planning
+implementation monitoring and evaluation of
+joint operations, pilot projects and EBGT.
+
+Risk Analysis input for JO planning, incl.
+ABT planning and implementation (AOD);
+Risk Analysis inputs to JO implementation
+and evaluation; Risk Analysis Input to EBGT
+processes; FLO GRC Intel: collection of
+operational intelligence/information from
+the operational areas; Support and
+management of debriefing activities in JO;
+AB-RAN meetings; Structured information
+exchange in place; IO workshops
+
+22.0
+
+160.000
+
+customer
+satisfaction,
+timeliness;
+Alignment
+Index;
+participation ratio
+
+28/79
+
+Third
+Country
+Analysis Services
+Products
+
+Risk
+and
+
+RAU-3
+
+Third Country Risk Analysis Networks, third
+country monitoring and other related activities
+are the platforms and means for access and
+exchange of up to date information and analysis
+with and on Third Countries, enabling situation
+awareness on the irregular migration situation in
+Third Countries affecting EU external borders.
+
+WB-RAN ARA, WB-RAN Quarterly packages;
+WB-RAN meetings and workshops; EaP-RAN
+meetings and workshops
+EaP-ARA and EaP Quarterly packages; AFIC
+meetings and workshops; AFIC report
+package; TU-RAN meetings; TU-RAN ARA
+and TU-RAN Quarterly packages; Third
+Country Monitoring included in regular
+analytical production
+Participation in relevant ILO network
+meetings;
+
+9.5
+
+350.000
+
+customer
+satisfaction;
+timeliness;
+participation ratio;
+customer
+satisfaction
+with
+regular products; nr
+of
+meetings
+attended
+
+Data Management and
+Technical Support to
+Risk Analysis
+
+RAU-5
+
+Provision of technical services enabling and
+supporting risk analysis such as data and GIS
+analysis, change initiatives to develop personal
+data processing and business intelligence,
+building risk analysis capacity
+in Frontex,
+Member States and cooperating Third Countries.
+
+Data Analysis and GIS analysis inputs;
+Access to sources enabled; MS transfers of
+personal data; Risk analyses prepared on
+basis of personal data; Intelligence
+packages to Europol; Stage Plan for Pedra
+Stage II; Trainings; Data sources directly
+available to analysts; automation of data
+analysis;
+
+11.6
+
+800.000
+
+customer
+satisfaction;
+increased nr of
+users;
+ratio
+of
+reports containing
+personal
+data;
+timeliness; nr of
+trainings; nr of
+sources available
+
+Informing EU policies
+and regulations with risk
+analysis. Support to
+EMPACT
+
+RAU-6
+
+Analytical input and reports are provided to DG
+Home and other EU institutions in the
+implementation of relevant regulations and
+policies.
+
+Analytical contributions provided as
+planned (incl. HIO)
+Risk Analysis for presidency operations
+
+1.8
+
+60.000
+
+Timeliness;
+satisfaction level;
+nr of missions;
+
+4.2.3. Management of Pooled Resources
+Title
+Technical Assistance
+
+Activity ID
+PRU-1
+
+Description
+Provision of technical assistance aimed to secure
+that appropriate resources are made available to
+support operational activities.
+
+Output
+Operational assets managed and made
+available for Joint Operations; Acquisition of
+services and operational means; Carrying out
+an operational resources gap analysis; Making
+additional calls for contributions to Joint
+Operations.
+
+29/79
+
+HR
+3
+
+FR
+0
+
+Indicator
+Minimum numbers
+in the pools (OMNTE
+and overall number
+of EBGT members)
+ensured; Required
+resources obtained
+
+in due time for Joint
+Operations;
+Completion of the
+gap analysis; To
+ensure that the
+required additional
+human
+resources
+and
+assets
+for
+operational
+activities
+are
+available
+when
+required.
+Maintenance
+
+PRU-2
+
+Maintaining the numbers and quality of the
+assets in the pools to ensure they are sufficient
+to meet operational needs and legal obligations.
+
+Establishment and selection of TE for the
+OMNTE; Letters of Agreement with the
+MS/SAC; Additional technical equipment;
+
+8
+
+120.000
+
+Open
+call
+for
+contributions
+to
+OMNTE,
+TE
+selected; All human
+resource needs are
+covered by MS;
+Open
+calls
+for
+additional TE, TE
+selected and agreed
+with
+MS;
+New
+decision adopted by
+the MB
+
+Development
+
+PRU-3
+
+Acquisition of technical equipment and/or
+services, as well as the development of the
+Opera resource management application.
+
+Purchase of small items of equipment
+Contract for the provision of technical
+equipment and/or services
+Implementation of PP on acquisition of
+surveillance services
+Upgraded version of Opera (Opera 3)
+
+5
+
+545.000
+
+Successful purchase
+of
+required
+equipment;
+Contracts signed
+
+Reaction Capacity
+
+PRU--4
+
+Carrying out a rapid intervention exercise.
+
+Operational concept agreed with JOU and
+integrated into the Frontex plan of Operations;
+Conducting the REX exercise;
+
+3
+
+315.000
+
+REX integrated into
+the
+Plan
+of
+Operations
+
+30/79
+
+Expert Networking
+
+PRU-5
+
+Regularly conducting the Pooled Resources
+Network (PRN) meetings in order to exchange
+information and obtain feedback from Member
+States and Stakeholders regarding the
+procedures and tools used in connection with
+developing and maintaining the pools of
+technical and human resources.
+
+PRN meetings
+
+1
+
+120.000
+
+Successful holding
+of agreed number of
+meetings
+
+4.2.4. Training
+Title
+Educational Standards
+(Common
+Core
+Curricula)
+
+Activity ID
+TRU-1
+
+Description
+From the basic level up to the Master degree,
+Common Core Curricula for Border Guards
+constitute the cornerstones in building
+harmonised competencies within all stages of
+professional careers. They are based on the
+Sectoral Qualifications Framework (SQF) for
+Border Guarding as overarching framework
+according to Bologna/Copenhagen principles
+and the European Qualifications Framework
+for Lifelong Learning (EQF).
+
+Output
+Curriculum designers trained; aligned curricula
+at Frontex and national level; Revision of CCC
+according to CCC-IAP outcomes; CCC Mid Level
+draft Study programme Year 2 Iteration 1
+
+HR
+3.5
+
+FR
+940.000
+
+Indicator
+Alignment
+Index;
+Quality Level
+
+European Border Guard
+Team (EBGT) Training
+
+TRU-2
+
+These types of training activities focus on the
+specific needs of the EBGT pool members for
+carrying out their duties effectively, according
+to the profile defined for their deployment.
+They ensure flexible and updated delivery
+according to the situation and envisages direct
+access to trained human resources during
+operations.
+
+Trainings
+
+6.2
+
+1,300.000
+
+Satisfaction Level;
+Quality Level
+
+Thematic
+Support
+
+TRU-3
+
+To complement national programmes in
+Member
+States/SAC
+towards
+having
+specialised trained professionals to perform
+border guard activities with common training
+tools, qualifying national multipliers and
+trainers.
+
+Training of trainers; Update of tools and course
+delivery; eLearning courses; Simulation; IBM
+Pilot Training
+
+5.2
+
+1,270.000
+
+Quality
+Level;
+Alignment Index
+
+Training
+
+31/79
+
+Training Infrastructures
+
+TRU-4
+
+Ad hoc training, missions
+and logistics
+
+TRU-5
+
+To promote excellence in border guard
+education and training by developing and
+maintaining effective cooperative networks.
+An ICT platform and eLearning solutions are to
+be developed to ensure cost-effective training
+delivery and increase the training capabilities
+of Frontex, as well as of its stakeholders.
+Training solutions to support urgent
+operational needs on ad hoc basis, missions of
+TRU staff members and logistics.
+
+Cooperation activities; TRU ICT platform
+implemented; Annual conference; Training
+Experts Certification
+
+5.1
+
+1,030.000
+
+Satisfaction Level;
+Usage Level
+
+Ad hoc training, support and missions
+
+05
+
+460.000
+
+Usage Level
+
+4.2.5. Research and Development
+Title
+Harmonization of the EU
+Member States' border
+control capacities
+
+5
+
+Activity ID
+RDU-1
+
+Description
+This activity aims to harmonize and where
+needed to build up the Member States’ border
+control capacities - including the harmonization
+of technical equipment, where necessary, and
+of working practices - in order to increase
+security and enhance travel facilitation at the
+borders.
+
+Output
+Report on Implementation and Operation of
+Visa Information System at National Level
+(to be published in 2016);
+Introduction to the Passenger Analysis Model
+( to be published in 2016);
+Training manuals and courses to be
+delivered ( in cooperation with TRU):
+Intermediate Training for the First Line
+Officers on Automated Border Control
+(ABC);
+Specialised Traning on Vulnerability
+Assessment and Testing for ABC;
+Common Procurement Guidelines on ABC;
+Best Practices and Capability Gaps Related
+to Border Checks at Air Borders;
+Best Practices and Guidelines for Sea and
+Land Border Surveillance - Data sharing and
+operational communications;
+
+HR
+4.75
+
+FR
+300.000
+
+Indicator
+Product
+Delivery
+Timeliness -Ratio
+
+No specific human resources assigned to this activity; it will be used as a financial pool to finance ad hoc training required by urgent operational needs and related activities (missions and logistics) carried out in the four
+
+other areas of activities
+
+32/79
+
+Best Practices and Guidelines for Border
+Surveillance - Technical equipment
+acquisition process;
+Best Practices and Guidelines for Border
+Surveillance - Sensors for line, perimeter
+and for low flying detection;
+Guidelines and Technical requirements for
+mobile land border surveillance systems;
+Guidelines and Technical requirements for
+mobile sea border surveillance systems;
+Guidelines and Minimum Technical
+requirements for small fixed wing RPAS;
+Technical Solution for Maintaining and Using
+a Masterlist of CSCA certificates (work
+coordinated and led by the EC; facilitated
+by Frontex).
+Technical Assistance
+
+RDU 2
+
+Technical
+Assistance
+to
+the European
+Commission and Member States and further
+development of border control capacities.
+
+Readily deployable European migrant
+registration capability;
+Support to WB in building up migrant
+registration capability (in the context of IPA
+II project);
+Pilot on the Future of Border Checks (risk
+assessment based border checks (air borders)
+Support to the EC in relation to the Smart
+Border Package
+
+3.25
+
+300.0000
+
+Product
+Delivery
+Timeliness –Ratio;
+Alignment Index
+
+Assessment of Border
+Control Technologies
+
+RDU 3
+
+Assessment of border control technologies for
+steering their further development at EU level
+based on end-user needs.
+
+Report on Field trial of Border Surveillance
+Technology for Land Border (including
+evaluation);
+Report on Field trial of Border Surveillance
+Technology for Aerial Surveillance;
+Report on the assessment and Feasibility
+Study for the sharing of data at operational
+level (including a pilot);
+Report on potential, challenges and risks of
+utilization of open source information for
+passenger risk assessment;
+
+3.25
+
+350.0000
+
+Product
+Delivery
+Timeliness –Ratio;
+Alignment Index
+
+33/79
+
+Feasibility Study on pleasure boats border
+control information exchange (including a
+pilot);
+Report on Interoperable Passenger Risk
+Model based on data analytics;
+Innovation in
+management
+
+Border
+
+RDU-4
+
+The aim of this activity is to strengthen Frontex
+monitoring and contribution to the European
+Border Security Research and to coordinate and
+enhance the activity and involvement of the
+border guard community in this field.
+
+Report on the meetings Frontex-Industry;
+Report on the workshop on breakthrough
+technologies/products for border security;
+Report on the workshop on proper
+methodologies/methods/good practices on
+how to perform research
+on/investigate/test/verify border security
+technologies/solutions/products;
+Report on the workshop on new border
+security R&D projects developed by
+Industry and Academia using other financial
+sources than the EU financing (e.g.
+Industry’s/Academia’s own funds);
+Report on the workshop on the ongoing
+border security related FP7 projects and
+the new projects pertaining to Horizon
+2020, WP 2014-2015;
+Study on the setup and management of
+border security related research in and
+outside Europe (outsourced);
+Terms of reference for a study to be
+launched in 2017 on possibilities of crossborder joint procurement for border
+security equipment;
+Different reports pertaining to the
+technical support for EC/MSs and the EU
+funded research projects under H2020
+programmes.
+
+34/79
+
+2.75
+
+150.000
+
+Satisfaction Level;
+Alignment
+Index;
+Product
+Delivery
+Timeliness -Ratio
+
+4.2.6. Eurosur
+Title
+Risk analysis Eurosur
+specific services and
+products
+
+Activity ID
+RAU-4
+
+Description
+To provide the risk analysis layer of the
+CPIP/ESP, as required by the EUROSUR
+regulation.
+
+Output
+Regular updates of impact levels for
+relevant sea and land border sections as
+per agreed procedure
+RAU Business User inputs provided as
+required
+
+Frontex Situation Centre
+EUROSUR/FFS
+Situational Monitoring
+
+FSC-2
+
+In accordance with the EUROSUR regulation,
+provision of European Situational Picture (ESP)
+and Common Pre-Frontier Intelligence Picture
+(CPIP)
+for
+enhanced
+situational
+monitoring based on (close-to) real time
+information including delivery of surveillance
+and environmental data under Frontex Fusion
+Services umbrella supporting short term /
+immediate decision making process and
+situational awareness.
+
+Enriched European Situational Picture;
+Frontex Fusion Services delivered to
+internal and external stakeholders;
+Enhanced Eurosur services
+
+Development
+of
+EUROSUR
+capabilities
+and services
+
+FSC-3
+
+Enhancement of services and functionalities of
+Frontex Information Exchange Systems and
+EUROSUR Fusion Services in order to support
+situational awareness and reaction capabilities,
+in accordance with EUROSUR legislation.
+Further develop and implement the European
+Border Surveillance Framework (EUROSUR) and
+promote the operational integration of
+EUROSUR into border control and surveillance
+activities across the EU.
+Following successful security accreditation (EU
+RESTRICTED) of the Eurosur Communication
+Network, development of operational layer
+displaying positions of assets in Joint Operations
+and in pre-frontier areas, in line with Eurosur
+framework. This will be performed in
+cooperation with external and internal
+
+New and enriched EUROSUR services
+delivered to users at MS and Frontex for
+operational use at external borders;
+
+35/79
+
+HR
+5
+
+FR
+200.000
+
+6,650.000
+
+11
+
+7
+
+1,700.000
+
+Indicator
+timeliness
+timeliness
+
+Product
+Delivery
+Timeliness
+–Ratio;
+Usage Level
+
+Quality Level
+
+stakeholders (ICT and JOU), featuring possible
+use of Copernicus resources.
+by
+
+FSC-4
+
+Provision and fusion of real time and/or close to
+real time situational awareness and surveillance
+services (via Frontex Fusion Services) in support
+of the response activities and exceptional
+situations at external borders of the EU.
+
+Tailored services in support of MS delivered
+and available
+
+2
+
+500.000
+
+Quality Level
+
+Eurosur Communication
+Network
+
+ICT-1
+
+Support, maintenance and further development
+of the Eurosur Communication Network.
+
+ECN
+availability;
+Network
+services
+subscription; New releases of the ECN
+application and bug fixes releases;
+
+5
+
+2,250.000
+
+System and Network
+availability;
+Alignment Index
+
+Response Support
+EUROSUR FFS
+
+4.2.7. Situation Monitoring
+Title
+Frontex
+Centre
+activities
+
+Situation
+operational
+
+Activity ID
+FSC-1
+
+Description
+Delivery of Situation Monitoring and Information
+Exchange Services (e.g. Alerts, SitReps, Media
+Products,
+Incident
+Validation,
+WOB,
+Correspondence Management) and related
+customer
+support,
+training
+and
+access
+management to Frontex Information Exchange
+applications including FOSS, CMS, JORA and FMM.
+Additional enhancement of some services would
+also be possible through Copernicus resources
+
+Output
+Situation monitoring products and
+services;
+Frontex
+One-Stop-Shop;
+Correspondence management;
+
+HR
+21
+
+FR
+580.000
+
+Indicator
+Product
+Delivery
+Timeliness
+–Ratio;
+Usage Level
+
+4.2.8.1. External Relations
+Third Countries
+Title
+
+Activity ID
+
+Description
+
+Output
+
+36/79
+
+HR
+
+FR
+
+Indicator
+
+Coordinate
+and
+implement
+the
+Instrument
+for
+PreAccession (IPAII) MultiCountry
+Action
+“Regional support to
+protection-sensitive
+migration management
+in the Western Balkans
+and Turkey”
+
+Relex TC-1
+
+Coordinate and implement the Instrument for
+Pre-Accession (IPAII) Multi-Country Action
+Programme “Regional support to protectionsensitive migration management in the Western
+Balkans and Turkey” to cover the period 20152018.
+
+Identification of mixed migration flows;
+information exchange established for
+operational cooperation;
+
+46
+
+5,500.0007
+
+Turn Over – Ratio;
+Usage Level
+
+Coordinate
+and
+implement
+the
+EU
+Funded
+Eastern
+Partnership (EaP) – IBM –
+Capacity
+Building
+Project, to cover the
+period 2014-2017
+
+Relex TC-2
+
+The main aim of the Eastern Partnership IBM
+Capacity Building Project is to ensure border
+security and to facilitate legitimate movements
+of persons and goods in the region, while
+ensuring that the fight against corruption and
+respect for human rights will be given necessary
+attention throughout the project.
+
+Developing/revising the relevant core
+curricula and tools as well as establishing
+dedicated training; Delivery of specific IBM
+training courses; these initiatives will be
+performed throughout all thematic areas
+and components of the project; Expansion
+of the EB-RAN to a possible EaP-RAN
+
+58
+
+4,500.0009
+
+Usage
+Level;
+Alignment
+Index;
+Operational
+Plan
+Implementation
+Ratio (HR)
+
+Deployment of Frontex
+Liaison Officer (FLO) in
+Turkey and a country in
+North of Africa (TBC)
+
+Relex
+TC-3
+
+According to article 14/3 of Frontex Regulation,
+"The Agency may deploy its liaison officers (...)
+in third countries. Within the framework of the
+external relations policy of the Union, priority
+for deployment should be given to those third
+countries, which on the basis of risk analysis
+constitute a country of origin or transit
+regarding illegal migration.
+
+Reduction of migratory flows towards the
+EU; close cooperation with local relevant
+authorities
+
+1
+
+010
+
+Satisfaction Level
+
+Develop
+closer
+cooperation with Libyan
+authorities
+in
+close
+coordination with the
+EUBAM and Frontex LO
+
+Relex
+TC-4
+
+Lybia is a transit country and a major source of
+irregular migration towards the EU by sea. The
+unstable situation in Lybia didn't allow a closer
+cooperation with them, but we expect that 2016
+
+Working arrangement; Cooperation plan;
+EUBAM will establish a bridge with local
+authorities towards a close cooperation;
+
+0.5
+
+6
+
+2 FTE are funded by ad hoc grants
+
+7
+
+Ad hoc grant
+
+8
+
+3 FTE are funded by ad hoc grants
+
+9
+
+Ad hoc grant
+
+10
+
+Related resource allocation is included under operational activities
+
+37/79
+
+10.000
+
+Usage Level
+
+could be the time to develop it. This could be
+done in coordination with EUBAM and FLO.
+
+11
+
+24th
+International
+Border
+Police
+Conference
+
+Relex
+TC-5
+
+This event will offer an opportunity for the
+Chiefs of Border Guard authorities around the
+world to share best practices and experiences
+on various topics of common interest related to
+border management and security. In addition it
+will allow to renewal of personal relationships
+between the chiefs of border guard
+management which were established during last
+years’ events and to continue building the
+international border guard community.
+
+Implementation team;
+
+1
+
+410.00011
+
+Objectives
+Achievement - Index
+
+Create conditions to
+conclude
+working
+arrangement with the
+Third Countries to which
+Management Board gave
+mandate
+
+Relex
+TC-6
+
+Presently the Agency is mandated by the
+Management Board to negotiate with the
+following countries: Senegal, Mauritania,
+Morocco, Tunisia, Libya, Egypt, Brazil, and
+Kosovo.
+
+working arrangements with the countries
+mentioned before
+
+2
+
+40.000
+
+Satisfaction Level
+
+Manage
+the
+implementation
+of
+existing
+Working
+arrangements (WA) and
+Cooperation Plans (CP)
+
+Relex
+TC-7
+
+Frontex concluded 17 WA with Third Countries
+(as regards Turkey the WA was approved if the
+form of a MoU) and in a few cases the WA are
+developed through CP. It's Relex TC task to
+manage the implementation of such instruments
+in coordination with the other units of Frontex.
+
+Tangible
+benefit
+
+2
+
+40.000
+
+Objectives
+Achievement - Index
+
+Counselling and general
+support to Executive
+Director,
+Deputy
+Executive
+Director,
+Directorate and Frontex
+Units
+
+Relex
+TC-8
+
+Relex TC has a general task for counselling and
+give general support to the Agency in terms of
+cooperation with Third Countries (TC).
+
+Provide rapid counselling and support to
+the Agency
+
+0.5
+
+0
+
+Satisfaction Level
+
+achievement
+
+The amount assigned to this activity might be subject to change
+
+38/79
+
+to
+
+the
+
+mutual
+
+International Organisations
+Title
+Cooperation with EU
+Agencies
+and
+International
+Organisations
+
+Activity ID
+Relex
+IO-1
+
+Description
+Developing, coordinating, evaluating and
+consolidating the cooperation with partner
+organisations including EU Agencies and
+International Organisations. Special focus will
+be placed on the monitoring and evaluation of
+the cooperation with partner organisations on
+the basis of the existing Working Arrangements.
+
+Output
+Cooperation with EU Agencies and IOs
+
+HR
+
+FR
+30.000
+
+Indicator
+Quality Level
+
+Cooperate
+with
+EU
+Institutions
+and
+contribute to EU policy
+decision making
+
+Relex
+IO-2
+
+Maintaining fluent relations with the EU
+institutions and contribution to EU policy
+decision making guided by Frontex strategic
+interest and developments.
+
+support to and cooperation with EU
+institutions in policy development
+
+1
+
+10.000
+
+Quality Level
+
+Strategic advice and
+support
+to
+Frontex
+Management
+
+Relex
+IO-3
+
+Strategic advice and support to Frontex
+Management with regard to policy assessments
+which include inter alia the follow-up to the
+Article 33 Evaluation and recommendations
+emanating from the Management Board as well
+as identifying and providing guidance on
+opportunities and use of EU financial
+instruments in the field of Home Affairs and
+External Relations.
+
+Support to Frontex Management in terms of
+decision-making and policy development;
+Efficient use of financial opportunities
+
+1.2
+
+5.000
+
+Quality Level
+
+Developing the Frontex
+THB Strategy
+
+Relex
+IO-4
+
+Developing the Frontex THB Strategy by
+initiating new Frontex projects and identifying
+synergies with ongoing Frontex or External
+Partners' activities and by building up,
+strengthening and maintaining an effective
+network of contacts within MS, EU bodies and
+International Organisations on THB.
+
+Management and coordination of THB
+Activities
+
+0.8
+
+10.000
+
+Quality Level; Time to
+Respond
+
+Description
+
+Output
+
+HR
+
+FR
+
+1
+
+4.2.8.2. Communication
+Title
+
+Activity ID
+
+39/79
+
+Indicator
+
+Encourage and promote
+coordinated
+activities
+between
+national
+authorities, national and
+international carriers by
+involving
+them
+in
+Frontex activities
+
+IAT-1
+
+Promotion of European border guard culture and
+the spirit of cooperation between different
+border authorities, international organisations
+and civil society representatives.
+
+Annual Press Officers meeting; ED4BG
+event; 2 ED4BG on the Road seminars; the
+Border Post magazine
+
+4
+
+Increase
+transparency
+and enhance Frontex
+reputation
+
+IAT-4
+
+Increase transparency and enhance Frontex
+reputation by active communication on its
+activities in line with Frontex internal and
+external
+communication
+strategy.
+Provision of timely, structured responses to the
+media and members of the public (researchers,
+students, etc.) on all Frontex operational
+activities, including exceptional and crisis
+situations.
+Production of publications and audio/video
+materials. Organisation of press visits and
+briefings
+
+Media requests handled in a timely
+manner. press briefings organised when
+needed; Requests for public access to
+documents handled within the required
+timeframe
+
+4
+
+Media monitoring
+analysis
+
+IAT-5
+
+media monitoring contract in place
+
+2
+
+and
+
+420.00012
+
+676.00013
+
+0
+
+Satisfaction Level;
+Internal
+Communication
+–
+Index;
+Alignment
+Index
+
+Internal
+Communication
+Index
+
+-
+
+Alignment Index
+
+4.2.9. Fundamental Rights
+Title
+FR Impact in proposed
+JO
+
+Activity ID
+FRO-1
+
+Description
+Coordinate multipurpose joint activities that
+sustain the operational presence in areas at the
+external borders exposed to specific and
+disproportionate pressure as well as facing
+significant uncertainties; including consistent
+action in line with operational reaction
+
+Output
+FR impact in JO
+
+12
+
+The amount (lump sum) is subject to change, dependent on the final decision on the future set up of the ED4BG
+
+13
+
+The amount (lump sum) is subject to change, dependent on ongoing internal reorganization and restructuring of tasks
+
+40/79
+
+HR
+1
+
+FR
+40.000
+
+Indicator
+Internal
+Communication
+Index
+
+-
+
+mechanism
+Regulation.
+
+laid
+
+down
+
+in
+
+the
+
+EUROSUR
+
+Monitoring FR incidents
+during JO
+
+FRO-2
+
+Intensify the tailored concepts of different
+types of joint operations (land, sea, air, return
+activities) and target the alignment of Frontex’
+operations with the priorities of the Internal
+Security Strategy and EU Policy Cycle.
+
+SIR reports
+
+0.5
+
+0
+
+Operational
+Plan
+Implementation
+Ratio (HR)
+
+FR monitoring system
+
+FRO-3
+
+Intensify the tailored concepts of different
+types of joint operations (land, sea, air, return
+activities) and target the alignment of Frontex’
+operations with the priorities of the Internal
+Security Strategy and EU Policy Cycle.
+
+FR monitoring system
+
+0.5
+
+0
+
+Operational
+Plan
+Implementation
+Ratio (HR)
+
+FR analysis and research
+
+FRO-4
+
+Intensify the tailored concepts of different
+types of joint operations (land, sea, air, return
+activities) and target the alignment of Frontex’
+operations with the priorities of the Internal
+Security Strategy and EU Policy Cycle.
+
+Reports on FR matters
+
+0.5
+
+0
+
+Objectives
+Achievement
+Index
+
+To embed a respect for the principles of
+Fundamental Rights in the culture of Frontex.
+
+FR contribution in strategic documents
+
+To embed a respect for the principles of
+Fundamental Rights in the culture of Frontex.
+
+FR embedded in Frontex’ communication
+
+To embed a respect for the principles of
+Fundamental Rights in the culture of Frontex.
+
+FR Strategy Revision
+
+Description
+All transactions of the agency are timely
+introduced into ABAC; the revenue is timely
+collected; financial initiation is supported in
+
+Output
+Relevant updated documents
+
+FR in Frontex
+FR in communication
+Revision of FR Strategy
+and AP
+
+FRO-5
+FRO-6
+FRO-7
+
+0.5
+
+0
+
+0.2
+
+0
+
+0.8
+
+0
+
+Internal
+Communication
+Index
+Internal
+Communication
+Index
+Objectives
+Achievement
+Index
+
+-
+
+-
+
+4.2.10. Administration
+Provision
+and
+services
+
+Title
+of financial
+procurement
+ensuring
+
+Activity ID
+FIN-1
+
+41/79
+
+HR
+16.5
+
+FR
+0
+
+Indicator
+Quality Level
+
+compliance
+legal and
+framework
+
+with the
+regulatory
+
+selected complex areas; all commitments and
+payments (above EUR 1000) are verified;
+procurement procedures above a materiality
+level are supported and processed; all payments
+are done by the Accounting Officer and booked
+in the accounts. The regulatory framework is
+kept updated.
+
+Mission Office
+
+FIN-2
+
+The unit hosts the financial part of the mission
+office and is responsible for the financial
+aspects
+of
+planning,
+managing
+and
+reimbursement of mission costs to staff
+members and SGOs.
+
+Operational and administrative missions
+are financially administered;
+
+Introduction of semiautomated tools for
+procurement/contract
+management
+and
+preparations
+for
+eprocurement
+
+FIN-3
+
+Assessment and introduction of a tool for
+procurement/contract management.
+
+Tool in place
+
+Title
+Selection
+and
+recruitment procedures,
+staff
+administration,
+staff
+training
+and
+development.
+
+Activity ID
+HRS-1
+
+Description
+Supporting selection and recruitment procedures,
+implementation and enforcement of the Staff
+Regulations and CEOS, drafting staff policies (EU
+rules and best practices), assisting Frontex
+managers and staff member in all HR-related
+matters: budget assigned to Title 1, staff
+development related issues; training for Frontex
+staff members; annual appraisal exercise; the
+reclassification procedure; and entitlements of
+Frontex staff (including SNEs and SGOs).
+
+Provision
+miscellaneous
+administrative
+to Frontex.
+
+HRS-2
+
+Administrative support consists of: support for
+meetings and conferences, reception supervision,
+library, office supplies, property management,
+expatriate services, travel desk, ad hoc support
+for other administrative issues.
+
+of
+support
+
+Output
+
+2.5
+
+0
+
+Quality Level
+
+4
+
+0
+
+Quality Level
+
+HR
+16
+
+15
+
+42/79
+
+FR
+0
+
+Indicator
+Satisfaction Level
+
+0
+
+Satisfaction Level
+
+Ensuring that Frontex
+personnel, information,
+buildings and equipment
+are
+adequately
+protected
+against
+threats
+
+HRS-3
+
+Safety and security measures in place in
+compliance with the overall internal security
+regulatory framework and in line with EU rules
+and best practices. This includes implementation
+of the applicable rules, including EUCI, as well as
+liaison with EU and the Member State security
+services.
+
+14
+
+Title
+Maintain
+the
+performance,
+availability and security
+of ICT services
+
+Activity ID
+ICT-2
+
+Description
+Ensuring ICT services availability.
+
+Output
+Report on the performance of ICT services
+delivery; ICT security improvement; ICT
+user support service delivered; ITSM tool
+functioning
+
+HR
+12
+
+Define architecture for
+operational consolidated
+systems and applications
+
+ICT-4
+
+To supply the architecture for consolidation of ICT
+systems in order to supply common components
+and reduce the number of systems; the
+overlapping of functionalities; and costs.
+
+Design of the future technical architecture
+for the operational systems
+
+1
+
+Technical, procurement
+and
+contracts
+coordination for the
+evolution
+of
+both
+operational and nonoperational systems
+
+ICT-5
+
+Technical coordination of developments made in
+collaboration with other business units,
+coordination of the procurement procedures and
+requests in order to ensure the timely acquisition
+of licenses, the execution of support and the
+maintenance and development tasks for:
+- the bespoke operational systems, FOSS, FMM,
+Equipment of the Operations room, GIS solution,
+business
+intelligence
+environment;
+digital
+asset
+management;
+- bespoke applications in the administrative area.
+
+Licenses renewed and operational systems
+maintained/built on time; Operational
+continuity of administrative systems and
+DAMS
+
+6
+
+Intranet / My Frontex
+workspace
+
+ICT-6
+
+Further development of the My Frontex
+Workspace (Intranet based collaboration tools)
+and Record Based Document Management System
+(RDBMS).
+
+My
+Frontex
+Workplace
+configured; functioning RDMS
+
+platform
+
+1.5
+
+Implementation of ICT
+Business
+Continuity
+Capability
+
+ICT-7
+
+Continuation of implementation and operation of
+ICT business continuity capability (Disaster
+Recovery plan and infrastructure) including the
+
+Minimum interruption of the availability of
+ICT systems - according to SLA
+
+1.5
+
+43/79
+
+0
+
+FR
+2,690.000
+
+436.000
+
+1,300.000
+
+1,190.000
+
+1,524.000
+
+Time to Respond
+
+Indicator
+Alignment Index
+
+Alignment Index
+
+Quality
+Level;
+Alignment Index
+
+Satisfaction Level
+
+Alignment Index
+
+installation, running, improvement, test and
+maintenance of the main ICT services in the
+disaster recovery site (DRS).
+Activity ID
+LAU-1
+
+Description
+LAU represents Frontex in front of EU and national
+courts. Furthermore, LAU plays an important role
+in the internal pre-litigation phase and in the
+recovery of financial amounts due.
+
+Legal
+opinions
+and
+advice regarding core
+business , i.e. OPD, CBD
+
+LAU-2
+
+LAU gives support to internal stakeholders on core
+business related matters (OPD, CBD). In view of
+the Mediterranean crises, this activity became to
+be even more significant.
+
+Operational plans; Legal opinion; Opinions,
+consultations, meetings; FPA
+
+1
+
+0
+
+Core business (PAD)
+
+LAU-3
+
+Public
+Access
+to
+Documents
+requests
+Caveat: I&T reconstruction significantly affects
+LAU's workload (two persons from I&T who are
+responsible for PAD matters pursuant to the MB
+Decision No 3/2014 have left to other internal
+entities and will not discharge PAD duties). "Core
+business" staff do not always discharge their
+obligations under the same MB decision (was
+reported in the “risk matrix" a number of times).
+The figure below for LAU is therefore
+underestimated.
+
+PAD requests are handled appropriately
+and timely;
+
+1
+
+0
+
+Decision-making process
+
+LAU-6
+
+LAU checks the legality of the internal decisionmaking process.
+
+Decisions taken are legally correct;
+
+0.5
+
+0
+
+General
+support
+to
+Administration Division
+and Executive Support
+
+LAU-7
+
+General support to Administration Division and
+Executive Support.
+
+Opinions issued
+
+0.5
+
+0
+
+Litigation
+litigation
+
+Title
+and
+
+pre-
+
+Procedural
+registry
+
+Output
+documents logged
+
+44/79
+
+at
+
+the
+
+HR
+1
+
+FR
+0
+
+Indicator
+Quality Level
+
+Number
+of
+operational plans
+verified
+Quality
+Level;
+number
+of
+agreements
+processed
+number of pad
+requests
+completed
+as
+against number of
+requests received
+
+number
+successfully
+challenged
+decisions
+number
+opinions
+
+of
+
+of
+
+Title
+Maintain
+centralised
+document management
+system
+
+Activity ID
+ADM
+
+Description
+Ensuring full functioning of centralised document
+management system
+
+Output
+
+HR
+2
+
+FR
+
+FR
+
+Indicator
+
+4.2.11. Organisational Development and Overheads
+Title
+Establish and enhance
+corporate
+evaluation
+function
+
+Activity ID
+CTL-1
+
+Description
+Internal evaluations (interim, ex ante and ex post)
+are mandated and coordinated by a central entity,
+involving internal and external experts.
+
+Output
+2 evaluations (ex ante/ex post) are carried
+out and documented
+
+HR
+0.4
+
+Enhance
+project
+management
+best
+practices in Frontex
+
+CTL-2
+
+Establish and implement a tailored project
+management methodology - tools and practice,
+project portfolio planning and management,
+establish processes for centralised project support
+function.
+Ongoing process of building up a project oriented
+culture.
+
+All project initiatives are aligned with
+multiannual/ annual planning processes;
+All projects' documentation stored in one
+central depository; One budget line for
+projects
+
+0.4
+
+Business
+Continuity
+Management in Frontex
+
+CTL-3
+
+Set up, maintain and adjust Business Continuity
+Management across Frontex; effectively response
+to threats; BCM protects main business interests
+of Frontex according to the adopted strategy.
+
+BCM Strategy, policy and plan in place; test
+of BCM plan
+
+0.2
+
+Title
+Enhance organisational
+risk management in
+Frontex
+
+Activity ID
+QM-1
+
+Description
+Further develop organisational risk management
+(Internal Control Standard 6) with particular focus
+on Frontex activities.
+
+Output
+Integration of organisational risk into the
+Corporate planning process.
+
+HR
+1
+
+Strengthening Frontex'
+anti-fraud controls
+
+QM-2
+
+In line with OLAF's recommendations for all EU
+Agencies and Commission guidelines the controls
+over potential fraud will be strengthened.
+
+Anti-fraud strategy and action plan.
+
+0.5
+
+Process improvement
+
+QM-3
+
+Improve processes by strengthening process
+management.
+
+Process documentation
+
+45/79
+
+0.5
+
+0
+
+0
+
+Indicator
+Number
+of
+recommendations
+accepted
+Objectives
+Achievement
+Index
+
+-
+
+0
+
+Alignment Index
+
+0
+
+Indicator
+Product Delivery
+Timeliness -Ratio
+
+FR
+
+0
+
+0
+
+Objectives
+Achievement
+Index
+
+-
+
+Satisfaction Level
+
+Title
+Establish and execution
+of
+Data
+Protection
+function (DPO)
+
+Title
+Coordination
+Capacity Building
+
+for
+
+Activity ID
+DPO
+
+Activity
+ID
+CBD
+
+Description
+Assessment of operational and administrative
+activities (planning) regarding impact on the
+individuals’ right of data protection; provision
+of advice.
+
+Output
+
+Description
+
+Output
+
+Coordination of
+hotspots (EURT)
+
+deployment
+
+of
+
+officers
+
+at
+
+HR
+2
+
+HR
+1
+
+46/79
+
+FR
+
+Indicator
+0
+
+FR
+
+Indicator
+0
+
+SECTION IV – BUDGET 2016
+Frontex
+Draft budget 2016
+10-12-2015
+
+REVENUE
+Title A-9
+
+REVENUE
+
+Chapter
+
+Description
+
+Article
+
+Budget 2014 N2
+
+Budget 2015 N3
+
+Draft Budget
+2016
+Remarks
+
+A-900
+
+Subsidy from the Commission
+
+A-901
+
+Contribution from Schengen Associated Countries
+
+A-902
+
+Contribution from the United Kingdom and Ireland
+
+A-90
+
+Subsidies and contributions
+
+A-91
+
+Other Revenue
+
+A-94
+
+Earmarked Revenue
+
+A-9
+
+TOTAL REVENUE
+
+86 810 000
+
+133 528 000
+
+238 686 000
+
+5 640 000
+
+8 852 000
+
+15 249 000
+
+900 000
+
+820 000
+
+0
+
+93 350 000
+
+143 200 000
+
+253 935 000
+
+60 700
+
+100 000
+
+100 000
+
+p.m.
+
+p.m.
+
+4 534 377
+
+97 945 077
+
+143 300 000
+
+Note (1)
+
+254 035 000
+
+Note (1): Estimated revenue for 2016 of EUR 7.5m from the delegation agreement whereby the COM has entrusted budget implementation tasks to Frontex for
+Copernicus security services. According to Frontex financial regulation Art.23.2(c) this revenue is external assigned to expenditure under budget line A-4200.
+These delegated funds are presented for information purposes, the discharge for these funds is given to the European Commission.
+
+47/79
+
+Frontex
+Draft budget 2016
+10-12-2015
+
+EXPENDITURE
+Chapter Description
+
+Total use of
+commitment
+appropriations
+2014
+
+Total use of Budget 2015 N3
+payment
+appropriations
+2014
+
+Draft Budget
+2016
+
+Title
+
+A-1
+
+A-11
+
+Staff in active employment
+
+STAFF
+18 801 881
+
+18 795 455
+
+21 222 000
+
+28 350 000
+
+A-12
+
+Recruitment
+
+122 524
+
+87 490
+
+108 000
+
+286 000
+
+A-13
+
+Administrative missions
+
+250 000
+
+217 814
+
+374 000
+
+500 000
+
+A-14
+
+Sociomedical infrastructure
+
+3 400
+
+1 439
+
+40 000
+
+70 000
+
+A-15
+
+Other staff related expenditure
+
+898 653
+
+800 950
+
+1 020 000
+
+1 410 000
+
+A-16
+
+Social welfare
+
+2 157
+
+2 157
+
+4 000
+
+20 000
+
+A-1
+
+TOTAL STAFF RELATED EXPENDITURE
+
+20 078 614
+
+19 905 305
+
+22 768 000
+
+30 636 000
+
+Title
+
+A-2
+
+A-20
+
+Rental of building and associated expenditure
+
+5 900 016
+
+4 136 676
+
+2 967 000
+
+5 355 000
+
+A-21
+
+Data processing & telecommunications
+
+4 057 195
+
+2 440 404
+
+4 260 000
+
+6 890 000
+
+A-22
+
+Movable property and associated expenditure
+
+738 715
+
+270 971
+
+206 000
+
+163 000
+
+A-23
+
+Current Administrative expenditure
+
+1 041 843
+
+553 614
+
+841 000
+
+825 000
+
+A-24
+
+Postal expenditure
+
+46 500
+
+40 362
+
+60 000
+
+80 000
+
+A-25
+
+Non-operational meetings
+
+410 320
+
+345 374
+
+504 000
+
+515 000
+
+A-26
+
+Information & Transparency
+
+420 944
+
+311 874
+
+466 000
+
+674 000
+
+A-2
+
+TOTAL OTHER ADMINISTRATIVE EXPENDITURE
+
+12 615 532
+
+8 099 276
+
+9 304 000
+
+14 502 000
+
+Title
+
+A-3
+
+A-30
+
+Joint Operations
+
+46 196 007
+
+27 696 348
+
+92 009 000
+
+119 795 000
+
+A-31
+
+Risk analysis, Situation Center & EUROSUR
+
+6 598 243
+
+4 300 501
+
+11 305 000
+
+13 680 000
+
+A-32
+
+Training
+
+4 050 000
+
+2 551 798
+
+4 320 000
+
+5 000 000
+
+A-33
+
+Research and Development
+
+731 595
+
+469 407
+
+930 000
+
+1 100 000
+
+A-34
+
+Pooled Resources
+
+935 154
+
+554 530
+
+1 400 000
+
+1 100 000
+
+A-35
+
+Miscellaneous Operational Activities
+
+553 768
+
+394 915
+
+857 000
+
+1 070 000
+
+A-36
+
+Supporting Operational Activities
+
+388 973
+
+284 122
+
+407 000
+
+40 000
+
+A-37
+
+Return Support
+
+(1)
+
+0
+
+0
+
+0
+
+66 557 000
+
+A-38
+
+Third countries and EU cooperation
+
+0
+
+0
+
+0
+
+555 000
+
+A-3
+
+TOTAL OPERATIONAL ACTIVITIES
+
+59 453 740
+
+36 251 621
+
+111 228 000
+
+208 897 000
+
+Title
+
+A-4
+
+A-41
+
+External Relations
+
+3 838 147
+
+506 199
+
+p.m.
+
+p.m.
+
+A-42
+
+Copernicus
+
+0
+
+0
+
+p.m.
+
+p.m.
+
+A-4
+
+TOTAL EARMARKED EXPENDITURE
+
+3 838 147
+
+506 199
+
+p.m.
+
+p.m.
+
+95 986 033
+
+64 762 401
+
+OTHER ADMINISTRATIVE EXPENDITURE
+
+OPERATIONAL ACTIVITIES
+
+EARMARKED EXPENDITURE
+(2)
+
+GRAND TOTAL
+
+(1)
+
+(1)
+
+143 300 000
+
+254 035 000
+
+New budget chapters "A-37 Return support" and" A-38 Third countries and EU cooperation" have been created in the budget structure for 2016 to reflect the ED decision on the
+
+changes to Frontex organisation.
+(2)
+
+Delegation agreement signed whereby the COM has entrusted budget implementation tasks to Frontex for Copernicus security services. These appropiations correspond to the
+
+external assigned revenue made available.
+
+48/79
+
+Frontex
+Draft budget 2016
+10-12-2015
+
+ESTABLISHMENT PLAN
+Grade
+
+Establishment plan
+2014
+TA
+
+Establishment plan Draft Establishment
+2015
+plan 2016
+
+Perm.
+
+AD16
+
+TA
+
+Perm.
+
+TA
+
+Perm.
+
+0
+
+0
+
+AD15
+
+1
+
+1
+
+1
+
+AD14
+
+1
+
+1
+
+1
+
+AD13
+
+4
+
+4
+
+4
+
+AD12
+
+11
+
+11
+
+13
+
+AD11
+
+8
+
+8
+
+8
+
+AD10
+
+6
+
+6
+
+6
+
+AD9
+
+8
+
+8
+
+8
+
+AD8
+
+43
+
+55
+
+55
+
+AD7
+
+8
+
+29
+
+29
+
+AD6
+
+6
+
+21
+
+19
+
+AD5
+
+2
+
+13
+
+Sub-total AD
+
+98
+
+0
+
+12
+
+157
+
+0
+
+156
+
+AST11
+
+0
+
+0
+
+AST10
+
+0
+
+0
+
+AST9
+
+0
+
+0
+
+AST8
+
+5
+
+5
+
+5
+
+AST7
+
+11
+
+11
+
+11
+
+AST6
+
+13
+
+15
+
+15
+
+AST5
+
+17
+
+20
+
+25
+
+AST4
+
+4
+
+14
+
+9
+
+AST3
+
+4
+
+5
+
+4
+
+AST2
+
+0
+
+0
+
+AST1
+
+0
+
+Sub-total AST
+GRAND TOTAL
+
+0
+
+0
+
+54
+
+0
+
+70
+
+0
+
+69
+
+0
+
+152
+
+0
+
+227
+
+0
+
+225
+
+0
+
+TA = Temporary Agent; Perm. = Officials of the EC
+Proposal of reclassification is based on the rates described in Annex 1b of Staff Regulations.
+This draft does not take into account the implications recalssification 2014 and 2015
+
+Contract agents
+Authorised under
+Authorised under Draft request 2016
+the EU Budget 2014 the EU Budget 2015
+FGIV
+
+18
+
+20
+
+26
+
+FGIII
+
+46
+
+48
+
+57
+
+FGII
+FGI
+
+10
+
+10
+
+10
+
+13
+
+13
+
+13
+
+Total CA
+
+87
+
+91
+
+106
+
+Seconded National Experts
+Authorised under
+Authorised under Draft request 2016
+the EU Budget 2014 the EU Budget 2015
+SNE
+
+78
+
+86
+
+86
+
+49/79
+
+ANNEX I - Procurement Plan 2016
+
+FRONTEX PROCUREMENT PLAN 2016
+The Procurement Plan includes purchases with an estimated value higher than EUR 15.000 EUR, which are not covered by framework contracts already in place
+No
+
+Estimated
+initiation of the
+procedure
+
+Description of the product(s)/service(s) to be purchased
+
+Estimated value in EUR
+
+1
+
+January
+
+Framework contract for earth observation services - the funding for this framework contract will be done via a
+Delegation Agreement signed with DG GROW under the Copernicus Programme.
+
+2
+
+January
+
+Project plan development for the future of border checks pilot for an end-to-end facilitation concept between
+Member State(s) and (a) third country/ies).
+
+30 000
+
+3
+
+January
+
+Maintenance of the Frontex website.
+
+15 000
+
+4
+
+January
+
+Framework contract for leasing vehicles.
+
+1 000 000
+
+5
+
+January
+
+Framework contract for the acquisition of multi purpose containers.
+
+2 500 000
+
+6
+
+January
+
+Subscription of security software (Kaspersky).
+
+7
+
+January
+
+Framework contract for visual intelligence analysis environment for processing of personal information.
+
+8
+
+February
+
+Framework contract for SharePoint software development services.
+
+11 000 000
+
+15 000
+400 000
+600 000 - 1 000 000
+
+50/79
+
+9
+
+February
+
+Training / educational information systems development services / products (e.g. e-Learning instructional
+design).
+
+10
+
+February
+
+Refurbishing and painting services of Frontex headquarters.
+
+11
+
+February
+
+Framework contract for technical support services.
+
+12
+
+February
+
+Provision of editorial/writing services.
+
+25 000
+
+13
+
+February
+
+Purchase of automatic transfer switches for the Frontex Data Centre.
+
+25 000
+
+14
+
+February
+
+Purchase of laptops.
+
+150 000
+
+15
+
+February
+
+Consultancy services: Support the further improvement of risk analysis data architecture and quality maturity
+levels.
+
+100 000
+
+16
+
+February
+
+Risk Analysis GIS portal - functional enhancement and capabilities expansion.
+
+300 000
+
+17
+
+March
+
+Medical services for Frontex staff (pre-recruitment checks, annual medical checks).
+
+400 000
+
+18
+
+March
+
+Development of an e-recruitment system.
+
+100 000
+
+19
+
+March
+
+Subscription Factiva.
+
+40 000
+
+20
+
+March
+
+Interoperable passenger risk model based on data analytics.
+
+60 000
+
+21
+
+March
+
+Project management support for the implementation of the future of border checks pilot.
+
+60 000
+
+800 000
+96 000
+150 000
+
+51/79
+
+22
+
+March
+
+Framework contract for chartering aircrafts for Frontex coordinated return operations.
+
+50 000 000
+
+23
+
+March
+
+Servers and Storage devices, maintenance and service.
+
+300 000
+
+24
+
+March
+
+Software licenses (VMWare, VEEam, etc.), maintenance, support and other services.
+
+400 000
+
+25
+
+March
+
+Satellite communication service.
+
+45 000
+
+26
+
+March
+
+Personnel radio system for live video streaming from bullet camera.
+
+30 000
+
+27
+
+April
+
+Consultancy services: Capacity assessment across EU Member States.
+
+75 000
+
+28
+
+April
+
+Acquisition of Geo-special data.
+
+29
+
+April
+
+Study on the potential, challenges and risks of utilisation of open source information for passenger risk
+assessment.
+
+30
+
+April
+
+Sensor Network Pilot - Phase 2 (subject to successful completion of Phase 1).
+
+200 000
+
+31
+
+April
+
+Pleasure boats information exchange for border control - Technical Pilot.
+
+100 000
+
+32
+
+April
+
+Framework contract for video production services.
+
+270 000
+
+33
+
+April
+
+Maintenance services for software for media monitoring and information databases.
+
+400 000
+
+34
+
+April
+
+Framework contract for services related to the implementation and maintenance of analytical software SAS and
+Microsoft BI.
+
+500 000
+
+400 000
+
+52/79
+
+75 000
+
+35
+
+April
+
+Enterprise architecture services.
+
+50 000
+
+36
+
+April
+
+Development of mobile applications on XenMobile platform.
+
+37
+
+May
+
+Development of additional surveillance capabilities in hotspots.
+
+38
+
+May
+
+Purchase of application's load balancer and related services.
+
+39
+
+May
+
+ESRI - Enterprise License Agreement.
+
+40
+
+May
+
+MS Premier support service.
+
+150 000
+
+41
+
+May
+
+Maintenance service for KABA software.
+
+120 000
+
+42
+
+May
+
+Maintenance services for room booking system.
+
+120 000
+
+43
+
+May
+
+Maintenance service for the Frontex Data Centre.
+
+800 000
+
+44
+
+June
+
+Lease of office space for the Frontex Liaison Office in Brussels/Belgium.
+
+45
+
+June
+
+Development of a new Frontex website.
+
+150 000
+
+46
+
+June
+
+Data Centre: Enhancement of DC monitoring.
+
+100 000
+
+47
+
+June
+
+Disaster Recovery: infrastructure housing services.
+
+160 000
+
+48
+
+June
+
+Disaster Recovery: link between sites.
+
+500 000
+
+200 000
+1 000 000
+180 000
+1 000 000
+
+28 000
+
+53/79
+
+49
+
+August
+
+Development of training tool ("Frontex Quiz").
+
+20 000
+
+50
+
+August
+
+Holographic film and lamination for accreditation cards.
+
+20 000
+
+51
+
+September
+
+Telecommunication services (GSM).
+
+52
+
+September
+
+Servers and storage maintenance contract.
+
+53
+
+September
+
+DMS - Document Management System.
+
+1 100 000
+500 000
+1 000 000
+
+54/79
+
+ANNEX II – Training Portfolio 2016
+This part of the document is a self standing product presented and discussed and endorsed by the
+Management Board in its 54th meeting in May 2015.
+It presents the competencies and planned activities of Frontex Training Unit. Operational training
+organised by other business units are for information listed in the annex. Corporate training of staff
+members are not included.
+
+1. Scope of Work and Basic Principles
+Frontex training activities contribute to the long-term mitigation of multiple risks at EU level, through
+development and implementation of common educational standards, training for members of the European
+Border Guard Teams, thematic training support, and the development and maintenance of networks and
+infrastructures for education and training. The scope is defined by actions identified in Frontex’s MultiAnnual Plan, Programme of Work, and Training Strategy.
+The activities of the Training Unit are carried out on the basis of regular activities and training projects.
+Regular activities refer to the continuous process of training implementation and delivery in the context of
+curricula and course programmes, which are designed through joint efforts of Frontex and experts from
+Member States supported by other EU Agencies and international organisations. The outcomes are (common)
+curricula, courses/course programmes, manuals, and any other type of tools supporting the scope of work,
+such as computer-based simulations, software for self-directed learning or reference tools.
+Planning, development, and further revision of training activities are linked to prior needs assessment,
+carried out together with Member States and partner countries. During or at the end of a regular activity or
+project, evaluation will be carried out and will lead to a periodical report circulated and discussed to all
+relevant stakeholders concerned. Indicators and methodologies are currently under development.
+Courses are mainly targeted towards training of multipliers, who carry out national training activities in
+their respective home countries, and are often used as the most efficient way to cascade competences to
+all Member States. Standardised results in all Member States are ensured through the use of Frontex training
+tools and through guidelines given to multiplier trainers. With this approach to translate the training
+products and to qualify the national multipliers, all Border Guard officers can be trained to the same training
+standards in their mother tongue.
+All training activities aim at having a positive impact on the development of an efficient, high, and uniform
+level of border control at the external borders, and an evolving common European border guard culture
+with high ethical standards.
+The training activities aim at building capacity in four main areas:
+A. Educational Standards (Common Core Curricula)
+B. European Border Guard Team (EBGT) Training
+C. Thematic Training Support
+D. Training Infrastructures
+The scope of work of Frontex’ training activities is described in the diagram below:
+
+55/79
+
+Fig. 1. Scope of work of Frontex’ training activities
+
+2. Activity Areas, Activities and Priorities
+A. Educational Standards (Common Core Curricula)
+The educational standards constitute cornerstones in building harmonised competencies within
+the border guard education and training. They promote the quality assurance principles for
+learning development and recognition at national and European level. The educational standards
+are based on the Sectoral Qualifications Framework (SQF) for Border Guarding as overarching
+framework according to Bologna/Copenhagen principles, and the European Qualifications
+Framework for Lifelong Learning (EQF). The educational standards support the integration of the
+SQF at national and European level, including the curriculum review and alignment process, as
+well as the integration of the quality assurance principles for course design, delivery, and
+certification. The common educational standards are integrating fundamental rights in training
+design as an underpinning orientation. The area includes the various sets of common core
+curricula and courses for border guard education and training which are competence driven and
+learning outcomes based, covering all stages of the career development, as presented below.
+2016 Priorities: The first iteration of the European Joint Master's in Strategic Border Management
+Programme will continue in 2016, with the stage II of the taught component and the beginning of
+the dissertation stage.
+A1. SQF for Border Guarding - Training Standards in Line with Bologna/Copenhagen
+Principles: The SQF contributes to the harmonisation of the Border Guard education and
+training, and supports the national integration of all common curricula, as it offers specific
+reference points for all border guard learning requirements, at all levels, consistent and
+aligned with the European Qualifications Framework for Life Long Learning. Being specific
+to the Border Guard sector, the SQF for Border Guarding creates synergies within the
+European Law Enforcement Training Scheme (LETS) and facilitates inter-agency cooperation
+and coordination in the field of law enforcement training. The national integration of the
+SQF will be monitored by the SQF Expert Board, who collects feedback, share experiences
+56/79
+
+and best practices, and request support as necessary. A panel of Bologna/Copenhagen
+experts will continue to certify the compliance of Frontex training products with the
+European standards. This will enable Frontex to offer courses and curricula to the Member
+States for national implementation that can easily be accredited at national level, as well
+as training certificates for the graduates of Frontex courses, based on the recognition of
+prior learning principles and practice.
+The focus of the SQF follow up in 2016 is set on:
+i.
+
+ii.
+
+the delivery of the Course in Course Design, in line with the Bologna/Copenhagen
+principles in the context of the SQF (designed as a Train-the-Trainers concept). The
+workshops will target the trainers and curriculum design experts nominated by
+the Member States, as part of Frontex support to the SQF integration at national level.
+curricula review, QA and certification of the compliance of the aligned Frontex training
+products (common curricula, training tools, courses etc) with the European standards.
+The development of a technical support in the form of an interactive electronic template
+for course design is expected to be developed in 2016, to support the curriculum review
+and alignment process and the harmonisation of the design process, based on the QA
+principles.
+
+Further activities will be related to the SQF Expert Board, to the development of a new
+concept for the Board QA related, and to the Bologna/Copenhagen expert meetings.
+A2. Common Core Curriculum for Border Guard Basic Training (CCC Basic): the CCC Basic
+offers measurable common standards at SQF levels 4-5 for law enforcement officers in the
+EU. Implemented by national BG training institutions and teachers for students in all EU
+Member States, it encompasses a general part and different modules for sea, air, and land
+borders operations. The current version was updated in 2012. An Interoperability Assessment
+Programme (CCC-IAP) has been carried out. This programme assesses the extent to which
+the CCC 2012 has been integrated into the national curricula of border guard basic training.
+It also provides information on the students’ achievement of the expected competencies.
+The study constitutes the basis for the further development of the CCC Basic.
+A3. Common Core Curriculum for Border Guard Mid-level Education and Training (CCC Midlevel) aims at harmonising the learning requirements for mid-level Border Guard officers.
+The final product will be a modular curriculum structure, comprising a core set of learning
+standards on SQF level 6. It will serve as a curriculum guideline and/or as a degree structure.
+The CCC Mid-level is closely linked to the Mid-level Course (MLC) for EBGT Pool members
+(See B8). The MLC modules have been designed for being integrated in the existing national
+programmes in a flexible manner, in order to facilitate the national integration of the
+common educational standards developed at European level.
+The CCC mid-level, conceptualised as a modular curriculum structure, comprising a core set
+of learning standards on SQF level 6 will serve as a curriculum guideline and/or as a degree
+structure. In 2016 the development work is expected to start, based on an initial needs
+assessment within the stakeholders’ community.
+A4. European Joint Master's in Strategic Border Management: The European Joint Degree
+Study Programme will be delivered by a Consortium of border guard Academies and
+Universities, in collaboration with other supporting institutions from the border guard
+training and education field. This 1,5 years programme includes 10 modules and a
+dissertation with 12 contact weeks in different Universities. It guarantees access to rich online resources and a virtual learning environment. Experienced border guard professionals
+57/79
+
+from all EU and high profile academics guide the students throughout this learning adventure
+close to operational realities. Based on the Master’s curriculum, a set of postgraduate
+courses may be developed and implemented at national level as common core curricula level
+7, to reach out to a wider audience.
+After its launch, the European Joint Degree Study Programme will continue in 2016, with
+the stage II of the taught component and the beginning of the dissertation stage.
+
+58/79
+
+B. European Border Guard Team (EBGT) Training
+This type of training activities focuses on the specific needs of the EBGT pool members for
+carrying out their duties effectively, according to the profile defined for their deployment. The
+EBGT Profile Training improves capability, capacity, and performance of the explicit group of
+member of European Border Guard Teams, foreseen for deployment to Frontex coordinated joint
+operations. The courses are highly interactive, and enable trainees to gain practical experience
+of applying best practice techniques and a proper professional behaviour. During the training,
+every individual participant conducts several role-plays that covers examples specific to the
+respective profile. This approach has proved to be a very effective way to prepare officers for
+their coming duties.
+2016 Priorities: Special focus will be put on the delivery of profile training courses for: screening
+experts, debriefing experts, second-line interview experts, and maritime border surveillance
+officers.
+The profile training courses are addressing selected groups of EBGT profiles:
+B1. Debriefing expert: A course in which participants learn how to debrief migrants by
+systematic extraction of information, for intelligence purposes, from migrants willing to
+cooperate. Participants will learn how to prepare for an interview, how to select the
+interviewee and how to gain his/her trust. Understanding of cognitive interviewing
+techniques and psychological aspects is essential. As debriefing interview is considered to
+be one of the most challenging interviews. It includes both facts and emotional responses.
+During this intensive course trainees are supported by trainers, practitioners and
+psychologists.
+In 2016, up to three courses are foreseen: 2 courses for debriefing experts and 1 national
+course for debriefers.
+B2. Screening expert: A course that focuses on assumption of nationality and identity of
+undocumented migrants. The topics covered during the course include e.g. different ways
+of assumption of nationality and identity, work with interpreter and ways of identification
+of vulnerable persons during a screening interview.
+Considering the current need of trained experts, 1-2 courses for screening experts and also
+up to 2 national courses on nationality assumption are planned.
+B3. Second-Line Interview Expert: This course is focusing on interviewing as the major fact
+finding method. It equips participants with the necessary knowledge and skills to interview
+persons crossing all types of EU borders and to conduct fair and objective interviews. Officers
+learn how to conduct a structured and comprehensive interview, using effective questioning
+and probing techniques. They also get the necessary psychological background and gain
+awareness of how psychological biases and filters can influence perception of others.
+Up to 2 courses are to be held in 2016, open for 16 participants. Additionally, course updates
+will continue in the form of evaluation/planning meetings and trainers meeting for trainers
+involved in activities B1 – B3.
+B4. Second-Line Airport Officer: This course enables participants to effectively fulfil the role
+of second-line airport officers, helping them to interact appropriately and respectfully with
+passengers. The course provides the opportunity for officers to gain, update, and
+demonstrate acquired skills and knowledge, and to become competent and motivated to
+perform the complex tasks while deployed to joint operation, but also in their daily duties.
+During the year 2016, up to 3 courses are foreseen, each for 16 participants. Activities are
+planned for the development of an e-learning tool.
+
+59/79
+
+B5. Land Border Surveillance Officer: The central aim of this course is to provide the learners
+with the competences needed to be able to react effectively and lawfully at land borders.
+It also aims at tackling organised crime by adopting their own tactical and behavioural
+standards.
+The EBGT Land Border Surveillance Handbook will be further developed as common
+reference for participants and trainers. After the pilot phase in 2015 and training content
+fine-tuning, five courses are to be conducted in 2016. Each course is open for 18 participants.
+B6. Maritime Border Surveillance Officer: The central aim of this profile training is to provide
+the learners with the competences needed to be able to react effectively and lawfully in
+Joint Operations in the maritime domain. It includes modules on the legal framework,
+surveillance and maritime search and rescue.
+After piloting the course, the implementation phase is foreseen to start in first quarter of
+2016. Two courses are foreseen to be organized on 2016, each for 16 participants.
+B7. Advanced Level Documents Officer: This course targets border guards and other officers of
+national authorities with experience in carrying out thorough examination of travel
+documents. It provides support to frontline officers. The definition of the target group refers
+to a framework for harmonised programme for the training of document examiners in three
+levels (Council Doc. No. 9551/07).
+This course is linked to the pyramid hierarchy of document expertise. Two specialist courses
+on the Detection of falsified documents are planned to be carried out in 2016. In addition,
+the Advanced Level training tool will be developed into an internet-based eLearning tool as
+a reference material.
+B8. Operational Training for mid-level officers (EBGT MLC) is a newly-designed educational
+mobility programme, piloted in 2015, and offered by Frontex to mid and high-level officers
+of European Border Guard authorities. It promotes a common EU approach to the integrated
+border management, which facilitates interoperability, harmonisation, and mobility in
+Border Management and Cooperation across the EU. The course comprises four modules and
+lasts for 18 weeks in total, out of which five weeks are organized as contact weeks.
+The course is open for 16 participants. 1 course is envisaged to be carried out in 2016.
+B9. Support for EBGT Operational Briefings: These activities aim at supporting harmonisation
+and enhancing quality of operational briefings carried out in connection to deployment. This
+includes further improvements of the briefing material used during general briefing, but it
+also provides assistance to the national briefers.
+After finalising the production of video-based training material activities will focus on
+support to national briefers and 8 training activities to be carried out.
+
+60/79
+
+C. Thematic Training Support
+Frontex’ training activities contribute to complement national training programmes by offering
+thematic training support in specific areas based on prior needs assessment. The national
+implementation of common standards for specialised training of border guards is achieved
+through the development of common training tools and by qualifying national multipliers.
+2016 Priorities: Priority will be given to the following thematic training activities: Return
+operations, anti-trafficking in human beings and Schengen evaluators.
+C1. Fundamental Rights: Frontex Fundamental Rights Trainers’ manual raises awareness and
+provides harmonised guidelines on respecting fundamental rights. It is structured around the
+core functions of the border guards. Frontex facilitates the implementation of the
+fundamental rights training on national level by providing expert support and training of
+national trainers.
+In 2016, Frontex will continue to facilitate the implementation of the fundamental rights
+training on national level, by providing expert support and training of national trainers. The
+training will be delivered in two phases: independent phase (eLearning) and contact phase
+(train-the-trainers course).
+C2. Anti-Trafficking in Human Beings: Frontex Anti-trafficking Trainers’ manual is in line with
+the latest international and European standards, emphasising that the fundamental rights of
+the trafficked person are at the centre of all efforts addressing trafficking in human beings.
+It is structured around the core functions of the border guards. Frontex facilitates the
+implementation of the anti-trafficking courses on national level by providing expert support
+and training of national trainers.
+In 2016, national trainers will be trained by Frontex, based on the methodology of the
+manual, with a practical approach focused on the functions of the border guards. The
+training will be delivered in two phases: independent phase (eLearning) and contact phase
+(train-the-trainers course).
+C3. Schengen Evaluators: The aim of this course is to ensure the highest standards of evaluation
+missions on external borders and in the field of return operations. This one-week training
+programme focuses on how to objectively carry out evaluation missions.
+The courses will continue in 2016 and will be further developed, taking into account the new
+Schengen Evaluation mechanism, and the policy of the EC. A new training module on return
+has been integrated in the course structure as a fourth module. The curriculum will be
+finalised by the first half of 2016 and updated guidelines for the Schengen Evaluators training
+will be made available.
+C4. False Documents Detection: The basic level course is targeted at officials not directly
+involved in border guard tasks, while the training on advanced skills for detection of falsified
+documents is designed for first and second line officers. It aims at enhancing knowledge of
+printing techniques, common terminology and the examination of questioned documents.
+Commonly called “Road shows”, and provided directly at airports, these courses raise
+awareness amongst front-line officers of the latest trends in the design and abuse of secure
+identity documents and emphasise their vital role in detecting false documents, raising their
+profile as the ‘eyes-and-ears’ of the central document fraud units. Training for Visa section
+staff of EU MS/SAC embassies and consulates is delivered to raise awareness amongst visa
+officers of the latest trends on the design and abuse of secure identity documents.
+In 2016, the road shows for first line border guard officers and courses, providing basic
+training on false documents detection for embassy and consular staff of member states in
+Partner Countries, will be organised based on risk analysis. In addition, it is envisaged that
+
+61/79
+
+a level II specialist course will be developed. This course is designed for experienced
+specialist level document experts who have completed the specialist course. The Level II
+course will maintain an emphasis on the foundational elements of document and identity
+security and, in addition, will add an extra focus on new technology and new perspectives
+in authentication of identities, documents, and Identity Fraud.
+C5. English Communication for Border Guards: The English Language Tools for Border Guards
+are meant to improve the English language skills of the border guards when performing their
+daily tasks at the air, land, or sea external borders of the EU, or when participating in Joint
+Operations coordinated by Frontex. The tools are designed to meet the specific language
+needs of the target group.
+In 2016, the development of the English Language for Border Guards eLearning Tool will
+continue. Specific activities will include developing of video and audio scenarios for air,
+land, and sea border, as well as developing vocabulary, language exercises, and assessment.
+C6. Risk Analysis Training: This training focuses on providing the learners with the knowledge
+and skills required to make use of the Common Integrated Risk Analysis Model (CIRAM),
+following the development of the CCC for risk analysis.
+As a result of the 2015 training development, a set of training activities in the field of risk
+analysis are planned to be carried out in 2016.
+C7. NCC (EUROSUR) Operators Training: This modular training programme aims to harmonise
+the competences of the NCC operators at European level with the EUROSUR framework.
+As a result of the 2015 training development, a set of training activities for NCC operators
+are planned to be carried out in 2016, aiming at harmonisation of training and SQF alignment
+of the NCC operators’ competences.
+C8. Return Operations: The standardised escort leaders’ course is designed for supporting
+standards/procedures on joint return flights coordinated by Frontex, as well as on return
+flights organised at the national level. The Training for National Multipliers for returns aims
+at qualifying Member States instructors to deliver the Escort Officers’ training at the national
+level, on the basis of the curriculum for Escort Officers on Joint Return Flights.
+Courses for escort teams and certain Partner Countries return officers will be provided in
+cooperation with Frontex Return Operations Sector, in the framework of specific return
+working arrangements, and based on their training needs, in order to have an adequate
+number of qualified return officers available for national and joint return operations by air.
+In 2016, additional training will be provided, based on Member States training needs, and
+the operational needs of Frontex Return Operations Sector.
+C9. Schengen Borders Code eLearning Tool: This tool simulates an airport border checking
+point, where the border checks are performed on passengers entering the Schengen area. It
+offers border guards a possibility to improve their competences in carrying out border
+checks.
+The fully functional tool will be further developed and integrated into the Training Unit ICT
+platform. After implementation, the tool will be reviewed once a year by the experts
+nominated for the Steering Committee. The Quality Management process for operational
+briefings provides supportive feedback to host Member States for conducting the national
+briefing part. In 2016, further activities are envisaged.
+C10.Training on Integrated Border Management: A new project aiming at developing a
+curriculum for a course on Integrated Border Management for mid-level officers and a
+trainer’s manual will be launched. The material already developed in the framework of the
+
+62/79
+
+European Joint Master's in Strategic Border Management (see A4.) and the operational
+training for mid-level officers (see B8.) will be utilised mutatis mutandis.
+The training concept will be drafted during 2016 based on the results of a workshop carried
+out with experts from the Member States in the first half 2016.
+C11.Air Crew Training: The purpose of the aircrew training is to improve flight safety, to
+enhance the level of competence of aircrews, and to develop common training standards of
+MS/SAC border guard aircrew, thereby strengthening the opportunities for operational
+cooperation during joint operations.
+No air crew training activities are planned to be carried out in 2016.
+C12. Canine Teams: The Common Core Curriculum for Dog Handlers is intended to be used for
+the basic training of dog handlers. By implementing these training standards, dog handlers
+will have a high level common reference system, which will ensure the interoperability of
+canine teams.
+No canine team training activities are planned to be carried out in 2016.
+
+63/79
+
+D. Training Infrastructures
+The activities in the training infrastructures area aim at promoting excellence in border guard
+education and training by maintaining effective cooperation with European stakeholders in Law
+Enforcement education and training. An ICT platform and eLearning solutions are considered of
+strategic importance, as they are targeting cost-effective ways to increase training capabilities
+of Frontex, as well as of its stakeholders.
+2016 Priorities: Priority will be given to the development of a new integrated ICT system for
+training, including e-learning solutions, which is considered of strategic importance, as it is
+expected to significantly increase the training capabilities of Frontex, as well as of its
+stakeholders. Priority will further be given to the implementation of the new Partnership
+Academies Network concept.
+D1. Training Needs Assessment: In order to ensure effective training activities and high impact
+at the European level, training needs are identified, in a structured way, for both Frontex
+joint operations as well as for other activities. The assessment is focused on supporting
+Border Guard performance, while taking into account the needs of partner countries where
+working arrangements are in place. Such measures are to be agreed annually with
+cooperating stakeholders, after prior collaborative assessment, with support of National
+Training Coordinators.
+In 2016, training needs analysis will play a crucial role in the annual planning process of the
+training activities to be organised or coordinated by Frontex. Activities will be launched in
+February 2016, and a report will be available by autumn 2016.
+D2. National Training Coordinators (NTC) Network: The NTC Network provides Frontex
+counterparts with a formal platform for continuous dialogue on training matters for the
+relevant Member Sates representatives to share information and to cooperate on the
+development and improvement of Frontex training activities.
+The network will be consulted to enable Frontex to develop a tailored training offer
+comprising quality training products which reflect the national needs, on one hand, and the
+European dimension of the border management, on the other hand. The annual NTC Network
+Meeting will be carried out during the Frontex Annual Training Conference, in addition to
+possible ad hoc working group meetings.
+D3. Partnership Academies (PA) Network: This network of national border guard academies
+supports Frontex by hosting meetings and training activities and by promoting the share of
+expertise in education and training projects. The concept of the PA network has been revised
+in 2015, and a new structure with an extended scope of activities will be implemented in
+2016.
+The PA network of national border guard academies will continue to support Frontex by
+hosting Frontex meetings and training activities. In addition, the new scope of activities will
+include students and teacher mobility and support to PA cooperation projects. The annual
+PA meeting will be be carried out during the Frontex Annual Training Conference, in addition
+to possible ad hoc working group meetings.
+D4. Cooperation with partner countries: Frontex promotes cooperation in the field of training
+with those partner countries where working arrangement agreements are in place, specifying
+training as a relevant area for cooperation.
+Frontex will make available to Partner Countries access to Frontex Training products.
+Frontex maintains limited readiness to carry out training projects in non-member states
+financed from external sources.
+
+64/79
+
+D5. ICT development: The objective of the future integrated ICT platform is to assure the
+management of the training activities in an information system based on optimised training
+business processes and extended management capabilities. It will implement a blended
+learning educational model with the introduction of online learning activities, in all areas of
+competence, in order to optimise the training delivery methods, increase the educational
+quality level, facilitate the learner centred teaching approach, use certification methods,
+and extensively broaden the learners’ community. The replacement of the current version
+of the Virtual Aula platform is foreseen by the end of 2016.
+Starting in mid 2016, TRU will manage its training activities lifecycle in a state of the art
+information system, and will be able to implement a blended learning model for training. In
+the first part of the year, the system will be in its development stage, followed up by a
+service transition period from Virtual Aula platform. Post-implementation review will be
+performed after entry into operational state.
+In addition, a variety of web-based conferences (“webinars) will be organised on emerging
+trends and subject-area-related matters.
+D6. Frontex’ Training Annual Conference: The Annual Conference is held in connection to the
+network meetings for the Partnership Academies, the National Training Coordinators and the
+partner organisations of the Law Enforcement Communities. The event focuses on a thematic
+area relevant for education and training in the Border Guard Community.
+The event is scheduled in connection with the PA/NTC Annual Network Meeting (4-6 October
+2016), focusing on a thematic area relevant for education and training in the Border Guard
+Community.
+D7. Training Experts Certification Programme: With this project, Frontex aims at establishing
+a quality assurance mechanism for development and delivery of training. A new system of
+certification of Frontex external training experts will be introduced.
+The development activities will continue in 2016, with expert workshops and development
+meetings foreseen. The Certification handbook and the Trainers` toolkit will be available
+for Frontex external training experts. Furthermore, a trainers’ conference will be carried
+out in spring 2016, targeting external training officers of Frontex’ Training Unit. An
+important part of the conference will address the future certification system and offer
+thematic train-the-trainer activities.
+For all of the activities mentioned above, extension of the cooperation with other European
+Agencies, i.e., those in the field of Law Enforcement, is envisaged.
+
+65/79
+
+3. Multi-Annual Plan
+In order to achieve the objectives set by the Frontex Training Strategy, multi-annual planning
+and monitoring is essential. Training products need to follow a cycle of development,
+implementation, review, and update, which is to be done by an annual planning of activities. The
+intended timeline for activities related to the development, update and/or revision is presented
+below:
+Activities/Products
+A1.
+
+SQF (ver. 2.0)
+
+A1.
+
+Course in “Course Design”
+
+A2.
+
+CCC IAP (revision and implementation)
+
+A2.
+
+CCC basic (ver. 3.0)
+
+A3.
+
+CCC mid-level
+
+A3.
+
+CCC Level 7 courses development
+
+A4.
+
+EJMSBM book release
+
+A4.
+
+EJMSBM re-accreditation
+
+B.
+
+Online learning modules for EBGT
+
+B6
+
+Maritime Borders Surveillance Simulation Tool
+
+B6.
+
+Maritime Borders Surveillance Manual
+
+C1.
+
+Fundamental Rights Manual and Course
+
+C2.
+
+Anti-trafficking Training Manual
+
+C3.
+
+Training for Schengen Evaluators
+
+C4.
+
+False Documents Trainers Manual
+
+C4.
+
+False Documents Advanced Skills
+
+C4.
+
+False Documents Visa Officer Training Tool
+
+C6.
+
+Risk Analysis Training
+
+C7.
+
+NCC Operators
+
+C10.
+
+Integrated Border Management
+
+C11.
+
+Air Crew Training Manual
+
+C10.
+
+Electro-optical and Infrared systems operator
+
+C10.
+
+Mountain Operation training procedures
+
+C10.
+
+NVG standard training procedures
+
+C11.
+
+Dog handlers curriculum
+
+C11.
+
+Canine instructors curriculum
+
+D.5
+
+Quality Assurance System
+
+D5.
+
+ICT Platform/Development
+
+D5.
+
+Instructional Design for all TRU Products
+
+D7.
+
+Trainers Certification
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+66/79
+
+= Development/Update/Revision
+
+4. Action Plan 2016
+a.
+
+Development Actions
+
+No.
+
+Activities/Products
+
+Planned Actions
+
+A. Educational Standards (Common Core Curricula)
+
+S01/16
+
+A1. SQF for Border Guarding
+
+Development of an interactive electronic
+template for course design, curriculum
+review and alignment process with the SQF
+
+S02/16
+
+A2. Common Core Curriculum for Border
+Guard Basic Training (CCC basic) (A2)
+
+CCC alignment with the SQF
+
+S03/16
+
+A3. Common Core Curriculum for Border
+Guard Mid-level Education and Training
+(CCC Mid-level)
+
+CCC for Mid-level development
+
+B.
+S04/16
+
+European Border Guard Team (EBGT) Training
+B4. Second-Line Airport Officer
+
+Development of the Second-Line Airport
+Officer eLearning tool
+
+C. Thematic Training Support
+S05/16
+
+C3. Schengen Evaluators
+
+Training update (curriculum, guidelines,
+modules)
+
+S06/16
+
+C4. False Documents Detection
+
+Development of a level II Specialist Course
+
+S07/16
+
+C5. English Communication for Border Guards
+
+Development of the English Language for
+Border Guards e-learning tool
+
+S08/16
+
+C6. Risk Analysis Training
+
+Development of a curriculum
+
+S09/16
+
+C9. Schengen Borders Code eLearning Tool
+
+Implementation, QA process and ICT
+platform integration
+
+S10/16
+
+C10. Training on Integrated Border
+Management
+
+Production of IBM training concept and
+curriculum development, production of a
+trainer’s manual and delivery of pilot
+training
+
+D. Training Infrastructures
+S11/16
+
+D1. Training Needs Assessment (TNA)
+
+Training Needs Report and Analysis
+
+S12/16
+
+D5. ICT Development
+
+Instructional design, QA, replacement of
+Virtual Aula
+
+S13/16
+
+D7. Training Experts Certification Programme
+
+Development of a new certification system
+
+67/79
+
+b.
+
+Courses
+No.
+
+Planned Actions
+
+SQF
+Level
+
+3 Courses in course design, review and
+alignment
+4 Trainers Workshops
+3 Workshops: Reviewing and Aligning Fx
+Tools
+
+4-7
+
+Activities
+
+A. Education Standards (Common Core Curricula)
+T01/16
+T02/16
+T03/16
+T04/16
+T05/16
+T06/16
+T07/16
+T08/16
+T09/16
+T10/16
+T11/16
+
+A1. SQF for Border Guarding
+
+A4. European Joint Master's in
+Strategic Border Management
+(A4)
+
+Contact Weeks (4 modules, 6 weeks)
+
+7
+
+B. European Border Guard Team (EBGT) Training
+T12/16
+T13/16
+
+B1. Debriefing experts (B1)
+
+2 Profile Courses for Debriefing
+Experts, 1 National Course for
+Debriefers
+
+6
+
+T14/16
+T15/16
+
+B2. Screening experts
+
+2 Profile Courses for Screening Experts,
+1 National Course on Nationality
+Assumption
+
+5
+
+T16/16
+
+B3. Second-Line Interview Experts
+
+1 Course for 2nd Line Interview Experts
+
+5
+
+T17/16
+T18/16
+T19/16
+
+B4. Second-Line Airport Officer
+
+3 Second-Line Airport Officer Courses
+
+5
+
+T20/16
+T21/16
+T22/16
+T23/16
+
+B5. Land Border Surveillance
+Officer
+
+4 Land Border Surveillance Officer
+Profile Courses
+
+5
+
+T24/16
+T25/16
+
+B6. Maritime Border Surveillance
+Officer
+
+2 Maritime Border Surveillance Officer
+Profile Courses
+
+4-5
+
+T26/16
+T27/16
+
+B7. Advanced Level Documents
+Officer
+
+2 EBGT Specialist Course for Advanced
+Level Documents Officer
+
+6
+
+T28/16
+
+B8. Operational Training for midlevel officers (EBGT MLC)
+
+1 Operational course for Mid-level
+officers (EBGT MLC), 5 MLC Contact
+Weeks
+
+6
+
+T29/16
+T30/16
+T31/16
+T32/16
+T33/16
+T34/16
+T35/16
+T36/16
+
+B9. Support for EBGT Operational
+Briefing
+
+8 Training Activities for National
+Briefers (upon request)
+
+4-5
+
+68/79
+
+No.
+
+Activities
+
+Planned Actions
+
+SQF
+Level
+
+C. Thematic Training Support
+T37/16
+T38/16
+T39/16
+T40/16
+
+C1. Fundamental Rights
+
+2 train-the-trainer activities (ToT)
+courses
+2 on-line sessions
+
+6
+
+T41/16
+T42/16
+T43/16
+T44/16
+
+C2. Anti-Trafficking in Human
+Beings
+
+2 train-the-trainer activities (ToT)
+Courses
+2 on-line sessions
+
+6
+
+T45/16
+T46/16
+
+C3. Schengen Evaluators
+
+2 Courses for Schengen Evaluators
+
+5-6
+
+T47/16
+T48/16
+T49/16
+T50/16
+T51/16
+T52/16
+
+C4. False Documents Detection
+
+6 Courses
+
+5-6
+
+T53/16
+
+C7. NCC (EUROSUR) Operators
+
+Course (3 modules and exams)
+
+4-5
+
+C8. Return operations
+
+4 Courses: Frontex Joint Return
+Operations
+2 Courses: National Multipliers
+3 Courses: Standardised Training for
+Escort Leaders
+1 Course (tbc): Third Countries Escort
+Teams on collecting Joint Return Flights
+
+5-6
+
+T54/16
+T55/16
+T56/16
+T57/16
+T58/11
+T59/16
+T60/16
+T61/16
+T62/16
+T63/16
+
+D. Training Infrastructures
+T64/16
+
+D3. Partnership Academies (PA)
+Network
+
+PA Teacher Exchanges, PA Student
+Exchanges
+
+na
+
+T65/16
+T66/16
+T67/16
+T68/16
+
+D5. ICT
+Infrastructure/Development
+
+4 Web-based Conferences (“webinars”)
+
+na
+
+69/79
+
+c.
+
+Workshops/Meetings/Conferences
+No.
+
+Activities/Products
+
+Planned Actions
+
+A. Educational Standards (Common Core Curricula)
+M01/16
+M02/16
+
+A1. SQF for Border Guarding
+
+1 expert board meeting, 1 Frontex SQF
+Expert Panel Meeting
+
+M03/16
+M04/16
+M05/16
+M06/16
+M07/16
+M08/16
+M09/16
+
+A2. Common Core Curriculum for Border
+Guard Basic Training (CCC basic)
+
+7 WG sessions CCC alignment with SQF
+
+M10/16
+M11/16
+M12/16
+M13/16
+M14/16
+
+A3. Common Core Curriculum for Border
+Guard Mid-level education and training
+(CCC mid-level)
+
+5 CCC for Mid-level development WG
+Sessions
+
+A4. European Joint Master's in Strategic
+Border Management
+
+1 Governing Board Meeting
+1 Programme Board/Programme
+Coordinators Meeting
+1 Quality Assurance Committee Meeting
+1 Dissertation Supervision Groups Meeting
+1 Meeting of the Board of Examiners
+
+M15/16
+M16/16
+M17/16
+M18/16
+M19/16
+
+B. European Border Guard Team (EBGT) Training
+M20/16
+M21/16
+M22/16
+M23/16
+M24/16
+M25/16
+
+B3. Second-Line Interview Expert
+
+6 Evaluation/Planning Meetings
+
+M26/16
+
+B4. Second-Line Airport Officer
+
+1 Evaluation and Preparatory Meeting
+
+M27/16
+M28/16
+
+B5. Land Border Surveillance Officer
+
+2 Evaluation/Planning Meetings
+
+M29/16
+M30/16
+M31/16
+M32/16
+
+B6. Maritime Border Surveillance Officer
+
+1 Preparatory Meeting/site visit
+3 Evaluation and Preparatory Meetings
+
+M33/16
+
+B8. Operational Training for Mid-level
+officers (EBGT MLC)
+
+1 Evaluation and Planning Meeting
+
+70/79
+
+No.
+
+Activities/Products
+
+Planned Actions
+
+C. Thematic Training Support
+M34/16
+M35/16
+
+C1. Fundamental Rights
+
+1 Preparatory Meeting
+1 Reviewing Meeting
+
+M36/16
+M37/16
+
+C2. Anti-Trafficking in Human Beings
+
+1 Preparatory Meeting
+1 Reviewing Meeting
+
+M38/16
+M39/16
+
+C3. Schengen Evaluators
+
+4 Development Meetings
+2 Preparatory Meetings
+
+M40/16
+
+C4. False Documents Detection
+
+1 Development Meeting
+
+M41/16
+M42/16
+M43/16
+M44/16
+M45/16
+
+C5. English Communication for Border
+Guards
+
+5 Reviewing/development Meetings
+
+M46/16
+M47/16
+M48/16
+M49/16
+M50/16
+M51/16
+M52/16
+M53/16
+
+C6. Risk Analysis training
+
+2 Preparatory meetings
+6 Development meetings
+
+M54/16
+M55/16
+
+C7. NCC (EUROSUR) Operators Training
+
+1 Preparatory Meeting
+1 Evaluation Meeting
+
+M56/16
+M57/16
+M58/16
+
+C8. Return Operations
+
+1 Workshop: Third Countries Escort Teams
+for CJRO curriculum dev./ SQF alignment
+1 Workshop: MS Escort Leaders curriculum
+development / alignment with SQF
+1 Workshop: Nat. multipliers training dev.
+
+M59/16
+M60/16
+M61/16
+M62/16
+
+C9. Schengen Borders Code eLearning Tool
+
+3 Development/update Meetings
+1 Steering Committee Meeting
+
+M63/16
+
+C10. Training on Integrated Border
+Management
+
+1 Workshop
+
+71/79
+
+No.
+
+Activities/Products
+
+Planned Actions
+
+D. Training Infrastructures
+
+d.
+
+M64/16
+M65/16
+M66/16
+
+D1. Training Needs Assessment
+
+3 Workshops/focus groups
+
+M67/16
+M68/16
+M69/16
+
+D2. National Training Coordinators (NTC)
+Network
+
+1 Annual Meeting
+2 Meetings / working groups
+
+M70/16
+M71/16
+M72/16
+
+D3. Partnership Academies (PA) Network
+
+1 Annual Meeting
+2 Meetings / ad-hoc workshops
+
+M73/16
+
+D6. Frontex’s Annual Training Conference
+
+1 Conference
+
+M74/16
+M75/16
+
+D7. Training Experts Certification
+Programme
+
+1 Expert Meeting
+1 Conference
+
+Products/Deliverables
+No.
+
+Activities
+
+Products
+
+P01/16
+
+B1. Debriefing Expert
+
+Trainers handbook
+
+P02/16
+
+B5. Land Border Surveillance Officer
+
+LBS on-line manual
+
+P03/16
+
+B7. Advanced Level Documents Officer
+
+P04/16
+
+B9. Support for EBGT Operational Briefings
+
+Advanced Level training tool will be
+developed into an internet-based eLearning
+tool as a reference material.
+Training support material
+
+P05/16
+
+C3. Schengen Evaluators
+
+Course Manual
+
+P06/16
+
+Online tool
+
+P07/16
+
+C5. English Communication for Border
+Guards
+C9. Schengen Borders Code eLearning Tool
+
+P08/16
+
+C10.ICT Development
+
+P09/16
+
+D8. Training Experts Certification
+Programme
+
+eLearning ICT platform – fully functional
+by the end of year; Instructional design
+solutions
+Trainer’s toolkit
+
+Online tool
+
+72/79
+
+Training Organised by Other Business Units
+1. Joint Operations Unit
+Sea Border Sector
+
+
+EPN Concept / EPN General
+
+Topic
+EPN Meetings/Workshops
+
+EPN Staff Exchange
+Supporting regional maritime cooperation
+fora
+
+
+Activities
+Workshops,
+operational meetings
+and field visits
+Exchange/mobility
+Programme
+Regional meetings
+
+Location
+tbd
+
+EU MS
+
+Joint Operations
+
+Topic
+JORA reporting
+
+Operational Briefing
+Operational Debriefing
+Screening Activity: Checking belongings
+Debriefing Advisor Support
+Planning / Evaluation Meetings
+
+Activities
+Workshops,
+Operational Meetings
+and Field Visits
+Induction Training
+Induction Training
+Training
+Awareness Session
+Meetings
+
+Location
+tbd
+
+EU MS
+
+Air Border Sector
+
+Topic
+VEGA Children Best Practices
+
+Activities
+Awareness Sessions
+
+Location
+EU MS
+
+Land Border Sector
+
+Topic
+Exchange Project for BGP Coordinators
+
+Activities
+Exchange Activity
+
+Location
+tbd
+
+Return Operations Sector
+
+Topic
+Standardised Training for Escort Leaders
+National Multipliers Training for GR, LV, LT,
+LU, MT, and CH
+Third Countries Return Officers (Multipliers,
+Escort Leaders, Escort Officers), for Serbia,
+Georgia, and Albania
+National Training seminars for Screeners
+
+Activities
+
+Location
+
+2-3 Trainings
+1 Seminar
+
+tbd
+tbd
+
+2-3 Seminars
+
+tbd
+
+2-3 Seminars
+
+Bulgaria
+
+73/79
+
+2. Risk Analysis Unit
+Topic
+Risk Analysis for Border Security
+Concepts Structure and Tools in
+(version A)
+Concepts Structure and Tools in
+(version B)
+Selected Techniques for Risk Analysis
+Selected Techniques for Risk Analysis
+Strategic Risk Analysis for Managers
+
+Activities
+
+Location
+
+Risk Analysis
+
+Training
+Training
+
+Frontex
+Frontex/EU MS
+
+Risk Analysis
+
+Training
+
+EaP
+
+(Version A)
+(Version B)
+
+Training
+Training
+Seminar
+
+Frontex
+EaP
+Frontex
+
+3. Frontex Situation Center
+Topic
+
+Activities
+
+EUROSUR Fusion Services and other Information
+Exchange products
+
+Training
+
+Location
+tbd
+
+4. Information and Communication Technology Unit
+Topic
+EUROSUR Training
+
+Activities
+Course
+
+SQF
+5-6
+
+Location
+tbd
+
+5. Relex-TC
+
+
+EAP (Objectives: Facilitate the movements of persons and goods across the borders in
+the six EaP countries, and maintaining secure borders at same time, cooperation
+project.)
+Border guard/police training
+
+Topic
+
+Activities
+5
+
+EaP/EU
+
+Crisis Management at the strategic level
+Capacity building in Border Management
+Anti-trafficking Training for Border Guards
+False Document Detection for Border Guards
+
+1 Regional train the
+trainers course
+1 Regional Workshop
+2 Regional Workshops
+1 Regional Workshop
+2 Regional train the
+trainers courses
+3 National Courses
+
+5-6
+5
+5
+5
+
+EaP/EU
+EaP/EU
+EaP
+EaP
+
+4
+
+EaP
+
+2 regional workshops
+2 workshops for AZE,
+ARM, GEO
+1 Regional Workshop
+2 Regional workshops
+
+5
+5
+
+Frontex HQ
+Frontex HQ
+
+4-5
+4-5
+
+Frontex HQ
+Frontex HQ
+
+1 Regional train the
+trainers course
+1 Regional Workshop
+1 Regional Workshop
+
+5
+
+EaP
+
+5
+5
+
+EaP
+EaP
+
+Second Line Check
+
+English Language Course for Border Police at
+airports
+Analysis Techniques
+Setting up of a Regional Information
+Exchange Capacity
+Creating EaP regional RAN
+Maintaining EaP network of the six partner
+countries
+Fundamental Rights Training for Border
+Guards
+Inter-agency cooperation
+PR Regional Training Session on open and
+transparent
+communication
+for
+law
+enforcement agencies
+
+SQF
+
+Location
+
+74/79
+
+Customs training
+
+Topic
+
+Activities
+
+Convention on a Common Transit Procedure (CTC),
+including IT in Customs and New Computerised
+Transit Systems (NCTS) for GEO, MD and UA
+WCO Revenue Package
+WCO Organisational Development Package
+Authorised Economic Operators– principles
+EU customs regulation - Union Customs Code
+Origin of goods, rules of origin
+Customs debt, deferred payments, guaranties
+Authorised Economic Operators– principles
+X-ray Scanning Images Interpretation
+Study visit
+
+
+
+1
+Regional
+Workshop
+
+Location
+train
+
+1 Regional Workshop
+1 Regional Workshop
+1 National training
+1 National Training
+1 National Training
+1 National Training
+1 National Training
+1 National Training
+1 Study Visit for BG and
+Customs officials from 6
+EaP countries
+
+EaP
+
+EaP
+EaP
+Armenia
+Azerbaijan
+Georgia
+Moldova
+Ukraine
+Azerbaijan
+EU
+
+WB IPA II (Objectives: Provide support to protection sensitive migration management to the
+Western Balkans and Turkey, 36 months, cooperation project with IOM, EASO and UNHCR)
+Topic
+Screeners Training
+Debriefers Training
+Second-line Interview Officers Training
+Advanced Skills in Detection of Falsified Documents Training
+Courses in the area of Return, including Escort Officers
+Training
+Fundamental Rights and Anti-trafficking in Human Beings (in
+cooperation with implementing partners)
+
+Activities
+1 Training
+1 Training
+1 Training
+1 Training
+1 Training
+
+SQF
+5
+6
+5
+5
+5
+
+Location
+tbd
+tbd
+tbd
+tbd
+tbd
+
+1 Training
+
+4, 5
+
+tbd
+
+6. Information & Transparency
+Topic
+Media Training Sessions
+
+Roadshow
+
+Activities
+Media
+Training
+Sessions for EBGT (1020 participants)
+Awareness Sessions
+
+Location
+EU
+
+EU MS airports
+
+75/79
+
+Selected Outcome of Annual Bilateral Talks 2015 – Schengen Associated Countries
+
+Table 1 - HR offered by SAC & offer confirmed by Frontex
+
+Participating SAC
+
+Joint Operation
+
+Resources
+offered by SAC
+
+Resources
+confirmed by
+Frontex
+
+Days of deployment /
+per 1 GO
+
+CH
+
+Alexis I
+
+1
+
+1
+
+65
+
+CH
+
+Alexis II
+
+1
+
+1
+
+57
+
+CH
+
+Eurocup 2016
+
+1
+
+1
+
+40
+
+CH
+
+Focal Point/Coordination Points Regular
+
+2
+
+2
+
+30
+
+CH
+
+Focal/Coordination Points Air – Intermediate Managers
+
+5*
+
+2
+
+10
+
+CH
+
+Vega Children I
+
+1
+
+1
+
+36
+
+CH
+
+Vega Children II
+
+1
+
+1
+
+43
+
+CH
+
+Focal Points 2016 Land
+
+6
+
+6
+
+Min.29 – Max.85
+
+CH
+
+EPN Minerva 2016
+
+1
+
+1
+
+47
+
+CH
+
+EPN Triton 2016
+
+1
+
+1
+
+91
+
+20
+
+17
+
+Total
+IS
+
+Alexis I
+
+1
+
+1*
+
+TBC
+
+IS
+
+Alexis II
+
+1
+
+1*
+
+57
+
+IS
+
+Eurocup 2016
+
+1
+
+1*
+
+40
+
+IS
+
+Focal Point/Coordination Points Regular
+
+1
+
+1*
+
+30
+
+IS
+
+Focal/Coordination Points Air – Intermediate Managers
+
+1
+
+1*
+
+10
+
+IS
+
+EPN Triton 2016
+
+1
+
+1*
+
+61
+
+76/79
+
+Total
+
+6
+
+6
+
+NO
+
+Alexis I
+
+1
+
+1
+
+65
+
+NO
+
+Alexis II
+
+1
+
+1
+
+57
+
+NO
+
+Focal Point/Coordination Points Regular
+
+1
+
+1
+
+30
+
+NO
+
+Focal/Coordination Points Air – Intermediate Managers
+
+2
+
+2
+
+10
+
+NO
+
+Vega Children I
+
+1
+
+1
+
+36
+
+NO
+
+Vega Children II
+
+1
+
+1
+
+43
+
+NO
+
+Focal Points 2016 Land
+
+4
+
+3
+
+29
+
+NO
+
+EPN Indalo 2016
+
+2
+
+2
+
+61
+
+NO
+
+EPN Minerva 2016
+
+1
+
+1
+
+47
+
+NO
+
+EPN Poseidon 2016
+
+5
+
+3
+
+Min.195 – Max.320
+
+NO
+
+EPN Triton 2016
+
+3
+
+2
+
+325
+
+22
+
+18
+
+Total
+
+Note: * confirmation still pending
+
+77/79
+
+Table 2: Additional HR offered by SAC, OFFER NOT YET CONFIRMED BY FRONTEX
+
+Participating SAC
+
+Joint Operation
+
+Resources
+offered by SAC
+
+Resources
+pending
+confirmation by
+Frontex
+
+Days of deployment /
+per 1 GO
+
+NO
+
+EPN Poseidon 2016
+
+2
+
+2
+
+TBD
+
+NO
+
+EPN Triton 2016
+
+1
+
+1
+
+TBD
+
+NO
+
+-
+
+5
+
+5
+
+TBD
+
+8
+
+8
+
+Resource Type
+
+Resources
+offered by SAC
+and confirmed
+by Frontex
+
+Days of deployment /
+per 1 unit
+
+Total
+
+Table 3: TE offered by SAC, offer confirmed by Frontex
+
+Participating SAC
+
+Joint Operation
+
+CH
+
+Focal Points 2016 Land
+
+Service dog
+
+1
+
+29
+
+CH
+
+South Eastern Borders
+
+Patrol car
+
+1
+
+85
+
+CH
+
+Western Balkans
+
+Patrol car
+
+2
+
+Min.57 – Max.197
+
+Total
+IS
+
+EPN Triton 2016
+
+4
+FWA
+
+78/79
+
+1
+
+59
+
+Total
+
+2
+
+NO
+
+EPN Minerva 2016
+
+Service dog
+
+2
+
+47
+
+NO
+
+EPN Triton 2016
+
+OPV
+
+1
+
+123
+
+NO
+
+Focal Points 2016 Land
+
+Service Dog
+
+2
+
+TBC
+
+Total
+
+3
+
+79/79
+
+

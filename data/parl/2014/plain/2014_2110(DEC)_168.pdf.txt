@@ -1,0 +1,363 @@
+Procedure file
+Basic information
+2014/2110(DEC)
+
+DEC - Discharge procedure
+
+Procedure completed
+
+2013 discharge: European Network and Information Security Agency
+(ENISA)
+
+Subject
+8.70.03.03 2013 discharge
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Budgetary Control
+
+CONT
+
+Appointed
+09/10/2014
+
+CZARNECKI Ryszard
+Shadow rapporteur
+
+ZDECHOVSKÝ Tomáš
+
+VAUGHAN Derek
+
+ALI Nedzhmi
+
+DE JONG Dennis
+
+JÁVOR Benedek
+
+VALLI Marco
+Committee for opinion
+ITRE
+
+European Commission
+
+Industry, Research and Energy
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commission DG
+
+Commissioner
+
+Budget
+
+GEORGIEVA Kristalina
+
+Key events
+30/07/2014
+
+Non-legislative basic document published
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+23/03/2015
+
+Vote in committee, 1st reading/single
+reading
+
+30/03/2015
+
+Committee report tabled for plenary,
+single reading
+
+21/04/2015
+
+Debate in Parliament
+
+29/04/2015
+
+Results of vote in Parliament
+
+29/04/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+COM(2014)0510
+
+Summary
+
+A8-0089/2015
+
+Summary
+
+T8-0150/2015
+
+Summary
+
+29/04/2015
+
+End of procedure in Parliament
+
+30/09/2015
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2014/2110(DEC)
+
+Procedure type
+
+DEC - Discharge procedure
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CONT/8/01637
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2014)0510
+
+30/07/2014
+
+EC
+
+Summary
+
+N8-0090/2014
+OJ C 442 10.12.2014, p. 0217
+
+16/09/2014
+
+CofA
+
+Summary
+
+Committee draft report
+
+PE539.698
+
+29/01/2015
+
+EP
+
+Document attached to the procedure
+
+05304/2015
+
+30/01/2015
+
+CSL
+
+Amendments tabled in committee
+
+PE539.752
+
+06/03/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0089/2015
+
+30/03/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0150/2015
+
+29/04/2015
+
+EP
+
+Summary
+
+Court of Auditors: opinion, report
+
+Summary
+
+Final act
+Budget 2015/1669
+OJ L 255 30.09.2015, p. 0284 Summary
+
+2014/2110(DEC) - 30/07/2014 Non-legislative basic document
+PURPOSE: presentation by the Commission of the consolidated annual accounts of the European Union for the financial year 2013, as part of
+the 2013 discharge procedure.
+Analysis of the accounts of the European Network and Information Security Agency (ENISA).
+CONTENT: this Commission document sets out the consolidated annual accounts of the European Union for the financial year 2013 as
+prepared on the basis of the information presented by the institutions, organisations and bodies of the EU, in accordance with Article 129 (2) of
+the Financial Regulation applicable to the EU's General Budget, including the European Network and Information Security Agency (ENISA).
+The document contains the figures on which the discharge procedure is based.
+Discharge procedure of the EU agencies: the EU Budget finances a wide range of policies and programmes throughout the EU. In accordance
+with the priorities set by the European Parliament and the Council in the multi-annual financial framework (MFF), the European Commission
+carries out specific programmes, activities and projects in the field with the technical support of some specialised agencies.
+The consolidated annual accounts of the EU provide information on the activities of the institutions, agencies and other bodies of the EU from
+a budgetary and accrual accounting perspective.
+The consolidated reports on the implementation of the general budget of the EU include the budget implementation of all Institutions. Agencies
+do not have a separate budget inside the EU budget; and they are partially financed by a Commission budget subsidy.
+Each agency is subject to its own discharge procedure.
+ENISA: in 2013, the tasks and budget of this agency were as follows:
+description of the Agency's tasks: ENISA, which is located in Heraklion, Greece, was established under Regulation 460/2004/EC of
+the European Parliament and of the Council. Its main task is to enhance the Community's capability to prevent and respond to network
+and information security problems by building on national and Community efforts;
+ENISA's budget for the 2013 financial year: the Agencys budget for 2013, as presented in the Commission document on the
+consolidated annual accounts of the European Union, gives the following figures:
+
+§
+
+Commitment appropriations :
+- committed : EUR 10 million;
+- paid : EUR 9 million;
+- carried-over : EUR 1 million.
+
+§
+
+Payment appropriations :
+- committed : EUR 10 million;
+- paid : EUR 9 million;
+- carried-over : EUR 1 million.
+
+Please refer also to the final accounts of the ENISA.
+
+2014/2110(DEC) - 16/09/2014 Court of Auditors: opinion, report
+PURPOSE: presentation of the EU Court of Auditors report on the annual accounts of the European Network and Information Security Agency
+(ENISA) for the year 2013, together with the Agencys reply.
+CONTENT: in accordance with the tasks conferred on the Court of Auditors by the Treaty on the Functioning of the European Union, the Court
+presents to the European Parliament and to the Council, in the context of the discharge procedure, a Statement of Assurance as to the
+reliability of the annual accounts of each institution, body or agency of the EU, and the legality and regularity of the transactions underlying
+them, on the basis of an independent external audit.
+This audit concerned, amongst others, the annual accounts of the European Network and Information Security Agency (ENISA).
+Statement of assurance: pursuant to the provisions of Article 287 of the Treaty on the Functioning of the European Union (TFEU), the Court
+has audited:
+the annual accounts of the Agency, which comprise the financial statements and the reports on the implementation of the budget for
+the financial year ended 31 December 2013;
+the legality and regularity of the transactions underlying those accounts.
+Opinion on the reliability of the accounts: in the Courts opinion, the Agencys annual accounts present fairly, in all material respects, its
+financial position as at 31 December 2013 and the results of its operations and its cash flows for the year then ended, in accordance with the
+provisions of its Financial Regulation and the accounting rules adopted by the Commissions accounting officer.
+Opinion on the legality and regularity of the transactions underlying the accounts: in the Courts opinion, the transactions underlying the annual
+accounts for the year ended 31 December 2013 are legal and regular in all material respects.
+The report also makes a series of observations on the budgetary and financial management of the Agency, accompanied by the latters
+response. The main observations may be summarised as follows:
+The Courts observations:
+budgetary management: the overall level of committed appropriations was 94 %, which is explained mainly by the fact that additional
+funds requested from the Commission to finance the refurbishment of the new office in Athens were only approved in November 2013.
+In this context, an amount of EUR 500 000 that was not yet committed at year-end was carried over following a Management Board
+decision. In total, non-committed and committed appropriations carried over to 2014 amounted to EUR 1.2 million (or 13.5% of total
+appropriations);
+double headquarters: operational staff of ENISA were relocated to Athens in 2013 while administrative staff remain in Heraklion. The
+administrative costs could be reduced if all staff were centralised in one location. According to the lease agreement between the
+Greek authorities, the Agency and the landlord, rent for the offices in Athens is paid by the Greek authorities. This rent is constantly
+paid with a delay of several months which is a business continuity and financial risk to the Agency.
+The Agencys reply:
+budgetary management: the Agency noted that the EUR 500 000 carried over at year end were committed in 2014 at a rate of
+99.78%;
+double headquarters: the Agency noted that the creation of an additional office based in Athens was a political compromise reached
+among the European Parliament, the Commission and the government of the host country, in order to increase the operational
+efficiency of the Agency and in particular of the work of the Core Operations Department. This decision was beyond the influence of
+ENISA. The Agency agreed with the comment and notes that it continuously communicates the problems and the risks involved to the
+partner DG CNECT and various authorities of the Greek Government in order to ensure that the issues pertaining to the payment of
+the subsidy from the Greek Government are overcome. The Agency continues to exercise and explore all possible remedies arising
+from the late payments from the Greek Government. To date the Agency has been able to mitigate any risks arising from the late
+payments.
+Lastly, the Court of Auditors report contains a summary of the Agencys activities in 2013. This is focused on the following:
+Budget: EUR 9.7 million of which the Union subsidy is 93%.
+Activities:
+threat evaluation and opportunities: the objective of this work stream was to identify the most important evolving threats that are
+relevant to critical infrastructure and trust services. This was done by monitoring publicly available sources that publish threat-related
+data and by making a regular assessment of this data. Based on the analysis done, ENISA has proposed good practices and
+
+guidelines for mitigating these risks;
+improving Pan-European Protecting Critical Information Infrastructures (CIIP) by facilitating cooperation and coordination among
+Member States, ENISA has continued in this work stream to support all of these stakeholders in developing sound and implementable
+preparedness, response and recovery strategies, policies and measures to meet the challenges of a continuously evolving threat
+environment;
+support CERT (Computer Emergency Response Team) enabling communities to improve network and information security (NIS).
+
+2014/2110(DEC) - 30/03/2015 Committee report tabled for plenary, single reading
+The Committee on Budgetary Control adopted the report by Ryszard CZARNECKI (ECR, PL) on discharge in respect of the implementation of
+the budget of the European Union Agency for Network and Information Security (ENISA) for the financial year 2013.
+The committee recommended that the European Parliament grant the Executive Director of the European Union Agency for Network and
+Information Security discharge in respect of the implementation of the Agencys budget for the financial year 2013.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Centre for the financial
+year 2013 are reliable, and that the underlying transactions are legal and regular, Members called on the Parliament to approve the closure of
+the Centres accounts. They made, however, a number of recommendations that needed to be taken into account when the discharge is
+granted, in addition to the general recommendations that appear in the draft resolution on performance, financial management and control of
+EU agencies.
+Centres financial statements: Members noted that the final budget of the Centre for the financial year 2013 was EUR 9 670 185,
+representing an increase of 18.53 % compared to 2012. The Union's contribution to the Agency's budget amounted to EUR 9 030 000.
+Commitments and carry-overs: Members noted that budget monitoring efforts during the financial year 2013 resulted in a budget
+implementation rate of 9.41 % and that the payment appropriations execution rate was 86.46 %. They pointed out that in November
+2013, additional funds were approved by the Commission for the financing of the Agency's new office in Athens, and that a total of
+EUR 500 000 was not committed at year-end and was carried over. They also noted substantial carry-overs of 59% for administrative
+expenditure, due to the move.
+Members also made a series of observations on transfers, procurement and recruitment procedures, internal controls and internal audit, and
+the prevention and management of conflicts of interests and transparency.
+Members also noted that according to the lease agreement between the Greek authorities, the Agency and the landlord, rent for the offices in
+Athens is paid by the Greek authorities. They were concerned by the constant late payment of rent, delayed by several months, which
+presents business continuity and financial risks for the Agency. They called on the Agency to continue its efforts in order to mitigate the risks
+brought by this situation.
+Lastly, the committee noted with concern that the Agency failed to answer the question on the cost-effectiveness and environment-friendliness
+of its working space. It called on the Agency to inform the discharge authority on the measures in place.
+
+2014/2110(DEC) - 29/04/2015 Final act
+PURPOSE: to grant discharge to the European Union Agency for Network and Information Security for the financial year 2013.
+NON LEGISLATIVE ACT: Decision (EU) 2015/1669 of the European Parliament on discharge in respect of the implementation of the budget of
+the European Union Agency for Network and Information Security for the financial year 2013.
+CONTENT: with the present decision, the European Parliament grants discharge to the Executive Director of the European Union Agency for
+Network and Information Security for the implementation of its budget for the financial year 2013.
+This decision is in line with the European Parliament's resolution adopted on 29 April 2015 and comprises a series of observations that form
+an integral part of the discharge decision (please refer to the summary of the opinion of 29 April 2015).
+Amongst Parliaments main observations, it noted that the Agency's operational staff was relocated to Athens while its administrative staff
+remained in Heraklion, and felt that administrative costs could be reduced if all the Agency's staff were to be centralised in one location.
+
+2014/2110(DEC) - 29/04/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 556 votes to 136, with 4 abstentions, a decision to grant discharge to the Executive Director of the
+European Union Agency for Network and Information Security (ENISA) for the financial year 2013. The vote on the discharge decision
+approved the closure of the accounts (in accordance with Annex VI, Article 5(1) of the Rules of Procedure of the European Parliament.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2013 are reliable, and that the underlying transactions are legal and regular, Parliament adopted by 570 votes to 113, with 6 abstentions,
+a resolution containing a number of recommendations that form an integral part of the discharge decision and as well as the general
+recommendations that appear in the resolution on performance, financial management and control of EU agencies:
+Agencys financial statements: Parliament noted that the final budget of the Centre for the financial year 2013 was EUR 9 670 185,
+representing an increase of 18.53% compared to 2012. The Union's contribution to the Agency's budget amounted to EUR 9 030 000.
+Commitments and carry-overs: Parliament noted that budget monitoring efforts during the financial year 2013 resulted in a budget
+implementation rate of 9.41% and that the payment appropriations execution rate was 86.46%. It pointed out that in November 2013,
+
+additional funds were approved by the Commission for the financing of the Agency's new office in Athens, and that a total of EUR 500
+000 was not committed at year-end and was carried over. It also noted substantial carry-overs of 59% for administrative expenditure,
+due to the move.
+Parliament also made a series of observations on transfers, procurement and recruitment procedures, internal controls and internal audit, and
+the prevention and management of conflicts of interests.
+It noted that according to the lease agreement between the Greek authorities, the Agency and the landlord, rent for the offices in Athens is
+paid by the Greek authorities. It was concerned by the constant late payment of rent, delayed by several months, which presents business
+continuity and financial risks for the Agency. It called on the Agency to continue its efforts in order to mitigate the risks brought by this situation.
+Lastly, Parliament noted with concern that the Agency failed to answer the question on the cost-effectiveness and environment-friendliness of
+its working space. It called on the Agency to inform the discharge authority on the measures in place.
+
+

@@ -1,0 +1,568 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2013/0408(COD)
+
+Procedure completed
+
+Criminal proceedings: procedural safeguards for children suspected or
+accused
+See also Framework Decision 2002/584/JHA 2001/0215(CNS)
+Subject
+1.10 Fundamental rights in the EU, Charter
+4.10.03 Child protection, children's rights
+7.40.04 Judicial cooperation in criminal matters
+
+Key players
+European Parliament
+
+Committee responsible
+LIBE
+
+Rapporteur
+
+Civil Liberties, Justice and Home Affairs
+
+Appointed
+22/07/2014
+
+CHINNICI Caterina
+Shadow rapporteur
+
+CSÁKY Pál
+
+KIRKHOPE Timothy
+
+GRIESBECK Nathalie
+
+DE JONG Dennis
+
+LAMBERT Jean
+
+FERRARA Laura
+Former committee responsible
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Committee for opinion
+JURI
+
+Legal Affairs
+
+S&D ROMERO LÓPEZ
+Carmen
+
+21/01/2014
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Former committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Justice and Consumers
+
+ALDE THEIN Alexandra
+
+11/02/2014
+
+Commissioner
+JOUROVÁ Věra
+
+Key events
+27/11/2013
+
+Legislative proposal published
+
+13/01/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+COM(2013)0822
+
+Summary
+
+03/03/2014
+
+Debate in Council
+
+Summary
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+05/02/2015
+
+Vote in committee, 1st reading/single
+reading
+
+05/02/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+12/02/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+08/03/2016
+
+Debate in Parliament
+
+09/03/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+21/04/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+11/05/2016
+
+Final act signed
+
+11/05/2016
+
+End of procedure in Parliament
+
+21/05/2016
+
+Final act published in Official Journal
+
+A8-0020/2015
+
+Summary
+
+T8-0079/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0408(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+See also Framework Decision 2002/584/JHA 2001/0215(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 082-p2
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+LIBE/8/00269
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0822
+
+27/11/2013
+
+EC
+
+Summary
+
+Document attached to the procedure
+
+SWD(2013)0480
+
+27/11/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0481
+
+27/11/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0492
+
+27/11/2013
+
+EC
+
+Committee draft report
+
+PE541.593
+
+19/11/2014
+
+EP
+
+Amendments tabled in committee
+
+PE544.335
+
+06/01/2015
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0020/2015
+
+12/02/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0079/2016
+
+09/03/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2016)270
+
+19/04/2016
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2016/800
+OJ L 132 21.05.2016, p. 0001 Summary
+
+2013/0408(COD) - 27/11/2013 Legislative proposal
+PURPOSE: to establish common minimum standards on procedural safeguards for children suspected or accused in criminal proceedings
+PROPOSED ACT : Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the Stockholm Programme put a strong focus on the strengthening of the rights of individuals in criminal proceedings. The
+European Council asked the Commission to put forward proposals setting out a step by step approach to strengthening the rights of suspects
+and accused persons.
+Up to now, three measures have been adopted: Directive 2010/64/EU on the right to interpretation and translation, Directive 2012/13/EU on
+the right to information and Directive 2013/48/EU on the right of access to a lawyer in criminal proceedings.
+The proposal continues this work and is part of a series of measures on criminal justice which includes: (i) a directive on strengthening certain
+aspects of the presumption of innocence and of the right to be present at trial in criminal proceedings; (ii) a directive on provisional legal aid for
+suspects or accused persons deprived of liberty and legal aid in European arrest warrant proceedings.
+This measure also forms part of the EU Agenda for the Rights of the Child to which the European Parliament, the Council of Europe and
+UNICEF have contributed. It is presented together with a Commission Recommendation on procedural safeguards for vulnerable persons
+suspected or accused in criminal proceedings and vulnerable persons subject to European arrest warrant proceedings.
+By establishing minimum rules on the protection of procedural rights of suspects or accused persons, this Directive should strengthen the trust
+of Member States in the criminal justice systems of other Member States and can thus help improve mutual recognition of decisions in criminal
+matters.
+IMPACT ASSESSMENT : the Commission has undertaken an impact assessment to support this proposal.
+CONTENT : the draft directive aims to:
+·
+
+establish procedural safeguards to ensure that children who are suspected or accused in criminal proceedings are able to
+understand and follow those proceedings;
+
+·
+
+enable such children to exercise their right to a fair trial and to prevent re-offending by children and foster their social integration.
+
+The directive will apply to children, meaning persons under the age of 18, subject to criminal proceedings from the time when they become
+suspected or accused of having committed an offence and until the conclusion of the criminal proceedings.
+Children will have the following procedural guarantees :
+Right to information: the child should be informed promptly of the rights under the Directive. In proceedings involving children, the urgency
+principle should be applied to provide a rapid response and protect the best interests of the child.
+Right to information of the holder of parental responsibility: further complementary safeguards are provided with regard to the information of
+the holder of parental responsibility or an appropriate adult in order the take into account the specific needs of children provided that this does
+not prejudice the due course of the criminal proceedings.
+Right to an individual assessment: such an individual assessment is needed in order to identify the child's specific needs in terms of protection,
+education, training and re-integration into society, to determine to what extent he or she would need special measures during criminal
+proceedings. The individual assessment should be carried out at the latest before the indictment.
+Right to a lawyer: the directive aims to ensure mandatory access to a lawyer for children who are suspected or accused in criminal
+proceedings. It also provides that children may not waive this right. However, there are exceptions that include certain minor offences in
+relation to general municipal regulations and minor public order offences.
+Right to medical examination: if the child is deprived of liberty, the child should have the right to medical examination upon request by the
+holder of parental responsibility, the appropriate adult or the child's lawyer. If the medical examination of a child leads to the conclusion that
+the measures envisaged during the criminal proceedings against the child (e.g. questioning of the child, detention) are incompatible with the
+general mental and physical condition of the child, the competent authorities should take appropriate measures in accordance with national
+law.
+Questioning of children: if a child is deprived of liberty, questioning should always be recorded. Such records must be accessible only to the
+judicial authorities and the parties of the proceedings to ensure their content and context.
+Right to liberty: in accordance with United Nations rules on the rights of the child, any form of deprivation of liberty of children should be a
+
+measure of last resort and be for the shortest appropriate period of time. Taking into account these international standards, this Directive sets
+minimum rules as regards detention.
+In order to avoid deprivation of liberty for children, competent authorities should take any alternative measures to deprivation of liberty
+whenever this is in the best interests of the child.
+Right to specific treatment in case of deprivation of liberty: children in particular should have the right to: (i) maintain regular and meaningful
+contact with parents, family and friends; (ii) receive appropriate education, guidance and training; (iii) receive medical care; (iv) be kept
+separately from adults in order to take into account their vulnerability.
+Right to protection of privacy: children should be judged in the absence of public. In exceptional cases the court may decide that a hearing is
+held publicly after it has taken due account of the best interests of the child. In order to ensure proper assistance and support of the child
+during court hearings, the holder of parental responsibility should be present.
+Right of children to appear in person at the trial: the right to be present at trial applies to any trial aiming at assessing the question of the guilt
+of the accused person (both conviction and acquittal decisions).
+European arrest warrant proceedings: the proposal applies to children subject to proceedings pursuant to Framework Decision 2002/584/JHA
+from the time they are arrested in the executing State. The competent authorities in executing Member States shall apply the rights set out in
+the directive, which will promote mutual trust and mutual recognition.
+
+2013/0408(COD) - 03/03/2014 Debate in Council
+The Council held a policy debate on the proposal for a directive on procedural safeguards for children who are suspected or accused in
+criminal proceedings. The proposal aims to ensure that children are able to understand and follow the criminal proceedings to which they are
+subject, and that they can exercise their right to a fair trial.
+It also seeks to prevent reoffending by children and foster their social integration.
+The debate was focused on the following issues:
+scope: according to the proposal, the directive also applies to suspects and accused persons who are adults, if these persons were
+children when they committed the criminal offence and the criminal proceedings started when they were children. While certain
+Member States consider that the directive should no longer apply when the suspect or accused person comes of age, other Member
+States consider that certain rights should continue to apply in that situation;
+right of access to a lawyer: the proposal provides that Member States must ensure that children are assisted by a lawyer throughout
+the criminal proceedings in accordance with Directive 2013/48/EU and that the right of access to a lawyer cannot be waived. A large
+majority of Member States confirmed that children should not be able to waive their right of access to a lawyer, independently of
+whether or not they are deprived of liberty. Some exceptions for minor cases should however apply;
+right to protection of privacy: according to the proposal, Member States must ensure that criminal proceedings involving children take
+place in the absence of the public, unless, after due consideration of the best interests of the child, exceptional circumstances justify a
+derogation. A large majority of Member States favour, or can at least accept, the option whereby the directive would not contain any
+principle on the issue of the protection of privacy, but that Member States should ensure such privacy, taking the interests of children
+duly into account.
+On the basis of this guidance, the preparatory bodies of the Council will continue the work on the proposal. The Presidency aims to reach
+agreement on a general approach on the text in June, which will then constitute the basis for the negotiations with the European Parliament.
+
+2013/0408(COD) - 12/02/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Civil Liberties, Justice and Home Affairs adopted the report by Caterina CHINNICI
+(S&D, IT) on the proposal for a directive of the European Parliament and of the Council on procedural
+safeguards for children suspected or accused in criminal proceedings.
+The committee recommended that Parliaments position adopted in first reading following the ordinary
+legislative procedure should amend the Commission proposal as follows:
+Scope: the Directive applied to suspects or accused persons subject to criminal proceedings who had
+reached the age of 18 but were still under the age of 21 at the beginning of those proceedings, which related
+to offences allegedly committed before those persons had reached the age of 18.
+Right to information: children must be informed promptly in writing and orally, by procedures
+appropriate to their age, understanding, and intellectual ability, in a simple language which they
+understand about the charges against them, the conduct of the proceedings and their rights.
+Right to mandatory assistance by a lawyer: a lawyer must assist children at every stage in the
+proceedings. The right to be assisted by a lawyer cannot be waived.
+Right to an individual assessment: this assessment must (i) take particular account of the personality and
+maturity of the child, its family, economic and social background, its living environment and any specific
+vulnerabilities; (ii) take place at the earliest appropriate stage in the proceedings and in any event before
+indictment or the ordering of measures involving deprivation of liberty, except where this is impossible;
+(iii) establish and record such information about the individual characteristics and circumstances of the
+child as might be of use to the competent authority; (iv) be carried out by qualified persons.
+
+Right to medical examination: where a child has been deprived of liberty, where the proceedings so
+require, or where it is in the best interests of the child, the child must have access without delay to a medical
+examination and medical care in order to evaluate, protect and, where necessary, improve the health and
+well-being of the child.
+Questioning: the questioning of children must carried out in a manner that takes account of their age, level
+of maturity and any other needs determined during the individual assessment conducted
+Right to liberty: children may be deprived of liberty before their conviction only as a measure of last
+resort, ensuring in every case respect for the human dignity and the rights of the child in custody. Due
+account shall be taken of the age, individual situation and personality of the child and the particular
+circumstances under which the offence was committed. Every child deprived of liberty shall have the right
+to challenge the legality of the deprivation of liberty before a court or other competent, independent and
+impartial authority. Children placed in provisional detention must be kept separately from adults and
+convicted children.
+Right to specific treatment: arrests of children must be carried out on the basis of procedures and with
+safeguards appropriate to the childs age and degree of maturity. Once arrested the child must have the right
+to meet the holder of the parental responsibility or another appropriate adult promptly and in any event prior
+to questioning.
+During the period of deprivation of liberty, Member States must take all appropriate measures to: (i)
+preserve the health and physical and mental development of the child, (ii) protect the dignity and identity of
+the child (iii) ensure that the special requirements of those children with physical, sensory, and learning
+disabilities are provided for, (iv) ensure the freedom of the child to express his or her religion or belief; (v)
+ensure that independent inspections are carried out on a regular basis to check the state of the detention
+facilities and the treatment of detainees.
+Right of children to appear in person at, and take part in, the trial: children must be entitled
+to be present and to participate in the trial and shall take all necessary steps to enable them to participate
+fully, including by giving them the opportunity to be heard and to express their views.
+Remedies: suspected or accused children in criminal proceedings, as well as children subject to European
+arrest warrant proceedings, must have an effective remedy under national law in the event of a breach of
+their rights under the Directive.
+Non-discrimination: Member States shall: (i) respect and guarantee the rights set out in the Directive as
+regards any child within their jurisdiction without discrimination of any kind; (ii) promote training of
+all the professionals involved in the administration of juvenile justice, specifically in the light of particularly
+vulnerable groups, such as street children, children belonging to racial, ethnic, religious or linguistic
+minorities, migrant children, indigenous children, girls, children with disabilities.
+Derogations: the committee considered that in general, derogations should be allowed only on the basis of
+assessments of the best interests of the child.
+2013/0408(COD) - 09/03/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 613 votes to 30, with 56 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council on procedural safeguards for children suspected or accused in criminal proceedings.
+Parliaments position, adopted in first reading following the ordinary legislative procedure, amended the Commission proposal as follows:
+Scope: this Directive applies to children who are suspects or accused persons in criminal proceedings. It applies until the final determination of
+the question whether the suspect or accused person has committed a criminal offence, including, where applicable, sentencing and the
+resolution of any appeal. It applies to suspects or accused persons in criminal proceedings, and to requested persons, who were children
+when they became subject to the proceedings, but who have subsequently reached the age of 18, and where the application of this Directive is
+appropriate in the light of all the circumstances of the case, including the maturity and vulnerability of the person concerned.
+This Directive shall not apply in respect of certain minor offences (e.g. road traffic offences). However, it should apply where a child who is a
+suspect or accused person is deprived of liberty
+Right to information: children should receive information about general aspects of the conduct of the proceedings. To that end, they should, in
+particular, be given a brief explanation about the next procedural steps in the proceedings in so far as this is possible in the light of the interest
+of the criminal proceedings, and about the role of the authorities involved.
+Information shall be provided at the earliest appropriate stage in the proceedings as regards the right to a medical examination, including the
+right to medical assistance; the right to limitation of deprivation of liberty and to the use of alternative measures; the right to be accompanied
+by the holder of parental responsibility during court hearings; the right to effective remedies and the right to specific treatment during
+deprivation of liberty.
+Children must be informed promptly in writing and orally, by procedures appropriate to their age, understanding, and intellectual ability, in a
+simple language which they understand about the charges against them, the conduct of the proceedings and their rights.
+Where the child has not nominated another appropriate adult, or where the adult that has been nominated by the child is not acceptable to the
+competent authority, the competent authority shall, taking into account the child's best interests, designate, and provide the information to,
+
+another person.
+Assistance by a lawyer: the provisions on assistance by a lawyer should apply without undue delay once children are made aware that they
+are suspects or accused persons. Member States shall ensure that children have the right to meet in private and communicate with the lawyer
+representing them, including prior to questioning by the police or by another law enforcement or judicial authority.
+Member States shall ensure that children are assisted by a lawyer when they are questioned, and that the lawyer is able to participate
+effectively during questioning. Such participation shall be conducted in accordance with procedures under national law, provided that such
+procedures do not prejudice the effective exercise or essence of the right concerned. Where a lawyer participates during questioning, the fact
+that such participation has taken place shall be noted using the recording procedure under national law.
+Member States shall respect the confidentiality of communication between children and their lawyer in the exercise of the right to be assisted
+by a lawyer provided for under this Directive. Such communication shall include meetings, correspondence, telephone conversations and other
+forms of communication permitted under national law.
+Member States shall respect the confidentiality of communication between children and their lawyer in the exercise of the right to be assisted
+by a lawyer provided for under this Directive. Such communication shall include meetings, correspondence, telephone conversations and other
+forms of communication permitted under national law. Provided that this complies with the right to a fair trial, Member States may derogate
+from the rules where assistance by a lawyer is not proportionate in the light of the circumstances of the case, taking into account the
+seriousness of the alleged criminal offence, the complexity of the case and the measures that could be taken in respect of such an offence, it
+being understood that the child's best interests shall always be a primary consideration.
+Member States shall also ensure that deprivation of liberty is not imposed as a criminal sentence, unless the child has been assisted by a
+lawyer in such a way as to allow the child to exercise the rights of the defence effectively and, in any event, during the trial hearings before a
+court.
+In exceptional circumstances, and only at the pre-trial stage, Member States may temporarily derogate from the application of the rights as
+regards the assistance by a lawyer on the basis of one of the following compelling reasons: (i) where there is an urgent need to avert serious
+adverse consequences for the life, liberty or physical integrity of a person; (ii) where immediate action by the investigating authorities is
+imperative to prevent substantial jeopardy to criminal proceedings in relation to a serious criminal offence.
+Right to an individual assessment: the individual assessment shall serve to establish and to note, in accordance with the recording procedure
+in the Member State concerned, such information about the individual characteristics and circumstances of the child as might be of use to the
+competent authorities when: (i) determining whether any specific measure to the benefit of the child is to be taken; (ii) assessing the
+appropriateness and effectiveness of any precautionary measures in respect of the child; (iii) taking any decision or course of action in the
+criminal proceedings, including when sentencing.
+The individual assessment shall be carried out at the earliest appropriate stage of the proceedings and, in principle, before indictment. It shall
+be carried out by qualified personnel, following, as far as possible, a multidisciplinary approach and involving, where appropriate, the holder of
+parental responsibility, or another appropriate adult, and/or a specialised professional.
+Right to a medical examination: children who are deprived of liberty shall have the right to a medical examination without undue delay with a
+view, in particular, to assessing their general mental and physical condition. The medical examination shall be as non-invasive as possible and
+shall be carried out by a physician or another qualified professional.
+Audio-visual recording of questioning: Member States shall ensure that questioning of children by police or other law enforcement authorities
+during the criminal proceedings is audio-visually recorded where this is proportionate in the circumstances of the case and provided that the
+child's best interests are always a primary consideration.
+Limitation of deprivation of liberty: Member States shall ensure that deprivation of liberty of a child at any stage of the proceedings is limited to
+the shortest appropriate period of time. Detention, shall be imposed on children only as a measure of last resort and should be based on a
+reasoned decision, subject to judicial review by a court.
+Unless in exceptional circumstances, children kept in custody shall be held separately from adults.
+When children are detained, Member States shall take appropriate measures to: (i) ensure and preserve their health and their physical and
+mental development; (ii) ensure their right to education and training, including where the children have physical, sensory or learning
+disabilities; (iii) ensure access to programmes that foster their development and their reintegration into society; (iv) ensure respect for their
+freedom of religion or belief.
+Children who are deprived of liberty shall be able to meet with the holder of parental responsibility as soon as possible, where such a meeting
+is compatible with investigative and operational requirements.
+Children shall always be treated in a manner which protects their dignity and which is appropriate to their age, maturity and level of
+understanding. Member States shall ensure that the privacy of children during criminal proceedings is protected.
+Right of children to appear in person at, and participate in, their trial: children shall have the right to be present at their trial and have the
+opportunity to be heard and to express their views.
+Remedies: Member States shall ensure that children who are suspects or accused persons in criminal proceedings and children who are
+requested persons have an effective remedy under national law in the event of a breach of their rights under this Directive.
+
+2013/0408(COD) - 11/05/2016 Final act
+PURPOSE: to strengthen the rights of children suspected or accused in criminal proceedings.
+LEGISLATIVE ACT: Directive (EU) 2016/800 of the European Parliament and of the Council on procedural safeguards for children who are
+suspects or accused persons in criminal proceedings
+CONTENT: the Directive establishes procedural safeguards to ensure that children, meaning persons under the age of 18, who are suspects
+
+or accused persons in criminal proceedings, are able to understand and follow those proceedings and to exercise their right to a fair trial, and
+to prevent children from re-offending and foster their social integration.
+The text recalls that on 30 November 2009, the Council adopted a resolution on a roadmap for strengthening the procedural rights of
+suspected or accused persons in criminal proceedings, and the Directive is part of the roadmap.
+The roadmap calls for the adoption of measures regarding: (i) the right to translation and interpretation, (ii) the right to information on rights and
+information about the charges, (iii) the right to legal advice and legal aid, (iv) the right to communicate with relatives, employers and consular
+authorities, and (v0 special safeguards for suspected or accused persons who are vulnerable.
+The main provisions of the Directive are as follows:
+Right to information: children should receive information about general aspects of the conduct of the proceedings. To that end, they should, in
+particular:
+be given a brief explanation about the next procedural steps in the proceedings in so far as this is possible in the light of the interest of
+the criminal proceedings, and about the role of the authorities involved;
+the right to an individual assessment and the right to a medical examination at the earliest appropriate stage in the proceedings, at the
+latest upon deprivation of liberty where such a measure is taken in relation to the child.
+Member States should inform the holder of parental responsibility about applicable procedural rights, in writing, orally, or both.
+Assistance by a lawyer: Member States shall ensure that: (i) children are assisted by a lawyer without undue delay once they are made aware
+that they are suspects or accused persons; (ii) national law in relation to legal aid guarantees the effective exercise of the right to be assisted
+by a lawyer.
+Children shall have the right to meet the lawyer privately and communicate confidentially, including before they are questioned by the police or
+by another law enforcement or judicial authority. They must be assisted by a lawyer:
+when they are questioned, and during investigative or evidence-gathering acts, such as identity parades, confrontations, and
+reconstructions of the scene of a crime where those acts are provided for under national law;
+when they are brought before a competent court or judge in order to decide on detention at any stage of the proceedings, as well as
+during detention.
+Provided that this complies with the right to a fair trial, Member States should be able to derogate from the obligation to provide assistance by
+a lawyer where this is not proportionate in the light of the circumstances of the case, it being understood that the child's best interests should
+always be a primary consideration.
+Right to an individual assessment: the specific needs of children concerning protection, education, training and social integration must be
+taken into account. The individual assessment shall, in particular, take into account the child's personality and maturity, the child's economic,
+social and family background, and any specific vulnerabilities that the child may have.
+The individual assessment shall be carried out at the earliest appropriate stage of the proceedings, and in principle, before indictment, by
+qualified personnel, following, as far as possible, a multidisciplinary approach and involving, where appropriate, the holder of parental
+responsibility, or another appropriate adult and/or a specialised professional.
+Right to a medical examination: children who are deprived of liberty must have the right to a medical examination without undue delay with a
+view, in particular, to assessing their general mental and physical condition. The medical examination shall be as non-invasive as possible and
+shall be carried out by a physician or another qualified professional.
+Audiovisual recording of questioning: questioning of children by police or other law enforcement authorities during the criminal proceedings
+must be audio-visually recorded where this is proportionate in the circumstances of the case, taking into account, inter alia, whether a lawyer is
+present or not and whether the child is deprived of liberty or not, provided that the child's best interests are always a primary consideration.
+Limitation of deprivation of liberty: the Directive contains particular safeguards for children during deprivation of liberty, in particular detention.
+Deprivation of liberty, shall be imposed on children only as a measure of last resort, and limited to the shortest appropriate period of time. Due
+account shall be taken of the age and individual situation of the child, and of the particular circumstances of the case. Children who are
+detained must be held separately from adults, except in exceptional circumstances.
+When children are detained, Member States shall take appropriate measures to: (i) ensure and preserve their health and their physical and
+mental development; (ii) ensure their right to education and training, including where the children have physical, sensory or learning
+disabilities; (iii) ensure the effective and regular exercise of their right to family life; (iv) ensure respect for their freedom of religion or belief.
+Children who are deprived of liberty should be able to meet with the holder of parental responsibility as soon as possible, where such a
+meeting is compatible with investigative requirements.
+Member States shall ensure that the privacy of children during criminal proceedings is protected, and that children have the right to be present
+at their trial, including by giving them the opportunity to be heard and to express their views.
+Denmark, the United Kingdom and Ireland will not participate in the adoption of the Directive and will not be bound by it.
+ENTRY INTO FORCE: 10.6.2016.
+TRANSPOSITION: by 11.6.2019.
+
+

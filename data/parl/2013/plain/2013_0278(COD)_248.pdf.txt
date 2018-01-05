@@ -1,0 +1,407 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0278(COD)
+
+Procedure completed
+
+Statistics relating to trading of goods between Member States, Intrastat:
+Commission delegated and implementing powers
+Amending Regulation (EC) No 638/2004 2003/0126(COD)
+Subject
+2.10.01 Customs union, tax and duty-free, Community transit
+2.80 Cooperation between administrations
+8.60 European statistical legislation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Rapporteur
+
+Appointed
+
+NI MARTIN Hans-Peter
+
+10/09/2013
+
+Shadow rapporteur
+PPE PALLONE Alfredo
+S&D HOANG NGOC Liem
+ALDE SCHMIDT Olle
+Verts/ALE LAMBERTS
+Philippe
+ECR KAMALL Syed
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+Commissioner
+ŠEMETA Algirdas
+
+Key events
+08/08/2013
+
+Legislative proposal published
+
+COM(2013)0578
+
+Summary
+
+10/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+02/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+10/12/2013
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0457/2013
+
+Summary
+
+14/01/2014
+
+Debate in Parliament
+
+15/01/2014
+
+Results of vote in Parliament
+
+15/01/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+T7-0030/2014
+
+Summary
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+T7-0387/2014
+
+Summary
+
+06/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/05/2014
+
+Final act signed
+
+15/05/2014
+
+End of procedure in Parliament
+
+27/06/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0278(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 638/2004 2003/0126(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/7/13560
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0578
+
+08/08/2013
+
+EC
+
+Summary
+
+Committee draft report
+
+PE521.716
+
+23/10/2013
+
+EP
+
+Amendments tabled in committee
+
+PE523.048
+
+13/11/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0457/2013
+
+10/12/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, partial vote at 1st
+reading/single reading
+
+T7-0030/2014
+
+15/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0387/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)471
+
+09/07/2014
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/659
+OJ L 189 27.06.2014, p. 0128 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0278(COD) - 08/08/2013 Legislative proposal
+PURPOSE: to align Regulation (EC) No 638/2004 of the European Parliament and the Council on Community statistics relating to trading of
+goods between Member States and repealing Council Regulation (EEC) No 3330/91, to new rules under the Treaty on the Functioning of the
+European Union (delegated and implementing powers of the Commission).
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+
+BACKGROUND: the Treaty on the Functioning of the European Union (TFEU) makes a distinction between:
+powers which may be delegated to the Commission to adopt non-legislative acts of general application to supplement or amend
+certain non-essential elements of a particular legislative act, as laid down in Article 290(1) of the TFEU ( delegated acts), and
+the implementing powers which shall be conferred on the Commission where uniform conditions for implementing legally binding
+Union acts are needed, as laid down in Article 291(2) of the TFEU ( implementing acts).
+In connection with the adoption of Regulation (EU) No 182/2011 of the European Parliament and of the Council laying down the rules and
+general principles concerning mechanisms for control by Member States of the Commissions exercise of implementing powers, the
+Commission has committed itself to reviewing, in the light of the criteria laid down in the TFEU, legislative acts which currently contain
+references to the regulatory procedure with scrutiny (previously known as comitology).
+The overall objective is to remove all provisions referring to the regulatory procedure with scrutiny from all legislative instruments by the end of
+Parliaments seventh term (June 2014).
+IMPACT ASSESSMENT: the Commission did not undertake an impact assessment.
+LEGAL BASIS: Article 338(1) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the proposal seeks to amend Regulation (EC) No 471/2009 in order to align it with the new institutional context.
+It is proposed to:
+empower the Commission to adopt delegated acts in order to provide a satisfactory response to users' needs for statistical information
+without imposing excessive burdens on economic operators, to take into account changes necessary for methodological reasons and
+the necessity to set up an efficient system for the collection of data and the compilation of statistics;
+confer implementing powers on the Commission enabling it to adopt measures in accordance with the examination procedure laid
+down in Article 5 of Regulation (EU) No 182/2011, the arrangements for collecting Intrastat information, particularly concerning the
+codes to be used, technical provisions for compiling annual statistics on trade by business characteristics and any measures
+necessary to ensure the quality of the statistics transmitted according to the quality criteria.
+The Commission is also proposing to:
+clarify the definition of statistical value and align the current definition of this data element in intra-EU trade statistics with that of the
+extra-EU trade statistics;
+restructure the European Statistical System (ESS) to improve coordination and partnership in a clear pyramid structure, with the
+European Statistical System Committee (ESSC) as the highest strategic body. One aspect of this streamlining is to concentrate
+comitology powers in the hands of the ESSC. In February 2012, the ESSC supported this new approach.
+BUDGETARY IMPLICATION: the proposal has no implications for the Unions General Budget.
+
+2013/0278(COD) - 10/12/2013 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Hans-Peter MARTIN (NI, AT) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 638/2004 on Community statistics relating to trading of goods between
+Member States as regards conferring of delegated and implementing powers upon the Commission for the adoption of certain measures, the
+communication of information by the customs administration, the exchange of confidential data between Member States and the definition of
+statistical value.
+The committee recommended that Parliaments position adopted in first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Data sources: the statistical information on dispatches and arrivals of goods which are the subject of a single administrative document for
+customs or fiscal purposes shall be provided directly by customs to the national authorities once a month.
+Exchange of confidential data: this exchange should be free of charge if necessary to increase the efficiency of the development, production
+and dissemination or to improving the quality of those statistics. Such exchanges should also be voluntary and should be possible for a
+transitional period of five years following the entry into force of this Regulation. Such exchange should not in itself entail increased
+administrative burden on companies and costs for Member States shall be kept to a minimum.
+National authorities shall not transmit such data to any international organisation other than as provided in this Regulation.
+Simplification of Intrastat system: simplification of the information to be provided for small individual transactions must have no detrimental
+effects on the quality of the statistics.
+Statistical confidentiality: the national authorities shall ensure that any detrimental effects on a party or parties providing information is clearly
+outweighed by statistical benefits.
+Statistical confidentiality: national authorities shall ensure that any detrimental effects on a party or parties providing information is clearly
+outweighed by statistical benefits.
+Delegated acts: Members amended the duration of the Commissions power to adopt delegated acts. The delegation of power is no longer to
+last for an indeterminate period but will be for a period of five years, which may be tacitly extended. The Commission shall pursue reductions
+of costs and administrative burden where possible. In addition, it shall duly justify the actions in intended delegated acts and provide
+information on any associated burden and production costs.
+
+2013/0278(COD) - 15/01/2014 Text adopted by Parliament, partial vote at 1st reading/single
+
+reading
+The European Parliament adopted amendments to the proposal for a regulation of the European Parliament and of the Council amending
+Regulation (EC) No 638/2004 on Community statistics relating to trading of goods between Member States as regards conferring of delegated
+and implementing powers upon the Commission for the adoption of certain measures, the communication of information by the customs
+administration, the exchange of confidential data between Member States and the definition of statistical value
+The matter was referred back for reconsideration to the committee responsible. The vote was postponed to a later session.
+The main amendments adopted in plenary are as follows:
+Clarification of the definition of statistical value: Parliament stressed that uniform definitions are essential for the proper and frictionless
+functioning of cross-border trade and are especially important as a prerequisite for different national authorities to be able to make concordant
+interpretations of rules having an impact on the cross-border activities of businesses.
+Data sources: the statistical information on dispatches and arrivals of goods which are the subject of a single administrative document for
+customs or fiscal purposes shall be provided directly by customs to the national authorities once a month.
+Exchange of confidential data: this exchange should be free of charge if necessary to increase the efficiency of the development, production
+and dissemination or to improving the quality of those statistics. Such exchanges should also be voluntary and should be possible for
+a transitional period of five years following the entry into force of the Regulation. Such exchange should not in itself entail increased
+administrative burden on companies and costs for Member States shall be kept to a minimum.
+National authorities shall not transmit such data to any international organisation other than as provided in this Regulation.
+Simplification of Intrastat system: simplification of the information to be provided for small individual transactions must have no detrimental
+effects on the quality of the statistics.
+Statistical confidentiality: the national authorities shall ensure that any detrimental effects on a party or parties providing information is clearly
+outweighed by statistical benefits.
+Statistical confidentiality: national authorities shall ensure that any detrimental effects on a party or parties providing information is clearly
+outweighed by statistical benefits.
+Delegated acts: Members amended the duration of the Commissions power to adopt delegated acts. The delegation of power is no longer to
+last for an indeterminate period but will be for a period of five years, which may be tacitly extended. The Commission shall pursue reductions
+of costs and administrative burden where possible. In addition, it shall duly justify the actions in intended delegated acts and provide
+information on any associated burden and production costs.
+
+2013/0278(COD) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 442 votes to 21 with 63 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 638/2004 on Community statistics relating to trading of goods between
+Member States as regards conferring of delegated and implementing powers upon the Commission for the adoption of certain measures, the
+communication of information by the customs administration, the exchange of confidential data between Member States and the definition of
+statistical value.
+The matter was referred back to the committee responsible during the plenary session of 15 January 2014
+Parliament adopted its position at first reading under the ordinary legislative procedure. The amendments adopted in plenary were the result of
+a compromise between Parliament and Council. They amend the Commissions proposal as follows:
+Clarification of the definition of statistical value: it was stressed, in a recital, that uniform definitions were essential for the proper and
+frictionless functioning of cross-border trade and are especially important as a prerequisite for different national authorities to be able to make
+concordant interpretations of rules having an impact on the cross-border activities of businesses.
+The amended text noted that improving coordination between national authorities and the Commission (Eurostat) was key to producing higher
+quality statistics in the Union.
+Data sources: the statistical information on dispatches and arrivals of goods which were the subject of a single administrative document for
+customs or fiscal purposes shall be provided directly by customs to the national authorities once a month.
+The customs administration responsible in each Member State should, on its own initiative or at the request of the national authority, provide
+the national authority with any available information to identify the person who carried out dispatches and arrivals of goods covered by the
+customs procedures of inward processing or processing under customs control.
+Reference period: Parliament and Council amended Regulation (EC) No 638/2004 so that the reference period for the information to be
+provided should be:
+the calendar month of dispatch or arrival of the goods;
+the calendar month during which the chargeable event occurs for the Community goods on which VAT becomes chargeable on
+intra-Community acquisitions and supplies; or
+the calendar month during which the declaration is accepted by customs where the customs declaration is used as data sources.
+Member States might simplify the information to be provided for small individual transactions provided that such simplification had no
+detrimental effects on the quality of the statistics.
+Exchange of confidential data: this exchange should be voluntary, be treated carefully and not per se entail an increased administrative burden
+on undertakings.
+
+Data transmission by the national authorities should be free of charge for the Member States and for the Union institutions and agencies.
+It was important to guarantee the security of the modes of transmission of sensitive statistical data, including economic data.
+Delegated acts: the power to adopt delegated acts was conferred on the Commission for a period of five years, which may be tacitly extended
+for an identical period. The time limits for objections would be three months, which might be extended by three months.
+The Commission should also ensure that the delegated acts provided for in the legislative acts do not impose a significant additional burden on
+the Member States or on the respondents and that they remain as economical as possible. It should carry out consultations with experts,
+including Member States' experts, before adopting those delegated acts.
+
+2013/0278(COD) - 15/05/2014 Final act
+PURPOSE: to align Regulation (EC) No 638/2004 of the European Parliament and the Council on Community statistics relating to trading of
+goods between Member States and repealing Council Regulation (EEC) No 3330/91, to new rules under the Treaty on the Functioning of the
+European Union (delegated and implementing powers of the Commission).
+LEGISLATIVE ACT: Regulation (EU) No 659/2014 of the European Parliament amending Regulation (EC) No 638/2004 on Community
+statistics relating to trading of goods between Member States as regards conferring delegated and implementing powers on the Commission
+for the adoption of certain measures, the communication of information by the customs administration, the exchange of confidential data
+between Member States and the definition of statistical value.
+CONTENT: this Regulation amends Regulation (EC) No 638/2004 in order to align it with the new institutional context. It shall:
+empower the Commission to adopt delegated acts in order to provide a satisfactory response to users' needs for statistical information
+without imposing excessive burdens on economic operators, to take into account changes necessary for methodological reasons and
+the necessity to set up an efficient system for the collection of data and the compilation of statistics;
+confer implementing powers on the Commission enabling it to adopt measures in accordance with the examination procedure laid
+down in Regulation (EU) No 182/2011, the arrangements for collecting Intrastat information, particularly concerning the codes to be
+used, technical provisions for compiling annual statistics on trade by business characteristics and any measures necessary to ensure
+the quality of the statistics transmitted according to the quality criteria.
+Statistical value: the definition of statistical value is clarified in a recital in the new Regulation in order to enable better comparability between
+intra-Union and extra-Union trade statistics.
+Data sources: the statistical information on dispatches and arrivals of goods which were the subject of a single administrative document for
+customs or fiscal purposes shall be provided directly by customs to the national authorities once a month.
+The customs administration responsible in each Member State should, on its own initiative or at the request of the national authority, provide
+the national authority with any available information to identify the person who carried out dispatches and arrivals of goods covered by the
+customs procedures of inward processing or processing under customs control
+Improving coordination between national authorities and the Commission (Eurostat) is key to producing higher quality statistics in the Union.
+Reference period: provisions have been introduced to ensure that the reference period for the information to be provided should be:
+the calendar month of dispatch or arrival of the goods;
+the calendar month during which the chargeable event occurs for the Community goods on which VAT becomes chargeable on
+intra-Community acquisitions and supplies; or
+the calendar month during which the declaration is accepted by customs where the customs declaration is used as data sources.
+Member States might simplify the information to be provided for small individual transactions provided that such simplification had no
+detrimental effects on the quality of the statistics
+Exchange of confidential data: this exchange should be voluntary, be treated carefully and not per se entail an increased administrative burden
+on undertakings. Data transmission by the national authorities should be free of charge for the Member States and for the Union institutions
+and agencies. The security of the modes of transmission of sensitive statistical data, including economic data should be guaranteed.
+ENTRY INTO FORCE: 17.07.2014.
+DELEGATED ACTS: the power to adopt delegated acts shall be conferred on the Commission for a period of five years from 17 July 2014
+which may be tacitly extended for periods of an identical duration. The European Parliament or the Council may raise objections to a delegated
+act within a period of three months from the date of notification (this may be extended by three months.)
+
+

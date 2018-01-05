@@ -1,0 +1,740 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0265(COD)
+
+Procedure completed
+
+Interchange fees for card-based payment transactions
+
+Subject
+2.50.04.02 Electronic money and payments, cross-border credit transfers
+2.50.08 Financial services, financial reporting and auditing
+3.45.03 Financial management of undertakings, business loans, accounting
+3.45.05 Business policy, electronic commerce, after-sales service,
+commercial distribution
+4.60.06 Consumers' economic and legal interests
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+22/07/2014
+
+ZALBA BIDEGAIN
+Pablo
+Shadow rapporteur
+
+LUDVIGSSON Olle
+
+TERHO Sampo
+
+IN 'T VELD Sophia
+
+CARTHY Matt
+
+EICKHOUT Bas
+
+VALLI Marco
+Former committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Committee for opinion
+IMCO
+
+Internal Market and Consumer Protection
+
+PPE ZALBA BIDEGAIN Pablo 10/09/2013
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Former committee for opinion
+IMCO
+
+Internal Market and Consumer Protection
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+ECR BIELAN Adam
+
+25/09/2013
+
+Commissioner
+MOSCOVICI Pierre
+
+European Economic and
+Social Committee
+
+Key events
+Legislative proposal published
+
+Summary
+
+24/07/2013
+
+COM(2013)0550
+
+08/10/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+11/03/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+02/04/2014
+
+Debate in Parliament
+
+03/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+03/04/2014
+
+Matter referred back to the committee
+responsible
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+27/01/2015
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+27/01/2015
+
+Vote in committee, 1st reading/single
+reading
+
+18/02/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0022/2015
+
+Summary
+
+10/03/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+T8-0048/2015
+
+Summary
+
+20/04/2015
+
+Act adopted by Council after Parliament's
+1st reading
+
+29/04/2015
+
+Final act signed
+
+29/04/2015
+
+End of procedure in Parliament
+
+19/05/2015
+
+Final act published in Official Journal
+
+A7-0167/2014
+
+Summary
+
+T7-0279/2014
+
+Summary
+
+PE604.813
+
+Technical information
+Procedure reference
+
+2013/0265(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/00201
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0550
+
+24/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0288
+
+24/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0289
+
+24/07/2013
+
+EC
+
+Document attached to the procedure
+
+N7-0067/2014
+OJ C 038 08.02.2014, p. 0014
+
+05/12/2013
+
+EDPS
+
+Summary
+
+Summary
+
+Economic and Social Committee: opinion, report
+
+CES5238/2013
+
+11/12/2013
+
+ESC
+
+CON/2014/0010
+OJ C 193 24.06.2014, p. 0002
+
+05/02/2014
+
+ECB
+
+Summary
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0167/2014
+
+11/03/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, partial vote at 1st
+reading/single reading
+
+T7-0279/2014
+
+03/04/2014
+
+EP
+
+Summary
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0022/2015
+
+18/02/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0048/2015
+
+10/03/2015
+
+EP
+
+Summary
+
+European Central Bank: opinion, guideline,
+report
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2015/751
+OJ L 123 19.05.2015, p. 0001 Summary
+
+Delegated acts
+2017/2890(DEA)
+
+Examination of delegated act
+
+2013/0265(COD) - 24/07/2013 Legislative proposal
+PURPOSE: to lay down uniform technical and business requirements on interchange fees for card-based payment transactions.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the regulatory and legislative framework for retail payments in the EU has been developed over the past 12 years, with the
+advent of the Euro acting as an accelerating factor.
+One of the key practices hindering the achievement of an integrated market reasons is the widespread use of so-called Multilateral
+Interchange Fees (MIFs). At present, no legislation regulating interchange fees is in place in the EU. MIFs are collectively agreed inter-bank
+fees usually between the acquiring payment service providers and the issuing payment service providers belonging to a certain scheme. Such
+interchange fees paid by acquiring payment service providers form part of the fees they charge to merchants which merchants in turn pass on
+to consumers. Thus, high Interchange Fees paid by merchants result in higher final prices for goods and services, which are paid by all
+consumers.
+There currently is a wide variety of interchange fees applied within national and international payment card schemes, which gives rise to
+market fragmentation and prevents retailers and consumers from enjoying the benefits of an internal market for goods and services.
+Market entry for pan-European players remains difficult, as domestic interchange fees in EU Member States vary widely and new entrants
+would have to offer interchange fees at least comparable to those prevailing in each market they want to enter. The entry barriers interchange
+fees thus created for online and mobile payment solutions also result in less innovation.
+Over the last 20 years, the European Commission and national competition authorities have conducted a number of antitrust proceedings
+addressing anti-competitive practices in the card payment market. The General Court judgment of May 2012 confirmed the Commission's
+finding in its MasterCard Decision of December 2007 that MIFs restrict competition as they inflate the cost of card acceptance by merchants
+without leading to benefits for consumers.
+In its non-legislative resolution of 20 November 2012 on the Green Paper 'Towards an integrated European market for card, internet and
+mobile payments, the Parliament took a firm position in favour of providing clarity on interchange fees to market participants and expressed
+itself in favour of a gradual approach leading to a ban on interchange fees through regulation.
+LEGAL BASIS: Article 114 of the Treaty on the Functioning of the European Union (TFEU).
+IMPACT ASSESSMENT: the impact assessment considers six scenarios for interchange fees. The assessment concludes that the most
+
+beneficial option appears to be a combination of:
+capping the level of interchange fees for cross-border transactions with consumer debit and credit cards (in the first stage) and, in a
+second stage, capping the level of interchange fees also for domestic transactions with consumer credit cards and consumer debit
+cards;
+a series of measures to enhance effective market functioning including the limitation of the rule allowing merchants to determine the
+choice of card brand at the point of sale for all cards and card-based transactions based on four party scheme models.
+CONTENT: the present regulation, combined with the proposed revised Payment Services Directive, proposes to create common rules for
+interchange fees in the European Union by introducing maximum fee levels for transactions with payment cards that are widely used by
+consumers and thereby difficult to refuse or surcharge by retailers. The regulation will in addition propose transparency measures to allow
+retailers and consumers to make better informed choices of payment instruments.
+Capping interchange fees: the Commission proposes to set caps for interchange fees to payment service providers of 0.2% and 0.3% for the
+value of the transaction for all consumer debit and credit transactions. These figures have been accepted by Visa, MasterCard and the French
+domestic card scheme Groupement Cartes Bancaires.
+During a transition period of two years, maximum levels of interchange fees are imposed for cross-border transactions (where the card
+holder uses their card in another Member State) or cross-border acquired transactions (where the merchant uses an acquiring PSP in
+another Member State) only.
+After a transitional period, the regulation of interchange fees for consumer cards should therefore be extended to cover also domestic
+interchange fees.
+Business rules: the proposed Regulation contains measures as regards business rules that will be applicable to all categories of card
+transactions and card-based payment transactions based on those. As of the entry into force of the regulation, for instance:
+the application of the 'Honour All Cards Rule' will be limited. No discrimination will be nonetheless allowed on the basis of the issuing
+bank or the provenance of the card holder and between the cards carrying the same interchange fee level;
+the application of any rule preventing or limiting merchants from steering customers to more efficient payments instruments ('no
+steering rules') will be prohibited;
+acquiring Payment Service Providers will provide at least monthly statements of fees to merchants, in which the fees paid by the
+merchant over the relevant month concerning each category of cards and each individual brand for when the acquirer provides
+acquiring services is specified;
+the application of any rule withholding merchants from disclosing to their customers fees they pay to payment services acquirers will
+be prohibited.
+BUDGETARY IMPLICATIONS: the proposal does not have any impact on the EU budget.
+
+2013/0265(COD) - 05/12/2013 Document attached to the procedure
+Opinion of the European Data Protection Supervisor on a Proposal for a Directive of the European Parliament and of the Council on payment
+services in the internal market amending Directives 2002/65/EC, 2006/48/EC and 2009/110/EC and repealing Directive 2007/64/EC, and for a
+Regulation of the European Parliament and of the Council on interchange fees for card-based payment transactions.
+The EDPS welcomes the introduction in Article 84 of a substantive provision stating that any processing of personal data taking place in the
+frame of the proposed Directive should be done in full respect of the national laws implementing Directive 95/46/EC and Directive 2002/58/EC,
+and of Regulation (EC) No 45/2001.
+It recommends that:
+references to applicable data protection law should be specified in concrete safeguards that will apply to any situation in which
+personal data processing is envisaged;
+it should be clarified expressly in the proposed Directive that the processing of personal data may be carried out insofar that it is
+necessary for the performance of payment services;
+a substantive provision should be added stating the obligation that privacy by design/privacy by default be embedded in all data
+processing systems developed and used in the frame of the proposed Directive;
+regarding exchanges of information: (i) mentioning the purposes for which personal data can be processed by national competent
+authorities, the EU central bank, the national central banks and the other authorities, (ii) specifying the kind of personal information
+that can be processed under the proposed Directive and (iii) fixing a proportionate data retention period for the processing or at least
+introducing precise criteria for its establishment;
+a requirement should be introduced for competent authorities to request documents and information by formal decision, specifying the
+legal basis and the purpose of the request and what information is required should be introduced, as well as the time-limit within which
+the information is to be provided.
+in the case of the term availability of sufficient funds, it is made clear that the information transmitted to the third party should consist in
+a simple yes or no answer to the question if there are sufficient funds available not in for example a statement of the account balance;
+the processing of personal data, and their passing along through the various intermediaries, should respect the principles of
+confidentiality and security;
+a substantive provision should be added to the proposed Directive with the obligation that standards are developed on the basis of,
+and after having conducted, privacy impact assessments;
+a reference should be included as regards the need to consult the EDPS in so far as the EBA guidelines on state of the art customer
+authentication and any exemption of the use of strong customer authentication concern the processing of personal data.
+
+2013/0265(COD) - 05/02/2014 European Central Bank: opinion, guideline, report
+
+OPINION OF THE EUROPEAN CENTRAL BANK on a proposal for a regulation of the European Parliament and of the Council on interchange
+fees for card-based payment transactions.
+On 31 October 2013, the European Central Bank (ECB) received a request from the Council for an opinion on a proposal for a regulation which seeks to lay
+down uniform technical and business requirements for payment card transactions carried out within the European Union where both the payers and the
+payees payment service provider are established in the Union.
+The ECB welcomes the fact that the proposed regulation lays down common Union-wide rules on inter change fees and also uniform business
+rules and technical requirements for card-based payment transactions. The proposals are generally in line with existing Eurosystem positions.
+The new rules should reduce market fragmentation and create a level playing field, which will make it easier for existing players to compete
+and for new providers to enter the market for card payments, thus leading to increased efficiency and a greater use of electronic payment
+instruments overall.
+The ECB makes the following observations:
+Defined terms: the ECB notes that the definitions have been aligned to some extent, but not fully, with those of the proposal for a second
+Payment Services Directive. Therefore, the ECB considers that the definitions of a number of key terms such as that of payment order,
+payment service provider and payment transaction should be further aligned with those in the proposed Payment Services Directive (PSD2).
+Simultaneous introduction of caps: the ECB welcomes the fact that there is increased clarity regarding interchange fees. If, however, the caps
+on cross-border interchange fees are introduced before the caps on national interchange fees, small national card acquirers could be put at a
+disadvantage, because they will not be able to compete with foreign acquirers that benefit from the resulting lower cross-border interchange
+fees. The ECB would therefore suggest introducing these caps simultaneously.
+Cobranding: the ECB supports the proposal that the choice of brand in cases of more than one brand on a card (co-branding) should be made
+at the point of sale. At the same time, payers may have an incentive to choose card brands that provide them with additional benefits such as
+reward programmes, which might consequently lead to an increase in the use of expensive card brands. In this regard, the ECB suggests that
+the choice of a specific brand should be agreed upon jointly by the cardholder and the merchant at the point of sale.
+Prohibition on rules forcing merchants to accept all cards of a specific brand: while the ECB welcomes this prohibition, it considers that the
+decision on whether to accept cards, as well as the particular brands or card products which may be accepted under a certain scheme, should
+be a commercial decision by the merchant.
+Discrimination: the ECB further suggests clarifying that payment card schemes should not discriminate against processing entities by
+implementing business rules that unduly restrict interoperability between processing entities.
+Transitional period: in order for payment card schemes to adapt to the new requirements, the ECB recommends that a transitional period for
+the separation requirement could be considered.
+National authority: for efficiency reasons, the ECB would suggest one single competent authority being responsible for ensuring compliance
+with the regulation, however being aware that this might prove difficult in practice due to diverging national set ups.
+
+2013/0265(COD) - 11/03/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Pablo ZALBA BIDEGAIN (EPP, ES) on the proposal for a regulation
+of the European Parliament and of the Council on interchange fees for card-based payment transactions
+The committee recommended that the position of the European Parliament adopted in first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Purpose: the Regulation lays down uniform technical and business requirements for card-based payment transactions carried out within the
+Union, where both the payer's payment service provider and the payee's payment service provider are established therein.
+The regulation should apply to transactions with commercial cards, but should not apply to: (i) cash withdrawals or transactions other than
+sales of goods or services performed at automatic teller machines and cash disbursements at the counter of payment service providers'
+premises; and (ii) transactions with cards issued by three party payment card schemes where their volume does not exceed a threshold set by
+the Commission.
+Cost-efficient domestic debit card schemes that already today operate with an interchange fee level below the threshold proposed by the
+Commission (0.2 %) could be exempted from the business rules if national authorities decided to opt out.
+Limit on interchange fees:
+·
+
+for credit card transactions, Members supported the Commission proposal to limit the fees to 0.3 % of the value of the transaction;
+
+·
+
+for debit card transactions, the committee proposed a limit of the lower amount of 7 eurocents or 0.2 % of the value of the
+transaction.
+
+These rules will apply from the entry into force of the regulation.
+Member States may maintain or introduce lower caps or measures of equivalent object or effect through national legislation.
+Circumvention: competent authorities must prevent any attempts by the payment service providers to circumvent the Regulation,
+including the issuance of payment cards in third countries.
+Licensing rules: any restriction of the provision of payment-related services in payment card schemes rules should be prohibited, unless it was
+non-discriminatory and objectively necessary to operate the payment scheme.
+Cross-border transactions: to allow the single market to operate most effectively, it was necessary to ensure that the interchange fee applied
+for all transactions is that of the Member
+
+State in which the acquirer was situated. This would facilitate competition below capped rates where these are applicable.
+Separation of payment card scheme and processing entities: one year after the entry into force of the regulation, processing entities within the
+Union should ensure that their system was technically interoperable with other systems of processing entities within the Union through the use
+of standards developed by international or European standardisation bodies.
+After consulting an advisory panel, EBA should develop draft regulatory technical standards establishing requirements to be complied with by
+payment systems, payment schemes and processing entities to ensure a fully open and competitive card processing market.
+Member States may exempt newly established card-based payment schemes from applying this provision for a limited period of time by way of
+derogation after consulting the Commission.
+Competition between brands: in order to ensure that competition between brands was effective, Members felt that the choice of payment
+application should be made by users, not imposed by the upstream market, comprising payment card systems, payment service providers or
+processors. Such an arrangement should not prevent payers and payees from setting a default choice of application, where technically
+feasible, provided that that choice can be changed for each transaction. If the payee selected an application supported by both, the
+user should be able to reject it and choose another application.
+Information to the payee: when entering into a contractual agreement with a payment services provider, the consumer should also be provided
+with clear and objective periodical information about the payment characteristics and payment fees applied to payment transactions.
+Member States should ensure that payment service providers participate in complaints procedures.
+Review clause: within two years of entry into force of the regulation, the commission should submit a report on the application of the
+regulation. The assessment should consider: (i) the development of cardholder fees; (ii) the level of competition among payment card
+providers and schemes; (iii) the effects on costs for the payer and the payee; (iv) the levels of merchant pass-through of the reduction in
+interchange levels; (v) the technical requirements and its implications for all the parties involved.
+The report should be accompanied by a legislative proposal that might include a proposed amendment of the maximum cap for interchange
+fees.
+
+2013/0265(COD) - 03/04/2014 Text adopted by Parliament, partial vote at 1st reading/single
+reading
+The European Parliament adopted amendments to the proposal for a regulation of the European Parliament and of the Council on interchange
+fees for card-based payment transactions.
+The matter was referred back for further examination to the committee responsible. The vote was postponed until a subsequent plenary
+session.
+The main amendments adopted in plenary were the following:
+Reduce transaction costs for consumers: the amended text underlines that the interchange fees charged by banks to merchants are a
+main component of the fees charged to merchants by acquiring payment service providers for every card transaction. Merchants in turn
+incorporate these card costs, like all their other costs, in the general prices of goods and services.
+According to Members, consistent application of the competition rules to interchange fees would reduce transaction costs for consumers and
+thus improve the functioning of the internal market.
+Caps on interchange fees:
+·
+
+For credit card transactions, Members supported the European Commissions proposal to place a cap on the banks fee of 0.3% of the
+value of the transaction.
+
+·
+
+For debit card transactions, the parliamentary committee proposed a cap of 0.07 euros or 0.2% of the value of the transaction,
+whichever was the higher.
+
+These caps would concern national and transnational transactions within the EU and would apply one year after the entry into force of the
+regulation.
+Member States may maintain or introduce lower caps or measures of equivalent object or effect through national legislation.
+Circumvention: competent authorities must prevent any attempts by the payment service providers to circumvent the Regulation,
+including the issuance of payment cards in third countries.
+Licensing rules: any restriction of the provision of payment-related services in payment card schemes rules should be prohibited, unless it was
+non-discriminatory and objectively necessary to operate the payment scheme.
+Cross-border transactions: to allow the single market to operate most effectively, it was necessary to ensure that the interchange fee applied
+for all transactions is that of the Member State in which the acquirer was situated.
+Separation of payment card scheme and processing entities: scheme rules and rules in licensing agreements or other contracts leading to a
+restriction on the freedom to choose a processor shall be prohibited.
+One year after the entry into force of the regulation, processing entities within the Union should ensure that their system is technically
+interoperable with other systems of processing entities within the Union through the use of standards developed by international or European
+standardisation bodies.
+After consulting an advisory panel, EBA should develop draft regulatory technical standards establishing requirements to be complied with by
+payment systems, payment schemes and processing entities to ensure a fully open and competitive card processing market.
+
+Co-badging and choice of payment application: according to the amended text, payment card schemes, issuers, acquirers and payment card
+handling infrastructure providers should not insert automatic mechanisms, software or devices on the payment instrument or on equipment
+applied at the point of sale which limit the choice of application by the payer and the payee when using a co-badged payment instrument.
+Payees should retain the option of installing automatic mechanisms in the equipment used at the point of sale which make a priority selection
+of a particular brand or application. However, payees should not prevent the payer, for the categories of cards or related payment instruments
+accepted by the payee, from overriding an automatic priority selection made by the payee in its equipment.
+Information to the payee: when entering into a contractual agreement with a payment services provider, the consumer should also be provided
+with clear and objective periodical information about the payment characteristics and payment fees applied to payment transactions.
+Payment service providers should also participate in complaints procedures.
+Review clause: within two years of entry into force of the regulation, the Commission should submit a report on the application of the
+regulation. The assessment should consider: (i) the development of cardholder fees; (ii) the level of competition among payment card
+providers and schemes; (iii) the effects on costs for the payer and the payee; (iv) the levels of merchant pass-through of the reduction in
+interchange levels; (v) the technical requirements and its implications for all the parties involved ; (vi) the effects of co-badging on
+user-friendliness, in particular for the elderly and other vulnerable users.
+The report should be accompanied by a legislative proposal that might include a proposed amendment of the maximum cap for interchange
+fees.
+
+2013/0265(COD) - 18/02/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Pablo ZALBA BIDEGAIN (EPP, ES) on the proposal for a regulation
+of the European Parliament and of the Council on interchange fees for card-based payment transactions.
+The matter had been referred back to the competent committee for reconsideration during the plenary sitting of 3.4.2014.
+The committee recommended that Parliaments position adopted in first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Reduce transaction costs for consumers: Members stated that a consistent application of the competition rules to interchange fees would
+improve the functioning of the internal market and contribute to reducing transaction costs for consumers.
+Interchange fee caps: as regards interchange fees for consumer debit card transactions, payment service providers shall not offer or request a
+per transaction interchange fee of more than 0.2% of the value of the transaction for any debit card transaction.
+For domestic debit card transactions Member States may either:
+·
+
+define a per transaction percentage interchange fee cap lower than 0.2% and may impose a fixed maximum fee amount as a limit on
+the fee amount resulting from the applicable percentage rate;
+
+·
+
+allow payment service providers to apply a per transaction interchange fee of no more than EUR 0.05, or, which may also be
+combined with a maximum percentage rate of no more than 0.2%, provided always that the sum of interchange fees of the payment
+card scheme does not exceed 0.2% of the total annual transaction value of the domestic debit card transactions within each
+payment card scheme.
+
+Until five years and six months after the entry into force of this Regulation, Member States may allow payment service providers to apply a
+weighted average interchange fee of no more than the equivalent of 0.2% of the annual average transaction value of all domestic debit card
+transactions within each payment card scheme. Member States may define a lower weighted average interchange fee cap applicable to all
+domestic debit card transactions.
+For interchange fees for consumer credit card transactions, payment service providers shall not offer or request a per transaction interchange
+fee of more than 0.3% of the value of the transaction for any credit card transaction. For domestic credit card transactions Member States may
+define a lower per transaction interchange fee cap.
+Three-party payment systems: until 42 months after the date of entry into force of this Regulation, in relation to domestic payment transactions,
+such a three party payment card scheme (cardholder - acquiring and issuing scheme - merchant) may be exempted from the obligations under
+the Regulation, provided that the card-based payment transactions made in a Member State under such a three party payment card scheme
+do not exceed on a yearly basis 3% of the value of all card-based payment transactions made in that Member State.
+A commercial card used only for business expenses charged directly to the account of the undertaking or public sector entity or the
+self-employed natural person shall be exempt from the new provisions.
+Business rules (licensing): any territorial restrictions within the Union or rules with an equivalent effect in licensing agreements or in payment
+card scheme rules for issuing payment cards or acquiring card-based payment transactions shall be prohibited.
+Separation of payment card scheme and processing entities: payment card schemes and processing entities: (a) shall be independent in terms
+of accounting, organisation and decision-making processes; (b) shall not present prices for payment card scheme and processing activities in
+a bundled manner and shall not cross-subsidise such activities.
+The European Banking Authority (EBA) may, after consulting an advisory panel, develop draft regulatory technical standards establishing the
+requirements to be complied with by payment card schemes and processing entities to ensure the proper application of this Regulation.
+Co-badging and choice of payment brand or payment application: when entering into a contractual agreement with a payment service provider,
+the consumer may require two or more different payment brands on a card-based payment instrument provided that such a service is offered
+by the payment service provider. In good time before the contract is signed, the payment service provider shall provide the consumer with
+clear and objective information on all the payment brands available and their characteristics, including their functionality, cost and security.
+Payees shall retain the option of installing automatic mechanisms in the equipment used at the point of sale which make a priority selection of
+
+a particular payment brand or payment application but payees shall not prevent the payer from overriding such an automatic priority selection
+made by the payee in its equipment for the categories of cards or related payment instruments accepted by the payee.
+Universal cards: in order to ensure an adequate level playing field between the different categories of payment cards, it is appropriate to apply
+the same rule provided by this Regulation for the debit card transactions to such 'universal cards' domestic payment transaction.
+However, in exceptional circumstances and during a transition period of 18 months from the entry into force of the Regulation, Member States
+may define a share of no more than 30% of the domestic payment transactions by universal cards shall be considered to be equivalent to
+credit card transactions.
+Review clause: by four year after the entry into force of the Regulation, the Commission should present a report studying various effects of this
+Regulation on the functioning of the market. It is necessary that the Commission has the possibility to collect the information required to
+establish this report in cooperation with the competent authorities.
+
+2013/0265(COD) - 10/03/2015 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 621 votes to 26, with 29 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on interchange fees for card-based payment transactions.
+Parliament adopted its position at first reading following the ordinary legislative procedure. The amendments adopted in plenary amend the
+Commission proposal as follows:
+Interchange fee caps: Parliament noted that in addition to a consistent application of the competition rules to interchange fees, regulating such
+fees would improve the functioning of the internal market and contribute to reducing transaction costs for consumers.
+For cross-border debit card transactions, the agreed fee cap is 0.2% of transaction value.
+For domestic debit card transactions, at Parliaments request, the same 0.2% cap will apply after a five-year transition period in which EU
+Member States may cap fees at 0.2% of the annual weighted average transaction value of all domestic transactions within the card scheme.
+For smaller domestic debit card transactions, Member States may also set a maximum fixed fee of EUR 0.05 per transaction, after the
+five-year transition period.
+As regards interchange fees for consumer credit card transactions, payment service providers shall not offer or request a per transaction
+interchange fee of more than 0.3% of the value of the transaction for any credit card transaction. For domestic credit card transactions Member
+States may define a lower per transaction interchange fee cap.
+Information of the competent authorities: in order to define the relevant interchange fee caps for domestic debit card transactions, it is
+appropriate to allow national competent authorities entitled to ensure compliance with this Regulation to collect information regarding the
+volume and value of all debit card transactions within a payment card scheme or of the debit card transactions pertaining to one or more
+payment service providers. The competent authorities shall, upon their written request, require payment card schemes and/or payment service
+providers to provide all information necessary to verify the correct application of this Regulation. Any other information enabling the competent
+authorities to verify compliance shall be sent to the competent authorities upon their written request and within the deadline set by them.
+Exemptions:
+- until 42 months after the date of entry into force of this Regulation, in relation to domestic payment transactions, such a three party payment
+card scheme (cardholder - acquiring and issuing scheme - merchant) may be exempted from the obligations under the Regulation, provided
+that the card-based payment transactions made in a Member State under such a three party payment card scheme do not exceed on a yearly
+basis 3% of the value of all card-based payment transactions made in that Member State;
+- a commercial card used only for business expenses charged directly to the account of the undertaking or public sector entity or the
+self-employed natural person shall be exempt from the new provisions.
+Co-badging and choice of payment brand or payment application: when entering into a contractual agreement with a payment service provider,
+the consumer may require two or more different payment brands on a card-based payment instrument provided that such a service is offered
+by the payment service provider. In good time before the contract is signed, the payment service provider shall provide the consumer with
+clear and objective information on all the payment brands available and their characteristics, including their functionality, cost and security.
+Payees shall retain the option of installing automatic mechanisms in the equipment used at the point of sale which make a priority selection of
+a particular payment brand or payment application but payees shall not prevent the payer from overriding such an automatic priority selection
+made by the payee in its equipment for the categories of cards or related payment instruments accepted by the payee.
+Universal cards: in order to ensure an adequate level playing field between the different categories of payment cards, it is appropriate to apply
+the same rule provided by this Regulation for the debit card transactions to such 'universal cards' domestic payment transaction.
+However, in exceptional circumstances and during a transition period of 18 months from the entry into force of the Regulation, Member States
+may define a share of no more than 30% of the domestic payment transactions by universal cards shall be considered to be equivalent to
+credit card transactions.
+Review clause: by four year after the entry into force of the Regulation, the Commission should present a report studying various effects of this
+Regulation on the functioning of the market. The report by the Commission shall, if appropriate, be accompanied by a legislative proposal that
+may include a proposed amendment of the maximum cap for interchange fees.
+
+2013/0265(COD) - 29/04/2015 Final act
+PURPOSE: to lay down uniform technical and business requirements on interchange fees for card-based payment transactions.
+LEGISLATIVE ACT: Regulation (EU) 2015/751 of the European Parliament and of the Council of 29 April 2015 on interchange fees for
+
+card-based payment transactions.
+CONTENT: the Regulation lays down uniform technical and business requirements for card-based payment transactions carried out within the
+Union, where both the payer's payment service provider and the payee's payment service provider are located therein. Interchange fees are
+usually applied between the card-acquiring payment service providers and the card-issuing payment service providers belonging to a certain
+payment card scheme. Interchange fees are a main part of the fees charged to merchants by acquiring payment service providers for every
+card-based payment transaction. Merchants in turn incorporate those card costs, like all their other costs, in the general prices of goods and
+services.
+The existing wide variety of interchange fees and their level prevent the emergence of new pan-Union players on the basis of business models
+with lower or no interchange fees, to the detriment of potential economies of scale and scope and their resulting efficiencies. This has a
+negative impact on merchants and consumers and prevents innovation.
+The aim is to reduce costs for both retailers and consumer, and to help create an EU-wide payments market. The regulation will also help
+users make more informed choices about payment instruments.
+Interchange fee caps:
+Payment service providers shall not offer or request a per transaction interchange fee of more than 0.2% of the value of the
+transaction for any debit card transaction.
+For domestic debit card transactions, Member States may either: define a per transaction percentage interchange fee cap lower than
+0.2% and may impose a fixed maximum fee amount as a limit on the fee amount resulting from the applicable percentage rate; or
+allow payment service providers to apply a per transaction interchange fee of no more than EUR 0.05, or, in the Member States
+whose currency is not the euro, the corresponding value in the national currency on 8 June 2015, which shall be revised every five
+years or whenever there is a significant variation in exchange rates. This per transaction interchange fee may also be combined with a
+maximum percentage rate of no more than 0.2%, provided always that the sum of interchange fees of the payment card scheme does
+not exceed 0.2% of the total annual transaction value of the domestic debit card transactions within each payment card scheme. Until
+9 December 2020, Member States may allow payment service providers to apply a weighted average interchange fee of no more than
+the equivalent of 0.2% of the annual average transaction value of all domestic debit card transactions within each payment card
+scheme. Payment service providers shall not offer or request a per transaction interchange fee of more than 0.3% of the value of the
+transaction for any credit card transaction. For domestic credit card transactions Member States may define a lower per transaction
+interchange fee cap
+Universal cards: in relation to domestic payment transactions that are not distinguishable as debit or credit card transactions by the payment
+card scheme, the provisions on debit cards or debit card transactions are applied. However, until 9 December 2016, Member States may
+define a share of no more than 30% of the domestic payment transactions Universal cards that are considered to be equivalent to credit card
+transactions to which the interchange fee cap set at 0.3% shall apply.
+Exemptions:
+for domestic payment transactions, until 9 December 2018, a three party payment card scheme may be exempt from the obligations
+under this Regulation, provided that the card-based payment transactions made in a Member State under such a three party payment
+card scheme do not exceed on a yearly basis 3% of the value of all card-based payment transactions made in that Member State;
+business cards used only for business expenses shall also be exempt.
+Transparency and choice of payment brand or payment application: the Regulation introduced transparent mechanisms which will allow
+retailers to be aware of the level of fees paid when accepting cards. The new rules will enable them to more easily select which payment cards
+to accept.
+When entering into a contractual agreement with a payment service provider, the consumer may require two or more different payment brands
+on a card-based payment instrument provided that such a service is offered by the payment service provider.
+In good time before the contract is signed, the payment service provider shall provide the consumer with clear and objective information on all
+the payment brands available and their characteristics, including their functionality, cost and security.
+Payees shall retain the option of installing automatic mechanisms in the equipment used at the point of sale which make a priority selection of
+a particular payment brand or payment application but payees shall not prevent the payer from overriding such an automatic priority selection
+made by the payee in its equipment for the categories of cards or related payment instruments accepted by the payee.
+Information to the payee: after the execution of an individual card-based payment transaction, the payee's payment service provider shall
+provide the payee with the following information:
+the reference enabling the payee to identify the card-based payment transaction;
+the amount of the payment transaction in the currency in which the payee's payment account is credited;
+the amount of any charges for the card-based payment transaction, indicating separately the merchant service charge and the amount
+of the interchange fee.
+Review clause: by 9 June 2019, the Commission shall submit a report on the different effects of the Regulation on the functioning of the
+market. It shall, if appropriate, be accompanied by a legislative proposal that may include a proposed amendment of the maximum cap for
+interchange fees.
+ENTRY INTO FORCE: it shall apply from 8 June 2015, with the exception of certain provisions which shall apply from 9 December 2015 and 9
+June 2016.
+
+

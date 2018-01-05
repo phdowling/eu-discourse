@@ -1,0 +1,379 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2016/0172(COD)
+
+Procedure completed
+28/04/2017 Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+System of inspections for the safe operation of ro-ro passenger ships and
+high-speed passenger craft in regular service
+Repealing Directive 1999/35/EC 1998/0064(SYN)
+Amending Directive 2009/16/EC 2005/0238(COD)
+Subject
+3.20.03.01 Maritime safety
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Rapporteur
+
+Transport and Tourism
+
+Appointed
+27/06/2016
+
+RIQUET Dominique
+Shadow rapporteur
+
+MONTEIRO DE
+AGUIAR Cláudia
+
+UJHELYI István
+
+FOSTER Jacqueline
+
+KYLLÖNEN Merja
+
+TAYLOR Keith
+
+D'AMATO Rosa
+ARNAUTU
+Marie-Christine
+
+Council of the European Union
+Commission DG
+European Commission
+Mobility and Transport
+
+Commissioner
+BULC Violeta
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+06/06/2016
+
+Legislative proposal published
+
+09/06/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+01/12/2016
+
+Debate in Council
+
+11/04/2017
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0371
+
+Summary
+
+11/04/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+19/04/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0165/2017
+
+11/07/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE610.759
+GEDA/A/(2017)008503
+
+03/10/2017
+
+Debate in Parliament
+
+04/10/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+23/10/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/11/2017
+
+Final act signed
+
+15/11/2017
+
+End of procedure in Parliament
+
+30/11/2017
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0375/2017
+
+Technical information
+Procedure reference
+
+2016/0172(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Repealing Directive 1999/35/EC 1998/0064(SYN)
+Amending Directive 2009/16/EC 2005/0238(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 100-p2
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+TRAN/8/06755
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0371
+
+06/06/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0189
+
+06/06/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0190
+
+06/06/2016
+
+EC
+
+Committee draft report
+
+PE589.485
+
+08/02/2017
+
+EP
+
+Amendments tabled in committee
+
+PE601.069
+
+10/03/2017
+
+EP
+
+A8-0165/2017
+
+19/04/2017
+
+EP
+
+GEDA/A/(2017)008503
+
+21/06/2017
+
+CSL
+
+T8-0375/2017
+
+04/10/2017
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+Coreper letter confirming interinstitutional
+agreement
+Text adopted by Parliament, 1st reading/single
+
+Summary
+
+Summary
+
+Summary
+
+reading
+
+Final act
+Directive 2017/2110
+OJ L 315 30.11.2017, p. 0061
+Final legislative act with provisions for delegated acts
+
+2016/0172(COD) - 06/06/2016 Legislative proposal
+PURPOSE: to simplify and streamline the existing EU passenger ship safety regulatory framework (inspections for the safe operation of ro-ro
+ferry and high-speed passenger craft (HSC) in regular service).
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: Parliament decides in accordance with the ordinary legislative procedure and on an equal footing
+with the Council.
+BACKGROUND: Council Directive 1999/35/EC provides for a number of types of inspection addressing particular safety characteristics of
+ro-ro ferries and high-speed craft (HSC). Notwithstanding the fact that the special inspection regime for these vessels remains necessary, the
+requirements of this Directive no longer match the realities.
+Since then, the port State control regime has been strengthened, especially after Directive 2009/16/EC of the European Parliament and of the
+Council came into force, establishing a risk-based inspection regime and including a minimum number of inspections on high risk ships that
+Member States must carry out.
+Today, the vast majority of Member States combine or replace some of the inspections required under Directive 1999/35/EC with either flag
+State surveys or port State control inspections. This practice renders the implementation and enforcement of this Directive problematic, given
+the different scope of these inspections and regulatory overlaps.
+In the spirit of the Commission's REFIT and Better Regulation agenda and as an immediate follow-up to the fitness check on EU passenger
+ship safety legislation, the Commission considers that the existing EU passenger ship safety regulatory framework should be simplified and
+streamlined in order to (i) maintain EU rules where necessary and proportionate; (ii) ensure their correct implementation; and (iii) eliminate
+potential overlap of obligations and inconsistencies between related pieces of legislation.
+The proposal is fully consistent with the simplification proposals amending Directive
+2009/45/EC of the European Parliament and of the Council and Council Directive 98/41/EC
+CONTENT: the Commission proposes to replace Directive 1999/35/EC in order to update, clarify and simplify the existing survey requirements
+for roro ferries and HSC while maintaining the same level of safety and key delivery mechanisms.
+The main points of the proposed new directive are as follows:
+to limit the scope of the directive to ships providing regular ro-ro ferry and high-speed passenger craft services between ports within a
+Member State or between a port in a Member State and a port in a third State where the flag of the vessel is the same as that of the
+Member State in question;
+to remove a number of redundant definitions and references such as "passenger", "host state", "international voyages", "exemption
+certificate", and to delete the reference to the investigation of marine casualties which is now covered by Directive 2009/18/EC of the
+European Parliament and of the Council;
+to provide for system of ship (rather than company) based inspections prior to the commencement of a regular service. The vessel
+must undergo an inspection in accordance with Annex II and a number of safety management issues set out in Annex I must also be
+verified;
+to stipulate that ships falling within the scope of the Directive are inspected twice per year with a certain time-lag between inspections
+and that one of these inspections should be an in-service inspection during a regular crossing;
+to provide that Member State can, if they wish, combine the inspection with a flag State survey which would have to be carried out in
+respect of a vessel on a yearly basis;
+to bring into line the provisions relating to the inspection reports, prohibitions of departure, appeals, costs, the inspection database and
+penalties with those provided in Directive 2009/16/EC;
+align the directive with the provisions of the Treaty on the functioning of the European Union concerning the exercise of the
+Commissions powers in relation to delegated acts.
+to amend Directive 2009/16/EC to ensure that the current content and frequency of ro-ro ferries and high-speed passenger craft
+inspections is maintained;
+to provide for assessment of the directive by the Commission.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2016/0172(COD) - 19/04/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Transport and Tourism adopted the report by Dominique RIQUET (ADLE, FR) on the proposal for a directive of the
+
+European Parliament and of the Council on a system of inspections for the safe operation of ro-ro ferry and high-speed passenger craft in
+regular service and amending Directive 2009/16/EC of the European Parliament and of the Council on port State control and repealing Council
+Directive 1999/35/EC.
+The committee recommended that the European Parliaments position adopted at first reading, following the ordinary legislative procedure,
+should amend the Commission proposal as follows:
+Clarification between the scope of the Directive and Directive 2009/16/EC: Members pointed out that for ships flying the flag of a Member
+State providing regular ro-ro ferry and high-speed passenger craft services between a Member State and a non-Member State, Directive
+2009/16/EC (port State control) is to apply if the flag being flown is not the same as the flag of the Member State in question
+Definitions: Members defined the competent authority of the Member State as the authority appointed by the Member State under this
+Directive and responsible for carrying out the tasks assigned to it by this Directive.
+Exceptions to the requirement for pre-commencement inspections: in the case of pre-commencement inspections, a Member State may
+dispense with certain requirements or procedures that are laid down or set out in Annexes I and II and that are relevant to an annual flag State
+survey or inspection carried out, within the previous six months, with respect to procedures designed to achieve the same goal.
+Regular inspections: Member States should carry out every twelve-month period:
+an inspection in accordance with Annex II;
+a second inspection during a regular service, which shall not be carried out earlier than four months or later than eight months after
+the first inspection.
+Members proposed deleting from the proposal the exemption from inspections of regular services as proposed by the European Commission
+(in the event of a change of management or in the case of transfer of class of ro-ro ferry or high-speed passenger craft).
+The inspector of the competent authority of the port State may agree, during an inspection of a ro-ro passenger ship or high-speed passenger
+craft, to be accompanied by a port State control inspector of another Member State, who shall act in the capacity of an observer.
+When inspection is exercised, all possible efforts shall be made to avoid a ship being unduly detained or delayed.
+Given their high and specific risk profile, ro-ro ferries and high-speed passenger craft should be systematically considered to be high-risk
+vessels and should therefore be inspected as a matter of priority.
+Costs: as regards the costs incurred in the detention of a vessel, Members suggested clarifying the text by specifying that the system of
+possible extra charges for the port shall be governed by the contractual relationship between the operator and the port.
+Inspection database: information related to inspections, including on deficiencies and prohibition of departure orders, should be transferred to
+the inspection database within 24 hours of the inspection report being completed or of the prohibition of departure order being lifted.
+Delegated acts: Members proposed that the power to adopt delegated acts be conferred on the Commission for a period of five years
+(renewable) from the date of entry into force of this Directive. The European Maritime Safety Agency should conduct and present a study on
+the actual consequences of the application of this Directive.
+
+2016/0172(COD) - 04/10/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 661 votes to 11, with 17 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council on a system of inspections for the safe operation of ro-ro ferry and high-speed passenger craft in
+regular service and amending Directive 2009/16/EC of the European Parliament and of the Council on port State control and repealing Council
+Directive 1999/35/EC.
+The European Parliaments position adopted at first reading following the ordinary legislative procedure amended the Commission proposal as
+follows:
+Scope: the Directive seeks to ensure the safe operation of ro-ro passenger ships and high-speed passenger craft in regular service . It shall not
+apply to ro-ro passenger ships and high-speed passenger craft which are covered by the port State control Directive 2009/16/EC.
+Pre-commencement inspections: the competent authorities of the Member States shall carry out a pre-commencement inspection of ro-ro
+passenger ships or high-speed passenger craft before they are put into operation on a regular service.
+In the case of pre-commencement inspections, a Member State may decide not to apply certain requirements or procedures in Annexes I and
+II relevant to any annual flag State survey or inspection carried out within the previous six months, provided that relevant procedures designed
+to achieve the same goal have been followed.
+Regular inspections: in view of their specific risk profile, ro-ro passenger ships and high-speed passenger craft shall be regularly inspected as
+a matter of priority.
+Member States shall carry out, once every twelve-month period:
+an inspection, in accordance with the procedures described in Annex II;
+a second inspection during a regular service, taking place not before four months but not later than eight months after the first
+inspection.
+During an inspection, the inspector of the competent authority of the port State may agree to accompany a port State inspector from another
+Member State as an observer.
+Any inspection of ro-ro passenger ships and high-speed passenger craft falling within the scope of Directive 2009/16/EC shall be included in
+the total number of annual inspections carried out by each Member State. When inspections are carried out under Directive 2009/16/EC, all
+possible efforts should be made to avoid a ship being unduly detained or delayed.
+
+Transfer: in a new Annex it is specified that when a ro-ro passenger ship or high-speed passenger craft is to be engaged on a regular service,
+the Member State concerned may take into account inspections carried out within the last eight months by another Member State in respect of
+that ro-ro passenger ship or high-speed passenger craft for operations on another regular service covered by this Directive.
+In each case the Member State shall take the view that these previous inspections are relevant to the new operating conditions and that during
+those inspections the requirements for safe operation were met.
+Costs: the text provides that where the inspections confirm or reveal deficiencies hazardous to health or safety and warranting a prohibition of
+departure order, all costs relating to the inspections shall be covered by the company.
+Inspection database: all Member States shall be connected. This database will be based on the inspection database referred to in Article 24 of
+Directive 2009/16/EC and shall have similar functionalities to that database.
+A new recital stressed the need to take into account the on-board working and living conditions of the crew and the training and qualifications
+of its members, given that health, safety and social considerations are closely intertwined.
+
+

@@ -1,0 +1,352 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2016/0033(COD)
+
+Procedure completed
+
+Markets in financial instruments: certain dates
+Amending Directive 2014/65/EU 2011/0298(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+04/02/2016
+
+FERBER Markus
+Shadow rapporteur
+
+DODDS Anneliese
+
+SWINBURNE Kay
+
+VAN NIEUWENHUIZEN
+Cora
+
+DE MASI Fabio
+
+GIEGOLD Sven
+KAPPEL Barbara
+Committee for opinion
+DEVE
+
+Development
+
+Rapporteur for opinion
+The committee decided not to
+give an opinion.
+
+ITRE
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+Appointed
+
+Commissioner
+HILL Jonathan
+
+Key events
+10/02/2016
+
+Legislative proposal published
+
+25/02/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+07/04/2016
+
+Vote in committee, 1st reading/single
+
+COM(2016)0056
+
+Summary
+
+reading
+07/04/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+11/04/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0126/2016
+
+24/05/2016
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE604.824
+
+07/06/2016
+
+Results of vote in Parliament
+
+07/06/2016
+
+Debate in Parliament
+
+07/06/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+21/06/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+22/06/2016
+
+End of procedure in Parliament
+
+23/06/2016
+
+Final act signed
+
+30/06/2016
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0243/2016
+
+Technical information
+Procedure reference
+
+2016/0033(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2014/65/EU 2011/0298(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 053-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/05718
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0056
+
+10/02/2016
+
+EC
+
+Committee draft report
+
+PE576.962
+
+16/02/2016
+
+EP
+
+Amendments tabled in committee
+
+PE578.558
+
+02/03/2016
+
+EP
+
+A8-0126/2016
+
+11/04/2016
+
+EP
+
+CON/2016/0027
+OJ C 223 21.06.2016, p. 0003
+
+29/04/2016
+
+ECB
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0243/2016
+
+07/06/2016
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2016)487
+
+14/07/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+European Central Bank: opinion, guideline, report
+
+Final act
+
+Summary
+
+Summary
+
+Summary
+
+Directive 2016/1034
+OJ L 175 30.06.2016, p. 0008 Summary
+
+2016/0033(COD) - 10/02/2016 Legislative proposal
+PURPOSE: to extend the date of entry into application of both instruments that are comprised in MIFID II on markets in financial instruments.
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: Directive 2014/65/EU (MiFID) together with Regulation (EU) No 600/2014 (MiFIR) was adopted in the wake of the financial
+crisis. MiFID and MiFIR, collectively referred to as MiFID II, covers securities markets, investment intermediaries and trading venues. The new
+framework reinforces and replaces the current MiFID framework (Directive 2004/39/EC).
+Member States need to transpose the Directive by 3 July 2016. Both MiFID and MiFIR are scheduled to apply as of 3 January 2017 .
+During the legislative process, the very high level of complexity of the MiFID II package and the need for a significant number of implementing
+measures were recognised. To this end, a period of 30 months was foreseen between the adoption and the entry into application, instead of
+the usual 18-24 months.
+Despite this unusually long period, ESMA has made clear to the Commission that the technical implementing challenges are of such
+magnitude that essential data infrastructures will not be in place in time for 3 January 2017. This is a result of significant challenges in
+collecting the data that is necessary for the operation of the MiFID II rules.
+The absence of data has ramifications across multiple areas of MIFID II. As regards market regulation, it is clear that without the foundation of
+reference data (instrument ID) and the additional data infrastructures for transparency calculations and position reporting in place, it will not be
+possible to apply the majority of the market rules.
+In order to ensure legal certainty and avoid potential market disruption, urgent action is therefore needed to adjust the date of entry into
+application for MiFID II
+CONTENT: the purpose of the draft proposal amending Directive 2014/65/EU is to extend the entry into application of both instruments that
+are comprised in the MIFID II package as a result of the technical implementation challenges met by the European Securities and Markets
+Authority ('ESMA'), national competent authorities ('NCAs') and stakeholders.
+In order to enable ESMA, NCAs and stakeholders to complete the operational implementation, the Commission considered it appropriate to
+defer the date by which the Member States need to apply the measures transposing Directive 2014/65/EU and the date by which the repeal of
+Directive 2004/39/EC is to take effect by 12 months until 3 January 2018. Reports and reviews should be deferred accordingly.
+The Commission stated that an extension of one year should provide sufficient and reasonable time for ESMA, NCAs and operators to put in
+place the infrastructure for data collection, reporting and the transparency threshold calculations.
+
+2016/0033(COD) - 11/04/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Markus FERBER (EPP, DE) on the proposal for a directive of the
+European Parliament and of the Council amending Directive 2014/65/EU on markets in financial instruments as regards certain dates.
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Exemptions: Members stated that this Directive shall not apply to persons dealing on own account in financial instruments other than
+commodity derivatives or emission allowances or derivatives thereof and not providing any other investment services or performing any other
+investment activities in financial instruments other than commodity derivatives or emission allowances or derivatives thereof unless such
+persons: are either members of or participants in a regulated market or an MTF, on the one hand, or have direct electronic access to a trading
+venue, on the other hand, and, in either case, are engaging in a high-frequency algorithmic trading strategy on such a trading venue .
+Transposition: Members proposed that the Member States are to apply the measures transposing that Directive from 3 January 2017 (as
+opposed to 3 July 2016).
+
+2016/0033(COD) - 07/06/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 502 votes to 158, with 6 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council amending Directive 2014/65/EU on markets in financial instruments as regards certain dates.
+Parliaments position, adopted at first reading following the ordinary legislative procedure, amended the Commission proposal as follows:
+Exemptions: Parliament stipulated that the exemption set out in point (d) of Article 2(1) of Directive 2014/65/EU should be extended to include
+non-financial entities who are members of or participants in a regulated market or a multilateral trading facility (MTF), or have direct electronic
+access to a trading venue when executing transactions on a trading venue which are objectively measurable as reducing risks directly relating
+to the commercial activity or treasury financing activity of those non-financial entities or their groups.
+
+Third-country market: the amended text stated that a third-country market shall be considered to be equivalent to a regulated market if the
+requirements and the procedure laid down under the third and the fourth subparagraphs are fulfilled. At the request of the competent authority
+of a Member State, the Commission shall adopt equivalence decisions in accordance with the examination procedure (comitology). The
+competent authority shall indicate why it considers that the legal and supervisory framework of the third country concerned is to be considered
+equivalent and shall provide relevant information to that end.
+Such a third-country legal and supervisory framework may be considered equivalent where that framework fulfils at least the following
+conditions:
+the markets are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+the markets have clear and transparent rules regarding admission of securities to trading so that such securities are capable of being
+traded in a fair, orderly and efficient manner, and are freely negotiable;
+security issuers are subject to periodic and ongoing information requirements ensuring a high level of investor protection; and
+market transparency and integrity are ensured by the prevention of market abuse in the form of insider dealing and market
+manipulation.
+Committee procedure: the Commission shall be assisted by the European Securities Committee established by Commission Decision
+2001/528/EC.
+Transposition: Members proposed that the date of transposition of the Directive should be set at 3 July 2017 (instead of 3 July 2016).
+
+2016/0033(COD) - 23/06/2016 Final act
+PURPOSE: to put back by one year the time limit for transposition and application of rules on markets in financial instruments (MIFID II
+package).
+LEGISLATIVE ACT: Directive (EU) 2016/1034 of the European Parliament and of the Council amending Directive 2014/65/EU on markets in
+financial instruments.
+CONTENT: this Directive amends Directive 2014/65/EU (MIFID II) in order to put back the date of entry into application of the MIFID II,
+following difficulties encountered by the European Securities and Markets Authority (ESMA) and national competent authorities, and
+stakeholders in technical implementation.
+The MIFID II directive, like Regulation (EU) No 600/2014 (MiFIR) should be applied 30 months after entry into force, i.e. 3 January 2017. The
+date of transposition of MIFID II is 3 July 2016. However, following difficulties in technical implementation encountered by ESMA and national
+competent authorities, new data collection infrastructure will not be in place by 3 January 2017.
+The implementation process for the data collection infrastructures involves five steps: business requirements, specifications, development,
+testing and deployment. ESMA estimates that those steps will be completed by January 2018.
+Deferral of dates: in order to ensure legal certainty and avoid potential market disruption, the Directive defers the date by which the Member
+States need to transpose Directive 2014/65/EU to 3 July 2017. The new date for application of the Directive is 3 January 2018. The dates for
+reports and review are set back accordingly.
+Exemptions: the exemption set out in point (d) of Article 2(1) of Directive 2014/65/EU is extended to include non-financial entities who are
+members of or participants in a regulated market or a multilateral trading facility (MTF), or have direct electronic access to a trading venue
+when executing transactions on a trading venue which are objectively measurable as reducing risks directly relating to the commercial activity
+or treasury financing activity of those non-financial entities or their groups.
+Third-country markets: the Directive provides that a third-country market shall be considered to be equivalent to a regulated market if the
+certain requirements laid down in the Directive are fulfilled. At the request of the competent authority of a Member State, the Commission shall
+adopt equivalence decisions in accordance with the examination procedure (comitology).
+The Directive sets out the conditions that the third-country legal and supervisory framework must fulfil in order to be considered equivalent.
+ENTRY INTO FORCE: 1.7.2016.
+
+

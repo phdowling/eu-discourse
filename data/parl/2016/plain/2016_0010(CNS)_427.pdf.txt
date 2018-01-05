@@ -1,0 +1,424 @@
+Procedure file
+Basic information
+2016/0010(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Taxation: scope of the mandatory automatic exchange of information in the
+EU
+Amending Directive 2011/16/EU 2009/0004(CNS)
+Subject
+2.50.08 Financial services, financial reporting and auditing
+2.80 Cooperation between administrations
+3.45.04 Company taxation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+21/01/2016
+
+ROSATI Dariusz
+Shadow rapporteur
+
+MAUREL Emmanuel
+
+RUOHONEN-LERNER
+Pirkko
+
+VAN NIEUWENHUIZEN
+Cora
+
+VIEGAS Miguel
+
+SCOTT CATO Molly
+KAPPEL Barbara
+Committee for opinion
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+MOSCOVICI Pierre
+
+Key events
+28/01/2016
+
+Legislative proposal published
+
+25/02/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/04/2016
+
+Vote in committee, 1st reading/single
+reading
+
+28/04/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+11/05/2016
+
+Debate in Parliament
+
+COM(2016)0025
+
+Summary
+
+A8-0157/2016
+
+Summary
+
+12/05/2016
+
+Results of vote in Parliament
+
+12/05/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+25/05/2016
+
+Act adopted by Council after consultation
+of Parliament
+
+25/05/2016
+
+End of procedure in Parliament
+
+03/06/2016
+
+Final act published in Official Journal
+
+Summary
+
+T8-0221/2016
+
+Technical information
+Procedure reference
+
+2016/0010(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2011/16/EU 2009/0004(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 113; Treaty on the Functioning of
+the EU TFEU 115
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/05632
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0025
+
+28/01/2016
+
+EC
+
+Committee draft report
+
+PE576.877
+
+23/02/2016
+
+EP
+
+Amendments tabled in
+committee
+
+PE580.441
+
+22/03/2016
+
+EP
+
+PE580.759
+
+14/04/2016
+
+NP
+
+Economic and Social
+Committee: opinion, report
+
+CES1284/2016
+
+27/04/2016
+
+ESC
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A8-0157/2016
+
+28/04/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0221/2016
+
+12/05/2016
+
+EP
+
+Summary
+
+Commission response to text
+adopted in plenary
+
+SP(2016)411
+
+15/06/2016
+
+Reasoned opinion
+
+SE_PARLIAMENT
+
+Additional information
+Research document
+
+Final act
+Directive 2016/881
+OJ L 146 03.06.2016, p. 0008 Summary
+
+Briefing
+
+Summary
+
+2016/0010(CNS) - 28/01/2016 Legislative proposal
+PURPOSE: to further extend the scope of the mandatory exchange of information in the field of taxation in the EU.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: as Multi National Enterprise (MNE) Groups are active in different countries, they have the possibility of engaging in
+aggressive tax planning practices that are not available for domestic companies. When MNEs do so, purely domestic companies, normally
+small and medium-sized enterprises (SMEs) may be particularly affected as their tax burden is higher than that of MNE Groups. On the other
+hand, all Member States may suffer revenue losses and there is the risk of competition to attract MNE Groups by offering them further tax
+benefits. There is therefore a problem for the proper functioning of the Internal Market.
+In recent years, the challenge posed by tax fraud and tax evasion has increased considerably and has become a major focus of concern within
+the Union and at global level. The automatic exchange of information constitutes an important tool in this regard and the Commission in its
+Communication of 6 December 2012 containing an Action plan to strengthen the fight against tax fraud and tax evasion highlighted the need to
+promote vigorously the automatic exchange of information as the future European and international standard for transparency and exchange
+of information in tax matters.
+The European Council Conclusions of 18 December 2014 cite "an urgent need to advance efforts in the fight against tax avoidance and
+aggressive tax planning, both at the global and EU levels". Since December 2014, the Commission has quickly launched the first steps
+towards an EU approach. In the meanwhile the Organisation for Economic Cooperation and Development (OECD) has finalized its work in
+defining the global rules and standards to these ends.
+This Directive amending Council Directive 2011/16/EU as part of the Commission's Anti- Tax Avoidance Package, addresses the political
+priority of fighting against tax avoidance and aggressive tax planning. It also responds to the demands from the European Parliament outlined
+in its resolution of 21 May 2013.
+IMPACT ASSESSMENT: no impact assessment was carried out for this proposal given that the proposal is in line with international
+developments at the level of the OECD and its work on Base Erosion and Profit Shifting (BEPS) where most EU Member States participate.
+To provide up-to-date analysis and evidence, a separate Staff Working Document accompanying the proposal provides an extensive overview
+of existing academic work and economic evidence in the field of base erosion and profit shifting.
+CONTENT: in order to tackle tax fraud and evasion and aggressive tax planning, the proposal seeks to amend Directive 2011/16/EU on
+administrative cooperation in the field of taxation, as amended by Directive 2014/107/EU and by Council Directive EU 2015/2376 by
+introducing a specific requirement for the AEOI on country-by-country report.
+The main amendments introduced by the proposal are as follows:
+Mandatory automatic exchange of information on country-by-country report:
+the Directive requires MNE Groups to provide annually and for each tax jurisdiction in which they do business certain information
+including the amount of revenue, the profit before income tax, the income tax paid and accrued, the number of employees, the stated
+capital, the retained earnings and the tangible assets. This information will enable the tax authorities to react to harmful tax practices
+through changes in the legislation or adequate risk assessments and tax audits. Increased transparency should also incentivize MNE
+Groups to pay their fair share of tax in the country where profits are made
+in order to ensure an appropriate balancing of reporting burden and benefit to tax administrations, only MNE Groups with total
+consolidated group revenue equal or higher than EUR 750 000 000, will be obliged to file the country-by-country report;
+the Directive requires Member States, once they have received the country-by-country report, to share the information with the
+Member States in which, on the basis of the information in the report, companies of the MNE Group are either resident for tax
+purposes, or are subject to tax with respect to the business carried out through a permanent establishment.
+Standard form and practical arrangements:
+the automatic exchange of information on country-by-country report shall be carried out using the standard form provided in the Annex
+to the Directive. The Commission shall, by means of implementing acts, adopt the linguistic arrangements for that exchange by 31
+December 2016;
+information communicated shall be provided by electronic means using the common communication network (CCN) developed by the
+Union. The Commission shall, by means of implementing acts, adopt the necessary practical arrangements for the upgrading of the
+CCN network.
+Penalties: Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this
+Directive and shall take all measures necessary to ensure that they are implemented.
+BUDGETARY IMPLICATIONS: the impact on expenditure (including human resources) is estimated at EUR 3.79 billion of the proposal on the
+EU Budget is presented in the financial statement accompanying the proposal, and will be met within available resources.
+The costs of the additional IT tools to facilitate the communication of information between Member States would be funded out of the
+FISCALIS 2020 programme.
+
+2016/0010(CNS) - 28/04/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, in the framework of a special legislative procedure (Parliaments consultation), the
+report by Dariusz ROSATI (EPP, PL) on the proposal for a Council directive amending Directive 2011/16/EU as regards mandatory automatic
+exchange of information in the field of taxation.
+
+Associate the Commission with the automatic exchange of information: Members considered that the Commission should be associated with
+the automatic exchange of information and access to country-by-country reports, as do the national tax authorities, in full respect for
+confidentiality.
+The Commission should also have access to the information exchanged between Member States' tax authorities in order to ensure
+compliance with the relevant competition rules.
+Moreover, third countries would be able to obtain the information requested by all Member States; it is stated in this regard that the work of
+sharing the reports with third countries has already begun under the OECD's Multinational Competent Authority Agreement, and it shall be
+guaranteed that third countries can get the required information from all Member States.
+Scope and conditions of mandatory automatic exchange of information on country-by-country report: the automatic exchange of information
+shall take place as soon as possible.
+Members stated that the country-by-country report shall contain the following information as regards:
+public subsidies received, the value of assets and annual cost of maintaining them, and sales and purchases made by the Group;
+the future European tax identification number (TIN) of the Multi National Enterprise (MNE) Group referred to in the Commission's 2012
+Action Plan to strengthen the fight against fraud and tax evasion.
+In order to enhance transparency for citizens, the Commission shall publish the country-by-country reports, based on the information contained
+in the centralised register of country-by-country reports. In doing so, the Commission shall comply with the provisions on confidentiality.
+Evaluation: the Commission shall submit a yearly consolidated report to the European Parliament and the Council concerning the Member
+States' yearly assessments of the effectiveness of the automatic exchange of information, as well as the practical results achieved.
+In the event that the Commission's impact assessment on the consequences of public disclosure of country-by-country information determines
+that there are no negative consequences for Multinational Groups, the Commission shall promptly propose legislation to make the information
+publicly available.
+The Commission shall review the effectiveness of this Directive within three years after its entry into force.
+Lastly, Members stipulated in a recital that regard should be given to the European Parliament's resolution of 25 November 2015 on tax rulings
+and other measures similar in nature or effect.
+
+2016/0010(CNS) - 12/05/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 567 votes to 30, with 53 abstentions, in the framework of a special legislative procedure (Parliaments
+consultation), a legislative resolution on the proposal for a Council directive amending Directive 2011/16/EU as regards mandatory automatic
+exchange of information in the field of taxation.
+Parliament approved the Commission proposal subject to the following amendments:
+To avoid distortion of competition: Parliament noted in a recital that when Multi National Enterprise (MNE) Groups engage in aggressive tax
+planning practices that are not available for domestic companies, small and medium-sized enterprises (SMEs) may be particularly affected as
+they usually pay an effective rate of tax that is much closer to statutory rates than MNEs, resulting in distortions to, and malfunctions of, the
+Internal Market as well as distortion of competition to the detriment of SMEs. To avoid distortion of competition, domestic companies should
+not face disadvantages due to their size or lack of cross-border trade.
+Furthermore, the amended text stressed that it is of vital importance for the Union that tax rules are designed not to impair growth or
+investments, put Union companies at a competitive disadvantage, nor increase the risk of double taxation and that they are designed to
+minimise costs and administrative burdens for companies.
+Associate the Commission with the automatic exchange of information: Parliament considered that the Commission should be associated with
+the automatic exchange of information and access to country-by-country reports, as do the national tax authorities, in full respect for
+confidentiality.
+Moreover, the Commission should make use of the country-by-country reports to assess the compliance of Member States with Union State
+aid rules, as there is also a State aid dimension to unfair tax practices in the field of corporate taxation.
+Country-by-country reports: the mandatory automatic exchange of country-by-country reports between Member States and with the
+Commission should in each case include the communication of a defined set of basic information which should be based on uniform
+definitions. The automatic exchange of information shall take place as soon as possible.
+Parliament stated that the country-by-country report shall contain the following information as regards:
+public subsidies received, the value of assets and annual cost of maintaining them, and sales and purchases made by the Group;
+the future European tax identification number (TIN) of the Multi National Enterprise (MNE) Group referred to in the Commission's 2012
+Action Plan to strengthen the fight against fraud and tax evasion.
+In order to enhance transparency for citizens, the Commission shall publish the country-by-country reports, based on the information contained
+in the centralised register of country-by-country reports. In doing so, the Commission shall comply with the provisions on confidentiality.
+Evaluation: the Commission shall submit a yearly consolidated report to the European Parliament and the Council concerning the Member
+States' yearly assessments of the effectiveness of the automatic exchange of information, as well as the practical results achieved.
+In the event that the Commission's impact assessment on the consequences of public disclosure of country-by-country information determines
+that there are no negative consequences for Multinational Groups, the Commission shall promptly propose legislation to make the information
+publicly available.
+The Commission shall review the effectiveness of this Directive within three years after its entry into force.
+
+Responsibility of Member States: it is stated, in a recital, that Member States should be responsible for enforcing the reporting obligation of the
+MNEs through, for instance, introducing steps to penalise MNEs in the event of non-reporting. Member States should ensure that they
+maintain or increase the level of human, technical and financial resources dedicated to the automatic exchange of information between tax
+administrations and to data processing within tax administrations.
+Professional secrecy: an amendment stipulated that it should be possible for information not to be exchanged under this Directive where such
+exchange would lead to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information the
+disclosure of which would be contrary to public policy.
+Lastly, Parliament stipulated in a recital that regard should be given to the European Parliament's resolution of 25 November 2015 on tax
+rulings and other measures similar in nature or effect.
+
+2016/0010(CNS) - 25/05/2016 Final act
+PURPOSE: to improve administrative cooperation in the field of taxation.
+LEGISLATIVE ACT: Council Directive (EU) 2016/881 amending Directive 2011/16/EU as regards mandatory automatic exchange of
+information in the field of taxation.
+CONTENT: the Council Directive amends Directive 2011/16/EU on administrative cooperation by introducing into the latter a new article
+establishing the scope of application and conditions relating to the mandatory automatic exchange of information regarding country-by-country
+reporting.
+As multinational enterprise groups (MNE Groups) are active in different countries, they have the possibility of engaging in aggressive
+tax-planning practices that are not available for domestic companies. Enhancing transparency for MNE Groups towards tax authorities is
+therefore an essential part of tackling base erosion and profit shifting. It could have the effect of giving MNE Groups an incentive to abandon
+certain practices and pay their fair share of tax in the country where profits are made.
+On 19 July 2013 the Organisation for Economic Development and Cooperation (OECD) published its Action Plan on Base Erosion and Profit
+Shifting (BEPS Action Plan), which is a major initiative to modify existing international tax rules. The work on Action 13 of the BEPS Action
+Plan resulted in a set of standards for providing information for MNE Groups, including the country-by-country report.
+OECD standards must be taken into account when establishing the rules on the country-by-country report.
+The main points of the Directive are as follows:
+Scope: MNE Groups that are established or operate within the EU, with total consolidated group revenue equal or higher than EUR 750 000
+000, will be obliged to file the country-by-country report.
+The competent authority of a Member State where the country-by-country report was received must communicate by means of automatic
+exchange, the country-by-country report to any other Member State in which, on the basis of the information in the country-by-country report,
+one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes or subject to tax with respect to
+the business carried out through a permanent establishment. This communication shall take place within 15 months of the last day of the
+Fiscal Year of the MNE Group to which the country-by-country report relates.
+Exchange of information: the country-by country-report must include:
+·
+
+for each tax jurisdiction in which the MNE Group carries out its activities, aggregated information on: (i) revenues, (ii) profit (loss)
+before income tax, (iii) income tax paid (on cash basis); (iv) income tax accrued (current year); (v) stated capital; (vi) accumulated
+earnings; (vii) number of employees; (viii) tangible assets other than cash and cash equivalents;
+
+·
+
+the list of all the Constituent Entities of the MNE Group included in each aggregation per tax jurisdiction, the tax jurisdiction of
+organisation or incorporation if different from tax jurisdiction of residence, and the nature of the main business activities carried out
+by the Constituent Entity.
+
+Information communicated between Member States will be used for the purposes of assessing high-level transfer-pricing risks and other risks
+related to base erosion and profit shifting.
+Standard form: the automatic exchange of information on the country-by-country report will be carried out using the standard form provided in
+Annex III. The information will be provided by electronic means using the common communication network defined in Directive 2011/16/EU
+(CCN network).
+Timetable: the first country-by-country report shall be communicated for the fiscal year of the MNE Group commencing on or after 1 January
+2016, which shall take place within 18 months of the last day of that fiscal year.
+Penalties: Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to the
+Directive and take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate
+and dissuasive.
+ENTRY INTO FORCE: 3.6.2016.
+TRANSPOSITION: by 4.6.2017.
+APPLICATION: from 5.6.2017.
+
+

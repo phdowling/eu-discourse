@@ -1,0 +1,296 @@
+Procedure file
+Basic information
+2013/2128(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Local and regional consequences of the development of smart grids
+
+Subject
+3.60.06 Trans-European energy networks
+4.70.05 Regional cooperation, cross-border cooperation
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Appointed
+
+REGI Regional Development
+(Associated committee)
+
+Verts/ALE SCHROEDTER
+Elisabeth
+
+19/02/2013
+
+Shadow rapporteur
+PPE BŘEZINA Jan
+S&D KADENBACH Karin
+ECR NICHOLSON James
+
+European Commission
+
+Committee for opinion
+
+Rapporteur for opinion
+
+Appointed
+
+ITRE Industry, Research and Energy
+(Associated committee)
+
+S&D ULVSKOG Marita
+
+04/06/2013
+
+Commission DG
+
+Commissioner
+
+Energy
+
+OETTINGER Günther
+
+Key events
+04/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+04/07/2013
+
+Referral to associated committees
+announced in Parliament
+
+18/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+10/01/2014
+
+Committee report tabled for plenary,
+single reading
+
+03/02/2014
+
+Debate in Parliament
+
+04/02/2014
+
+Results of vote in Parliament
+
+04/02/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+04/02/2014
+
+End of procedure in Parliament
+
+A7-0019/2014
+
+Summary
+
+T7-0065/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/2128(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+REGI/7/13171
+
+Documentation gateway
+Committee draft report
+
+PE523.006
+
+08/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.656
+
+28/11/2013
+
+EP
+
+PE516.956
+
+02/12/2013
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A7-0019/2014
+
+10/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T7-0065/2014
+
+04/02/2014
+
+EP
+
+Summary
+
+Committee opinion
+
+ITRE
+
+2013/2128(INI) - 10/01/2014 Committee report tabled for plenary, single reading
+The Committee on Regional Development adopted the own-initiative report by Elisabeth SCHROEDTER (Greens/EFA, DE) on the local and
+regional consequences of the development of smart grids.
+The Committee on the Industry, Research and Energy, exercising its prerogatives as an associated committee under Parliaments Rule 50 of
+the Rules of Procedure, also gave an opinion on the report.
+New opportunities for the regional economy: Members welcomed a paradigm shift for the regions in the way energy is produced and
+consumed, moving from an inflexible traditional model, which functions on a base load logic, to variable, decentralised and local production,
+integrating a high share of small-scale renewable energy with flexible and responsive demand and distributed storage. They recognised that in
+order to preserve sustainable development and to meet the requirements of future demands, new models of energy production and
+consumption based on decentralised and local production should be promoted. They stressed the fact that a smart grid is essential for such a
+paradigm shift and that smart grid implementation should be embedded in a cross-sectoral and comprehensive approach to regional
+development in order to maximise benefits and market opportunities for the regions as well as to achieve sustainability, growth and innovation.
+The report underlined the numerous benefits of smart grids in terms of lowering greenhouse gas emissions, ensuring the security of supply to
+households, giving consumers the ability to adapt their consumption in order to benefit from the lowest prices and at the same time save
+energy, improving energy efficiency, saving electrical power, etc.
+The deployment and operation of smart grids, in particular, offer opportunities to disadvantaged regions, including outermost, peripheral and
+island regions, which can reduce the energy costs that they incur.
+Member States and regional and local authorities are called upon to invest as early as possible in local smart grids by thoroughly considering
+boosting investments using the European Structural and Investment Funds (ESIF), including financial instruments to leverage private
+investment. The report called for a flexible approach at local and regional level to reduce the barriers to combining measures for energy
+production, storage, including across borders, and efficiency.
+Stressing that the deployment of smart grids requires a stable, long-term policy framework, Members called on the Commission to propose
+ambitious strategies, policies and targets for 2030 for energy efficiency and renewable energies as well as for greenhouse gas emissions, in
+order to give future certainty to investors and interconnected industries and to facilitate a smart energy system.
+A more flexible approach in EU regulations and directives on the internal market is called for to reduce barriers to region-specific solutions in
+terms of energy production, supply and storage.
+Smart energy systems: for smart grids to be successfully implemented, a strategy for regions and local communities aimed at smart energy
+systems should be developed. The report noted the role that smart meters have in enabling two-way communication, allowing for accurate
+billing for consumers and increasing demand-side participation. It highlighted that every citizen should have direct access to consumption and
+production data in order to ensure efficient, safe and secure smart grid operations and urged the Commission to take steps to ensure that
+electrical appliances are capable of operating automatically in conjunction with smart meters by providing consumers with the most favourable
+tariffs.
+Role of citizens: the report emphasised that the success of a smart energy system is often due to local ownership by individual citizens, a
+cooperative, a local community or a combination of these actors. Such ownerships increase the acceptance of investments in all elements of
+smart energy systems. The importance of informing and educating users to become informed prosumers who are aware of the opportunities
+offered by these grids, particularly as regards their link to smart meters has been stressed.
+The Commission is called upon to remove the barriers and regulatory and legal challenges to local ownership in existing EU legislation , in
+particular in the state aid rules. Member States are invited to support local energy feed-in possibilities and the sharing of local energy, not only
+bi-directionally between the grid and the end-user but also cross-border and between end-user units.
+The report stressed that the implementation of smart energy systems will significantly change the private and public spheres, as electricity
+provision will be linked to data collection and communicated in real time. It called, therefore, for transparent procedures at all levels, involving
+all actors, including citizens, businesses, industry, local authorities, distribution system operators (DSOs), transmission system operators
+(TSOs), local and regional data protection officials or ombudsmen and the providers of smart grid technologies.
+
+Data protection and privacy: the report emphasised the need for high standards for smart meters in terms of data protection and data privacy.
+More specifically, the report called on the Commission to:
+reduce the barriers to investment in smart energy systems, particularly by expanding the exemption within the state aid
+modernisations (SAM) to allow for public support for all elements of regional and local smart energy systems, including cross-sectoral
+investments and operations;
+urges for smart energy systems to be included as a category in the future Commission regulation declaring certain categories of aid
+compatible with the internal market and adapting the regulations on other block exemption categories which interact with the
+development of smart energy systems;
+agree upon a unified classification system to determine whether an organisation is to be deemed a transmission operator, a
+distribution operator or a combined operator;
+assess whether it is necessary to bring forward proposals, in line with the third internal energy market package, for the development
+and promotion of smart grids (these proposals should be integrated into a streamlined regulatory framework in accordance with the
+principles laid down by the Commission);
+establish a transnational network for regions with smart energy systems.
+
+2013/2128(INI) - 04/02/2014 Text adopted by Parliament, single reading
+The European Parliament adopted by 571 votes to 87, with 22 abstentions, a resolution on the local and regional consequences of the
+development of smart grids.
+A number of best practice examples, such as the Burgenland region, the Energy Valley in the Netherlands, the regenerative model region of
+Harz in Germany, Host?tín in the Czech Republic, the Orkney Micro Renewables project in Scotland, as well as pilot project cities and
+communities under the Commissions CONCERTO initiative or the CO-POWER initiative for the efficient use of energy and decentralised
+energy production show that local communities and citizens can become prosumers (producer-consumer).
+In the light of these examples, Parliament made the following recommendations:
+New opportunities for the regional economy: Members welcomed a paradigm shift for the regions in the way energy is produced and
+consumed, moving from an inflexible traditional model, which functions on a base load logic, to variable, decentralised and local production,
+integrating a high share of small-scale renewable energy with flexible and responsive demand and distributed storage. They recognised that in
+order to preserve sustainable development and to meet the requirements of future demands, new models of energy production and
+consumption based on decentralised and local production should be promoted. They stressed the fact that a smart grid is essential for such a
+paradigm shift and that smart grid implementation should be embedded in a cross-sectoral and comprehensive approach to regional
+development in order to maximise benefits and market opportunities for the regions as well as to achieve sustainability, growth and innovation.
+The resolution underlined the numerous benefits of smart grids in terms of lowering greenhouse gas emissions, ensuring the security of supply
+to households, giving consumers the ability to adapt their consumption in order to benefit from the lowest prices and at the same time save
+energy, improving energy efficiency, saving electrical power, etc.
+The deployment and operation of smart grids, in particular, offer opportunities to disadvantaged regions, including outermost, peripheral and
+island regions, which can reduce the energy costs that they incur.
+Member States and regional and local authorities are called upon to invest as early as possible in local smart grids by thoroughly considering
+boosting investments using the European Structural and Investment Funds (ESIF), including financial instruments to leverage private
+investment. The resolution called for a flexible approach at local and regional level to reduce the barriers to combining measures for energy
+production, storage, including across borders, and efficiency.
+Stressing that the deployment of smart grids requires a stable, long-term policy framework, Parliament called on the Commission to propose
+ambitious strategies, policies and targets for 2030 for energy efficiency and renewable energies as well as for greenhouse gas emissions, in
+order to give future certainty to investors and interconnected industries and to facilitate a smart energy system.
+Smart energy systems: for smart grids to be successfully implemented, a strategy for regions and local communities aimed at smart energy
+systems should be developed. Parliament highlighted that every citizen should have direct access to consumption and production data in order
+to ensure efficient, safe and secure smart grid operations and urged the Commission to take steps to ensure that electrical appliances are
+capable of operating automatically in conjunction with smart meters by providing consumers with the most favourable tariffs.
+Role of citizens: Parliament emphasised that the success of a smart energy system is often due to local ownership by individual citizens, a
+cooperative, a local community or a combination of these actors. The importance of informing and educating users to become informed
+prosumers who are aware of the opportunities offered by these grids, particularly as regards their link to smart meters has been stressed.
+The Commission is called upon to remove the barriers and regulatory and legal challenges to local ownership in existing EU legislation , in
+particular in the state aid rules. Member States are invited to support local energy feed-in possibilities and the sharing of local energy, not only
+bi-directionally between the grid and the end-user but also cross-border and between end-user units.
+The resolution stressed that the implementation of smart energy systems requires transparent procedures at all levels, involving all actors,
+including citizens, businesses, industry, local authorities, distribution system operators (DSOs), transmission system operators (TSOs), local
+and regional data protection officials or ombudsmen and the providers of smart grid technologies.
+Data protection and privacy: Members emphasised the need for high standards for smart meters in terms of data protection and data privacy.
+In order to put in place a framework for successful Smart Energy Systems, Parliament called on the Commission to:
+reduce the barriers to investment in smart energy systems, particularly by expanding the exemption within the state aid
+modernisations (SAM) to allow for public support for all elements of regional and local smart energy systems, including cross-sectoral
+investments and operations;
+urges for smart energy systems to be included as a category in the future Commission regulation declaring certain categories of aid
+
+compatible with the internal market and adapting the regulations on other block exemption categories which interact with the
+development of smart energy systems;
+assess whether it is necessary to bring forward proposals, in line with the third internal energy market package, for the development
+and promotion of smart grids (these proposals should be integrated into a streamlined regulatory framework in accordance with the
+principles laid down by the Commission);
+establish a transnational network for regions with smart energy systems.
+
+

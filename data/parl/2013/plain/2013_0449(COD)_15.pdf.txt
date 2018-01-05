@@ -1,0 +1,313 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0449(COD)
+
+Procedure completed
+
+Migration to Union-wide credit transfers and direct debits
+Amending Regulation (EU) No 260/2012 2010/0373(COD)
+Subject
+2.50.04.02 Electronic money and payments, cross-border credit transfers
+5.20.02 Single currency, euro, euro area
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Committee for opinion
+IMCO
+
+JURI
+
+Internal Market and Consumer Protection
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+Rapporteur
+
+Appointed
+
+ALDE BOWLES Sharon
+
+14/01/2014
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+The committee decided not to
+give an opinion.
+
+Commissioner
+BARNIER Michel
+
+European Economic and
+Social Committee
+
+Key events
+09/01/2014
+
+Legislative proposal published
+
+16/01/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+16/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+21/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+04/02/2014
+
+Results of vote in Parliament
+
+04/02/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+18/02/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+26/02/2014
+
+Final act signed
+
+26/02/2014
+
+End of procedure in Parliament
+
+20/03/2014
+
+Final act published in Official Journal
+
+Technical information
+
+COM(2013)0937
+
+Summary
+
+A7-0036/2014
+
+Summary
+
+T7-0049/2014
+
+Summary
+
+Procedure reference
+
+2013/0449(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 260/2012 2010/0373(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/7/14972
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0937
+
+09/01/2014
+
+EC
+
+Summary
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0036/2014
+
+21/01/2014
+
+EP
+
+Summary
+
+Economic and Social Committee: opinion, report
+
+CES0238/2014
+
+21/01/2014
+
+ESC
+
+European Central Bank: opinion, guideline, report
+
+CON/2014/0003
+OJ C 080 19.03.2014, p. 0001
+
+22/01/2014
+
+ECB
+
+Summary
+
+T7-0049/2014
+
+04/02/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/248
+OJ L 084 20.03.2014, p. 0001 Summary
+
+2013/0449(COD) - 09/01/2014 Legislative proposal
+PURPOSE: to amend Regulation (EU) N° 260/2012 as regards the migration to Union-wide credit transfers and direct debits.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: Regulation (EU) No 260/2012 establishes common technical and business requirements for credit transfers and direct debits
+in euro and as such is an important building block in the realisation of a single euro payments area (SEPA).
+That Regulation sets 1 February 2014 as the end-date in the Eurozone for the migration of domestic as well as intra-European credit transfers
+and direct debits in euros towards SEPA credit transfers (SCT) and SEPA direct debits (SDD).
+Considering the low migration pace in some Member States for SCT and in most Member States for SDD, it appears very unlikely that the
+SEPA migration will be fully completed on 1 February 2014 . However, in view of this legal end-date, banks and other payment service
+providers are likely to refuse from that date onwards to process legacy payments which are not SEPA compliant. In the absence of full
+migration to SCT/SDD, payment incidents leading to delays in payment or market disruptions cannot be excluded. These might affect all
+payment services users, and particularly SMEs and consumers.
+IMPACT ASSESSMENT: this proposal is not accompanied by a separate impact assessment, as an impact assessment for Regulation (EU)
+No. 260/2012 has already been undertaken.
+CONTENT: this proposal seeks to amend Regulation (EU) No 260/2012 by introducing a grandfathering clause allowing banks and other
+
+payment service providers to continue also after 1 February 2014, for a limited period of time of 6 months , the processing of non-compliant
+payments through their legacy payments schemes alongside SCT and SDD.
+A clear communication of such amendment will provide certainty to the payment service users that their payments will continue to be
+processed after 1 February 2014, and it will allow those that have not yet migrated to do so as rapidly as possible.
+Under all circumstances, on-going information campaigns on the SEPA migration should continue. At the end of the grandfathering period, the
+Commission will not hesitate to take the necessary steps to ensure the full application of EU law by the Member States.
+In view of the above and given the very short period of time left before 1 February 2014, this Regulation should be adopted by the European
+Parliament and the Council as a matter of urgency and enter into force without delay.
+The proposal provides that the amendment applies as of 31 January 2014. This provision also allows for a retro-active application in case the
+proposal is not adopted by the European Parliament and the Council before 1 February but just after this date. This will avoid a legislative gap
+as of 1 February 2014 which would create legal uncertainty.
+BUDGETARY IMPLICATIONS: the proposal does not have a budgetary impact for the Commission.
+
+2013/0449(COD) - 21/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Sharon BOWLES (ALDE, UK) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) N° 260/2012 as regards the migration to Union-wide credit transfers and
+direct debits.
+The committee recommended that Parliaments position adopted in first reading, following the ordinary legislative procedure, should amend the
+Commission proposal.
+Only slight linguistic changes have been made to the text.
+It is important to note that for reasons of urgency it is justified to proceed to the vote before the expiry of the deadline of eight weeks laid down
+in Article 6 of Protocol No 2 on the application of the principles of subsidiarity and proportionality.
+
+2013/0449(COD) - 22/01/2014 European Central Bank: opinion, guideline, report
+Opinion of the European Central Bank (ECB) on a proposal for a regulation on the postponement of SEPA migration date.
+The European Central Bank (ECB) received a request from the Council of the European Union for an opinion on a proposal for a regulation of
+the European Parliament and of the Council which would amend Regulation (EU) No 260/2012 by introducing an additional transitional period
+of six months. Under the proposed regulation, a grandfathering clause would allow banks and other payment service providers to process
+payments that are non-compliant with Regulation (EU) No 260/2012 until 1 August 2014.
+The proposed regulation has given rise to confusion in the markets on the deadline for migration and thus there is an urgent need for clear
+guidance. A further concern is the lack of legal certainty in the event that the proposed regulation is only adopted after the current deadline, i.e.
+1 February 2014.
+The ECB considered that it is of the utmost importance to reinstate legal certainty, reduce the confusion in the markets and provide them with
+clear guidance about the deadline. These objectives can best be ensured by a fast adoption of the proposed regulation by the Council and the
+Parliament, without any further alterations to its core elements.
+To the extent that the fast track legislative procedure allows, the ECB proposed changes that aim to:
+clarify the scope of the proposed regulation (the introduction of an additional transitional period, by way of derogation) and its
+justification (SEPA migration is unlikely to be fully completed by 1 February 2014);
+align the terminology of the proposed regulation with that of Regulation (EU) No 260/2012;
+ensure that the effect of the transitional period on the imposition of penalties is made clear (in order to ensure legal certainty, it must
+be made clear that penalties for transactions processed during the additional transitional period are excluded).
+
+2013/0449(COD) - 04/02/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 554 votes to 12, with 7 abstentions, legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) N° 260/2012 as regards the migration to Union-wide credit transfers and
+direct debits.
+Parliament adopted its position at first reading following the ordinary legislative procedure. The amendments adopted in plenary are the result
+of an agreement reached between the European Parliament and the Council.
+The changes made to the text are only minor modifications of a linguistic nature.
+In a new recital, it has been stressed that, in view of the urgency of the matter, an exception to the eight-week period referred to in Article 4 of
+Protocol No 1 on the role of national parliaments in the European Union, should be provided.
+For reasons of legal certainty and in order to avoid any discontinuity to the application of Regulation (EU) No 260/2012, it is necessary that this
+Regulation enter into force as a matter of urgency and that it apply, with retroactive effect, from 31 January 2014.
+
+2013/0449(COD) - 26/02/2014 Final act
+PURPOSE: to postpone the end-date in the euro area for the migration of domestic and intra-European credit transfers and direct debits in
+euros to the new SEPA-standard-based credit transfers and direct debits.
+LEGISLATIVE ACT: Regulation (EU) No 248/2014 of the European Parliament and of the Council amending Regulation (EU) No 260/2012 as
+regards the migration to Union-wide credit transfers and direct debits.
+CONTENT: the amending Regulation postpones to 1 August 2014 the deadline for migration from national credit transfer and direct debit
+schemes to harmonised SEPA (single euro payments area) standards.
+The Regulation amends Regulation (EU) 260/2012, which had set a migration deadline of 1 February 2014.
+The Regulation also states that Member States may allow payment service providers (PSPs) to provide payment service users (PSUs), until 1
+February 2016, with conversion services for national payment transactions enabling PSUs that are consumers to continue using BBAN on
+condition that interoperability is ensured.
+Despite the considerable efforts made by the European Central Bank, Member States, their national public authorities and market participants
+during recent months, the latest migration statistics show that the overall migration rate in the euro area to harmonised SEPA credit transfer
+(SCT) has only increased from 40 % in June 2013 to around 64 % in November 2013, while the overall migration rate towards SEPA direct
+debit (SDD) has only reached 26 %. It was therefore very unlikely that all market participants will be SEPA compliant by 1 February 2014.
+The postponement of the end-date will avoid unnecessary disruption of payments resulting from the fact that SEPA migration is not fully
+completed by 1 February 2014. Payment service providers should therefore be allowed, for a limited period of time, to continue the processing
+of payment transactions through their legacy schemes alongside their SCT and SDD schemes, as they are doing now.
+ENTRY INTO FORCE: 21.03.2014. The Regulation applies with retroactive effect from 31.01.2014.
+
+

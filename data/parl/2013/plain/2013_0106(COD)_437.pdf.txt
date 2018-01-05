@@ -1,0 +1,664 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0106(COD)
+
+Procedure completed
+
+Surveillance of the external sea borders in the context of operational
+cooperation coordinated by the European Agency for the Management of
+Operational Cooperation at the External Borders of the Members States
+
+Subject
+3.20.15.06 Maritime or inland transport agreements and cooperation
+7.10.04 External borders crossing and controls, visas
+7.10.06 Asylum, refugees, displaced persons; Asylum, Migration and
+Integration Fund (AMIF)
+8.40.08 Agencies and bodies of the EU
+
+Key players
+European Parliament
+
+Committee responsible
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Rapporteur
+
+Appointed
+
+PPE COELHO Carlos
+
+29/05/2013
+
+Shadow rapporteur
+S&D WEIDENHOLZER Josef
+ALDE WIKSTRÖM Cecilia
+Verts/ALE KELLER Ska
+ECR KIRKHOPE Timothy
+GUE/NGL ERNST Cornelia
+Committee for opinion
+
+Rapporteur for opinion
+
+Appointed
+30/05/2013
+
+AFET
+
+Foreign Affairs
+
+ALDE NICOLAI Norica
+
+DEVE
+
+Development
+
+The committee decided not to
+give an opinion.
+
+TRAN
+
+Transport and Tourism
+
+ALDE GRIESBECK Nathalie
+
+Council of the European Union
+Commission DG
+European Commission
+Migration and Home Affairs
+
+03/06/2013
+
+Commissioner
+MALMSTRÖM Cecilia
+
+Key events
+12/04/2013
+
+Legislative proposal published
+
+18/04/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+09/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+08/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/04/2014
+
+Debate in Parliament
+
+16/04/2014
+
+Results of vote in Parliament
+
+16/04/2014
+
+Decision by Parliament, 1st
+
+COM(2013)0197
+
+Summary
+
+A7-0461/2013
+
+Summary
+
+T7-0418/2014
+
+Summary
+
+reading/single reading
+13/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/05/2014
+
+Final act signed
+
+15/05/2014
+
+End of procedure in Parliament
+
+27/06/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0106(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 077-p2
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+LIBE/7/12489
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0197
+
+12/04/2013
+
+EC
+
+PE513.286
+
+18/09/2013
+
+EP
+
+PE516.895
+
+04/10/2013
+
+EP
+
+PE516.826
+
+11/10/2013
+
+EP
+
+PE522.849
+
+31/10/2013
+
+EP
+
+A7-0461/2013
+
+08/01/2014
+
+EP
+
+PE529.839
+
+21/02/2014
+
+EP
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0418/2014
+
+16/04/2014
+
+EP
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Committee opinion
+
+TRAN
+
+Committee draft report
+Committee opinion
+
+AFET
+
+Amendments tabled in committee
+Committee report tabled for plenary, 1st
+reading/single reading
+Amendments tabled in committee
+
+Summary
+
+Summary
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/656
+OJ L 189 27.06.2014, p. 0093 Summary
+
+2013/0106(COD) - 12/04/2013 Legislative proposal
+PURPOSE: to establish rules for the surveillance of the external sea borders of the Union in the context of operational cooperation coordinated
+by the FRONTEX agency.
+
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: following the call by the European Council of October 2009, the Council adopted Decision 2010/252/EU to strengthen border
+surveillance operations coordinated by the FRONTEX agency and to establish clear rules of engagement for joint patrolling and the
+disembarkation of intercepted or rescued persons.
+In the context of this proposal, the Commission had chosen to present its proposal under the comitology procedure based on Article 12(5) of
+the Schengen Border Code4 considering the decision as being an additional measure governing border surveillance.
+Problem of legal interpretation: the Decision incorporated, within a single legal instrument, existing provisions of EU and international law. The
+aim was to overcome the different interpretations of international maritime law adopted by Member States and their diverging practices to
+ensure the efficiency of sea operations coordinated by the Agency. There was a risk that, in a sea operation, different rules, sometimes even
+conflicting ones, would apply to the same situation.
+Amidst this legal uncertainty, Member States participation in sea operations coordinated by the Agency was low in terms of contributing craft,
+vessels and human resources. This, in turn, hindered the effectiveness of the operations and undermined efforts of EU solidarity.
+Some Member States, Members of the European Parliament, human rights organisations and academics had questioned whether
+fundamental rights and the rights of refugees were being respected during sea operations coordinated by the Agency, particularly on the high
+seas. The decision aimed to address these concerns by establishing a number of guarantees to ensure the respect of these rights.
+Besides these various problems of legal interpretation, the European Parliament considered that the decision should have been adopted in
+accordance with the ordinary legislative procedure and not the comitology procedure. Therefore, it brought an action before the Court of
+Justice of the European Union against the Council (mainly because it considered that the decision exceeded the implementing powers
+conferred under Article 12(5) of the Schengen Borders Code) requesting the annulment of the decision.
+At the end of the day, the Court annulled the Decision but decided to maintain its effects until it is replaced by new rules within a reasonable
+time.
+This is the purpose of this proposal.
+IMPACT ASSESSMENT: in view of the considerable preparatory work undertaken prior to the adoption of Council Decision 2010/252/EU, the
+Commission considered that this proposal need not be accompanied by an impact assessment.
+LEGAL BASIS: Article 77(2)(d) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: this proposal seeks to establish rules for the surveillance of the external sea borders of the Union in the context of operational
+cooperation coordinated by the FRONTEX agency and to replace Decision 2010/252/EU for the above-mentioned reasons.
+The text of the initial decision mainly sought to adopt additional common rules for the surveillance of sea borders by border guards and for the
+coordination of the operations of the FRONTEX agency.
+The main provisions were included in an annex setting out:
+rules for sea border operations coordinated by the Agency, in particular in cases of the interception of persons at sea (including on the
+high seas;
+non-binding guidelines for search and rescue situations and for disembarkation in the context of sea operations coordinated by the
+Agency.
+The main changes to the initial text may be summarised as follows:
+Scope: the scope of application of this proposal is the same as that of the decision, namely border surveillance operations at sea carried out
+by Member States under the coordination of the Agency. Although in the decision, the concept of border surveillance was understood as
+including interception measures and arrangements for rescue arising during border surveillance operations, there was still doubt as to whether
+these measures did in fact fall under the concept of border surveillance as defined in the Schengen Borders Code. This proposal explicitly
+covers this broader concept of border surveillance by indicating that border surveillance is not limited to the detection of attempts at irregular
+border crossing but also extends to steps such as interception measures, and arrangements intended to address situations such as search
+and rescue that may arise during a sea operation and arrangements intended to bring such an operation to a successful conclusion.
+Case of search and rescue: given that FRONTEX is now also entrusted with assisting Member States in circumstances requiring increased
+technical assistance at the external borders, taking into account that some situations may involve humanitarian emergencies and rescue at
+sea for example rendering assistance to persons in distress, this proposal sets out rules on how to deal with these situations in a sea
+operation coordinated by the Agency.
+Operational plan: provisions are envisaged to ensure that this proposal is in line with the amendments made to Regulation (EC) No 2007/2004
+establishing FRONTEX. The operational plan has now become a legally binding instrument with regard to all operations coordinated by the
+Agency and not only as regards rapid interventions, i.e. including sea operations. The rules laid down in this proposal are intended to form part
+of the operational plan drawn up in accordance with Regulation (EC) No 2007/2004.
+Fundamental rights: the legal and judicial developments concerning the protection of fundamental rights are also taken into account in this
+proposal in particular in regard to the principle of non-refoulement in sea operations. In this way, in the case of disembarkation in a third
+country, the persons intercepted or rescued must be identified and their personal circumstances must be assessed to the extent possible
+before disembarkation. They must also be informed of the place of disembarkation in an appropriate way and they must be given an
+opportunity to express any reasons for believing that disembarkation in the proposed place would be in violation of the principle of
+non-refoulement. This would guarantee that the migrants are informed about their situation and the proposed place of disembarkation thereby
+allowing them to express any objections.
+Detection, interception and rescue: the proposal clearly distinguishes between detection, interception and rescue.
+as regards interception, this proposal while retaining the same set of measures as in the Decision, distinguishes between the
+
+measures that may be taken in the territorial sea, on the high seas and in the contiguous zone, thus clarifying the conditions under
+which these measures may be taken and the jurisdictional basis on which action may be taken particularly as regards stateless ships.
+Based on the Protocol against the Smuggling of Migrants by Land, Sea and Air, interception of ships on the high seas is now clearly
+linked to the requirement of having a reasonable suspicion that the ship is engaged in the smuggling of migrants . As in the Decision,
+the exercise of jurisdiction on the high seas must always be based on the authorisation of the flag State.
+as regards search and rescue situations, the text in this proposal remains similar to the Decision. The wording is aligned to that used
+in the 1979 International Convention on Maritime Search and Rescue and the International Aeronautical and Maritime Search and
+Rescue Manual (IAMSAR). Also, on the basis of these international instruments, the proposal includes criteria as to when a ship is
+considered to be in a situation of uncertainty, alert and distress, as well as a definition of a rescue coordination centre.
+Disembarkation: this proposal, unlike the Decision, addresses the issue of disembarkation in terms of interception and rescue . As regards
+interception in the territorial sea or in the contiguous zone, disembarkation takes place in the coastal Member State. As regards interception on
+the high seas, subject to guaranteeing the protection of fundamental rights and the principle of non-refoulement, disembarkation may take
+place in the third country from which the ship departed. If this is not possible, then disembarkation takes place in the host Member State.
+As regards disembarkation following a rescue operation, this proposal refers to the concept of place of safety as defined in the Guidelines on
+the Treatment of Persons Rescued at Sea issued by the International Maritime Organisation, taking into account aspects of fundamental
+rights, and requires Member States to cooperate with the responsible rescue coordination centre to provide a suitable port or place of safety
+and to ensure rapid and effective disembarkation.
+This proposal takes into account the fact that, at this stage, the maritime and aerial units would be acting under the coordination of the rescue
+coordination centre, which determines the appropriate port or place of disembarkation.
+However, it also recognises the possibility for the maritime units to disembark in the host Member State if they are not released of their
+obligation to render assistance to persons in distress as soon as reasonably practicable, taking into account the safety of the rescued persons
+and that of the maritime unit itself.
+Territorial provisions: lastly, the proposal includes a series of classical provisions in regard to the participation (or otherwise) of Denmark,
+Ireland and the United Kingdom in the current text, in accordance with the relevant provisions of the Treaties and protocols and on the
+association of third countries in its enforcement.
+BUDGETARY IMPLICATION: the proposal has no implications for the EUs budget.
+
+2013/0106(COD) - 08/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Civil Liberties, Justice and Home Affairs adopted the report by Carlos COELHO (EPP, PT) on the proposal for a regulation
+of the European Parliament and of the Council establishing rules for the surveillance of the external sea borders in the context of operational
+cooperation coordinated by the European Agency for the Management of Operational Cooperation at the External Borders of the Member
+States of the European Union.
+The committee recommended that Parliaments position in first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Protection of fundamental rights and the principle of non-refoulement: Members stressed that in line with the future Regulation no person shall
+be disembarked in, conducted towards, otherwise handed over to the authorities of, or forced to enter, a country where there is a serious risk
+that such person would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment or any serious
+violations of their human rights, or where his or her life or freedom would be threatened on account of his or her race, religion, nationality,
+sexual orientation, membership of a particular social group or political opinion, or from which there is a serious risk of expulsion, removal or
+extradition to another country in contravention of the principle of non-refoulement.
+Intercepted or rescued persons should not be disembarked in, conducted towards, otherwise handed over to the authorities of, or forced to
+enter, a third country when the host Member State, the participating Member States or the Agency are aware or ought to be aware that this
+third country is engaged in inhumane practices. Those Member States should provide that information to the participating units. For that
+purpose, they should use information from a range of sources, including in particular other Member States, the EEAS, the European Asylum
+Support Office, Frontex, the United Nations High Commissioner for Refugees, etc.
+Members recalled that the future Regulation should be applied in full compliance with the principle of non-refoulement, according to which no
+one may be expelled, removed or extradited to, or forced to enter, a country where there is a real risk that he or she would be subjected to the
+death penalty, torture or other inhuman or degrading treatment or punishment. The possible existence of an arrangement between a Member
+State and a third country cannot absolve Member States from their international obligations under international and Union law under the
+principle of non-refoulement.
+Protection of fundamental rights: Members also called for the participating units to treat all persons on board in a humane way. All border
+guards and other personnel of the Member States shall receive, prior to their participation in a sea operation, training in relevant Union and
+international law, including fundamental rights, children's rights and access to international protection and guidelines for the purpose of
+identifying persons seeking protection and redirecting them towards the appropriate facilities.
+Protection of persons intercepted in case of disembarkation in a third country: if disembarkation is considered, the participating units should
+identify the intercepted or rescued persons and assess their personal circumstances, including their medical conditions and other
+circumstances that might make them vulnerable or subject to international protection needs, before a decision is made.
+If there are grounds to believe that disembarkation of persons intercepted or rescued at sea in the proposed place would be in violation of the
+principle of non-refoulement, the participating units should not share personal information regarding the persons with the authorities of the
+country of origin or with the authorities of other third countries.
+Moreover, the decision on the place of disembarkation after a search and rescue situation should be made also taking into account the
+principle of non-refoulement.
+
+Solidarity mechanism: Members stressed that solidarity between Member States should be strengthened. It is for this reason that Member
+State faced with a situation of urgent and exceptional pressure at its external border should be able to request:
+the deployment of European Border Guard Teams in accordance with Frontex to provide rapid operational assistance to the Member
+State;
+the Agency for technical and operational assistance in order to obtain assistance on matters of coordination between Members States
+and/or the deployment of experts to support the competent national authorities;
+emergency assistance under ISF borders to address urgent and specific needs in the event of an emergency situation.
+Other measures are also envisaged, such as: (i) the possibility of involving the European Asylum Support Office as necessary; (ii) using the
+future "Asylum and migration" Funds to meet specific needs in a emergency; (iii) the Commission to check the willingness of the Member
+States to accommodate asylum seekers.
+In this context, the Commission should continuously monitor the facilities used for the reception of asylum seekers in the Member States and,
+in the cases described in this article, once it has verified how many places are actually available in such facilities, should propose a fair
+redistribution of asylum seekers between Member States, in accordance with Article 80 of the TFEU.
+Mobilisation of EUROSUR: when coordinating border surveillance operations, the Agency should provide Member States with information and
+analysis concerning these operations. Member States and the Agency should introduce in EUROSUR all relevant information collected during
+these operations.
+Respect of European asylum measures: Member States and the Agency are bound by the provisions of the asylum acquis, and in particular of
+Directive 2013/32/EU of the European Parliament and of the Council on common procedures for granting and withdrawing international
+protection with regard to applications for international protection made in the territory, including at the border, in the territorial waters or in the
+transit zones of Member States.
+Smuggling of migrants: Members strengthened the provisions as regards actions to be taken in case of suspicions that a ship is engaged in
+the smuggling of migrants by sea prove to be founded. Measures taken should be subject to the authorisation of the flag State in accordance
+with the Protocol against the Smuggling of Migrants. The participating unit may seize the ship and apprehending persons on board. The
+measures may only be taken if the participating unit has ascertained that the ship is not forced to enter a third country in violation of their
+human rights.
+Assistance to victims: when there are reasonable grounds to suspect that a ship is engaged in trafficking of human beings and illegal
+immigration, assistance shall be given to victims.
+Search and rescue situations: provisions have been included to enhance the framework action as regards sea operations:
+before a sea operation, Member States should ensure that their participating units will comply with the obligation to render assistance
+to any ship or person in distress at sea, in accordance with applicable provisions of international Conventions governing search and
+rescue and fundamental rights. They should do so regardless of the nationality or status of such a person or the circumstances in
+which that person is found;
+before disembarkation, the persons intercepted or rescued in the sea operation shall receive clear information, in a language which
+they understand or may reasonably be presumed to understand, on where disembarkation will take place. Particular attention shall be
+given to unaccompanied minors.
+Emergency situation: each Member State requires the master of a ship flying its flag to proceed with all possible speed to the rescue of
+persons in distress at sea and to render all possible assistance to them regardless of their nationality or state or of the circumstances in which
+these persons are found, provided that he can do so without serious danger to the ship, the crew or the passengers. Members States should
+not take any measures, including criminal procedures and sanctions, against ship masters who have rescued persons in distress and brought
+them to a harbour on their territory.
+Coastal states: under the United Nations Convention on the Law of the Sea, it is necessary for a contiguous zone to be formally proclaimed,
+thereby entitling the coastal State to monitor vessels in transit with a view to preventing or punishing infringements of its customs, fiscal,
+immigration or sanitary laws and regulations.
+Mediterranean Office: Members stressed the need to set up specialised branches, for all aspects relating to the surveillance of maritime
+borders, as operational offices in areas subject to significant migration flows, including irregular migration and in particular in the
+Mediterranean, to improve coordination between Member States and ensure solidarity and responsibility-sharing between them, thereby
+strengthening the operational capacity of the Agency.
+Report: lastly, Members called on Frontex to submit a report to the European Parliament, the Council and the Commission on the
+implementation of this Regulation every two years. The report should include a description of the procedures put in place by the Agency to
+implement this Regulation during sea operations and an assessment of the practical application of this
+Regulation, including any incidents which may have taken place. It shall provide detailed information on compliance with fundamental rights of
+intercepted persons.
+
+2013/0106(COD) - 16/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 528 votes to 46 with 88 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council establishing rules for the surveillance of the external sea borders in the context of operational
+cooperation coordinated by the European Agency for the Management of Operational Cooperation at the External Borders of the Member
+States of the European Union.
+Parliament adopted its position in first reading following the ordinary legislative procedure. The amendments adopted in plenary were the result
+of a compromise between Parliament and Council. They amended the proposal as follows:
+Safety at sea: it was specified that measures taken for the purpose of a sea operation should be conducted in a way that, in all instances,
+
+ensured the safety of the persons intercepted or rescued, the safety of the participating units or that of third parties . It was also recalled that
+the objective of Union policy in the field of the Union external borders was to ensure the efficient monitoring of the crossing of external borders
+including through border surveillance, while contributing to ensuring the protection and saving of lives. A recital stated that the shipmaster and
+crew should not face criminal penalties for the sole reason of having rescued persons in distress at sea and brought them to a place of safety.
+Principle of non-refoulement: the Regulation should be applied in full compliance with the principle of non-refoulement as defined in the
+Charter and as interpreted by the case-law of the Court and of the European Court of Human Rights. In accordance with that principle, no
+person should be disembarked in, forced to enter, conducted to or otherwise handed over to the authorities of a country where, inter alia, there
+is a serious risk that he or she would be subjected to the death penalty, torture, persecution or other inhuman or degrading treatment or
+punishment, or where his or her life or freedom would be threatened on account of his or her race, religion, nationality, sexual orientation,
+membership of a particular social group or political opinion, or from which there is a serious risk of an expulsion, removal or extradition to
+another country in contravention of the principle of non-refoulement.
+Take into account the general situation in the third countries where persons intercepted would be disembarked: when considering the
+possibility of disembarkation in a third country, in the context of planning a sea operation, the host Member State, in coordination with
+participating Member States and FRONTEX, should take into account the general situation in that third country. Intercepted persons should
+not be disembarked, forced to enter, conducted to or otherwise handed over to the authorities of a third country which might be dangerous for
+that person.
+The host Member States assessment of the general situation in a third country should be based on information derived from a broad range of
+sources, and it may take into account the existence of agreements and projects on migration and asylum carried out in accordance with Union
+law.
+Other principles should be respected in cases of interception of persons at sea:
+information for persons intercepted: during a sea operation, before the intercepted persons were disembarked in a third country, the
+participating units should use all means to inform the intercepted or rescued persons of their destination give them an opportunity to
+express any reasons for believing that disembarkation in the proposed place would be in violation of the principle of non-refoulement;
+trained personnel: further details should be provided for in the operational plan including the availability of shore-based medical staff,
+interpreters, legal advisers and other relevant experts. Each participating unit should include at least one person with basic first aid
+training;
+needs of vulnerable people: throughout a sea operation, the participating units should address the special needs of children, including
+unaccompanied minors, victims of trafficking in human beings, persons in need of urgent medical assistance, disabled persons etc;
+data protection: the exchange with third countries of personal data regarding intercepted or rescued persons obtained during a sea
+operation should be prohibited where there is a serious risk of contravention of the principle of non-refoulement;
+human dignity: participating units should, in the performance of their duties, fully respect human dignity.
+FRONTEXs operational plan: pursuant to Regulation (EC) No 2007/2004, border surveillance operations coordinated by the Agency are
+conducted in accordance with an operational plan. The latter should include specific information on the application of the relevant jurisdiction
+and legislation in the geographical area where the joint operation, pilot project or rapid intervention takes place, including references to Union
+and international law regarding interception, rescue at sea and disembarkation. The operational plan should be established in accordance with
+the provisions governing interception, rescue at sea and disembarkation in the context of border surveillance operations at sea coordinated by
+the Agency.
+It should include procedures ensuring that persons with international protection needs, victims of trafficking in human beings, unaccompanied
+minors and other vulnerable persons are identified and provided with appropriate assistance, including access to international protection.
+Special rules: a series of new provisions were inserted into the text, regarding:
+detection: participating units should collect and immediately report information about that vessel to the International Coordination
+Centre, including, where possible, information about the situation of persons on board, in particular whether there is an imminent risk
+to their lives or whether there are persons in urgent need of medical assistance;
+interception in the territorial sea: in the territorial sea of the host Member State or a neighbouring participating Member State, that
+State should authorise the participating units to take certain measures where there were reasonable grounds to suspect that a vessel
+may be carrying persons intending to circumvent checks at border crossing points or is engaged in the smuggling of migrants by sea.
+If evidence confirming that suspicion were found, that State may authorise the participating units to (a) seize the vessel and
+apprehending persons on board; (b) order the vessel to alter its course outside of the territorial sea or the contiguous zone; (c)
+conduct the vessel or persons on boar to the coastal Member State.
+interception on the high seas: if evidence confirming suspicion were found in these cases, the participating units may : (i) seize the
+vessel and apprehend persons on board; (ii) warn and order the vessel not to enter the territorial sea or the contiguous zone, and,
+where necessary, request the vessel to alter its course; (iii) conduct the vessel or persons on board to a third country; (iv) conduct the
+vessel or persons on board to the host Member State or to a neighbouring participating Member State.
+interception in the contiguous zone: in the contiguous zone of the host Member State or of a neighbouring participating Member State,
+the measures regarding interception of ships would apply so long as they were proportionate. Any authorisation may only be given for
+measures that were necessary to prevent the infringement of relevant laws and regulations within that Member States territory or
+territorial sea;
+search and rescue situations: Member States should observe their obligation to render assistance to any vessel or person in distress
+at sea and, during a sea operation, their participating units must comply with that obligation, in accordance with international law and
+respect for fundamental rights. They should do so regardless of the nationality or status of such a person or the circumstances in
+which that person was found;
+disembarkation: in the case of search and rescue situations, the host Member State and the participating Member States shall
+cooperate to identify a place of safety and, when the responsible Rescue Coordination Centre designates such a place of safety, they
+should ensure that disembarkation of the rescued persons is carried out rapidly and effectively.
+Solidarity mechanisms: recalling the fact that the policies of the Union in border management, asylum and immigration and their
+implementation should be governed by the principle of solidarity and fair sharing of responsibility between the Member States, the text
+promoted burden-sharing including through the transfer, on a voluntary basis, of beneficiaries of international protection.
+
+A Member State faced with a situation of urgent and exceptional pressure at its external border should be able to request:
+the deployment of European Border Guard Teams to provide rapid operational assistance to that Member State;
+the Agency for technical and operational assistance in order to obtain assistance on matters of coordination between Members States
+and/or the deployment of experts to support the competent national authorities;
+emergency assistance to address urgent and specific needs.
+A Member State subject to strong migratory pressure which placed urgent demands on its reception facilities and asylum systems should be
+able to request:
+the European Asylum Support Office for the deployment of an asylum support team to provide expertise, in relation to interpreting
+services, information on countries of origin and knowledge of the handling and management of asylum cases;
+emergency assistance to address urgent and specific needs.
+Report: lastly, FRONTEX should submit an annual report on the practical application of the Regulation. The report should include a description
+of the procedures put in place by FRONTEX to apply this Regulation during sea operations and detailed information on compliance with
+fundamental rights and the impact on those rights, and any incidents which may have taken place.
+
+2013/0106(COD) - 15/05/2014 Final act
+PURPOSE: to establish the rules for the surveillance of the external sea borders in the context of operational cooperation coordinated by
+FRONTEX.
+LEGISLATIVE ACT: Regulation (EU) N° 656/2014 of the European Parliament and of the Council establishing rules for the surveillance of the
+external sea borders in the context of operational cooperation coordinated by the European Agency for the Management of Operational
+Cooperation at the External Borders of the Member States of the European Union.
+CONTENT: the Regulation applies to border surveillance operations carried out by Member States with respect to their external sea borders in
+the context of operational cooperation coordinated by FRONTEX.
+Safety at sea: the Regulation recalls that the objective of Union policy in the field of the Union external borders is to ensure the efficient
+monitoring of the crossing of these borders including through border surveillance, while contributing to ensuring the protection and saving of
+lives. This policy extends to steps such as intercepting vessels suspected of trying to gain entry to the Union without submitting to border
+checks, as well as arrangements on search and rescue.
+Principle of non-refoulement: the Regulation should be applied in full compliance with the principle of non-refoulement meaning that no person
+should be disembarked in, forced to enter, conducted to or otherwise handed over to the authorities of a country where, inter alia, there is a
+serious risk that he or she would be subjected to the death penalty, torture, persecution or other inhuman or degrading treatment or
+punishment, or where his or her life or freedom would be threatened on account of his or her race, religion, nationality, sexual orientation,
+membership of a particular social group or political opinion, or from which there is a serious risk of an expulsion, removal or extradition to
+another country in contravention of the principle of non-refoulement.
+Safety at sea: as a general principle, measures taken for the purpose of a sea operation shall be conducted in a way that, in all instances,
+ensures the safety of the persons intercepted or rescued, the safety of the participating units or that of third parties.
+Take into account the general situation in the third countries where persons intercepted would be disembarked: when considering the
+possibility of disembarkation in a third country, in the context of planning a sea operation, the host Member State, in coordination with
+participating Member States and FRONTEX, should take into account the general situation in that third country. Intercepted persons should
+not be disembarked, forced to enter, conducted to or otherwise handed over to the authorities of a third country which might be dangerous for
+that person.
+The assessment of the general situation in a third country shall be based on information derived from a broad range of sources, which may
+include other Member States, Union bodies, offices and agencies, and relevant international organisations.
+Other principles should be respected in cases of interception of persons at sea:
+information for persons intercepted: during a sea operation, before the intercepted persons were disembarked in a third country, the
+participating units should use all means to inform the intercepted or rescued persons of their destination give them an opportunity to
+express any reasons for believing that disembarkation in the proposed place would be in violation of the principle of non-refoulement;
+trained personnel: further details should be provided for in the operational plan including the availability of shore-based medical staff,
+interpreters, legal advisers and other relevant experts. Each participating unit should include at least one person with basic first aid
+training;
+needs of vulnerable people: throughout a sea operation, the participating units should address the special needs of children, including
+unaccompanied minors, victims of trafficking in human beings, persons in need of urgent medical assistance, disabled persons etc;
+data protection: the exchange with third countries of personal data regarding intercepted or rescued persons obtained during a sea
+operation should be prohibited where there is a serious risk of contravention of the principle of non-refoulement;
+human dignity: participating units should, in the performance of their duties, fully respect human dignity.
+Special rules: the Regulation sets out a framework for sea operations including:
+·
+
+detection: participating units should collect and immediately report information about that vessel to the International Coordination
+Centre, including, where possible, information about the situation of persons on board, in particular whether there is an imminent risk
+to their lives or whether there are persons in urgent need of medical assistance;
+
+·
+
+interception in the territorial sea: in the territorial sea of the host Member State or a neighbouring participating Member State, that
+State should authorise the participating units to take certain measures where there were reasonable grounds to suspect that a
+vessel may be carrying persons intending to circumvent checks at border crossing points or is engaged in the smuggling of migrants
+by sea. If evidence confirming that suspicion were found, that State may authorise the participating units to (a) seize the vessel and
+
+apprehending persons on board; (b) order the vessel to alter its course outside of the territorial sea or the contiguous zone; (c)
+conduct the vessel or persons on boar to the coastal Member State.
+·
+
+interception on the high seas: if evidence confirming suspicion were found in these cases, the participating units may : (i) seize the
+vessel and apprehend persons on board; (ii) warn and order the vessel not to enter the territorial sea or the contiguous zone, and,
+where necessary, request the vessel to alter its course; (iii) conduct the vessel or persons on board to a third country; (iv) conduct
+the vessel or persons on board to the host Member State or to a neighbouring participating Member State.
+
+·
+
+interception in the contiguous zone: in the contiguous zone of the host Member State or of a neighbouring participating Member
+State, the measures regarding interception of ships would apply so long as they were proportionate. Any authorisation may only be
+given for measures that were necessary to prevent the infringement of relevant laws and regulations within that Member States
+territory or territorial sea;
+
+Any measure shall be proportionate and shall not exceed what is necessary to achieve the objectives of the Regulation.
+Rescue situations: Member States should observe their obligation to render assistance to any vessel or person in distress at sea and, during a
+sea operation, their participating units must comply with that obligation, in accordance with international law and respect for fundamental
+rights. They should do so regardless of the nationality or status of such a person or the circumstances in which that person was found. The
+Regulation contains a series of provisions regarding rescue at sea with the support of the Rescue Coordination Centre. The latter will also
+assist with persons or vessels missing at sea.
+Rescue operations will particularly take place if there are doubts as to the seaworthiness of the vessel and the likelihood that the vessel will
+reach its final destination, or if units detect the presence of persons on board in urgent need of medical assistance, or pregnant women or
+children.
+Disembarkation: the operational plan will contain a series of measures regarding the disembarkation of intercepted persons, particularly in the
+case of search and rescue situations. The host Member State and the participating Member States shall cooperate to identify a place of safety
+and, when the responsible Rescue Coordination Centre designates such a place of safety, they should ensure that disembarkation of the
+rescued persons is carried out rapidly and effectively.
+The modalities for disembarkation shall not have the effect of imposing obligations on Member States not participating in the sea operation.
+Solidarity mechanisms: recalling the fact that the policies of the Union in border management, asylum and immigration and their
+implementation should be governed by the principle of solidarity and fair sharing of responsibility between the Member States, the Regulation
+promotes burden-sharing including through the transfer, on a voluntary basis, of beneficiaries of international protection. A Member State
+faced with a situation of urgent and exceptional pressure at its external border should be able to request:
+·
+
+the deployment of European Border Guard Teams within FRONTEX to provide rapid operational assistance to that Member State;
+
+·
+
+the Agency for technical and operational assistance in order to obtain assistance on matters of coordination between Members
+States and/or the deployment of experts to support the competent national authorities;
+
+·
+
+emergency assistance to address urgent and specific needs.
+
+A Member State subject to strong migratory pressure which placed urgent demands on its reception facilities and asylum systems should be
+able to request assistance from the European Asylum Support Office and emergency assistance.
+FRONTEX operational plan: by virtue of Regulation (EC) n° 2007/2004 establishing FRONTEX, border surveillance operations coordinated by
+the Agency are conducted in accordance with an operational plan. The latter should include specific information on the application of the
+relevant jurisdiction and legislation in the geographical area where the joint operation, pilot project or rapid intervention takes place, including
+references to Union and international law regarding interception, rescue at sea and disembarkation. The operational plan should be
+established in accordance with the provisions of this Regulation governing:
+·
+
+interception,
+
+·
+
+rescue at sea, and
+
+·
+
+disembarkation in the context of border surveillance operations at sea coordinated by the Agency.
+
+Lastly, the plan should include procedures ensuring that persons with international protection needs, unaccompanied minors and other
+vulnerable persons are identified and provided with appropriate assistance.
+Report: FRONTEX shall submit an annual report to the European Parliament, the Council and the Commission on the practical application of
+the Regulation, including a description of the procedures put in place by the Agency regarding sea operations and detailed information on
+compliance with fundamental rights and the impact on those rights, and any incidents which may have taken place.
+ENTRY INTO FORCE: 17.07.2014. From that date, Decision 2010/252/EU will cease to have effect.
+
+

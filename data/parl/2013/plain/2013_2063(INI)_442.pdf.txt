@@ -1,0 +1,574 @@
+Procedure file
+Basic information
+2013/2063(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Unleashing the potential of cloud computing in Europe
+
+Subject
+1.20.09 Protection of privacy and data protection
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+2.40 Free movement of services, freedom to provide
+2.40.02 Public services, of general interest, universal service
+2.80 Cooperation between administrations
+3.30.06 Information and communication technologies
+3.30.25 International information networks and society, internet
+3.45.08 Business environment, reduction of the administrative burdens
+3.50.15 Intellectual property, copyright
+4.60.06 Consumers' economic and legal interests
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Appointed
+
+ITRE Industry, Research and Energy
+(Associated committee)
+
+PPE DEL CASTILLO VERA
+Pilar
+
+25/10/2012
+
+Shadow rapporteur
+S&D TRAUTMANN Catherine
+ALDE ROHDE Jens
+Verts/ALE ANDERSDOTTER
+Amelia
+ECR TOŠENOVSKÝ Evžen
+Committee for opinion
+
+European Commission
+
+Rapporteur for opinion
+
+Appointed
+
+ECON
+
+Economic and Monetary Affairs
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+PPE VERHEYEN Sabine
+
+10/10/2012
+
+JURI Legal Affairs
+(Associated committee)
+
+S&D GERINGER DE
+OEDENBERG Lidia Joanna
+
+15/04/2013
+
+LIBE Civil Liberties, Justice and Home Affairs
+(Associated committee)
+
+Verts/ALE SARGENTINI
+Judith
+
+26/11/2012
+
+Commission DG
+
+Commissioner
+
+Communications Networks, Content and Technology KROES Neelie
+
+Key events
+27/09/2012
+
+Non-legislative basic document published
+
+18/04/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+18/04/2013
+
+Referral to associated committees
+announced in Parliament
+
+14/10/2013
+
+Vote in committee, 1st reading/single
+reading
+
+24/10/2013
+
+Committee report tabled for plenary,
+single reading
+
+COM(2012)0529
+
+Summary
+
+A7-0353/2013
+
+Summary
+
+10/12/2013
+
+Results of vote in Parliament
+
+10/12/2013
+
+Decision by Parliament, 1st
+reading/single reading
+
+10/12/2013
+
+End of procedure in Parliament
+
+Summary
+
+T7-0535/2013
+
+Technical information
+Procedure reference
+
+2013/2063(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/10792
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2012)0529
+
+27/09/2012
+
+EC
+
+Summary
+
+N7-0090/2013
+OJ C 253 03.09.2013, p. 0003
+
+16/11/2012
+
+EDPS
+
+Summary
+
+PE504.198
+
+04/06/2013
+
+EP
+
+Committee draft report
+
+PE506.114
+
+19/06/2013
+
+EP
+
+Amendments tabled in committee
+
+PE516.774
+
+06/09/2013
+
+EP
+
+Document attached to the procedure
+
+Committee opinion
+
+IMCO
+
+Committee opinion
+
+LIBE
+
+PE504.203
+
+19/09/2013
+
+EP
+
+Committee opinion
+
+JURI
+
+PE514.601
+
+23/09/2013
+
+EP
+
+Committee report tabled for plenary,
+single reading
+
+A7-0353/2013
+
+24/10/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, single
+reading
+
+T7-0535/2013
+
+10/12/2013
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)260
+
+06/05/2014
+
+2013/2063(INI) - 27/09/2012 Non-legislative basic document
+PURPOSE : to unleash the Potential of Cloud Computing in Europe.
+BACKGROUND : Cloud computing can be understood as the storing, processing and use of data on remotely located computers accessed
+over the internet. This means that users can command almost unlimited computing power on demand, that they do not have to make major
+capital investments to fulfil their needs and that they can get to their data from anywhere with an internet connection. Cloud computing has the
+potential to slash users' IT expenditure and to enable many new services to be developed.
+Like the web, cloud computing is a technological development that has been ongoing for some time and will continue to develop. Unlike the
+web, cloud computing is still at a comparatively early stage, giving Europe a chance to act to ensure being at the forefront of its further
+development and to benefit on both demand and supply side through wide-spread cloud use and cloud provision.
+Fragmentation of the digital single market due to differing national legal frameworks and uncertainties over applicable law, digital content and
+data location ranked highest amongst the concerns of potential cloud computing adopters and providers.
+The Commission therefore aims at enabling and facilitating faster adoption of cloud computing throughout all sectors of the economy which
+can cut ICT costs, and when combined with new digital business practices, can boost productivity, growth and jobs.
+In a preparatory study undertaken for the Commission, it is estimated that the public cloud would generate 250 billion in GDP in 2020 with
+
+cloud-friendly policies in place against 88 billion in the "no intervention" scenario, leading to extra cumulative impacts from 2015 to 2020 of 600
+billion. This translates into the creation of 2.5 million extra jobs.
+CONTENT : on the basis of an analysis of the overall policy, regulatory and technology landscapes and a wide consultation of stakeholders,
+undertaken to identify what needs to be done to achieve that goal, this document sets out the most important and urgent additional actions. It
+delivers one of the main actions foreseen in the Communication on e-Commerce and online services.
+This strategy does not foresee the building of a "European Super-Cloud". However, one of the aims is to have publicly available cloud offerings
+("public cloud") that meet European standards not only in regulatory terms but in terms of being competitive, open and secure.
+Completing the Digital Single Market by moving as rapidly as possible to adoption and implementation of the Digital Agenda proposals that are
+on the table is the essential first step
+towards making Europe cloud-friendly. These actions concern : Digital Agenda Actions "opening-up access to content" ; Digital Agenda
+Actions to "Make Online and Cross-Border Transactions Straightforward ; Digital Agenda Actions on Building Digital Confidence. But to move
+up a notch to become cloud-active, a climate of certainty and trust must be further developed so as to stimulate the active adoption of cloud
+computing in Europe.
+To deliver on these goals therefore the European Commission will launch three cloud-specific actions:
+Key Action 1 Cutting through the Jungle of Standards.
+Currently, individual vendors have an incentive to fight for dominance by locking in their customers, inhibiting standardised, industry-wide
+approaches. Despite numerous standardisation efforts, mostly led by suppliers, clouds may develop in a way that lacks interoperability, data
+portability and reversibility, all crucial for the avoidance of lock-in.
+The Commission will:
+promote trusted and reliable cloud offerings by tasking ETSI to coordinate with stakeholders in a transparent and open way to identify
+by 2013 a detailed map of the necessary standards (inter alia for security, interoperability, data portability and reversibility);
+enhance trust in cloud computing services by recognising at EU-level technical specifications in the field of information and
+communication technologies for the protection of personal information in accordance with the new Regulation on European
+Standardisation;
+work with the support of ENISA and other relevant bodies to assist the development of EU-wide voluntary certification schemes in the
+area of cloud computing (including as regards data protection) and establish a list of such schemes by 2014.
+Key Action 2: Safe and Fair Contract Terms and Conditions.
+Traditional IT outsourcing arrangements were typically negotiated and related to data storage, processing facilities and services defined and
+described in detail and up-front. Cloud computing contracts, on the other hand, essentially create a framework in which the user has access to
+infinitely scalable and flexible IT capabilities according to his needs. However, currently the greater flexibility of cloud computing as compared
+to traditional outsourcing is often counterbalanced by reduced certainty for the customer due to insufficiently specific and balanced contracts
+with cloud providers. The Commission will by end 2013:
+develop with stakeholders model terms for cloud computing service level agreements for contracts between cloud providers and
+professional cloud users, taking into account the developing EU acquis in this field;
+propose to consumers and small firms European model contract terms and conditions for those issues that fall within the Common
+European Sales Law proposal. The aim is to standardise key contract terms and conditions, providing best practice contract terms for
+cloud services on aspects related with the supply of "digital content";
+reviewing standard contractual clauses applicable to transfer of personal data to third countries and adapting them, as needed, to
+cloud services;
+work with industry to agree a code of conduct for cloud computing providers to support a uniform application of data protection rules.
+Key Action 3 Promoting Common Public Sector Leadership through a European Cloud Partnership.
+The public sector has a strong role to play in shaping the cloud computing market. As the EU's largest buyer of IT services, it can set stringent
+requirements for features, performance, security, interoperability and data portability and compliance with technical requirements. Several
+Member States have started national initiatives such as Andromede in France, G-Cloud in the UK and Trusted Cloud in Germany. But with the
+public sector market fragmented, its requirements have little impact, services integration is low and citizens do not get the best value for
+money.
+The Commission considers that pooling public requirements could bring higher efficiency and common sectoral requirements (e.g. eHealth,
+social care, assisted living, and eGovernment services such as open data) would reduce costs and enable interoperability. The private sector
+would also benefit from higher quality services.
+This year, the Commission is therefore setting up a European Cloud Partnership (ECP) to provide an umbrella for comparable initiatives at
+Member State level. The ECP will bring together industry expertise and public sector users to work on common procurement requirements for
+cloud computing in an open and fully transparent way.
+The Commission will also build on its on-going international dialogues with the USA, India, Japan and other countries, as regards, inter alia,
+key themes related to cloud services, such as data protection; coordination of data security at the global level; cybersecurity, liability of
+intermediary service providers; standards and interoperability requirements; application of the tax law to cloud services.
+Follow-up : the Commission will by the end of 2013 report on the progress on the full set of actions in this Strategy and present further policy
+and legislative proposals initiatives as needed.
+
+2013/2063(INI) - 16/11/2012 Document attached to the procedure
+Opinion of the European Data Protection Supervisor (EDPS)
+
+The EDPS welcomes the Communication presented by the Commission on 27 September 2012.
+The opinion focuses especially on the challenges that cloud computing poses for data protection and how the proposed data protection
+regulation would tackle them.
+This EDPS opinion has three goals:
+1) Highlight the relevance of privacy and data protection in the current discussions on cloud computing: the opinion underlines that the level of
+data protection in a cloud computing environment must not be inferior to that required in any other data processing context.
+2) Analyse the difficulty of establishing unambiguously the responsibilities of the different actors and the notions of controller and processor : in
+this respect, the proposal for a regulation on data protection should:
+·
+
+expand the circumstances in which a cloud service provider may be qualified as the controller;
+
+·
+
+increase the responsibility and accountability of data controllers and processors, by introducing specific obligations such as data
+protection by design and by default, data security breach notifications, and data protection impact assessments ;
+
+·
+
+require controllers and processors to implement mechanisms to demonstrate the effectiveness of the data protection measures
+implemented ;
+
+·
+
+help cloud clients and cloud service providers adduce appropriate data protection safeguards for the transfers of personal data to
+data centres or servers located in third countries ;
+
+·
+
+clarify the obligations of controllers and processors regarding the security of processing and information requirements in case of data
+breaches ;
+
+·
+
+reinforce cooperation of supervisory authorities and their coordinated supervision over cross-border processing operations, which is
+particularly crucial in an environment such as cloud computing.
+
+3) Identify areas that require further action at EU level from a data protection and privacy perspective. They include, amongst others:
+providing further guidance ;
+standardisation efforts ;
+carrying out further risks assessments for specific sectors (such as the public sector) ; developing standard contract terms and
+conditions;
+engaging in international dialogue on issues related to cloud computing and ensuring effective means of international cooperation.
+
+2013/2063(INI) - 24/10/2013 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy adopted the own-initiative report by Pilar del CASTILLO VERA (EPP, ES) on unleashing
+the potential of cloud computing in Europe.
+The Committee on Legal Affairs and the Committee on Civil Liberties, Justice and Home Affairs, exercising their prerogatives as associated
+committees under Rule 50 of Parliaments Rules of Procedure, were also consulted and gave an opinion on the report.
+Members welcomed the Commissions ambition to develop a coherent approach to cloud services, but considered that, in order to achieve the
+ambitious goals set out by the strategy, a legislative instrument would have been more adequate for some aspects. Owing to the limited
+budget of the Connecting Europe Facility, Members felt that support for broadband deployment needed to be supplemented with assistance
+provided under other Union programmes and initiatives, including the European Structural and Investment Funds.
+The report also stressed the obvious interest for the EU in having more server farms on its soil since it would foster trust by ensuring EU
+sovereignty over the servers.
+The cloud as an instrument for growth and employment: cloud computing could become a transformative development in all sectors of the
+economy, with special relevance in areas such as health care, energy, public services and education. Members noted that e-skills and digital
+education actions in cloud computing development could, consequently, be of extraordinary importance in order to tackle the rising
+unemployment, especially among young people. They recalled the need to create more qualification schemes for specialists managing cloud
+computing services. They also highlighted the positive impact of cloud computing services on SMEs, in particular those established in areas
+facing economic difficulties.
+The EU market and the cloud: the report stressed that the internal market should remain open to all providers complying with Union law. They
+insisted that the Commission take measures to counter the risk that information was accessed directly or indirectly by foreign governments,
+where such access was not allowed under Union law.
+Members also emphasised the importance of ensuring a competitive and transparent Union market in order to provide all Union users with
+secure, sustainable, affordable and reliable services.
+Public procurement: the report encouraged public administrations to consider safe, reliable and secure cloud services in IT procurement, while
+underlining their particular responsibilities with respect to protection of information relating to citizens, accessibility and continuity of service. It
+recalled that data integrity and security must be guaranteed and unauthorised access, including by foreign governments and their intelligence
+services without a legal basis under Union or Member State law, prevented.
+The Commission was asked to take the lead in promoting standards and specifications supporting privacy-friendly, reliable, highly
+interoperable, secure and energy-efficient cloud services.
+Consumers: Members asked the Commission to ensure that any commercial agreements between telecommunications operators and cloud
+providers are fully compliant with EU competition law and that they allow consumers full access to any cloud service, using an internet
+connection offered by any telecommunications operator.
+The Commission was asked to explore appropriate measures to develop a minimum acceptable level of consumer rights in relation to cloud
+
+services, covering issues such as privacy, data storage in third countries, liability for data losses and other matters of significant interest to
+consumers.
+Intellectual property: the report urges the Commission to take action to further harmonise laws across the Member States in order to avoid
+jurisdictional confusion and fragmentation and to ensure transparency in the digital single market. It called, in particular, for clarification of the
+intellectual property rights regime and for a review of the Unfair Commercial Practices Directive, the Unfair Contract Terms Directive and the
+E-Commerce Directive, which are the most relevant pieces of EU legislation that apply to cloud computing.
+The Commission should also:
+establish a clear legal framework in the field of copyright content in the cloud, especially with regard to licensing regulations;
+investigate how the cloud storage of copyrighted works affects the royalties systems and, more specifically, the ways in which private
+copying levies that are relevant for certain types of cloud computing services are imposed;
+promote the development of decentralised services based on free and open-source software that would enable EU citizens to regain
+control over their personal data and communication.
+Data protection: the report called on the Commission and the Council unequivocally to recognise digital freedoms as fundamental rights and as
+indispensable prerequisites for enjoying universal human rights.
+Members regretted the approach in the Commissions communication whereby it failed to mention the risks and challenges attached to cloud
+computing, and urged the Commission to develop a more holistic communication on cloud computing that takes into account, alongside a
+reference to fundamental rights, at least the following:
+·
+
+guidelines to ensure full compliance with the EUs fundamental rights and data protection obligations;
+
+·
+
+limitative conditions under which cloud data may or may not be accessed for law enforcement purposes,
+
+·
+
+safeguards against illegal access by foreign and domestic entities,
+
+·
+
+proposals on how to define the transfer of personal data and on how to update standard contractual clauses that are tailored to the
+cloud environment.
+
+The Commission was urged, when negotiating international agreements that involve the processing of personal data, to take particular note of
+the risks and challenges that cloud computing?poses to fundamental rights.
+
+2013/2063(INI) - 10/12/2013 Text adopted by Parliament, single reading
+The European Parliament adopted a resolution on unleashing the potential of cloud computing in Europe in response to the commission
+communication on the subject.
+Parliament welcomed the Commissions ambition to develop a coherent approach to cloud services, which constituted a significant
+advancement in information and communication technologies (ICT). It considered, however, that in order to achieve the ambitious goals set
+out by the strategy, a legislative instrument would have been more adequate for some aspects.
+Parliament stressed the following points:
+·
+
+cloud services must offer security and reliability. The safe use of internet services, including cloud computing should be encouraged;
+
+·
+
+Union law should be neutral and not be adapted to either facilitate or hinder any legal business model or service;
+
+·
+
+a strategy on cloud computing should encompass collateral aspects such as the energy consumption of data centres and related
+environmental issues;
+
+·
+
+owing to the limited budget of the Connecting Europe Facility, support for broadband deployment needed to be supplemented with
+assistance provided under other Union programmes and initiatives, including the European Structural and Investment Funds;
+
+the EU had an obvious interest in having more server farms on its soil since it would foster trust by ensuring EU sovereignty over the servers.
+The cloud as an instrument for growth and employment: cloud computing could become a transformative development in all sectors of the
+economy, with special relevance in areas such as health care, energy, public services and education. Parliament stressed, however, that the
+development of cloud services, in the absence or insufficient availability of broadband infrastructure, risks widening the digital divide between
+urban and rural areas. In this context, Members underlined:
+·
+
+the importance of e-skills and digital education actions in cloud computing development in order to tackle the rising unemployment,
+especially among young people;
+
+·
+
+the need to create more qualification schemes for specialists managing cloud computing services;
+
+·
+
+the positive impact of cloud computing services on SMEs, in particular those established in areas facing economic difficulties.
+
+The EU market and the cloud: Parliament stressed that the internal market should remain open to all providers complying with Union law. It
+insisted that the Commission:
+·
+
+take measures to counter the risk that information was accessed directly or indirectly by foreign governments, where such access
+was not allowed under Union law;
+
+·
+
+ensure a competitive and transparent Union market in order to provide all Union users with secure, sustainable, affordable and
+reliable services.
+
+Members welcomed the Commissions intention to establish an EU-wide certification system that would provide an incentive for developers and
+providers of cloud computing services to invest in better privacy protection.
+
+Public procurement: Parliament invited the Commission and the Member States to speed up the work of the European Cloud Partnership. It
+encouraged public administrations to consider safe, reliable and secure cloud services in IT procurement, while underlining their particular
+responsibilities with respect to protection of information relating to citizens, accessibility and continuity of service. It recalled that data integrity
+and security must be guaranteed and unauthorised access prevented.
+The Commission was asked to take the lead in promoting standards and specifications supporting privacy-friendly, reliable, highly
+interoperable, secure and energy-efficient cloud services.
+Consumers: Members asked the Commission to:
+·
+
+raise consumer awareness of all risks related to the use of cloud services;
+
+·
+
+ensure that any commercial agreements between telecommunications operators and cloud providers are fully compliant with EU
+competition law and that they allow consumers full access to any cloud service, using an internet connection offered by any
+telecommunications operator;
+
+explore appropriate measures to develop a minimum acceptable level of consumer rights in relation to cloud services, covering issues such as
+privacy, data storage in third countries, and liability for data losses.
+Intellectual property: Parliament report urges the Commission to take action to further harmonise laws across the Member States. It called, in
+particular, for clarification of the intellectual property rights regime and for a review of the Unfair Commercial Practices Directive, the Unfair
+Contract Terms Directive and the E-Commerce Directive, which are the most relevant pieces of EU legislation that apply to cloud computing.
+The Commission should also:
+·
+
+establish a clear legal framework in the field of copyright content in the cloud, especially with regard to licensing regulations;
+
+·
+
+investigate how the cloud storage of copyrighted works affects the royalties systems and, more specifically, the ways in which private
+copying levies that are relevant for certain types of cloud computing services are imposed;
+
+promote the development of decentralised services based on free and open-source software that would enable EU citizens to regain control
+over their personal data and communication.
+Data protection: Parliament called on the Commission and the Council unequivocally to recognise digital freedoms as fundamental rights and
+as indispensable prerequisites for enjoying universal human rights.
+Members urged the Commission to develop a more holistic communication on cloud computing that takes into account, alongside a reference
+to fundamental rights, at least the following:
+·
+
+guidelines to ensure full compliance with the EUs fundamental rights and data protection obligations;
+
+·
+
+limitative conditions under which cloud data may or may not be accessed for law enforcement purposes,
+
+·
+
+safeguards against illegal access by foreign and domestic entities,
+
+·
+
+proposals on how to define the transfer of personal data and on how to update standard contractual clauses that are tailored to the
+cloud environment.
+
+The Commission was urged, when negotiating international agreements that involve the processing of personal data, to take particular note of
+the risks and challenges that cloud computing?poses to fundamental rights.
+
+

@@ -1,0 +1,394 @@
+Procedure file
+Basic information
+2015/2221(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Banking union - 2015 annual report
+
+Subject
+2.50.04 Banks and credit
+2.50.10 Financial supervision
+5.20.03 European Central Bank (ECB), ESCB
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+11/05/2015
+
+GUALTIERI Roberto
+Shadow rapporteur
+
+MAYDELL Eva
+
+VON STORCH Beatrix
+
+GOULARD Sylvie
+
+KARI Rina Ronja
+
+URBÁN CRESPO
+Miguel
+
+GIEGOLD Sven
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Financial Stability, Financial Services and Capital
+Markets Union
+
+HILL Jonathan
+
+Key events
+10/09/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/11/2015
+
+Debate in Council
+
+08/12/2015
+
+Debate in Council
+
+15/01/2016
+
+Debate in Council
+
+12/02/2016
+
+Debate in Council
+
+15/02/2016
+
+Vote in committee, 1st reading/single
+reading
+
+23/02/2016
+
+Committee report tabled for plenary,
+single reading
+
+08/03/2016
+
+Debate in Council
+
+A8-0033/2016
+
+Summary
+
+10/03/2016
+
+Results of vote in Parliament
+
+10/03/2016
+
+Debate in Parliament
+
+10/03/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+10/03/2016
+
+End of procedure in Parliament
+
+Summary
+
+T8-0093/2016
+
+Technical information
+Procedure reference
+
+2015/2221(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/03813
+
+Documentation gateway
+Committee draft report
+
+PE569.634
+
+12/11/2015
+
+EP
+
+Amendments tabled in committee
+
+PE573.021
+
+14/12/2015
+
+EP
+
+Amendments tabled in committee
+
+PE573.165
+
+14/12/2015
+
+EP
+
+Committee report tabled for plenary, single reading
+
+A8-0033/2016
+
+23/02/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0093/2016
+
+10/03/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2016)349
+
+04/07/2016
+
+2015/2221(INI) - 23/02/2016 Committee report tabled for plenary, single reading
+The Committee on Economic and Monetary Affairs adopted the own-initiative report by Roberto GUALTIERI (S&D, IT) on the Banking Union
+Annual Report 2015.
+Single Supervisory Mechanism (SSM)
+Members welcomed the establishment of the SSM, which has been successful since its creation both from an operational point of view and in
+terms of supervisory quality.
+In particular, in relation to the operational set-up, they welcomed:
+·
+
+the recruitment process, which resulted in a good blend of competences, cultures and gender, even if ECB contracting practices
+leave room for improvement;
+
+·
+
+the drafting, building on national best practices, of the Supervisory Manual laying down common processes, procedures and
+methods for conducting a euro-wide supervisory review process;
+
+·
+
+the set-up of the IT infrastructure and of the supporting analytical tools;
+
+·
+
+the setting up of Joint Supervisory Teams (JSTs) and the dialogue they have established with the supervised credit institutions.
+
+Members noted that a very significant share of work is routinely devoted to administrative procedures, required by the SSM Regulation, which
+may not always be proportionate. They stood ready to consider proposals to reduce the operational burden on structures at all levels and to
+improve the effectiveness of the SSM supervision.
+They also emphasised the need to avoid unnecessary administrative burden on credit institutions, in particular smaller banks, and to ensure
+that the proportionality principle is upheld.
+Members also called for a systematic review of comprehensive assessments of ECB-supervised institutions, as well as for appropriate
+improvements of the methodology in the light of lessons learned. They emphasised the limitations of the current stress test methodology which
+evaluates third-country exposure on the basis of banks internal assessment.
+Members noted that:
+·
+
+banking structural reform, which was conceived to reduce systemic risk and address the issue of too big to fail institutions, has yet to
+
+be implemented and urged a swift legislative agreement;
+·
+
+the insurance sector is becoming increasingly involved in financial services, and underlined the importance of a level playing field in
+order to avoid regulatory arbitrage of prudential and consumer protection rules;
+
+·
+
+an increase in capital requirements beyond a certain threshold may in the short term create unintended consequences, limiting banks
+lending capacity (i.e. this risk should therefore be considered when determining the level of capital).
+
+Members considered that more appropriate attention should be paid to increased exposure in the form of off-balance sheet items, in particular
+for global systematically important banks (G-SIBs). They underlined the need to be vigilant over the development of the shadow banking
+sector.
+As regards sovereign exposures of banks and other financial intermediaries, the report calls on the EU institutions to carefully and thoroughly
+assess possible changes in the medium term to the current regulatory framework, without reducing available funding for Member States,
+without creating unintended market or competition distortions and without affecting financial stability, and as part of a coordinated effort at the
+global level. Parallel measures should be taken among others to reduce level 2 and level 3 assets exposure and to ensure the full
+convergence of internal ratings-based systems for the measurement of credit risk.
+The Commission is called upon to:
+·
+
+put forward a proposal for a technical adaptation of Regulation (EU) No 575/2013 on prudential requirements for credit institutions
+and investment firms and the Capital Requirements Directive (Directive 2013/36/EU) in order to align them with the Banking Union
+framework.
+
+·
+
+use regulations (which are applicable directly and to all throughout the EU), rather than directives, as the legislative tool to ensure
+harmonised implementation across the EU and the Banking Union.
+
+Members stressed that the European Banking Authority, with its explicit consumer protection mandate, must enforce and enhance the
+consumer protection framework for banking services, complementing the SSMs prudential supervision, and in the Union as a whole.
+Single Resolution Mechanism (SRM)
+Members welcomed the efficient setting-up of the Single Resolution Board (SRB) and the establishment of national resolution authorities
+(NRAs) in the Member States.
+The committee highlighted the importance of establishing efficient cooperation between the SRB and the NRAs for the smooth functioning of
+the SRM.
+The report:
+·
+
+encouraged the conclusion of a memorandum of understanding on mutual cooperation and data sharing between the SRB and the
+ECB as a single supervisor;
+
+·
+
+called for specific arrangements to be created within the Commission and between the SRB and the Commission in order to define
+efficient procedures for decision-making in the event of resolution;
+
+·
+
+encourages the conclusion of cooperation agreements between the SRB and the NRAs of non-participating Member States and third
+countries for effective mutual cooperation and information exchange:
+
+·
+
+called on the Commission to swiftly adopt the regulatory technical standard on MREL, with a high binding standard of at least 8 %
+MREL for all SRB banks, in line with the Bank Recovery and Resolution Directive (BRRD) (Directive 2014/59/EU);
+
+·
+
+underlined that the Board should take due care to establish the resolution plans of systemically important institutions, assess their
+resolvability and take all action necessary to address or remove all of the impediments to their resolvability.
+
+The report also stressed the need, as a consequence of the existence of the national compartments in the SRF, to rapidly put in place an
+adequate bridge financing mechanism in order to provide the fund, if necessary, with sufficient resources in the period before its completion
+and guarantee the effective separation between banks and sovereigns.
+Lastly, Members regretted the decision to set up the SRF through an IGA rather than through Union law. They called on the Commission
+swiftly to take the necessary steps, as provided for in Article 16 of the Agreement, for a quick integration of the IGA into the framework of EU
+law.
+Third pillar
+Members recalled that, together with the SSM and the SRM, the capacity to afford a uniform and high level of protection of deposits,
+irrespective of their location, should be ensured in an effective Banking Union. Any system of protection of deposits must always avoid the
+introduction of any moral hazard, while ensuring that risk takers remain liable for their risk taking.
+In this context, the report welcomed the Commissions proposed package on risk sharing and risk reduction in the Banking Union of 24
+November 2015. It noted that the creation of a European Deposit Insurance Scheme (EDIS) requires the implementation of the single rulebook
+as well as of the first and second pillars of the Banking Union, and of the transposition of the BRRD and the Deposit Guarantee Schemes
+Directive (Directive 2014/49/EU) by all the participating Member States.
+
+2015/2221(INI) - 10/03/2016 Text adopted by Parliament, single reading
+The European Parliament adopted by 351 votes to 112, with 30 abstentions, a resolution on the Banking Union Annual Report 2015.
+1) Single Supervisory Mechanism (SSM)
+Parliament welcomed the establishment of the SSM, which has been successful since its creation both from an operational point of view and in
+terms of supervisory quality.
+
+In particular, in relation to the operational set-up, it welcomed:
+the recruitment process, which resulted in a good blend of competences, cultures and gender, even if ECB contracting practices leave
+room for improvement;
+the drafting, building on national best practices, of the Supervisory Manual laying down common processes, procedures and methods
+for conducting a euro-wide supervisory review process;
+the set-up of the IT infrastructure and of the supporting analytical tools;
+the setting up of Joint Supervisory Teams (JSTs) and the dialogue they have established with the supervised credit institutions.
+Reducing in the administrative burden: a very significant share of work is routinely devoted to administrative procedures. Members are ready
+to examine proposals to reduce the operational burden on structures at all levels and to improve the effectiveness of the SSM supervision.
+They also emphasised the need to avoid unnecessary administrative burden on credit institutions, in particular smaller banks, and to ensure
+that the proportionality principle is upheld.
+The ECB is called upon to ensure that the creation of a comprehensive credit risk database (Analytical Credit Dataset, AnaCredit) pays
+particular attention to the proportionality principle and to the need to avoid disproportionately high administrative costs, especially for smaller
+institutions.
+Bank assessments: Parliament called for a systematic review of comprehensive assessments of ECB-supervised institutions, as well as for
+appropriate improvements of the methodology in the light of lessons learned. It emphasised the limitations of the current stress test
+methodology which evaluates third-country exposure on the basis of banks internal assessment.
+Non-performing loans: Members recalled that the ability to write off or sell-on non-performing loans is vital, as it frees up capital to fund new
+loans, in particular to SMEs. They stressed the need to address the issue of non-performing loans at European level, notably by facilitating the
+setting-up of asset management companies in those countries where this is deemed to be necessary, as was the case in Spain and Ireland.
+The resolution noted that:
+banking structural reform, which was conceived to reduce systemic risk and address the issue of too big to fail institutions, has yet to
+be implemented and urged a swift legislative agreement;
+the insurance sector is becoming increasingly involved in financial services, and underlined the importance of a level playing field in
+order to avoid regulatory arbitrage of prudential and consumer protection rules.
+Own resources: Parliament stated that the worldwide drive towards more and better quality bank capital and less leveraged banks is a
+necessary condition for a sound banking system capable of supporting the economy and for avoiding any repeat of the enormous bailouts
+witnessed during the crisis.
+It is however stressed that an increase in capital requirements beyond a certain threshold may in the short term create unintended
+consequences, limiting banks lending capacity (i.e. this risk should therefore be considered when determining the level of capital).
+Members considered that more appropriate attention should be paid to increased exposure in the form of off-balance sheet items, in particular
+for global systematically important banks (G-SIBs). They underlined the need to be vigilant over the development of the shadow banking
+sector.
+Sovereign exposures of banks and other financial intermediaries: Parliament called on the EU institutions to carefully and thoroughly assess
+possible changes in the medium term to the current regulatory framework, without reducing available funding for Member States, without
+creating unintended market or competition distortions and without affecting financial stability, and as part of a coordinated effort at the global
+level. It stressed that in order to have a comprehensive risk reduction, parallel measures should be taken among others to reduce level 2 and
+level 3 assets exposure and to ensure the full convergence of internal ratings-based (IRB) systems for the measurement of credit risk.
+Single Supervisory approach: Parliament stressed that national options and discretion attributed to Member States prevent the SSM from
+developing a single coherent supervisory approach within the euro area in order to ensure a true level playing field. It emphasised the need for
+the review of national options and stands ready to cooperate at the legislative level in order to further improve regulatory and supervisory.
+Adaptation of the legislation: the Commission is called upon to:
+put forward a proposal for a technical adaptation of Regulation (EU) No 575/2013 on prudential requirements for credit institutions and
+investment firms and the Capital Requirements Directive (Directive 2013/36/EU) in order to align them with the Banking Union
+framework.
+use regulations (which are applicable directly and to all throughout the EU), rather than directives, as the legislative tool to ensure
+harmonised implementation across the EU and the Banking Union.
+2) Single Resolution Mechanism (SRM)
+Parliament welcomed the efficient setting-up of the Single Resolution Board (SRB) and the establishment of national resolution authorities
+(NRAs) in the Member States. It highlighted the importance of establishing efficient cooperation between the SRB and the NRAs for the
+smooth functioning of the SRM.
+The resolution:
+encouraged the conclusion of a memorandum of understanding on mutual cooperation and data sharing between the SRB and the
+ECB as a single supervisor;
+called for specific arrangements to be created within the Commission and between the SRB and the Commission in order to define
+efficient procedures for decision-making in the event of resolution;
+encouraged the conclusion of cooperation agreements between the SRB and the NRAs of non-participating Member States and third
+countries for effective mutual cooperation and information exchange:
+called on the Commission to swiftly adopt the regulatory technical standard on MREL, with a high binding standard of at least 8 %
+MREL for all SRB banks, in line with the Bank Recovery and Resolution Directive (BRRD) (Directive 2014/59/EU);
+underlined that the Board should take due care to establish the resolution plans of systemically important institutions, assess their
+resolvability and take all action necessary to address or remove all of the impediments to their resolvability.
+
+Parliament also stressed the need, as a consequence of the existence of the national compartments in the SRF, to rapidly put in place an
+adequate bridge financing mechanism in order to provide the fund, if necessary, with sufficient resources in the period before its completion
+and guarantee the effective separation between banks and sovereigns.
+Lastly, Members regretted the decision to set up the SRF through an IGA rather than through Union law. They called on the Commission
+swiftly to take the necessary steps, as provided for in Article 16 of the Agreement, for a quick integration of the IGA into the framework of EU
+law.
+3) Third pillar
+Parliament recalled that, together with the SSM and the SRM, the capacity to afford a uniform and high level of protection of deposits,
+irrespective of their location, should be ensured in an effective Banking Union. Any system of protection of deposits must always avoid the
+introduction of any moral hazard, while ensuring that risk takers remain liable for their risk taking.
+In this context, the resolution welcomed the Commissions proposed package on risk sharing and risk reduction in the Banking Union of 24
+November 2015. It noted that the creation of a European Deposit Insurance Scheme (EDIS) requires the implementation of the single rulebook
+as well as of the first and second pillars of the Banking Union, and of the transposition of the BRRD and the Deposit Guarantee Schemes
+Directive (Directive 2014/49/EU) by all the participating Member States.
+
+

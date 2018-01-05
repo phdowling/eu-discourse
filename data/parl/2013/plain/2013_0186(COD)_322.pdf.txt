@@ -1,0 +1,464 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0186(COD)
+
+Awaiting Council 1st reading position / budgetary conciliation
+convocation
+
+Implementation of the Single European Sky. Recast
+Repealing Regulation (EC) No 549/2004 2001/0060(COD)
+Repealing Regulation (EC) No 550/2004 2001/0235(COD)
+Repealing Regulation (EC) No 551/2004 2001/0236(COD)
+Repealing Regulation (EC) No 552/2004 2001/0237(COD)
+Subject
+3.20.01 Air transport and air freight
+3.20.15.02 Air transport agreements and cooperation
+3.40.14 Industrial competitiveness
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Transport and Tourism
+
+Rapporteur
+
+Appointed
+
+PPE MARINESCU
+Marian-Jean
+
+11/07/2013
+
+Shadow rapporteur
+S&D DANELLIS Spyros
+ALDE MEISSNER Gesine
+Verts/ALE LICHTENBERGER
+Eva
+ECR FOSTER Jacqueline
+GUE/NGL KOHLÍČEK Jaromír
+Committee for opinion
+
+Rapporteur for opinion
+
+ITRE
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+EFD SPERONI Francesco
+Enrico
+
+Council of the European Union
+Commission DG
+European Commission
+Mobility and Transport
+
+Appointed
+
+12/11/2013
+
+Commissioner
+KALLAS Siim
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+11/06/2013
+
+Legislative proposal published
+
+01/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+30/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+06/02/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+11/03/2014
+
+Debate in Parliament
+
+COM(2013)0410
+
+Summary
+
+A7-0095/2014
+
+Summary
+
+12/03/2014
+
+Results of vote in Parliament
+
+12/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/10/2014
+
+Debate in Council
+
+03/12/2014
+
+Debate in Council
+
+Summary
+
+T7-0220/2014
+
+Technical information
+Procedure reference
+
+2013/0186(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Recast
+
+Legislative instrument
+
+Regulation
+Repealing Regulation (EC) No 549/2004 2001/0060(COD)
+Repealing Regulation (EC) No 550/2004 2001/0235(COD)
+Repealing Regulation (EC) No 551/2004 2001/0236(COD)
+Repealing Regulation (EC) No 552/2004 2001/0237(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 100-p2
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Awaiting Council 1st reading position / budgetary conciliation convocation
+
+Committee dossier
+
+TRAN/7/13015
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0410
+
+11/06/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0206
+
+11/06/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0207
+
+11/06/2013
+
+EC
+
+Committee draft report
+
+PE522.770
+
+06/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.603
+
+27/11/2013
+
+EP
+
+Economic and Social Committee: opinion, report
+
+CES5372/2013
+
+11/12/2013
+
+ESC
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0095/2014
+
+06/02/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0220/2014
+
+12/03/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)455
+
+10/06/2014
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Summary
+
+2013/0186(COD) - 11/06/2013 Legislative proposal
+PURPOSE: to improve the competitiveness of the European air transport system with the further development of the Single European Sky
+(SES) initiative.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the Single European Sky (SES) initiative aims to improve the overall efficiency of the way in which European airspace is
+organised and managed through a reform of the industry providing air navigation services (ANS).
+The experience gained with SES I since 2004 and SES II since 2009 has shown that the principles and direction of the SES are valid and
+warrant a continuation of their implementation. However, the initiative is experiencing significant delays in its implementation, notably in the
+achievement of the performance goals and the deployment of its basic elements (such as functional airspace blocks (FABs) or National
+Supervisory Authorities (NSAs)).
+This process of the recasting of the SES legal framework, known under the abbreviation of SES 2+ , is intended to accelerate the
+implementation of the reform of air navigation services without departing from its original objectives and principles. It is also part of the Single
+Market Act II initiative and aims hence to improve the general competitiveness and growth of the EU economy and not just that of the air traffic
+management system.
+The SES2+ package essentially deals with two problems:
+1. the insufficient efficiency of Air Navigation: ANS provision remains relatively inefficient in terms of cost- and flight efficiency as well as
+the capacity offered. In the US, for example, the en-route airspace is controlled by a single service provider as opposed to 38 en-route
+service providers in Europe. The US service provider controls almost 70% more flights with 38% fewer staff;
+2. fragmented ATM system: the European ATM system consists of 27 national authorities overseeing in total over a hundred Air
+Navigation Service Providers (ANSPs), with the associated variance in systems, rules and procedures.
+The specific objectives of the initiative are: (i) to improve the performance of air traffic services in terms of efficiency and (ii) to improve the
+utilisation of air traffic management capacity.
+IMPACT ASSESSMENT: the Commission undertook an impact assessment to support legislative proposals on improving efficiency, safety
+and competitiveness of the Single European Sky.
+LEGAL BASE: Article 100(2) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the Commission proposes merging the four SES regulations into a single regulation, structured into chapters based on the actors
+concerned.
+National authorities: the proposal strenghten the national authorities, as regards their independence, their expertise and their resources. For
+that purpose, it:
+describes the level of independence required from the authorities vis-à-vis the service providers they are intended to oversee (a
+transitional period is foreseen until 2020);
+more explicit requirements are set on the competences and independence of the staff hired, as well as strengthening the independent
+funding of the authorities through the route charges;
+to improve expertise amongst the authorities, a network of national authorities is foreseen, including also the possibility of pooling
+experts so that States may benefit from experts coming from other Member States.
+Performance and charging schemes: the amendments proposed seek to rationalise the process of target setting and to allow focusing of target
+setting more at the local level. This allows for more educated tailored setting of targets.
+Small adjustments to support this have also been made to the provisions on charging and the text has also been updated so that the provision
+concerning funding of authority tasks covers also the extension of the European Aviation Safety Agencys (EASA) tasks.
+Functional Airspace Blocks: the aim of the revision is to undertake a strategic redirection of Functional Airspace Blocks (FABs) to give them
+more of a performance focus. The sector needs to be given more flexibility to develop the FABs, even to devise different types of FABs,
+depending on where they expect to find the most synergies. Therefore the focus of the proposal is now more on flexible "industrial
+partnerships" and the measure of success will be the level of performance improvements achieved.
+Support services: according to the proposal, the core air traffic services, which are considered to be natural monopolies, would remain under
+the requirement to designate them, but support services should be allowed to develop freely, using the full potential of expertise also from
+other sectors. A safeguard clause has been included to ensure vital security and economic interests are not endangered. A transitional period
+is foreseen until 2020.
+Network Management: the provisions have been reorganised, in particular as regards the services that the Network Manager provides. A
+reference to the aeronautical information portal has been added as this service is already to some extent integrated in the Network Manager.
+Secondly, the terminology has been harmonised with that used ibn Regulation (EC) No 1108/2009 naming the "functions" as "services" and
+treating the Network Manager consistently in the same manner as other service providers insofar as certification, oversight and safety
+requirements are concerned.
+Lastly, a provision has been included to cover the further development of the Network Manager in the direction of an industrial partnership by
+2020.
+Involvement of airspace users: the need to introduce more customer focus on the air navigation service providers has given rise to a new
+provision to ensure the airspace users are consulted and also involved in the approval of investment plans.
+BUDGETARY IMPLICATION: the proposal has no implications for the EUs budget.
+
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2013/0186(COD) - 06/02/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Transport and Tourism adopted the report by Marian-Jean MARINESCU (EPP, RO) on the proposal for a regulation of the
+European Parliament and Council on the implementation of the Single European Sky (recast).
+The parliamentary committee recommended that the position of the European Parliament adopted at first reading under the ordinary legislative
+procedure modify the Commission proposal as follows.
+Purpose of the regulation: this regulation should lay down rules for the creation and proper functioning of the Single European Sky in order to
+ensure current air traffic safety standards, to contribute to the sustainable development of the air transport system, and in particular, reducing
+climate impact.
+The Single European Sky shall comprise a coherent network at the pan-European level and, subject to specific arrangements with the
+neighbouring countries, in third-countries, an integrated operating airspace, network management and air traffic management for the benefit of
+all airspace users.
+National aviation authorities: these shall be legally distinct and independent, in particular in organisational, hierarchical and decision-making
+terms and with their annual budget - from any company, organisation, public or private entity or personnel falling within the scope of authority
+activity as provided for in Regulation (EC) No 216/2008 or having an interest in the activities of such entities.
+Staff of the national aviation authorities shall be recruited under clear and transparent rules and criteria which guarantee their independence.
+They shall not be seconded from air navigation service providers (ANSPs) or companies under the control of ANSPs.
+Persons who have been in charge of strategic decisions for more than six months shall have no professional position or responsibility with any
+of the air navigation service providers after their term in the national aviation authority, for a period ofat least 12 months for staff in managerial
+positions (at least six months for staff in non-managerial positions).
+Definitions: the Members added important definitions, namely that of a local performance target and industrial partnership which, according to
+the proposal, will now be a driving force within newly-structured functional airspace blocks (FABs).
+The definition of the human factor was also introduced, meaning the social, cultural and staffing conditions in the air traffic management (ATM)
+sector
+The human factor must be monitored and brought into the core of the Single European Sky framework.
+Cooperation between national aviation authorities: The Commission and the European Aviation Agency (EAA) shallfacilitate active cooperation
+of these authorities to enable them to exchange their best practices and to develop common solutions, including stronger cooperation at the
+regional level, and placing at their disposal a platform for these exchanges.
+This cooperation should take place in a network that convenes at regular intervals (at least once a year).
+The purpose and tasks of the network was spelled out in more detail: it must, among others, provide opinions to the Commission and the EAA
+on rule-making and certification and provide recommendations designed to facilitate the provision of cross-border services.
+Certification of air navigation service providers: the issue of certificates shall confer on air navigation service providers the possibility of offering
+their services to any Member State, and if appropriate, neighbouring third countries, within a functional airspace block, subject to mutual
+agreement between the relevant parties.
+Provision of support services: support services means communication, navigation and surveillance (CNS), meteorological services (MET) and
+aeronautical information services (AIS) as well as other services and activities, which are linked to, and support the provision of, air navigation
+services.
+According to the report, there should be no statutory impediments to providers of support services that would prevent their ability to compete
+within the Union on the basis of equitable, non-discriminatory and transparent conditions for the purpose of providing these services.
+Members proposed that air navigation service providers, when drawing up their business plans, should call for offers from different support
+services providers, with a view to choosing the financially and qualitatively most beneficial provider.
+Binding selection criteria for the entity procuring those services shall be, in particular, cost and energy efficiency, overall service quality,
+interoperability and safety of services, as well as transparency of the procurement process.
+System and performance criteria: Members proposed that a performance review body (PRB) be established as a European economic
+regulatorunder the supervision of the Commission, with effect from 1 July 2015. The PRB shall be functionally and legally separate from any
+service provider, whether at national or pan-European level.
+The compliance of the local performance plans and local targets with the Union-wide performance targets shall be assessed by the
+Commission in cooperation with the PRB.
+In addition to the introduction of sanctions, an appropriate compensation mechanism must also be established in order to address the problem
+stemming from the lack of synchronisation in SESAR deployment and lost investment resulting thereof.
+The Commission may propose financial mechanisms to improve the synchronisation of air-based and ground-based capital expenditure
+related to the deployment of SESAR technologies.
+Implementation of the ATM Master Plan: implementation of the ATM Master Plan shall be coordinated by the Commission. The Network
+Manager, the PRB and the Deployment Manager shall contribute to the implementation of the ATM Master Plan in accordance with the
+provisions of this regulation.
+
+The Commission shall adopt, by implementing acts, measures establishing the governance of implementation of the ATM Master Plan,
+including defining and selecting the body responsible at management level (Deployment Manager).
+Industrial partnerships: Members stipulated that industrial partnerships should be separate from FABs, which are a state initiative. What is
+more, industrial partnerships need not overlap with FABs in terms of the Member States concerned and therefore should be classed as a
+separate type of cooperation.
+
+2013/0186(COD) - 12/03/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 489 votes to 154 with 34 abstentions, a legislative resolution on proposal for a regulation of the
+European Parliament and Council on the implementation of the Single European Sky (SES) (recast).
+Parliaments position in first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Implementation of the SES: Parliament stressed that the Regulation should be implemented as swiftly as possible In order to ensure that the
+expected increase in air traffic did not cause or exacerbate congestion in European airspace, with all the economic, environmental and security
+costs that that would entail, fragmentation of that airspace should be remedied.
+The implementation of the Single European Sky should have a positive impact in terms of growth, employment and competitiveness in Europe,
+in particular by increasing demand for jobs requiring advanced qualifications.
+Objectives: the regulation lays down rules for the creation and proper functioning of the Single European Sky in order to ensure current air
+traffic safety standards, to contribute to the sustainable development of the air transport system, such as reducing climate impact.
+The Single European Sky should comprise a coherent pan-European and, subject to specific arrangements with the neighbouring countries,
+third-country network of routes, an integrated operating airspace, network management and air traffic management based only on safety,
+efficiency and interoperability, for the benefit of all airspace users.
+The application of the regulation to Gibraltar airport shall be suspended until the arrangements set out in the Joint Declaration made by the
+Foreign Ministers of the Kingdom of Spain and the United Kingdom on 2 December 1987 are applied.
+National aviation authority: the amended text provides for Member States designation of a national body to act as the national aviation
+authority.
+The authorities should be legally distinct and independent, in particular in organisational, hierarchical and decision-making terms, including
+separate annual budget allocation, from any company, organisation, public or private entity or personnel falling within the scope of authority
+activity as provided for in this Regulation and in Regulation (EC) No 216/2008 or having an interest in the activities of such entities. The
+national aviation authorities shall ensure compliance with these provisions on the date of entry into force of this Regulation or at the latest by 1
+January 2017.
+Staff of the national aviation authorities shall be recruited under clear and transparent rules and criteria, which guarantee their independence.
+They should not be seconded from air navigation service providers (ANSPs) or companies under the control of ANSPs.
+As regards persons who have been in charge of strategic decisions, for more than six months, they must have no professional position or
+responsibility with any of the air navigation service providers after their term in the national aviation authority, for a period of at least 12 months
+for staff in managerial positions and at least six months for staff in non-managerial positions.
+The authority's top management shall be appointed for a fixed term of between three and seven years.
+Definitions: Members added certain definitions, such as 'local performance plans' and 'industrial partnership' supporting one or more functional
+airspace blocks, in order to maximise performance.
+The text also contained a definition of human factor meaning the social, cultural and staffing conditions in the ATM sector.
+Cooperation between national aviation authorities: the Commission and the European Agency for Aviation (EAA) should facilitate cooperation
+among the authorities them in order to enable the exchange of best practices and to develop a common approach, including through
+enhanced cooperation at regional level, by providing a platform for such exchanges. This cooperation should take place on a regular basis (at
+least once a year.)
+The tasks and objectives of the network were more clearly defined : inter alia, they may provide opinions to the Commission and the EAA on
+rule-making and certification and provide opinions, guidelines and recommendations designed to facilitate the provision of cross-border
+services.
+Certificates: the issue of certificates shall confer on air navigation service providers the possibility of offering their services to
+any Member State, other air navigation service providers, airspace users and airports within the Union and neighbouring third countries, if
+appropriate, within a functional airspace block, subject to mutual agreement between the relevant parties.
+Provision of support services: ' support services' were defined as CNS (communication, navigation and surveillance), MET (meteorological)
+and AIS (aeronautical information) services as well as other services and activities, which are linked to, and support the provision of, air
+navigation services.
+Parliament stated that there should be no statutory impediments to providers of support services that would prevent their ability to compete
+within the Union on the basis of equitable, non-discriminatory and transparent conditions for the purpose of providing these services.
+Members proposed that air navigation service providers, when drawing up their business plans, should call for offers from
+different support services providers, with a view to choosing the financially and qualitatively most beneficial provider.
+In the choice of an external provider of support services, the provisions of Directive 2004/18/EC shall be complied with, including cost and
+energy efficiency, overall service quality, interoperability and safety of services, as well as transparency of the procurement process
+The Commission shall conduct a comprehensive study on the operational, economic, safety and social impacts of the introduction of market
+
+principles to the provision of support services, and shall submit that study to the European Parliament and the Council by 1 January 2016.
+Performance criteria and system: Parliament proposed a performance review body (PRB) be established as a European economic regulator
+under the supervision of the Commission, with effect from 1 July 2015. The PRB shall be functionally and legally separate from any service
+provider, whether at national or pan-European level.
+The compliance of the local performance plans and local targets with the Union-wide performance targets shall be assessed by the
+Commission in cooperation with the PRB.
+Union-wide performance targets shall be set with a view to ensuring that each functional airspace block retains sufficient flexibility to achieve
+the best results.
+Compensation mechanism: in addition to the introduction of sanctions, an appropriate compensation mechanism must also be established in
+order to address the problem stemming from the lack of synchronisation in SESAR deployment and resulting lost investment. The Commission
+may propose financial mechanisms to improve the synchronisation of air-based and ground-based capital expenditure related to the
+deployment of SESAR technologies
+Implementation of the ATM Master Plan: implementation of the ATM Master Plan shall be coordinated by the Commission. The Network
+Manager, the PRB and the Deployment Manager shall contribute to the implementation of the ATM Master Plan in accordance with the
+provisions of the regulation.
+The Commission should adopt, by implementing acts, measures establishing the governance of implementation of the ATM Master Plan,
+including defining and selecting the body responsible at management level (Deployment Manager).
+The Deployment Manager should recommend to the Commission binding deadlines for deployment and appropriate corrective actions
+concerning delayed implementation.
+Industrial partnerships: Members stipulated that industrial partnerships should be separate from FABs, which were a state initiative. What is
+more, industrial partnerships need not overlap with FABs in terms of the Member States concerned and therefore should be classed as a
+separate type of cooperation.
+
+

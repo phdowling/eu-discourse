@@ -1,0 +1,2361 @@
+Guide
+for Joint Return Operations
+by Air coordinated by Frontex
+
+Warsaw, 12 May 2016
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Acknowledgements
+This document, coordinated by Frontex, is a result of a consulted effort with valuable contributions from Return Support
+Unit, Fundamental Rights Officer and Legal Affairs Unit of Frontex who collected, selected and edited the information and
+guidance offered herewith.
+Frontex is grateful to the participating Member States and their representatives in the network of direct contact points in
+return matters, as well as to Frontex Consultative Forum and to the Council of Europe Committee for the Prevention of
+Torture and Inhuman or Degrading Treatment or Punishment (CPT) for their essential contributions and support in the
+development of the publication.
+
+Copyright (2016) Frontex All rights reserved.
+
+The European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Plac Europejski 6, 00-844 Warsaw, Poland
+
+Tel. +48 22 205 95 001
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+© Frontex, 2016
+
+Page 2 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+CONTENT
+1. List of abbreviations
+
+6
+
+2. Terms and definitions
+
+7
+
+3. Introduction
+
+9
+
+4. Legal Framework
+4.1 Legal basis of activities coordinated by Frontex
+4.2 Obligations of Frontex
+4.3 Obligations of persons participating in Frontex coordinated activities
+
+10
+10
+11
+11
+
+5. General Rules
+5.1 Communication during the organisation of JRO
+5.2 Escorts / Escort leaders
+5.3 Back-up team
+5.4 Medical staff and interpreters
+5.5 Working language
+5.6 Coercive measures
+5.7 Information for returnees
+5.8 Seeking cooperation from returnees
+5.9 Dress code & distinction of JRO participants
+5.10 Consumption of alcoholic beverages
+5.11 Non-smoking flights
+5.12 Recording
+5.13 Monitoring
+5.14 Serious Incident Reporting
+5.15 Presence of external representatives during a JRO
+5.16 Travel & health documentation
+
+13
+13
+13
+13
+14
+15
+15
+16
+16
+16
+16
+16
+16
+17
+17
+17
+18
+
+6. Operational Procedures for JRO by Air
+
+19
+
+6.1 The pre-return phase
+6.1.1 Destination of the joint return operation
+6.1.2 Date and time of the JRO
+6.1.3 Choice of airport
+6.1.4 Total number of seats
+6.1.5 Number of seats available for PMS
+6.1.6 Selection of an aircraft
+6.1.7 Flight schedule
+6.1.8 Catering & cutlery
+6.1.9 Costs of the aircraft
+6.1.10 Luggage
+6.1.11 Local transportation expenses
+6.1.12 Means of transport and arrival time of PMS
+at an embarkation airport
+
+19
+19
+19
+19
+19
+20
+20
+21
+21
+21
+21
+22
+22
+
+Page 3 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.1.13 Offer of a joint return operation
+6.1.14 General interest & distribution of seats
+6.1.15 Concrete interest & participation and passenger list
+6.1.16 Risk assessment
+6.1.17 Fitness to travel and medical examination
+6.1.18 Information to the competent authorities
+6.1.19 Advance party
+6.1.20 Crisis focal point 24/7 and Contact list
+6.1.21 Overnight stay & accommodation
+6.1.22 Transportation to the aircraft
+6.1.23 Designated airport special areas
+6.1.24 Seating plan
+6.1.25 Meeting with airline
+6.1.26 Aircraft check
+6.1.27 Plan B
+6.1.28 Meeting with escort leaders
+6.1.29 Implementation Plan
+6.1.30 Estimated budget
+
+23
+23
+23
+23
+24
+24
+25
+25
+25
+26
+26
+26
+27
+27
+28
+28
+28
+28
+
+6.2 The pre-departure phase
+6.2.1 Checks of designated special areas
+6.2.2 Briefing of escorts
+6.2.3 Briefing of the crew and authorisation by the captain
+6.2.4 Checks
+6.2.4.1 Body search of returnees
+6.2.4.2 Luggage search
+6.2.4.3 Document check
+6.2.4.4 Check and preparation of an aircraft
+6.2.5 Personal belongings & labelling and loading of luggage
+6.2.6 Final passenger list
+6.2.7 Transportation of PMS
+6.2.8 Executive powers of escorts during transit
+6.2.9 Briefing of all relevant JRO participants
+6.2.10 Boarding process
+6.2.11 Guarding of the aircraft doors
+
+29
+29
+29
+29
+29
+29
+29
+30
+30
+30
+30
+31
+31
+31
+31
+32
+
+6.3 The in-flight phase
+6.3.1 Fulfilment of agreements
+6.3.2 The OMS’ EL
+6.3.3 Vigilance of escorts
+6.3.4 Deployment of coercive measures
+6.3.5 Movement on board
+6.3.6 Returnees’ personal belongings
+
+33
+33
+33
+33
+33
+33
+34
+
+Page 4 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.4 The arrival phase
+6.4.1 First contact with local authorities
+6.4.2 Hand-over of returnees
+6.4.3 Guarding of the aircraft doors
+6.4.4 Transport for returnees
+6.4.5 Overnight stay in a third country
+
+35
+35
+35
+35
+35
+36
+
+6.5 The return-flight phase
+6.5.1 Unaccepted returnees
+6.5.2 Headcount
+6.5.3 Debriefing
+
+37
+37
+37
+37
+
+6.6 Final Return Operation Report
+
+37
+
+Annex 1: “Fit-to-travel” form
+
+38
+
+Annex 2: Positional asphyxia
+
+39
+
+Annex 3: Restraints forbidden on joint return operations
+coordinated by Frontex
+
+43
+
+Annex 4: Examples of the List of recommended medical equipment and
+medication for a medical doctor taking part in a JRO
+
+44
+
+Page 5 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+1. List of abbreviations
+CoR
+
+Country of return
+
+EL
+
+Escort Leader
+
+EURLO
+
+European Return Liaison Officer of a Member State
+
+FJRCC
+
+Frontex Joint Return Coordination Centre
+
+FOSS
+
+Frontex One-Stop-Shop1
+https://foss.frontex.europa.eu
+
+ILO
+
+Immigration Liaison Officer of a Member State
+
+JRO
+
+Joint Return Operation
+
+MS
+
+Member State
+
+OMS
+
+Organising Member State
+
+PMS
+
+Participating Member State(s)
+
+1
+
+FOSS is accessible for registered users.
+
+Page 6 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+2. Terms and definitions
+For general terms and definitions see the Frontex Code of Conduct for Joint Return
+Operations2, the Frontex Code of Conduct3 and Council Decision 2004/573/EC.
+Specific terms, with their definitions, are listed below.
+Advance party
+
+Representative(s) of the OMS/PMS who
+travel(s) either to the country/countries of
+return or to another MS in order to make
+preparations for the realisation of a JRO.
+
+Collecting Joint Return Operation
+
+JRO initiated by an OMS, with escorts
+provided by a country of return and returnees
+handed over to them by the OMS/PMS on the
+territory of a Member State.
+
+Dynamic risk assessment
+
+An ongoing risk assessment.
+
+Embarkation airport
+
+An airport where OMS/PMS passengers
+embark on a joint return flight, not an
+airport where a connecting flight is boarded
+to reach the embarkation airport
+
+Joint Return Operation by Air
+
+An operation aimed at the removal of
+illegally present third-country nationals by
+air. The initiative for such an operation is to
+be taken by one MS, which will invite the
+participation of others.
+
+Local transportation expenses
+
+A given amount of money handed out to the
+returnee prior to arrival in the country of
+return. It is aimed at covering immediate
+expenses that the returnee may have on his
+arrival, in particular transportation from the
+airport to his/her final destination.
+
+Plan B
+
+Contingency plan(s) which should be
+prepared in case a JRO fails, or to deal with
+the refusal of a returnee(s) in a country of
+return.
+
+Rolling Operational Plan
+
+A rolling forecast for JRO drawn up by
+Frontex on the basis of Member States’ needs
+for assistance or coordination in order to
+provide the requesting Member States with
+the necessary operational support.
+
+2
+3
+
+The Code of Conduct for Joint Return Operations coordinated by Frontex adopted by the Decision of the Executive Director of 7 October 2013
+(ED Decision 2013/67)
+The Frontex Code of Conduct for all Persons Participating in Frontex Activities, adopted by Decision of the Executive Director No. 24/2011, 21
+March 2011
+
+Page 7 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Seating plan
+
+Distribution of seats on a specific type of an
+aircraft between all Member States taking
+part in a specific JRO.
+
+Transit country
+
+A country via whose airport the JRO
+passengers transit to connect to with the
+next flight.
+
+Common Guidelines
+
+Common Guidelines on security provisions for
+joint removals by air, which is annexed to
+Council Decision 2004/573/EC.
+
+Council Directive 2003/110/EC
+
+Council Directive 2003/110/EC of 25
+November 2003 on assistance in cases of
+transit for the purposes of removal by air.
+
+Return Directive
+
+Directive 2008/115/EC of the European
+Parliament and of the Council of 16
+December 2008 on common standards and
+procedures in Member States for returning
+illegally staying third-country nationals.
+
+Council Decision 2004/573/EC
+
+The Council Decision of 29 April 2004 on
+the organisation of joint flights for
+removals from the territory of two or more
+Member States of third-country nationals
+who are subjects of individual removal
+orders.
+
+Tokyo Convention
+
+The Convention on Offences and Certain
+Other Acts Committed on Board Aircraft,
+concluded in Tokyo on 14 September 1963,
+which entered into force on 4 December
+1969.
+
+Chicago Convention
+
+The Convention on International Civil
+Aviation, known as the Chicago Convention,
+signed on 7 December 1944 in Chicago. It
+established the International Civil Aviation
+Organization (ICAO), a specialised agency
+charged with coordinating and regulating
+international air travel.
+
+Page 8 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+3. Introduction
+The purpose of this document is to provide operational guidance for Frontex
+coordinated joint return operations by air in order to standardise procedures and to
+simplify the organisation of JROs. This Guide has been developed and updated4
+pursuant to Art. 2(2) of the Code of Conduct for Joint Return Operations. This
+document is a tool to provide support to the authorities responsible for the
+organisation of joint return operations.
+However, this document is not intended to replace or alter in any way Council
+Decision 2004/573/EC; this document complements such Decision by providing a
+practical, experience-based approach.
+This document does not aim at creating new legally binding obligations of Member
+States. It collects best practices relating to the performance of the duties of
+national authorities competent for carrying out return-related tasks in the
+framework of joint return operations coordinated by Frontex.
+This document also takes into account the principles contained in the specific “Best
+Practices on the Organization of Charter Flights for Illegal Immigrants’ Repatriation”
+of 2009, on the implementation of joint return operations among G8 members.
+As regards Collecting Joint Return Operations, a separate document, titled
+“Guidance for Collecting Joint Return Operations by Air coordinated by Frontex”,
+will be developed.
+In order to clarify the general responsibilities in the realisation of joint return
+operations, it should be mentioned that the Frontex Consultative Forum and the
+national authorities of the Member States responsible for organising and/or
+participating in joint return operations coordinated by Frontex have been invited to
+share their knowledge and experience for this guide. In addition, Frontex has
+coordinated the updating of this document and, on behalf of the above-mentioned
+authorities, has completed some formal aspects of this document.
+
+4
+
+The original title was “Best Practices for the Removal of Illegally Present Third-country Nationals”
+
+Page 9 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+4. Legal Framework
+4.1
+
+Legal basis of activities coordinated by Frontex
+
+Frontex was established by Council Regulation (EC) No 2007/2004 of 26 October
+20045 on the basis of the provisions of the Treaty on the Functioning of the
+European Union (TFEU) establishing an area of freedom, security and justice.6 In this
+area the free movement of persons and the abolishment of internal border control
+among EU Member States require high and uniform levels of control at the external
+borders of the EU Member States. Frontex was thus established to improve and
+facilitate that task, although the responsibility for the control and surveillance of
+the external borders lies entirely with the Member States.
+In its operational coordinated activities Frontex is subject to EU law and its
+objectives, tasks and responsibilities are formulated in the Frontex Regulation,
+which includes cooperation with regard to return.
+The legal basis of the removal of illegally present non-EU nationals has been
+enhanced by the Council Decision of 29 April 2004 (2004/573/EC) on the
+organisation of joint flights for removals from the territory of two or more Member
+States of third-country nationals who are the subjects of individual removal orders
+and the Common Guidelines on security provisions for joint removals by air, which
+is annexed to the aforementioned Decision.
+Frontex assumes that all return decisions which are executed via JROs are in
+compliance with fundamental rights, including the non-refoulement principle, and
+other provisions of EU, international and national law.
+In addition, Article 9 of the Frontex Regulation stipulates several obligations in
+return cooperation. Firstly, Frontex provides the necessary assistance and, at the
+request of the participating Member States, ensures the coordination or the
+organisation of joint return operations of Member States. Secondly, Frontex develops
+a Code of Conduct for the return of illegally present third-country nationals which
+applies during all joint return operations coordinated by the Agency. Thirdly, this
+Code in its Article 2 stipulates that technical and detailed instructions for the
+practical implementation of Frontex coordinated JROs are included in separate and
+relevant Best Practices for operations.
+Different national legislation on coercive measures lead to a variety of applications
+during JROs. Frontex highlights the necessity and proportionality principles with
+regard to the use of coercive measures.
+
+5
+6
+
+Council Regulation (EC) No 2007/2004 of 26 October 2004, published in OJ L 349, 25.11.2004, as last amended
+Articles 74 and 77 (2) (b) and (d) of the Treaty on the Functioning of the European Union (TFEU).
+
+Page 10 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+4.2
+
+Obligations of Frontex
+
+Frontex is required to carry out its tasks in full compliance with relevant EU law,
+including the Charter of Fundamental Rights of the European Union (the Charter),
+relevant international law, including the Convention Relating to the Status of
+Refugees approved at Geneva on 28 July 1951, obligations related to access to
+international protection, in particular the principle of non-refoulement, and
+fundamental rights. Frontex further takes into account the advice of the Frontex
+Consultative Forum, as referred to in Article 26a of the Frontex Regulation.
+The Frontex Regulation requires Frontex to put in place an effective mechanism to
+monitor the respect for fundamental rights in all of its coordinated activities. The
+Frontex Fundamental Rights Officer monitors and reports on a regular basis and as
+such contributes to the monitoring mechanism.
+During JRO coordination the Agency must assure return is carried out in a humane
+manner and with full respect for Fundamental Rights as enshrined in the Charter and
+any other relevant international instruments, as stated in Article 4 of the Code of
+Conduct for Joint Return Operations.
+Furthermore, Frontex has the obligation to interrupt or terminate its operational
+activity in the event of serious or persistent violations of fundamental rights or
+international protection obligations.
+If an alleged violation is committed by a person assigned by a Member State, Frontex
+communicates information regarding this allegation to the competent national
+authority concerned, which provides an effective and independent investigation. The
+authorities of the MS are expected to inform Frontex of the conduct and results of
+such investigation. Frontex’s Executive Director may request information on the
+conduct and results of the investigation and may decide to inform the Management
+Board accordingly. The returnee may request information and should be informed of
+the measures taken and his/her possible right to compensation.7
+4.3
+
+Obligations of persons participating in Frontex coordinated activities
+
+All persons participating in activities coordinated by Frontex, including joint return
+operations, have to carry out their tasks with respect for human dignity and
+fundamental rights, to meet the obligations imposed upon them by the provisions of
+the Frontex Code of Conduct and the Frontex Code of Conduct for Joint Return
+Operations and are required to comply with the rules of their mandates.
+The Frontex Code of Conduct sets out principles and rules which guide the conduct
+of all persons participating in Frontex activities, namely Frontex staff, officers of
+border guard services of a Member State and other staff performing any actions. It
+aims to guarantee the principles of the rule of law and the respect for, and
+protection, fulfilment and promotion of, fundamental rights, with a particular focus
+on accompanied and unaccompanied minors and other vulnerable persons, as well as
+7
+
+Article 17 of the Code of Conduct for JRO
+
+Page 11 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+on persons seeking international protection, including the obligation of referral to
+national authorities competent for receiving asylum requests.
+This code is complemented by the Code of Conduct for JROs, which sets out common
+principles and the main procedures to be observed during joint return operations
+coordinated by Frontex. This code addresses specific issues and situations that may
+occur during joint return operations. Each Implementation Plan drawn up and
+distributed by Frontex prior to each JRO contains links to both the aforementioned
+codes. These codes are available on the Frontex One-Stop-Shop information platform
+and on Frontex’s website.
+All persons involved in activities coordinated by Frontex are required to maintain the
+highest standards of integrity, ethical conduct, professionalism and respect for
+fundamental rights. While taking part in activities coordinated by Frontex they are
+required to comply with European law, international law, Fundamental Rights and
+the national law of the organising Member State or the transit country. Furthermore,
+the Member State of each relevant JRO participant must provide appropriate
+disciplinary, criminal or other measures in accordance with its national law in cases
+of violation of applicable national and international legal provisions in the course of
+an operational activity.
+All persons involved in activities coordinated by Frontex must avoid any kind of
+discrimination. They are expected to treat every person with courtesy, respect and
+due consideration for the nature of any legitimate activity in which they are
+engaged.
+The specific needs of vulnerable groups, such as minors, persons with disabilities,
+elderly people, pregnant women, single parents with minor children and persons
+who have been subject to torture, rape or other serious forms of psychological,
+physical or sexual violence, as well as persons with a serious health condition,
+mental disabilities or any other vulnerabilities, as defined in the EU acquis, should
+be taken into account and particularly observed during all the phases of the
+operation.
+All persons participating in Frontex coordinated activities are required to report any
+incidents involving suspected or alleged violations of fundamental rights or the
+Frontex Codes of Conduct via the appropriate reporting channel, for example via the
+Frontex Serious Incident Reporting system. They should receive in advance
+appropriate training (including on fundamental rights) provided by national
+authorities responsible for their deployment or by Frontex.
+Moreover, all tasks and objectives must be performed in full compliance with
+international law, i.e. the Tokyo Convention and the Chicago Convention.
+
+Page 12 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+5. General Rules
+5.1 Communication during the organisation of JRO
+Information exchange is a precondition for successful cooperation. For this reason,
+the communication8 between the OMS, the PMS and Frontex is organised via the
+FJRCC (fjrcc@frontex.europa.eu) and the standardised templates stored in the FOSS9
+are to be used.
+Operational communication, related to the specific operation, with the country of
+return is made directly by the OMS.
+5.2 Escorts / Escort Leaders
+Escorts from both the OMS and the PMS should be carefully selected. JRO can be
+carried out with escorts who are police/immigration officers or private companies’
+staff, for whose actions the responsibility remains with the MS. In all cases the
+escorts should be adequately trained for the activity in physical techniques and in
+accordance with fundamental rights, international and national law, and relevant
+Frontex standards (national multiplier training for escorts).
+All escorts participating in a JRO should be informed of their specific task/role via a
+briefing by their escort leader.
+Escorting to the embarkation airport and during the pre-departure phase may be
+carried out by the same officers who subsequently carry out the escorting on board
+or by other officers.
+The number of escorts should be determined by an appropriate security risk
+assessment by each MS taking part in a JRO and in consultation, if necessary, with
+Frontex, the OMS and the relevant PMS. The gender and age of the returnees, as
+well as experience and communication skills (both interpersonal and language skills),
+of the escorts should be taken into account when appointing the escorts for an
+operation.
+Each MS should nominate an EL responsible for the whole team. It is highly
+recommended that these leaders have attended Frontex’s standardised training for
+JRO escort leaders.
+5.3 Back-up team
+An appropriate back-up team of escorts (depending on the circumstances involved),
+with a high level of control and restraint techniques and knowledge of English,
+should be provided by the OMS. The gender and age of the returnees should be also
+taken into consideration when designating the back-up team. Such a team provides
+assistance to all of the escorts (those from the OMS and the PMS) during the
+following phases of the operation, in particular during emergencies:
+ The pre-departure phase on the OMS territory including
+- Transport from the place of arrival to a waiting area and or to the main
+charter
+8
+9
+
+The communication includes in particular offer of the operation, Member States’ interest in participation, a number of returnees, escorts and
+their updates, information on embarkation places, means of connecting transport, time schedules, overnight stays, etc.
+A web-based and secure portal designed to provide situational awareness and to share operational-related information. Close-to-real-time
+and up-to-date information is available to multiple users, simultaneously.
+
+Page 13 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+- Support in the transit zone (especially in any smoking area and toilets)
+- Embarkation procedure
+ The in-flight phase (e.g. movements on board, access to toilets)
+ The disembarkation phase
+ The return-flight phase, in the event that that some returnee(s) are not
+accepted by the country of return
+Members of the back-up team should provide assistance
+ Upon an order from the OMS’ escort leader
+ Upon the request of the PMS’ escort leader
+ Upon own initiative (if immediate assistance is required)
+During embarkation in one of the PMS, that PMS should have ground staff assisting
+other PMS boarding as follows:
+ Transport to the main charter
+ Embarkation procedure
+The PMS may also provide their own back-up team if deemed necessary, in particular
+during the (joint) connecting transport to the embarkation airport.
+5.4 Medical staff and interpreters
+The OMS provides appropriate medical staff during the whole operation (the predeparture phase, ground procedures on the OMS’ territory, and the in-flight and
+return-flight phases). The relevant PMS arranges for the presence of medical staff on
+the ground during the pre-departure phase when embarkation of any other PMS
+takes place on its territory.
+At least one medical doctor should be present during a JRO.
+The OMS must consider the need to have an interpreter on board to help the medical
+staff and escorts communicate with returnees.
+PMS may bring their own interpreter(s) and/or medical staff during the connecting
+transport and also during the joint return flight, if they consider that necessary.
+However, they should seek the prior agreement of the OMS to provide their own
+medical staff and/or interpreter.
+The administration of medication to the returnees should be based on a medical
+check by and the decision of the medical staff and takes place with the consent of
+the returnee, except in emergency medical situations. During the JRO medication
+should not be within the returnees’ direct reach.
+The relevant MS ensures that the necessary amount of medication prescribed is
+available for returnees who are under medical treatment. Moreover, the MS should
+consider the possibility of providing an advance supply of medication (e.g. for
+several weeks) in order to prevent any interruption of treatment in the country of
+return (please see 6.2.4.2. with regard to the need to leave behind in a MS any
+medicines prohibited in a CoR).
+
+Page 14 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+5.5 Working language
+During joint return operations coordinated by Frontex the working language is
+English and at least the escort leaders are required to have adequate knowledge of
+the English language. This is to facilitate quick and efficient communication
+between different stakeholders.
+5.6 Coercive measures
+JRO participants must respect the principles of strict necessity, proportionality, and
+respect for the dignity of the returnee, as well as the right to physical integrity and
+the prohibition on inhuman or degrading treatment or torture in relation to all
+aspects of the use of force in JROs, and not only to measures of restraint.
+A list of authorised restraints and equipment permitted during the JRO is decided by
+the OMS together with Frontex in accordance with its national legislation,
+international law and EU law, in particular the Charter of Fundamental Rights and
+communicated by the OMS in a standardised form: “Offer of Joint Return Operation
+by Air – Information Sheet”. It is then included by Frontex in the Implementation
+Plan for each specific JRO. However, no PMS should use coercive measures that its
+legislation does not allow, even if those measures are accepted by the OMS for that
+particular operation.
+The use of force is always a last resort and must be the minimum level required to
+achieve the legitimate objective. The use of force must be reasonable and necessary
+in the circumstances and proportional to the assessed risk of harm. Every case has to
+be assessed individually.
+Returnees must not be physically assaulted or threatened to force them to board a
+means of transport or as a punishment for not having done so.
+The use of coercive measures must not be systematic and must be justified in each
+case by an individual dynamic risk assessment.
+The relevant EL periodically reviews the continuing necessity and proportionality of
+deploying coercive measures, and particularly of applying means of restraint, when
+these are used for prolonged periods, based on a dynamic risk assessment.
+In the event of a flight emergency, while the plane is airborne the rescue of
+returnees must not be impeded. Any means restricting the freedom of their
+movement must be removed.
+The use of coercive measures takes appropriate account of the individual
+circumstances of each person, such as their vulnerable condition (e.g. children if
+present in a JRO with their families, persons with physical or mental disabilities,
+etc).
+The use of sedatives to facilitate a removal is forbidden, without prejudice to
+emergency measures to ensure flight security.
+Weapons are prohibited.
+
+Page 15 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+When using handcuffs, handcuffing returnees behind the back during transportation
+should be prohibited, given the potential for discomfort to the person concerned and
+the risk of injury in case of accident.
+Bringing a returnee into a position preventing him/her from breathing adequately
+may cause positional asphyxia (see Annex 2) and must not be used.
+5.7 Information for returnees
+The competent persons should communicate with returnees in a language they can
+understand, in a calm, clear and detailed manner, ask them for cooperation and try
+to put them at ease. No later than at the point of collecting returnees from their
+place of stay (e.g. a detention centre) the competent person from the OMS and PMS
+explains orally or in writing to the returnee the removal procedure (e.g. reason,
+phases of travel and procedures, the necessity for body and luggage searches, the
+possibility of using coercive measures when deemed necessary, etc) and answers
+their questions.
+5.8 Seeking cooperation from returnees
+In order to avoid or minimise as much as possible the use of force, the escorts
+designated to each returnee must seek their cooperation. The escorts must treat the
+returnees with respect. They should keep the returnees informed, maintain
+communication and answer their questions.
+5.9 Dress code & distinction of JRO participants
+The dress code for JRO participants during the operation depends on their tasks,
+each MS’ national rules, the JRO duration and circumstances. Smart casual dress is
+preferable for the OMS’ EL and the PMS’ ELs. When wearing a necktie, the one with
+a Velcro closure is recommended. Uniforms or military-style clothes are not
+permitted on board the aircraft.
+The JRO participants should be identifiable and fully distinguishable from returnees.
+To this end, official vests with “national logo” in clear letters, armbands, badges or
+some other distinguishing signs are required to be worn on duty; vests are
+preferable, as they are easily recognisable. They will not be worn if disembarking
+from the aircraft in the country of return, unless required during the hand-over
+procedure.
+5.10 Consumption of alcoholic beverages
+The consumption of alcoholic beverages is not allowed during the entire joint return
+operation coordinated by Frontex. Catering must exclude alcoholic beverages. The
+airline must be informed about this policy (see 6.1.25).
+5.11 Non-smoking flights
+Both legs of any joint return flight coordinated by Frontex are non-smoking flights.
+5.12 Recording
+Any kind of recording during all JRO phases is forbidden, unless specifically agreed
+with the OMS, the PMS, Frontex and the company operating the means of transport,
+and carried out in compliance with applicable data protection legislation.
+
+Page 16 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+5.13 Monitoring
+Frontex strongly encourages the OMS as well as the PMS to organise the presence of
+a monitor, as set forth in Article 8 (6) of the Return Directive, during all JRO phases.
+As the OMS monitoring is sometimes limited to the pre-departure phase, and in order
+to ensure the entire flight is monitored, Frontex actively recommends the PMS to
+also provide a monitor.
+The Frontex Fundamental Rights Officer has the mandate to monitor any JRO as part
+of the overall support to the Frontex monitoring system of fundamental rights, and
+the FJRCC notifies the Frontex FRO as soon as possible of each JRO that is likely not
+to be monitored. In any event, FRO monitoring activities do not replace the MS’
+obligation to monitor forced return operations.
+The OMS and each PMS advise FJRCC whether a monitor(s) is/are planned or not,
+using standardised forms, i.e. “Offer of Joint Return Operation-Information Sheet”
+in the case of OMS and “General interest-Email” and “Participation in Offered Joint
+Return Operation-Concrete Interest” in the case of each PMS.
+The participation of more than one monitor from the same MS is possible, to support
+national monitors’ training and experience. However, this has to be agreed in
+advance with Frontex and the OMS.
+The monitoring of a JRO aims at gathering information and observing whether a JRO
+is conducted in compliance with fundamental rights, paying specific attention to the
+treatment of vulnerable persons.
+Monitors must be allowed the freedom to carry out their monitoring function; they
+may inform relevant officials of any perceived irregularities, but they may not
+interfere with the JRO procedures. They must have access to all relevant and up-todate information concerning the JRO prior to the implementation day of the
+operation and during the operation, including information on the current mental and
+physical state of the returnees, except for confidential medical documentation,
+which is only to be shared between medical personnel. Monitors may observe the
+briefings, take part in the debriefing and provide a brief account of the main
+findings.
+A Frontex representative is also on board to observe that the operation is performed
+in line with EU standards.
+5.14 Serious Incident Reporting
+Any incident of a sensitive or public interest nature, including any fundamental
+rights violation, as defined in the JRO Implementation Plan, which occurs during the
+course of an operation has to be reported according to the instructions described in
+the plan. Frontex can adapt future JRO after evaluating these reports, therefore it is
+crucial to ensure reporting of incidents.
+5.15 Presence of external representatives during a JRO
+The OMS informs the PMS and Frontex, via the FJRCC when external representatives
+(e.g. from embassies / ministries / international organisations / NGOs) intend to be
+present during a joint return operation.
+
+Page 17 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+When external representatives from a PMS intend to be present during a JRO, the
+PMS should obtain the prior agreement of the OMS and Frontex.
+The OMS or a PMS, as appropriate, should notify Frontex as soon as possible
+whenever they receive a request to participate in a JRO from external
+representatives and provide a justification for the requested participation.
+5.16 Travel & health documentation
+Each MS (OMS/PMS) is responsible for obtaining appropriate documents for its
+returnees (e.g. national passport, emergency travel certificate, EU-letter).
+In addition, each MS must provide any additional documentation to speed up the
+hand-over procedure, e.g. fingerprints, forms required by a country of return.
+Each MS is also responsible for the documentation of its JRO participants; they all
+must have the required travel and health documentation (e.g. valid passport/visa/
+vaccination certificate) and be made aware of entry restrictions that may potentially
+affect them.
+Both the OMS and the PMS should check if any vaccination is required by the country
+of return as an entry condition, e.g. in case of a planned overnight stay. It is
+recommended that JRO participants are vaccinated in case of an unexpected
+overnight stay in a third country. The OMS and the PMS are responsible for the
+health-care of their own JRO participants.
+
+Page 18 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6. Operational Procedures for JRO by Air
+6.1 The pre-return phase
+6.1.1 Destination of the joint return operation
+The OMS should select and specify the country/countries of return of the JRO
+according to:
+ its own needs, i.e. the presence of irregular migrants of a given nationality;
+ acceptance of the flight and conditions applied by third country/countries;
+ return needs of other MS expressed via the Rolling Operational Plan.10
+It is preferable to have only one country of return. No more than two countries
+should ever be considered. They should be as near to each other as possible, or
+along the most direct flight route, and they should be approached at an appropriate
+time in advance of the JRO. Special arrangements, such as two simultaneous flights
+to different destinations with a common stopover, must be agreed with Frontex.
+The planned routing, including an overnight stay, must be agreed with Frontex too.
+6.1.2 Date and time of JRO
+When choosing a date and time for a JRO the OMS should:
+ take account of public holidays and/or other national, political, security
+related, cultural and religious circumstances in the country of return;
+ take account of serious public health circumstances;
+ have the acceptance of the country of return for a given date and time;
+ take into account the journey(s) for the PMS to transfer returnees to the
+embarkation airport;
+ check with the Frontex database whether any other MS plans a return flight to
+the same country of return in the intended period.
+6.1.3 Choice of airport
+The embarkation airport must be an international one. The operational hours of the
+airport must be taken into consideration.
+The airport must have sufficient ground staff available, along with the possibility of
+arranging an operational area without public access, in the event that is needed.
+The choice of the arrival airport is decided by the OMS in cooperation with the
+competent authorities of the country of return.
+6.1.4 Total number of seats
+This depends on actual needs (number of returnees from the chosen
+country/countries of return, number of escorts) and on possible restrictions on a
+number of returnees by the country/countries of return. The OMS decides on the
+total number of returnees to be removed on any one flight.
+
+See more: Article 9 (1c) Frontex Regulation & Management Board Decision No 21/2012 of 27 September 2012 adopting the content and the
+modus operandi of the rolling operational plan for Joint Return Operations
+10
+
+Page 19 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+In addition, the OMS must make provision for seats for medical staff, interpreters,
+monitors and Frontex’ representatives. The seats for observers and external
+representatives should be also considered.
+6.1.5 Number of seats available for PMS
+During a JRO coordinated by Frontex the OMS is entitled to occupy up to 50% of the
+available seats. The OMS decides the number of seats it needs and advises all or
+selected MS of the number of seats available for use by their escorts and returnees
+(using the standard form “Offer of Joint Return Operation by Air - Information
+Sheet” to be found in the FOSS, see point 6.1.13).
+6.1.6 Selection of an aircraft
+In order to select an aircraft the OMS will contact a broker, or make a direct
+approach to an airline, depending on national administrative procedures.
+The aircraft must be EU registered and should comply with the operational needs.
+The country of return, number of seats needed, security measures, costs, safety
+requirements and conditions, etc are factors to be considered during the selection of
+the aircraft/airline.
+The use of two staircases, closed on the sides and covered by a roof for security
+reasons, in the front and rear parts of the aircraft is recommended to facilitate
+boarding procedure in a safe manner.
+Double aisles are preferable for long flights and operations with high numbers of
+passengers.
+The space between the seating rows should be according to international standards
+and allow comfortable seating, particularly during long flights. It is preferred that a
+seat pitch distance between two seat rows is 32 inches or more, but it should not be
+less than 30 inches.
+The extreme sensitivity of JRO makes it advisable to select airline with a reliable
+history. It is recommended that an airline and preferably also a crew with previous
+experience of either carrying out return operations or flying to the specific country
+of return is selected whenever possible.
+The OMS should ensure a guaranteed response time in case the aircraft becomes
+unavailable or develops a technical fault at any time prior to the scheduled
+departure or during the flight is included in the contract. The OMS should also obtain
+a further guarantee of a replacement aircraft within the shortest timescale possible,
+preferably within a maximum of:
+ 12 hours if the incident is at a third country’s airport.
+ 6 hours if the incident is at an EU airport.
+For any JRO with two CoR and refuelling at the airport of the first CoR, the OMS
+should include a special clause in an agreement between the airline and the
+refuelling company requesting refuelling with passengers remaining on board.
+
+Page 20 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.1.7 Flight schedule
+This should be prepared by the airline following the OMS’ instructions and will be
+based on such factors as the departure point of the charter or the airport in the
+country of return and time, number of collection points, need for technical
+stopovers (for refuelling and/or crew changing), etc.
+6.1.8 Catering & cutlery
+The type of catering has to be agreed with the airline. Finger food (cold or warm),
+but of a high quality, is recommended during the flight to the country of return. No
+distinction may be made between the food served to JRO participants and returnees.
+However, cultural and religious considerations should be taken into account, as well
+as the presence of babies or young children on board. Hot food is not excluded,
+subject to the OMS’ national rules. During the return leg it is highly recommended to
+serve hot meals.
+Due consideration should be paid to the quantity and quality of catering served
+during both legs of the flight. The length of the operation has to be taken into
+account, as well as the fact that some contingents undertake a long journey before
+reaching the place of embarkation.
+Catering should be arranged for all the passengers in the waiting area(s) prior to the
+embarkation if the flight’s departure is significantly delayed, e.g. when an aircraft
+experiences technical problems, either in the OMS or in one of the PMS during the
+stopover.
+If cutlery is provided during the flight to the country of return, it should be plastic
+and without a knife and a fork.
+When possible, it is recommended that crew members hand over food and drinks to
+returnees via escorts in order to avoid direct contact with the returnees.
+6.1.9 Costs of the aircraft
+Frontex decides on the operations to be financed from its budget and on the
+conditions for any JRO.
+Frontex reserves the right to finance only the OMS or only the PMS, or to finance
+only some of the eligible costs, as well as to request the OMS to provide a price
+comparison for various aircraft types or flight routes in accordance with the
+principle of sound financial management.
+6.1.10 Luggage
+The weight of luggage allowed per returnee should not normally exceed 30 kg. MS
+need to be aware that airlines require information on the number of pieces of
+luggage and, if possible, the total weight, because it affects the seating on board in
+connection with the number of passengers. Member States, according to their
+national rules and procedures, can send the rest of returnees’ luggage later.
+It is recommended that one escort, preferably from the OMS back-up team, is
+assigned to deal with luggage handling.
+
+Page 21 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+The returnees’ luggage is not to be treated as hand luggage, but should be stored in
+the aircraft hold. Sealable firm bags are required to carry returnees’ belongings.
+Luggage stored in the aircraft hold needs to be clearly labelled with a name tag.
+When more than one destination is involved, luggage to different destinations should
+be marked with different colours, e.g. the flag of the country of return, and/or a
+flight tag-with an IATA code. The airline should be advised to use different
+compartments for different destinations.
+JRO participants usually take little luggage or no hold luggage. In the event that
+their luggage is stored in the aircraft hold, it should be marked with a different
+colour, blue being recommended.
+The PMS should inform the OMS if there is an exceptional situation regarding
+luggage.
+6.1.11 Local transportation expenses
+Both the OMS and the PMS should plan the handing out the allowance for local
+transportation expenses in line with their national law/policy.
+It may be the case that some MS provide such an allowance, while others do not. To
+avoid potential disruption, PMS should agree arrangements in advance.
+Consideration should be given to the distribution of any allowance immediately prior
+to the commencement of the operation.
+6.1.12 Means of transport and arrival time of the PMS at an embarkation airport
+The PMS must inform the OMS via Frontex of the time of arrival, and the means of
+transport to the embarkation airport, etc, using the standardised form “Participation
+in Offered Joint Return Operation by Air-Concrete Interest”.
+The PMS should aim to bring their returnees to the embarkation airport before the
+departure of the joint return flight according to the instructions provided either by
+OMS in the standardised FOSS form “Offer of Joint Return Operation by Air Information Sheet” or bilaterally by another PMS when embarkation there is
+planned, unless agreed otherwise.
+If a PMS has no option but to bring their returnees to the OMS or another PMS earlier
+than instructed, because of a lack of timely connecting transport, the PMS
+concerned will ask the OMS or another PMS, in writing, to issue a specific transit
+authorisation in accordance with Articles 4 and 5(3) of Council Directive
+2003/110/EC, in order to be provided with appropriate assistance with
+accommodating and guarding returnee(s), e.g. in a transit area, separate premises,
+a detention centre. The PMS should send additional escorts to guard returnee(s).
+The PMS must notify the OMS and Frontex of the time and method of arrival at the
+embarkation airport.
+
+Page 22 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.1.13 Offer of a joint return operation
+As soon as all preparatory steps are in place, the OMS is required to provide Frontex
+with an offer using the standardised form “Offer of Joint Return Operation by Air Information Sheet” to be found in the FOSS, with deadlines for MS to express
+general and concrete interest in the JRO. Frontex will forward the Offer to other MS.
+6.1.14 General interest & distribution of seats
+All MS interested in a JRO are required to send their responses to Frontex, within the
+deadline set by the OMS, using the standard form “General interest-Email”. Frontex
+informs the OMS accordingly. Frontex also gathers the PMS’ requests and, after the
+deadline for general interest, Frontex reviews them and shares the number of seats
+amongst the PMS.
+6.1.15 Concrete interest & participation and passenger list
+The PMS should report their concrete interest to the OMS and Frontex within the
+deadline by providing:
+ the standardised form “Participation in Offered Joint Return Operation by AirConcrete Interest”, which includes general information about returnees (total
+number, nationality, numbers of non-compliant cases and medical cases) and
+JRO participants, connecting transport, embarkation airport, contact persons,
+escort leader, etc); and
+ annex “Passenger List in Offered Joint Return Operation”11 (more details
+regarding the JRO passengers).
+Frontex, together with the OMS, plans the carrying out of the operation according to
+the information received.
+In the event of cancellations, Frontex, at short notice, informs the OMS and each
+PMS about free seats in order to give them a chance to increase the numbers of
+returnees, making the operation as efficient and cost effective as possible.
+The OMS must prepare and forward at least two different types of lists of all
+passengers, both from the OMS and the PMS.
+One list is sent to the airline and includes names, surnames and dates of birth. The
+second list is for the internal use by the OMS. The PMS should provide the
+information in the relevant FOSS form “Annex to Participation in Offered Joint
+Return Operation Concrete Interest”.
+For handover in a country of return the OMS is required to prepare a list containing
+the personal data of returnees only. This list includes returnees of the OMS and all
+PMS.
+6.1.16 Risk assessment
+The OMS and each PMS carry out an individual risk assessment of their returnees
+(based on factors such as previous behaviour and removal history). Such assessment
+should be used to determine the number of escorts and ground staff and the size of
+the back-up team in order to ensure security during all the JRO phases, as well as
+for the determination of the possible use of coercive measures.
+11
+
+To be filled in by a country interested in participation in an offered return flight.
+
+Page 23 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+The risk assessment of returnees must be provided by the PMS in the format
+specified in the FOSS form “Participants List in Offered Joint Return Operation”.
+Any changes to the risk assessment must be communicated by the PMS to the OMS
+and Frontex as soon as possible.
+Each PMS informs the MS which has offered embarkation on its territory, in advance,
+about any special requirements concerning returnees, e.g. any need to provide a
+wheelchair and/or a baby carriage at the airport, etc.
+6.1.17 Fitness to travel and medical examination
+The OMS and each PMS must ensure that all returnees are in an appropriate state of
+health to travel. The returnees are to be removed only as long as they are “fit-totravel” at the time of the JRO.
+The OMS’ medical doctor on board must be informed by the PMS’ medical doctor as
+soon as possible prior to a joint return flight about any pre-existing medical
+condition affecting a returnee and/or medical treatment required. Only medical
+staff have access to the medical information of returnees.
+In such cases the PMS must send the required information using the “fit-to-travel”
+form (for the recommended template, see Annex 1). The form must be issued by a
+medical doctor and be transmitted from the PMS’ medical staff to the OMS’ medical
+staff.
+After an evaluation, by the medical personnel available, of those individual(s) from a
+PMS whom the OMS considers are not “fit-to-travel”, their participation in a joint
+return operation coordinated by Frontex must be refused if their unfitness to travel
+is confirmed. If there is any doubt, the returnee(s) should not be accepted on the
+flight; it is the PMS that should document the fitness to travel.
+The processing of medical information must be carried out in line with applicable
+and relevant personal data protection legislation.
+6.1.18 Information to the competent authorities
+After receiving all replies from the PMS, the OMS is required to inform its own
+diplomatic mission in the transit country (when applicable) and country/countries of
+return as well as the diplomatic mission of the country/countries of return
+responsible for the OMS’ territory, of the following issues: the number and names of
+PMS, the flight schedule, and the number of returnees and escorts. The OMS should
+also notify EURLO/its own ILO in the country/countries of return or transit.
+Each PMS is required to inform the competent authorities in the country/countries of
+return or/and the relevant diplomatic post of the country/countries of return in the
+stipulated term in advance about the return of their citizens who are being removed
+from the national territory of MS according with the EU or bilateral readmission
+agreements and existing practice. They should also inform their own diplomatic
+representations/ILO/EURLO in country/countries of return.
+The OMS and the PMS should at this stage request any necessary diplomatic
+assistance at the airport of arrival, as well as information/support in the event that
+an overnight stay in the country of return is necessary.
+
+Page 24 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.1.19 Advance party
+The deployment of an advance party, travelling either to the country/countries of
+return or to another MS, may help to finalise details and enhance the potential for
+the operation to succeed. An advance party should consist of no more than three
+people.
+An advance party organised to go to the country/countries of return should arrive a
+few days before the flight, in order to meet the competent authorities in the
+country/countries of return, provide information about the returnees and agree the
+details of disembarkation/processing by the competent authorities on arrival.
+The members of the advance party de facto become the contact persons for the
+foreign authorities in case of problems with the returnees and the joint return flight.
+The OMS should provide information about all the returnees to the advance party
+(e.g. personal data and information about travel documents). The OMS and the
+advance party stay in close contact with each other and regularly exchange updates
+on the developments of the JRO organisation.
+A delegate or delegates from the PMS may form part of the advance party, if
+required. Frontex reserves the right to take part in an advance party.
+An advance party to another MS is usually arranged by the OMS in a case that the
+main charter starts from the PMS. The purpose for that is to ensure the appropriate
+security check of the aircraft, briefing with the crew and direct communication with
+the relevant PMS.
+6.1.20 Crisis focal point 24/7 and Contact list
+Both the OMS and each PMS must nominate a person responsible for the preparation
+of the operation, and/or a crisis focal point to be contacted round-the-clock in order
+to contribute to solving possible technical/operative needs which might arise during
+the operation.
+The PMS informs the OMS and Frontex of their nomination(s).
+The OMS and the PMS provide Frontex with a list of their relevant contacts (phone
+numbers and email addresses), also in a country of return and any transit country, in
+particular EL, crisis focal points, medical doctors, monitors, ILO, EURLO, hotels,
+handling agents, etc.
+Frontex compiles a list of all the provided contact details, including the Frontex
+representatives dealing with the concrete JRO. Frontex distributes the list, together
+with the Implementation Plan, to all relevant stakeholders.
+6.1.21 Overnight stay & accommodation
+Where an overnight stay either in the country of return or the transit country is
+required, the OMS and each PMS are responsible for arranging their own
+accommodation. However, the OMS can offer the PMS assistance with finding, or
+advice on, suitable accommodation.
+When the OMS arranges accommodation for any other MS, the PMS should inform the
+OMS of the number and type of rooms they will need, copying the FJRCC. Afterwards
+the PMS should be informed by the OMS, prior to the implementation day of the
+
+Page 25 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+operation, about the hotel, e.g. contact details, location, method of payment, etc,
+and also about arrangements concerning airport-hotel-airport transportation.
+It is recommended that the whole operation is conducted so as to avoid overnight
+stays outside the territory of Europe; however, where that is unavoidable, it is
+preferable for all JRO participants to stay in one hotel.
+If any PMS arranges accommodation and/or transport on its own, it communicates all
+the relevant information listed above to Frontex and the OMS.
+Where several hotels arranged by the OMS have to be used, lists of those staying in
+the respective hotels should be prepared in advance. A responsible person should be
+nominated for each hotel group.
+National groups should not be divided unless there is no alternative. In this case, a
+responsible person should be also nominated for each group.
+6.1.22 Transportation to the aircraft
+A MS offering embarkation to any other MS on its territory arranges vehicles for the
+transport of all returnees and JRO participants.
+Such transport might be arranged either from any special operational / waiting area,
+directly from detention centres or from a plane to another one.
+6.1.23 Designated airport special areas
+These areas may be required based on the needs of both the OMS and the PMS.
+The MS arranges a secure waiting area at the airport if the JRO participants and
+returnees have to wait at the airport for a period of time before the departure of
+the flight.
+Such area should include space to facilitate checks, medical examination, toilets, a
+smoking area, catering, meetings, etc.
+Sufficient privacy within the secure waiting area to proceed with fitting body cuffs,
+other means of restraint, or to separate out any returnee who has put up physical
+objections to his/her removal is recommendable, in case these are the identified
+means based on the principles of necessity and proportionality.
+It is highly recommended to provide a separate area for families with children and
+people with special needs.
+6.1.24 Seating plan
+In designing a seating plan for the main charter, the OMS should first request the
+aircraft layout from the airline. The OMS should then be conscious of the following
+guidelines:
+ Seats for all JRO participants and returnees should be clearly marked (e.g.
+different colours, flags, countries codes, etc) in the seating plan.
+ No returnees should be placed next to emergency exits, the cockpit and/or
+aircraft equipment.
+ The returnees who pose high security risks should be placed at the rear of the
+aircraft.
+
+Page 26 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Those who need special health care can be isolated in a separate area, e.g. in
+the first rows of seats that are allocated for the returnees.
+One (or more, depending on the aircraft) of the toilets should be designated
+and labelled for the sole use of returnees. For security reasons the crew
+should not use the same toilet as returnees. Some aircrafts are big enough to
+reserve a toilet cabin for the sole use of the crew.
+The aircraft should be divided into different national sectors, separated, if
+possible, by one free row.
+Specific area(s), usually at the front of the aircraft should be reserved for
+ELs, official representatives, medical personnel, etc. Two or three adjoining
+seats, where a doctor is placed, should be reserved for medical consultations.
+In order to allow monitors to exercise their duties in line with their mandate,
+they should have good visibility of the returnees from their seats.
+It is recommended that two seats are reserved for the ELs, one in front, with
+the OMS’ EL, and one within his/her national area.
+If there is a back-up team, it should be spread out on board the aircraft e.g.
+between the rows for the OMS’ EL, external representatives, etc, and the first
+section for returnees at the front of the aircraft, in the middle and at the rear
+of the aircraft. The seats for the back-up team should be clearly indicated on
+the seating plan.
+Consideration should be given to families with children (families should not be
+separated on board), people in need of special care, etc.
+Consideration should be given to reserving some seats for the crew to rest
+during long flights; if so, this should be taken into account when designing the
+seating plan.
+Before boarding the proposed seat plan must be coordinated with the captain
+of the aircraft. Requirements for weight distribution and aircraft trim might
+require changes, especially if only a part of the seat capacity is used.
+
+Each EL is provided with one copy of the seating plan.
+6.1.25 Meeting with the airline
+The OMS needs to have a meeting with the airline at this pre-return phase,
+especially if the airline has no previous experience in this type of operation. The
+company should be briefed about the confidentiality of the JRO, in-flight and returnflight procedures, such as the catering (meals, food customs related to the
+returnees’ religion, beverages, including policy on alcoholic drinks), schedule, rules
+concerning contact with returnees, movements on board, the seating plan, onboard
+entertainment (music, films), etc.
+It is recommended that the airline should be asked to provide an experienced and
+cooperative crew.
+6.1.26 Aircraft check
+The OMS should identify in advance the staff responsible for carrying out an aircraft
+security check prior to the commencement of the operation.
+
+Page 27 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.1.27 Plan B (failure to return a person in the event of, for example, an overnight
+stay)
+The OMS and the PMS must have in place contingency arrangements (a “Plan B”) in
+the event that one or more returnees are refused entry to the country of return by
+the relevant local authorities.
+In such circumstances, the relevant MS assumes responsibility for the transport of its
+own returnees to its territory (see point 6 of the Common Guidelines).
+Taking into account the JRO flight schedule, each MS should check in advance:
+ the availability of commercial flights for the returnee and the escorts,
+departing either directly from the CoR or after the return leg from the MS of
+arrival (in the latter case a transit request pursuant to Council Directive
+2003/110/EC would be needed);
+ the possibility of an immediate return of the joint charter flight from the CoR,
+where an overnight stay is organised. The OMS needs to take account of
+factors such as, for example, clearance, the duty times of the crew, catering,
+technical issues, etc.
+In the event of an unplanned overnight stay in the CoR or other MS as well as of an
+unforeseen return to the MS by a commercial flight(s), the following matters have to
+be considered:
+ possible visa or entry requirements, security levels, technical issues, etc;
+ the need to guard the returnee(s) at the airport (premises, food, security,
+possible shift rotation of escorts according to their duty time, need to rest);
+ various assistance to be requested from the local authorities.
+6.1.28 Meeting with escort leaders
+It is recommended that a meeting is convened with the EL, medical personnel,
+monitors and other significant JRO participants prior to the boarding. All important
+issues, in particular an update regarding the passenger list, seating plan, boarding
+procedure, returnees’ mental and physical state, and management of any
+noncompliant returnee(s), should be discussed at such a meeting, which should be
+held in the embarkation airport to enable the responsible personnel to check the
+premises.
+6.1.29 Implementation Plan
+Frontex draws up an Implementation Plan in cooperation with the OMS and
+distributes it to the PMS prior to the implementation day of the JRO.
+The OMS and all PMS escort leaders are responsible for informing each JRO
+participant in his/her contingent about the content of the Implementation Plan, as
+well as the annexes, and for ensuring that they comply with the plan. This obligation
+is specified in each Implementation Plan.
+6.1.30 Estimated budget
+Based on Frontex decision on the financing for a given JRO and its conditions, each
+Member State entitled to receive reimbursement must submit an estimated budget
+(a standardised form is available in the FOSS) no later than three working days prior
+to the implementation day of the JRO.
+
+Page 28 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.2 The pre-departure phase
+6.2.1 Checks of designated special areas
+When designated special (waiting and/or operational) areas have been arranged in a
+MS which has offered embarkation to any other MS on its territory, it is required that
+such areas are subjected to a security and technical check prior to the
+commencement of the operation.
+6.2.2 Briefing of escorts
+Prior to the operation the OMS’ EL should brief his/her own escorts. The PMS should
+similarly brief their escorts before leaving for the departure point.
+At this stage, information and process should be discussed relating to the
+requirement not to take any medicines or substances prohibited in the CoR.
+6.2.3 Briefing of the crew and authorisation by the captain
+The OMS’s EL introduces himself/herself to the captain and the crew as the main
+point of contact. This escort leader should discuss and agree with the captain the
+operational details for returnees’ boarding and the procedures to be adopted on
+board for flight security, in particular the use of coercive measures.12
+The OMS is required to inform the crew also about the seating plan, the number of
+passengers, their risk assessment, the weight of luggage, the catering schedule, etc.
+6.2.4 Checks
+6.2.4.1 Body search of returnees
+Body searches of returnees should be carried out in a designated area according to
+relevant national regulations, in order to remove objects that might be harmful to
+them or other persons.
+In the event that the body search is carried out in the detention centre, it is
+advisable to check the returnees once again before their boarding following a
+transfer, in particular on a connecting commercial flight, to the airport of
+departure, as they might have come into possession of dangerous objects.
+The aforementioned search must be conducted in full respect for the returnees’
+personal dignity. Any body search must only be conducted by personnel of the same
+gender as the returnee.
+6.2.4.2 Luggage search
+Searches of returnees’ luggage should be carried out either in the detention centre
+or in the operational area. Appropriate airline security rules should be followed.
+Special attention should be paid to returnees’ personal belongings and valuable
+items (e.g. laptops, mobile phones, jewellery, money, etc). An official list of such
+items should be created and verified by the signatures of both the Member State’s
+12
+
+In accordance with the Article 6 (2) of the Convention on Offences and Certain Other Acts Committed on Board Aircraft signed at Tokyo, on
+14 September 1963 (the 1963 Tokyo Convention), the aircraft commander may request or authorise the assistance of passengers to restrain
+any person whom he is entitled to restrain.
+
+Page 29 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+person(s) performing this search and the returnee. In the event that the returnee
+refuses to sign this list, the reason should be noted down on the document.
+Returnees should be advised to leave behind in a MS any documentation about their
+asylum procedure.
+They should be also informed about the need to leave behind in a MS any medicines
+or substances prohibited in a country of return. MS should consider the possibility of
+providing the returnee with a substitute, in line with the relevant medical
+recommendation, which is allowed in the CoR.
+Searches must be conducted in full respect for returnees’ personal dignity.
+6.2.4.3 Document check
+Although document preparation is part of the pre-return phase, a responsible
+person/team should be appointed to check the travel documents for both returnees
+and escorts immediately prior to boarding.
+PMS should carry out similar checks before boarding in their country.
+6.2.4.4 Check and preparation of an aircraft (see also 6.1.26)
+Security checks of the cabin, including the toilet area, must be conducted
+thoroughly, looking for explosives, dangerous items, etc, prior to the embarkation.
+After such checks have been completed the aircraft must remain under guard.
+Where special equipment for sanitary purposes or safety is needed, it should be
+placed in the aircraft at this stage.
+The seating plan should be checked, so as to confirm that it matches the plane’s
+configuration and the required weight distribution.
+6.2.5 Personal belongings & labelling and loading of luggage (see also 6.1.10)
+Returnees’ personal belongings and valuables must not to be treated as hold
+luggage, but instead kept by the respective escorts/EL. They should be stored in a
+sealed envelope or a transparent plastic bag and marked with the name of the
+returnee. Access to the hygienic items for babies and female returnees should be
+ensured during the entire operation.
+6.2.6 Final passenger list
+Each PMS escort leader reports any changes in numbers of returnees and JRO
+participants prior to the departure from their respective home country according to
+the instructions in the Implementation Plan.
+A definitive list of all JRO participants need to be completed by the OMS
+immediately prior to boarding and provided to the airline (to the responsible
+handling agent and the aircraft commander). For take-off weight calculation the
+airline requires a breakdown on the number of male and female passengers, as well
+the number of infants.
+
+Page 30 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.2.7 Transportation of PMS
+A MS offering embarkation to any other MS on its territory should assist with the
+transport of the returnees and JRO participants to the waiting area or to the plane.
+A separate vehicle should be on standby, e.g. close to the secure waiting area, to
+transport any noncompliant returnees.
+PMS connecting charters are required to wait at the embarkation airport of the OMS
+or the PMS until the joint return charter has departed.
+6.2.8 Executive powers of escorts during transit
+As a general rule, escorts operating outside their own national territory cannot
+exercise the same powers13 that they have in their respective countries.
+The detailed information on this topic can be found in the Common Understanding 14
+uploaded to the FOSS.
+6.2.9 Briefing of all relevant JRO participants
+The OMS provides all relevant JRO participants, in particular EL, observers, medical
+staff, interpreter(s), monitor(s), Frontex representative(s), with the latest updates,
+e.g. information about embarkation and in-flight procedures, movements on board,
+access to toilets, safety belts, hand-over of personal belongings and valuables to
+returnees prior to disembarkation, etc. Each PMS EL provides the OMS’ EL with
+information on the current mental and physical state of the returnees.
+Each PMS EL should subsequently brief their escorts with this latest information.
+6.2.10 Boarding process
+Boarding takes place in a secure area.
+The embarkation process is always monitored by the OMS’ EL.
+It is recommended to do this MS by MS and one returnee at a time, in order for the
+PMS EL to control the embarkation.
+Boarding should be arranged so as to ensure that the seats furthest from the point of
+access are occupied first. However, returnees, escorts and other JRO participants
+are seated as directed by the OMS’ escorts. Once on board, all passengers take their
+seats and remain seated.
+Special attention must be paid to the embarkation of families with children in order
+to avoid exposing children to possible violent behaviour of other returnees (e.g.
+separate transport for families with children and pregnant women from the waiting
+area to the plane).
+Pregnant women (single or with families) and families with children shall board the
+aircraft separately and shall be seated separately from other returnees.
+Family members should not be separated on board, except in exceptional cases
+when extreme non-compliance takes place and in order to shield the children’s view
+See Article 7 of Council Directive 2003/110/EC
+Common Understanding of Frontex LEGNET of 4.2.2013 on the executive powers of escorts at airport outside their own home Member State
+(https://foss.frontex.europa.eu/OperationalActivities/ReturnOperationsSector/Legislation/tabid/771/Default.aspx)
+13
+14
+
+Page 31 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+or ensure their physical integrity. Children should not be exposed to violent and
+aggressive adults. Therefore, if a family member acts in a violent or aggressive way,
+such a person may be separated for as long as necessary.
+6.2.11 Guarding of the aircraft doors
+To ensure orderly embarkation, and to prevent returnees from escaping from the
+aircraft during the boarding, designated escorts from the back-up team should guard
+the aircraft’s doors.
+
+Page 32 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.3 The in-flight Phase
+6.3.1 Fulfilment of agreements
+All of the listed procedures and preparations are to be followed by all of the
+participants during this operational stage.
+6.3.2 The OMS’ EL
+Generally the OMS’ EL has the overall responsibility/command authority 15 in this
+phase.
+The OMS’ EL should regularly monitor the situation on board.
+Each PMS EL should regularly monitor the situation within their national group.
+6.3.3 Vigilance of escorts
+The escorts in general pay full attention to guarding the returnees. Activities such as
+reading and listening to music depend on national rules, the judgement of the
+national EL, as well as the dynamic risk assessment of the current situation by the
+escorts themselves. When two or more escorts are designated to a returnee, at least
+one stays fully vigilant.
+Escorts are required to remain with the returnees unless they are relieved or a
+dynamic risk assessment indicates otherwise.
+6.3.4 Deployment of coercive measures
+When coercive measures are needed, the OMS’ EL and the PMS’ EL make a decision
+based on advice from the escorts.
+PMS escort leaders should inform the OMS’ EL, who has the responsibility for making
+the final decision.
+6.3.5 Movement on board
+The movement of escorts with returnees is limited (e.g. visit to a toilet, consultation
+with a medical doctor). Only one returnee at any time is to be allowed to move from
+his/her seat under the supervision of the back-up team and the national escort(s). In
+order to avoid a blockage in an aisle, a back-up team member regulates the
+movement of the escorts with the returnees.
+Returnees and escorts should remain seated unless they have permission to be out of
+their seat. Returnees standing or sitting in the aisles should be avoided at all times.
+The JRO participants should not hinder the clear view for either the crew members
+or the back-up team. It is essential that the crew is not hindered from carrying out
+their own security measures on board.
+Security instructions given by the crew members must be followed (e.g. seat belt
+fastening, etc).
+
+15
+
+Command authority delegated by the captain according to Art. 6(2) of Tokyo Convention
+
+Page 33 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.3.6 Returnees’ personal belongings
+Personal belongings and/or valuables transported in the cabin must be returned to
+the returnees before disembarkation, according to the instructions from the OMS’ EL
+provided during the briefing of all relevant JRO participants. Other personal
+belongings will be returned after disembarkation.
+
+Page 34 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.4 The arrival phase
+6.4.1 First contact with local authorities
+The OMS (assisted by an interpreter, if needed) is responsible for making initial
+contact with the competent local authorities in the country of return. Where an
+advance party has been arranged, or if there is an appropriate diplomatic
+representation/ILO/EURLO in that country, they should also be present.
+The OMS’ EL should follow the instructions of, or reach an agreement with, local
+authorities on the disembarkation procedure.
+6.4.2 Hand-over of returnees
+The returnees should be handed over without restraints, and usually through the
+front exit of the aircraft. Restraints should be removed no later than when the
+aircraft comes to a complete standstill at the final parking position.
+Each MS shall hand over its own returnees, together with travel documents.
+Usually the MS seated in the first rows designated to returnees hands over its
+returnees first, followed by MS seated behind. Returnees are escorted individually
+or in small groups to the exit door of the aircraft. If required, returnees are
+escorted to the immigration counters.
+When a hand-over procedure takes place on board, it is worth using a microphone
+to announce returnees’ names.
+If a returnee does not want to leave an aircraft:
+ Measures should primarily focus on convincing the returnee via verbal
+communication.
+ The OMS’ EL may request the assistance of the officials of the country of
+return (to talk to the returnee).
+ If the returnee does not disembark the aircraft, the OMS’ EL (together with a
+PMS EL, when applicable) decides with the officials of the country of return
+how to proceed.
+When the escorts leave the aircraft during the hand-over procedure, it is
+recommended to either bring their hand luggage, or to keep a back-up team
+member on board.
+6.4.3 Guarding of the aircraft doors
+It is recommended that designated escorts of the OMS, for example from a back-up
+team, guard the aircraft’s doors during the hand-over procedure in order to ensure
+orderly disembarkation and to prevent returnees from possible re-entry to the board
+of the aircraft, as well as observe the unloading luggage procedures.
+6.4.4 Transport for returnees
+Where deemed necessary, it is recommended to organise, as a part of the handling
+arrangements, transport by buses for the returnees from the aircraft to the airport
+building in the country of return.
+
+Page 35 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.4.5 Overnight stay in a third country
+The OMS’ EL or a person acting on his/her behalf should contact transport
+companies, hotels, etc, in order to advise them of the arrival and should, in
+agreement with the PMS EL, plan and coordinate the operations of re-boarding of all
+the JRO participants onto the joint charter flight after the overnight stay.
+Each JRO participant is responsible for compliance with immigration regulations of a
+country of return during their stay there.
+
+Page 36 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+6.5 The return-flight phase
+6.5.1 Unaccepted returnees
+If one or more returnees are not accepted by the authorities of the country of
+return, the returnees involved should be taken back to departure Member State on
+the same charter flight or – possibly – on scheduled flights accompanied by escorts
+from the relevant MS.
+6.5.2 Headcount
+When the boarding is completed, the OMS’ EL should ask the crew for a headcount
+so as to confirm that all JRO participants foreseen to be on board are there and to
+detect any possible stowaways.
+6.5.3 Debriefing
+During a return leg of a JRO a debriefing meeting is held on board with the
+participation of the escort leaders, the back-up team leader, monitors, observers
+and the Frontex representative. If the space on the aircraft allows, a crew member
+and medical personnel may be invited as well.
+The OMS and PMS escort leaders are requested to complete the “JRO Debriefing
+Form”, usually distributed and afterwards collected by a Frontex representative
+onboard. The feedback provided in the forms will be utilised during the debriefing
+and by the OMS for the preparation of the “Final Return Operation Report”.
+
+6.6 Final return operation report
+The OMS is responsible for issuing a detailed report on the operation and sending it
+to Frontex (FJRCC@frontex.europa.eu) within 14 days of the end of a JRO. The
+OMS’ EL will describe the JRO, highlighting any exceptional events, the actions
+taken to solve any problems that may have arisen, remarks of the PMS and
+observation of the monitor. The standard form stored in the FOSS should be used
+for this purpose. The completed report is uploaded to the FOSS.
+The standard form of the report does not substitute for the national Member States’
+reports.
+
+Page 37 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Annex 1 to the Guide for Joint Return Operations by Air
+coordinated by Frontex
+
+“Fit-to-travel” form
+
+Page 38 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Annex 2 to the Guide for Joint Return Operations by Air
+coordinated by Frontex
+
+Positional Asphyxia16
+
+The pictures are ilustrative.
+16
+
+The information about positional asphyxia has been copied from the training material “Medical Doctors’ Handbook on Medical Precautionary
+Measures for Escort Officers” (to be used during various training sessions in the field of return operations)
+
+Page 39 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Page 40 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Page 41 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+The picture is ilustrative.
+
+Page 42 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Annex 3 to the Guide for Joint Return Operations by Air
+coordinated by Frontex
+
+Restraints forbidden on joint return operations coordinated by Frontex
+1. Introduction:
+Following the recommendation of the European Ombudsman,17 Frontex has
+documented the means of restraint allowed for return operations in each Member
+State and afterwards thoroughly analysed them to ascertain if any of those means
+of restraint should not be permitted during JROs coordinated by Frontex. On the
+basis of that analysis, Frontex has identified a list of restraints forbidden on JROs
+coordinated by the Agency. The compliance of Member States with this list is
+considered by Frontex to be a condition for participation in a JRO coordinated by
+the Agency.
+2. Forbidden restraints:
+a. General principles
+The use of restraints in JROs coordinated by Frontex is guided by the principles of
+proportionality, necessity, respect for human dignity and personal integrity, in line
+with the applicable legal framework.
+All restraints causing pain or affecting human dignity are forbidden.
+Pursuant to the provisions of the Council of Europe Twenty Guidelines on Forced
+Return,18 in particular Guideline 19 thereof, “the only forms of restraint which
+are acceptable are those constituting responses that are strictly proportionate
+responses to the actual or reasonably anticipated resistance of the returnee with
+a view to controlling him/her.” Furthermore, “Restraint techniques and coercive
+measures likely to obstruct the airways partially or wholly, or forcing the
+returnee into positions where he/she risks asphyxia, shall not be used”.
+b. List of forbidden restraints
+Based on the aforementioned principles and the Twenty Guidelines, the following
+list of concrete forbidden restraints has been compiled:
+a. metal chains used to restrain hands or legs;
+b. straightjackets;
+c. plastic ties not specifically designed for handcuffing or for leg restraint.
+
+While closing her own-initiative inquiry OI/9/2014/MHZ on 4 May 2015, the European Ombudsman issued several recommendations to
+Frontex regarding the coordination of JROs.
+18 Adopted by the Committee of Ministers on 4 May 2005 at the 925th meeting of the Ministers’ Deputies
+http://www.coe.int/t/dg3/migration/archives/Source/MalagaRegConf/20_Guidelines_Forced_Return_en.pdf
+17
+
+Page 43 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Annex 4 to the Guide for Joint Return Operations by Air
+coordinated by Frontex
+
+Examples of the List19 of recommended medical equipment and medication for a
+medical doctor taking part in a JRO
+Example 1 – Equipment list – emergency backpack, Austria
+
+Anxiolit forte
+Aspirin Filmtabl
+Aspirin protect
+Atropinum
+Berodual
+Betaisodona
+Betnesol N
+Blopress
+Bricanyl
+Brufen
+Buscopan Comp Dg
+Dehace retard
+DOLO-Menthoneurin
+Dolorex - Spray
+Effortil
+Emedyl (Kind)
+Fenistil (ggt)
+Fenistil Gel
+Glucose 33%
+Haldol - Tropfen
+Halset
+Halset plus Spray
+Hova Filmtabletten
+Hypnomidate
+Immodium akut
+Jubin Gel
+
+19
+
+Medikamente / Medication
+Lasix/Furosemid
+Rectopred Supp
+Lemocin
+Refobacin
+Lovenox
+Respicur
+Lovenox
+Elomel
+Mexalen
+Riopan Gel
+Mexalen Supp
+Risperdal Lsg
+Mirtabene
+Sedacoron
+Motilium
+Solu-Dacortin/Solu-Volon
+NaCl 10 ml
+Strepsyls
+Naloxon
+Sultanol
+Nasivin
+Symbicort forte
+Nasivin (sanft)
+Talcid
+Nitrolingual Spray
+Temesta
+Novalgin
+Temesta
+Novalgin - Tropfen
+Tramabene/Tramal
+Nureflex Suspension
+Trittico
+Otrivin
+Ulsal
+Pantoloc
+Vendal
+Paracodin (ggt)
+Vertirosan
+Parkemed
+Vertirosan
+Filmtabletten
+Parkemed Susp
+Visadron
+Paspertin
+Vitawund
+PsychoPax
+Voluven
+Passedan
+Xanor
+Perfalgan
+Pulmicort
+
+These lists have been developed by Austria and the United Kingdom. Such lists are used during the return operations of those countries
+when their own medical staff are present. These lists are shared with the consent of those Member States and may be used by other
+Member States as a basis for their own lists.
+
+Page 44 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Medikamente - Ampullen / Medication – ampoules
+Anexate
+
+Ketanest S
+
+Respicur
+
+Aspirin
+
+Kytrill
+
+Rheumesser
+
+Atropin
+
+L-Adrenalin
+
+Sedacoron
+
+Bricanyl
+
+Lasix
+
+Suprarenin
+
+Buscapina
+
+Lystenon
+
+Urbason
+
+Dormicum
+
+NacL
+
+Vendal
+
+Ebrantil
+
+Naloxon
+
+Xyloneural
+
+Esmolol
+
+Novalgin
+
+Fenistil
+
+Paspertin
+
+ALU - Kompresse
+alu - gauze
+
+Verband / Wound dressing
+Einmalskalpell
+OP Handschuhe
+scalpel (single use)
+surgical gloves
+
+Anatomische Pinzette Elastische Binde (fest)
+tweezers
+crepe bandage
+
+Peha haft
+adhesive bandage
+
+Betaisadona
+Betaisodona solution
+
+Elastomull
+Elastomull bandage
+
+Pflaster
+plaster
+
+Chirurgische Schere
+surgical scissors
+
+Fingerstülpverband
+finger dressing
+
+Pinzette (Stahl)
+Tweezers (metal)
+
+Curapor Steril
+sterile plaster
+
+Gazin
+Gazin gauze dressing
+
+Skalpellklingen
+scalpel blade
+
+Druckverbandpackerl
+pressure bandage
+
+Kaltostat Kompresse
+cool pack
+
+Splitterpinzette
+fragment tweezers
+
+Einmalhandschuhe
+disposable gloves
+
+Kleiderschere
+scissors for clothes
+
+Steriles Tuch
+sterile towel
+
+Nahtmaterial
+sterile sutures
+
+Leukosilk
+Leukosilk
+
+Steri-Strip
+sterile stripes
+
+Mullkompresse
+gauze
+
+Verbandschere
+scissors
+
+Page 45 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Beatmung / Intubation / Sauerstoff / Defibrillator
+Artificial respiration / intubation / oxygen / defibrillator
+
+Ambu Beutel
+bag valve mask
+
+Stauschlauch
+tourniquet
+
+Ambu Maske # 4
+ventilation mask No. 4
+
+Führungsdraht
+guidewire
+
+Ambu Maske # 5
+ventilation mask No. 5
+
+Fußpumpe/Sauger
+suction unit
+
+Beatmungsfilter
+ventilation filter
+
+Guedel (div. Größen)
+Guedel airway
+
+Beissblock
+bite block
+
+Laryngoskop ink. Batt.
+Laryngoscope, with battery
+
+Blutzuckermessgerät
+blood glucose monitoring
+
+Laryngoskop Spatel Macintosh 2, 4
+laryngoscope macintosh 2, 4
+
+Blutzuckermessgerät Messstreifen
+
+Laryngoskop Spatel Miller 1
+
+blood glucose stripes
+
+laryngoscope miller 1
+
+Blutzuckermessgerät Tupfer
+blood glucose swab
+
+etCO2 - Indikator „easy cap"
+etCO2 "easy cap"
+
+Blutzuckermessgerät Lanzetten
+blood glucose lances
+
+Larynxtubus Gr 4/5, + Cuffspritze
+laryngeal tube gr. 4/5 + cuff
+
+Contamedbox (gelb)
+medical waste box
+
+O2 Brille
+oxygen mask
+
+Defibrillator (AED)
+defibrillator (AED)
+Defi Elektroden Erwachsener
+defibrillator pads (adult)
+Defi EKG Elektroden
+EKG - electrodes
+
+EKG Kabel 3pol.
+EKG - cable 3 pol. for AED
+Defi Elektroden Kind
+defibrillator pads (child)
+
+O2 Schlauch
+oxygen tube
+
+Otoskop Heine Mini 3000
+otoscope
+
+Pulsoxymeter
+
+Ersatzbatterien für Pulsoxymeter
+replacement batteries for pulse
+oximeter
+
+pulse oximeter
+
+Page 46 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Sauerstoffflasche (2 Liter Flasche)
+oxygen (2 litre bottle)
+
+RR Manschette Kind
+blood pressure monitor (child)
+
+Druckminderer O2
+pressure reducer for oxygen
+
+RR Manschette Erwachsener
+Blood Pressure Monitor (adult)
+
+EKG (tragbar)
+portable EKG
+EKG Kabel 12 pol.
+EKG wire (12 pol.)
+EKG-Papier
+paper for printer
+
+Ladekabel 240 Volt/12 Volt für EKG
+charging cable AC/DC
+EKG Klebe- und Saugelektroden
+EKG - electrodes
+
+Endotrachealtubus (div. Größen)
+
+Larynxtubus
+
+endotracheal tube (various sizes)
+
+laryngeal tube (various size)
+
+Absaugkatheter
+suction catheter
+
+Stethoskop
+stethoscope
+
+Diverses / Others
+Rettungsdecke (Alu)
+rescue blanket (alu)
+
+Eisspray
+ice spray
+
+Sofortkalt - Kompresse
+cool pack
+
+Drogentest Harn
+drug test
+
+Infusionsbesteck
+infusion set
+
+Sterilium
+disinfectant
+
+Einmalpinzette
+tweezers (single use)
+
+Mundspatel Holz
+tongue depressors
+
+Trockene Tupfer
+swab
+
+Einmalrasierer
+razor (single use)
+
+Einmalnadeln
+needles (single use)
+
+Einmalspritzen
+syringe (single use)
+
+Mundschutzmasken
+
+Pupillenlampe
+
+Fieberthermometer
+
+protective masks
+
+pupillary light
+
+thermometer
+
+Page 47 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Example 2 – the UK Aeromed inventory list
+ITEM
+Blue Diagnostic Bag
+Electronic sphygmomanometer & cuff
+Pulse oximeter
+Tympanic thermometer
+Disposable lens caps (20 per pack)
+Blood glucose monitor
+Blood glucose test strips
+BM lancets
+Pen torch
+Stethoscope
+Gauze dressing pack (5 per pack)
+Alcohol wipes
+Peak Flow Meter
+Peak flow meter
+Peak flow meter mouthpieces
+Blue Airway Management Bag
+O.P Airways
+Size 00
+Size 0
+Size 1
+Size 2
+Size 3
+Size 4
+N.P Airways
+Size 7
+Size 9
+I-gel Airways
+Size 3
+Size 4
+Size 5
+Catheter mount
+Nasal cannula
+20ml Syringe
+Sachet of water based lubricant
+Loose Items
+Adult BVM (bag valve mask)
+Medix nebuliser
+Green Cannulation Pack
+Pink cannula size 20g
+Green cannula size 18g
+Grey cannula size 16g
+Syringe 10ml
+
+QUANTITY per KIT
+1
+1
+1
+1
+1
+10
+10
+1
+1
+1
+10
+1
+5
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+1
+1
+2
+2
+2
+
+Page 48 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Syringe 5ml
+Syringe 2.5ml
+Orange needles 25g
+Green needles 21g
+Red (drawing up) needles
+Gauze dressing pack (5 per pack)
+Sodium Chloride 0.9% 500ml
+Glucose 10% 500ml
+Giving Set
+Sodium Chloride 10ml for injection pods / Water for
+injection
+Tourniquet
+Vecca Fix – plaster for securing cannula
+Alcohol wipes
+Mini sharps box
+Orange Dressing / Burns Pack
+Ambulance dressing No.3
+Ambulance dressing No.2
+Gauze dressing pack (5 per pack)
+Triangular bandage
+Steri-strip pack – pk of 5
+Conforming bandage 7.5cm
+Conforming Bandage 15cm
+Pack of assorted sticking plasters
+Moist cleaning wipes
+Micropore tape
+Tuff cut scissors
+Bottle of watergel 50ml
+Watergel dressing 10x10cm
+Ice pack
+Alcohol hand gel 50ml
+Soiling Pack
+Inco pads
+‘Travel John’ urine bag
+Gloves
+Clinical waste bag
+Drugs Pack
+Adrenaline 1:1,000 – 1mg/1ml
+Aspirin 300mg dispersable
+Cyclizine 50mg/1ml
+GTN
+Ipratropium 250 mcg – 250mcg/1ml
+Metoclopramide 10mg
+Salbutamol 5mg – 5mg/2.5ml
+Zantac – Ranitidine 150mg
+
+1
+1
+2
+2
+2
+1
+1
+1
+2
+4
+1
+2
+10
+1
+1
+1
+1
+2
+1
+1
+1
+1
+10
+1
+1
+1
+1
+1
+1
+2
+2
+10
+1
+2 ampoules
+8 tablets/1 blister
+2 ampoules
+1 spray
+1-2 nebules
+8-14 tablets / 1
+2-5blister
+nebules
+20 tablets / 2 blisters
+
+Page 49 of 50
+
+Guide for Joint Return Operations by Air coordinated by Frontex
+
+Diazepam 5mg
+Diazepam 5mg
+Diazemuls 10mg – 10mg/2ml
+Diazepam Rectal (Stesolid) 5mg
+Dihydrocodeine 30mg
+Over the Counter (OTC's)
+Calpol Infant (2+ months)
+Calpol Sixplus (6+ years)
+Dioralyte
+Glucose gel
+Imodium - Loperamide 2mg
+Nurofen – Ibuprofen 400mg
+Paracetamol 500mg
+Piriton – Chlorphenamine 4mg
+Travel Sickness Tablets
+Kalms
+
+14-28 tablets / 2
+blisters
+2 ampoules
+4 rectal tubes
+20 tablets / 2 blisters
+2-4 sachets
+2-4 sachets
+10 sachets
+3 tubes
+20 tablets / 2 blisters
+24-48 tablets
+24-48 tablets
+14-28 tablets / 2
+blisters
+10 tablets
+42 tablets / 2 blisters
+
+Page 50 of 50
+
+

@@ -1,0 +1,444 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2015/0225(COD)
+
+Procedure completed, awaiting publication in Official Journal
+
+Prudential requirements for credit institutions and investment firms
+Amending Regulation (EU) No 575/2013 2011/0202(COD)
+See also 2015/0226(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.04 Banks and credit
+2.50.05 Insurance, pension funds
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+28/11/2016
+
+KARAS Othmar
+Shadow rapporteur
+
+FERNÁNDEZ Jonás
+
+SWINBURNE Kay
+
+THEURER Michael
+
+KARI Rina Ronja
+
+SCOTT CATO Molly
+
+VALLI Marco
+MONOT Bernard
+Committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+HILL Jonathan
+
+European Economic and
+Social Committee
+
+Key events
+30/09/2015
+
+Legislative proposal published
+
+14/10/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+COM(2015)0473
+
+Summary
+
+08/12/2016
+
+Vote in committee, 1st reading/single
+reading
+
+08/12/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+19/12/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0388/2016
+
+11/07/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE607.909
+
+25/10/2017
+
+Debate in Parliament
+
+26/10/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+20/11/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+12/12/2017
+
+Final act signed
+
+12/12/2017
+
+End of procedure in Parliament
+
+Summary
+
+Summary
+
+T8-0416/2017
+
+Technical information
+Procedure reference
+
+2015/0225(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 575/2013 2011/0202(COD)
+See also 2015/0226(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed, awaiting publication in Official Journal
+
+Committee dossier
+
+ECON/8/04620
+
+Documentation gateway
+Legislative proposal
+
+COM(2015)0473
+
+30/09/2015
+
+EC
+
+Document attached to the procedure
+
+SWD(2015)0185
+
+30/09/2015
+
+EC
+
+Document attached to the procedure
+
+SWD(2015)0186
+
+30/09/2015
+
+EC
+
+CON/2016/0011
+OJ C 219 17.06.2016, p. 0002
+
+11/03/2016
+
+ECB
+
+Committee draft report
+
+PE583.904
+
+06/06/2016
+
+EP
+
+Amendments tabled in committee
+
+PE587.498
+
+06/09/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0388/2016
+
+19/12/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0416/2017
+
+26/10/2017
+
+EP
+
+Summary
+
+European Central Bank: opinion, guideline, report
+
+Summary
+
+Summary
+
+Additional information
+Research document
+
+Briefing
+
+Research document
+
+Briefing
+
+2015/0225(COD) - 30/09/2015 Legislative proposal
+PURPOSE: to establish a revised regulatory framework on capital charges for exposures to securitisations within the objective of reviving EU
+securitisation markets.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure on an
+equal footing with the Council.
+CONTEXT: securitisations are an important constituent part of well-functioning financial markets. The Commission considers that promoting
+the development of a securitisation market based on sound practices will contribute to a return to sustainable growth and job creation.
+Furthermore, a common, high quality EU securitisation framework will promote further integration of financial markets in the Union, help
+diversify funding sources and unlock capital, making it easier for credit institutions to lend to households and businesses.
+In order to attain this objective, two steps must be taken:
+1) to develop a common substantive framework for securitisations for all participants in this market and identify a subset of transactions
+meeting certain eligibility criteria: simple, transparent and standardised (STS) securitisations or STS securitisations. This is the subject of the
+Commission Proposal for a Securitisation Regulation.
+2) to make amendments to the regulatory framework of securitisations in EU law, including in the area of capital charges for credit institutions
+and investment firms originating, sponsoring or investing in these instruments, to provide for a more risk-sensitive regulatory treatment for STS
+securitisations.
+The global financial crisis revealed a number of shortcomings in the current securitisation framework. In order to address these shortcomings
+and contribute to enhancing the resilience of institutions to market shocks, the Basel Committee on Banking Supervision (BCBS) adopted in
+December 2014 a recommendation for a revised securitisation framework ("the Revised Basel Framework"). The measure has been designed
+to reduce the complexity of the current regulatory capital requirements, reflect better the risks of positions in a securitisation and allow the use
+of the information available to institution to allocate capital requirements based on their own calculations, thus reducing reliance on external
+ratings.
+At an European level, the European Banking Authority (EBA) issued a report on qualifying securitisations on 7 July 2015 which recommended
+lowering capital charges for STS securitisations to a prudent level relative to those set out in the Revised Basel Framework and to amend the
+regulatory capital requirements for securitisations set out in the Regulation (EU) No 575/2013 (CRR) in line with the Revised Basel
+Framework. For STS securitisations, the EBA re-calibrated downwards the 3 approaches developed by the BCBS for the Revised Basel
+Framework.
+The Commission now proposes to amend the regulatory capital requirements for securitisations in the CRR in order to:
+implement the regulatory capital calculation approaches set out in the Revised Basel Framework;
+introduce a re-calibration for STS securitisations, consistent with the recommendation of the EBA.
+IMPACT ASSESSMENT: the impact assessment accompanying the Securitisation Regulation clearly shows the benefits in terms of efficiency
+and effectiveness of:
+introducing a revised regulatory framework on capital charges for exposures to securitisations, and
+differentiating the treatment of STS securitisations having regard to the overall objectives of the Commission legislative package on
+securitisation, i) remove stigma attached to securitisations among investors; ii) remove regulatory disadvantages for STS products;
+and iii) reduce or eliminate unduly high operational costs for issuers and investors.
+CONTENT: this Regulation forms a legislative package with the proposed Securitisation Regulation which aims to restart securitisation
+markets on a more sustainable basis and making this a safe and efficient instrument for funding and risk management.
+The proposed Regulation aims to review the regulatory capital requirements laid down in Regulation (EU) No 575/2013 (CRR) for institutions
+originating, sponsoring or investing in securitisations should be amended to reflect adequately the specific features of STS securitisations and
+address the shortcomings of the framework which became apparent during the financial crisis, namely its mechanistic reliance on external
+ratings, excessively low risk weights for highly-rated securitisation tranches and, conversely, excessively high risk weights for low-rated
+tranches, and insufficient risk sensitivity.
+The amendments to the existing regulatory framework should take account of the regulatory capital calculation approaches set out in the
+Revised Basel Framework. Under this framework:
+institutions may calculate capital requirements for their securitisation positions in accordance with a single hierarchy of approaches,
+which starts with the Internal Ratings Based Approach (IRB Approach) at the top;
+if an institution cannot use the approach based on internal ratings, it must use a External Ratings-Based Approach ("SEC-ERBA"
+Approach), provided the exposure has an external credit assessment which meets a series of operational requirements;
+in the case where the Institution cannot use the External Ratings Based Approach, either because is located in a jurisdiction that
+doesn't permit its use or because it lacks the information needed to use that approach, it shall use a Standardised Approach (the
+"SEC-SA" Approach) based on a supervisory-provided formula.
+No later than 3-years from the entry into force of this Regulation, the Commission will review the proposed approach to capital requirements
+
+for securitisation exposures, including the hierarchy of approaches, taking into account its impact on securitisation markets developments and
+the need to preserve financial stability in the EU.
+
+2015/0225(COD) - 11/03/2016 European Central Bank: opinion, guideline, report
+OPINION OF THE EUROPEAN CENTRAL BANK on (a) a proposal for a regulation laying down common rules on securitisation and creating a
+European framework for simple, transparent and standardised securitisation; and (b) a proposal for a regulation amending Regulation (EU) No
+575/2013 on prudential requirements for credit institutions and investment firms.
+The ECB welcomed the objectives of the proposed regulations of promoting the further integration of Union financial markets, diversifying
+funding sources and unlocking capital for sound lending to the real economy. It supported the establishment of criteria to identify a subset of
+securitisations which can be classified as simple, transparent and standardised (STS) and welcomed the proposed CRR amendments
+adjustment to capital charges to provide for a more risk-sensitive treatment for STS securitisations.
+As regards the proposed amendment of Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
+the EBC made the following recommendations:
+Capital treatment for STS securitisations: the ECB strongly supported the incorporation of the STS criteria in the banking regulatory capital
+framework through the proposed CRR amendment, as an enhancement to the December 2014 revisions to the Basel securitisation framework.
+It considered that the calibration, which reduces capital charges for STS securitisations, is appropriate, considering their lower risk profile.
+In relation to the hierarchy of approaches, the ECB considered the proposed changes to be a positive first step towards a more equal
+regulatory treatment of STS securitisations issued in different Union jurisdictions. As drafted, it effectively permits credit institutions to cap
+capital charges under the securitisation external ratings-based approach (SEC-ERBA) at the level applicable under the securitisation
+standardised approach (SEC-SA), subject to certain conditions.
+The ECB recommended disallowing the use of SEC-ERBA for STS securitisations only. This would provide equality of treatment across Union
+STS securitisations and between Union STS securitisations and non-Union securitisations issued in jurisdictions where the use of external
+ratings and, consequently, the application of SEC-ERBA, is not permitted.
+Competent authorities should nevertheless retain their discretion to impose capital charges higher than those resulting from the application of
+SEC-SA for STS securitisations (as for non-STS securitisations), where justified on a case-by-case basis, e.g. due to residual structural
+complexities or other relevant risk drivers not sufficiently captured in all cases under the standardised approach.
+Importantly, the ECBs recommendation to disallow the application of SEC-ERBA is, however, contingent on the maintenance of high
+standards for asset quality and self-attestation.
+Capital treatment for qualifying synthetic securitisations: the proposed CRR amendment introduces a differentiated capital treatment for senior
+tranches of synthetic securitisations meeting certain criteria.
+The ECB noted that, from a prudential perspective, the arguments for reducing capital charges for certain synthetic securitisations are not as
+strong as for traditional STS securitisations. Notably there is currently limited data available on both the volume and performance of synthetic
+securitisations due to their private nature. The ECB therefore acknowledges the cautious approach taken by the Commission, whereby the
+preferential treatment is strictly limited to a subset of synthetic securitisation structures.
+It recommended that the prudence of the framework for qualifying synthetic structures should be further strengthened by developing criteria
+specifically adapted to synthetic securitisations.
+Strengthening the significant risk transfers (SRT) assessment: the ECB recommended that the proposed CRR amendment should be used as
+an opportunity to both clarify and strengthen the current CRR provisions with regard to significant risk transfer and implicit support. First, the
+conditions for recognising SRT (38) in Articles 244 and 245 should be linked to the conditions for implicit support in Article 250, as they
+address the same issues. In addition, the quantitative significant risk transfer tests should be reviewed by the EBA as they are insufficient and
+open to regulatory arbitrage in certain cases.
+
+2015/0225(COD) - 19/12/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Othmar KARAS (EPP, AT) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and
+investment firms.
+In brief, the proposed Regulation seeks to revise amend Regulation (EU) No 575/2013 (CRR) for institutions originating, sponsoring or
+investing in securitisations to reflect adequately the specific features of simple, transparent and standardised (STS) securitisations when such
+securisations also meet the additional requirements laid down in this Regulation, and address the shortcomings of the framework which
+became apparent during the financial crisis.
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Securitisations: it is highlighted that securitisations are an important constituent part of well-functioning financial markets insofar as they
+contribute to diversifying institutions' funding sources and releasing regulatory capital which can then be reallocated to support further lending.
+Members considered that financial stability should be guaranteed and that the capital be used to fund the real economy rather than for
+speculative activity.
+Revised Basel Framework: the amendments to Regulation (EU) No 575/2013 should take into account the provisions of the Revised Basel
+Framework. Members made reference to the fact that on 11 July 2016, the Basel Committee on Banking Supervision (BCBS) published an
+updated standard for the regulatory capital treatment of securitisation exposures that includes the regulatory capital treatment for "simple,
+
+transparent and comparable" securitisations. That standard amends the Committee's 2014 capital standards for securitisation.
+Calculation of regulatory capital requirements: an amendment stated that a securitisation standardised approach ("SEC-SA") should then be
+available to institutions that may not use the SEC-IRBA in relation to their positions in a given securitisation.
+The SEC-SA should rely on a supervisory-provided formula using as an input the capital requirements that would be calculated under the
+Standardised Approach to credit risk (SA) in relation to the underlying exposures if they had not been securitised ("Ksa"). When the first two
+approaches are not available or the use of the SEC-SA would result in incommensurate regulatory capital requirements relative to the credit
+risk embedded in the underlying exposures, institutions should be able to apply the Securitisation External Ratings Based Approach
+(SEC-ERBA).
+Under the SEC-ERBA, capital requirements should be assigned to securitisation tranches on the basis of their external rating.
+Members also proposed to ban re-securitisations given their higher level of complexity and risk.
+Macroprudential oversight of the securitisation market: the amended text stipulated that the European Systemic Risk Board ( ESRB) shall be
+responsible for the macroprudential oversight of the Unions securitisation market and European Banking Union (EBA) shall be responsible for
+the microprudential oversight, while taking into account the specificity of market segments and asset classes.
+The STS Regulation provides for the publication of the biennial report on the securitisation market. In order to reflect changes in market
+circumstances, to prevent asset bubbles from developing in different market segments or asset classes and to prevent parts of the Unions
+securitisation market from closing down in times of crisis, the Commission shall consider, within six months after the publication of the report
+and every two years thereafter, adjusting the following, where applicable:
+the risk floor levels for securitisations;
+the leverage ratio, liquidity coverage ratio, net stable funding ratio for credit institutions and investment firms active in the securitisation
+market.
+Following the publication of the report, the ESRB shall make recommendations to the Member States.
+
+2015/0225(COD) - 26/10/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 458 votes to 135 with 26 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and
+investment firms.
+In brief, the proposed Regulation seeks to revise amend Regulation (EU) No 575/2013 (CRR) for institutions originating, sponsoring or
+investing in securitisations to reflect adequately the specific features of simple, transparent and standardised (STS) securitisations and
+address the shortcomings of the framework which became apparent during the financial crisis.
+Securitisations: the amended text highlights that securitisations are an important constituent part of well-functioning financial markets insofar
+as they contribute to diversifying the funding and risk diversification sources of credit institutions and investment firms and releasing regulatory
+capital which can then be reallocated to support further lending, in particular the funding of the real economy. Those benefits should, however,
+be weighed against their potential costs and risks, including their impact on financial stability.
+Revised Basel Framework: amendments to Regulation (EU) 575/2013 should take into account the provisions of the Revised Basel
+Framework. Parliament made reference to the fact that the Basel Committee on Banking Supervision published, on 11 July 2016, an updated
+standard for the regulatory capital treatment of securitisation exposures that includes the regulatory capital treatment for "simple, transparent
+and comparable" securitisations. That standard amends the standards applicable to securitisations published by the Committee in 2014.
+Calculation of regulatory capital requirements: Parliament stated that a standardised approach ("SEC-SA") for securitisation should be
+available to institutions that may not use the SEC-IRBA (Internal Ratings Based Approach) in relation to their positions in a given
+securitisation. The SEC-SA should rely on a formula using as an input the capital requirements that would be calculated under the
+Standardised Approach to credit risk in relation to the underlying exposures as if they had not been securitised ("Ksa").
+When the first two approaches are not available, institutions should be able to apply the Securitisation External Ratings Based Approach (
+SEC-ERBA). However, institutions should always use the SEC-ERBA as a fall-back when the SEC-IRBA is not available for low-rated tranches
+and certain medium-rated tranches of STS securitisations identified through appropriate parameters.
+Moreover, competent authorities should be able to prohibit the use of the SEC-SA when the latter is not able to adequately tackle the risks that
+the securitisation poses to the solvability of the institution or to financial stability. Upon notification to the competent authority, institutions
+should be allowed to use the SEC-ERBA in respect of all rated securitisations they hold when they cannot use the SEC-IRBA.
+Re-securitisations: since re-securitisations exhibit greater complexity and riskiness, Parliament stated that only certain forms of
+re-securitisations are permitted under the Regulation creating a European framework for simple, transparent and standardised securitisation.
+Lower risks for STS: the amendments made to Regulation (EU) No 575/2013 provide for an appropriately risk-sensitive calibration for STS
+securitisations, provided that they also meet additional requirements to minimise risk.
+Furthermore, lower capital requirements applicable to STS securitisations should be limited to securitisations where the ownership of the
+underlying exposures is transferred to a securitisation special purpose entity or SSPE ("traditional securitisations").
+Report and review: by 1 January 2022, the Commission shall report on the application of the regulation in the light of developments in
+securitisation markets, including from a macroprudential and economic perspective, accompanied by a legislative proposal if appropriate. It
+shall, in particular, assess the following points:
+the impact of the hierarchy of methods and of the calculation of the risk-weighted exposure amounts of securitisation positions;
+the effects on the financial stability of the Union and Member States, with a particular focus on potential immovable property market
+speculation;
+what measures would be warranted to reduce any negative effects of securitisation on financial stability while preserving its positive
+
+effect on financing, including the possible introduction of a maximum limit on exposure to securitisations; and
+the effects on the ability of financial institutions to provide a sustainable and stable funding channel to the real economy, with particular
+attention to SMEs.
+The report shall also take into account regulatory developments in international fora, in particular those relating to international standards on
+securitisation.
+
+

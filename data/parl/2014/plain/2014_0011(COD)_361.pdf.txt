@@ -1,0 +1,504 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Decision
+
+2014/0011(COD)
+
+Procedure completed
+
+Union greenhouse gas emission trading scheme: establishment and
+operation of a market stability reserve
+Amending Directive 2003/87/EC 2001/0245(COD)
+Subject
+3.70.02 Atmospheric pollution, motor vehicle pollution
+3.70.03 Climate policy, climate change, ozone layer
+3.70.18 International and regional environment protection measures and
+agreements
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Rapporteur
+
+Environment, Public Health and Food Safety
+
+Appointed
+10/07/2014
+
+BELET Ivo
+Shadow rapporteur
+
+GROOTE Matthias
+
+DUNCAN Ian
+
+GERBRANDY
+Gerben-Jan
+
+KYLLÖNEN Merja
+
+EICKHOUT Bas
+
+EVI Eleonora
+Former committee responsible
+ENVI
+
+Environment, Public Health and Food Safety
+
+Committee for opinion
+ECON
+
+ITRE
+
+Economic and Monetary Affairs
+
+PPE AUCONIE Sophie
+
+13/02/2014
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Industry, Research and Energy
+
+17/09/2014
+TAJANI Antonio
+
+JURI
+
+Legal Affairs
+
+The committee decided not to
+give an opinion.
+
+Former committee for opinion
+ECON
+
+Economic and Monetary Affairs
+
+ITRE
+
+Industry, Research and Energy
+
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+
+Commissioner
+
+Climate Action
+
+HEDEGAARD Connie
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+22/01/2014
+
+Legislative proposal published
+
+COM(2014)0020
+
+Summary
+
+06/02/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/12/2014
+
+Debate in Council
+
+24/02/2015
+
+Vote in committee, 1st reading/single
+reading
+
+24/02/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+02/03/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0029/2015
+
+Summary
+
+26/05/2015
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE609.362 GEDA/A/(2015)005361
+
+07/07/2015
+
+Debate in Parliament
+
+08/07/2015
+
+Results of vote in Parliament
+
+08/07/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+18/09/2015
+
+Act adopted by Council after Parliament's
+1st reading
+
+18/09/2015
+
+End of procedure in Parliament
+
+06/10/2015
+
+Final act signed
+
+09/10/2015
+
+Final act published in Official Journal
+
+T8-0258/2015
+
+Technical information
+Procedure reference
+
+2014/0011(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Decision
+Amending Directive 2003/87/EC 2001/0245(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 192-p1
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/8/00340
+
+Summary
+
+Documentation gateway
+Legislative proposal
+
+COM(2014)0020
+
+22/01/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0017
+
+22/01/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0018
+
+22/01/2014
+
+EC
+
+CES0800/2014
+
+04/06/2014
+
+ESC
+
+Committee draft report
+
+PE541.353
+
+24/11/2014
+
+EP
+
+Amendments tabled in committee
+
+PE544.331
+
+07/01/2015
+
+EP
+
+Amendments tabled in committee
+
+PE549.345
+
+19/02/2015
+
+EP
+
+A8-0029/2015
+
+02/03/2015
+
+EP
+
+PE539.807
+
+03/03/2015
+
+EP
+
+GEDA/A/(2015)005361
+
+13/05/2015
+
+CSL
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0258/2015
+
+08/07/2015
+
+EP
+
+Commission response to text adopted in
+plenary
+
+SP(2015)554
+
+24/09/2015
+
+Economic and Social Committee: opinion,
+report
+
+Committee report tabled for plenary, 1st
+reading/single reading
+Committee opinion
+Coreper letter confirming interinstitutional
+agreement
+
+ITRE
+
+Summary
+
+Summary
+
+Summary
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Decision 2015/1814
+OJ L 264 09.10.2015, p. 0001 Summary
+
+2014/0011(COD) - 22/01/2014 Legislative proposal
+PURPOSE: to establish a market stability reserve for the EU Emissions Trading System (EU ETS)
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: at the start of the third trading period (2013-2020), the EU ETS was characterised by a large imbalance between supply and
+demand of allowances, resulting in a surplus of around 2 billion allowances that is expected to grow over the coming years to more than 2.6
+billion allowances by 2020. The reason for this imbalance is primarily a mismatch between the auction supply of emission allowances, which is
+fixed in a very rigid manner, and demand for them, which is flexible and impacted by economic cycles, fossil fuel prices as well as other
+drivers. Weakened demand usually goes together with decreasing supply. However, in the EU carbon market this is not the case for auction
+supply in the current regulatory regime.
+The EU ETS was set up to deliver EU emissions reduction goals in a harmonised and cost- effective manner. While the environmental
+objective is guaranteed by the cap, the presence of a large surplus reduces the incentives for low-carbon investment and has a negative effect
+on the cost-efficiency of the system. In short, if not addressed, these imbalances will profoundly affect the ability of the EU ETS to meet the
+ETS target in future phases in a cost- effective manner.
+The Commission report on the state of the European carbon market in 2102 identified the need for measures to tackle structural
+supply-demand imbalances. This imbalance is expected to continue, and would not be sufficiently addressed by adapting the linear trajectory
+to a more stringent target within this framework. A change in the linear factor only changes gradually the cap. Accordingly, the surplus would
+also only gradually decline, such that the market would have to continue to operate for more than a decade with a surplus of around 2 billion
+allowances or more. In order to address this problem and to make the European Emission Trading System more resilient to imbalances, a
+market stability reserve should be established.
+IMPACT ASSESSMENT: the impact assessment shows that :(i) the establishment of a market stability reserve could help address the current
+
+imbalances; (ii) such a reserve would make the ETS more resilient to any potential future large-scale event that may severely disturb the
+supply-demand balance; (iii) operating the market stability reserve in relation to the total number of allowances in circulation has the advantage
+of capturing changes in demand.
+CONTENT: the proposal aims to establish a market stability reserve for the EU ETS, as part of the 2030 framework for climate and energy
+policies. This market stability reserve will operate as of phase 4 starting in 2021 to provide market participants with the necessary certainty as
+regards the auction supply during phase 3 and an appropriate lead-time for the introduction of the reserve.
+To ensure predictability, the market stability reserve is designed as an objective and rule- based mechanism on the basis of which the auction
+volumes are adjusted in an "automatic manner" under pre-defined conditions
+Market stability reserve: the market stability reserve functions by triggering adjustments to annual auction volumes in situations where the total
+number of allowances in circulation is outside a certain predefined range:
+·
+
+adding allowances to the reserve by deducting them from future auction volumes with the aim of mitigating market instability due to a
+large temporary surplus in the EU ETS if the total surplus is higher than 833 million allowances;
+
+·
+
+releasing allowances from the reserve and adding them to future auction volumes with the aim of mitigating market instability due to
+a large temporary deficit in the EU ETS provided the total surplus is below 400 million allowances.
+
+Allowances are thus placed in and released from the market stability reserve in relation to the total number of allowances in circulation. To
+ensure predictability and more gradual changes to the market stability reserve, a pre- defined volume of 100 million allowances per year would
+be released from the reserve where the conditions are met. This quantity represents roughly 5% of the current annual emissions in the EU
+ETS which based on historical experience should be sufficient to cater for even very sudden and strong increases in demand.
+The proposal also contains provisions aimed at smoothening auctioning supply in the years around transitions between trading phases in
+cases where the default would otherwise have resulted in sharp changes. If the volume of allowances that should be auctioned in the last year
+of the period exceeds the average amount to be auctioned in the two following years by more than 30%, this difference will be evenly
+distributed over these years. This provision builds on the experience gained in the transition from phase 2 to phase 3 of the EU ETS.
+
+2014/0011(COD) - 02/03/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on the Environment, Public Health and Food Safety adopted the report by IVO BELET (EPP, BE) on the proposal for a
+decision of the European Parliament and of the Council concerning the establishment and operation of a market stability reserve for the Union
+greenhouse gas emission trading scheme and amending Directive 2003/87/EC.
+The proposal aims to establish a market stability reserve for the EU Emissions Trading System (EU ETS), as part of the 2030 framework for
+climate and energy policies. This market stability reserve will operate as of phase 4 starting in 2021.
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should amend the Commissions proposal as follows:
+Market stability reserve: the market stability reserve should also ensure synergy with other climate policies such as those on renewable energy
+and energy efficiency. It shall be established in 2018 and shall operate by 31 December 2018 (as opposed to 1 January 2018).
+Back-loading: Commission Regulation (EU) No 176/2014 provided for the "back-loading" of 900 million allowances from the years 2014 - 2016,
+to years 2019 and 2020 (the end of phase 3 of the ETS).
+Members considered that the impact of the auctioning of those back-loaded allowances in 2019 and 2020 would run counter to the desired aim
+of the current proposal for a market stability reserve, which is a reduction in the surplus of allowances. Therefore, the back loaded allowances
+should not be auctioned but instead placed directly in the market stability reserve .
+Use of revenues: the report introduced a more precise obligation of how to use the auction revenues will prevent the use of these financial
+resources to cover state budget deficits. Auction revenues will be then really used to tackle the climate change and to support the transition of
+the EU to a low carbon economy in accordance with the principles of the Climate and Energy Package from 2008.
+Method of allocating allowances: Members proposed that 300 million allowances should be gradually be made available from the date of
+operation of the market stability reserve until 31 December 2025 and used for breakthrough industrial innovation projects in the sectors on the
+basis of objective and transparent criteria referred to in this Decision. Those 300 million allowances shall be taken from the unallocated
+allowances, as defined in this Decision.
+Review of Directive 2003/87/EC: by six months from the entry into force of this Decision, the Commission shall review Directive 2003/87/EC,
+with a view to effectively protecting the competitiveness of Union industries at genuine risk of carbon leakage , introducing a more accurate
+allocation of allowances and incentivising carbon-efficient growth without contributing to the over-supply of allowances.
+The Commission shall also consider a Union harmonised mechanism to compensate for indirect carbon costs resulting from this Directive so
+as so to ensure a level playing field at global and Union level. If appropriate it shall, in accordance with the ordinary legislative procedure,
+submit a proposal to the European Parliament and the Council.
+Review of the market stability reserve: within three years of the date of operation of the market stability reserve, the Commission shall review
+the market stability reserve. In its review, the Commission shall also look into the impact of the market stability reserve on European industrial
+competitiveness and on the risk of carbon leakage.
+
+2014/0011(COD) - 08/07/2015 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 495 votes to 158, with 49 abstentions, a legislative resolution on the proposal for a decision of the
+European Parliament and of the Council concerning the establishment and operation of a market stability reserve for the Union greenhouse
+
+gas emission trading scheme and amending Directive 2003/87/EC.
+Parliament adopted its position at first reading following the ordinary legislative procedure. The amendments adopted in plenary amend the
+Commissions proposal as follows:
+To recall, Directive 2003/87/EC establishes a system for greenhouse gas emission allowance trading within the Union ('EU ETS') in order to
+promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner.
+Market stability reserve: in order to address that problem and to make the EU ETS more resilient in relation to supply-demand imbalances, so
+as to enable the EU ETS to function in an orderly market, a market stability reserve should be established in 2018 and it should be operational
+as of 1 January 2019. The reserve will also enhance synergy with other climate and energy policies.
+The quantity of 900 million allowances deducted from auctioning volumes during the period 2014-2016, as determined in Regulation (EU) No
+176/2014 pursuant to Article 10(4) of Directive 2003/87/EC, shall not be added to the volumes to be auctioned in 2019 and 2020 but shall
+instead be placed in the reserve.
+Allowances not allocated to installations shall be placed in the reserve in 2020. The Commission shall review Directive 2003/87/EC in relation
+to those unallocated allowances and, if appropriate, submit a proposal to the European Parliament and to the Council.
+According to the amended text, where the conditions are met, beginning in 2019, an amount of allowances corresponding to 12% of the
+number of allowances in circulation, as set out in the most recent publication of the total number of allowances in circulation by the
+Commission, should be deducted each year from the auction volumes and placed in the reserve.
+In any given year, a corresponding number of allowances should be released from the reserve to Member States in the same proportions and
+order as applied when placing them in the reserve, and should be added to auction volumes if the relevant total number of allowances in
+circulation is less than 400 million.
+To this end, the Commission and the Member States should, without undue delay following the publication of the total number of allowances in
+circulation by the Commission by 15 May of a given year, ensure that the auction calendars of the common auction platform and, where
+applicable, of opt-out auction platforms are adjusted to take account of the allowances placed in or to be released from the reserve.
+The adjustment of the volume of allowances to be auctioned should be spread over a period of 12 months following the change to the relevant
+auctioning calendar.
+Review: the Commission shall monitor the functioning of the reserve in the context of the report provided for in Directive 2003/87/EC. That
+report should consider relevant effects on competitiveness, in particular in the industrial sector, including in relation to GDP, employment and
+investment indicators.
+Within three years of the start of the operation of the reserve and at five-year intervals thereafter, the Commission shall, on the basis of an
+analysis of the orderly functioning of the European carbon market, review the reserve and submit a proposal, where appropriate, to the
+European Parliament and to the Council.
+Each review shall pay particular attention to the percentage figure for the determination of the number of allowances to be placed in the
+reserve pursuant to this Decision, as well as the numerical value of the threshold for the total number of allowances in circulation and the
+number of allowances to be released from the reserve pursuant to this Decision. In its review, the Commission shall also look into the impact
+of the reserve on growth, jobs, the Unions industrial competitiveness and on the risk of carbon leakage.
+
+2014/0011(COD) - 06/10/2015 Final act
+PURPOSE: to establish a market stability reserve for the EU greenhouse gas emission trading scheme (EU ETS).
+LEGISLATIVE ACT: Decision (EU) 2015/1814 of the European Parliament and of the Council concerning the establishment and operation of a
+market stability reserve for the Union greenhouse gas emission trading scheme and amending Directive 2003/87/EC.
+CONTENT: Directive 2003/87/EC of the European Parliament and of the Council establishes a system for greenhouse gas emission allowance
+trading within the Union (EU ETS) in order to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient
+manner.
+According to the European Council conclusions of 23 and 24 October 2014 on the 2030 climate and energy policy framework, a
+well-functioning, reformed EU ETS with an instrument to stabilise the market will be the main European instrument to achieve the Union's
+greenhouse gas emissions reduction target.
+Market stability reserve: in order to make the EU ETS more resilient in relation to supply-demand imbalances, so as to enable the EU ETS to
+function in an orderly market, a market stability reserve should be established in 2018 and it should be operational as of 2019.
+The quantity of 900 million allowances deducted from auctioning volumes during the period 2014-2016, as determined in Regulation
+(EU) No 176/2014, shall not be added to the volumes to be auctioned in 2019 and 2020 but shall instead be placed in the reserve.
+Allowances not allocated to installations shall be placed in the reserve in 2020. The Commission shall review Directive 2003/87/EC in
+relation to those unallocated allowances and, if appropriate, submit a proposal to the European Parliament and to the Council.
+In order to preserve a maximum degree of predictability, clear rules should be set for placing allowances in the reserve and releasing them
+from it. The reserve should function by triggering adjustments to the annual auction volumes.
+Where the conditions are met, beginning in 2019, an amount of allowances corresponding to 12 % of the number of allowances in circulation ,
+as set out in the most recent publication of the total number of allowances in circulation by the Commission, should be deducted each year
+from the auction volumes and placed in the reserve over a period of 12 months beginning on 1 September of that year, unless the number of
+allowances to be placed in the reserve would be less than 100 million.
+In any given year, a corresponding number of allowances should be released from the reserve to Member States in the same proportions and
+order as applied when placing them in the reserve, and should be added to auction volumes if the relevant total number of allowances in
+
+circulation is less than 400 million.
+Review: the Commission shall monitor the functioning of the reserve in the context of the report provided for in Article 10(5) of Directive
+2003/87/EC. That report should consider relevant effects on competitiveness, in particular in the industrial sector, including in relation to GDP,
+employment and investment indicators.
+Within three years of the start of the operation of the reserve and at five-year intervals thereafter, the Commission shall, on the basis of an
+analysis of the orderly functioning of the European carbon market, review the reserve and submit a proposal, where appropriate, to the
+European Parliament and to the Council.
+Each review shall also look into the impact of the reserve on growth, jobs, the Union's industrial competitiveness and on the risk of carbon
+leakage.
+
+

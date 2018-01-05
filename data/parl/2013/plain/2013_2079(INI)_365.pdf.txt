@@ -1,0 +1,368 @@
+Procedure file
+Basic information
+2013/2079(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Developing and applying carbon capture and storage technology in Europe.
+Implementation report 2013
+
+Subject
+3.50.08 New technologies, biotechnology
+3.70.02 Atmospheric pollution, motor vehicle pollution
+3.70.03 Climate policy, climate change, ozone layer
+3.70.13 Dangerous substances, toxic and radioactive wastes (storage,
+transport)
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Appointed
+
+ENVI Environment, Public Health and Food Safety
+(Associated committee)
+
+ALDE DAVIES Chris
+
+15/04/2013
+
+Shadow rapporteur
+PPE GARDINI Elisabetta
+S&D PERELLÓ RODRÍGUEZ
+Andrés
+Verts/ALE EICKHOUT Bas
+ECR ROSBACH Anna
+
+European Commission
+
+Committee for opinion
+
+Rapporteur for opinion
+
+Appointed
+
+ITRE Industry, Research and Energy
+(Associated committee)
+
+ECR FORD Vicky
+
+05/06/2013
+
+Commission DG
+
+Commissioner
+
+Energy
+
+OETTINGER Günther
+
+Key events
+10/06/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+04/07/2013
+
+Referral to associated committees
+announced in Parliament
+
+27/11/2013
+
+Vote in committee, 1st reading/single
+reading
+
+04/12/2013
+
+Committee report tabled for plenary,
+single reading
+
+13/01/2014
+
+Debate in Parliament
+
+14/01/2014
+
+Results of vote in Parliament
+
+14/01/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+14/01/2014
+
+End of procedure in Parliament
+
+Technical information
+Procedure reference
+
+2013/2079(INI)
+
+A7-0430/2013
+
+Summary
+
+T7-0009/2014
+
+Summary
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Implementation
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/7/12253
+
+Documentation gateway
+For information
+
+COM(2013)0180
+
+27/03/2013
+
+EC
+
+Committee draft report
+
+PE516.832
+
+06/09/2013
+
+EP
+
+Amendments tabled in committee
+
+PE521.464
+
+09/10/2013
+
+EP
+
+PE516.706
+
+07/11/2013
+
+EP
+
+PE523.060
+
+26/11/2013
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A7-0430/2013
+
+04/12/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T7-0009/2014
+
+14/01/2014
+
+EP
+
+Summary
+
+Committee opinion
+
+ITRE
+
+Amendments tabled in committee
+
+Summary
+
+2013/2079(INI) - 27/03/2013 For information
+This Commission Communication on the Future of Carbon Capture and Storage in Europe (CCS) outlines the state of play in the area, taking
+into account the global context, and examines the available options to encourage the demonstration and deployment of CCS. It details the
+long-term arguments in favour of the integration of this technology in the EUs strategy for the transition to a low carbon economy.
+Perspectives and role of CCS: the Energy Roadmap 2050, as well as global developments and reports make it evident that fossil fuels will stay
+in the global and European energy mix and will continue to be used in many industrial processes. According to the World Energy Outlook 2012
+report by the International Energy Agency (IEA), fossil fuels represent 80% of global energy use today, while it will represent 75% in 20 35.
+These trends are not consistent with the necessary mitigation of climate change.
+In the transition to a fully low-carbon economy, the Carbon Capture and Storage (CCS) technology, insofar as it has been commercialised, is
+one of the key ways to reconcile the rising demand for fossil fuels, with the need to reduce greenhouse gas emissions. Globally CCS is likely
+to be a necessity in order to keep the average global temperature rise below 2 degrees Celsius.
+CCS is at present one of the key available technologies that can help to reduce CO2 emissions in the power generation sector. In order to
+realise its potential, CCS needs to become a cost-competitive technology, so that it could start to be commercially deployed and thus
+contribute to the low-carbon transition of the European economy.
+EU action and weaknesses: the EU is determined to support CCS both financially and from a regulatory perspective:
+following the European Council's decision back in 2007 to support up to 12 large-scale demonstration projects by 2015, the
+Commission took a number of steps to establish a common regulatory and demonstration support framework;
+the CCS Directive was adopted to provide a legal framework for CO2 capture, transport and storage, with transposition deadline set at
+June 2011;
+the CO2 transport network was included in Europe's Energy Infrastructure Priorities (EIP) tabled in November 2010 and in the
+Commission's proposal for a regulation on "Guidelines for Trans European Infrastructure";
+the European Industrial Initiative (EII) on CCS has been established as part of the Strategic Energy Technology (SET) Plan ;
+two funding instruments have been set up: the European Energy Programme for Recovery (EEPR) and the NER300 programme
+funded by ETS allowances to channel substantial EU funding to large scale demonstration projects.
+Despite these efforts, CCS has not yet taken off in Europe. The CCS commercial scale demonstration projects in the EU are delayed and
+available funding is not sufficient. Further delays may ultimately result in the need of the European industry to purchase CCS technology from
+non EU countries in the future.
+Need for action: the Commission considers that an urgent policy response to the prime challenge of stimulating investment in CCS
+demonstration is required to test whether the subsequent deployment and construction of CO2 infrastructure is feasible. The first step on this
+path is therefore to ensure a successful commercial-scale demonstration of CCS in Europe. In the longer term, CCS is also necessary to be
+able to reduce emissions in industries with process emissions that cannot be avoided.
+In the light of the work started on the 2030 energy and climate framework and the need for an informed debate, including the issue of the
+determining factors for successful CCS deployment, the Commission invites contributions on the role of CCS in Europe, particularly:
+the need to require Member States to draw up a national strategy on the deployment of CCS or to draw up a roadmap detailing how
+they plan to restructure their electricity generation sector towards non-carbon emitting fuels (nuclear or renewables) by 2050;
+how the ETS could be restructured so that it could also provide meaningful incentives for CCS deployment;
+
+how the Commission might propose other measures paving the road towards a rapid deployment by: (i) support through auctioning
+recycling or other funding approaches; (ii) an Emission Performance Stanbdard; and (iii) a CCS certificate system;
+a requirement to install CCS-ready equipment for all new investments (coal and potentially also gas) in order to facilitate the
+necessary CCS retrofit;
+how to ensure the involvement of fuel providers in the demonstration and deployment of CCS, how to remedy the main obstacles to
+ensuring sufficient demonstration of CCS and how can public acceptance for CCS be increased.
+Based on the responses to this consultation and the full analysis of the CCS Directives transposition and implementation in the Member
+States, the Commission will consider the need to prepare proposals.
+
+2013/2079(INI) - 04/12/2013 Committee report tabled for plenary, single reading
+The Committee on the Environment, Public Health and Food Safety adopted the own-initiative report by Chris DAVIES (ALDE, UK) on
+implementation report 2013: developing and applying carbon capture and storage technology in Europe.
+The Committee on the Environment, Public Health and Food Safety, exercising its prerogative as an association committee in accordance with
+Rule 50 of the Parliaments Rules of Procedure, was also consulted for an opinion on the report.
+Carbon Capture and Storage (CCS) is a promising technology that may be the only means of achieving significant CO2 reductions from
+industrial sources. It is necessary to deliver almost 20 % of the CO2 reductions needed by 2050, and if CCS is not deployed, an additional
+40 % in electricity investment will be needed to prevent a temperature rise in excess of 2°C.
+In 2007 EU heads of government aspired to have up to 12 CCS demonstration plants in operation by 2015, but as their financial viability
+depended on there being a high carbon price these ambitions cannot now be realised. The EU is losing its technological lead in CCS and with
+only one project still being considered for NER300 funding, and European Energy Programme for Recovery projects having been terminated
+or suspended now has no effective policy to promote development of CCS flagship projects.
+Raising ambitions: Members recognised that CCS deployment has the potential to allow the EU to meet its 2050 low?carbon aspirations at a
+low cost and that it is necessary in particular for decarbonising high CO2 emitting industries. They affirmed the urgent need to develop a range
+of full-chain CCS flagship projects so as to identify the best and economically most advantageous solutions. Given the substantial investment
+required, instruments in addition to the EU emissions trading system (ETS) are needed to foster research and the technical and safe
+application of CCS.
+The Commission is called upon to :
+encourage CCS deployment not only in connection with coal and gas power generation but also in a range of industrial sectors such
+as chemicals, metallurgy, iron and steel, cement and refineries;
+address the issue of CCS deployment within the 2030 climate and energy framework, and should bring forward proposals for
+promoting the early construction of CCS flagship projects;
+adopt far?reaching measures to foster international cooperation and to promote the use of technologies for mitigating the effects of
+climate change.
+Leading role of Member States: the report recognised that CCS deployment cannot take place without support from Member States and
+private investors, and that the former have an absolute and sovereign right to encourage or prevent its application. It reminded the
+Commission that Parliament has called for legislation to require every Member State to produce a 2050 low-carbon strategy and suggested
+that these national roadmaps should be updated at five-yearly intervals.
+EU regulation and funding: Members called on the Commission to consider creating an EU industrial innovation investment fund to support the
+development of innovative climate-friendly technologies including CCS flagship projects, other innovative low-carbon technologies, and
+measures to reduce CO2 emissions from energy-intensive industries and their processes which could be financed from the sale of allowances
+from the EU ETS. This should not lead to a new demand on the EU budget.
+Longer-term CCS support should be derived principally from an appropriate CO2 price signal and any interim financial support required from
+Member States or the EU would best be derived from the production and import of the fossil fuels mainly responsible for CO2 emissions. The
+Commission should facilitate debate on possible options by carrying out an analysis of systems requiring the purchase of CCS certificates
+proving the CO2 emissions avoided, through storage or treatment, in proportion to the CO2 embedded within the fossil fuels placed on the
+market.
+Guidelines for Member States should be prepared with regard to the various financial and other mechanisms which they could deploy to
+support and incentivise CCS development, and to access support funds from within the EU budget.
+The report suggested that the Commission should consider how use could be made of the EU Coal and Steel Research Fund to support CCS
+pre-commercial demonstration in these industrial sectors.
+Transport and storage sites: Members acknowledged that significant financial savings can be made by establishing CCS clusters of industrial
+installations served by shared pipelines or other CO2 transport systems. They emphasised that Member States seeking the deployment of
+CCS may have a direct role to play in ensuring the provision of CCS transport and determining the availability of storage infrastructure.
+They supported EU measures and funding to establish a common definition of a storage sites character, identify appropriate storage locations
+across Europe, develop pilot projects, and prepare sites for commercial-scale storage on the territory of supportive Member States.
+Storage liabilities: Members noted the concern of some potential CCS developers that the requirements and liabilities placed upon them for the
+geological storage of CO2 in sites approved by Member States are unquantifiable and excessive. Any accidental release of CO2 from a
+storage site must be prevented and the environmental integrity of the project protected. The Commission should offer guidance regarding the
+degree to which the details of compliance arrangements should be determined in advance through negotiation between potential operators
+and the competent authorities of the Member States concerned. The report suggested that the CCS Directive requirement that in the event of
+
+CO2 leakage operators must surrender allowances does not take into account the costly remedial efforts required. Members feared that this
+obligation puts a further obstacle in the way of CCS development and called on the Commission to propose a revision in its assessment of the
+CCS Directive.
+Capture and storage-ready status: Members insisted that it is no longer acceptable to invest in power plants or industrial installations likely to
+emit large quantities of CO2 without regard to how this will be reduced in future. The Commission and the Member States to improve
+communication in order to raise public awareness of CCS.
+The report asked the Commission to analyse and submit a report on the level of CCS which would need to be deployed by certain key dates,
+for example 2030, in order for CCS to make a significant contribution to 2050 emissions reduction targets.
+Carbon capture and use: whilst welcoming the various initiatives to make use of CO2 in ways that reduce overall emissions into the
+atmosphere and create alternative products such as sustainable transport fuels, Members called in particular for the Commission to assess
+urgently the potential for the secure use of CO2 to enhance oil and gas recovery within the EU.
+
+2013/2079(INI) - 14/01/2014 Text adopted by Parliament, single reading
+The European Parliament adopted by 524 votes to 141 with 25 abstentions a resolution on implementation report 2013: developing and
+applying carbon capture and storage technology in Europe.
+Carbon Capture and Storage (CCS) might be the only means of achieving significant CO2 reductions from industrial sources, yet required
+investment and industrial-scale demonstration to promote innovation, secure cost reductions, and confirm its environmental safety. The
+International Energy Agency suggested that CCS was necessary to deliver almost 20 % of the CO 2 reductions needed by 2050, and claimed
+that if CCS is not deployed, an additional 40 % in electricity investment would be needed to prevent a temperature rise in excess of 2°C.
+In 2007 EU heads of government aspired to have up to 12 CCS demonstration plants in operation by 2015, but as their financial viability
+depended on there being a high carbon price these ambitions cannot now be realised. The EU is losing its technological lead in CCS and with
+only one project still being considered for NER300 funding, and European Energy Programme for Recovery projects having been terminated
+or suspended now has no effective policy to promote development of CCS flagship projects.
+Raising ambitions: Members recognised that CCS deployment has the potential to allow the EU to meet its 2050 low-carbon aspirations at
+least cost and that it was necessary in particular for decarbonising high CO 2 emitting industries. They believed that it might also contribute to
+the diversity and security of energy supplies while creating employment opportunities. Parliament affirmed the urgent need to develop a range
+of full-chain CCS flagship projects so as to identify the best and economically most advantageous solutions, and called on the Commission to
+set goals for the achievement of this objective. It called on the Commission to encourage CCS deployment not only in connection with coal and
+gas power generation but also in a range of industrial sectors such as chemicals, metallurgy, iron and steel, cement and refineries. Members
+insisted that the Commission should address the issue of CCS deployment within the 2030 climate and energy framework, and should bring
+forward proposals for promoting the early construction of CCS flagship projects.
+Leading role of Member States: Parliament emphasised that, in the absence of a high carbon price, Member States that wish to promote
+deployment of CCS have the key role to play in providing a transparent revenue stream and such other financial support as may be necessary
+to secure the construction and operation of flagship projects, while enabling operators who face high first-mover costs to secure a return on
+their investment. EU regulation and funding: Members called on the Commission to consider creating an EU industrial innovation investment
+fund to support the development of innovative climate-friendly technologies including CCS flagship projects, other innovative low-carbon
+technologies, and measures to reduce CO2 emissions from energy-intensive industries and their processes which could be financed from the
+sale of allowances from the EU ETS. This should not lead to a new demand on the EU budget. Longer-term CCS support should be derived
+principally from an appropriate CO2 price signal. The Commission should facilitate debate on possible options by carrying out an analysis of
+systems requiring the purchase of CCS certificates proving the CO2 emissions avoided, through storage or treatment, in proportion to the CO2
+embedded within the fossil fuels placed on the market. Guidelines for Member States should be prepared with regard to the various financial
+and other mechanisms which they could deploy to support and incentivise CCS development, and to access support funds from within the EU
+budget.
+Transport and storage sites: Members acknowledged that significant financial savings can be made by establishing CCS clusters of industrial
+installations served by shared pipelines or other CO2 transport systems. They emphasised that Member States seeking the deployment of
+CCS may have a direct role to play in ensuring the provision of CCS transport and determining the availability of storage infrastructure
+They supported EU measures and funding to establish a common definition of a storage sites character, identify appropriate storage locations
+across Europe, develop pilot projects, and prepare sites for commercial-scale storage on the territory of supportive Member States.
+Storage liabilities: Members noted the concern of some potential CCS developers that the requirements and liabilities placed upon them for the
+geological storage of CO2 in sites approved by Member States were unquantifiable and excessive. Any accidental release of CO2 from a
+storage site must be prevented and the environmental integrity of the project protected. The Commission should offer guidance regarding the
+degree to which the details of compliance arrangements should be determined in advance through negotiation between potential operators
+and the competent authorities of the Member States concerned. Parliament pointed out that the CCS Directive gave Member States wide
+flexibility to determine the financial security to be provided by CCS operators and the period before which responsibility for a closed storage
+site was transferred to the competent authority. It suggested that Member States that seek to promote CCS development would have to play a
+more entrepreneurial role and accept a greater share of the responsibilities than presently understood. It called on the Commission to revise its
+CCS Directive guidance documents to clarify these points. Members also suggested that the CCS Directive requirement that in the event of
+CO2 leakage operators must surrender allowances did not take into account the costly remedial efforts required. They feared that this
+obligation puts a further obstacle in the way of CCS development and called on the Commission to propose a revision in its assessment of the
+CCS Directive.
+Capture and storage-ready status: the Commission and Member States to improve communication in order to raise public awareness of CCS.
+Parliament also asked the Commission to submit a report on the level of CCS which would need to be deployed by certain key dates, for
+example 2030, in order for CCS to make a significant contribution to 2050 emissions reduction targets.
+Carbon capture and use: whilst welcoming the various initiatives to make use of CO2 in ways that reduce overall emissions into the
+
+atmosphere and create alternative products such as sustainable transport fuels, Members called in particular for the Commission to assess
+urgently the potential for the secure use of CO2 to enhance oil and gas recovery within the EU.
+
+

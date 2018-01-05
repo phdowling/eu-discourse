@@ -1,0 +1,567 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0297(COD)
+
+Procedure completed
+
+Rail transport statistics: collection of data on goods, passengers and
+accidents
+Amending Regulation (EC) No 91/2003 2001/0048(COD)
+Subject
+3.20.02 Rail transport: passengers and freight
+3.20.20 Transport statistics
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Transport and Tourism
+
+Rapporteur
+
+Appointed
+
+Verts/ALE CRAMER Michael 25/09/2013
+Shadow rapporteur
+PPE SCHMIDT Claudia
+S&D LIBERADZKI Bogusław
+ALDE MEISSNER Gesine
+ECR ZĪLE Roberts
+GUE/NGL GONZÁLEZ
+PEÑAS Tania
+
+Former committee responsible
+TRAN
+
+Transport and Tourism
+
+Verts/ALE CRAMER Michael 25/09/2013
+
+Former committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+THYSSEN Marianne
+
+Key events
+30/08/2013
+
+Legislative proposal published
+
+10/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+06/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+11/03/2014
+
+Results of vote in Parliament
+
+11/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+13/10/2014
+
+Committee decision to open
+interinstitutional negotiations after 1st
+reading in Parliament
+
+COM(2013)0611
+
+Summary
+
+A7-0002/2014
+
+Summary
+
+T7-0197/2014
+
+Summary
+
+13/10/2014
+
+Committee decision to open
+interinstitutional negotiations after 1st
+reading in Parliament
+
+15/06/2016
+
+Approval in committee of the text agreed
+at early 2nd reading interinstitutional
+negotiations
+
+19/07/2016
+
+Council position published
+
+15/09/2016
+
+Committee referral announced in
+Parliament, 2nd reading
+
+11/10/2016
+
+Vote in committee, 2nd reading
+
+18/10/2016
+
+PE609.558 PE609.555
+
+10000/1/2016
+
+Summary
+
+Committee recommendation tabled for
+plenary, 2nd reading
+
+A8-0300/2016
+
+Summary
+
+25/10/2016
+
+Decision by Parliament, 2nd reading
+
+T8-0398/2016
+
+Summary
+
+26/10/2016
+
+Final act signed
+
+26/10/2016
+
+End of procedure in Parliament
+
+23/11/2016
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0297(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 91/2003 2001/0048(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+TRAN/8/06601
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0611
+
+30/08/2013
+
+EC
+
+Committee draft report
+
+PE521.755
+
+23/10/2013
+
+EP
+
+Amendments tabled in committee
+
+PE523.118
+
+22/11/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0002/2014
+
+06/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0197/2014
+
+11/03/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)455
+
+10/06/2014
+
+10792/2016
+
+08/07/2016
+
+CSL
+
+10000/1/2016
+
+19/07/2016
+
+CSL
+
+Summary
+
+COM(2016)0506
+
+10/08/2016
+
+EC
+
+Summary
+
+PE587.493
+
+05/09/2016
+
+EP
+
+A8-0300/2016
+
+18/10/2016
+
+EP
+
+Council statement on its position
+Council position
+Commission communication on Council's position
+Committee draft report
+Committee recommendation tabled for plenary,
+
+Summary
+
+Summary
+
+2nd reading
+Text adopted by Parliament, 2nd reading
+
+T8-0398/2016
+
+25/10/2016
+
+EP
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2016/2032
+OJ L 317 23.11.2016, p. 0105 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0297(COD) - 30/08/2013 Legislative proposal
+PURPOSE: to modify Regulation (EC) No 91/2003 in order to update, simplify and optimise the existing legal framework for European
+statistics on rail transport and to align it with the new institutional context.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: Eurostats rail transport statistics are predominantly based on Regulation (EC) No 91/2003 of the European Parliament and of
+the Council, Commission Regulation (EC) No 1192/2003 and Commission Regulation (EC) No 332/2007. These Regulations cover passenger
+and freight transport by rail, as well as rail safety.
+The Commission needs statistics on the transport of goods and passengers by rail in order to monitor and develop the common transport
+policy. Detailed rail transport statistics for goods and passengers and information on intermodality are necessary to monitor the targets set in
+the 2011 Commissions White Paper.
+Eurostat has conducted a technical analysis of the existing data on rail statistics collected under the Union legislation and of the dissemination
+policy, within its Working Group and Task Force on rail transport statistics.
+In its report to the European Parliament and the Council on the experience acquired in the application of the Regulation (EC) No 91/2003, the
+Commission mentions that long term developments will probably mean the suppression or simplification of the data already collected under the
+Regulation, and that the intention is to reduce the data transmission period for annual data on rail passengers.
+IMPACT ASSESSMENT: no impact assessment was undertaken. The proposal is the result of in-depth negotiations between all interested
+parties.
+LEGAL BASIS: Article 338(1) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the aim of this proposal is thus to modify Regulation (EC) No 91/2003 in order to update, simplify and optimise the existing legal
+framework for European statistics on rail transport and to align it with the new institutional context.
+Data on transport of passengers: in line with Annexes C and D to Regulation (EC) 91/2003 on rail transport statistics, countries are currently
+required to provide annual statistics on passenger transport, under detailed and/or simplified reporting. The Commission proposed to delete
+Annex D (simplified reporting) and the provisional Tables C1 and C2 in Annex C, while shortening the deadline for providing the final
+passenger data from 14 months to eight months after the end of the reference period.
+Data on transport of goods: in the interests of consistency, it is also proposed to delete Annex B (simplified reporting).
+New Annex: as it is proposed to abandon the current concept of simplified reporting, for the smallest undertakings below the specified
+thresholds, Member States would have to report a total figure for aggregated indicators in Annex L.
+Data on accidents: as data on accidents are also collected by the European Rail Agency, it is proposed to delete Annex H (statistics on
+accidents).
+Annex I: as the concept of simplified reporting will disappear, it is proposed to delete this Annex as it is currently used only to validate
+coverage between simplified and detailed reporting in relation to the total rail activity of undertakings.
+Thresholds: the present thresholds are established for tonne-km and passenger-km, i.e. multiplication of tonnes/passengers transported and
+the distance covered in kilometres.
+As significant rail activity involves only small distances in some Member States, it is proposed to decrease the thresholds both for goods and
+passengers, in order to minimise the loss of important data. For the same reason, a double threshold in tonnes transported and in tonne-km is
+proposed for goods.
+Transit data: it is proposed that Rail Waybill information (if available) be used when administrative data are used as the data source.
+Lastly, the proposed amendment of Regulation (EC) No 91/2003 takes into account the necessary adjustments to the Treaty on the
+
+Functioning of the European Union as regards granting the Commission delegated and implementing powers.
+BUDGETARY IMPLICATION: this proposal has no implications for the EU budget.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union (TFEU).
+
+2013/0297(COD) - 06/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Transport and Tourism adopted the report by Michael CRAMER (Greens/EFA, DE) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 91/2003 of the European Parliament and of the Council of 16
+December 2002 on rail transport statistics, as regards the collection of data on goods, passengers and accidents.
+The parliamentary committee recommended that the position of the European Parliament adopted at first reading under the ordinary legislative
+procedure modify the Commission proposal as follows.
+Extension of data collection: the Members took the view that data collection should be extended in relation to rail infrastructure, such as for
+example:
+·
+
+the number of kilometres of rail infrastructure, equipped with the European Rail Traffic Management System(ERTMS) system;
+
+·
+
+the number of cross-border rail infrastructure points, used more frequently for passenger transport than every hour, than every two
+hours and less frequently than every two hours;
+
+·
+
+the number of cross-border rail points, abandoned for use of passengers or freight transport or dismantled rail infrastructure;
+
+·
+
+the number of stations, barrier-free, accessible for persons with reduced mobility (PRMs) and disabled persons.
+
+The report proposed adding some categories of data such as distance-based rail freight modal shares based on distance, in tonnes by
+kilometre, the number of locomotives equipped with the ERTMS system or the number of new and retro-fitted silent freight wagons equipped
+with composite brake blocks.
+Data on accidents and incidents: the requirement to collect data on accidents should remain with Eurostat and the European Rail Agency.
+Eurostat should closely cooperate with the European Railway Agency in the collection of rail accident data in order to ensure that the data
+obtained are consistent and fully comparable. Moreover, a requirement to collect data on incidents is proposed, since this contributes to a
+higher level of rail safety.
+Delegated powers: Members were of the opinion that there is a need for streamlining the powers delegated to the Commission to safeguard
+the Parliaments prerogatives.
+The power to adopt delegated acts shall be conferred on the Commission for a period of five years (renewable) from the date of the entry into
+force of the amending Regulation.
+When preparing and drawing up delegated acts, the Commission should consult the rail sector.
+Report: within three years after the date of entry into force of this Regulation and every three years thereafter, the Commission shall submit a
+report on the implementation of this Regulation. The report shall assess the quality of the statistics produced, especially with regards to data
+losses, resulting from the deletion of simplified reporting.
+
+2013/0297(COD) - 11/03/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 599 votes to 27 with 61 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 91/2003 of the European Parliament and of the Council on rail
+transport statistics, as regards the collection of data on goods, passengers and accidents.
+Extension of data collection: Parliament took the view that data collection should be extended in relation to rail infrastructure, such as for
+example:
+·
+
+the number of kilometres of rail infrastructure, equipped with the European Rail Traffic Management System(ERTMS) system and the
+length in kilometres of the rail network continuously equipped with ERTMS (in the Member State);
+
+·
+
+the number of cross-border rail infrastructure points, used more frequently for passenger transport than every hour, than every two
+hours and less frequently than every two hours;
+
+·
+
+the number of cross-border rail points, abandoned for use of passengers or freight transport or dismantled rail infrastructure;
+
+·
+
+the number of stations, barrier-free, accessible for persons with reduced mobility (PRMs) and disabled persons.
+
+Parliament proposed adding some categories of data such as distance-based rail freight modal shares based on distance, in tonnes by
+kilometre, the number of locomotives equipped with the ERTMS system.
+Data on accidents and incidents: the requirement to collect data on accidents should remain with Eurostat and the European Rail Agency.
+Eurostat should closely cooperate with the European Railway Agency in the collection of rail accident data in order to ensure that the data
+obtained are consistent and fully comparable. Moreover, a requirement to collect data on incidents is proposed, since this contributes to a
+higher level of rail safety.
+Member States must take all measures necessary to ensure the quality of data transmitted.
+Delegated powers: Members were of the opinion that there is a need for streamlining the powers delegated to the Commission to safeguard
+
+the Parliaments prerogatives.
+The power to adopt delegated acts shall be conferred on the Commission for a period of five years (renewable) from the date of the entry into
+force of the amending Regulation.
+When preparing and drawing up delegated acts, the Commission should consult the rail sector.
+Report: within three years after the date of entry into force of this Regulation and every three years thereafter, the Commission shall submit a
+report on the implementation of this Regulation. The report shall assess the quality of the statistics produced, especially with regards to data
+losses, resulting from the deletion of simplified reporting.
+
+2013/0297(COD) - 19/07/2016 Council position
+The Council adopted its position at first reading with a view to the adoption of a Regulation and of the European Parliament amending
+Regulation (EC) No 91/2003 on rail transport statistics, as regards the collection of data on goods, passengers and accidents.
+The aim of the Commissions proposal is to modify Regulation (EC) No 91/20031 in order to update, simplify and optimise the existing legal
+framework for European statistics on rail transport and to align it with the Treaty on the Functioning of the European Union (TFEU), as far as
+delegated and implementing powers is concerned.
+The main elements of the Council position are as follows:
+Statistics on the transport of goods and passengers by rail: according to the draft Regulation, these statistics are necessary to enable the
+Commission to monitor and develop the common transport policy, as well as the transport elements of policies relating to the regions and to
+trans-European networks.
+Statistics on rail safety are also necessary to enable the Commission to prepare and monitor Union action in the field of transport safety.
+A new recital highlights that it is necessary to establish appropriate cooperation agreements between the Commissions services and relevant
+entities with a view to providing easily accessible and useful information to Union citizens and other stakeholders on rail transport safety and
+interoperability of the rail system.
+Data collection: Member States shall report under Annexes A and C data for undertakings that have:
+a total volume of goods transport of at least 200 000 000 tonne-km or at least 500 000 tonnes;
+a total volume of passenger transport of at least 100 000 000 passenger-km.
+Reporting under Annexes A and C shall be optional in respect of undertakings falling below the thresholds referred to above.
+Quality of data: Member States shall take all measures necessary to ensure the quality of the data transmitted. The Commission shall adopt
+implementing acts specifying the detailed arrangements, structure, periodicity and comparability elements for the standard quality reports.
+Delegated powers: the Commission shall be empowered to adopt delegated acts to adapt the technical definitions and to provide for additional
+technical definitions, when needed to take into account new developments which require a certain level of technical detail to be defined in
+order to ensure the harmonisation of statistics.
+Reports on implementation: by 31 December 2020 and every four years thereafter, the Commission, after consulting the European Statistical
+System Committee, shall submit a report to the European Parliament and to the Council on the implementation of this Regulation and on future
+developments.
+
+2013/0297(COD) - 10/08/2016 Commission communication on Council's position
+The Commission supported the Council position given that the compromise reached is very close to the Commissions original proposal.
+Furthermore, it creates no additional burden for data providers and is thus in line with the aim of simplifying the existing legal framework for
+European statistics on rail transport.
+With regard to the alignment of Regulation (EC) No 91/2003 with the TFEU, despite some limitations, the compromise provides a good
+balance between delegated and implementing acts. The Commission stated that his text is an example of the successful application of the new
+Interinstitutional Agreement on Better Law-Making of 13 April 2016.
+The main issue blocking the file was reaching an understanding with the European Parliament on the formalisation of the sharing of data
+between Eurostat, the European Railway Agency (ERA) and the Directorate-General for Mobility and Transport (DG MOVE) through bilateral
+Memoranda of Understanding.
+A consensus was eventually reached with the signature of two MoU, one between Eurostat and DG MOVE and one between Eurostat and
+ERA. These gave the European Parliament the guarantee that the data it requested will be processed and made available.
+Amendments adopted by the European Parliament: the Commission recalled that on 11 March 2014, the European Parliament adopted a
+legislative resolution proposing 23 amendments. The Commission rejected the majority of them, including the requests for additional variables.
+In particular, the European Parliament was of the opinion that data collection should be extended further to include rail infrastructure data, and
+that there should be more measurement variables for statistics on passenger transport , in particular with regard to cross-border connections
+that it considered should be at the heart of the EUs transport policy.
+The main amendments relating to the explicit addition of new variables were not included in the Council position.
+Provisions modified by the Council: Article 3(2) of the Regulation refers to the sole power conferred on the Commission to adopt delegated
+acts in order to adapt existing technical definitions and introduce new technical definitions.
+
+Although the Commission regrets the limited nature of the empowerment given relative to the original proposal, it can however consider the
+current provision acceptable in the spirit of reaching an agreement.
+The Commission also approved the new provisions on implementing measures to be adopted laying down the arrangements for the
+dissemination of results as well as the reports to be presented by the Commission to the European Parliament.
+
+2013/0297(COD) - 18/10/2016 Committee recommendation tabled for plenary, 2nd reading
+The Committee on Transport and Tourism adopted the recommendation for second reading contained in the report by Michael CRAMER
+(Greens/EFA, DE) on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the
+Council amending Regulation (EC) No 91/2003 on rail transport statistics, as regards the collection of data on goods, passengers and
+accidents.
+The committee recommended the European Parliament to approve the Council position at first reading without amendment.
+The explanatory statement accompanying the recommendation recalled the Parliaments priorities:
+extend the scope of the Regulation on rail transport statistics to cover data on infrastructure, in particular on European Rail Traffic
+Management System (ERTMS) deployment, which was one of the priorities of the Trans-European Transport Network (TEN-T);
+Eurostat should make available statistical data on barrier-free stations accessible to persons with reduced mobility and disabled
+persons as well as on the use of cross-border rail infrastructures;
+statistics on rail accidents should be maintained within the scope of the Regulation and even extended to cover accidents and
+incidents involving the transport of dangerous goods and accidents involving level crossings;
+Eurostat and the European Railway Agency should closely cooperate in improving statistics on rail accidents and in particular ensure
+the methodological consistency with regard to accident data on other modes of transport;
+EU citizens should have an easy access - as a one-stop shop - to data related to the implementation of EU policies.
+The Council and Parliament agreed that the most efficient and cost-effective way to avoid duplication of work between Eurostat, the
+Commission and the European Railway Agency (ERA) was to reinforce cooperation between these institutions and ensure that statistical data
+related to EU policies are easily accessible to EU citizens and stakeholders.
+An agreement on a simplification of the Regulation on rail transport statistics was only possible after the signature of two Memoranda of
+Understanding (MoUs) between Eurostat and the Commission (27/04/2016) and between Eurostat and ERA (12/05/2016).
+These MoUs are not only important instruments towards optimisation of the use of existing information and reduction of administrative burden,
+but would also satisfy requirements raised by the co-legislators as regards the better use of rail transport statistics. They would provide all
+categories of users with easily accessible data and reliable information on the progress of European policies in the rail sector.
+
+2013/0297(COD) - 25/10/2016 Text adopted by Parliament, 2nd reading
+The European Parliament adopted a legislative resolution on the Council position at first reading with a view to the adoption of a regulation of
+the European Parliament and of the Council amending Regulation (EC) No 91/2003 on rail transport statistics, as regards the collection of data
+on goods, passengers and accidents.
+A motion to reject the Council position, tabled by the EFDD group, was rejected in plenary.
+In line with the recommendation for second reading by the Committee on Transport and Tourism, Parliament approved the Council position at
+first reading without amendment.
+
+2013/0297(COD) - 26/10/2016 Final act
+PURPOSE: to update, simplify and optimise the existing legal framework for European statistics on rail transport.
+LEGISLATIVE ACT: Regulation (EU) 2016/2032 of the European Parliament and of the Council amending Regulation (EC) No 91/2003 on rail
+transport statistics, as regards the collection of data on goods, passengers and accidents.
+CONTENT: this Regulation amends Regulation (EC) No 91/2003 in order to update, simplify and optimise the existing legal framework for
+European statistics on rail transport and to align it with the new institutional context on conferring delegated powers and implementing acts to
+the Commission in view of the adoption of certain measures.
+Statistics on the transport of goods and passengers by rail: the Regulation stressed the need for statistics to enable the Commission to:
+monitor and develop the common transport policy, and the transport elements of policies on the regions and on trans-European
+network;
+ensure the preparation and monitoring of EU actions in the field of transport safety.
+A new recital considered the importance of avoiding duplication of work and stated that it is necessary to establish appropriate cooperation
+agreements on statistical activities between the Commission's services and relevant entities, including at international level with a view to
+providing easily accessible and useful information to Union citizens and other stakeholders on rail transport safety and interoperability of the
+rail system, including the rail infrastructure.
+Data collection: the Regulation stipulated that Member States shall report under Annexes A and C data for undertakings that have:
+a total volume of goods transport of at least 200 000 000 tonne-km or at least 500 000 tonnes;
+
+a total volume of passenger transport of at least 100 000 000 passenger-km.
+Reporting under Annexes A and C shall be optional in respect of undertakings falling below these thresholds.
+Member States shall take all measures necessary to ensure the quality of the data transmitted.
+Delegated powers: the Commission shall be empowered to adopt delegated acts to adapt the technical definitions and to provide for additional
+technical definitions, when needed to take into account new developments which require a certain level of technical detail to be defined in
+order to ensure the harmonisation of statistics. The delegated acts shall not impose a significant additional burden on the Member States or on
+the respondents.
+Reports: by 31 December 2020 and every four years thereafter, the Commission, after consulting the European Statistical System Committee,
+shall submit a report to the European Parliament and to the Council on the implementation of this Regulation and on future developments.
+ENTRY INTO FORCE: 13.12.2016.
+DELEGATED ACTS: the power to adopt delegated acts shall be conferred on the Commission for a period of five years from 13 December
+2016. The European Parliament or the Council shall have the right to object to a delegated act within a period of two months (extendable for
+two months) from the date of notification.
+
+

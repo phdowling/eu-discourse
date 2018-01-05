@@ -1,0 +1,323 @@
+Procedure file
+Basic information
+2016/2007(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Virtual currencies
+
+Subject
+2.50.04.02 Electronic money and payments, cross-border credit transfers
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+09/07/2015
+
+VON WEIZSÄCKER
+Jakob
+Shadow rapporteur
+
+MARTUSCIELLO Fulvio
+
+FOX Ashley
+
+JEŽEK Petr
+
+VIEGAS Miguel
+
+SCOTT CATO Molly
+
+ZANNI Marco
+KAPPEL Barbara
+Committee for opinion
+INTA
+
+IMCO
+
+International Trade
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Internal Market and Consumer Protection
+
+25/01/2016
+TREBESIUS Ulrike
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Economic and Financial Affairs
+
+MOSCOVICI Pierre
+
+Key events
+21/01/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/04/2016
+
+Vote in committee, 1st reading/single
+reading
+
+03/05/2016
+
+Committee report tabled for plenary,
+single reading
+
+25/05/2016
+
+Debate in Parliament
+
+26/05/2016
+
+Results of vote in Parliament
+
+A8-0168/2016
+
+Summary
+
+26/05/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+26/05/2016
+
+End of procedure in Parliament
+
+T8-0228/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/2007(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/05403
+
+Documentation gateway
+Committee draft report
+
+PE575.277
+
+23/02/2016
+
+EP
+
+Amendments tabled in committee
+
+PE580.442
+
+30/03/2016
+
+EP
+
+PE577.006
+
+21/04/2016
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0168/2016
+
+03/05/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0228/2016
+
+26/05/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2016)539
+
+12/10/2016
+
+Committee opinion
+
+IMCO
+
+2016/2007(INI) - 03/05/2016 Committee report tabled for plenary, single reading
+The Committee on Economic and Monetary Affairs adopted an own-initiative report by Jakob von WEIZSÄCKER (S&D, DE) on virtual
+currencies.
+Members recalled that virtual currencies are most notably based on distributed ledger technology (DLT), the technological basis for more than
+600 virtual currency schemes, which facilitates 'peer-to-peer' exchange, the most prominent of which to date is Bitcoin. It was launched in 2009
+and currently holds a market share among DLT based virtual currencies of almost 90 %, with a market value of the outstanding Bitcoins of
+around EUR 5 billion, it has not yet reached systemic dimensions.
+Distributed ledger technology includes databases with varying levels of trust and resilience, with the potential to process large numbers of
+transactions rapidly, and with transformational capacity not only in the area of virtual currencies but also in fintech more broadly speaking.
+Opportunities and risks of VCs and DLT in the rapidly evolving technological landscape of payments: the report stressed that virtual currencies
+and distributed ledger technology have the potential to contribute positively to citizens welfare and economic development, including in the
+financial sector, by means of:
+lowering transaction and operational costs for payments and especially cross-border transfer of funds, quite possibly to well below 1
+%, compared to the traditional 2 % 4 % for online payment systems , and to more than 7 % on average for the cross border transfer of
+remittances;
+reducing the cost of access to finance even without a traditional bank account, thereby potentially contributing to financial inclusion;
+enhancing the resilience and, depending on the architecture of the scheme, the speed of payment systems and trade in goods and
+services thanks to the inherently decentralised architecture of DLT, which might continue to operate reliably even if parts of its network
+were to malfunction or to be hacked;
+enabling systems that combine ease of use, low transaction and operational costs and a high degree of privacy, but without full
+anonymity so that transactions are traceable to a certain extent.
+However, virtual currencies and distributed ledger technology schemes entail risks which need to be addressed appropriately so as to
+enhance their trustworthiness, including in the present circumstances, namely:
+the absence of flexible, but resilient and reliable, governance structures:
+the high volatility of virtual currencies and the potential for speculative bubbles, and the absence of traditional forms of regulatory
+supervision, safeguards and protection, issues which are especially challenging for consumers;
+potential sources of financial instability that might be associated with derivative products;
+
+the potential for 'black market' transactions, money laundering, terrorist financing, tax fraud and evasion and other criminal activities.
+The report suggested that addressing these risks will require enhanced regulatory capacity, including technical expertise, and the development
+of a sound legal framework that keeps up with innovation, ensuring a timely and proportionate response if and when the use of some
+distributed ledger technology applications becomes systemically relevant.
+Employing distributed ledger technology beyond payments: the report pointed out that clearing, settlement and other post-trade management
+processes currently cost the global financial industry well in excess of EUR 50 billion per year, and that this and bank reconciliation processes
+are areas where the use of distributed ledger technology might turn out to be transformational in terms of efficiency, speed, and resilience, but
+would also raise new regulatory challenges.
+Members recognised the still unfolding potential of distributed ledger technology well beyond the financial sector, including crypto-equity
+crowdfunding, dispute mediation services, in particular in the financial and juridical sectors, and the potential of smart contracts combined with
+digital signatures, applications allowing for heightened data security and synergies with the development of the Internet of Things.
+The report encouraged government agencies to test distributed ledger technology systems after conducting proper impact analyses in order to
+improve the provision of services to citizens and of e-government solutions, in compliance with EU data protection rules.
+Smart regulation towards fostering innovation and safeguarding integrity: Members called for a proportionate regulatory approach at EU level
+so as not to stifle innovation or add superfluous costs to it at this early stage, while taking seriously the regulatory challenges that the
+widespread use of virtual currencies and distributed ledger technology might pose. They called on the Commission to promote a shared and
+inclusive governance of the distributed ledger technology.
+The report pointed out that key EU legislation, such as the European Market Infrastructure Regulation ( EMIR), the Central Securities
+Depositories Regulation (CSDR), the Settlement Finality Directive (SFD), MiFID/MiFIR, UCITs and the Alternative Investment Fund Managers
+Directive (AIFMD), could provide a regulatory framework in line with the activities carried out.
+More tailor-made legislation might be needed.
+Members recommended that the Commission draw up a comprehensive analysis of virtual currencies and, on the basis of this assessment,
+consider, if appropriate, revising the relevant EU legislation in light of the new possibilities afforded by new technological developments.
+The report called for the creation of a horizontal Task Force on distributed ledger technology led by the Commission, consisting of technical
+and regulatory experts, in order to:
+(i) provide the necessary technical and regulatory expertise across the various sectors of pertinent distributed ledger technology applications;
+(ii) analyse the benefits and risks of distributed ledger technology; (iii) develop stress tests for all relevant aspects of virtual currencies and
+other distributed ledger technology schemes that reach a level of use that would make them systemically important for stability.
+Lastly, the Commission is urged to develop, in cooperation with the Member States and the virtual currencies industry, guidelines with the aim
+of guaranteeing that correct, clear and complete information is provided for existing and future virtual currency users.
+
+2016/2007(INI) - 26/05/2016 Text adopted by Parliament, single reading
+The European Parliament adopted by 542 votes to 51, with 11 abstentions, a resolution on virtual currencies (VCs).
+Members recalled that virtual currencies (a universally applicable definition is not yet established) are most notably based on distributed ledger
+technology (DLT), the technological basis for more than 600 virtual currency schemes, which facilitates 'peer-to-peer' exchange, the most
+prominent of which to date is Bitcoin. It was launched in 2009 and currently holds a market share among DLT based virtual currencies of
+almost 90 %, with a market value of the outstanding Bitcoins of around EUR 5 billion, it has not yet reached systemic dimensions.
+Distributed ledger technology includes databases with varying levels of trust and resilience, with the potential to process large numbers of
+transactions rapidly, and with transformational capacity not only in the area of virtual currencies but also in fintech more broadly speaking.
+Investments in DLT are an integral part of the ongoing fintech innovation cycle and have totalled more than EUR 1 billion to date, from both
+venture capital funding and corporate investment.
+Opportunities and risks of VCs and DLT in the rapidly evolving technological landscape of payments: Parliament stressed that VCs and DLT
+have the potential to contribute positively to citizens welfare and economic development, including in the financial sector, by means of:
+lowering transaction and operational costs for payments and especially cross-border transfer of funds, quite possibly to well below 1
+%, compared to the traditional 2 % 4 % for online payment systems , and to more than 7 % on average for the cross border transfer of
+remittances, hence, in an optimistic estimate, potentially reducing total global costs for remittances by up to EUR 20 billion;
+reducing the cost of access to finance even without a traditional bank account, thereby potentially contributing to financial inclusion;
+enhancing the resilience and, depending on the architecture of the scheme, the speed of payment systems and trade in goods and
+services thanks to the inherently decentralised architecture of DLT, which might continue to operate reliably even if parts of its network
+were to malfunction or to be hacked;
+enabling systems that combine ease of use, low transaction and operational costs and a high degree of privacy, but without full
+anonymity so that transactions are traceable to a certain extent.
+However, virtual currencies and distributed ledger technology schemes entail risks which need to be addressed appropriately so as to
+enhance their trustworthiness, including in the present circumstances, namely:
+the absence of flexible, but resilient and reliable, governance structures or indeed a definition of such structures, especially in some
+DLT applications such as Bitcoin, which creates uncertainty and consumer or more broadly user protection problems, especially in
+the event of challenges unforeseen by the original software designers;
+the high volatility of virtual currencies and the potential for speculative bubbles, and the absence of traditional forms of regulatory
+supervision, safeguards and protection, issues which are especially challenging for consumers;
+potential sources of financial instability that might be associated with derivative products;
+
+the potential for 'black market' transactions, money laundering, terrorist financing, tax fraud and evasion and other criminal activities:
+the energy consumption of running certain VCs which, according to the UK Government Chief Scientific Advisers report on DLT, in the
+case of Bitcoin has been estimated to be in excess of 1 GW.
+The resolution suggested that addressing these risks will:
+require enhanced regulatory capacity, including technical expertise;
+require the development of a sound legal framework that keeps up with innovation, ensuring a timely and proportionate response if
+and when the use of some distributed ledger technology applications becomes systemically relevant.
+Employing distributed ledger technology beyond payments: Parliament pointed out that clearing, settlement and other post-trade management
+processes currently cost the global financial industry well in excess of EUR 50 billion per year, and that this and bank reconciliation processes
+are areas where the use of distributed ledger technology might turn out to be transformational in terms of efficiency, speed, and resilience, but
+would also raise new regulatory challenges.
+Members recognised the still unfolding potential of distributed ledger technology well beyond the financial sector, including crypto-equity
+crowdfunding, dispute mediation services, in particular in the financial and juridical sectors, and the potential of smart contracts combined with
+digital signatures, applications allowing for heightened data security and synergies with the development of the Internet of Things.
+Parliament also encouraged government agencies to test distributed ledger technology systems after conducting proper impact analyses in
+order to improve the provision of services to citizens and of e-government solutions, in compliance with EU data protection rules.
+Smart regulation towards fostering innovation and safeguarding integrity: Members called for a proportionate regulatory approach at EU level
+so as not to stifle innovation or add superfluous costs to it at this early stage, while taking seriously the regulatory challenges that the
+widespread use of virtual currencies and distributed ledger technology might pose. They called on the Commission to promote a shared and
+inclusive governance of the distributed ledger technology.
+The resolution pointed out that key EU legislation, such as the European Market Infrastructure Regulation ( EMIR), the Central Securities
+Depositories Regulation (CSDR), the Settlement Finality Directive (SFD), MiFID/MiFIR, UCITs and the Alternative Investment Fund Managers
+Directive (AIFMD), could provide a regulatory framework in line with the activities carried out.
+More tailor-made legislation might be needed.
+Members welcomed the Commissions suggestions for including VC exchange platforms in the Anti-Money-Laundering Directive (AMLD) in
+order to end the anonymity associated with such platforms; expects that any proposal in this regard will be targeted, justified by means of a full
+analysis of the risks associated with VCs, and based on a thorough impact assessment.
+They recommended that the Commission draw up a comprehensive analysis of virtual currencies and, on the basis of this assessment,
+consider, if appropriate, revising the relevant EU legislation in light of the new possibilities afforded by new technological developments.
+The resolution called for the creation of a horizontal Task Force on distributed ledger technology led by the Commission, consisting of
+technical and regulatory experts, in order to:
+(i) provide the necessary technical and regulatory expertise across the various sectors of pertinent distributed ledger technology applications;
+(ii) analyse the benefits and risks of distributed ledger technology; (iii) develop stress tests for all relevant aspects of virtual currencies and
+other distributed ledger technology schemes that reach a level of use that would make them systemically important for stability.
+Lastly, the Commission is urged to develop, in cooperation with the Member States and the virtual currencies industry, guidelines with the aim
+of guaranteeing that correct, clear and complete information is provided for existing and future virtual currency users.
+
+

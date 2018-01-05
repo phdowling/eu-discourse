@@ -1,0 +1,382 @@
+Procedure file
+Basic information
+2016/2273(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+EU eGovernment action plan 2016-2020
+
+Subject
+2.40.02 Public services, of general interest, universal service
+2.80 Cooperation between administrations
+3.30.06 Information and communication technologies
+3.30.25.02 Information programmes and action plans
+
+Key players
+European Parliament
+
+Committee responsible
+IMCO Internal Market and Consumer Protection
+(Associated committee)
+
+Rapporteur
+
+Appointed
+24/05/2016
+
+VERHEYEN Sabine
+Shadow rapporteur
+
+BORZAN Biljana
+
+SULÍK Richard
+
+KALLAS Kaja
+
+ŠOLTES Igor
+PRETZELL Marcus
+Committee for opinion
+
+Rapporteur for opinion
+
+ITRE Industry, Research and Energy
+(Associated committee)
+
+MLINAR Angelika
+
+JURI Legal Affairs
+(Associated committee)
+
+SVOBODA Pavel
+
+Appointed
+14/06/2016
+
+08/11/2016
+
+Key events
+19/04/2016
+
+Non-legislative basic document published
+
+24/11/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+24/11/2016
+
+Referral to associated committees
+announced in Parliament
+
+25/04/2017
+
+Vote in committee, 1st reading/single
+reading
+
+02/05/2017
+
+Committee report tabled for plenary,
+single reading
+
+15/05/2017
+
+Debate in Parliament
+
+16/05/2017
+
+Results of vote in Parliament
+
+16/05/2017
+
+Decision by Parliament, 1st
+
+COM(2016)0179
+
+Summary
+
+A8-0178/2017
+
+Summary
+
+T8-0205/2017
+
+Summary
+
+reading/single reading
+16/05/2017
+
+End of procedure in Parliament
+
+Technical information
+Procedure reference
+
+2016/2273(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+IMCO/8/08279
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2016)0179
+
+19/04/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0108
+
+19/04/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0109
+
+19/04/2016
+
+EC
+
+PE593.826
+
+13/01/2017
+
+EP
+
+Committee draft report
+
+Summary
+
+Committee opinion
+
+ITRE
+
+PE594.095
+
+28/02/2017
+
+EP
+
+Committee opinion
+
+JURI
+
+PE595.605
+
+02/03/2017
+
+EP
+
+PE600.933
+
+02/03/2017
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0178/2017
+
+02/05/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0205/2017
+
+16/05/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)511
+
+26/09/2017
+
+Amendments tabled in committee
+
+2016/2273(INI) - 19/04/2016 Non-legislative basic document
+PURPOSE: to present an EU eGovernment action plan 2016-2020 entitled Accelerating the digital transformation of government.
+BACKGROUND: eGovernment supports administrative processes, improves the quality of the services and increases internal public sector
+efficiency. Digital public services reduce administrative burden on businesses and citizens by making their interactions with public
+administrations faster and efficient, more convenient and transparent, and less costly. In addition, using digital technologies as an integrated
+part of governments modernisation strategies can unlock further economic and social benefits for society as a whole.
+The digital transformation of government is a key element to the success of the single market.
+Previous eGovernment action plans (i2010 eGovernment action plan 2006-2010, and eGovernment action plan 2011-2015) encouraged the
+modernisation of public administrations and led to joint actions on eGovernment.
+The last eGovernment action plan 2011-2015 contributed to the coherence of national eGovernment strategies as well as to the exchange of
+best practices and the interoperability of solutions between Member States. It led, in particular, to the development of technological enablers
+that are key to facilitate access to and use of public services. However, citizens and businesses are not yet getting the full benefit from digital
+services that should be available seamlessly across the EU.
+Current situation: the current EU eGovernment action plan based on a shared long-term vision - sets out a number of principles that
+forthcoming initiatives should observe in order to deliver the significant benefits that eGovernment can bring to businesses, citizens and public
+administrations themselves. It provides for a dynamic and flexible approach, to keep track of the fast changing environment. It will serve as a
+catalyst to coordinate public sector modernisation efforts and resources in the field of eGovernment.
+CONTENT: the underlying vision of the action plan is that by 2020, public administrations and public institutions in the European Union should
+be open, efficient and inclusive, providing borderless, personalised, user-friendly, end-to-end digital public services to all citizens and
+businesses in the EU.
+
+Several ideas are envisaged.
+1) Principles applicable:
+digital by default: public administrations should deliver services digitally (including machine readable information) as the preferred
+option;
+once only principle: public administrations should ensure that citizens and businesses supply the same information only once to a
+public administration;
+inclusiveness and accessibility: public administrations should design digital public services that are inclusive by default and cater for
+different needs such as those of the elderly and people with disabilities;
+openness and transparency: they should share information and data between themselves and enable citizens and businesses to
+access control and correct their own data;
+cross-border by default: they should make relevant digital public services available across borders and prevent further fragmentation;
+interoperability by default: public services should be designed to work seamlessly across the single market and across organisational
+silos ;
+trustworthiness and security: all initiatives should go beyond the mere compliance with the legal framework on personal data
+protection and privacy.
+2) Priorities for action: the action plan sets out concrete actions to accelerate the implementation of existing legislation and the related take up
+of online public services. The main actions are as follows:
+modernise public administration using ICT, and using key digital enablers, particularly in the framework of public procurement;
+strengthen interoperability and the European Interoperability Framework and ensure that EU public administrations adopt it;
+gradually introduce the 'digital by default' and 'once-only' principles, and eInvoicing and eProcurement;
+enable cross-border mobility with interoperable digital public services (the Commission proposes the creation of a Single Digital
+Gateway, based on existing portals, contact points and networks, expanding, improving and streamlining all information, assistance
+and problem solving services needed to operate efficiently across borders - for 2016, this will include the go-live of tools for direct
+communications between citizens and courts in other Member States (e-CODEX), as well as the introduction of the European Case
+Law Identifier search engine;
+propose legislation to extend the Single Electronic Mechanism for registration and payment of VAT;
+support Member States in the development of eHealth services;
+facilitate digital interaction between administrations and citizens/businesses for high-quality public services by engaging citizens,
+businesses and civil society in the collaborative design, production and delivery of public services and to facilitate interaction between
+public administrations and businesses and citizens.
+This action plan includes actions to be launched in 2016 and 2017. Further actions may be needed to achieve the objectives set out within
+each of the policy priorities. Stakeholders (including a group of Member States) may also propose actions for implementation under the
+eGovernment Action Plan, through an interactive digital engagement platform.
+
+2016/2273(INI) - 02/05/2017 Committee report tabled for plenary, single reading
+The Committee on the Internal Market and Consumer Protection adopted the own-initiative report by Sabine VERHEYEN (EPP, DE) on the EU
+eGovernment Action Plan 2016-2020.
+Public administrations going digital: Members are of the view that public administrations should be open, transparent, efficient and inclusive,
+providing borderless, personalised, user-friendly, accessible and end-to-end digital public services to citizens and businesses by 2022, thereby
+reducing costs, barriers and administrative burdens for citizens and businesses, in particular SMEs, and thus reaping all the benefits of the
+digital revolution. They considered, however, that this should be compatible with fair restructuring in public administration. Members supported
+the plan to base future initiatives on the digital by default principle, and stressed the importance of implementing the once-only principle, which
+will make interaction with public administrations easier for citizens and businesses by avoiding unnecessarily time-consuming administrative
+processes and make it easier for information previously supplied to be reused for other applications.
+They welcomed the Commissions intention to establish as early as possible a single digital gateway that would provide citizens and
+businesses with a linked-up, coherent package of online single-market services at both national and EU level, covering information about the
+EU and national rules, as well as assistance services, and to complete the most important procedures for citizens and businesses in
+cross-border situations and help implement the once-only principle in the EU.
+Members called on the Commission to consider further ways to promote digital solutions for formalities throughout a companys lifecycle, the
+electronic filing of company documents and the provision of cross-border and other information for business registers.
+They highlighted the importance of inclusiveness, accessibility and general access to digital public services, an essential factor underpinning
+the design and delivery of policies promoting competitiveness, growth and jobs, and called on the Member States to fully implement and apply
+the new directive on the accessibility of websites and mobile applications of public sector bodies, which will benefit people with disabilities and
+elderly people.
+Members noted that only one third of public websites are mobile-friendly. They called, therefore, on the Member States to assess the
+possibilities of developing mobile solutions for eGovernment services, and to ensure their user-friendliness and accessibility for all. They
+stressed that in order to future-proof the accessibility of eGovernment services, public administration websites and instruments must be kept
+up to date with modern technology and the ever-evolving cyber security requirements.
+Members emphasised the importance of developing safe, reliable, interoperable cross-border public services, avoiding further fragmentation
+and supporting mobility. They stressed that interoperability and standardisation are among the key elements for implementing eGovernment
+structures. They also stressed that standards must serve the interests of society at large by being inclusive, fair and future-proof, and be
+developed in an open and transparent way.
+Members also stressed the need for an inclusive online and offline dual approach, so as to avoid exclusion, given the current rate of digital
+
+illiteracy and the fact that more than 22 % of Europeans, especially elderly people, prefer not to use online services when dealing with public
+administrations.
+Cross-border eGovernment at all administrative levels: Members highlighted the importance of cross-border eGovernment services for citizens
+in their daily life, and stressed the benefits of further developing the Electronic Exchange of Social Security Information (EESSI) and the
+EURES European Job Mobility portal, as well as the cross-border eHealth services. They underlined that eHealth can significantly improve the
+quality of life of citizens by providing more accessible, cost-effective and efficient healthcare to patients. They considered that, for the full
+functioning of cross-border eGovernment services, language barriers must be addressed, and that public administrations, especially in border
+regions, should make their information and services available in the languages of their Member States but also in other relevant European
+languages. Members highlighted the importance of an exchange of best practices, examples and project experience between all levels of
+administration, both within and between Member States.
+Data protection and security: Members emphasised that citizens trust in the protection of personal data is fundamental to securing the success
+of the eGovernment Action Plan 2016-2020, and underlined that public administrations must handle personal data securely and fully in line
+with the General Data Protection Regulation (GDPR) and the EU Rules on Privacy. They stressed the need for effective guidance on the
+application of the GDPR, as well as for a continuous exchange with stakeholders.
+Lastly, Members emphasised that measures to protect public authorities from cyber-attacks and to enable them to withstand such attacks are
+extremely important and need to be developed.
+
+2016/2273(INI) - 16/05/2017 Text adopted by Parliament, single reading
+The European Parliament adopted by 570 votes to 70, with 36 abstentions, a resolution in response to the EU eGovernment action plan
+2016-2020.
+Public administrations going digital: according to Parliament, public administrations should be open, transparent, efficient and inclusive,
+providing borderless, personalised, user-friendly, accessible and end-to-end digital public services to citizens and businesses by 2022, thereby
+reducing costs, barriers and administrative burdens for citizens and businesses, in particular SMEs, and thus reaping all the benefits of the
+digital revolution. It considered, however, that this should be compatible with fair restructuring in public administration.
+Members supported the plan to base future initiatives on the digital by default principle, and stressed the importance of implementing the
+once-only principle, which will make interaction with public administrations easier for citizens and businesses by avoiding unnecessarily
+time-consuming administrative processes and make it easier for information previously supplied to be reused for other applications.
+Parliament also welcomed the Commissions intention to establish as early as possible a single digital gateway that would provide citizens and
+businesses with a linked-up, coherent package of online single-market services at both national and EU level, covering information about the
+EU and national rules, as well as assistance services, and to complete the most important procedures for citizens and businesses in
+cross-border situations and help implement the once-only principle in the EU.
+The resolution stressed the need to:
+promote digital solutions for formalities throughout a companys lifecycle and to step up the work on the electronic interconnection of
+Member States business and insolvency registers;
+apply the new directive on the accessibility of websites and mobile applications of public sector bodies, which will benefit people with
+disabilities and elderly people;
+stress the importance of open data and the need for safeguards that ensure respect for copyright and data protection;
+highlight the benefits of eParticipation and for more use to be made of eConsultation, eInformation and eDecision-making;
+assess the possibilities of developing mobile solutions for eGovernment services, and to ensure their user-friendliness and
+accessibility for all;
+keep public administration websites and instruments up-to-date with modern technology and the ever-evolving cyber security
+requirements;
+promote and use eProcurement;
+develop safe, reliable, interoperable cross-border public services. Interoperability and standardisation are among the key elements for
+implementing eGovernment structures.
+Members also stressed the need for an inclusive online and offline dual approach, so as to avoid exclusion, given the current rate of digital
+illiteracy and the fact that more than 22 % of Europeans, especially elderly people, prefer not to use online services when dealing with public
+administrations.
+Cross-border eGovernment at all administrative levels: Parliament highlighted the importance of cross-border eGovernment services for
+citizens in their daily life, and stressed the benefits of further developing the Electronic Exchange of Social Security Information (EESSI) and
+the EURES European Job Mobility portal, as well as the cross-border eHealth services. It underlined that eHealth can significantly improve the
+quality of life of citizens by providing more accessible, cost-effective and efficient healthcare to patients. It considered that, for the full
+functioning of cross-border eGovernment services, language barriers must be addressed, and that public administrations, especially in border
+regions, should make their information and services available in the languages of their Member States but also in other relevant European
+languages. Members highlighted the importance of an exchange of best practices, examples and project experience between all levels of
+administration, both within and between Member States.
+Data protection and security: Members emphasised that citizens trust in the protection of personal data is fundamental to securing the success
+of the eGovernment Action Plan 2016-2020, and underlined that public administrations must handle personal data securely and fully in line
+with the General Data Protection Regulation (GDPR) and the EU Rules on Privacy. They stressed the need for effective guidance on the
+application of the GDPR, as well as for a continuous exchange with stakeholders.
+Member States should ensure the application of Regulation (EU) No 910/2014 on electronic identification and trust services for electronic
+transactions in the internal market.
+Lastly, Parliament emphasised the importance of developing measures to protect public authorities from cyber-attacks.
+
+

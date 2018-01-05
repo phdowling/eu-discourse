@@ -1,0 +1,485 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0279(COD)
+
+Procedure completed
+
+Statistics relating to external trade with non-member countries: Commission
+delegated and implementing powers
+
+Subject
+6.20.04 Union Customs Code, tariffs, preferential arrangements, rules of
+origin
+8.60 European statistical legislation
+
+Key players
+European Parliament
+
+Committee responsible
+INTA
+
+Rapporteur
+
+International Trade
+
+Appointed
+15/06/2016
+
+LANGE Bernd
+Former committee responsible
+INTA
+
+International Trade
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+S&D MOREIRA Vital
+
+16/09/2013
+
+Commissioner
+ŠEMETA Algirdas
+
+Key events
+08/08/2013
+
+Legislative proposal published
+
+COM(2013)0579
+
+Summary
+
+10/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+21/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+23/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0042/2014
+
+Summary
+
+12/03/2014
+
+Results of vote in Parliament
+
+12/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+T7-0226/2014
+
+Summary
+
+06/11/2014
+
+Committee decision to open
+interinstitutional negotiations after 1st
+reading in Parliament
+
+17/06/2016
+
+Council position published
+
+08536/1/2016
+
+Summary
+
+22/06/2016
+
+Committee referral announced in
+Parliament, 2nd reading
+
+14/07/2016
+
+Vote in committee, 2nd reading
+
+19/07/2016
+
+Committee recommendation tabled for
+plenary, 2nd reading
+
+A8-0240/2016
+
+Summary
+
+13/09/2016
+
+Decision by Parliament, 2nd reading
+
+T8-0331/2016
+
+Summary
+
+14/09/2016
+
+Final act signed
+
+14/09/2016
+
+End of procedure in Parliament
+
+30/09/2016
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0279(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+INTA/8/06544
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0579
+
+08/08/2013
+
+EC
+
+Committee draft report
+
+PE522.763
+
+04/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.808
+
+09/12/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0042/2014
+
+23/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0226/2014
+
+12/03/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)455
+
+10/06/2014
+
+09994/2016
+
+13/06/2016
+
+CSL
+
+08536/1/2016
+
+17/06/2016
+
+CSL
+
+PE585.453
+
+21/06/2016
+
+EP
+
+COM(2016)0420
+
+21/06/2016
+
+EC
+
+Summary
+
+Committee recommendation tabled for plenary,
+2nd reading
+
+A8-0240/2016
+
+19/07/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 2nd reading
+
+T8-0331/2016
+
+13/09/2016
+
+EP
+
+Summary
+
+Council statement on its position
+Council position
+Committee draft report
+Commission communication on Council's position
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2016/1724
+OJ L 266 30.09.2016, p. 0001 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0279(COD) - 08/08/2013 Legislative proposal
+
+Summary
+
+Summary
+
+PURPOSE: to align Regulation (EC) No 471/2009 of the European Parliament and the Council on Community statistics relating to external
+trade with non-member countries to new rules under the Treaty on the Functioning of the European Union (delegated and implementing
+powers of the Commission).
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the Treaty on the Functioning of the European Union (TFEU) makes a distinction between:
+powers which may be delegated to the Commission to adopt non-legislative acts of general application to supplement or amend
+certain non-essential elements of a particular legislative act, as laid down in Article 290(1) of the TFEU ( delegated acts), and
+the implementing powers which shall be conferred on the Commission where uniform conditions for implementing legally binding
+Union acts are needed, as laid down in Article 291(2) of the TFEU ( implementing acts).
+In connection with the adoption of Regulation (EU) No 182/2011 of the European Parliament and of the Council laying down the rules and
+general principles concerning mechanisms for control by Member States of the Commissions exercise of implementing powers, the
+Commission has committed itself to reviewing, in the light of the criteria laid down in the TFEU, legislative acts which currently contain
+references to the regulatory procedure with scrutiny (previously known as comitology).
+The overall objective is to remove all provisions referring to the regulatory procedure with scrutiny from all legislative instruments by the end of
+Parliaments seventh term (June 2014).
+IMPACT ASSESSMENT: the Commission did not undertake an impact assessment.
+LEGAL BASIS: Article 338(1) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the proposal seeks to amend Regulation (EC) No 471/2009 in order to align it with the new institutional context.
+It is proposed to:
+empower the Commission to adopt delegated acts in respect of the adaptation of the list of customs procedures or provisions deriving
+from international conventions, changes necessary for methodological reasons and the necessity to set up an efficient system for the
+collection of data and the compilation of statistics;
+confer implementing powers on the Commission enabling it to adopt measures relating to the codes to be used for data referred to in
+Article 5(1) and also measures relating to the linking of the data on business characteristics with data recorded in accordance with the
+same Article.
+The Commission is also proposing to restructure the European Statistical System (ESS) to improve coordination and partnership in a clear
+pyramid structure, with the European Statistical System Committee (ESSC) as the highest strategic body.
+One aspect of this streamlining is to concentrate comitology powers in the hands of the ESSC. In February 2012, the ESSC supported this
+new approach.
+BUDGETARY IMPLICATION: the proposal has no implications for the Unions General Budget.
+
+2013/0279(COD) - 23/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on International Trade adopted the report by Vital MOREIRA (S&D, PT) on the proposal for a regulation of the European
+Parliament and of the Council amending Regulation (EC) No 471/2009 on Community statistics relating to external trade with non-member
+countries as regards conferring of delegated and implementing powers upon the Commission for the adoption of certain measures.
+The parliamentary committee recommended that the position of the European Parliament adopted at first reading under the ordinary legislative
+procedure modify the Commission proposal as follows.
+Use of delegated acts: the European Commission proposes the use of delegated acts in almost all cases where the regulatory procedure with
+scrutiny was originally used. The implementing acts are proposed in two cases, for the adoption of:
+·
+
+measures relating to the codes to be used for statistical data; and
+
+·
+
+measures relating to linking the data on imports and exports with the data on business.
+
+Members proposed that the above implementing acts be changed into delegated acts, as they consider that the Parliament should be more
+demanding on the separation of delegated and implementing acts. The provisions relating to the Committee assisting the Commission have
+therefore been deleted.
+The report also suggested limiting the conferral of powers on the Commission to five years with the possibility of extending the delegated
+powers for periods of the same duration.
+Consolidated text: to favour the legal certainty and readability of legislation for the public, an amendment aims at having the consolidated
+version of the amended Regulation published in the Official Journal within three months from the entry into force of the amending Regulation.
+
+2013/0279(COD) - 12/03/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 654 votes to 19 with 9 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 471/2009 on Community statistics relating to external trade with
+non-member countries as regards conferring of delegated and implementing powers upon the Commission for the adoption of certain
+
+measures.
+Parliaments position in first reading following the ordinary legislative procedure amended the Commission proposal as follows :
+Use of delegated acts: the European Commission proposes the use of delegated acts in almost all cases where the regulatory procedure with
+scrutiny was originally used. The implementing acts are proposed in two cases, for the adoption of:
+·
+
+measures relating to the codes to be used for statistical data; and
+
+·
+
+measures relating to linking the data on imports and exports with the data on business.
+
+Parliament proposed that the above implementing acts be changed into delegated acts. The provisions relating to the Committee assisting the
+Commission have therefore been deleted.
+Parliament also suggested limiting the conferral of powers on the Commission to five years with the possibility of extending the delegated
+powers for periods of the same duration.
+Consolidated text: to ensure legal certainty and readability of legislation for the public, an amendment aims at having the consolidated version
+of the amended Regulation published in the Official Journal within three months from the entry into force of the amending Regulation.
+
+2013/0279(COD) - 17/06/2016 Council position
+The Council adopted its position at first reading with a view to the adoption of a Regulation of the European Parliament and of the Council
+amending Regulation (EC) No 471/2009 on Community statistics relating to external trade with non-member countries as regards the conferral
+of delegated and implementing powers on the Commission for the adoption of certain measures.
+The purpose of the draft regulation is to align the Regulation (EC) No 471/2009 of the European Parliament and of the Council as regards
+conferring of delegated and implementing powers upon the Commission for the adoption of certain measures.
+Delegated acts: under the Council position, the Commission shall:
+be empowered to adopt delegated acts adapting the list of customs procedures or customs-approved treatment in order to take
+account of changes in the Customs Code or provisions deriving from international conventions, changes necessary for methodological
+reasons and the need to set up an efficient system for the collection of data and the compilation of statistics;
+carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in
+accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making;
+ensure that those delegated acts do not impose a significant additional burden on the Member States or on the respondents and that
+they remain as economical as possible.
+The power to adopt delegated acts shall be conferred on the Commission for a limited period of five years.
+Implementing acts: in order to ensure uniform conditions for the implementation of Regulation (EC) No 471/2009, implementing powers should
+be conferred on the Commission enabling it to adopt measures relating to the linking of the data and the uniform content and coverage of
+transmitted statistics.
+Transmission of statistics: the position of the Council specifies certain specific obligations for Member States (inter alia transmission deadlines)
+directly in the basic act. Member States shall transmit to the Commission (Eurostat) the statistics no later than 40 days after the end of each
+monthly reference period. The Commission shall adopt, by means of implementing acts, measures relating to the uniform technical
+specifications for the content and coverage of the transmitted statistics. Those implementing acts shall be adopted in accordance with the
+examination procedure.
+European Statistical System Committee (ESSC): the reference to the Extrastat Committee shall be replaced by a reference to the European
+Statistical System Committee (ESSC), in the framework of the general restructuration and streamlining of the European Statistical System
+(ESS) structure.
+
+2013/0279(COD) - 21/06/2016 Commission communication on Council's position
+The Commission adopted a communication on the adoption of a Proposal for a Regulation of the European Parliament and of the Council
+amending Council Regulation (EC) No 471/2009 on Community statistics relating to external trade with non-member countries as regards
+conferring of delegated and implementing powers upon the Commission for the adoption of certain measures.
+The Commission supported the compromise reached as it is in line with the Commission's efforts to align pre-Lisbon legislation.
+It considered that the Council position reflects, on the one hand, the provisional political agreement reached between the Council, the INTA
+Committee of the European Parliament and the Commission in the informal tripartite discussion on 8 December 2014 and, on the other hand,
+the balance between delegated and implementing acts as contained in the original proposal by the Commission as well the new
+Inter-Institutional Agreement on Better law-making (IIA), adopted and entered into force on 13 April 2016.
+Indeed, the main issue blocking the file was the question of consultation of Member States when the Commission prepares delegated acts. It
+was decided to await the entry into force of the IIA.
+The standard recital and paragraphs prescribed by the new IIA of 13 April 2016 were added. The Commission fully supports this addition.
+The amendments introduced by the Council position mainly specify certain specific obligations for Member States (inter alia transmission
+deadlines) directly in the basic act, instead of empowering the Commission to specify them by delegated act as previously proposed. The
+Commission considered that those legal obligations would, also in the longer run, anyway not need to be changed and that consequently, their
+move from delegated acts to the basic act does not create any problem of flexibility; it therefore does not object to those Council amendments.
+
+The Commission recalled that in its first reading in 2014, the European Parliament proposed amendments which would essentially have
+deleted all comitology powers proposed by the Commission. This was not acceptable for the Council or for the Commission.
+On the other hand, the Commission`s empowerment to adopt delegated acts, originally proposed for an indeterminate period of time, has been
+limited to a five-year period as proposed by the European Parliament.
+
+2013/0279(COD) - 19/07/2016 Committee recommendation tabled for plenary, 2nd reading
+The Committee on International Trade adopted the recommendation for second reading contained in the report by Bernd LANGE (S&D, DE)
+on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the Council amending
+Regulation (EC) No 471/2009 on Community statistics relating to external trade with non-member countries as regards the conferral of
+delegated and implementing powers on the Commission for the adoption of certain measures.
+The committee recommended the European Parliament to approve the Council reading at first reading without amendments.
+In the explanatory memorandum accompanying the recommendation, it is recalled that the informal negotiations started under the Italian
+Presidency, following the adoption of Parliament's first reading position by the plenary on 12 March 2014, with a view to reaching an early
+second reading agreement.
+After several rounds of trilogues the negotiations were suspended while awaiting the adoption of the new Inter-institutional Agreement on
+Better Law-making which provides, inter alia, for a horizontal solution regarding the consultation of Member States experts in preparation of
+delegated acts.
+The adoption of the new Inter-institutional agreement in December 2015 thus enabled the Parliament's and Council's negotiating teams to
+reach an agreement on the Regulation in question.
+The agreed text was presented to the INTA Committee for a vote of approval on 21 April 2016, and was approved by an overwhelming
+majority.
+
+2013/0279(COD) - 13/09/2016 Text adopted by Parliament, 2nd reading
+The European Parliament adopted a legislative resolution on the Council position at first reading with a view to the adoption of a regulation of
+the European Parliament and of the Council amending Regulation (EC) No 471/2009 on Community statistics relating to external trade with
+non-member countries as regards the conferral of delegated and implementing powers on the Commission for the adoption of certain
+measures.
+In line with the recommendation for second reading made by the Committee on International Trade, Parliament approved, unamended, the
+Council position at first reading.
+
+2013/0279(COD) - 14/09/2016 Final act
+PURPOSE: to align Regulation (EC) No 471/2009 of the European Parliament and the Council on Community statistics relating to external
+trade with non-member countries to new rules under the Treaty on the Functioning of the European Union on delegated and implementing
+powers conferred on the Commission for the adoption of certain measures.
+LEGISLATIVE ACT: Regulation (EU) 2016/1724 of the European Parliament and of the Council amending Regulation (EC) No 471/2009 on
+Community statistics relating to external trade with non-member countries as regards conferring of delegated and implementing powers upon
+the Commission for the adoption of certain measures.
+CONTENT: this Regulation aligns Regulation (EC) No 471/2009 with Articles 290 and 291 of the Treaty on the Functioning of the EU. The
+implementing powers conferred on the Commission by that Regulation are replaced by the power to adopt delegated acts and implementing
+acts.
+Delegated acts: the Commission has the power to adopt acts in accordance with Article 290 of the Treaty with regard to:
+the adaptation of the list of customs procedures or customs-approved treatment or use;
+specific goods or movements and different or specific provisions applicable to them;
+the exclusion of goods or movements from external trade statistics;
+collection of certain data ;
+the further specification of the statistical data;
+the requirement for limited sets of data for the specific goods or movements referred to in the Regulation;
+the level of aggregation for partner countries, goods and currencies for statistics on trade by invoicing currency.
+The power to adopt such acts is conferred on the Commission for a period of five years from 20 October 2016 (which may be tacitly extended
+for the same period). The European Parliament or the Council may raise objections to a delegated act within three months of the date of
+notification of that act. That period may be extended by three months.
+Implementing acts: in order to ensure uniform conditions for the implementation of Regulation (EC) No 471/2009, implementing powers are
+conferred on the Commission enabling it to adopt measures relating to:
+the codes and their format to be used in respect of the data referred to in Article 5(1) of that Regulation;
+the linking of the data on business characteristics with data recorded in accordance with that Article, and
+the uniform content and coverage of transmitted statistics.
+
+Under the strategy for a new European Statistical System (ESS), the European Statistical System Committee (ESSC), established by
+Regulation (EC) No 223/2009 of the European Parliament and of the Council will have an advisory role and assist the Commission in
+exercising its implementing powers. To that effect, Regulation (EC) No 471/2009 is amended by replacing the reference to the Extrastat
+Committee with a reference to the ESSC.
+ENTRY INTO FORCE: 20.10.2016.
+
+

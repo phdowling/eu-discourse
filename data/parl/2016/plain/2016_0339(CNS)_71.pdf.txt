@@ -1,0 +1,390 @@
+Procedure file
+Basic information
+2016/0339(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Corporate tax: hybrid mismatches with third countries
+Amending Directive (EU) 2016/1164 2016/0011(CNS)
+Subject
+3.45.04 Company taxation
+
+Key players
+Committee responsible
+
+European Parliament
+
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+24/11/2016
+
+LUDVIGSSON Olle
+Shadow rapporteur
+
+PIETIKÄINEN Sirpa
+
+RUOHONEN-LERNER
+Pirkko
+
+TORVALDS Nils
+
+CARTHY Matt
+
+JOLY Eva
+Committee for opinion
+INTA
+
+IMCO
+
+Rapporteur for opinion
+
+International Trade
+
+The committee decided not to
+give an opinion.
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+Appointed
+
+Council of the European Union
+European Economic and
+Social Committee
+
+Key events
+25/10/2016
+
+Legislative proposal published
+
+21/11/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+21/02/2017
+
+Debate in Council
+
+27/03/2017
+
+Vote in committee, 1st reading/single
+reading
+
+31/03/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+27/04/2017
+
+Results of vote in Parliament
+
+Decision by Parliament, 1st
+
+COM(2016)0687
+
+Summary
+
+A8-0134/2017
+
+Summary
+
+Summary
+
+27/04/2017
+
+reading/single reading
+
+T8-0135/2017
+
+30/05/2017
+
+Act adopted by Council after consultation
+of Parliament
+
+30/05/2017
+
+End of procedure in Parliament
+
+07/06/2017
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2016/0339(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive (EU) 2016/1164 2016/0011(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 115
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/08425
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0687
+
+25/10/2016
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2016)0345
+
+26/10/2016
+
+EC
+
+Summary
+
+Reasoned opinion
+
+NL_SENATE
+
+PE597.412
+
+12/01/2017
+
+NP
+
+Reasoned opinion
+
+NL_CHAMBER
+
+PE597.430
+
+30/01/2017
+
+NP
+
+Committee draft report
+
+PE597.532
+
+02/02/2017
+
+EP
+
+Amendments tabled in committee
+
+PE599.858
+
+08/03/2017
+
+EP
+
+PE599.830
+
+16/03/2017
+
+NP
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A8-0134/2017
+
+31/03/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0135/2017
+
+27/04/2017
+
+EP
+
+Summary
+
+Commission response to text
+adopted in plenary
+
+SP(2017)363
+
+07/06/2017
+
+Reasoned opinion
+
+SE_PARLIAMENT
+
+Final act
+Directive 2017/952
+OJ L 144 07.06.2017, p. 0001 Summary
+
+2016/0339(CNS) - 25/10/2016 Legislative proposal
+
+PURPOSE: to adopt new measures to end the exploitation, in the existing differences (hybrid mismatches) between the tax systems of
+Member States and those of third countries, by corporations in order to avoid tax.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: Council may adopt the act only after consulting Parliament and with the approval of the latter.
+BACKGROUND: Council Directive (EU) 2016/1164 laying down rules against tax avoidance practices provides for a framework to tackle hybrid
+mismatch arrangements. These arrangements exploit differences in the tax treatment of an entity or instrument under the laws of two or more
+tax jurisdictions to achieve double non-taxation. These types of arrangements are widespread and result in a substantial erosion of the taxable
+bases of corporate taxpayers in the EU.
+The hybrid mismatch rules in the Council Directive laying down rules against tax avoidance practices address the most widespread forms of
+hybrid mismatches, but only within the EU.
+However, taxpayers in the EU engaged in cross-border structures involving third countries also take advantage of hybrid mismatches to
+reduce their overall tax liability in the EU.
+Therefore, the Commission feels it necessary that hybrid mismatches involving third countries should be countered as well in order to
+neutralize hybrid mismatch arrangements.
+The Organisation for Economic Co-operation and Development (OECD) has issued concrete action recommendations in the context of the
+initiative against Base Erosion and Profit Shifting (BEPS). In June 2016, the Council requested the Commission to put forward a proposal on
+hybrid mismatches involving third countries in order to provide for rules consistent with the rules recommended by the OECD on BEPS.
+This proposed directive is part of a package that also includes the re-launch of the proposal for a common consolidated corporate tax base
+(CCCTB) and a proposal on a common corporate tax base (CCTB).
+CONTENT: the proposal put forwards an amendment of the Anti-Tax Avoidance Directive. It sets out legally binding rules to enable Member
+States to effectively tackle hybrid mismatch arrangements that are not dealt with in the Anti-Tax Avoidance Directive. This Directive has the
+same scope as the Anti-Tax Avoidance Directive and thus aims to capture all taxpayers which are subject to corporate tax in a Member State.
+The proposed directive establishes rules to combat hybrid mismatches with third countries. The new rules are limited to providing a remedy for
+cases of double deduction, of a deduction of a payment from the taxable base in one jurisdiction without a corresponding inclusion of that
+payment in the taxable base of a taxpayer in another jurisdiction.
+Furthermore, the proposal includes new rules on:
+hybrid mismatches involving permanent establishments, both in their intra-EU and third-country dimension: a hybrid permanent
+establishment mismatch between two jurisdictions occurs where the business activities in a jurisdiction are treated as being carried on
+through a permanent establishment by one jurisdiction, while those activities are not treated as being carried on through a permanent
+establishment by another jurisdiction;
+hybrid transfers: this is an arrangement to transfer a financial instrument where the laws of two jurisdictions differ on whether the
+transferor or the transferee has got the ownership of the payments on the underlying asset;
+imported mismatches: these flow from arrangements involving group members, or structured arrangements in general, which shift the
+effect of a hybrid mismatch between parties in third countries into the jurisdiction of a Member State through the use of a non-hybrid
+instrument. A mismatch is imported in a Member State if a deductible payment under a non-hybrid instrument is used to fund
+expenditure under a structured arrangement involving a hybrid mismatch between third countries. This implies a flow of revenue out of
+the EU which is eventually not taxed;
+dual resident mismatches: this may result in a double deduction outcome if a payment made by a dual resident taxpayer is deducted
+under the laws of both jurisdictions where the taxpayer is resident.
+
+2016/0339(CNS) - 31/03/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, following the Parliaments consultation procedure, the report by Olle
+LUDVIGSSON (S&D, SE) on the proposal for a Council directive amending Directive (EU) 2016/1164 as regards hybrid mismatches with third
+countries.
+The committee approved the Commission proposal subject to amendments.
+The Commission proposal lays down measures to tackle the issue of hybrid mismatch arrangements with third countries. These arrangements
+exploit differences in the tax treatment of an entity or instrument under the laws of two or more tax jurisdictions to achieve double non-taxation.
+These types of arrangements are frequently created with the sole purpose to reduce corporate taxation, resulting in a substantial erosion of the
+taxable bases of corporate taxpayers in the EU. Hence, it has been necessary to lay down rules against these types of arrangements.
+Members stated that it is of great importance to establish rules that neutralise hybrid mismatches and branch mismatches in a comprehensive
+manner. They also stressed the need to include other rules set out in the Commission proposal, such as those on hybrid transfers and
+imported mismatches and address the full range of double deduction outcomes, in order to prevent taxpayers from exploiting remaining
+loopholes.
+In order to provide for a framework that is consistent with, and no less effective than, the OECD BEPS report on hybrid mismatch
+arrangements, it is essential that Directive (EU) 2016/1164 includes rules on hybrid transfers and imported mismatches and addresses the full
+range of double deduction outcomes, in order to prevent taxpayers from exploiting remaining loopholes. Those rules should be standardised
+and coordinated to the maximum extent possible between Member States. Member States should consider the introduction of penalties
+against taxpayers that exploit hybrid mismatches.
+According to Members, the rules on hybrid mismatches shall apply automatically whenever a payment comes across a border having been
+deducted at the paying end, without having to prove a tax avoidance motive.
+
+2016/0339(CNS) - 27/04/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 591 votes to 36, with 12 abstentions, following the consultation procedure, a legislative resolution on the
+proposal for a Council directive amending Directive (EU) 2016/1164 as regards hybrid mismatches with third countries.
+Parliament approved the Commission proposal subject to amendments.
+The Commission proposal lays down measures to tackle the issue of hybrid mismatch arrangements with third countries. These mismatches,
+for example, allow corporations established in two jurisdictions (inside and outside the EU) to use the lack of coordination between national tax
+systems either to have the same expenditure deducted in both jurisdictions (so the firm enjoys a double tax deduction). Through its
+amendments, Parliament seeks to put an end to the practice of having income or expenditure which is treated as income or expenditure of one
+or more other persons under the laws of another jurisdiction.
+Members stated that it is of great importance to establish rules that neutralise hybrid mismatches and branch mismatches in a comprehensive
+manner. They also stressed the need to include other rules set out in the Commission proposal, such as those on hybrid transfers and
+imported mismatches and address the full range of double deduction outcomes, in order to prevent taxpayers from exploiting remaining
+loopholes.
+Underlying the BEPS initiative is also the declaration of G20 leaders at their meeting in Saint Petersburg on 5-6 September 2013, expressing
+their wish to ensure that profits are taxed where economic activities deriving the profits are performed and where value is created.
+In order to provide for a framework that is consistent with, and no less effective than, the OECD BEPS report on hybrid mismatch
+arrangements, it is essential that Directive (EU) 2016/1164 includes rules on hybrid transfers and imported mismatches and addresses the full
+range of double deduction outcomes, in order to prevent taxpayers from exploiting remaining loopholes. Those rules should be standardised
+and coordinated to the maximum extent possible between Member States. Member States should consider the introduction of penalties
+against taxpayers that exploit hybrid mismatches.
+According to Members, the rules on hybrid mismatches shall apply automatically whenever a payment comes across a border having been
+deducted at the paying end, without having to prove a tax avoidance motive. These rules should address mismatch situations which result
+from double deductions, conflicts in the legal characterisation of financial instruments, payments and entities, or conflicts in the allocation of
+payments.
+The effects of hybrid mismatch arrangements should also be considered from the viewpoint of developing countries. The Union and its
+Member States should aim to support developing countries in tackling such effects.
+
+2016/0339(CNS) - 29/05/2017 Final act
+PURPOSE: to prevent corporate tax avoidance by adopting rules that put an end to hybrid mismatches involving the tax regimes of third
+countries.
+LEGISLATIVE ACT: Council Directive (EU) 2017/952 as regards hybrid mismatches with third countries.
+CONTENT: the Directive aims to prevent corporate groups from exploiting the disparities between two or more tax jurisdictions to reduce their
+overall tax liability. To this end, it establishes rules to close down 'hybrid mismatches' with the tax systems of third countries.
+Hybrid mismatches may enable a double tax deduction, this allowing certain corporations established in two jurisdictions (within and outside
+the EU) to reduce overall tax liability by exploiting disparities between two or more tax jurisdictions. Such arrangements can result in a
+substantial erosion of the taxable bases of corporate taxpayers in the EU.
+The Directive amends Directive (EU) 2016/1164 on tax avoidance, which provides for a framework to tackle the most widespread forms of
+hybrid mismatches, but only within the Union. It also contributes to implementation of 2015 Organisation for Economic Co-operation and
+Development (OECD) recommendations addressing corporate tax base erosion and profit shifting (BEPS).
+The amendments made to Directive (EU) 2016/1164 include rules on:
+·
+
+hybrid mismatches involving permanent establishments, both in their intra-EU and third-country dimension;
+
+·
+
+tax residency mismatches;
+
+·
+
+hybrid transfers;
+
+·
+
+imported mismatches;
+
+·
+
+reverse hybrid mismatches.
+
+The Commission will evaluate the implementation of the Directive 5 years after its entry into force and report to the Council.
+ENTRY INTO FORCE: 27.6.2017.
+TRANSPOSITION: by 31.12.2019 (31 December 2021 with respect to the provision on reverse hybrid mismatches.)
+APPLICATION: the date of implementation is 1.1.2020 and 1.1.2022 with respect to reverse hybrid mismatches.
+
+

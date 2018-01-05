@@ -1,0 +1,326 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision 2016/0360B(COD)
+procedure)
+Regulation
+
+Procedure completed, awaiting publication in Official Journal
+13/09/2017 Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+Capital Requirements Regulation: transitional arrangements for mitigating
+the impact of the introduction of IFRS 9 on own funds and the large
+exposures treatment of certain public sector exposures denominated in
+non-domestic currencies of Member States
+Amending Regulation (EU) No 575/2013 2011/0202(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.04 Banks and credit
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+Legislative priorities
+Joint Declaration 2017
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+11/04/2017
+
+SIMON Peter
+Shadow rapporteur
+
+KARAS Othmar
+
+FOX Ashley
+
+NAGTEGAAL Caroline
+
+CARTHY Matt
+
+GIEGOLD Sven
+
+VALLI Marco
+ZANNI Marco
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+Commissioner
+DOMBROVSKIS Valdis
+
+Key events
+23/11/2016
+
+Legislative proposal published
+
+31/05/2017
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+11/07/2017
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0850
+
+Summary
+
+11/07/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+14/07/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0255/2017
+
+21/11/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE613.530 GEDA/A/(2017)010571
+
+29/11/2017
+
+Debate in Parliament
+
+30/11/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/12/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+12/12/2017
+
+Final act signed
+
+12/12/2017
+
+End of procedure in Parliament
+
+Summary
+
+Summary
+
+T8-0468/2017
+
+Technical information
+Procedure reference
+
+2016/0360B(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 575/2013 2011/0202(COD)
+
+Stage reached in procedure
+
+Procedure completed, awaiting publication in Official Journal
+
+Committee dossier
+
+ECON/8/10002
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0850
+
+23/11/2016
+
+EC
+
+Committee draft report
+
+PE605.934
+
+06/06/2017
+
+EP
+
+Amendments tabled in committee
+
+PE606.265
+
+23/06/2017
+
+EP
+
+Amendments tabled in committee
+
+PE606.266
+
+23/06/2017
+
+EP
+
+A8-0255/2017
+
+14/07/2017
+
+EP
+
+GEDA/A/(2017)010571
+
+15/11/2017
+
+CSL
+
+T8-0468/2017
+
+30/11/2017
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+Coreper letter confirming interinstitutional
+agreement
+Text adopted by Parliament, 1st reading/single
+reading
+
+Summary
+
+Summary
+
+Summary
+
+2016/0360B(COD) - 23/11/2016 Legislative proposal
+PURPOSE: reinforce the existing provisions of Union law which lay down uniform prudential requirements for banks and investment firms
+across the Union (reform of the EU banking sector).
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with Council.
+
+BACKGROUND: in the aftermath of the financial crisis that unfolded in 2007-2008, the Union implemented a substantial reform of the financial
+services regulatory framework to enhance the resilience of its financial institutions. That reform was largely based on internationally agreed
+standards.
+Among its many measures, the reform package included the adoption of Regulation (EU) No 575/2013 and Directive 2013/36/EU of the
+European Parliament and of the Council, which strengthened the prudential requirements for credit institutions and investment firms.
+While the reform has rendered the financial system more stable and resilient against many types of possible future shocks and crises, it did not
+address all identified problems.
+Now that work on important additional reforms has been completed, such as the Basel Committee on Banking Supervision (Basel Committee)
+and the Financial Stability Board (FSB), the outstanding problems should be addressed.
+In its Communication of 24 November 2015, the Commission recognised the need for further risk reduction and committed bringing forward a
+legislative proposal that would build on internationally agreed standards.
+The need to take further concrete legislative steps in terms of reducing risks in the financial sector has also been recognised also by the
+Council in its Conclusions of 17 June 2016 and by the European Parliament in its resolution of 10 March 2016.
+IMPACT ASSESSMENT: the impact assessment, rejected on 7 September 2016, was subsequently strengthened by adding: (i) a better
+explanation on the policy context of the proposal (i.e. it relation to both international and EU policy developments); (ii) more details on
+stakeholders' views; (iii) further evidence on the impacts of the various policy options that are explored.
+As shown by the simulation analysis and macroeconomic modelling developed in the impact assessment, there are limited costs to be
+expected from the introduction of the new requirements, in particular the new Basel standards such as the leverage ratio and the trading book.
+CONTENT: the proposed amendment to Regulation (EU) No 575/2013 (the Capital Requirements Regulation or CRR) is part of a legislative
+package that includes also amendments to Directive 2013/36/EU (the Capital Requirements Directive or CRD), to Directive 2014/59/EU (the
+Bank Recovery and Resolution Directive or BRRD), and to Regulation (EU) No 806/2014 (the Single Resolution Mechanism Regulation or
+SRMR).
+It aims to complete the reform agenda by tackling remaining weaknesses and implementing some outstanding elements of the reform that are
+essential to ensure the institutions' resilience but have only recently been finalised by global standard setters (i.e. the Basel Committee on
+Banking Supervision (BCBS) and the Financial Stability Board (FSB)):
+a binding leverage ratio which will prevent institutions from excessively increasing leverage, e.g. to compensate for low profitability;
+a binding net stable funding ratio (NSFR) which will build on institutions improved funding profiles and establish a harmonised
+standard for how much stable, long-term sources of funding an institution needs to weather periods of market and funding stress;
+more risk sensitive own funds (i.e. capital) requirements for institutions that trade to an important extent in securities and derivatives
+which will prevent too much divergence in those requirements that is not based on the institutions' risk profiles;
+new standards on the total loss-absorbing capacity (TLAC) of global systemically important institutions (G-SIIs) which will require
+those institutions to have more loss-absorbing and recapitalisation capacity;
+the introduction of more accurate reporting of the risks to which banks are exposed.
+In order to improve the lending capacity of banks to support the EU economy, the proposal aims in particular at:
+enhancing the capacity of banks to lend to SMEs and to fund infrastructure projects. As far as SMEs are concerned, the proposed
+recalibration of the own funds requirements for bank exposures to SMEs is expected to have a positive effect on bank financing of
+SMEs. This would primarily affect SMEs which currently have exposures beyond EUR 1.5 million as these exposures do not benefit
+from the SME Supporting Factor under the existing rules;
+applying the current framework in a more proportionate manner, taking into account the situation of non-complex, small banks,
+reducing the administrative burden linked to some rules in the area of remuneration (namely those on deferral and remuneration using
+instruments, such as shares), which appear disproportionate for these banks;
+ensuring a smooth interaction with existing requirements such as for central clearing and collateralisation of derivatives exposures, or
+a gradual transition to some of the new requirements are necessary.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2016/0360B(COD) - 14/07/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Peter SIMON (S&D, DE) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 575/2013 as regards the transitional arrangements for mitigating the
+impact of the introduction of IFRS 9 on own funds and the large exposures treatment of certain public sector exposures denominated in
+non-domestic currencies of Member States.
+The committee recommended that the European Parliament's position adopted at first reading in accordance with the ordinary legislative
+procedure should amend the Commission proposal as follows.
+The report noted the application of the expected credit loss (ECL) provisioning introduced by the revised international accounting standards on
+financial instruments (IFRS9), may lead to a sudden significant decrease in the capital ratios of institutions.
+Whereas the Basel Committee on Banking Supervision (BCBS) is currently considering the longer-term regulatory capital treatment of
+expected loss provisions and to prevent an unwarranted detrimental effect on lending by credit institutions, the amended text would allow
+institutions to offset the potentially significant negative impact on Common Equity Tier 1 capital arising from expected credit losses accounting
+during a transitional period of five years (until 31 December 2022). This additional amount would gradually be reduced to zero during the
+transitional period.
+A recital refers to the resolution of 6 October 2016 in which the European Parliament called for a progressive phase-in regime that would
+
+mitigate the impact of the new impairment model of IFRS 9.
+Institutions may put in place transitional arrangements for the introduction of IFRS 9. Where they decide not to do so, it should, as a general
+rule, not be possible for them to subsequently apply such arrangements.
+However, following the first reporting period of the transitional period and subject to the prior approval of the competent authorities, institutions
+should, on a one-off basis, have the possibility of amending that decision and of applying the transitional arrangements for the remainder of
+the transitional period.
+
+2016/0360B(COD) - 30/11/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 495 votes to 41, with 10 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio,
+requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to
+collective investment undertakings, large exposures, reporting and disclosure requirements and amending Regulation (EU) No 648/2012.
+The European Parliaments position adopted at first reading following the ordinary legislative procedure concerns the amendments to
+Regulation (EU) No 575/2013 with regard to the transitional arrangements designed to mitigate the impact of the introduction of IFRS 9 on own
+funds and for the large exposure treatment of certain public sector debt of Member States denominated in other than domestic currencies of
+Member States.
+The proposed Regulation recalled that IFRS 9 was published by the International Accounting Standards Board in July 2014. Regulation
+2016/2067 requires EU banks to use it in their financial statements for financial years starting on or after 1 January 2018.
+IFRS 9 is aimed at improving the loss provisioning of financial instruments by addressing concerns that arose during the financial crisis. It
+responds to the G20s call for a more forward-looking model for the recognition of expected credit losses on financial assets.
+The application of IFRS 9 may lead to a sudden significant increase in expected credit loss provisions and consequently to a sudden decrease
+in institutions Common Equity Tier 1 capital.
+The proposed amendments to Regulation (EU) No 575/2013 are intended to introduce transitional arrangements, which will apply from 1
+January 2018, with a view to mitigating the potential negative regulatory capital impact on banks of the introduction of International Financial
+Reporting Standard (IFRS) 9.
+A recital refers to the resolution of 6 October 2016 in which the European Parliament called for a progressive phase-in regime that would
+mitigate the impact of the new impairment model of IFRS 9.
+The resulting draft regulation will allow banks to add back to their common equity tier 1 capital a portion of the increased expected credit loss
+provisions as extra capital during a five-year transitional period. That added amount will progressively decrease to zero during the course of
+the transitional period.
+Institutions should decide whether to apply those transitional arrangements and inform the competent authority accordingly. During the
+transitional period, an institution should have the possibility to reverse once its initial decision, subject to the prior permission of the competent
+authority which should ensure that such decision is not motivated by considerations of regulatory arbitrage
+The draft Regulation also provides for the phasing-out over three years (from 1 January 2018) of an exemption from the large exposure limit
+available for exposures to certain public sector debt of Member States denominated in other than domestic currencies of Member States.
+
+

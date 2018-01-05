@@ -1,0 +1,496 @@
+Procedure file
+Basic information
+2016/0011(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Rules against tax avoidance practices that directly affect the functioning of
+the internal market
+Amended by 2016/0339(CNS)
+Subject
+3.45.04 Company taxation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+21/01/2016
+
+BAYET Hugues
+Shadow rapporteur
+
+NIEDERMAYER Luděk
+
+LOONES Sander
+
+CALVET CHAMBON
+Enrique
+
+DE MASI Fabio
+
+JOLY Eva
+
+ZANNI Marco
+KAPPEL Barbara
+Committee for opinion
+
+Rapporteur for opinion
+
+AFET
+
+Foreign Affairs
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+MOSCOVICI Pierre
+
+Key events
+28/01/2016
+
+Legislative proposal published
+
+12/02/2016
+
+Debate in Council
+
+25/02/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+COM(2016)0026
+
+Summary
+
+08/03/2016
+
+Debate in Council
+
+24/05/2016
+
+Vote in committee, 1st reading/single
+reading
+
+27/05/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+07/06/2016
+
+Debate in Parliament
+
+08/06/2016
+
+Results of vote in Parliament
+
+08/06/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+12/07/2016
+
+Act adopted by Council after consultation
+of Parliament
+
+12/07/2016
+
+End of procedure in Parliament
+
+19/07/2016
+
+Final act published in Official Journal
+
+A8-0189/2016
+
+Summary
+
+T8-0265/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0011(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amended by 2016/0339(CNS)
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/05621
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0026
+
+28/01/2016
+
+EC
+
+PE578.569
+
+01/03/2016
+
+EP
+
+PE580.758
+
+14/04/2016
+
+NP
+
+PE580.763
+
+18/04/2016
+
+EP
+
+Economic and Social
+Committee: opinion, report
+
+CES1284/2016
+
+27/04/2016
+
+ESC
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A8-0189/2016
+
+27/05/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament,
+1st reading/single reading
+
+T8-0265/2016
+
+08/06/2016
+
+EP
+
+Summary
+
+Commission response to text
+adopted in plenary
+
+SP(2016)487
+
+14/07/2016
+
+PE587.797
+
+05/09/2016
+
+Committee draft report
+Reasoned opinion
+
+SE_PARLIAMENT
+
+Amendments tabled in
+committee
+
+Reasoned opinion
+
+MT_PARLIAMENT
+
+Additional information
+Research document
+
+Briefing
+
+NP
+
+Summary
+
+Final act
+Directive 2016/1164
+OJ L 193 19.07.2016, p. 0001 Summary
+
+2016/0011(CNS) - 28/01/2016 Legislative proposal
+PURPOSE: to establish rules against tax avoidance practices that directly affect the functioning of the internal market.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: the European Council Conclusions of 18 December 2014 cite "an urgent need to advance efforts in the fight against tax
+avoidance and aggressive tax planning, both at the global and European Union levels".
+The proposed Directive is one of the constituent parts of the Commission's Anti- Tax Avoidance Package. It builds on the Action Plan for Fair
+and Efficient Corporate Taxation, presented by the Commission on 17 June 2015 and it responds to the finalisation of the project against Base
+Erosion and Profit Shifting (BEPS) by the G20 and the Organisation for Economic Cooperation and Development (OECD). It also responds to
+demands from the European Parliament, several Member States, businesses and civil society, and certain international partners for a stronger
+and more coherent EU approach against corporate tax abuse.
+The current political priorities in international taxation highlight the need for ensuring that tax is paid where profits and value are generated.
+The schemes targeted by this proposed Directive involve situations where taxpayers act against the actual purpose of the law, taking
+advantage of disparities between national tax systems, to reduce their tax bill.
+Taxpayers may benefit from low tax rates or double deductions or ensure that their income remains untaxed by making it deductible in one
+jurisdiction whilst this is not included in the tax base across the border either. The outcome of such situations distorts business decisions in the
+internal market and unless it is effectively tackled, could create an environment of unfair tax competition.
+IMPACT ASSESSMENT: no impact assessment was carried out for this proposal given that the proposed Directive is complementary to other
+initiatives aimed to implement the output of the OECD BEPS reports in the EU and contribute towards a common minimum level of protection
+against tax avoidance.
+To provide up-to-date analysis and evidence, a separate Staff Working Document accompanying the draft Directive gives an extensive
+overview of existing academic work and economic evidence in the field of base erosion and profit shifting.
+CONTENT: the draft Directive is broadly inclusive and aims to capture all taxpayers which are subject to corporate tax in a Member State. Its
+scope also embraces permanent establishments, situated in the Union, of corporate taxpayers which are not themselves subject to the
+Directive.
+Having the aim of combating tax avoidance practices which directly affect the functioning of the internal market, the proposal lays down antitax avoidance rules in six specific fields:
+1. The deductibility of interest: multinational groups often finance group entities in high-tax jurisdictions through debt and arrange that
+these companies pay back 'inflated' interest to subsidiaries resident in low-tax jurisdictions. The aim of the proposed rule is to
+discourage the above practice by limiting the amount of interest that the taxpayer is entitled to deduct in a tax year. Given that this
+Directive fixes a minimum level of protection for the internal market, it is envisaged setting the rate for deductibility at the top of the
+scale (10 to 30%) recommended by the OECD. Member States may then introduce stricter rules.
+2. Exit taxation: taxpayers may try to reduce their tax bill by moving their tax residence and/or assets to a low-tax jurisdiction. Exit
+taxation serves the purpose of preventing tax base erosion in the State of origin when assets which incorporate unrealised underlying
+gains are transferred, without a change of ownership, out of the taxing jurisdiction of that State. The proposal also addresses the EU
+law angle of exit taxation by giving taxpayers the option for deferring the payment of the amount of tax over a certain number of years
+and settling through staggered payments.
+3. A switch-over clause: given the inherent difficulties in giving credit relief for taxes paid abroad, States tend to increasingly exempt
+foreign income from taxation. Switch-over clauses are commonly used against such practices. Namely, the taxpayer is subjected to
+taxation (instead of being exempt) and given a credit for tax paid abroad. In this way, companies are discouraged from shifting profits
+out of high-tax jurisdictions towards low-tax territories, unless there is sufficient business justification for these transfers.
+4. A general anti-abuse rule: such a rule is designed to cover gaps that may exist in a country's specific anti-abuse rules against tax
+avoidance. It would allow authorities the power to deny taxpayers the benefit of abusive tax arrangements. Within the Union, the
+application of anti-abuse rules should be limited to arrangements that are wholly artificial (non-genuine); otherwise, the taxpayer
+should have the right to choose the most tax efficient structure for its commercial affairs.
+5. Controlled foreign company (CFC) rules: taxpayers with controlled subsidiaries in low-tax jurisdictions may engage in tax planning
+practices whereby they shift large amounts of profits out of the (highly-taxed) parent company towards subsidiaries which are subject
+to low taxation. The effect is to reduce the overall tax liability of the group. CFC rules re-attribute the income of a low-taxed controlled
+foreign subsidiary to its parent company. As a result of this, the parent company is charged to tax on this income in its State of
+residence usually, this is a high-tax State.
+6. A framework to tackle hybrid mismatches: these mismatches are the consequence of differences in the legal characterisation of
+payments (financial instruments) or entities when two legal systems interact. Such mismatches may often lead to double deductions
+(i.e. deduction on both sides of the border) or a deduction of the income on one side of the border without its inclusion on the other
+side. In order to ensure that Member States introduce rules to effectively combat against these mismatches, this Directive prescribes
+that the legal characterisation given to a hybrid instrument or entity by the Member State where a payment, expense or loss, as the
+case may be, originates shall be followed by the other Member State which is involved in the mismatch.
+
+2016/0011(CNS) - 27/05/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, in the framework of a special legislative procedure (Parliaments consultation), the
+report by Hugues BAYET (ALDE, BE) on the proposal for a Council directive laying down rules against tax avoidance practices that directly
+affect the functioning of the internal market.
+The Committee recommended the European Parliament to approve the Commission proposal as amended:
+Permanent establishment: in order to ensure consistency with regard to the treatment of permanent establishments, it is essential that Member
+States apply, both in relevant legislation and bilateral tax treaties, a common definition of permanent establishments. According to the text, it
+shall mean a fixed place of business situated in a Member State through which the business of a company of another Member State is wholly
+or partly carried on; this definition should also address situations in which companies which engage in fully dematerialised digital activities are
+considered to have a permanent establishment in a Member State if they maintain a significant presence in the economy of that country.
+Secrecy or low tax jurisdictions: a recital stipulated that profit shifting into secrecy or low tax jurisdictions poses a particular risk to Member
+States' tax proceeds as well as to fair and equal treatment between tax avoiding and tax compliant firms, large and small. In addition to the
+generally applicable measures proposed in this Directive for all jurisdictions, it is essential to deter Specific measures are therefore proposed
+to use this directive as a tool to ensure compliance by current secrecy and low tax jurisdictions with the international push for tax transparency
+and fairness.
+In particular, the proposed text specified that Member States may impose a withholding tax on payments from an entity in that Member State
+to an entity in a secrecy or low tax jurisdiction. Member States shall update any Double Tax Agreements which currently preclude such a level
+of withholding tax with a view to removing any legal barriers to this collective defence measure.
+Transfer pricing: the definition of 'transfer prices' shall mean the prices at which an undertaking transfers tangible goods or intangible assets
+or provides services to associated undertakings.
+In a recital, it is stated that the term 'transfer pricing' refers to the conditions and arrangements surrounding transactions effected within a
+multinational company, including subsidiaries and shell companies whose profits are divested to a parent multinational. The Union must satisfy
+itself that the taxable profits generated by multinational undertakings are not being transferred outside the jurisdiction of the Member State
+concerned and that the tax base declared by multinational undertakings in their country reflects the economic activity undertaken there.
+Letterbox companies: the amended text proposed that the use of letterbox companies by taxpayers operating in the Union should be
+prohibited. Taxpayers should communicate to tax authorities evidence demonstrating the economic substance of each of the entities in their
+group, as part of their annual country-by-country reporting obligations.
+Double tax agreements: in order to improve the current mechanisms to resolve cross-border taxation disputes in the Union, focusing not only
+on cases of double taxation but also on double non-taxation, a dispute resolution mechanism with clearer rules and more stringent timelines
+should be introduced by January 2017.
+Hybrid mismatches related to third countries: the amended text stated that where a hybrid mismatch between a Member State and a third
+country results in a double deduction, the Member State shall deny the deduction of such a payment, unless the third country has already
+done so. Where a hybrid mismatch between a Member State and a third country results in a deduction without inclusion, the Member State
+shall deny the deduction or non-inclusion of such a payment, as appropriate, unless the third country has already done so.
+Effective tax rate: the Commission is called upon to develop a common method of calculation of the effective tax rate in each Member State,
+so as to make it possible to draw up a comparative table of the effective tax rates across the Member States.
+European tax identification number: proper identification of taxpayers is essential to effective exchange of information between tax
+administrations. It is proposed that the Commission should present a legislative proposal for a harmonised, common European taxpayer
+identification number by 31 December 2016, in order to make automatic exchange of tax information more efficient and reliable within the
+Union.
+Patents: until now, multinationals have used patent incentives to artificially reduce their profits. This has an adverse impact on genuinely
+innovative countries. Members are proposing that these multinationals should be subject to an exit tax where they repatriate proceeds from
+patents to countries with lower tax rates.
+Legislative proposal on CCCTB: Members noted that a fully-fledged Common Consolidated Corporate Tax Base (CCCTB), with an appropriate
+and fair distribution key, would be the genuine "game changer" in the fight against artificial BEPS strategies. In light of this, the Commission
+should publish an ambitious proposal for a CCCTB as soon as possible, and the legislative branch to conclude negotiations on that crucial
+proposal as soon as possible.
+Penalties: Member States should have in place a system of penalties as provided for in national law and should inform the Commission
+thereof.
+Review and monitoring: the Commission should put in place a specific monitoring mechanism to ensure the proper implementation of this
+Directive and the homogeneous interpretation of its measures by Member States. It should evaluate the implementation of this Directive three
+years after its entry into force and report to the European Parliament and the Council thereon. Member States should communicate to the
+European Parliament and the Commission all information necessary for this evaluation.
+
+2016/0011(CNS) - 08/06/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 486 votes to 88, with 103 abstentions, in the framework of a special legislative procedure (Parliaments
+consultation), a legislative resolution on the proposal for a Council directive laying down rules against tax avoidance practices that directly
+affect the functioning of the internal market.
+Parliament approved the Commission proposal subject to the following amendments:
+
+A political priority: according to Members, the Union should consider that combatting fraud, tax evasion and tax avoidance are overriding
+political priorities, as aggressive tax planning practices are unacceptable from the point of view of the integrity of the internal market and social
+justice.
+The resolution stated that it is essential to give tax authorities the appropriate means to fight effectively against BEPS, and, in so doing,
+improve transparency in respect of the activities of large multinationals, in particular with regard to profits, tax paid on profits, subsidies
+received, tax rebates, numbers of employees and assets held.
+Permanent establishment: Parliament stated that the concept of permanent establishment will provide a precise, binding definition of the
+criteria which must be met if a multinational company is to prove that it is situated in a given country. This will compel multinational companies
+to pay their taxes fairly.
+In order to ensure consistency with regard to the treatment of permanent establishments, it is essential that Member States apply, both in
+relevant legislation and bilateral tax treaties, a common definition of permanent establishments. According to the text, it shall mean a fixed
+place of business situated in a Member State through which the business of a company of another Member State is wholly or partly carried on;
+this definition should also address situations in which companies which engage in fully dematerialised digital activities are considered to have
+a permanent establishment in a Member State if they maintain a significant presence in the economy of that country.
+Secrecy or low tax jurisdictions: Members recalled that profit shifting into secrecy or low tax jurisdictions poses a particular risk to Member
+States' tax proceeds as well as to fair and equal treatment between tax avoiding and tax compliant firms, large and small.
+In addition to the generally applicable measures proposed in this Directive for all jurisdictions, it is essential to deter secrecy and low tax
+jurisdictions from basing their corporate tax and legal environment on sheltering profits from tax avoidance while at the same time not
+adequately implementing global standards as regards tax good governance, such as the automatic exchange of tax information, or engaging
+in tacit non-compliance by not properly enforcing tax laws and international agreements, despite political commitments to implementation.
+Specific measures are therefore proposed to use this Directive as a tool to ensure compliance by current secrecy or low tax jurisdictions with
+the international push for tax transparency and fairness.
+In particular, the amended text specified that Member States may impose a withholding tax on payments from an entity in that Member State
+to an entity in a secrecy or low tax jurisdiction. Member States shall update any Double Tax Agreements which currently preclude such a level
+of withholding tax with a view to removing any legal barriers to this collective defence measure.
+Transfer pricing: the definition of 'transfer prices' shall mean the prices at which an undertaking transfers tangible goods or intangible assets
+or provides services to associated undertakings.
+In a recital, it is stated that the term 'transfer pricing' refers to the conditions and arrangements surrounding transactions effected within a
+multinational company, including subsidiaries and shell companies whose profits are divested to a parent multinational. The Union must satisfy
+itself that the taxable profits generated by multinational undertakings are not being transferred outside the jurisdiction of the Member State
+concerned and that the tax base declared by multinational undertakings in their country reflects the economic activity undertaken there.
+Switch-over clause: Member States shall not exempt a taxpayer from tax on foreign income, that does not arise from active business, which
+the taxpayer received as a profit distribution from an entity in a third country or as proceeds from the disposal of shares held in an entity in a
+third country or as income from a permanent establishment situated in a third country where the entity or the permanent establishment is
+subject, in the entity's country of residence or the country in which the permanent establishment is situated, to a tax on profits at a statutory
+corporate tax rate lower than 15 %.
+Letterbox companies: the amended text stipulates that the use of letterbox companies by taxpayers operating in the Union should be
+prohibited. Taxpayers should communicate to tax authorities evidence demonstrating the economic substance of each of the entities in their
+group, as part of their annual country-by-country reporting obligations.
+Black list: Members considered that a Union-wide definition and an exhaustive 'black list' should be drawn up of the tax havens and countries,
+including those in the Union, which distort competition by granting favourable tax arrangements. The black list should be complemented with a
+list of sanctions for non-cooperative jurisdictions and for financial institutions that operate within tax havens.
+Dispute resolution mechanism: in order to improve the current mechanisms to resolve cross-border taxation disputes in the Union, focusing not
+only on cases of double taxation but also on double non-taxation, a dispute resolution mechanism with clearer rules and more stringent
+timelines should be introduced by January 2017.
+Hybrid mismatches related to third countries: Members stated that where a hybrid mismatch between a Member State and a third country
+results in a double deduction, the Member State shall deny the deduction of such a payment, unless the third country has already done
+so. Where a hybrid mismatch between a Member State and a third country results in a deduction without inclusion, the Member State shall
+deny the deduction or non-inclusion of such a payment, as appropriate, unless the third country has already done so.
+Effective tax rate: the Commission is called upon to develop a common method of calculation of the effective tax rate in each Member State,
+so as to make it possible to draw up a comparative table of the effective tax rates across the Member States.
+European tax identification number: proper identification of taxpayers is essential to effective exchange of information between tax
+administrations. Parliament proposed that the Commission should present a legislative proposal for a harmonised, common European
+taxpayer identification number by 31 December 2016, in order to make automatic exchange of tax information more efficient and reliable within
+the Union.
+Patents: until now, multinationals have used patent incentives to artificially reduce their profits. This has an adverse impact on genuinely
+innovative countries. Members are proposing that these multinationals should be subject to an exit tax where they repatriate proceeds from
+patents to countries with lower tax rates.
+Legislative proposal on CCCTB: Parliament noted that a fully-fledged Common Consolidated Corporate Tax Base (CCCTB), with an
+appropriate and fair distribution key, would be the genuine "game changer" in the fight against artificial BEPS strategies. In light of this, the
+Commission should publish an ambitious proposal for a CCCTB as soon as possible, and the legislative branch to conclude negotiations on
+that crucial proposal as soon as possible.
+Penalties: Member States should have in place a system of penalties as provided for in national law and should inform the Commission
+
+thereof.
+Review and monitoring: the Commission should put in place a specific monitoring mechanism to ensure the proper implementation of this
+Directive and the homogeneous interpretation of its measures by Member States. It should evaluate the implementation of this Directive three
+years after its entry into force and report to the European Parliament and the Council thereon. Member States should communicate to the
+European Parliament and the Commission all information necessary for this evaluation.
+
+2016/0011(CNS) - 12/07/2016 Final act
+PURPOSE: to establish rules against tax avoidance practices that directly affect the functioning of the internal market.
+LEGISLATIVE ACT: Council Directive (EU) 2016/1164 laying down rules against tax avoidance practices that directly affect the functioning of
+the internal market.
+CONTENT: the Directive aims to lay down rules in order to strengthen the average level of protection against aggressive tax planning in the
+internal market.
+In a market of highly integrated economies, there is a need for common strategic approaches and coordinated action, to maximise the positive
+effects of the Organisation for Economic Cooperation and Development (OECD) initiative against base erosion and profit shifting (BEPS).
+The Directive applies to all taxpayers that are subject to corporate tax in one or more Member States, including permanent establishments in
+one or more Member States of entities resident for tax purposes in a third country. It lays down anti-tax-avoidance rules in five specific
+anti-BEPS fields:
+Interest limitation rules: multinational companies may artificially shift profits to jurisdictions with more generous rules with regard to
+deductibility. The Directive aims to dissuade companies from recourse to this practice by limiting the amount of interest that the
+taxpayer has the right to deduct in a tax period. The Directive sets the rate of deductibility at a maximum of 30% of the taxpayer's
+earnings before interest, tax, depreciation and amortization.
+Exit taxation rules: taxpayers may try to reduce their tax liability by transferring its tax residence and/or its assets to a low-tax
+jurisdiction, solely for the purposes for aggressive tax planning. Exit taxation rules aims to prevent the erosion of the tax base in the
+Member State of origin when high-value assets are transferred with ownership unchanged, outside the tax jurisdiction of that Member
+State. The Directive also addresses the EU law angle of exit taxation by giving taxpayers the option of deferring the payment of the
+amount of tax over five years and settling through staggered payments.
+General anti-abuse rule: this rule is designed to cover gaps that may exist in a country's specific anti-abuse rules against tax
+avoidance, and allows authorities the power to deny taxpayers the benefit of abusive tax arrangements. The directive provides that the
+general anti-abuse clause will be applied to arrangements that are not genuine to the extent that they are not put into place for valid
+commercial reasons that reflect economic reality.
+Controlled foreign company (CFC) rules: in order to reduce their overall tax liability, corporate groups can shift large amounts of profits
+towards controlled subsidiaries in low-tax jurisdictions. CFC rules reattribute the income of a low-taxed controlled foreign subsidiary to
+its - usually more highly taxed - parent company. As a result of this, the parent company is charged to tax on this income in its State of
+residence.
+Rules on hybrid mismatches: corporate taxpayers may take advantage of disparities between national tax systems in order to reduce
+their overall tax liability, for instance through double deduction (i.e. deduction on both sides of the border) or a deduction of the income
+on one side of the border without its inclusion on the other side. To neutralise the effects of hybrid mismatch arrangements, the
+Directive lays down rules whereby one of the two jurisdictions in a mismatch should deny the deduction of a payment leading to such
+an outcome.
+ENTRY INTO FORCE: 8.8.2016.
+TRANSPOSITION: by 31.12.2018.
+APPLICATION: from 1.1.2019.
+By way of derogation, Member States have until 1 January 2020 to apply the exit taxation rules.
+Member States which have at 8 August 2016, national targeted rules for preventing BEPS risks, which are equally effective to the interest
+limitation rule set out in the Directive, may apply these targeted rules until the end of the first full fiscal year following the date of publication of
+the agreement between the OECD members on the official website on a minimum standard with regard to BEPS Action 4, but at the latest until
+1 January 2024.
+
+

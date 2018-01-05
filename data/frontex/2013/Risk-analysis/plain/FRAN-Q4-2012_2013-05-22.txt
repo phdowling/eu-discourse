@@ -1,0 +1,11906 @@
+FRAN Quarterly
+Quarter 4 • October–December 2012
+
+Q1 Q2
+Q3 Q4
+
+FRAN Quarterly
+Quarter 4 • October–December 2012
+
+1 of 62
+
+Frontex official publications fall into four main categories: risk analysis, training, operations
+and research, each marked with a distinct graphic identifier. Risk analysis publications bear a
+triangular symbol formed by an arrow drawing a triangle, with a dot at the centre. Metaphorically, the arrow represents the cyclical nature of risk analysis processes and its orientation
+towards an appropriate operational response. The triangle is a symbol of ideal proportions
+and knowledge, reflecting the pursuit of factual exactness, truth and exhaustive analysis.
+The dot at the centre represents the intelligence factor and the focal point where information from diverse sources converges to be processed, systematised and shared as analytical
+products. Thus, Frontex risk analysis is meant to be at the centre and to form a reliable basis for its operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Rondo ONZ 1
+00-124 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, May 2013
+Risk Analysis Unit
+Frontex reference number: 6257/2013
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply the
+expression of any opinion whatsoever on the part of Frontex concerning the legal status of
+any country, territory or city or its authorities, or concerning the delimitation of its frontiers
+or boundaries.
+All maps and charts included in this report are the sole property of Frontex and any unauthorised use is prohibited. Frontex disclaims any liability with respect to the boundaries, names
+and designations used on the maps.
+The contents of open-source boxes are unverified and presented only to give context and
+media representation of irregular-migration phenomena.
+
+ACKNOWLEDGMENTS
+The FRAN Quarterly has been prepared by the Frontex Risk Analysis Unit. During the course
+of developing this product, many colleagues at Frontex and outside contributed to it and their
+assistance is hereby acknowledged with gratitude.
+
+2 of 62
+
+Table of contents
+Executive summary #5
+1. Introduction #7
+2. Methodology #8
+3. Summary of FRAN indicators #10
+4. Situational picture in Q4 2012 #12
+4.1. Detections of illegal border-crossing #13
+4.2. Routes #17
+4.3. Clandestine entry #28
+4.4. Detections of facilitators #29
+4.5. Detections of illegal stay #30
+4.6. Refusals of entry #32
+4.7. Asylum claims #34
+4.8. Document fraud #34
+4.9. Returns #38
+4.10. Other illegal activities at the border #40
+5. Statistical annex #47
+
+3 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+List of abbreviations used
+ARA 				Annual Risk Analysis
+BCP 				
+border-crossing point
+CeCLAD-M 	Centre de Coordination pour la Lutte Anti-Drogue en Méditerranée
+CIR 			Italian Council for Refugees
+CIRCA 			Communication and Information Resource Centre Administrator
+CIREFI			Centre for Information, Discussion and Exchange on the Crossing of Frontiers and
+Immigration
+Democratic Republic of the Congo (Congo-Kinshasa)
+COD			
+EDF-RAN		 European Union Document-Fraud Risk Analysis Network
+EFCA 			European Fisheries Control Agency
+EMCDDA		European Monitoring Centre for Drugs and Drug Addiction
+EU 				
+European Union
+EUR 				
+euro
+FRAN 			Frontex Risk Analysis Network
+fYROM 			former Yugoslav Republic of Macedonia
+ICJ		
+			International Court of Justice
+ICONet			Information and Coordination Network for Member States’ Migration Management
+Services
+ID 				
+identity document
+IMO 				International Maritime Organization
+IOM 			International Organization for Migration
+ISO 				International Organization for Standardization
+JO 				
+Joint Operation
+MS			 	Member State
+NM 				
+nautical mile
+OCG 			
+organised crime group
+RAU 				Frontex Risk Analysis Unit
+SAC 			
+Schengen Associated Country
+SIS 				Schengen Information System
+UK 				
+United Kingdom
+UNODC			United Nations Office on Drugs and Crime
+USD				
+United States dollar
+WB-ARA 	Western Balkans Annual Risk Analysis
+WB-RAN 	Western Balkans Risk Analysis Network
+UNSCR			United Nations Security Council Resolution
+
+Note
+
+As some Member States are unable to distinguish between the Democratic Republic of Congo
+(Congo-Kinshasa) and Congo (Congo-Brazzaville), ‘Congo’ and ‘Congolese’ are used as collective terms for these two countries throughout this report unless otherwise indicated.
+
+4 of 62
+
+Executive summary
+During the final quarter of 2012, several FRAN
+indicators varied radically compared to previous reporting periods. For example, there
+were just 13 613 detections of illegal bordercrossing at the EU level, which is the lowest
+ever recorded figure for any quarter since
+data collection began in early 2008. In contrast, both clandestine entries and asylum
+applications were at by far their highest levels since data collection began and, although
+falling slightly compared with the previous
+quarter, refusals of entry at the external border remained at one of the highest levels
+since 2009.
+The reason for fewer detections of illegal
+border-crossing were the combined deterrent effects of the Greek operation Aspida,
+which involved the deployment of large numbers of additional police officers to the Greek
+land border with Turkey, and also the Greek
+operation Xenios Zeus that targeted irregular migrants in Athens and other urban areas.
+The widespread effects of these operations
+are demonstrable with analyses of FRAN indicators. For example, detections of illegal border-crossing at the Greek land border with
+Turkey fell from being an undisputed hotspot for illegal entries during the first half of
+2012, to almost negligible levels during the final quarter of the year. Detections of all nationalities fell to almost the same degree,
+which suggests that the effect was due to
+decreased vulnerability at the border, rather
+than changes to a push factor.
+Following the Greek operation Xenios Zeus,
+the number of effective returns performed by
+Greece increased dramatically in Q4 2012, particularly of nationalities previously associated
+with detections of illegal border-crossing.
+
+The well-publicised operations were also followed by increased detections away from the
+operational areas, which probably represent
+displacement effects away from the Greek
+land border with Turkey. These included increased detections of:
+1.	illegal border-crossing at the Greek sea border with Turkey;
+2.	illegal border-crossing at the Bulgarian land
+border with Turkey;
+3.	document fraudsters on flights from Istanbul, rather than Athens.
+Despite the effect of these operations in reducing detections at the Greek land border
+with Turkey, there is currently no evidence
+to suggest that the absolute flow of irregular migrants arriving to the region has decreased in any way, although it’s reasonable
+to assume that this may occur in the mediumterm. Instead, reports suggest that migrants
+are currently waiting in Turkey, with some
+nationalities starting to integrate with Turkish society, while others consider alternative
+migration options. Moreover, most routes of
+secondary movements from Greece did not
+show signs of significant decline. These included detections of:
+1.	Afghans and Pakistanis as illegal bordercrossers and clandestine entries across the
+Western Balkan region;
+2.	Afghans and Pakistanis arriving in Calabria
+and Apulia on pleasure boats from Greece;
+3.	fraudulent document-users on intra-Schengen flights from Greece (declining trend).
+Elsewhere of the Eastern Mediterranean,
+there were more detections of illegal border-crossing on the main Central Mediterranean route from North Africa than during
+any other quarter of 2012, mostly Eritreans,
+Somalis and Gambians departing from Libya,
+
+5 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+followed by Tunisians and Egyptians departing from their own countries. These journeys
+are increasingly dangerous because many arrived on very flimsy and often unseaworthy
+vessels due to the reported reduced availability of sturdy boats in Libya. Also significant to
+the safety of the migrants is the poor treatment they received from facilitators, who
+leave them uniformed and poorly equipped.
+Across a wide range of indicators, irregular migration of Syrian migrants increased
+more than any other nationality during the
+final quarter of 2012, hence reflecting their
+desperate plight. For example, detections of
+Syrians illegally crossing the external border doubled to 1 200 in Q4 2012, mostly in
+Greece and, to a lesser extent, in Bulgaria,
+where they were also increasingly subject to
+decisions to leave. Also at the external border, Syrians were increasingly detected using
+fraudulent documents, such that they were
+ranked top among all nationalities, mostly departing from Istanbul. One result of the large
+flow of Syrian migrants across the border
+was a massive influx of Syrian asylum applications, which increased threefold to nearly
+9 000, mostly in final destination countries
+such as Sweden and Germany. In fact 11% of
+all asylum applications in Q4 2012 were submitted by Syrians, amounting to more applications submitted by a single nationality in
+any given quarter since data collection began for this indicator.
+With an overwhelming 31% of all applications
+submitted in the EU/Schengen area and following nearly a 43% increase compared to
+the previous quarter, Germany received by
+far the most applications for international
+protection and more than reported by any
+Member State in a single quarter since data
+collection began in early 2008.
+
+6 of 62
+
+Of all nationalities migrants from Afghanistan continued to represent the largest proportion of the threat of irregular migration
+to the EU in Q4 2012. For instance, Afghans
+ranked first among nationalities for illegal
+border-crossing and illegal stay both mostly
+in Greece, clandestine entries at BCPs mostly
+in Slovenia. As well as these indicators of irregular migration, migrants from Afghanistan
+also ranked second for asylum applications
+mostly in Germany.
+The use of fraudulent documents continued
+to increase during the last few months of
+2012. This was particularly the case for Albanian migrants who were the nationality
+most frequently detected using fraudulent
+documents at the external border. Specifically, they were using counterfeit bordercrossing stamps to fabricate travel history
+and extend periods of stay. In this case they
+were nearly exclusively detected on entry at
+the Greek-Albanian land border. Albanians
+were also the nationality most commonly detected with fraudulent documents between
+the Schengen area and the UK sometimes via
+Ireland. In this case they were detected on
+flights arriving in the UK but also while attempting to board flights leaving Italy and
+other Schengen states.
+Refusals of entry were at an exceptionally
+high level in Q4 2012, with about 60% of refusals being from the land border and most
+of the remainder being from the sea border.
+As is usually the case, Poland refused the
+most migrants. The two most common refusal phenomena were Ukrainian nationals
+refused entry at the Polish land border with
+Ukraine, followed by Georgians refused entry at the Polish land border with Belarus.
+Ranked third was Albanians refused entry at
+the Greek land border with Albania. In total
+these three phenomena accounted for nearly
+a third of all refusals of entry at the EU level.
+
+1. Introduction
+FRAN Quarterly reports are prepared by the
+Frontex Risk Analysis Unit (RAU) and provide
+a regular overview of irregular migration at
+the EU external borders, based on the irregular-migration data exchanged among Member State border-control authorities within
+the cooperative framework of the Frontex
+Risk Analysis Network (FRAN) and its subsidiary, the European Union Document-Fraud
+Risk Analysis Network (EDF-RAN).
+The main purpose of the FRAN Quarterlies
+is to provide:
+n	feedback to the FRAN community in the
+context of information exchange;
+n	a periodic update to the situational picture of irregular migration at the EU level;
+and
+n	material for constructive discussion on reporting protocols and related trends and
+patterns.
+This report is intended to simultaneously
+serve two objectives: first, to provide a clear
+summary of the situation at the external border of the EU, and second, to serve as an archive for future reference and comparative
+analyses. Consistent with standard archival
+techniques, some information is repeated
+among sections to serve as context.
+
+Harmonising complex, multi-source migration
+data among Frontex and Member States is an
+ongoing process. Therefore some of the more
+detailed data and trends in this report should
+be interpreted with caution and, where possible, cross-referenced with information from
+other sources. The statistics should be understood in the context of the different levels of
+passenger flows passing through different
+border sections, the activities undertaken by
+Member State border-control authorities to
+secure different border sections and widespread variation in reporting and data-collection practices.
+FRAN Members and Member State risk analysis experts and border-control authorities are
+considered the primary customers of these
+reports. In addition to the discussions taking
+place during FRAN meetings, Member State
+experts are invited and actively encouraged
+to examine and comment upon the data and
+analyses presented here. Despite all efforts
+of RAU and Member State experts involved
+in data exchange and analyses, it is conceivable that minor errors will occur in these reports due to very challenging timelines, and
+the growing volume and complexity of data
+and other information exchanged within the
+FRAN community.
+
+7 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+2. Methodology
+This, the 18th issue of the FRAN Quarterly
+is a comparative analysis of FRAN data collected between October and December 2012
+and exchanged between 30 Member State
+border-control authorities within the framework of the FRAN. The release of this report
+coincides with a wide range of other Frontex risk analysis products including the Annual Risk Analysis (ARA) and the European
+Union Document-Fraud Annual Risk Analysis
+(EDF-ARA). For this reason the Q4 reports
+are shorter and less detailed than at other
+times of year, and do not include the chapter on third-country monitoring.
+The report presents the results of statistical
+analysis of quarterly variations in eight irregular-migration indicators and one asylum indicator, aggregated at the level of the event.
+Bi-monthly analytical reports exchanged by
+Member States were also used for interpretative purposes and to provide qualitative information, as were other available sources of
+information such as Frontex Joint Operations.
+
+Monthly data on the following indicators were exchanged
+among the FRAN community:
+1A detections of illegal border-crossing between BCPs
+1B detections of illegal border-crossing at BCPs
+2 detections of suspected facilitators
+3 detections of illegal stay
+4 refusals of entry
+5 asylum applications
+6 document fraud (EDF-RAN)
+7A return decisions for illegally staying third-country nationals
+7B	effective returns of illegally staying third-country nationals
+FRAN data used in the tables and charts are as of 12 February 2013
+
+8 of 62
+
+Precise definitions of Indicators 1 to 6, aimed
+at harmonising the data exchanged at EU
+level, were presented in the annexes of the
+Q1 and Q2 reports in 2009 and so are not
+repeated here.
+During the June 2010 FRAN Meeting, a proposal for a harmonised definition of the
+return indicator was outlined and several
+questions were presented in order to motivate discussion among FRAN Members in
+view of establishing the regular collection
+of monthly return data by Frontex. Subsequently, an online survey of FRAN Members
+was conducted to gather information and
+further motivate discussion to fine-tune the
+proposal for the indicator. The 11th FRAN report (Q1 2011) was the first to include analysis
+of Indicators 7A and 7B, and the definitions
+of these indicators are included in an annex
+to that report. Data collection commenced
+in January 2011.
+The FRAN data-exchange has been in place
+since September 2007. Data are exchanged
+through the ICONet Internet platform, an
+interest group of the European Commission’s CIRCA server. Member State monthly
+data are based on a country template prepared by the Frontex Risk Analysis Unit. The
+deadline for submitting data for each month
+is the 25th day of the subsequent month,
+with the exception of the end of year data,
+which are requested by 15 January each year.
+For this 18th issue of the FRAN Quarterly,
+the target for Member States to upload the
+monthly data was thus 15 January 2013. In
+principle, data submitted subsequent to this
+date will be reflected in the next FRAN Quarterly, except in cases where clarification is
+needed in order to proceed with comprehensive analysis.
+
+Following the closure of the CIREFI working group in April 2010, most of its mandates
+and, of particular relevance, the exchange of
+data were transferred to the FRAN. Fortunately, most CIREFI indicators already overlapped with the monthly data exchange of
+FRAN members. The exception was the indicator on returns, which was added as part of
+the regular data exchange within the FRAN
+at the beginning of 2011.
+In January 2012 the European Union Document-Fraud Risk Analysis Network
+(EDF-RAN) was formed as a specialist forum to oversee the exchange and analyses
+of detections of document fraud to illegally
+cross the external borders, and on all international flights. Data were backdated and
+joined with exchanged in a pilot phase.
+The EDF-RAN data are checked for inconsistencies and corrections are made to reported
+totals to bring them in line with reported
+breakdowns. Corrections are also made to
+any three-letter nationality codes not present
+in the reference ISO list of nationality codes.*
+External borders refer to the borders between Member States and third countries.
+The borders between the Schengen Associated Countries (Norway, Iceland and
+Switzerland) and third countries are also
+considered as external borders. The borders
+between the Schengen Associated Countries
+and Schengen Member States are considered as internal borders. For the indicators
+on detections of facilitators, illegal stay and
+asylum, statistics are also reported for detections at the land borders between the
+Schengen Member States and Schengen candidates (Bulgaria, Romania) or non-Schengen
+Member States (the UK, Ireland), so that a
+total for EU Member States and the Schengen Associated Countries as a whole can
+be presented. It was not possible to make
+this distinction for air and sea borders because Member States do not habitually differentiate between extra-EU and intra-EU
+air and sea connections but tend to aggregate data for all arrivals.
+
+When data are examined at the level of thirdcountry nationalities, a large percentage
+usually falls under the category ‘Other (not
+specified)’ or ‘Unknown’. It is expected that
+the percentage reported under these categories will decrease with time as Member
+States improve the quality and speed of their
+identification, data collection and reporting
+practices. Nationalities are often reported as
+‘Unknown’ if an individual’s nationality cannot
+be established before reports are submitted.
+This issue of the FRAN Quarterly also includes
+main findings of Frontex-coordinated Joint Operations active for at least a portion of Q4 2012.
+Namely, for sea borders they were JO Poseidon Sea 2012, JO Focal Points Sea 2012, JO Indalo 2012, JO Aeneas 2012, JO Hermes 2012, JO
+Hera 2012; for land borders – JO Poseidon Land
+2012, JO Focal Points Land 2012; and for the air
+border – JO Focal Points Air 2012.
+Both primary data sources, such as interviews
+with irregular migrants, and secondary data
+sources, such as reports of intelligence analysts, daily reports of deployed officers and
+analytical products (weekly and bi-weekly
+analytical reports for each abovementioned
+operation), were used to provide an exhaustive overview of the situation at the external
+borders of the EU. Additionally, open-source
+data were researched as background information for the present analysis.
+
+* http;//www.iso.org
+
+Acknowledgements
+The Frontex Risk Analysis Unit would like to
+express thanks to all FRAN and EDF-RAN
+Members and their associates in Member
+State statistical, migration and documentfraud units who collect, aggregate and exchange monthly data, and the analysts who
+compile the bi-monthly analytical reports
+on which much of the detailed analyses presented here are based.
+We are also grateful to Member State representatives who responded to requests for
+additional information on key topics and
+emerging trends.
+
+9 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+3. Summary of FRAN indicators
+Table 1.Summary of FRAN indicators
+Detections or cases as reported by Member States
+
+2011
+FRAN indicator
+1A Illegal entries between BCPs
+1B Clandestine entries at BCPs
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2012 Q4
+Q3
+
+Q4
+
+% change on
+prev. year
+
+prev. qtr
+
+38 530
+
+28 325
+
+13 636
+
+23 095
+
+22 093
+
+13 613
+
+-52
+
+64
+
+84
+
+116
+
+126
+
+168
+
+195
+
+132
+
+16
+
+-38
+
+2
+
+Facilitators
+
+1 546
+
+1 614
+
+2 105
+
+1 785
+
+1 712
+
+2 118
+
+31
+
+24
+
+3
+
+Illegal stay
+
+88 037
+
+93 834
+
+88 461
+
+84 891
+
+86 759
+
+84 817
+
+-9.6
+
+-2.2
+
+4
+
+Refusals of entry
+
+30 325
+
+29 011
+
+24 636
+
+28 237
+
+31 993
+
+30 439
+
+4.9
+
+-4.9
+
+5
+
+Applications for asylum
+
+67 413
+
+71 874
+
+56 857
+
+59 591
+
+72 314
+
+83 446
+
+16
+
+15
+
+7A Return decisions issued
+
+57 389
+
+67 310
+
+69 904
+
+67 891
+
+71 129
+
+61 025
+
+-9.3
+
+-14
+
+7B Effective returns
+
+37 639
+
+41 585
+
+38 644
+
+40 431
+
+38 258
+
+42 157
+
+1.4
+
+10
+
+Source: FRAN data as of 12 February 2013
+
+10 of 62
+
+2012
+
+Figure 1. Evolution of FRAN indicators
+Detections reported by Member States, thousands of persons
+Line sections in lighter blue mark changes between third and fourth quarters
+
+1A Illegal entries between BCPs
+45
+
+2 Facilitators
+3.5
+
+40
+3.0
+
+35
+30
+
+2.5
+
+25
+20
+
+2.0
+
+15
+10
+
+1.5
+
+5
+0
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2009
+
+2010
+
+2011
+
+1.0
+
+2012
+
+3 Illegal stay
+120
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2009
+
+2010
+
+2011
+
+2012
+
+4 Refusals of entry
+
+36
+34
+
+110
+
+32
+30
+
+100
+
+28
+
+90
+
+26
+80
+70
+
+24
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2009
+
+2010
+
+2011
+
+22
+
+2012
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2009
+
+2010
+
+5 Applications for asylum
+
+2012
+
+7B Effective returns
+44
+
+85
+80
+
+42
+
+75
+
+40
+
+70
+65
+
+38
+
+60
+
+36
+
+55
+50
+
+34
+
+45
+40
+
+2011
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2009
+
+2010
+
+2011
+
+2012
+
+32
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2009
+
+2010
+
+2011
+
+Source: FRAN data as of 12 February 2013
+
+11 of 62
+
+2012
+
+Frontex · FRAN Quarterly · q4 2012
+
+4. Situational picture in Q4 2012
+n	During Q4 2012 several FRAN indicators
+varied radically compared to previous reporting periods.
+n	There were 13 613 detections of illegal border-crossing at the EU level, which is the
+lowest ever recorded figure since data collection began in early 2008.
+n	Asylum applications were at by far their
+highest level since data collection began
+in early 2008, with Syrians ranking first
+among nationalities, followed by Afghans.
+n	In Q4 2012 more Syrian migrants submitted
+claims for asylum than any other nationality in a single quarter since data collection began in 2009.
+n	Refusals of entry at the external border
+fell slightly compared with the previous
+quarter, but remained at one of the highest levels since the peak of 2009, mostly
+involving Ukrainians and Georgians refused entry to Poland, and Albanians refused entry to Greece.
+n	Detections of clandestine entry at BCPs
+continued to rise, once more reaching the
+highest level since data collection for this
+indicator began in 2009.
+n	Greek operational activity at the Greek
+land border with Turkey continued
+throughout the reporting period, causing three weak displacement effects:
+–	Illegal border-crossing at the Turkish
+sea border with Greece; in the Eastern Mediterranean region there were
+more detections at the sea than at the
+land border for the first time since late
+2009, mostly of Afghans and Syrians;
+–	Illegal border-crossing at the land border with Bulgaria, mostly Palestinians
+and Syrians;
+–	
+D ocument fraudsters increasingly
+on flights from Istanbul rather than
+Athens.
+
+12 of 62
+
+n	Despite fewer detections at the Greek land
+border with Turkey, there is no evidence
+to suggest that absolute flow of irregular
+migrants arriving in the region decreased.
+Instead, migrants were probably waiting
+in Turkey and considering other options.
+n	Most routes of secondary movements
+from Greece did not show signs of significant decline. These included:
+–	Afghans and Pakistanis detected for illegal border-crossing and clandestine entry across the Western Balkans. In Q4
+2012, Serbia detected more cases of illegal border-crossing than any EU Member State;
+–	Afghans and Pakistanis arriving in
+Calabria and Apulia on pleasure boats
+from Greece;
+–	use of fraudulent documents on intraSchengen flights from Greece (declining trend).
+n	In Q4 2012, Afghans ranked first among nationalities for illegal border-crossing, clandestine entry at BCPs and illegal stay, and
+ranked second for asylum applications.
+n	Compared to the same period in 2011, most
+indicators increased significantly for Syrian
+nationals across a wide range of Member
+States reflecting their desperate plight.
+These included:
+–	
+illegal border-crossing doubled in
+Greece and also increased in Bulgaria;
+–	asylum applications increased threefold
+to nearly 9 000, mostly in final destination countries such as Sweden and
+Germany;
+–	illegal stay increased nearly threefold,
+in Sweden (asylum seekers) and Greece;
+–	number of migrants that were subject
+to decisions to leave increased nearly
+threefold, in Greece and Bulgaria (illegal border-crossers);
+
+–	use of fraudulent documents – increased throughout 2012, now ranking top among nationalities, mostly
+departing from Istanbul.
+n	There were more detections of illegal border-crossing on the main Central Mediterranean route from North Africa than
+during the pre-Arab Spring peak of 2011,
+mostly involving Eritreans, Somalis and
+Gambians departing from Libya, followed
+by Tunisians departing from their own
+countries.
+
+4.1. Detections of illegal
+border-crossing
+Overall in Q4 2012 there were 13 613 detections of illegal border-crossing at the EU
+level, which was the lowest figure since
+data collection began in early 2008. The low
+number of detections compared to other
+quarters was due to vastly increased operational activity at the Greek land border
+with Turkey, where in recent years the majority of migrants were detected (operation
+Aspida, see next section). Reduced detections were also in part due to the overlapping effects of the end of the Arab Spring
+in its initial countries (Egypt, Libya, Tunisia)
+and far fewer detections of Albanian circular migrants detected illegally crossing the
+land border into Greece.
+For the first time since 2010 there were more
+detections of illegal border-crossing at the external sea border (59%) than at the land border, which reflects the increasing importance
+of the Central Mediterranean route, and increased detections in the Aegean Sea in response to Greek operational activity at the
+land border with Turkey. Of the top five reporting border sections, two were in Greece.
+The border sections reporting the most detections in Q4 2012 were:
+1.	the Italian Pelagic Islands (Lampedusa),
+where there were increased arrivals of
+Eritreans and Somalis;
+
+2.	the Greek Aegean Sea, to where Afghans
+and Syrians were increasingly displaced
+from the Greek land border with Turkey;
+3.	the Greek land border with Albania with
+a significant trend of Albanian circular migrants, now ranking second at the EU level;
+4.	the Spanish land border with Morocco,
+where there was a steady trend of unknown nationalities (probably sub-Saharans) and Algerians;
+5.	the Bulgarian land border with Turkey, to
+where Palestinians and Syrians were increasingly displaced from the Greek land
+border with Turkey.
+4.1.1. Greek operations Aspida and
+Xenios Zeus
+On 30 July 2012, the Hellenic Police Headquarters announced the temporary deployment of 1 881 additional police officers and
+technical equipment to the Evros region for
+a planned period of two months of the operation Aspida (Greek for ‘Shield’). The operation was extremely successful in reducing
+the flow of irregular migrants across the
+border (see FRAN Quarterly Q3 2012) and so
+was first extended until 2 January 2013 and
+subsequently until March 2013. At the time
+of writing, this operation is still active and,
+in combination with JOs Poseidon Land and
+Sea 2013, which were concurrently active
+during the reporting period, is having very
+significant effects on detections of irregular
+migration across the Eastern Mediterranean
+region and beyond.
+Specifically, the well-publicised enhanced
+surveillance and patrolling activities at the
+Greek-Turkish land border, as well as an
+extension of the detention period to up to
+one year, resulted in a drastic drop in the
+number of apprehended irregular migrants
+from approximately 2 000 during the first
+week of August to fewer than ten per week
+in each of the last few weeks of October
+and beyond.
+
+13 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Immediately after the deployment of the operation Aspida detections of illegal bordercrossing at Turkey’s sea border with Greece
+and land border with Bulgaria both began
+to increase, indicating weak displacement
+effects from the operational area. Furthermore, according to EDF-RAN data, there was
+also an increase in detections of migrants
+using fraudulent documents on flights from
+Istanbul, where many migrants are apparently waiting for the conclusion of the operation Aspida.
+In order to cope with the new situation the
+Bulgarian authorities initiated a specialised
+police operation including the reinforcement
+of manpower and the deployment of technical assets. Regular bilateral joint meetings for
+the prevention and resolving of border incidents are taking place under the signed agreement between Bulgaria and Turkey. At this
+moment, the Turkish authorities only accept
+the readmission of Turkish citizens and documented Syrians.
+In turn, the operation Xenios Zeus is focused
+on detecting migrants in land in urban areas around Athens. In Q3 2012 this operation
+
+did not have any detectable effects within
+the scope of the FRAN indicators, but in the
+current reporting period there was a rise in
+the number of effective returns performed
+by Greece.
+4.1.2. EU summaries
+While useful for summary purposes, EU-level
+figures conceal considerable variation within
+and among Member States, nationalities and
+the major irregular-migration routes. For example, in contrast to the overall decline, in
+Q4 2012 detections of illegal border-crossing significantly increased at a wide range of
+border sections. Hence, the overall decrease
+was driven by far fewer detections just at the
+Greek land border with Turkey.
+More detections were reported by Italy than
+any other Member State, and more were reported from the Italian Pelagic Islands than
+any other border section. Somalis continued
+to arrive in Lampedusa in increasing numbers,
+but this development was overshadowed by
+a massive increase in the number of Eritreans arriving in Lampedusa and Malta from
+October onwards.
+
+Figure 2.Despite fewer detections of illegal border-crossing in Q4 2012 than during any other
+quarter since data collection began in 2008, detections at the sea border were actually at
+the highest level for over a year
+Total quarterly detections of illegal border-crossing between BCPs, split between detections at the land and sea borders
+Horizontal lines indicate yearly average
+
+60 000
+Land
+
+50 000
+
+Sea
+
+40 000
+30 000
+20 000
+10 000
+0
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+2010
+Source: FRAN data as of 12 February 2013
+
+14 of 62
+
+Q1
+
+Q2
+
+Q3
+
+2011
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+2012
+
+Q4
+
+Figure 2 shows the evolution of the FRAN
+Indicator 1A – detections of illegal bordercrossing and the proportion of detections between the land and sea borders of the EU per
+quarter since the beginning of 2010. The final
+quarter of each year is usually influenced by
+weather conditions less favourable for both
+approaching and illegally crossing the external border of the EU. Correspondingly, poor
+conditions for illegal border-crossing also render it more difficult to detect such attempts.
+The combination of these two effects means
+that the final quarter of each year has usually been associated with fewer detections
+than during the summer months.
+In Q4 2012 detections were particularly low
+compared to other quarters of 2012 and also
+compared to previous fourth quarters. The
+former comparison is explained by the deterrent effect of the Greek operation Aspida,
+while the longer-term decline illustrated by
+the horizontal lines in Figure 2 (yearly average) is more to do with the absence in 2012 of
+two disparate but overlapping phenomena:
+1.	In 2010, nearly a third of all detections
+were of Albanian circular migrants illegally
+entering Greece. This flow was reduced by
+85% in 2011 and 2012 since Albanians were
+granted visa-free access to the Schengen
+area;
+2.	In 2011 there was a temporary surge of
+illegal border-crossing in response to the
+Arab Spring uprising in several North African countries.
+Consistent with the majority of reporting
+periods both before and after the 2011 Arab
+Spring, at the EU level the migrants most
+commonly detected illegally crossing the external border were from Afghanistan (1 969);
+however, following a massive decrease at
+their most common entry point, this was the
+lowest figure for this nationality since early
+2011. More than half of all Afghans were detected illegally entering Greece from Turkey,
+while much of the remainder were detected
+
+making secondary movements either across
+the land border into Hungary or across the
+Ioanian Sea to southern Italy. Albanians,
+who ranked second at the EU level, were
+also mostly detected in Greece but at their
+own land border and still in much reduced
+numbers since they gained visa-free status
+in late 2010. Migrants from Eritrea, ranked
+third following steep increases at the end of
+the year, were mostly detected arriving in
+Lampedusa and Malta on boats from Libya.
+Other nationalities in the top five were migrants from Syria, who were detected in
+lower numbers at the Greek land border with
+Turkey, where they were increasingly common prior to the Greek operation Aspida, and
+migrants from Somalia, who continued to
+arrive in Lampedusa in significant numbers.
+The 13 613 detections of illegal border-crossing
+in Q4 2012 were the result of combined detections in 15 Member States, many of which experienced differing trends. Figure 3 (overleaf)
+illustrates the number of detections of illegal
+border-crossing among ten Member States
+during the fourth quarters of both 2011 and
+2012 (size of circles), and also the degree of
+change between the two reporting periods
+(slopes). In the current reporting period Italy
+reported the most detections of illegal border-crossing, closely followed by Greece. Together these two Member States accounted
+for over 60% of all detections in the EU.
+In Q4 2012, most (nine) Member States reported increased detections of illegal bordercrossing compared to the same period of the
+previous year, albeit from relatively low bases
+(Fig. 3). For example, detections in Malta rose
+sevenfold, from Q4 2011 to Q4 2012, mostly
+due to increased detections of Eritreans, who
+also played a major role in doubling the number of detections in Italy compared to a year
+previously. A large percentage increase was
+also reported by Bulgaria, particularly at the
+land border, to where Palestinians and Syr-
+
+15 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Figure 3.In Q4 2012 there were far fewer
+detections of illegal border-crossing than
+during the same period in 2011, driven
+almost entirely by fewer detections in
+Greece following increased operational
+activity at the land border with Turkey
+
+Figure 4.In Q4 2012 there were decreased
+detections of nationalities normally
+associated with the Greek border with
+Turkey, contrasting with increased
+detections of nationalities that tend to
+arrive via the Central Mediterranean region
+
+ etections of illegal border-crossing during Q4 2011 and
+D
+Q4 2012 for the top ten Member States shown by size
+of circles; gradient of the lines indicates the percentage
+change
+
+ etections of illegal border-crossing during Q4 2011
+D
+and Q4 2012 for the top ten nationalities shown by size
+of circles; gradient of the lines indicates the percentage
+change
+
+Malta
+
+Mali
+
+Bulgaria
+
+Eritrea
+
+Syria
+
+Italy
+
+Palestine
+
+Slovenia
+
+Somalia
+
+Slovakia
+Cyprus
+
+Albania
+
+Hungary
+
+Morocco
+
+Spain
+
+Algeria
+Romania
+
+Afghanistan
+Greece
+
+Pakistan
+
+2011 Q4
+
+2012 Q4
+
+2011 Q4
+Source: FRAN data as of 12 February 2013
+
+16 of 62
+
+2012 Q4
+
+Source: FRAN data as of 12 February 2013
+
+ians were displaced by operational activity in Greece.
+In contrast to increases in most Member
+States, just five reported reduced detections:
+Greece, Spain, Romania, Hungary and Lithuania. Spain reported significant reductions
+but these were mostly in line with seasonal
+expectations. However, it was the 81% reduction in Greece that drove the overall decline
+in illegal border-crossing, as Greece tends to
+report the most illegal border-crossers and
+was subject to by far the biggest reduction in
+detections in terms of both percentage and
+absolute change.
+Apart from analysing the changes in terms of
+Member State distributions, it is also informative to consider these trends by nationality
+of migrants. Figure 4 illustrates the number
+of detections of illegal border-crossing of the
+top ten nationalities during the fourth quarters of 2011 and 2012 (size of circles) and the
+degree of change between these reporting
+periods (slopes).
+Despite an over 73% reduction compared with
+Q4 2011, at 1 969 detections, migrants from
+Afghanistan still ranked first among nationalities, followed by circular migrants from Albania (Fig. 4).
+Despite recent decreases associated with the
+operation Aspida, migrants from Syria ranked
+third at the EU level, representing a major issue during the second half of 2012. There were
+twice as many detections in Q4 2012 compared with a year previously but this vastly
+understates the flow of Syrians towards the
+EU in response to the civil war in Syria. For
+instance, there was more than a sixfold increase between the third quarters of 2011 and
+2012, and Syrians were also increasingly detected among a range of other indicators of
+irregular migration such as illegal stay, document fraud and being subject to decisions
+to leave the EU.
+
+During the final quarter of 2012, the nationality with the fastest growing number of detections of illegal border-crossing in terms
+of absolute increase was Eritreans: up almost threefold from 352 in Q4 2011 to nearly
+1 300 in the current reporting period. Detections of migrants from Mali increased more
+sharply but from a lower base: from 37 to 379
+over the same period. In both cases, these
+migrants were almost exclusively detected
+in Lampedusa having left on small fishing
+boats from Libya.
+As regards the distribution of nationalities
+among key border sections in Q4 2012, detections of illegal border-crossing at the EU
+level were no longer dominated by detections in Greece, with more detections and a
+wider range of nationalities reported by Italy. For the first time since 2010, detections
+in Greece more commonly involved Albanian circular migrants detected at the Greek
+land border with Albania than any other nationality. Also commonly detected in Greece
+were Afghans and, to a lesser extent, Syrians, both at the sea border with Turkey. The
+detections of Eritreans and Somalis in Italy
+surged compared to Q4 2011.
+Not all of these detections represent initial
+entries to the EU at the external borders, as
+they sometimes capture secondary movements of migrants that had previously entered Greece. For instance in Apulia and,
+to a lesser extent, in Calabria, Pakistanis
+and Afghans were detected after having
+crossed the Ionian Sea on pleasure boats
+from Greece, and Afghans were also detected crossing the Hungarian land border
+from Serbia.
+
+4.2. Routes
+For more detailed analyses detections of illegal border-crossing are frequently classified
+into major irregular migration routes, relating to regions of detection rather than linear
+
+17 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+routes taken. As illustrated in Figure 5, during
+the final quarter of 2012 detections of illegal
+border-crossing on the three main irregular
+migration routes converged to very similar
+levels with only 2 000 detections separating the three main routes.
+
+countries of origin such as Tunisia or Egypt,
+whereas other migrants, typically from subSaharan countries depart from countries in
+which facilitation is available and affordable
+and where detection by national authorities
+is thought to be low. Currently, Libya fulfils
+these criteria for most long-distance migrants to the area.
+
+In the Eastern Mediterranean, detections
+tend to be characterised by Asian and some
+North African migrants illegally crossing the
+border from Turkey into Greece. In the second half of 2012, detections were much reduced following increased operational activity
+at the Greek land border with Turkey (Aspida), where most detections were previously
+reported. In response, detections increased
+elsewhere in the region, though to a much
+lesser extent, resulting in an overall decrease
+in Q4 2012 (Fig. 5).
+
+During Q3 2012 detections in the Central
+Mediterranean were higher than at any point
+during 2009 or 2010, following increased detections of Somalis and Eritreans and a steady
+and significant trend of Tunisians. In Q4 2012
+there was an overall decline in the number of
+migrants arriving in the region mostly due to
+fewer North African nationalities such as Tunisians and Egyptians. However, there was a
+surge of migrants from sub-Saharan countries such as Eritrea, the Gambia and Mali,
+all of which were detected in much higher
+numbers than during the previous quarter –
+hence opposing seasonal declines expected
+at this time of year and observed for many
+other nationalities.
+
+On the main Central Mediterranean route,
+which includes the Italian Pelagic Islands (e.g.
+Lampedusa) and Malta, detections tend to be
+of migrants arriving on boats from North Africa. In some cases migrants arrive from their
+
+Figure 5.Towards the end of 2012 detections of illegal border-crossing fell in the Eastern
+Mediterranean but followed a steady trend elsewhere, resulting in a much narrower range
+of detections between major irregular migration routes
+Detections of illegal border-crossing between BCPs by main irregular migration route
+
+30 000
+
+Eastern Mediterranean route
+Central Mediterranean route
+
+25 000
+
+Western Mediterranean route
+
+20 000
+15 000
+10 000
+5 000
+0
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+2009
+Source: FRAN data as of 12 February 2013
+
+18 of 62
+
+Q2
+
+Q3
+
+2010
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+2011
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+2012
+
+Q4
+
+4.2.1. Eastern Mediterranean route
+
+nel (having a laissez-passer issued by the
+national embassy and trying to cross through
+the BCP Kipi), or illegally by trying to cross the
+Greek-Turkish border. They are mainly Syrian
+nationals and, to a lesser extent, nationals of
+Somalia, Iraq or Egypt. They may be returning to Turkey either to facilitate more migrants (as many of them have been waiting
+in Greece for a long time and are in desperate need of money), or to find another route
+to reach their final destinations.
+
+Since data collection began in early 2008,
+the Eastern Mediterranean has maintained
+its status as a major hotspot of irregular migration into the Schengen area. Detections
+have followed a remarkably seasonal pattern invariably peaking in the third quarter
+of each year (Fig. 6) and concentrated at the
+border between Greece and Turkey, with a
+shift from the sea border to the land border
+visible in late 2009.
+
+Secondary movements
+
+In recent quarters the most commonly detected have been migrants from Afghanistan,
+Pakistan, Bangladesh, Algeria and, more recently, Syria. In Q4 2012 the most commonly
+detected migrants in this region were from Afghanistan, Syria and Palestine but all in much
+reduced numbers than previously reported.
+
+Despite decreased detections at its land border with Turkey, Greece was still a major
+entry point for detections of illegal bordercrossing in Q4 2012. However, as Greece is a
+Schengen exclave and mostly a transit rather
+than destination country, a similar composition of nationalities were also detected making secondary movements from Greece, and
+attempting to re-enter the Schengen area
+heading for their final destination countries.
+
+A new trend among the migrants from Greece
+has been recently noticed: the voluntary return to Turkey, either through the legal chan-
+
+Figure 6.Following the launch of the Greek operation Aspida at the Greek land border
+with Turkey, in Q4 2012 detections at the sea border of the Eastern Mediterranean region
+exceeded those from the land border for the first time in more than three years
+Detections of illegal border-crossing between BCPs at the Greek land and sea border with Turkey
+
+35,000
+
+Land
+
+Sea
+
+Total
+
+30,000
+25,000
+20,000
+Aspida
+
+15,000
+10,000
+5,000
+0
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+2010
+
+Q1
+
+Q2
+
+Q3
+2011
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+2012
+
+Source: FRAN data as of 12 February 2013
+
+19 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+In Q4 2012, these movements tended to be
+reflected in the detections of:
+n	illegal border-crossing and clandestine entries throughout the Western Balkan land
+borders;
+n	migrants landing at the blue border of
+the southern Italian regions of Apulia and
+Calabria;
+n	clandestines and document fraudsters on
+board ferries to Italy (Ancona, Venice);
+n	document fraudsters travelling on flights
+from Greek airports to many major EU
+airports.
+
+increases during Q3 2012. Apparently, many of
+them had been previously resident in Greece
+for several years, while some Afghan nationals claimed to have worked in Pakistan for six
+years, but due to the bad social and working
+conditions decided to return to Afghanistan
+and then to move to Europe to improve their
+economic situation.
+In contrast, in Q4 2012 other nationalities,
+such as Syrian, Bangladeshi and Egyptian, responded to the seasonal weather changes and
+were correspondingly detected in much lower
+numbers than during the previous quarter.
+
+Western Balkans
+There were more than 10 500 detections
+of illegal border-crossing between BCPs reported at borders between Western Balkan countries themselves or at their borders
+with the neighbouring EU Member States.
+The number was 24% higher than during the
+same period in 2011 and 19% higher than during the previous quarter, which is surprising
+given the poorer weather conditions at this
+time of year. Nearly all of the increase was
+due to more detections reported by Croatia.
+In fact, under the framework of the Western
+Balkans Risk Analysis Network, there were
+more detections of illegal border-crossing reported by Croatia and Serbia than by any EU
+Member State.
+The growth of detections at the Croatian and
+Slovenian borders also appears to be resulting
+from a partial westward shift in the routing
+as the irregular migrants were increasingly
+attempting to cross from Serbia to Croatia
+and further to Slovenia rather than to Hungary or Romania.
+
+The JO Aeneas 2012 in Apulia and Calabria
+started on 2 July and was extended until 2
+January 2013. Overall, the percentage of incidents which involved departures from Greece
+was as high as 78% (Fig. 7). According to operational reports, the decrease in the number of arrivals in Apulia and Calabria from
+August 2012 was due the implementation of
+the Greek police operation Aspida stemming
+the flow of migrants. However, adding to the
+flow were Greek police operations against
+irregular migration in the centre of Athens
+and in other cities of Greece which continued to push irregular migrants out of Greece.
+Most of the boats departing from Greece are
+pleasure boats as opposed to fishing boats
+Figure 7.Total number of vessels detected
+during JO Aeneas (2 July–25 November 2012)
+by country of departure
+
+21%
+
+GRC
+
+Italian Ionian coast
+For some time there has been a steady flow
+of Afghans and, to a lesser extent, Pakistanis
+arriving at the southern Italian blue borders
+of Calabria and Apulia, with some very large
+
+20 of 62
+
+1%
+
+78%
+
+Source: JO Aeneas 2012
+
+TUR
+EGY
+
+that arrive from North Africa. For example,
+Figure 8 shows two boats that were detected
+in November, a white luxury twin-engine
+speed boat arrived in Calabria from Greece
+with a smaller black dinghy in tow for disembarkation. There were 20 migrants on board.
+
+In Q4 2012, there were nearly 900 detections of migrants travelling on intra-Schengen flights with fraudulent documents. These
+intra-Schengen document fraudsters were
+mostly detected by Italy (entry and exit) and
+Greece (exit), where numbers were increasing
+throughout 2012, and, to a lesser extent, by
+Germany (entry), where numbers were decreasing. Syrians continued to be the most
+detected nationality particularly on flights
+between Greece and Germany, followed by
+increasing numbers of Somalis on flights both
+ways between Italy and Denmark.
+4.2.2. Central Mediterranean route
+Irregular migration in the Central Mediterranean massively fluctuated in size and composition during 2011, largely due to the political
+and civil unrest across North Africa, particularly in Tunisia and Libya. Since Q4 2011, the
+situation has significantly improved following better cooperation between Italian and
+Tunisian authorities concerning the return of
+Tunisian nationals.
+According to FRAN data, in Q4 2012 there
+were 3 476 reported detections of illegal border-crossing on the main Central Mediterranean route (Italian Pelagic Islands, Sicily
+and Malta), almost exactly the same number as in the previous quarter and significantly higher than any other quarter both
+before and after the Arab Spring. However,
+this figure concealed seasonal decreases for
+some commonly nationalities and significant
+increases for others.
+
+© Frontex 2012
+
+Intra-Schengen flights
+
+Figure 8. In November, a luxury twinengine speed boat was detected carrying
+20 migrants from Greece to Calabria, with a
+dinghy in tow for disembarkation
+
+Since early 2011, migrants from Tunisia have
+been among the most commonly detected
+migrants arriving in the Central Mediterranean region. During the previous quarter they ranked first among nationalities
+detected in the region with around 1 000
+detections. However, in Q4 2012 detections
+of Tunisian migrants in the Central Mediterranean fell to just 230, which can probably be interpreted as a seasonal decline.
+Based on this interpretation, an increase in
+the number of detected Tunisians should be
+expected in 2013.
+In accordance with the ‘Processo Verbale’
+of 5 April 2011 (an agreement between Italy and Tunisia on cooperation in the field
+of migration policy) in November and December 2012, Tunisian nationals were returned to Tunis or were recovered by the
+Tunisian authorities in international waters. In 2012, Italian authorities delivered
+two patrol boats to the Tunisian authorities in order to improve the fight against
+the trafficking of human beings and irregular immigration. Consistent with declining
+numbers of Tunisians, detections of Egyptian migrants arriving in the Central Mediterranean region also fell, in this case from
+287 in Q3 to just 135 in Q4 2012.
+
+21 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+the Libyan authorities remains critical, both
+on land and at sea (Fig. 9).
+In 2012, Italy conducted a series of training programmes for the Libyan police in the
+framework of the SAH-MED Project; in November a meeting was held at the IMO headquarters in Rome under the framework of
+the implementation of the SAH-MED Project,
+with the aim of involving the Italian Council
+for Refugees (CIR), in relation to the issues
+of humanitarian assistance and protection
+of rights, taking into account the changed
+needs of Libya at the end of the war.
+
+© Frontex 2012
+
+There was also a very large increase in the
+number of Syrians detected in the Central
+Mediterranean region from just five in Q3
+to nearly 100 in Q4 2012, which is consistent with widespread increased detections of
+this nationality across border sections. However, there is currently no evidence to suggest that the Central Mediterranean area is
+likely to become the main point of entry for
+Syrian migrants.
+
+Figure 9.Sub-Saharan migrants arrived in the Central Mediterranean
+aboard inflatable boats from Libya, where there is now a shortage of
+wooden and metal boats
+
+In contrast to decreased detections of migrants from North Africa, there were significant increases compared to the previous
+quarter, in detections of migrants from several sub-Saharan countries such as Eritrea (+200%), the Gambia (+90%) and Mali
+(+350%), as well as a steady and significant flow of migrants from Somalia, now
+ranked second in the region behind Eritreans. Most of these migrants departed from
+Libya, where, due to a paucity of ground vehicles and boats, low technical and professional levels of the new police forces, the
+situation of the migration management by
+
+22 of 62
+
+The JO Hermes 2012 was originally scheduled to finish on 31 October 2012, but after
+requests from the hosting Member States
+and based on risk analyses, decisions were
+taken to extend the JO first until 15 December 2012 and further on until 31 January 2013.
+The JO Hermes 2012 Extension was established to support the Italian authorities in
+tackling maritime illegal migration on the
+coasts of Sicily, Pantelleria and the Pelagic
+Islands (Lampedusa, Linosa, Lampione).
+Prices for the facilitation from the Horn of Africa towards Italy range between USD 1 200
+and USD 1 500 per person. Migrants reach
+Khartoum/Sudan by themselves and start
+to pay facilitation networks from there. Migrants from West Africa and sub-Saharan
+countries often do not use the help of facilitation networks until they reach the border
+of Libya and pay significantly less.
+
+4.2.3. Western Mediterranean route
+In Q4 2012 there were nearly 1 900 detections of illegal border-crossing in the Western Mediterranean region, which consists of
+several areas of the southern Spanish coast as
+well as the land borders of Ceuta and Melilla,
+where almost exactly half of all detections
+were reported. Going into the final quarter of
+the year there were vastly increased detections of migrants from Chad, Cameroon, Mali
+and Guinea arriving in the region of Cadiz.
+As has been the case for several years, the
+most commonly detected migrants were
+from Algeria, followed by migrants of unknown nationality (presumed to be sub-Saharan Africans), both of which were mostly
+reported from the land borders with Morocco.
+Since the beginning of October there were
+several attempts to cross the fence in Melilla.
+The most serious involved around 300 subSaharans, of which around 100 succeeded
+in passing the fence but were subsequently
+found and returned to Morocco. According
+to open sources the incident occurred in the
+Gold River area unusually in broad daylight
+and, as a result, the top of the six-feet high
+
+Figure 10.In October a group of around 300
+sub-Saharans attempted to enter Melilla by
+jumping the fence
+
+fence was visibly damaged. The incident is
+the largest on a single day on the Melilla border since 2005. These reports are consistent
+with growing migrant settlements in the region which indicate an increasing likelihood
+of further events.
+The JO Indalo 2012 started in this region on
+16 May and ran until 31 October 2012 covering
+five zones of the south-eastern Spanish sea
+border and extending into the western Mediterranean. Consistent with previous years,
+the operational area of the JO Indalo continued to be affected by migratory flows mainly
+originating from North African and sub-Saharan countries, which follow a similar seasonal
+pattern. Overall there was a 4% decrease in
+
+© Frontex 2012
+
+The big Somali community in Abu Slim/Tripoli
+is the main gathering point for migrants originating from the Horn of Africa. From there, a
+second destination close to the beach is the
+final stopover before embarking the boats
+for the crossing to Italy. Some migrants reported that they got afraid when seeing the
+relatively small rubber dinghies and refused
+to enter them. Armed guards beat them and
+forced them to board the boats, not letting
+anyone leave.
+
+© Noelia Ramos
+
+There are still reports about extreme violence
+against black African nationals in Libya. Most
+of the migrants reported to have been beaten
+by Libyan police after being arrested and also
+by members of the facilitation networks.
+
+Figure 11.During the JO Indalo 2012 there
+was a steady trend of migrants detected
+arriving along the Spanish coast, often in
+inflatable boats
+
+23 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+There were almost equal numbers of irregular migrants claiming to be from North African countries and the sub-Saharan region.
+According to the operational data, sub-Saharan migrants claimed to originate mostly
+from Chad, Guinea Conakry and Mali, whilst
+most of the migrants from North African
+countries claimed to be from Algeria and
+Morocco.
+4.2.4. Western African route
+In the final quarter of 2012, there were just
+91 detections of illegal border-crossing in
+this region, which is more than double the
+number reported during the previous quarter and goes against expected seasonal declines at this time of year. This increase was
+almost entirely due to migrants from the
+Gambia, who arrived in the Canary Islands
+in December significantly adding to the consistent but relatively low flow of Moroccans
+arriving in this area.
+Despite the arrivals of Gambians, the total number of 91 detections was still lower
+than during the same period in 2011 (i.e. 112,
+almost exclusively Moroccans). The high level
+of cooperation between the Spanish, Senegalese and Mauritanian authorities performing joint patrols at sea and on the coastline
+of these countries has been a significant deterrent factor to prevent irregular migration
+flows from Senegal and Mauritania towards
+the Canary Islands.
+According to information collected during interviews, Moroccan migrants were:
+n	mainly lower-class single adult males who
+were lacking opportunities of work, welfare and access to public health services;
+n	mainly Arabic-speaking migrants who
+were undocumented to avoid repatria-
+
+24 of 62
+
+© Frontex 2012
+
+the number of irregular migrants detected
+compared to the JO Indalo 2011.
+
+Figure 12.Most migrants arriving in the
+Canary Islands were Moroccans aboard
+small patera-type boats
+
+tion after their disembarkation to the Canary Islands;
+n	in contact with relatives or friends in EU
+Member States, mainly in France and
+Spain, who would help them to find a job
+and to settle within ethnic communities
+already established in these countries.
+Most migration incidents in 2012 involved
+migrant boats targeting the Canary Islands
+without facilitators on board.
+4.2.5. Eastern borders route
+The eastern land borders route is, in effect,
+an amalgam of detections of illegal bordercrossing reported by Finland, Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary and
+Romania. Despite the total length of all the
+border sections, detections tend to be lower
+than on other routes possibly due to the long
+distances between major hubs and many
+countries of origins. Also according to several bi-monthly analytical reports shared at
+the end of 2012, visa fraud and counterfeit
+border-crossing stamps tend to predominate
+on this route, as opposed to detections of il-
+
+legal border-crossing (see Section 4.8. Document fraud).
+
+According to open sources, 56 Vietnamese
+migrants were caught in 2012 while trying
+to cross to border from the Russian Federation to Estonia. Starting from the autumn of
+2011 there was a significant increase in detections of illegal border-crossing committed
+by Vietnamese observed by Estonian, Lithuanian and Polish border guards. In all these
+cases their destination countries were Poland or Germany (see Section 4.4. Detections of facilitators).
+The Action Plan of the Ministry of Education of Belarus (2011–2015) suggests that
+the number of foreign students in Belarusian universities should grow to three times
+the current level such that Belarusian high
+schools would accommodate some 15 000
+foreign students. According to state statistics for 2011, only 2% of all students of universities in Belarus were foreigners, mostly
+citizens of Turkmenistan, China and Syria.
+The size of the Syrian diaspora in Belarus is
+estimated to be approximately 70 000 persons, which is probably a strong pull factor
+for Syrians hoping to move towards the EU.
+Most are citizens of Belarus or have dual citizenship, gained automatically as they were
+living in Belarus while it gained independence from the Russian Federation. This is
+
+© ERR News
+
+In Q4 2012, there were just 437 detections of
+illegal border-crossing at the eastern land
+borders of the EU, which is almost exactly
+the same figure as for the previous quarter.
+However, this stable trend in the total number conceals much variation between nationalities. For example, there was a sharp
+increase in detections of migrants from Vietnam, coinciding with stable trends of migrants from Georgia and Somalia, and fewer
+detections of migrants from the Russian Federation and Moldova.
+
+Figure 13.According to open sources, in early 2013 a group of 27
+Vietnamese nationals and one Armenian were caught trying to
+cross Estonia’s southern border from the Russian Federation;
+below Estonian border guards patrolling the green border
+
+also the main reason why official statistics
+about foreigner residents living in Belarus
+vastly underestimate the actual size of foreigner communities.
+At the Latvian border with the Russian Federation, the Russian Federal Border Guard
+Service continued to detect Africans with
+forged travel documents heading towards
+the Schengen area. On some occasions, migrants whose travel documents were in question were denied boarding trains.
+The situation in Syria is used by other thirdcountry nationals who arrive at BCPs, identifying themselves as Syrian nationals in order
+to ask for asylum.
+
+25 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+4.2.6. Western Balkans route
+There were 10 699 detections of illegal border-crossing between BCPs reported at both
+common and regional borders. The number
+was 24% higher compared to corresponding
+quarter in 2011 and 19% higher when compared with the previous quarter.
+At the regional level the picture is mixed. The
+total number of detected cases reported by
+EU Member States (Slovenia, Hungary, Romania, Bulgaria and Greece) decreased by 12%
+(2 846) in Q4 2012 compared with the previous quarter, but at the same time Serbia reported the highest quarterly figure since the
+start of the WB-RAN in 2010. Moreover, Croatia reported a very strong growth (+80%)
+in comparison with the previous quarter. It
+is notable that the numbers of detections
+by Serbia and Croatia in the fourth quarter
+were higher than of any EU Member State,
+including Greece.
+These observations would indicate that the
+Xenios Zeus and Aspida operations in Greece,
+that resulted in plunging numbers of detections at the Greek-Turkish land border, did
+not yet have the expected corresponding
+impact on the secondary movements from
+Greece through the Western Balkans. A possible explanation may be that those irregular
+migrants detected in Western Balkan countries had stayed in Greece for a longer period
+of time before opting to leave the country
+due to lack of job opportunities and/or increased inland activities by the Greek police.
+The Western Balkans route may have become
+more popular also due to increased controls
+at Greek ports on the route towards Italy.
+Considering the trends in the Western Balkans, the trend of detections on the route
+from Greece via the former Yugoslav Republic of Macedonia to Serbia remains relatively stable with a 17% rise compared to
+the previous quarter and a 7.9% decrease
+
+26 of 62
+
+in comparison to the fourth quarter of 2011.
+However, the pressure grew substantially
+at the northern end of the route compared
+with the previous quarter, particularly at the
+Croatia-Serbia (+66%) and Croatia-Slovenia
+(+98%) border sections. The difference might
+result from a time gap in the movement of
+migrants from the southern part of the area
+towards the north.
+The growth in detections at the Croatian and
+Slovenian borders also appears to be resulting
+from a partial westward shift in the routing
+as the irregular migrants were increasingly
+attempting to cross from Serbia to Croatia
+and further to Slovenia rather than to Hungary or Romania.
+In terms of nationalities, two-thirds of all detections (over 6 600) continued to be linked
+to migrants who had entered the Western
+Balkans en route from Greece (i.e. Afghans,
+Pakistanis, Somalis, Syrians, Eritreans and Algerians). Despite a slightly lower number of
+Afghans, they remained the largest nationality. The number of detected Syrians continued to rise steeply compared to the previous
+quarter (+141%). Of the top ten nationalities,
+nationals of Eritrea and Mali were the fastest growing group of migrants in comparison with the previous quarter.
+Detections of Albanian nationals remained
+relatively stable in comparison with the corresponding quarter of 2011 (+3.8%), though grew
+(+22%) in relation to the previous quarter.
+Hiding in vehicles
+Detections of migrants hiding in vehicles continued to increase during the fourth quarter
+of 2012, both compared to the third quarter (+8.4%) and the corresponding quarter
+of 2011 (+56). More precisely, there were 803
+migrants detected illegally crossing the border at BCPs, mostly reported by Serbia, followed by Croatia and Slovenia. The border
+
+section between Croatia and Serbia became
+the top reporting section with a 26% share
+of the regional total.
+Similar to detections of illegal border-crossing between BCPs, Serbia also detected the
+largest share (40%) of all cases of illegal border-crossing at BCPs.
+Afghans remained the top detected nationality with a 26% share (207). Similar to detections of illegal border-crossing between BCPs,
+the number of Syrians detected at BCPs increased significantly (+480%, 116) against the
+previous quarter.
+There is considerable variation in the modus
+operandi as regards the points of departure
+(either non-stop from Greece or over several
+legs through the Western Balkans) and types
+of vehicles used (cars, buses, cargo/passenger trains). In some reported cases irregular
+migrants were found in cargo carriages of
+international trains departing from Greece,
+hidden in containers.
+The direct route from Greece via Western Balkan countries to the EU appears to be more
+costly and requires better organisation, while
+the journey made over several legs through
+Western Balkan countries is cheaper and
+probably more improvised. Inside Western
+Balkan countries, migrants most probably
+board lorries at truck rest stops.
+These trends suggest that more migrants en
+route from Greece still opt for crossing the
+regional and common borders hidden in vehicles (as reported in previous Western Balkans
+Quarterlies and WB-ARA 2012). It should be
+pointed out that this modus operandi involves a
+high risk of loss of life, especially when closed
+hidden compartments are used in cars, buses,
+trains and freight containers.
+
+Claiming asylum to circumvent entry
+provisions
+The share of the six Western Balkan countries
+rose from 1 012 in the third quarter to 1 220
+in the fourth quarter. In conclusion, claiming asylum in the Western Balkans itself and
+absconding afterwards continues to grow as
+a part of the well-known modus operandi to
+move from Greece towards other EU Member States (secondary movements).
+Overall asylum applications increased substantially both compared with the previous
+quarter (33%) and the corresponding quarter of 2011 (+39). However, there was a considerable variation between the countries
+considering the trends and top nationalities. There was a strong increase in asylum
+applications in Greece (50%), which was for
+the most part due to an increased number
+of applications by nationals of Pakistan and
+Bangladesh. In Hungary, Afghan nationals
+were the largest group, followed by Kosovans*, Pakistanis and Syrians.
+In Bulgaria, asylum applications more than
+doubled. Applications of Syrian nationals
+– mostly made inland – grew more than
+twice in the fourth quarter and accounted
+for 40% of the Bulgaria’s total. This is most
+probably due to the shift of detections of illegal border-crossing from the Greek-Turkish
+land border towards the Bulgarian-Turkish border. In Romania, however, the trend
+was quite opposite with decreasing numbers of applications both by Pakistani and
+Syrian nationals.
+
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence.
+
+Considering the nationalities of the region,
+Kosovans* increasingly applied for asylum
+in Hungary.
+A steep increase in asylum applications in
+Montenegro that started in the second quarter continued in Q4. The phenomenon was
+
+27 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+largely driven by applicants from Algeria who
+were en route from Greece through Albania.
+The number of asylum applications in Serbia
+was at a very low level compared with other
+indicators. This is due to the fact that most
+migrants expressed their wish to claim asylum but later absconded without formally
+submitting an asylum application.
+
+4.3. Clandestine entry
+Restricting the FRAN indicator on detections
+of illegal border-crossing at BCPs (1B) to the
+external land and sea borders of the EU and
+to detections confirmed to be clandestine
+entries (e.g. hiding in means of transport)
+results in extremely low detections for the
+whole of the EU especially compared with
+other indicators, such as detections of illegal border-crossing between BCPs. For example, in Q4 2012, only 195 detections were
+reported from the whole FRAN community
+(see Section 4.2.6. Western Balkans route).
+Nevertheless, this was the highest number of
+clandestine entry detections since data collection began for this indicator in 2009, and,
+following steady increases throughout 2012, it
+was more than double the number reported
+a year previously in Q4 2011.
+
+According to data collected during Focal
+Points Land 2012, hiding aboard cargo trains
+has become one of the most common modi
+operandi of illegal border-crossing from Greece
+into Western Balkan countries. Specifically, irregular migrants hide on cargo trains in Thessaloniki or close to the railway BCP Idomeni
+at the Greek border with the former Yugoslav Republic of Macedonia. The migrants
+jump off cargo trains at the first stop in the
+former Yugoslav Republic of Macedonia and
+then continue towards Serbia either as:
+1.	regular passengers aboard passenger
+trains;
+2.	regular passengers aboard other public
+transportation; or
+3. hidden aboard other trains.
+
+© Frontex 2012
+
+In Q4 2012, safe houses in the former Yugoslav Republic of Macedonia, organised by
+Afghan, Pakistani and Arabic-speaking facilitators close to the border with Serbia, were
+offering irregular migrants shelter for a couple
+of days when weather conditions prevented
+crossing the border to Serbia on foot (Fig 15).
+Figure 14.Well-prepared migrants were
+detected with equipment to assist in
+attempts of clandestine entry
+
+28 of 62
+
+Some of the increase throughout 2012 was
+due to increased detections reported by Slovenia and Bulgaria. In the case of Slovenia,
+which reported more detections in Q4 2012
+than any other Member State, most of the
+increases were due to Afghan migrants increasingly detected at the border with Croatia. Nearly all of these Afghan migrants were
+making secondary movements after initially
+entering the Schengen area in Greece (see
+Section 4.2.6. Western Balkans route). In Bulgaria the increased detections of clandestine
+entries at BCPs were due to more migrants
+from Syria and Palestine, who were increasingly detected at the land border with Turkey
+– probably as a displacement effect from the
+Greek land border with Turkey.
+
+In contrast to the low number of detections
+of clandestine entry at the external border,
+there were more detections within the EU/
+
+Schengen area (470). Although higher than at
+the external border, this figure was a reduction of around a half compared to the previous quarter. The geographical distribution
+of these ‘internal’ detections sheds light on
+the direction of secondary movements and
+the final destination countries selected by
+each nationality. For example, the UK (247)
+and Italy (172) reported the greatest number
+of internally detected clandestine irregular
+migrants. The most significant trends were
+increasing numbers of Albanians detected
+attempting entry to the UK (probably using
+the ferry connections and the Channel Tunnel), and fewer Afghans arriving in Ancona,
+(Italy) hidden on ferries from Greece.
+
+4.4. Detections of facilitators
+Notwithstanding an increase during the first
+few months of 2011, detections of facilitators of irregular migration have been falling
+steadily for the last two years. According to
+some reports, this long-term decline may in
+part be due to a widespread shift towards
+the abuse of legal channels and document
+fraud to mimic legal entry to the EU, which
+allows facilitators to operate remotely and
+inconspicuously rather than accompanying
+migrants during high-risk activities such as
+border-crossing.
+
+© ifado.consilium.europa.eu
+
+© Frontex 2012
+
+Figure 15.A safe house close to the city of
+Lojane in the former Yugoslav Republic of
+Macedonia, close to the border with Serbia,
+where migrants were able to shelter
+
+Figure 16.An organised crime group was
+detected applying for Czech residence
+permits for non-EU citizens based on sham
+marriages
+
+In contrast to this long-term decline, in Q4
+2012, there were 2 118 detections of facilitators of irregular migration, which is an
+increase of 24% since the previous quarter, and the largest number of facilitators
+detected in a single quarter for over two
+years (Fig. 1).
+The total EU-level detections of facilitators
+of irregular migration tend to be made up of
+several disparate trends involving unrelated
+nationalities detected for a range of activities in different Member States. For example,
+much of the increase during the last quarter of 2012 was due to more detections of
+Moroccan and Spanish nationals inland in
+Spain, whereas significant decreases were
+reported in the number of Italian facilitators
+detected in Italy.
+Member States tend to detect more domestic facilitators than any other nationality;
+very often most of the top reporting countries for this indicator tend to report their
+own citizens as facilitators more frequently
+than any other single nationality. However,
+on this occasion Spain reported more Moroccan, Hungary detected more Serbian and
+Greece detected more Albanian facilitators
+than domestic ones.
+
+29 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Sources: Frontex Risk Analysis Unit – FRAN data, ESRI geodata
+
+Figure 17.In Q4 2012 Spain reported more facilitators of irregular migration than any other
+Member State, and more than double the number compared to the same period in 2011
+
+Spain reported more facilitators of irregular migration than any other Member State,
+and more than double the number reported
+a year previously in Q4 2011 (Fig. 17). A lot of
+this increase was due to more Moroccan facilitators detected inland, as well as more Pakistanis, Dominicans and Iranians.
+
+4.5. Detections of illegal stay
+In Q4 2012, there were nearly 85 000 detections of illegal stay in the EU, which is more
+or less a stable trend compared to the year
+
+30 of 62
+
+before and compared to most recent reporting periods. This is consistent with a stable
+but slightly declining long-term trend over
+the last two years (Fig. 1). However, this longterm decline masks much variation among
+Member States.
+The vast majority of migrants staying illegally were detected inland (68 319) and so
+are presumed to be long-term illegal stayers as, at the time of detection, they were
+making no attempt to leave. The next most
+common location for detections of illegal
+
+Sources: Frontex Risk Analysis Unit – FRAN data, ESRI geodata
+
+Figure 18.In Q4 2012, Germany detected the most illegal stayers in Q4 2012, with Syrians,
+Brazilians and Georgians showing the most increasing trends
+
+stayers was on exit at the air (8 472), followed by the land borders (4 754) whereby
+illegally staying migrants were leaving the
+EU or Schengen area, which may have included those that were overstaying by short
+periods.
+
+in the number of detections of illegal stayers
+with a steady trend of Afghans as the most
+commonly detected nationality. In contrast,
+detections of Syrians (inland), Brazilians (air
+border) and Georgians (inland) all increased
+significantly in Germany throughout 2012.
+
+Germany reported by far the most detections of migrants staying illegally, followed
+by Sweden. However, in Sweden nearly all
+reported illegal stayers were actually asylum
+seekers, and so are not considered further
+here. In Germany there was a 24% increase
+
+Of the exchanged data that were suitable for
+analysis (Swedish data included asylum seekers and all inland detections in Switzerland
+were of unknown nationalities), the most significant phenomena relating to illegal stay
+were Algerians detected inland in Belgium,
+
+31 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Sources: Frontex Risk Analysis Unit – FRAN data, ESRI geodata
+
+Figure 19.In Q4 2012, nearly a third of all refusals of entry were issued by Poland, where
+Ukrainians and Georgians were most commonly refused entry at land border with Ukraine
+and Belarus, respectively
+
+Moroccans detected inland in Spain and Pakistanis detected in Greece. What is surprising is that, despite reporting the most illegally
+staying migrants, Germany does not appear
+high up in the list of phenomena (linked to
+single nationalities) – this is because in Q4
+2012 Germany detected over 130 different nationalities of illegally staying migrants in relatively low numbers per nationality, whereas
+Austria only reported around 90 nationalities but in average higher numbers of each.
+
+32 of 62
+
+4.6. Refusals of entry
+In Q4 2012, there were nearly 32 000 refusals
+of entry at the external border, with about
+60% refused from the land border and most
+of the remainder being refused from the sea
+border. In the context of recent years this figure has only been exceeded in a single quarter on two occasions since data collection
+began in early 2009. One of those occasions
+was in the previous quarter, suggesting that
+refusals of entry are currently in a period of
+extremely high frequency.
+
+-2%
+
+Sources: Frontex Risk Analysis Unit – FRAN data, ESRI geodata
+
+Figure 20.In Q4 2012, nearly half of all asylum applications were submitted either in Sweden
+or in Germany, where more applications were submitted than in any other Member State in
+a single quarter since data collection began in 2008
+Note: For France, only asylum applications at the external borders are reported, not inland applications. For the Netherlands,
+inland asylum applications in Q3 and Q4 2012 and the breakdown by nationality for inland asylum applications for all of
+2012 are not available at this moment.
+
+As has been the case for most other reporting periods, Poland refused the most migrants (Fig. 19), mainly Ukrainian nationals
+at their land border. Overall more than twothirds of all refused Ukrainian nationals were
+refused entry by Poland but the percentage
+was even higher for Georgians, 94% of whom
+were refused entry by Poland. Indeed, Ukrainians refused entry at the Polish border with
+Ukraine, and Georgians refused entry at the
+Polish land border with Belarus were the two
+
+most common phenomena at the EU level.
+Ranking third were Albanians refused entry
+at the Greek land border with Albania. In total
+these three phenomena accounted for nearly
+a third of all refusals of entry at the EU level.
+Although from rather low bases, there were
+three trends that increased dramatically during 2012. The first was Armenians refused entry at the Polish land border with Belarus,
+which increased tenfold from Q1 to Q4 2012.
+
+33 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+The second was Russians refused entry at the
+Latvian land border with the Russian Federation, and the third was Syrians refused entry at Charles de Gaul airport.
+Refusals of entry increased dramatically in
+Latvia compared to the year before, almost
+exclusively at the Latvian land border with
+the Russian Federation, where significantly
+more Russian nationals were refused entry.
+The reasons for refusals were (E) no appropriate documentation justifying the purpose
+and conditions of stay, and (C) no valid via or
+residence permit.
+
+4.7. Asylum claims
+In Q4 2012, there were far more applications
+for asylum in the EU since data collection began in early 2008. The number of claims increased steadily throughout 2012 from just
+over 55 000 in Q1 to a staggering 83 446
+applications in the current reporting period
+(note – the FRAN data do not include asylum applications submitted inland in France).
+As previously reported, much of this increase
+resulted from many more applications submitted by Syrian and, to a lesser extent, Serbian and Russian nationals with particularly
+strong increases toward the end of the year.
+As well as the nationalities that submitted
+increasing numbers of applications, there
+was also a steady but very significant trend
+of claims submitted by Afghan nationals –
+ranking second at the EU level.
+With an overwhelming 31% of all applications
+submitted in the EU/Schengen area and following a nearly 43% increase compared to
+the previous quarter, Germany received by
+far the most applications for international
+protection, and more than reported by any
+Member State in a single quarter since data
+collection began in early 2008.
+Without question, the most significant trend
+throughout 2012 as a whole and during the
+
+34 of 62
+
+final quarter of the year was increased applications submitted by Syrian nationals, which
+in Q4 2012 increased to nearly 9 000 applications and 11% of the EU total. This amounted
+to more applications submitted by a single
+nationality in any given quarter since data
+collection began for this indicator. Given that
+Syrians are still highly detected illegally crossing the border of the EU and as document
+fraudsters, and that the civil war shows no
+signs of abating, this flow of asylum seekers
+is likely to continue.
+
+4.8. Document fraud
+In January 2012 Frontex and the FRAN community embarked on a detailed and ambitious information-sharing project in the field
+of document fraud, to be overseen by a new
+specialist sub-network of the FRAN known
+as the European Union Document-Fraud Risk
+Analysis Network (EDF-RAN). The following
+section utilises these data for a situational
+picture of the final quarter of 2012.
+The migrants most associated with document
+fraud to enter the EU or Schengen area from
+third countries in Q4 2012 were from Albania,
+Syria and, to a lesser extent, Morocco, Turkey,
+Tunisia and Nigeria. With the exception of Nigerians, all these nationalities were detected
+in increasing numbers throughout 2012, especially Syrians, detections of whom, on entry
+from third countries, increased 14-fold between the first and final quarters of the year.
+Document fraud between the Schengen area
+and non-Schengen countries was also dominated by increasing numbers of Albanian nationals throughout 2012, mostly associated
+with travel to the UK from the Schengen area.
+Within the Schengen area document fraud
+was characterised by increasing numbers of
+Syrians and Somalis, and fewer Afghan migrants on flights from Greece.
+
+Migrants from Syria
+Migrants from Syria were increasingly detected
+as document fraudsters across Member States,
+such that there was an overall sixfold increase
+since the beginning of the year (including all
+travel types). More than half of all detections
+were on extra-Schengen flights, which is a
+complete reverse from the previous quarter
+when most were detected on intra-Schengen flights from Greece. In the final quarter
+of 2012 the most common embarkation point
+for Syrian document fraudsters was Istanbul,
+from where detections increased massively
+from three or four per quarter during the first
+semester to 133 in Q4 2012.
+
+Table 2.In Q4 2012, Syrian document fraudsters were mostly detected
+using documents issued by their most common destination country
+(Germany) and their place of embarkation (Turkey)
+ op four documents detected being used by Syrian migrants on entry to EU/Schengen BCPs
+T
+from third countries, by type of fraud, issuing authority and document category
+
+Fraud
+
+Issuing authority
+
+Document
+
+2012 Q4
+
+Stolen blank
+
+German
+
+Passports
+
+49
+
+Counterfeit
+
+Turkish
+
+Passports
+
+47
+
+Counterfeit
+
+Turkish
+
+ID cards
+
+42
+
+Forged
+
+Syrian
+
+Passports
+
+18
+
+Others
+
+256
+
+Total
+
+412
+
+Source EDF-RAN data
+
+4.8.1. Entry to the EU/Schengen area
+from third countries
+
+Figure 21.Turkish ID cards, blue for males and orange for females,
+were among the most common documents used by Syrian nationals
+to attempt illegal entry to the EU/ Schengen area
+
+© ifadi.consilium.europa.eu
+
+A large proportion of the increase in detections of document fraud was due to a single
+phenomenon; the use of counterfeit border-crossing stamps by Albanian nationals
+to fabricate travel histories and extend periods of stay. These migrants were almost exclusively detected on entry to Greece, at the
+BCP Kakavia and, to a lesser extent, at the
+BCP Kristalopigi. Of all Albanian migrants detected on entry to the Schengen area from a
+third country, nearly all were detected with
+otherwise authentic Albanian passports, containing counterfeit Greek border-crossing
+stamps (Fig. 22).
+
+© Frontex Reference Manual
+
+According to a sample of 24 Member States
+and Schengen Associated Countries, in Q4
+2012 there were 2 572 detections of document
+fraud on entry to the EU/Schengen area from
+third countries. Although long-term comparisons were not possible for Member States
+new to the EDF-RAN (Sweden and Slovenia), or for those currently unable to meet
+the strict reporting protocols (France), it is
+clear that at the EU level document fraud to
+enter the EU and Schengen area from third
+countries was increasing throughout 2012.
+
+Figure 22.Greek border-crossing stamps
+were the most commonly detected
+fraudulent document in Q4 2012
+
+35 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Ukrainian biometric passport law
+comes into force
+In December the president of Ukraine
+signed a new law in which the introduction of electronic passports was announced. Although the implementation
+rules have not yet been finalised, the
+government hopes to start issuing the
+passports in January 2013. However, several aspects of the new law and the new
+passport have already come under considerable criticism. For example, a revision to the law suggests that people
+with certain religious beliefs be able to
+opt out of having their personal information on the electronic chip. To exercise
+this right, individuals need only submit
+an application for exemption. According to several Member State analyses,
+this is exactly the type of loophole that
+could be exploited by criminals so that
+they can continue to move around with
+fraudulent identity documents without
+the possibility of being checked against
+biometric data on the chip.
+This new law stipulates that the passport will be in the form of a card containing a contactless electronic carrier
+with biographical information as well
+as biometric identifiers and so does not
+comply with international standards.
+The new law also stipulates that passports are to be issued to all individuals
+from birth regardless of age, for a period of 10 years.
+There are suggestions that Ukrainian legislators have not considered those that
+require extra protection in Ukraine, as
+some citizens will not be granted biometric travel documents.
+
+4.8.2. Between the EU and
+the Schengen area
+In Q4 2012, there were 1 213 detections of
+document fraudsters made at the borders
+between the Schengen area and non-Schengen EU Member States, which is a 50% increase since the previous quarter and the
+highest level since basic data collection began
+in 2009. As was the case in previous reporting periods detections were equally split between the two directions of passenger flow
+(entry/exit) even though the UK does not perform any exit checks. Most of the flow was
+on exit from the Schengen area towards the
+UK, which correspondingly reported the most
+detections overall and on entry.
+The overwhelming majority of migrants detected using fraudulent documents between
+the Schengen area and non-Schengen EU
+Member States were from Albania, with more
+than 50% of the total share. This route of
+document fraud started in 2011 once Albanians were granted visa-free access to the
+Schengen area.
+Albanian migrants were most frequently detected using forged, counterfeit and stolen
+blank Italian ID cards, followed by counterfeit
+and forged Greek ID cards. The only passports
+detected on this route were forged Greek and
+Bulgarian, in which new biopages were most
+frequently found.
+Migrants from Ukraine were also detected
+in significant numbers travelling between
+the Schengen area and the UK, as were migrants from Iran and increasingly Syria but
+all in much lower numbers than migrants
+from Albania.
+4.8.3. Intra-Schengen
+Throughout the first half of 2012 there was a
+major flow of migrants using fraudulent documents to fly from Greece to other Schengen
+
+36 of 62
+
+During the first six months of 2012 nearly 500
+migrants were detected on flights between
+Greece and other Schengen states, either
+on exit from Greek airports or upon arrival
+mostly in Germany and, to a lesser extent,
+Italy. However, since the deployment of the
+Greek operation Aspida there has been a decline in document fraudsters arriving on flights
+from Greece, suggesting that the lower number of migrants entering Greece from Turkey
+is having an impact on detections of document fraud elsewhere in the Schengen area.
+In contrast to the decline in the number of
+migrants arriving on flights from Greece, Italy
+has been detecting more document fraudsters on ferries from Patras.
+4.8.4. Legal channels
+Although lacking a systematic data exchange
+among Member States, many reports conclude that the abuse of legal channels to illegally enter the EU is increasing.
+In Poland there were several cases of fraudulently obtained business or work visas being
+used by Ukrainian migrants. In addition, since
+May 2012 there was a significant increase in
+detections of Ukrainian (and, to a lesser extent, Moldovan and Belarusian) nationals using fraudulently obtained Greek visas. Above
+mentioned migrants were in possession of
+visas entitling them to attend sport events
+and tourist visas issued in Ukraine by Greek
+consulates, but organised by travel offices in
+Kiev. However, the migrants whose destination country was Italy did not have any documents relating to room reservations or other
+logistical arrangements.
+
+© ifado.consilium.europa.eu
+
+states. As most of these migrants originally
+entered Greece illegally via the land border
+with Turkey, these journeys are known as secondary movements and shed much light on
+flows of nationalities, documents used and
+destination countries.
+
+Figure 23.Italian ID cards were the most
+common fraudulent documents used by
+Albanians to attempt entry to the UK on
+flights from the Schengen area – many were
+detected on entry to the UK and on exit
+from Italy
+
+Visa fraud detected in Brussels
+In Q4 2012 there was an increase in the
+number of refused irregular migrants arriving in Belgium with Italian D-Visa for
+labour. In many cases, the migrants cannot give any explanation about their employer, their job contract, their wages,
+the working schedule or how long they
+will stay in Italy to work. Mostly the
+contacts with the employer go via
+friends or family who already reside in Italy.
+
+37 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+4.9. Returns
+
+© cs333 Fotolia.com
+
+4.9.1. Return decisions
+
+Sham marriage mastermind jailed for 10 years
+In February 2013 a solicitor was jailed for 10 years in London
+for running an immigration sham marriage scam. The solicitor and two immigration advisers were found guilty of conspiracy to breach immigration law.
+The judge said it would be hard to find a similar scam of the
+same scale and sophistication. He added: ‘A heavy responsibility for upholding the law rests with the lawyers. If the public
+cannot trust them, who can they trust? You have destroyed
+that trust by driving a coach and horses through these rules.’
+An estimated 1 800 men, including members of the Albanian mafia, were able to live in Britain by taking part in sham
+marriages over eight years. Women from eastern European
+countries were flown to Britain to marry men from outside
+the EU. They turned up at register offices having never met,
+and were sometimes unable to speak a common language.
+Men would pay up to GBP 14 000 to the solicitors for a marriage package. This would include fake tenancy agreements,
+employer’s references and forged documents.
+Clients would travel from as far as Devon and Scotland and
+marriages would take place in a number of registrars’ offices.
+Only GBP 2 million of unexplained income had been found in
+bank accounts. The rest is thought to have been smuggled
+out of the country. The racket was uncovered after British
+police cracked an Albanian drugs and money laundering
+gang in London. The brothers at the head had undergone marriages arranged by the firm.
+Source: www.bbc.co.uk 18 February 2013 and other open sources
+
+38 of 62
+
+New definitions applied to this indicator by
+Italy in early 2012 resulted in a huge increase
+in this single Member State, now ranking third
+at the EU level. However, despite this administrative increase, there was a 9% decrease in
+the number of third-country nationals subject to an obligation to leave the EU as a result of an administrative or judicial decision
+in Q4 2012 compared to the same period in
+2011. Most of this decrease was due to the
+situation in Greece, the Member State that
+reaches more decisions than in any other. In
+this Member State, where a fifth of all decisions were reached, the number of decisions
+more than halved, following similar declines
+in the number of detections of illegal border-crossing resulting from operational activity at the Greek land border with Turkey.
+It is worth pointing out that the absolute total number of migrants subject to return decisions is still underestimated by this indicator,
+as data on decisions were unavailable from,
+inter alia, France, the Netherlands and Sweden, where it is assumed that high numbers
+of decisions were reached.
+Hence, in Italy the number of return decisions rose by more than 7 500 compared to
+the same quarter in 2011 following the administrative change, and also the number of
+decisions in Greece fell by more than 15 500
+due to fewer illegal border-crossings from
+Turkey. Given these significant changes, it
+is not surprising that the nationalities that
+were subject to the biggest changes in the
+number of decisions reached were associated
+with these two Member States. For example, migrants from Pakistan and Afghanistan
+– ranked first and fourth among nationalities, respectively – were subject to far fewer
+decisions to leave Greece, as they were detected as illegal border-crossers in far fewer
+
+numbers than a year ago. Similarly migrants
+from Albania were subject to more decisions
+to leave Italy following reporting changes.
+In the final quarter of 2012, Syrians were
+the only nationality that was subject to significantly more decisions to leave than a
+year previously (+165%), although few Syrians would have left following these decisions. Most of these decisions were reached
+by Greece with some decline following the
+launch of the Greek operation Aspida in August 2012, but still massively increased compared to the migration and return situation
+for Syrians a year before in Q4 2011.
+At the Member State level there is often a
+discrepancy between the number of return
+decisions reached and the number of effective returns carried out. Some of the differences may be due to time lags between
+judicial decisions and physical returns, while
+other differences may be due to the disappearance of migrants once a decision has
+been reached. The largest discrepancy was in
+Italy, where far more decisions were reached
+than carried out, and, to a smaller extent, in
+Greece. In contrast, more Albanians were
+returned from Greece than were subject to
+return decisions, suggesting that the time
+lag was having an effect on the figures in
+this case.
+4.9.2. Effective returns
+In Q4 2012, there was a steady trend in the
+number of third-country nationals effectively
+returned to outside the EU compared to a
+year previously in Q4 2011. The total number of 42 157, however, represented a 10% increase compared to the previous quarter but
+does not include effective returns between
+Member States. As has been the case during every quarter of data exchange so far
+for this indicator, the UK was the Member
+State conducting the largest number of returns, in this case up by 5% compared to the
+
+previous quarter, with steady trends of returned nationals from India and Pakistan. As
+regards the top combinations of the returning Member State and the returned nationality, ranking first and second at the EU level,
+with steady but slightly increasing trends,
+were Albanians returned by Greece and Indians returned by the UK. In contrast, massive increases were reported for the number
+of Pakistanis and Bangladeshis returned form
+Greece. The previously reported trend of increased returns of Ukrainians from Poland
+continued into the final quarter of the year.
+The number of returns from Greece increased
+dramatically between the third and fourth
+quarters of 2012, following the launch of the
+operation Xenios Zeus, which has been underway since 2 August 2012 targeting illegal
+stayers mostly in Athens but also in some
+other urban areas. Albanians were the most
+returned nationality from Greece but with a
+steady trend over the year possibly unrelated
+to the operation as Albanians are very integrated in Greek society and are unlikely to be
+associated with conspicuous groups of migrants gathering in urban areas. In contrast
+much of the increase was due to more migrants from Pakistan and Bangladesh (ranked
+second and third in Greece) being forcibly returned in much higher numbers during the
+fourth quarter of 2012, almost certainly as a
+result of the operation Xenios Zeus.
+Consistent with these figures, open sources
+suggest that the operation Xenios Zeus is
+still very active. For example, in January 2012
+there were reports of Greek police arresting 100 migrants in old factories in the port
+city of Patra. Apparently, migrants who did
+not possess proper residence papers were
+expected to be taken to a detention centre
+in the port of city of Corinth. Much of these
+widely-publicised activities will also probably be contributing to the deterrent effect of
+the operation Aspida at the Greek land border with Turkey, as migrants will be aware
+
+39 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+that even if they successfully cross the border they are still likely to be picked up by the
+authorities inland. In fact some open sources
+claim that Greek police reports have come to
+the same conclusion.
+
+4.10. Other illegal activities at
+the border
+4.10.1. Smuggling of drugs
+The smuggling of drugs continues to be a
+serious concern for law-enforcement agencies along the external borders of the EU. Information from EU border authorities show
+that the characteristics and extent of contraband of illicit substances along the traditional routes into the European markets is
+not subject to fundamental changes. However, seizures, treatment demand and drug
+market characteristics point to a slow diversification in terms of origin countries, modi operandi, routes and types of illicit substances
+smuggled.
+
+ders to the prospective EU Member Croatia,
+border guards were able to confiscate more
+than 100 kg of marijuana, which is a strong
+increase compared to the 4.6 kg found in Q3.
+The number of drug detections, however, decreased slightly, which means that the dimensions of the drug shipments – all detected at
+the BCP Obrezje – were significantly larger.
+On 1 October 2012, the JO Focal Points Land
+reported the most significant seizure being
+made during the forth quarter at the land borders, when 492 kg of marijuana were found
+at the Hungarian BCP Kelebia. The illicit substance was transported behind double walls of
+a lorry coming from Serbia, which was driven
+by a national of the former Yugoslav Republic of Macedonia.
+The JO Aeneas 2012 showed its operational impact against the smuggling of drugs from the
+Western Balkans with major seizures at the sea
+border between Albania and Italy. In its opera-
+
+Cannabis products
+
+* UNODC Drug seizures (by
+drug class and country), 2011.
+** Focus Information Agency,
+Albania seizes 1.5 tonnes of
+cannabis destined for Italy
+http://www.focus-fen.net/
+?id=n297816, 25/01/2013.
+
+40 of 62
+
+Most of the cannabis resin consumed in Europe traditionally comes from Morocco, but
+data gathered by UNODC show that the country’s importance as a supplier might be on the
+decline, while the large yield of Afghanistan’s
+cannabis crop leads to growing exports from
+that country. At the same time, the Albanian
+cannabis production is not subsiding despite
+of increased law-enforcement action against
+the cannabis farms and plants. While in 2009,
+3 425 kg* of cannabis herb was seized by Albanian police, the number grew to around eight
+tonnes in 2012.** Also the Italian authorities
+seized large amounts of Albanian marijuana
+on the way to the Italian coast.
+Detections reported at the EU external borders mirror this development. The JO Focal
+Points Land could report a strong increase in
+the amount of drugs seized in Q4: at the bor-
+
+In October, officers of the Spanish Cuerpo Nacional de Policia dismantled
+three organisations that smuggled
+hashish on pleasure boats from Morocco to Cadiz, Spain. The authorities
+arrested 17 persons and seized 2.6 tons
+of hashish, five yachts, six vehicles,
+and two satellite phones.
+Source: Cuerpo Nacional de Policia
+
+tional weeks 46 and 47, Icelandic, Portuguese
+and Italian aircraft detected three boats from
+Albania carrying in total 1 980 kg of marijuana.
+The largest shipment consisted of 1 610 kg of
+drugs that were packed in 88 bags. Moreover,
+the arrested Albanian and two Italian nationals carried an AK-47 rifle and an automatic gun
+with 90 cartridges of ammunition.
+Alongside increased seizures along the borders to the Western Balkans, Moroccan criminal groups continued to produce and export
+substantial amounts of cannabis products.
+The area along the Moroccan coast showed
+to be a busy scene of illicit drug transfers. During the JO Hera in December 2012, the Spanish
+Civil Guard detected a shipment of 1 200 kg of
+marijuana arriving in Tenerife, transported on
+an inflatable boat from Morocco. The operation resulted in the arrest of 15 Spanish and four
+Moroccan nationals. This seizure was only one
+in a row of other detected smuggling activities during that Joint Operation. Already during November, law-enforcement authorities
+found 569 kg of hashish smuggled on a rubber boat to Gran Canaria.
+On 31 October, the JO Indalo concluded its activities along the sea border between Spain and
+Morocco. The operation acted as a platform for
+EU interagency cooperation between Frontex,
+CeCLAD-M, EFCA and Europol, and therefore
+significantly enhanced the level of the border surveillance in the regards of cross-border
+criminality. In October, officers deployed as a
+part of the operation seized drugs with a value
+of EUR 8.9 million and arrested seven persons,
+coming from Spain, Morocco and Lithuania.
+The smuggling of Moroccan hashish in speed
+boats crossing the sea between Morocco and
+the Iberian Peninsula was the most frequent
+modus operandi detected during that operation.
+
+is smuggled across Iran, Turkey and the Balkan countries. Organised criminal groups involved in the trafficking of heroin particularly
+challenge the law-enforcement authorities in
+the Western Balkans. Large numbers of bona
+fide travellers and intensifying trade between
+the EU, Western Balkan countries and Turkey
+complicate effective border controls. On the
+other hand, Europol reports the emergence
+of Pakistani OCGs in the EU that bypass Turkey and the Balkans, shipping heroin by sea
+directly or via the Arabian Peninsula or Africa
+to Europe. According to the EMCDDA, however, heroin consumption has recently shown
+a rather declining trend in the EU.
+Frontex officers deployed in the context of
+the JO Focal Points Land detected 10.1 kg of
+heroin hidden under the rear seat of a Bulgarian car coming from Turkey on 15 November
+2012. Heroin was also found transported on
+commercial flights.
+Cocaine
+A large amount of the cocaine sold on the European markets is smuggled from Latin America
+through West African and Maghreb countries
+to Spain, from where part of the illicit loads are
+forwarded to the Netherlands, which serves a
+hub for distribution to other EU Member States.
+The cocaine supply is currently seeing a diversification, as increasing amounts arrive at ports
+of southeastern Europe and along the Black
+Sea coast. Cocaine is also directly trafficked on
+commercial flights from Latin America and in
+sea freight containers. In October 2012, Belgian
+police confiscated more than eight tonnes of
+cocaine hidden in a shipment of bananas from
+Ecuador, bound for Rotterdam in the Netherlands. The shipment was the largest ever detected in Belgium and had a value of around
+EUR 500 million.
+
+Opiates
+The largest part of heroin consumed in Europe derives from Afghan poppy fields and
+
+41 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+4.10.2. Smuggling of cigarettes
+Especially at the eastern external borders of
+the EU, the smuggling of cigarettes is a frequently detected illegal activity. Controls of
+law-enforcement authorities at the most affected BCPs are challenged by intensive passenger traffic and increasing volumes of trade
+with the EU’s eastern neighbours. Frontex
+Joint Operations actively contributed to the
+fight against the illicit import of tobacco products, which causes fiscal losses of around
+EUR 10 billion per year in the budgets of the
+EU and its Member States. Most of the detections reported within Frontex Joint Operations were made at the BCP Kapitan Andreevo
+between Bulgaria and Turkey. A large part of
+the 133 discovered cases consisted of smaller
+amounts mainly smuggled by Bulgarian nationals, whereas only few seizures at this border section were related to large-scale and
+organised contraband activities.
+The current environment is conducive to the
+contraband of tobacco products due to multiple reasons. Some large price differentials exist
+between countries located in close geographical proximity, which creates considerable incentives for cross-border smuggling. In 2011,
+a pack of cigarettes in Latvia cost five times
+as much as in the Russian Federation. In Q4
+2012, the land border section with the largest
+number of cigarettes confiscated in context
+of a Frontex JO showed to be between these
+two countries. All seized cigarettes were connected to just one incident on 6 November,
+when two border guards found double registration plates at two Lithuanian fuel tankers and forwarded them to the second-line
+control. A closer examination led to the discovery of a false wall in one of the lorries. The
+officers eventually found out that the hollow
+space was filled with 4 427 600 cigarettes.
+Border guards deployed at the BCPs situated
+between Poland and Ukraine frequently detect
+persons smuggling either smaller amounts of
+
+42 of 62
+
+cigarettes for personal consumption or large
+shipments for resale in Poland or further transport to western Europe. In Q4, in context of
+the JO Focal Points Land 2012, Frontex officers in cooperation with their Polish colleagues
+seized more than two million cigarettes in 38
+different smuggling incidents. Most of these
+contraband inflows were discovered at the
+BCP of Medyka, others along the green border, and a few in Polish private properties close
+to Ukraine.
+Also the border between Poland and Belarus
+showed intensive smuggling activities. However, the 28 seizures were much smaller in size,
+resulting in a total of 140 000 confiscated cigarettes, most of them found at the BCP of Terespol. In nine of these cases cigarettes were
+hidden in the engine rooms of trains coming
+from Belarus.
+The final destinations of many cigarettes
+smuggled across the eastern external borders into the EU are western European countries, where criminal groups can make even
+better profits due to higher excise taxes on
+tobacco products.
+In December 2012, one case of cigarette
+smuggling close to the Greek island of Crete
+gained particular prominence. After having
+received information on a suspicious vessel
+close to the port of Chania, the Greek Coastguard stopped and searched the Moldovanregistered ‘Noah’ and found eight containers
+with around 53 760 000 cigarettes. The crew
+consisting of five Albanian nationals was arrested and the Egyptian-produced cigarettes
+confiscated.
+4.10.3. Fuel product smuggling
+A slight decrease in petrol prices between Q3
+and Q4 took financial pressure from commuters and regular drivers. The average difference
+between a litre of Super 95 bought in the EU
+countries and their respective third-coun-
+
+try neighbour(s) decreased from EUR 0.28
+to EUR 0.24 during this period. This reduction may still not be sufficient to substantially weaken the incentive for motorists to
+arrange a trip across the border to countries
+such as the Russian Federation or Belarus,
+where fuel is around half as expensive as in
+Poland, Estonia or Finland. At the beginning
+of December, the Polish Border Guard discovered more than 800 litres of fuel loaded
+on a private vehicle crossing the border from
+Ukraine. The trafficking of petroleum products is also known to take place from Serbia
+and Albania, but it tends to occur on an individual level, including smaller quantities for
+own consumption or sale to acquaintances.
+4.10.4. Vehicle theft
+In Q4 2012, Frontex assets deployed through Joint
+Operations assisted in the detection of 105 stolen vehicles. This number represents a decreasing
+trend, although a large part of the 192 detections in Q3 were reported within the JO Minerva, which did not continue into Q4. As many
+as 44% of the recovered cars and lorries were
+stopped on the way to Ukraine, most of them
+on exit at the BCPs of Medyka and Dorohusk.
+In turn, 23% of the vehicles were identified on
+exit to Belarus, all of which attempted to leave
+the EU at the BCP Terespol. A smaller proportion of cars and lorries were found at the borders to Croatia (13%), Turkey (11%) and Serbia (7%).
+Frontex JO reported the identification of vehicles that had been stolen in 16 different European countries, with Germany and Italy being
+the top two origins. While border guards deployed through the JO Focal Points Land detected vehicles from Germany equally on route
+to Belarus, Turkey, Ukraine and Serbia, most
+cars and lorries stolen in Italy were discovered
+at the border to Croatia. Moreover, cases reported in JO statistics include several cars stolen in Belgium and detected on exit to Ukraine.
+Border guards deployed in the JO Focal Points
+Land also prevented the transit of vehicles reg-
+
+Table 3. A
+ verage price of Super 95 fuel in EU Member States and their
+respective third-country neighbour(s)
+Q4 2012 (December)
+Border
+
+EU country
+in EUR
+
+Third country
+in EUR
+
+Price difference
+in Q4
+
+Finland-Russian Federation
+
+1.61
+
+0.78
+
+0.83
+
+Lithuania-Belarus
+
+1.37
+
+0.61
+
+0.76
+
+Poland-Belarus
+
+1.33
+
+0.61
+
+0.72
+
+Estonia-Russian Federation
+
+1.30
+
+0.78
+
+0.52
+
+Poland-Russian Federation
+
+1.33
+
+0.78
+
+0.55
+
+Slovakia-Ukraine
+
+1.50
+
+1.02
+
+0.48
+
+Greece-Albania
+
+1.68
+
+1.35
+
+0.33
+
+Hungary-Ukraine
+
+1.41
+
+1.02
+
+0.39
+
+Greece-fYROM
+
+1.68
+
+1.33
+
+0.35
+
+Poland-Ukraine
+
+1.33
+
+1.02
+
+0.31
+
+Romania-Ukraine
+
+1.25
+
+1.02
+
+0.23
+
+Romania-Moldova
+
+1.25
+
+1.07
+
+0.18
+
+Hungary-Serbia
+
+1.41
+
+1.33
+
+0.08
+
+Hungary-Croatia
+
+1.41
+
+1.37
+
+0.04
+
+Slovenia-Croatia
+
+1.48
+
+1.37
+
+0.11
+
+Bulgaria-Serbia
+
+1.27
+
+1.33
+
+-0.06
+
+Romania-Serbia
+
+1.25
+
+1.33
+
+-0.08
+
+Bulgaria-fYROM
+
+1.27
+
+1.33
+
+-0.06
+
+Greece-Turkey
+
+1.68
+
+1.95
+
+-0.27
+
+Bulgaria-Turkey
+
+1.27
+
+1.95
+
+-0.68
+
+Source: European Commission Oil Bulletin (17/12/2012) and open-source data for third
+countries
+
+istered as stolen by the authorities of Serbia
+and Bosnia and Herzegovina, which shows a
+good level of information exchange also with
+third countries.
+The brand preferences of criminal groups involved in vehicle theft did not show any substantial changes. Volkswagen was the most
+frequent make detected among stolen cars
+during the JO Focal Points Land, while Mercedes and BMW ranked second and third. In
+general, vans, medium-sized and estate cars
+were the preferred choice compared to highend models. Prevalence for more average models can be explained by their higher saleability
+and lower conspicuousness vis-à-vis the border authorities and their risk profiling efforts.
+Incidents reported in Q4 confirm a continuing trend of a large-scale and systematic theft
+
+43 of 62
+
+12%
+Belarus
+18%
+
+Q1 2012
+
+Turkey
+43%
+
+Ukraine
+26%
+
+Frontex · FRAN Quarterly · q4 2012
+
+Others
+9%
+
+Ukraine
+6%
+
+Russian
+Federation
+7%
+
+Belarus
+14%
+
+Q2 2012
+
+Turkey
+45%
+
+Figure 24.The distribution of detections of stolen vehicles on exit among border sections
+shows a diversion towards the South-East Europe over the four quarters
+Moldovaof 2012
+19%
+Share of detected vehicles on exit in Q1, Q2, Q3, and Q4 2012 by border sections with third
+countries
+
+Others
+1%
+Moldova
+12%
+Belarus
+18%
+
+Russian
+Federation
+8%
+
+Q1 2012
+
+Turkey
+43%
+
+Ukraine
+6%
+
+Belarus
+11%
+
+Belarus
+14%
+
+Q2 2012
+
+Turkey
+45%
+
+Source: JO Focal Points Land
+Ukraine
+5%
+Moldova
+6%
+
+Q3 2012
+
+Turkey
+54%
+
+Belarus
+25%
+
+Moldova
+5%
+
+Figure 25.Polish border guards recovered
+stolen cars loaded
+on a trailer on its way
+Belarus
+11%
+towards the eastern border
+
+Q4 2012
+
+Ukraine
+16%
+
+Q4 2012
+
+Turkey
+54%
+
+Others
+2%
+
+Russian
+Federation
+8%
+
+Serbia
+14%
+
+Serbia
+14%
+
+Ukraine
+16%
+
+Moldova
+19%
+
+© Polish Border Guard 2012
+
+Turkey
+54%
+
+Moldova
+5%
+
+Russian
+Federation
+7%
+
+44 of 62
+
+Q3 2012
+Belarus
+25%
+
+Ukraine
+26%
+
+Others
+9%
+
+Others
+2%
+
+Ukraine
+5%
+Moldova
+6%
+
+Turkey
+54%
+
+of cars originating from the EU. Crime groups
+utilise electronic tools to quickly gain access
+to medium-sized and compact-class cars with
+less sophisticated protective measures, which
+are then disassembled into spare parts and
+brought across the external borders. Incidents
+discovered in Poland show multiple consignments of stolen cars on trailers. They were
+transported from western European countries
+through the Schengen area to Lithuania, from
+where many of these vehicles were sold to Belarus and the Russian Federation. Polish border
+guards in Q4 reported five cases of Lithuanian
+nationals driving lorries with trailers of two to
+four stolen medium-class vehicles from Nor-
+
+Top five brands of stolen vehicles
+
+Fiat
+7%
+Renault
+11%
+
+VW
+40%
+
+BMW
+19%
+
+Mercedes
+23%
+
+Sources: Frontex Risk Analysis Unit – JORA data
+
+Figure 26.Main routes of stolen vehicles detected through Frontex JO in Q4
+
+way, the Netherlands and France. In one case,
+also the trailer itself was registered as stolen.
+4.10.5. Smuggling of weapons
+Only few cases of illegally smuggled weapons
+were detected through Frontex JO in Q4. Border guards deployed at the border to Croatia
+reported 13 attempts to import arms into an
+EU Member State, 11 of which were related to
+non-lethal weapons including truncheons and
+brass knuckles seized on their way to Slovenia.
+According to media reports, in December
+2012, the Italian authorities uncovered a large
+amount of trafficked weapons on transit in
+
+the port of Naples. The police, upon receipt
+of a tip-off, searched a ship container supposedly destined for the port of Alexandria
+in Egypt. The load, which was declared as
+construction materials, allegedly contained
+pistols, rocket-propelled grenades and other
+explosive materials. Further investigations
+were underway.
+4.10.6. Trafficking in human beings
+Q4 2012 was again marked by some significant
+successes in the fight against major criminal
+networks involved in the trafficking of human
+beings to Europe. The Spanish Cuerpo Nacional
+de Policia in the end of the year 2012 disbanded
+
+45 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence
+
+46 of 62
+
+a criminal organisation that trafficked Nigerians on pateras across the Mediterranean to
+Spain. The members of the criminal group continued to exercise control over their victims after they were admitted to immigrant women
+shelters for humanitarian reasons. From there,
+the women were forced into prostitution in different places within Spain. The investigations
+were complicated by the non-hierarchical nature of the organisation, which consisted of a
+heterogeneous network of criminal groups in
+different locations, each specialising in separate
+operational phases, including the recruitment
+of the victims, the counterfeit of documents,
+the transportation to the country of destination, the exploitation of the victims and the
+laundering of proceeds. Italian authorities that
+conducted investigations into Nigerian human
+trafficking networks confirm that the structure combined modern managerial skills, traditional cultural values and religious beliefs.
+
+A different type of organisational structure
+was revealed through the detection of a
+trafficking network in October 2012, run by
+Kosovo-Albanians in the southwest of Germany. Police officers in Germany, France and
+Belgium simultaneously conducted raids in
+numerous apartments and arrested several
+suspects. The authorities targeted 22 suspects belonging to a family clan, which trafficked around 50 girls, mostly under-age and
+coming from Kosovo*, to Germany, France,
+Belgium and Scandinavia for the purpose
+of domestic labour and sexual exploitation.
+Many victims crossed the borders with false
+documents or as impostors. Investigations in
+these cases showed a homogenous and hierarchical structure consisting of clan-related
+criminals operating across Europe. The case
+exemplifies a particular necessity of international and interagency cooperation for the
+disruption of human trafficking networks and
+organised criminal groups that are connected
+through bonds of ethnicity and kinship.
+
+5. Statistical annex
+Legend
+Symbols and abbreviations: n.a. not applicable
+											: data not available
+Source: F
+ RAN and EDF-RAN data as of 12 February 2013, unless otherwise indicated
+Note: ‘Member States’ in the tables refer to FRAN Member States, including both
+27 EU Member States and three Schengen Associated Countries
+
+47 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 1.Illegal border-crossing between BCPs
+Detections at the external borders by border type and top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+All Borders
+Afghanistan
+
+9 323
+
+7 301
+
+2 153
+
+4 529
+
+4 518
+
+1 969
+
+-73
+
+-56
+
+14
+
+Albania
+
+1 411
+
+1 554
+
+1 177
+
+1 797
+
+1 254
+
+1 423
+
+-8.4
+
+13
+
+10
+
+Eritrea
+
+318
+
+352
+
+270
+
+461
+
+575
+
+1 298
+
+269
+
+126
+
+9.5
+
+Syria
+
+602
+
+614
+
+715
+
+2 024
+
+3 923
+
+1 241
+
+102
+
+-68
+
+9.1
+
+604
+
+799
+
+1 017
+
+1 673
+
+1 283
+
+1 065
+
+33
+
+-17
+
+7.8
+
+Algeria
+
+Somalia
+
+1 613
+
+2 570
+
+1 275
+
+2 000
+
+1 494
+
+710
+
+-72
+
+-52
+
+5.2
+
+Pakistan
+
+5 629
+
+5 874
+
+1 045
+
+1 650
+
+1 491
+
+691
+
+-88
+
+-54
+
+5.1
+
+Palestine
+
+242
+
+344
+
+286
+
+376
+
+403
+
+578
+
+68
+
+43
+
+4.2
+
+2 104
+
+808
+
+321
+
+525
+
+771
+
+496
+
+-39
+
+-36
+
+3.6
+
+571
+
+87
+
+25
+
+110
+
+143
+
+379
+
+336
+
+165
+
+2.8
+28
+
+Not specified
+Mali
+Others
+
+16 113
+
+8 022
+
+5 352
+
+7 950
+
+6 238
+
+3 763
+
+-53
+
+-40
+
+Total all borders
+
+38 530
+
+28 325
+
+13 636
+
+23 095
+
+22 093
+
+13 613
+
+-52
+
+-38
+
+Land Borders
+Albania
+
+1 379
+
+1 539
+
+1 176
+
+1 736
+
+1 214
+
+1 334
+
+-13
+
+9.9
+
+24
+
+Afghanistan
+
+8 355
+
+6 711
+
+1 775
+
+3 963
+
+3 584
+
+516
+
+-92
+
+-86
+
+9.2
+
+400
+
+578
+
+676
+
+1 918
+
+3 321
+
+501
+
+-13
+
+-85
+
+8.9
+
+Algeria
+
+Syria
+
+1 069
+
+2 164
+
+1 227
+
+1 481
+
+878
+
+495
+
+-77
+
+-44
+
+8.8
+
+Not specified
+
+1 131
+
+737
+
+307
+
+463
+
+554
+
+493
+
+-33
+
+-11
+
+8.8
+
+104
+
+119
+
+203
+
+199
+
+272
+
+316
+
+166
+
+16
+
+5.6
+
+Kosovo*
+Palestine
+
+141
+
+285
+
+267
+
+363
+
+309
+
+256
+
+-10
+
+-17
+
+4.6
+
+Pakistan
+
+5 154
+
+5 548
+
+915
+
+1 189
+
+1 006
+
+234
+
+-96
+
+-77
+
+4.2
+
+Morocco
+
+453
+
+748
+
+425
+
+570
+
+227
+
+200
+
+-73
+
+-12
+
+3.6
+
+Georgia
+
+141
+
+140
+
+99
+
+184
+
+123
+
+134
+
+-4.3
+
+8.9
+
+2.4
+
+4 785
+
+5 895
+
+4 133
+
+5 739
+
+3 073
+
+1 135
+
+-81
+
+-63
+
+20
+
+23 112
+
+24 464
+
+11 203
+
+17 805
+
+14 561
+
+5 614
+
+-77
+
+-61
+
+968
+
+590
+
+378
+
+566
+
+934
+
+1 453
+
+146
+
+56
+
+18
+
+25
+
+5
+
+39
+
+223
+
+434
+
+1 246
+
+24 820
+
+187
+
+16
+
+Somalia
+
+224
+
+113
+
+553
+
+1 106
+
+862
+
+959
+
+749
+
+11
+
+12
+
+Syria
+
+202
+
+36
+
+39
+
+106
+
+602
+
+740
+
+1 956
+
+23
+
+9.3
+
+Pakistan
+
+475
+
+326
+
+130
+
+461
+
+485
+
+457
+
+40
+
+-5.8
+
+5.7
+
+Palestine
+
+101
+
+59
+
+19
+
+13
+
+94
+
+322
+
+446
+
+243
+
+4.0
+
+Others
+
+Total land borders
+Sea Borders
+Afghanistan
+Eritrea
+
+Gambia
+
+247
+
+26
+
+21
+
+36
+
+153
+
+304
+
+1 069
+
+99
+
+3.8
+
+Mali
+
+551
+
+47
+
+4
+
+22
+
+100
+
+296
+
+530
+
+196
+
+3.7
+
+Nigeria
+
+3 156
+
+62
+
+12
+
+67
+
+258
+
+238
+
+284
+
+-7.8
+
+3
+
+Tunisia
+
+3 374
+
+96
+
+357
+
+685
+
+1 008
+
+233
+
+143
+
+-77
+
+2.9
+
+6 095
+
+2 501
+
+881
+
+2 005
+
+2 602
+
+1 751
+
+-30
+
+-33
+
+22
+
+15 418
+
+3 861
+
+2 433
+
+5 290
+
+7 532
+
+7 999
+
+107
+
+6.2
+
+Others
+
+Total sea borders
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration
+of independence.
+
+48 of 62
+
+Annex Table 2.Clandestine entries at BCPs
+Detections at the external borders border type and top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Place of Detection
+Land
+
+40
+
+63
+
+80
+
+106
+
+152
+
+152
+
+141
+
+0
+
+78
+
+Sea
+
+24
+
+21
+
+36
+
+20
+
+16
+
+43
+
+105
+
+169
+
+22
+
+Afghanistan
+
+18
+
+30
+
+50
+
+52
+
+47
+
+41
+
+37
+
+-13
+
+21
+
+Algeria
+
+13
+
+6
+
+8
+
+10
+
+15
+
+28
+
+367
+
+87
+
+14
+
+5
+
+1
+
+4
+
+9
+
+22
+
+340
+
+144
+
+11
+
+1
+
+5
+
+3
+
+3
+
+10
+
+19
+
+280
+
+90
+
+9.7
+
+2
+
+1
+
+10
+
+14
+
+1 300
+
+40
+
+7.2
+
+14
+
+1
+
+5
+
+1
+
+23
+
+12
+
+1 100
+
+-48
+
+6.2
+
+1
+
+12
+
+140
+
+1 100
+
+6.2
+
+10
+
+400
+
+n.a.
+
+5.1
+
+5
+
+n.a.
+
+n.a.
+
+2.6
+
+4
+
+n.a.
+
+n.a.
+
+2.1
+14
+
+Top Ten Nationalities
+
+Syria
+Albania
+Palestine
+Turkey
+Pakistan
+
+2
+
+5
+
+0
+
+11
+
+Tunisia
+
+0
+
+2
+
+1
+
+0
+
+Mali
+
+0
+
+Ghana
+
+1
+
+Others
+
+14
+
+29
+
+48
+
+44
+
+53
+
+28
+
+-3.4
+
+-47
+
+Total
+
+64
+
+84
+
+116
+
+126
+
+168
+
+195
+
+132
+
+16
+
+49 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 3.Facilitators
+Detections at the external borders by place of detection and top ten nationalities
+
+2012 Q4
+2011
+
+2012
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Place of Detection
+1 013
+
+1 114
+
+1 489
+
+1 254
+
+1 019
+
+1 424
+
+28
+
+40
+
+67
+
+Land
+
+Inland
+
+195
+
+159
+
+215
+
+177
+
+272
+
+223
+
+40
+
+-18
+
+11
+
+Land Intra EU
+
+103
+
+94
+
+138
+
+122
+
+96
+
+142
+
+51
+
+48
+
+6.7
+
+88
+
+108
+
+81
+
+70
+
+97
+
+110
+
+1.9
+
+13
+
+5.2
+
+Air
+Not specified
+Sea
+
+30
+
+46
+
+53
+
+46
+
+111
+
+110
+
+139
+
+-0.9
+
+5.2
+
+117
+
+93
+
+129
+
+116
+
+117
+
+109
+
+17
+
+-6.8
+
+5.1
+
+Top Ten Nationalities
+Morocco
+
+86
+
+91
+
+90
+
+95
+
+91
+
+185
+
+103
+
+103
+
+8.7
+
+Not specified
+
+48
+
+88
+
+88
+
+77
+
+146
+
+168
+
+91
+
+15
+
+7.9
+
+Italy
+
+116
+
+134
+
+202
+
+94
+
+98
+
+149
+
+11
+
+52
+
+7.0
+
+Spain
+
+92
+
+111
+
+140
+
+144
+
+77
+
+137
+
+23
+
+78
+
+6.5
+
+Romania
+
+68
+
+58
+
+136
+
+55
+
+79
+
+94
+
+62
+
+19
+
+4.4
+
+France
+
+76
+
+64
+
+95
+
+99
+
+70
+
+88
+
+38
+
+26
+
+4.2
+
+Pakistan
+
+51
+
+38
+
+59
+
+82
+
+62
+
+83
+
+118
+
+34
+
+3.9
+
+Albania
+
+41
+
+59
+
+73
+
+37
+
+65
+
+68
+
+15
+
+4.6
+
+3.2
+
+China
+
+52
+
+105
+
+88
+
+101
+
+61
+
+66
+
+-37
+
+8.2
+
+3.1
+
+Bulgaria
+
+44
+
+38
+
+40
+
+29
+
+37
+
+53
+
+39
+
+43
+
+2.5
+48
+
+Others
+
+872
+
+828
+
+1 094
+
+972
+
+926
+
+1 027
+
+24
+
+11
+
+Total
+
+1 546
+
+1 614
+
+2 105
+
+1 785
+
+1 712
+
+2 118
+
+31
+
+24
+
+50 of 62
+
+Annex Table 4.Illegal stay
+Detections at the external borders by place of detection and top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+% change on
+
+Q2
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Place of Detection
+Inland
+Air
+
+69 572
+
+76 512
+
+72 520
+
+68 906
+
+68 696
+
+68 316
+
+-11
+
+-0.6
+
+81
+
+9 361
+
+8 985
+
+8 693
+
+8 493
+
+9 752
+
+8 472
+
+-5.7
+
+-13
+
+10
+
+Land
+
+5 259
+
+5 214
+
+4 731
+
+4 766
+
+5 632
+
+4 754
+
+-8.8
+
+-16
+
+5.6
+
+Land Intra EU
+
+2 032
+
+1 639
+
+1 347
+
+1 427
+
+1 393
+
+1 665
+
+1.6
+
+20
+
+2.0
+
+Sea
+
+1 519
+
+1 325
+
+1 040
+
+1 084
+
+1 090
+
+1 371
+
+3.5
+
+26
+
+1.6
+
+292
+
+159
+
+130
+
+212
+
+187
+
+195
+
+23
+
+4.3
+
+0.2
+
+2
+
+0
+
+0
+
+3
+
+9
+
+44
+
+n.a.
+
+389
+
+0.1
+
+Between BCPs
+Not Specified
+
+Top Ten Nationalities
+Afghanistan
+
+6 777
+
+7 750
+
+6 345
+
+6 179
+
+6 252
+
+5 619
+
+-27
+
+-10
+
+6.6
+
+Morocco
+
+5 026
+
+5 575
+
+6 047
+
+5 683
+
+4 724
+
+4 814
+
+-14
+
+1.9
+
+5.7
+
+Syria
+
+1 046
+
+1 192
+
+1 396
+
+2 020
+
+4 004
+
+4 547
+
+281
+
+14
+
+5.4
+
+Pakistan
+
+3 720
+
+3 587
+
+3 752
+
+5 088
+
+4 989
+
+4 505
+
+26
+
+-9.7
+
+5.3
+
+Not specified
+
+1 501
+
+2 308
+
+1 159
+
+1 253
+
+2 653
+
+4 142
+
+79
+
+56
+
+4.9
+
+Algeria
+
+3 925
+
+4 010
+
+4 247
+
+4 077
+
+3 747
+
+3 705
+
+-7.6
+
+-1.1
+
+4.4
+
+Albania
+
+2 382
+
+3 085
+
+3 167
+
+3 627
+
+2 856
+
+3 614
+
+17
+
+27
+
+4.3
+
+Ukraine
+
+3 788
+
+3 737
+
+3 202
+
+3 036
+
+3 655
+
+3 188
+
+-15
+
+-13
+
+3.8
+
+Russian Federation
+
+3 173
+
+2 427
+
+2 363
+
+2 419
+
+3 531
+
+3 173
+
+31
+
+-10
+
+3.7
+
+Serbia
+
+2 015
+
+3 701
+
+2 880
+
+2 466
+
+3 104
+
+3 053
+
+-18
+
+-1.6
+
+3.6
+
+Others
+
+54 684
+
+56 462
+
+53 903
+
+49 043
+
+47 244
+
+44 457
+
+-21
+
+-5.9
+
+52
+
+Total
+
+88 037
+
+93 834
+
+88 461
+
+84 891
+
+86 759
+
+84 817
+
+-9.6
+
+-2.2
+
+51 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 5.Refusals of entry
+Refusals of entry at the external borders by border type and top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+All Borders
+Ukraine
+
+4 499
+
+3 921
+
+3 788
+
+3 994
+
+5 840
+
+4 481
+
+14
+
+-23
+
+15
+
+Georgia
+
+558
+
+1 136
+
+567
+
+1 692
+
+3 282
+
+3 303
+
+191
+
+0.6
+
+11
+
+Albania
+
+3 550
+
+2 941
+
+2 261
+
+3 737
+
+2 837
+
+3 201
+
+8.8
+
+13
+
+11
+
+Russian Federation
+
+2 710
+
+2 214
+
+1 840
+
+2 325
+
+2 978
+
+2 611
+
+18
+
+-12
+
+8.6
+
+Serbia
+
+1 643
+
+1 639
+
+1 388
+
+1 222
+
+1 487
+
+1 542
+
+-5.9
+
+3.7
+
+5.1
+
+Belarus
+
+1 549
+
+1 615
+
+1 106
+
+1 116
+
+1 386
+
+1 425
+
+-12
+
+2.8
+
+4.7
+
+Morocco
+
+1 211
+
+1 014
+
+1 058
+
+1 081
+
+708
+
+1 087
+
+7.2
+
+54
+
+3.6
+
+766
+
+867
+
+1 032
+
+1 048
+
+977
+
+792
+
+-8.7
+
+-19
+
+2.6
+
+Croatia
+Turkey
+
+1 145
+
+672
+
+578
+
+625
+
+1 117
+
+720
+
+7.1
+
+-36
+
+2.4
+
+462
+
+551
+
+485
+
+588
+
+506
+
+677
+
+23
+
+34
+
+2.2
+
+Others
+
+12 232
+
+12 441
+
+10 533
+
+10 809
+
+10 875
+
+10 600
+
+-15
+
+-2.5
+
+35
+
+Total all borders
+
+30 325
+
+29 011
+
+24 636
+
+28 237
+
+31 993
+
+30 439
+
+4.9
+
+-4.9
+
+Not specified
+
+Land Borders
+Ukraine
+
+4 191
+
+3 608
+
+3 503
+
+3 723
+
+5 500
+
+4 281
+
+19
+
+-22
+
+24
+
+Georgia
+
+496
+
+1 065
+
+493
+
+1 620
+
+3 214
+
+3 208
+
+201
+
+-0.2
+
+18
+
+Russian Federation
+
+1 794
+
+1 510
+
+1 290
+
+1 620
+
+2 185
+
+2 211
+
+46
+
+1.2
+
+12
+
+Albania
+
+1 884
+
+1 161
+
+1 192
+
+2 587
+
+1 684
+
+1 915
+
+65
+
+14
+
+11
+
+Belarus
+
+1 504
+
+1 574
+
+1 080
+
+1 086
+
+1 350
+
+1 396
+
+-11
+
+3.4
+
+7.7
+
+Serbia
+
+1 384
+
+1 358
+
+1 200
+
+1 034
+
+1 265
+
+1 311
+
+-3.5
+
+3.6
+
+7.2
+
+Morocco
+
+869
+
+651
+
+666
+
+708
+
+295
+
+747
+
+15
+
+153
+
+4.1
+
+Croatia
+
+713
+
+815
+
+979
+
+1 002
+
+925
+
+728
+
+-11
+
+-21
+
+4.0
+
+Bosnia and Herzegovina
+
+424
+
+343
+
+347
+
+346
+
+385
+
+454
+
+32
+
+18
+
+2.5
+
+81
+
+74
+
+37
+
+72
+
+353
+
+408
+
+451
+
+16
+
+2.2
+8.3
+
+Armenia
+Others
+
+Total land borders
+
+2 489
+
+1 599
+
+1 283
+
+1 455
+
+2 143
+
+1 502
+
+-6.1
+
+-30
+
+15 829
+
+13 758
+
+12 070
+
+15 253
+
+19 299
+
+18 161
+
+32
+
+-5.9
+
+Air Borders
+Albania
+
+796
+
+944
+
+617
+
+638
+
+581
+
+853
+
+-9.6
+
+47
+
+7.5
+
+Not specified
+
+397
+
+508
+
+435
+
+458
+
+453
+
+612
+
+20
+
+35
+
+5.4
+
+1 079
+
+1 056
+
+1 003
+
+841
+
+540
+
+596
+
+-44
+
+10
+
+5.3
+
+605
+
+557
+
+461
+
+484
+
+534
+
+487
+
+-13
+
+-8.8
+
+4.3
+
+Brazil
+United States
+Nigeria
+
+393
+
+388
+
+374
+
+435
+
+477
+
+423
+
+9.0
+
+-11
+
+3.7
+
+Algeria
+
+233
+
+504
+
+269
+
+356
+
+299
+
+406
+
+-19
+
+36
+
+3.6
+
+Turkey
+
+282
+
+331
+
+355
+
+352
+
+322
+
+393
+
+19
+
+22
+
+3.5
+
+Russian Federation
+
+459
+
+348
+
+373
+
+389
+
+510
+
+378
+
+8.6
+
+-26
+
+3.3
+
+Syria
+
+64
+
+90
+
+66
+
+117
+
+96
+
+299
+
+232
+
+211
+
+2.6
+
+China
+
+336
+
+256
+
+305
+
+258
+
+345
+
+287
+
+12
+
+-17
+
+2.5
+58
+
+Others
+
+Total air borders
+
+7 451
+
+8 057
+
+6 965
+
+6 537
+
+6 484
+
+6 600
+
+-18
+
+1.8
+
+12 095
+
+13 039
+
+11 223
+
+10 865
+
+10 641
+
+11 334
+
+-13
+
+6.5
+
+Sea Borders
+870
+
+836
+
+452
+
+512
+
+572
+
+433
+
+-48
+
+-24
+
+46
+
+Morocco
+
+Albania
+
+98
+
+75
+
+138
+
+114
+
+168
+
+101
+
+35
+
+-40
+
+11
+
+Not specified
+
+34
+
+29
+
+40
+
+117
+
+43
+
+51
+
+76
+
+19
+
+5.4
+
+Tunisia
+
+19
+
+39
+
+28
+
+26
+
+39
+
+35
+
+-10
+
+-10
+
+3.7
+
+Turkey
+
+35
+
+42
+
+18
+
+30
+
+65
+
+26
+
+-38
+
+-60
+
+2.8
+
+Serbia
+
+75
+
+69
+
+32
+
+33
+
+42
+
+26
+
+-62
+
+-38
+
+2.8
+
+Kiribati
+Russian Federation
+
+1
+
+6
+
+36
+
+23
+
+61
+
+24
+
+300
+
+-61
+
+2.5
+
+457
+
+356
+
+177
+
+316
+
+283
+
+22
+
+-94
+
+-92
+
+2.3
+
+India
+
+42
+
+44
+
+26
+
+89
+
+51
+
+21
+
+-52
+
+-59
+
+2.2
+
+fYROM
+
+14
+
+26
+
+9
+
+15
+
+14
+
+19
+
+-27
+
+36
+
+2.0
+20
+
+Others
+
+Total sea borders
+
+52 of 62
+
+756
+
+692
+
+387
+
+844
+
+715
+
+186
+
+-73
+
+-74
+
+2 401
+
+2 214
+
+1 343
+
+2 119
+
+2 053
+
+944
+
+-57
+
+-54
+
+Annex Table 6.Refusals of entry
+Refusals of entry at the external borders by reasons for refusal and top ten nationalities
+Refused
+persons
+Total
+
+2012 Q4 – Reasons for refusals of entry (see description below)
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+n.a.
+
+Total
+Reasons
+
+Top Ten Nationalities
+Ukraine
+
+4 481
+
+15
+
+106
+
+1 072
+
+171
+
+2 351
+
+241
+
+318
+
+155
+
+22
+
+44
+
+4 495
+
+Georgia
+
+3 303
+
+2
+
+9
+
+2 915
+
+5
+
+59
+
+37
+
+10
+
+284
+
+2
+
+4
+
+3 327
+
+Albania
+
+3 201
+
+66
+
+162
+
+50
+
+17
+
+493
+
+81
+
+361
+
+1 758
+
+60
+
+189
+
+3 237
+
+Russian Federation
+
+2 611
+
+11
+
+9
+
+1 836
+
+30
+
+412
+
+27
+
+166
+
+98
+
+116
+
+22
+
+2 727
+
+Serbia
+
+1 542
+
+26
+
+12
+
+117
+
+4
+
+151
+
+279
+
+445
+
+470
+
+51
+
+9
+
+1 564
+
+Belarus
+
+1 425
+
+4
+
+1
+
+689
+
+1
+
+359
+
+25
+
+243
+
+104
+
+15
+
+5
+
+1 446
+
+Morocco
+
+1 111
+
+1 087
+
+477
+
+58
+
+111
+
+21
+
+135
+
+6
+
+21
+
+203
+
+70
+
+9
+
+Croatia
+
+792
+
+173
+
+0
+
+9
+
+0
+
+34
+
+171
+
+82
+
+126
+
+154
+
+46
+
+795
+
+Turkey
+
+720
+
+38
+
+38
+
+372
+
+19
+
+129
+
+6
+
+35
+
+56
+
+27
+
+37
+
+757
+
+608
+
+2
+
+6
+
+100
+
+0
+
+167
+
+26
+
+56
+
+84
+
+11
+
+251
+
+703
+
+Others
+
+Brazil
+
+10 669
+
+930
+
+648
+
+2 553
+
+304
+
+2 475
+
+313
+
+720
+
+621
+
+278
+
+2 247
+
+11 089
+
+Total
+
+30 439
+
+1 744
+
+1 049
+
+9 824
+
+572
+
+6 765
+
+1 212
+
+2 457
+
+3 959
+
+806
+
+2 863
+
+31 251
+
+Descriptions of the reasons for refusal of entry:
+A has no valid travel document(s);
+B has a false/counterfeit/forged travel document;
+C has no valid visa or residence permit;
+D has a false/counterfeit/forged visa or residence permit;
+E has no appropriate documentation justifying the purpose and conditions of stay;
+F has already stayed for three months during a six months period on the territory of the Member States of the European Union;
+G does not have sufficient means of subsistence in relation to the period and form of stay, or the means to return to the country of origin or transit;
+H is a person for whom an alert has been issued for the purposes of refusing entry in the SIS or in the national register;
+I	is considered to be a threat for public policy, internal security, public health or the international relations of one or more Member States of the European
+Union.
+
+53 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 7.Refusals of entry
+Refusals of entry at the external borders by border type and reason for refusal
+
+2012 Q4
+2011
+
+2012
+
+% change on
+
+per cent
+of total
+
+Highest share
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+C) No valid visa
+
+8 982
+
+7 803
+
+5 933
+
+8 313
+
+11 381
+
+9 824
+
+26
+
+-14
+
+31
+
+Georgia (30%)
+
+E) No justification
+
+6 331
+
+6 888
+
+6 109
+
+5 704
+
+6 728
+
+6 765
+
+-1.8
+
+0.5
+
+22
+
+Ukraine (35%)
+
+year ago
+
+prev. qtr
+
+All Borders
+
+Nationality
+
+H) Alert issued
+
+4 480
+
+3 970
+
+3 352
+
+3 281
+
+5 099
+
+3 959
+
+-0.3
+
+-22
+
+13
+
+Albania (44%)
+
+Reason not available
+
+3 344
+
+3 038
+
+2 540
+
+2 693
+
+3 031
+
+2 863
+
+-5.8
+
+-5.5
+
+9.2
+
+United States (15%)
+
+G) No subsistence
+
+2 799
+
+2 965
+
+2 507
+
+3 400
+
+2 651
+
+2 457
+
+-17
+
+-7.3
+
+7.9
+
+Serbia (18%)
+
+A) No valid document
+
+2 186
+
+1 908
+
+1 775
+
+1 998
+
+2 021
+
+1 744
+
+-8.6
+
+-14
+
+5.6
+
+Morocco (27%)
+
+F) Over 3-month stay
+
+1 333
+
+1 337
+
+1 479
+
+1 142
+
+1 531
+
+1 212
+
+-9.3
+
+-21
+
+3.9
+
+Serbia (23%)
+
+675
+
+752
+
+913
+
+1 004
+
+798
+
+1 049
+
+39
+
+31
+
+3.4
+
+Albania (15%)
+
+B) False document
+I) Threat
+
+581
+
+838
+
+762
+
+816
+
+886
+
+806
+
+-3.8
+
+-9
+
+2.6
+
+Croatia (19%)
+
+D) False visa
+
+403
+
+527
+
+380
+
+374
+
+511
+
+572
+
+8.5
+
+12
+
+1.8
+
+Ukraine (30%)
+
+31 114
+
+30 026
+
+25 750
+
+28 725
+
+34 637
+
+31 251
+
+4.1
+
+-9.8
+
+Total all borders
+Land Borders
+
+Nationality
+
+C) No valid visa
+
+5 874
+
+4 760
+
+3 646
+
+5 521
+
+8 389
+
+7 498
+
+58
+
+-11
+
+41
+
+Georgia (39%)
+
+E) No justification
+
+2 452
+
+2 192
+
+2 185
+
+2 259
+
+3 875
+
+3 530
+
+61
+
+-8.9
+
+19
+
+Ukraine (65%)
+Albania (43%)
+
+H) Alert issued
+
+3 005
+
+2 523
+
+2 167
+
+2 183
+
+3 996
+
+2 912
+
+15
+
+-27
+
+16
+
+G) No subsistence
+
+1 867
+
+1 977
+
+1 725
+
+2 484
+
+1 750
+
+1 527
+
+-23
+
+-13
+
+8.3
+
+Serbia (25%)
+
+F) Over 3-month stay
+
+1 137
+
+1 137
+
+1 221
+
+925
+
+1 336
+
+1 036
+
+-8.9
+
+-22
+
+5.7
+
+Serbia (26%)
+
+A) No valid document
+
+Morocco (57%)
+
+1 037
+
+749
+
+912
+
+896
+
+906
+
+784
+
+4.7
+
+-13
+
+4.3
+
+I) Threat
+
+428
+
+606
+
+475
+
+529
+
+609
+
+460
+
+-24
+
+-24
+
+2.5
+
+Croatia (33%)
+
+B) False document
+
+138
+
+80
+
+310
+
+464
+
+328
+
+305
+
+281
+
+-7
+
+1.7
+
+Albania (50%)
+
+D) False visa
+
+141
+
+179
+
+81
+
+110
+
+192
+
+257
+
+44
+
+34
+
+1.4
+
+Ukraine (66%)
+
+16 079
+
+14 203
+
+12 722
+
+15 371
+
+21 381
+
+18 309
+
+29
+
+-14
+
+Total land borders
+Air Borders
+
+Nationality
+
+E) No justification
+
+3 732
+
+4 475
+
+3 815
+
+3 317
+
+2 590
+
+3 085
+
+-31
+
+19
+
+26
+
+Albania (9.5%)
+
+Reason not available
+
+3 200
+
+2 939
+
+2 466
+
+2 568
+
+2 901
+
+2 778
+
+-5.5
+
+-4.2
+
+23
+
+United States (15%)
+
+C) No valid visa
+
+Russian Fed. (7.7%)
+
+2 386
+
+2 456
+
+1 991
+
+2 050
+
+2 389
+
+2 221
+
+-9.6
+
+-7.0
+
+19
+
+G) No subsistence
+
+829
+
+872
+
+731
+
+822
+
+852
+
+892
+
+2.3
+
+4.7
+
+7.4
+
+Albania (13%)
+
+A) No valid document
+
+627
+
+673
+
+600
+
+589
+
+629
+
+794
+
+18
+
+26
+
+6.6
+
+Unknown (46%)
+Unknown (15%)
+
+B) False document
+
+519
+
+642
+
+568
+
+518
+
+441
+
+712
+
+11
+
+61
+
+5.9
+
+H) Alert issued
+
+747
+
+803
+
+721
+
+644
+
+634
+
+698
+
+-13
+
+10
+
+5.8
+
+Albania (34%)
+
+I) Threat
+
+145
+
+220
+
+276
+
+267
+
+259
+
+319
+
+45
+
+23
+
+2.7
+
+Suriname (16%)
+
+D) False visa
+
+246
+
+331
+
+277
+
+246
+
+295
+
+308
+
+-6.9
+
+4.4
+
+2.6
+
+Nigeria (13%)
+
+F) Over 3-month stay
+
+193
+
+194
+
+257
+
+213
+
+191
+
+173
+
+-11
+
+-9.4
+
+1.4
+
+Brazil (14%)
+
+12 624
+
+13 605
+
+11 702
+
+11 234
+
+11 181
+
+11 980
+
+-12
+
+7.1
+
+Total air borders
+Sea Borders
+
+Nationality
+
+H) Alert issued
+
+728
+
+644
+
+464
+
+454
+
+469
+
+349
+
+-46
+
+-26
+
+36
+
+A) No valid document
+
+522
+
+486
+
+263
+
+513
+
+486
+
+166
+
+-66
+
+-66
+
+17
+
+Albania (78%)
+Kiribati (25%)
+
+E) No justification
+
+147
+
+221
+
+109
+
+128
+
+263
+
+150
+
+-32
+
+-43
+
+16
+
+Albania (53%)
+
+C) No valid visa
+
+722
+
+587
+
+296
+
+742
+
+603
+
+105
+
+-82
+
+-83
+
+11
+
+Tunisia (14%)
+
+Reason not available
+
+144
+
+99
+
+74
+
+125
+
+130
+
+85
+
+-14
+
+-35
+
+8.8
+
+Albania (21%)
+
+G) No subsistence
+
+103
+
+116
+
+51
+
+94
+
+49
+
+38
+
+-67
+
+-22
+
+4.0
+
+Albania (82%)
+
+B) False document
+
+18
+
+30
+
+35
+
+22
+
+29
+
+32
+
+6.7
+
+10
+
+3.3
+
+Morocco (41%)
+
+I) Threat
+D) False visa
+F) Over 3-month stay
+
+Total sea borders
+
+54 of 62
+
+8
+
+12
+
+11
+
+20
+
+18
+
+27
+
+125
+
+50
+
+2.8
+
+Albania (81%)
+
+16
+
+17
+
+22
+
+18
+
+24
+
+7
+
+-59
+
+-71
+
+0.7
+
+Morocco (43%)
+
+0.3
+
+Albania
+
+3
+
+6
+
+1
+
+4
+
+4
+
+3
+
+-50
+
+-25
+
+2 411
+
+2 218
+
+1 326
+
+2 120
+
+2 075
+
+962
+
+-57
+
+-54
+
+Annex Table 8.Applications for asylum
+Applications for international protection by top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Top Ten Nationalities
+Syria
+
+2 750
+
+2 555
+
+2 447
+
+3 545
+
+7 505
+
+8 927
+
+249
+
+19
+
+11
+
+Afghanistan
+
+8 552
+
+7 626
+
+6 306
+
+6 736
+
+7 151
+
+7 437
+
+-2.5
+
+4.0
+
+8.9
+
+Serbia
+
+1 770
+
+5 771
+
+3 352
+
+1 691
+
+4 576
+
+6 321
+
+9.5
+
+38
+
+7.6
+
+Russian Federation
+
+3 643
+
+3 730
+
+2 697
+
+2 911
+
+4 442
+
+6 300
+
+69
+
+42
+
+7.5
+
+Pakistan
+
+3 778
+
+3 904
+
+3 126
+
+3 540
+
+3 966
+
+4 785
+
+23
+
+21
+
+5.7
+
+Not specified
+
+1 460
+
+4 172
+
+3 881
+
+2 999
+
+2 999
+
+4 442
+
+6.5
+
+48
+
+5.3
+
+Somalia
+
+3 288
+
+3 714
+
+2 820
+
+3 964
+
+3 570
+
+3 925
+
+5.7
+
+9.9
+
+4.7
+
+Iran
+
+3 012
+
+3 276
+
+2 488
+
+2 669
+
+3 271
+
+3 657
+
+12
+
+12
+
+4.4
+
+Eritrea
+
+2 191
+
+2 053
+
+2 129
+
+2 288
+
+2 880
+
+2 967
+
+45
+
+3.0
+
+3.6
+
+Iraq
+
+4 159
+
+3 503
+
+2 660
+
+2 579
+
+2 863
+
+2 770
+
+-21
+
+-3.2
+
+3.3
+
+Others
+
+32 810
+
+31 570
+
+24 951
+
+26 669
+
+29 091
+
+31 915
+
+1.1
+
+9.7
+
+38
+
+Total
+
+67 413
+
+71 874
+
+56 857
+
+59 591
+
+72 314
+
+83 446
+
+16
+
+15
+
+55 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 9.Document fraud
+False documents detected at BCPs by border type and top ten claimed nationalities
+
+2012 Q4
+2011
+
+2012
+
+% change on
+
+per cent
+of total
+
+Highest share
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+1 093
+
+1 196
+
+1 240
+
+1 208
+
+1 223
+
+1 834
+
+53
+
+50
+
+71
+
+Syria (20%)
+
+Land
+
+571
+
+494
+
+740
+
+1 060
+
+819
+
+654
+
+32
+
+-20
+
+25
+
+Albania (55%)
+
+Sea
+
+167
+
+145
+
+103
+
+98
+
+134
+
+84
+
+-42
+
+-37
+
+3.3
+
+Morocco (55%)
+
+year ago
+
+prev. qtr
+
+Border Type
+
+Nationality Claimed
+
+Air
+
+Top Ten Nationalities Claimed
+
+Nationality Document
+
+Syria
+
+23
+
+33
+
+31
+
+60
+
+92
+
+412
+
+1 148
+
+348
+
+16
+
+Turkey (26%)
+
+Albania
+
+49
+
+75
+
+353
+
+909
+
+498
+
+391
+
+421
+
+-21
+
+15
+
+Greece (92%)
+Morocco (23%)
+
+253
+
+211
+
+197
+
+82
+
+56
+
+115
+
+-45
+
+105
+
+4.5
+
+Bangladesh
+
+Morocco
+
+14
+
+18
+
+21
+
+50
+
+62
+
+108
+
+500
+
+74
+
+4.2
+
+Italy (56%)
+
+Turkey
+
+53
+
+50
+
+53
+
+44
+
+55
+
+96
+
+92
+
+75
+
+3.7
+
+Turkey (41%)
+
+Afghanistan
+
+30
+
+22
+
+53
+
+51
+
+67
+
+95
+
+332
+
+42
+
+3.7
+
+United Kingdom (26%)
+
+129
+
+151
+
+78
+
+58
+
+33
+
+78
+
+-48
+
+136
+
+3.0
+
+France (13%)
+
+Tunisia
+
+16
+
+20
+
+27
+
+19
+
+28
+
+77
+
+285
+
+175
+
+3.0
+
+Italy (91%)
+
+Pakistan
+
+27
+
+28
+
+64
+
+94
+
+44
+
+75
+
+168
+
+70
+
+2.9
+
+Greece (48%)
+
+Unknown
+
+Nigeria
+
+74
+
+63
+
+108
+
+75
+
+58
+
+74
+
+17
+
+28
+
+2.9
+
+Nigeria (28%)
+
+Others
+
+1 163
+
+1 164
+
+1 098
+
+924
+
+1 183
+
+1 051
+
+-9.7
+
+-11
+
+41
+
+France (12%)
+
+Total
+
+1 831
+
+1 835
+
+2 083
+
+2 366
+
+2 176
+
+2 572
+
+40
+
+18
+
+56 of 62
+
+Annex Table 10.Document fraud
+False documents detected at BCPs reported by type of document and type of fraud
+
+2012 Q4
+2011
+
+2012
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Passports
+
+723
+
+721
+
+705
+
+647
+
+769
+
+Forged
+
+228
+
+285
+
+268
+
+288
+
+328
+
+year ago
+
+prev. qtr
+
+1 056
+
+46
+
+37
+
+456
+
+60
+
+39
+
+per cent
+of total
+
+Document Type
+
+Highest share
+Nationality Document
+Turkey (8.2%)
+
+43
+
+Bangladesh (7.5%)
+Sweden (16%)
+
+Authentic
+
+199
+
+220
+
+192
+
+151
+
+241
+
+274
+
+25
+
+14
+
+26
+
+Counterfeit
+
+119
+
+74
+
+98
+
+99
+
+74
+
+181
+
+145
+
+145
+
+17
+
+Turkey (31%)
+
+No more details
+
+165
+
+135
+
+133
+
+98
+
+108
+
+75
+
+-44
+
+-31
+
+7.1
+
+South Africa (12%)
+
+11
+
+7
+
+14
+
+11
+
+18
+
+69
+
+886
+
+283
+
+6.5
+
+Germany (71%)
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+n.a.
+
+n.a.
+
+0.1
+
+Other and stateless
+
+55
+
+Turkey (35%)
+Spain (40%)
+
+Stolen blank
+Pseudo
+ID cards
+
+284
+
+257
+
+238
+
+247
+
+217
+
+242
+
+-5.8
+
+12
+
+Counterfeit
+
+113
+
+110
+
+131
+
+112
+
+102
+
+134
+
+22
+
+31
+
+Italy (22%)
+
+Authentic
+
+84
+
+77
+
+71
+
+47
+
+52
+
+47
+
+-39
+
+-9.6
+
+19
+
+Forged
+
+24
+
+19
+
+11
+
+44
+
+13
+
+37
+
+95
+
+185
+
+15
+
+Italy (41%)
+
+Stolen blank
+
+12
+
+12
+
+12
+
+18
+
+7
+
+13
+
+8.3
+
+86
+
+5.4
+
+Italy (77%)
+
+No more details
+
+50
+
+39
+
+12
+
+25
+
+42
+
+11
+
+-72
+
+-74
+
+4.5
+
+Italy (55%)
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+n.a.
+
+-100
+46
+
+Germany (24%)
+
+Pseudo
+Visa
+
+178
+
+176
+
+183
+
+170
+
+167
+
+242
+
+38
+
+45
+
+Counterfeit
+
+123
+
+112
+
+118
+
+95
+
+83
+
+111
+
+-0.9
+
+34
+
+16
+
+18
+
+28
+
+22
+
+41
+
+79
+
+339
+
+93
+
+33
+
+Italy (58%)
+
+9
+
+6
+
+11
+
+16
+
+7
+
+22
+
+267
+
+214
+
+9.1
+
+Spain (45%)
+
+Forged
+Stolen blank
+No more details
+
+Italy (27%)
+
+22
+
+37
+
+17
+
+27
+
+23
+
+17
+
+-54
+
+-26
+
+7.0
+
+France (53%)
+
+Authentic
+
+8
+
+3
+
+8
+
+10
+
+13
+
+13
+
+333
+
+0
+
+5.4
+
+Italy (77%)
+
+Pseudo
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+n.a.
+
+n.a.
+
+Residence permits
+
+297
+
+384
+
+345
+
+308
+
+330
+
+389
+
+1.3
+
+18
+
+Counterfeit
+
+150
+
+179
+
+172
+
+142
+
+161
+
+161
+
+-10
+
+0
+
+41
+
+Greece (20%)
+
+Stolen blank
+
+61
+
+71
+
+59
+
+67
+
+56
+
+98
+
+38
+
+75
+
+25
+
+Greece (59%)
+
+Greece (32%)
+
+Authentic
+
+56
+
+85
+
+71
+
+49
+
+67
+
+66
+
+-22
+
+-1.5
+
+17
+
+France (33%)
+
+Forged
+
+19
+
+24
+
+27
+
+34
+
+25
+
+50
+
+108
+
+100
+
+13
+
+Greece (66%)
+
+No more details
+
+10
+
+24
+
+16
+
+15
+
+21
+
+14
+
+-42
+
+-33
+
+3.6
+
+Belgium (43%)
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+-100
+
+n.a.
+
+Pseudo
+Stamps
+
+279
+
+225
+
+577
+
+959
+
+630
+
+509
+
+126
+
+-19
+
+Counterfeit
+
+195
+
+160
+
+502
+
+931
+
+583
+
+470
+
+194
+
+-19
+
+92
+
+Forged
+
+11
+
+8
+
+0
+
+27
+
+42
+
+35
+
+338
+
+-17
+
+6.9
+
+Italy (17%)
+
+No more details
+
+73
+
+57
+
+75
+
+1
+
+5
+
+4
+
+-93
+
+-20
+
+0.8
+
+Greece (50%)
+
+Greece (70%)
+Greece (75%)
+
+Other
+
+70
+
+72
+
+35
+
+35
+
+63
+
+134
+
+86
+
+113
+
+Counterfeit
+
+30
+
+52
+
+16
+
+17
+
+47
+
+101
+
+94
+
+115
+
+75
+
+Italy (77%)
+
+5
+
+8
+
+9
+
+9
+
+12
+
+23
+
+188
+
+92
+
+17
+
+Italy (83%)
+
+Forged
+
+32
+
+5
+
+2
+
+5
+
+3
+
+7
+
+40
+
+133
+
+5.2
+
+France (29%)
+
+Pseudo
+
+2
+
+0
+
+2
+
+3
+
+0
+
+3
+
+n.a.
+
+n.a.
+
+2.2
+
+Unknown (67%)
+
+Authentic
+
+No more details
+
+0
+
+6
+
+0
+
+1
+
+1
+
+0
+
+-100
+
+-100
+
+Stolen blank
+
+1
+
+1
+
+6
+
+0
+
+0
+
+0
+
+-100
+
+n.a.
+
+1 831
+
+1 835
+
+2 083
+
+2 366
+
+2 176
+
+2 572
+
+40
+
+18
+
+Total
+
+Italy (73%)
+
+57 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 11A.Document fraud
+Top ten combinations of nationality of document and document fraud by document type
+
+2012 Q4
+2011
+
+2012
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+723
+
+721
+
+705
+
+647
+
+769
+
+TUR-Counterfeit
+
+16
+
+18
+
+7
+
+9
+
+DEU-Stolen blank
+
+2
+
+0
+
+3
+
+3
+
+per cent
+of total
+
+prev. qtr
+
+1 056
+
+46
+
+37
+
+14
+
+56
+
+211
+
+300
+
+5.3
+
+Syria (84%)
+
+9
+
+49
+
+n.a.
+
+444
+
+4.6
+
+Syria (100%)
+Syria (32%)
+
+Document Type
+Passports
+
+Highest share
+
+year ago
+
+Nationality Claimed
+Syria (25%)
+
+SWE-Authentic
+
+6
+
+13
+
+6
+
+10
+
+16
+
+44
+
+238
+
+175
+
+4.2
+
+BGD-Forged
+
+4
+
+4
+
+6
+
+11
+
+16
+
+34
+
+750
+
+113
+
+3.2
+
+Bangladesh
+
+GBR-Forged
+
+7
+
+4
+
+12
+
+25
+
+23
+
+34
+
+750
+
+48
+
+3.2
+
+Afghanistan (74%)
+Morocco (12%)
+
+20
+
+26
+
+20
+
+13
+
+27
+
+33
+
+27
+
+22
+
+3.1
+
+DZA-Forged
+
+FRA-Authentic
+
+5
+
+21
+
+14
+
+7
+
+12
+
+27
+
+29
+
+125
+
+2.6
+
+Algeria (48%)
+
+PAK-Forged
+
+7
+
+4
+
+2
+
+2
+
+6
+
+24
+
+500
+
+300
+
+2.3
+
+Pakistan (71%)
+
+FRA-Counterfeit
+FRA-Forged
+
+7
+
+5
+
+7
+
+2
+
+6
+
+22
+
+340
+
+267
+
+2.1
+
+Syria (41%)
+
+20
+
+25
+
+5
+
+23
+
+18
+
+20
+
+-20
+
+11
+
+1.9
+
+Cameroon (20%)
+
+68
+
+Others
+
+629
+
+601
+
+623
+
+542
+
+622
+
+713
+
+19
+
+15
+
+Id cards
+
+284
+
+257
+
+238
+
+247
+
+217
+
+242
+
+-5.8
+
+12
+
+Syria (18%)
+Syria (22%)
+
+TUR-Counterfeit
+
+3
+
+5
+
+2
+
+2
+
+4
+
+47
+
+840
+
+1 075
+
+19
+
+Syria (89%)
+
+ITA-Counterfeit
+
+33
+
+27
+
+42
+
+46
+
+19
+
+21
+
+-22
+
+11
+
+8.7
+
+Spain (24%)
+
+ESP-Authentic
+
+37
+
+37
+
+41
+
+20
+
+16
+
+19
+
+-49
+
+19
+
+7.9
+
+Italy (32%)
+
+7
+
+11
+
+3
+
+9
+
+3
+
+15
+
+36
+
+400
+
+6.2
+
+Albania (60%)
+
+ITA-Forged
+BGR-Counterfeit
+
+8
+
+6
+
+6
+
+7
+
+8
+
+11
+
+83
+
+38
+
+4.5
+
+Bulgaria (36%)
+
+ITA-Stolen blank
+
+10
+
+12
+
+11
+
+15
+
+3
+
+10
+
+-17
+
+233
+
+4.1
+
+Albania (90%)
+
+FRA-Counterfeit
+
+8
+
+5
+
+7
+
+4
+
+3
+
+10
+
+100
+
+233
+
+4.1
+
+Syria (40%)
+
+ROU-Counterfeit
+
+7
+
+19
+
+18
+
+12
+
+13
+
+7
+
+-63
+
+-46
+
+2.9
+
+Romania (29%)
+Morocco (33%)
+
+FRA-Authentic
+
+11
+
+9
+
+5
+
+4
+
+10
+
+6
+
+-33
+
+-40
+
+2.5
+
+ITA-No more details
+
+16
+
+8
+
+3
+
+9
+
+8
+
+6
+
+-25
+
+-25
+
+2.5
+
+Spain (67%)
+
+Others
+
+144
+
+118
+
+100
+
+119
+
+130
+
+90
+
+-24
+
+-31
+
+37
+
+Morocco (16%)
+
+Visa
+
+178
+
+176
+
+183
+
+170
+
+167
+
+242
+
+38
+
+45
+
+1
+
+2
+
+7
+
+10
+
+23
+
+46
+
+2 200
+
+100
+
+19
+
+Bangladesh (57%)
+
+DEU-Counterfeit
+
+18
+
+20
+
+17
+
+14
+
+22
+
+27
+
+35
+
+23
+
+11
+
+Afghanistan (30%)
+
+ITA-Forged
+
+Bangladesh (14%)
+
+FRA-Counterfeit
+
+39
+
+31
+
+40
+
+44
+
+27
+
+24
+
+-23
+
+-11
+
+9.9
+
+Palestine (25%)
+
+BEL-Counterfeit
+
+2
+
+0
+
+1
+
+0
+
+1
+
+12
+
+n.a.
+
+1 100
+
+5.0
+
+Turkey (58%)
+
+ESP-Stolen blank
+
+0
+
+2
+
+0
+
+2
+
+0
+
+10
+
+400
+
+n.a.
+
+4.1
+
+Syria (60%)
+
+ITA-Authentic
+
+0
+
+0
+
+5
+
+7
+
+10
+
+10
+
+n.a.
+
+0
+
+4.1
+
+Bangladesh (70%)
+
+FRA-No more details
+
+6
+
+11
+
+10
+
+8
+
+3
+
+9
+
+-18
+
+200
+
+3.7
+
+France (33%)
+
+ESP-Counterfeit
+
+2
+
+9
+
+14
+
+3
+
+9
+
+9
+
+0
+
+0
+
+3.7
+
+Afghanistan (67%)
+
+AUT-Counterfeit
+
+1
+
+0
+
+0
+
+3
+
+0
+
+8
+
+n.a.
+
+n.a.
+
+3.3
+
+Nigeria (63%)
+
+ITA-Counterfeit
+
+1
+
+5
+
+19
+
+9
+
+5
+
+8
+
+60
+
+60
+
+3.3
+
+Kosovo* (25%)
+
+108
+
+96
+
+70
+
+70
+
+67
+
+79
+
+-18
+
+18
+
+33
+
+Syria (13%)
+
+Others
+
+Total: see Table 11B
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+58 of 62
+
+Annex Table 11b.Document fraud (cont.)
+Top ten combinations of nationality of document and document fraud by document type
+
+2012 Q4
+2011
+
+2012
+
+% change on
+
+per cent
+of total
+
+Highest share
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+297
+
+384
+
+345
+
+308
+
+330
+
+389
+
+1.3
+
+18
+
+GRC-Stolen blank
+
+10
+
+25
+
+21
+
+47
+
+33
+
+58
+
+132
+
+76
+
+DEU-Stolen blank
+
+42
+
+39
+
+24
+
+18
+
+17
+
+36
+
+-7.7
+
+5
+
+0
+
+9
+
+17
+
+14
+
+33
+
+n.a.
+
+GRC-Counterfeit
+
+12
+
+5
+
+9
+
+5
+
+7
+
+32
+
+540
+
+357
+
+8.2
+
+Syria (53%)
+
+ITA-Counterfeit
+
+44
+
+33
+
+47
+
+63
+
+46
+
+31
+
+-6.1
+
+-33
+
+8.0
+
+Morocco (29%)
+Armenia (32%)
+
+Document Type
+Residence permits
+
+GRC-Forged
+
+Nationality Claimed
+Syria (14%)
+15
+
+Pakistan (29%)
+
+112
+
+9.3
+
+Afghanistan (36%)
+
+136
+
+8.5
+
+Pakistan (48%)
+
+BEL-Counterfeit
+
+56
+
+78
+
+21
+
+20
+
+23
+
+25
+
+-68
+
+8.7
+
+6.4
+
+FRA-Authentic
+
+9
+
+9
+
+9
+
+9
+
+20
+
+22
+
+144
+
+10
+
+5.7
+
+Mali (50%)
+
+ESP-Authentic
+
+26
+
+39
+
+33
+
+21
+
+20
+
+18
+
+-54
+
+-10
+
+4.6
+
+Morocco (28%)
+
+CHE-Counterfeit
+
+6
+
+19
+
+29
+
+9
+
+5
+
+16
+
+-16
+
+220
+
+4.1
+
+Kosovo* (25%)
+
+ESP-Counterfeit
+
+7
+
+20
+
+27
+
+14
+
+9
+
+14
+
+-30
+
+56
+
+3.6
+
+Morocco (29%)
+
+27
+
+Morocco (13%)
+
+Others
+
+80
+
+117
+
+116
+
+85
+
+136
+
+104
+
+-11
+
+-24
+
+Stamps
+
+279
+
+225
+
+577
+
+959
+
+630
+
+509
+
+126
+
+- 19
+
+GRC-Counterfeit
+
+5
+
+1
+
+254
+
+646
+
+405
+
+352
+
+35 100
+
+-13
+
+69
+
+POL-Counterfeit
+
+117
+
+90
+
+78
+
+34
+
+29
+
+27
+
+-70
+
+-6.9
+
+5.3
+
+Ukraine
+
+FRA-Counterfeit
+
+3
+
+3
+
+20
+
+2
+
+8
+
+13
+
+333
+
+63
+
+2.6
+
+Unknown (15%)
+Pakistan (36%)
+
+Albania (70%)
+Albania (99%)
+
+DEU-Counterfeit
+
+1
+
+2
+
+5
+
+8
+
+10
+
+11
+
+450
+
+10
+
+2.2
+
+TUR-Counterfeit
+
+0
+
+0
+
+0
+
+2
+
+1
+
+10
+
+n.a.
+
+900
+
+2.0
+
+Syria (100%)
+
+SVK-Counterfeit
+
+16
+
+11
+
+18
+
+7
+
+7
+
+9
+
+-18
+
+29
+
+1.8
+
+Ukraine (100%)
+Bangladesh (67%)
+
+ITA-Forged
+
+0
+
+0
+
+0
+
+3
+
+7
+
+6
+
+n.a.
+
+-14
+
+1.2
+
+SVN-Forged
+
+0
+
+0
+
+0
+
+0
+
+2
+
+6
+
+n.a.
+
+200
+
+1.2
+
+Albania (83%)
+
+10
+
+6
+
+9
+
+5
+
+12
+
+5
+
+-17
+
+-58
+
+1.0
+
+Bosnia and Herzegovina (40%)
+
+HUN-Counterfeit
+
+0
+
+0
+
+0
+
+0
+
+1
+
+5
+
+n.a.
+
+400
+
+1.0
+
+Angola (40%)
+
+Others
+
+PRT-Forged
+
+127
+
+112
+
+193
+
+252
+
+148
+
+65
+
+-42
+
+-56
+
+13
+
+Turkey (12%)
+
+Other
+
+70
+
+72
+
+35
+
+35
+
+63
+
+134
+
+86
+
+113
+
+ITA-Counterfeit
+
+9
+
+13
+
+2
+
+7
+
+12
+
+78
+
+500
+
+550
+
+58
+
+Tunisia (87%)
+
+ITA-Authentic
+
+1
+
+2
+
+5
+
+5
+
+7
+
+19
+
+850
+
+171
+
+14
+
+Bangladesh (84%)
+
+LKA-Counterfeit
+
+0
+
+21
+
+0
+
+0
+
+0
+
+6
+
+-71
+
+n.a.
+
+4.5
+
+Sri Lanka
+
+BGR-Counterfeit
+
+0
+
+4
+
+1
+
+0
+
+0
+
+3
+
+-25
+
+n.a.
+
+2.2
+
+Romania (33%)
+
+Tunisia (51%)
+
+FRA-Counterfeit
+
+3
+
+0
+
+2
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+1.5
+
+Romania (50%)
+
+FRA-Forged
+
+1
+
+1
+
+0
+
+0
+
+0
+
+2
+
+100
+
+n.a.
+
+1.5
+
+Cameroon (50%)
+
+XXP-Forged
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+1.5
+
+Palestine
+
+GTM-Counterfeit
+
+1
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+1.5
+
+Colombia
+Romania (50%)
+
+UNK-Pseudo
+
+1
+
+0
+
+1
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+1.5
+
+ROU-Counterfeit
+
+0
+
+1
+
+1
+
+0
+
+1
+
+2
+
+100
+
+100
+
+1.5
+
+Romania
+
+Others
+
+54
+
+30
+
+23
+
+23
+
+43
+
+16
+
+-47
+
+-63
+
+12
+
+Algeria (6.3%)
+
+Total
+
+1 831
+
+1 835
+
+2 083
+
+2 366
+
+2 176
+
+2 572
+
+40
+
+18
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+59 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Annex Table 12.Return decisions issued
+Decisions issued by top ten nationalities
+
+2012 Q4
+2011
+
+2012
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Top Ten Nationalities
+Pakistan
+
+8 569
+
+9 073
+
+5 854
+
+5 782
+
+7 097
+
+5 974
+
+-34
+
+-16
+
+9.8
+
+Albania
+
+1 506
+
+2 140
+
+3 568
+
+4 149
+
+3 615
+
+4 024
+
+88
+
+11
+
+6.6
+
+Morocco
+
+2 392
+
+3 465
+
+4 214
+
+4 022
+
+3 744
+
+3 456
+
+-0.3
+
+-7.7
+
+5.7
+
+Afghanistan
+
+7 243
+
+9 208
+
+6 421
+
+7 198
+
+6 321
+
+3 207
+
+-65
+
+-49
+
+5.3
+
+Algeria
+
+2 667
+
+4 573
+
+3 696
+
+3 955
+
+3 269
+
+2 851
+
+-38
+
+-13
+
+4.7
+
+India
+
+2 091
+
+2 579
+
+3 088
+
+2 467
+
+2 360
+
+2 713
+
+5.2
+
+15
+
+4.4
+
+Bangladesh
+
+1 924
+
+2 427
+
+3 495
+
+3 382
+
+4 596
+
+2 514
+
+3.6
+
+-45
+
+4.1
+
+Ukraine
+
+2 229
+
+2 460
+
+2 163
+
+2 160
+
+2 445
+
+2 487
+
+1.1
+
+1.7
+
+4.1
+
+Nigeria
+
+1 610
+
+1 901
+
+2 455
+
+2 251
+
+2 327
+
+2 312
+
+22
+
+-0.6
+
+3.8
+
+743
+
+820
+
+1 026
+
+1 370
+
+3 561
+
+2 172
+
+165
+
+-39
+
+3.6
+
+Others
+
+26 415
+
+28 664
+
+33 924
+
+31 155
+
+31 794
+
+29 315
+
+2.3
+
+-7.8
+
+48
+
+Total
+
+57 389
+
+67 310
+
+69 904
+
+67 891
+
+71 129
+
+61 025
+
+-9.3
+
+-14
+
+Syria
+
+Annex Table 13.Effective returns
+People effectively returned to third countries by top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Top Ten Nationalities
+Albania
+
+3 386
+
+3 597
+
+3 028
+
+3 071
+
+2 903
+
+4 166
+
+16
+
+44
+
+9.9
+
+Pakistan
+
+1 547
+
+2 193
+
+2 366
+
+2 490
+
+1 831
+
+3 805
+
+74
+
+108
+
+9.0
+
+India
+
+1 926
+
+2 271
+
+2 388
+
+2 204
+
+1 973
+
+2 362
+
+4.0
+
+20
+
+5.6
+
+Ukraine
+
+1 861
+
+1 963
+
+1 473
+
+1 906
+
+2 106
+
+2 145
+
+9.3
+
+1.9
+
+5.1
+
+Serbia
+
+1 207
+
+1 209
+
+1 683
+
+1 881
+
+1 989
+
+1 941
+
+61
+
+-2.4
+
+4.6
+
+Russian Federation
+
+1 605
+
+1 555
+
+1 470
+
+1 539
+
+2 078
+
+1 782
+
+15
+
+-14
+
+4.2
+
+Morocco
+
+1 582
+
+1 837
+
+2 078
+
+2 020
+
+1 888
+
+1 711
+
+-6.9
+
+-9.4
+
+4.1
+
+702
+
+951
+
+1 078
+
+1 090
+
+806
+
+1 674
+
+76
+
+108
+
+4.0
+
+Afghanistan
+
+937
+
+1 341
+
+1 204
+
+1 219
+
+915
+
+1 196
+
+-11
+
+31
+
+2.8
+
+Kosovo*
+
+744
+
+828
+
+706
+
+973
+
+776
+
+1 171
+
+41
+
+51
+
+2.8
+
+Others
+
+22 142
+
+23 840
+
+21 170
+
+22 038
+
+20 993
+
+20 204
+
+-15
+
+-3.8
+
+48
+
+Total
+
+37 639
+
+41 585
+
+38 644
+
+40 431
+
+38 258
+
+42 157
+
+1.4
+
+10
+
+Bangladesh
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo
+declaration of independence.
+
+60 of 62
+
+Annex Table 14.Effective returns by type of return
+People effectively returned to third countries by type of return and top ten nationalities
+
+2012 Q4
+2011
+Q3
+
+2012
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+year ago
+
+prev. qtr
+
+per cent
+of total
+
+Type of Return
+Forced
+Enforced by Member State
+Not specified
+Enforced by Joint Operation
+
+20 203
+
+23 452
+
+19 625
+
+21 273
+
+18 892
+
+22 840
+
+-2.6
+
+21
+
+17 464
+
+20 742
+
+17 077
+
+18 423
+
+14 976
+
+20 305
+
+-2.1
+
+36
+
+54
+48
+
+2 383
+
+2 266
+
+2 211
+
+2 241
+
+3 471
+
+2 192
+
+-3.3
+
+-37
+
+5.2
+
+356
+
+444
+
+337
+
+609
+
+445
+
+343
+
+-23
+
+-23
+
+0.8
+
+Voluntary
+
+14 936
+
+15 658
+
+16 123
+
+16 572
+
+15 755
+
+17 112
+
+9.3
+
+8.6
+
+41
+
+Others
+
+8 494
+
+8 807
+
+8 586
+
+9 577
+
+8 464
+
+9 767
+
+11
+
+15
+
+23
+
+IOM-assisted
+
+3 531
+
+3 975
+
+4 254
+
+3 984
+
+3 423
+
+3 761
+
+-5.4
+
+9.9
+
+8.9
+
+Not specified
+
+2 911
+
+2 876
+
+3 283
+
+3 011
+
+3 868
+
+3 584
+
+25
+
+-7.3
+
+8.5
+
+2 500
+
+2 475
+
+2 896
+
+2 586
+
+3 611
+
+2 205
+
+-11
+
+-39
+
+5.2
+
+37 639
+
+41 585
+
+38 644
+
+40 431
+
+38 453
+
+42 157
+
+1.4
+
+10
+
+Not specified
+
+Total
+
+100
+
+Top Ten Nationalities
+Forced
+Albania
+
+3 265
+
+3 436
+
+2 871
+
+2 864
+
+2 579
+
+3 649
+
+6.2
+
+41
+
+8.7
+
+Pakistan
+
+968
+
+1 494
+
+1 574
+
+1 759
+
+997
+
+2 862
+
+92
+
+187
+
+6.8
+
+Bangladesh
+
+392
+
+650
+
+669
+
+706
+
+501
+
+1 304
+
+101
+
+160
+
+3.1
+
+Afghanistan
+
+703
+
+1 053
+
+891
+
+950
+
+606
+
+946
+
+-10
+
+56
+
+2.2
+
+2 067
+
+2 783
+
+1 277
+
+1 511
+
+1 575
+
+861
+
+-69
+
+-45
+
+2.0
+
+India
+
+696
+
+766
+
+843
+
+872
+
+899
+
+807
+
+5.4
+
+-10
+
+1.9
+
+Kosovo*
+
+339
+
+443
+
+306
+
+584
+
+383
+
+765
+
+73
+
+100
+
+1.8
+
+Morocco
+
+649
+
+856
+
+870
+
+847
+
+830
+
+765
+
+-11
+
+-7.8
+
+1.8
+
+Serbia
+
+644
+
+770
+
+741
+
+785
+
+659
+
+745
+
+-3.2
+
+13
+
+1.8
+
+Algeria
+
+552
+
+609
+
+624
+
+615
+
+580
+
+716
+
+18
+
+23
+
+1.7
+
+Others
+
+9 928
+
+10 592
+
+8 959
+
+9 780
+
+9 283
+
+9 420
+
+-11
+
+1.5
+
+22
+
+20 203
+
+23 452
+
+19 625
+
+21 273
+
+18 893
+
+22 840
+
+-2.6
+
+-21
+
+Ukraine
+
+1 380
+
+1 502
+
+1 124
+
+1 483
+
+1 707
+
+1 754
+
+17
+
+2.8
+
+4.2
+
+India
+
+1 223
+
+1 500
+
+1 536
+
+1 328
+
+1 038
+
+1 547
+
+3.1
+
+49
+
+3.7
+
+Russian Federation
+
+1 278
+
+1 224
+
+1 132
+
+1 171
+
+1 741
+
+1 471
+
+20
+
+-16
+
+3.5
+
+Serbia
+
+562
+
+437
+
+938
+
+1 093
+
+1 322
+
+1 186
+
+171
+
+-10
+
+2.8
+
+Pakistan
+
+561
+
+659
+
+770
+
+708
+
+680
+
+908
+
+38
+
+34
+
+2.2
+
+fYROM
+
+564
+
+404
+
+377
+
+442
+
+669
+
+657
+
+63
+
+-1.8
+
+1.6
+
+Brazil
+
+637
+
+979
+
+758
+
+989
+
+414
+
+536
+
+-45
+
+29
+
+1.3
+
+China
+
+685
+
+798
+
+903
+
+759
+
+563
+
+476
+
+-40
+
+-15
+
+1.1
+
+Albania
+
+106
+
+149
+
+143
+
+201
+
+309
+
+447
+
+200
+
+45
+
+1.1
+
+Nigeria
+
+466
+
+534
+
+429
+
+433
+
+336
+
+441
+
+-17
+
+31
+
+1.0
+
+Others
+
+7 474
+
+7 472
+
+8 013
+
+7 965
+
+6 976
+
+7 689
+
+2.9
+
+10
+
+18
+
+14 936
+
+15 658
+
+16 123
+
+16 572
+
+15 867
+
+17 112
+
+9.3
+
+8,6
+
+Tunisia
+
+Total Forced Returns
+Voluntary
+
+Total Voluntary Returns
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+61 of 62
+
+Frontex · FRAN Quarterly · q4 2012
+
+Sources and Methods
+For the data concerning detections at the external borders, some of the border types are
+not applicable to all FRAN Member States.
+This pertains to data on all FRAN indicators
+since the data are provided disaggregated
+by border type. The definitions of detections
+at land borders are therefore not applicable (excluding borders with non-Schengen
+principalities) for Belgium, the Czech Republic, Denmark, France, Germany, Iceland,
+Ireland, Italy, Luxembourg, Malta, the Netherlands, Portugal, Sweden, Switzerland and
+the UK. For Cyprus, the land border refers to
+the Green Line demarcation with the area
+not under the effective control of the government of the Republic of Cyprus. For sea
+borders, the definitions are not applicable for
+land-locked Member States including Austria,
+the Czech Republic, Hungary, Luxembourg,
+Slovakia and Switzerland.
+In addition, data on detections of illegal border-crossing at land, air and sea BCPs (1B) are
+not available for Iceland, Ireland and Spain
+and in Greece, these detections are included
+in the data for Indicator 1A. Data for Norway only includes detections of illegal border-crossing at land and sea BCPs (1B), not
+between BCPs (1A).
+In Italy, detections of illegal border-crossing
+at sea BCPs are only reported for intra-EU
+border-crossing from Greece. Data on detections of illegal border-crossing between
+sea BCPs (1A) are not available for Ireland.
+
+62 of 62
+
+Data on apprehension (FRAN Indicator 2) of
+facilitators is not available for Ireland. For Italy, the data are not disaggregated by border
+type, but are reported as total apprehensions (not specified). Data for Italy and Norway also include the facilitation of illegal stay
+and work. For Romania, the data include
+land intra-EU detections on exit at the border with Hungary.
+For the data concerning detections of illegal
+stay (FRAN Indicator 3), data on detections
+at exit are not available for Denmark, Ireland,
+Italy, Spain and the UK.
+Data on refusals of entry (FRAN Indicator 4)
+at the external EU borders are not disaggregated by reason of refusal for Ireland and
+the UK. Refusals of entry at the Spanish land
+borders at Ceuta and Melilla (without the issuance of a refusal form) are reported separately and are not included in the presented
+FRAN data.
+The data on applications for international
+protection (FRAN Indicator 5) are not disaggregated by place of application (type of
+border on entry or inland applications) for
+Austria, the Czech Republic and Slovenia. For
+these countries, only the total number of applications is reported. For France, only asylum applications at the external borders are
+reported, not inland applications. For Switzerland, requests for asylum at the Swiss
+Embassies abroad are also reported and considered as inland applications in the FRAN
+data. For the UK, data reported for applications at air BCPs also include applications at
+sea BCPs.
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+For Public Release
+Risk Analysis Unit
+Reference number: 6257/2013
+
+Rondo ONZ 1
+00-124 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+Warsaw, May 2013
+
+

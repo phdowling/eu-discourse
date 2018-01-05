@@ -1,0 +1,340 @@
+Procedure file
+Basic information
+2013/2231(DEC)
+
+DEC - Discharge procedure
+
+Procedure completed
+
+2012 discharge: European GNSS Agency (GSA)
+
+Subject
+8.70.03.02 2012 discharge
+
+Key players
+European Parliament
+
+Committee responsible
+Budgetary Control
+
+CONT
+
+Rapporteur
+
+Appointed
+
+PPE SARVAMAA Petri
+
+10/10/2013
+
+Shadow rapporteur
+S&D KADENBACH Karin
+ALDE GERBRANDY
+Gerben-Jan
+Verts/ALE STAES Bart
+ECR ANDREASEN Marta
+GUE/NGL DE JONG Dennis
+EFD VANHECKE Frank
+NI EHRENHAUSER Martin
+Committee for opinion
+ITRE
+
+European Commission
+
+Rapporteur for opinion
+
+Industry, Research and Energy
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commission DG
+
+Commissioner
+
+Budget
+
+ŠEMETA Algirdas
+
+Key events
+26/07/2013
+
+Non-legislative basic document published
+
+22/10/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/03/2014
+
+Vote in committee, 1st reading/single
+reading
+
+21/03/2014
+
+Committee report tabled for plenary,
+single reading
+
+02/04/2014
+
+Debate in Parliament
+
+03/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+03/04/2014
+
+End of procedure in Parliament
+
+05/09/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/2231(DEC)
+
+COM(2013)0570
+
+Summary
+
+A7-0223/2014
+
+Summary
+
+T7-0330/2014
+
+Summary
+
+Procedure type
+
+DEC - Discharge procedure
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CONT/7/14202
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2013)0570
+
+26/07/2013
+
+EC
+
+Summary
+
+N7-0040/2014
+OJ C 365 13.12.2013, p. 0261
+
+10/09/2013
+
+CofA
+
+Summary
+
+Committee draft report
+
+PE521.657
+
+22/01/2014
+
+EP
+
+Document attached to the procedure
+
+05849/2014
+
+05/02/2014
+
+CSL
+
+Amendments tabled in committee
+
+PE521.815
+
+25/02/2014
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A7-0223/2014
+
+21/03/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T7-0330/2014
+
+03/04/2014
+
+EP
+
+Summary
+
+Court of Auditors: opinion, report
+
+Summary
+
+Final act
+Budget 2014/619
+OJ L 266 05.09.2014, p. 0307 Summary
+
+2013/2231(DEC) - 26/07/2013 Non-legislative basic document
+PURPOSE: presentation by the Commission of the consolidated annual accounts of the European Union for the financial year 2012, as part of
+the 2012 discharge procedure.
+Analysis of the accounts of the (GSA).
+CONTENT: this Commission document sets out the consolidated annual accounts of the European Union for the financial year 2012 as
+prepared on the basis of the information presented by the institutions, organisations and bodies of the EU, in accordance with Article 129 (2) of
+the Financial Regulation applicable to the EU's General Budget, including the European GNSS Agency (GSA).
+In 2012, the tasks and budget of this Authority were as follows:
+description of the Authority's tasks: the GNSS Supervisory Authority was set up by Council Regulation (EC) No 1321/2004 and its
+main task is to manage the public interests relating to the European GNSS programmes and to act as the regulatory authority for the
+programme during the deployment and operational phases of the Galileo Programme. Regulation (EC) No 683/2008 of the European
+Parliament and the Council reduced the responsibilities of the Authority to the control of the security of Galileo systems and to the
+preparation of their commercialisation. In 2012, the GSAs headquarters was relocated to Prague, Czech Republic. Part of the GSA
+staff remained located in Brussels awaiting relocation to other GSA sites in France and UK in 2013;
+GNSS' budget for the 2012 financial year: the Authoritys budget for 2012, as presented in the Commission document on the
+consolidated annual accounts of the European Union, gives the following figures:
+§
+
+Commitment appropriations :
+- committed : EUR 106 million;
+- paid : EUR 58 million;
+- carried-over : EUR 47 million.
+
+§
+
+Payment appropriations :
+- committed : EUR 55 million;
+- paid : EUR 33 million;
+- carried-over : EUR 22 million.
+
+Please refer also to the final accounts of the GSA.
+
+2013/2231(DEC) - 10/09/2013 Court of Auditors: opinion, report
+PURPOSE: presentation of the EU Court of Auditors report on the annual accounts of the European GNSS Agency for the year 2012, together
+with the Agencys reply.
+CONTENT: in accordance with the tasks conferred on the Court of Auditors by the Treaty on the Functioning of the European Union, the Court
+presents to the European Parliament and to the Council, in the context of the discharge procedure, a Statement of Assurance as to the
+reliability of the annual accounts of each institution, body or agency of the EU, and the legality and regularity of the transactions underlying
+them, on the basis of an independent external audit.
+This audit concerned, amongst others, the annual accounts of the European GNSS Agency.
+In the Courts opinion, the European GNSS Agencys Annual Accounts fairly present, in all material respects, its financial position as of 31
+December 2012 and the results of its operations and its cash flows for the year then ended, in accordance with the provisions of its Financial
+Regulation and the accounting rules adopted by the Commissions accounting officer.
+The Court also considers that the transactions underlying the annual accounts of the Agency for the financial year ended 31 December 2012
+are, in all material respects, legal and regular.
+The report confirms that the Agencys 2012 budget amounted to EUR 20.8 million.
+The report also makes a series of observations on the budgetary and financial management of the Agency, accompanied by the latters
+response. The main observations may be summarised as follows:
+The Courts observations:
+·
+
+budgetary management: the Court notes that the overall level of committed appropriations was close to 100 % for all titles. However,
+carry-overs of committed appropriations were relatively high for administrative expenditure at EUR 1.7 million euro (38 %). This was
+partly due to events beyond the Agencys control, such as the relocation of its seat to Prague (EUR 0.4 million) and the setting-up of
+the Galileo Security Monitoring Centre (EUR 0.4 million);
+
+·
+
+recruitment procedures: the Court identified weaknesses in the recruitment procedures.
+
+The Agencys reply:
+·
+
+carry-overs: the Agency indicates that the major part of the carry-overs is related to the set up of the Galileo Security Monitoring
+Centres in France and UK. As this is a complex project in terms of security, IT, logistics and legal support, the Agency has decided
+to advance as much as possible the project preparations in 2012. In that respect, the Administrative Board approved a significant
+transfer of credits in order to ensure that the necessary framework contracts are in place on time. Another significant part of the
+carry-overs is related to the relocation of the Agencys headquarters from Brussels to Prague in September 2012;
+
+·
+
+recruitment: the Agency has revised the selection procedures.
+
+Lastly, the Court of Auditors report contains a summary of the Agencys activities in 2012. This is focused on the following:
+systems security (security accreditation of the systems and sites, Galileo system- specific security requirements, flight key cell
+activities) ;
+support for Public Regulated Service PRS (Preparation of the PRS User Segment)
+preparation of Galileo Security Monitoring Centre GSMC ;
+preparatory activities for EGNOS and Galileo exploitation ;
+market development actions focused on receiver manufacturers to foster Galileo penetration in consumer and professional markets ;
+research and development.
+
+2013/2231(DEC) - 21/03/2014 Committee report tabled for plenary, single reading
+The Committee on Budgetary Control adopted the report by Petri SARVAMAA (EPP, FI) in which it recommended the European Parliament to
+grant discharge to the Executive Director of the European GNSS Agency in respect of the implementation of the Authority's budget for the
+financial year 2012.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2012 are reliable, and that the underlying transactions are legal and regular, Members approved the closure of the Agencys accounts.
+They made, however, a number of recommendations that needed to be taken into account when the discharge is granted, in addition to the
+general recommendations that appear in the draft resolution on performance, financial management and control of EU agencies.
+Budget and financial management: Members noted that budget monitoring efforts during the financial year 2012 resulted in a budget
+implementation rate of 100% and that the payment appropriations execution rate was 99.99%.
+Commitments and carryovers: Members noted that the carry-over of committed appropriations was relatively high for administrative
+expenditure at EUR 1.7 million (38%). This was partly due to events beyond the Authority's control, such as the relocation of its seat to
+Prague in September 2012 (EUR 400 000) and the setting-up of the Galileo Security Monitoring Centre (EUR 400 000) which
+necessitated the provision of certain goods and services in the last quarter of the year.
+Prevention and management of conflicts of interests and transparency: Members regretted that the Agency did not answer
+questionnaire on the management and prevention of conflicts of interests; urges the Agency to report to the discharge authority on the
+actions it has implemented to become in line with the Court of Auditors' Special Report No 15/2012 and Parliament's
+recommendations that all agencies develop and implement comprehensive independence policies and procedures, inter alia, by
+establishing a breach of trust mechanism and clear penalties, or by changing those already in place.
+Members also made a series of observations on transfers, procurement and recruitment procedures as well as comments on internal controls.
+
+2013/2231(DEC) - 03/04/2014 Text adopted by Parliament, single reading
+The European Parliament adopted a decision concerning the discharge to be granted to the Executive Director of the European GNSS Agency
+in respect of the implementation of the Authority's budget for the financial year 2012. The vote on the discharge decision approved the closure
+of the accounts (in accordance with Annex VI, Article 5(1) of the Rules of Procedure of the European Parliament.
+Noting that the Court of Auditors stated that it has obtained reasonable assurances that the annual accounts of the Agency for the financial
+year 2012 are reliable, and that the underlying transactions are legal and regular, Parliament adopted by 477 votes to 67, with 24 abstentions,
+a resolution containing a series of recommendations that form an integral part of the discharge decision and as well as the general
+recommendations that appear in the draft resolution on performance, financial management and control of EU agencies.
+These recommendations are summarised as follows:
+Budget and financial management: Parliament noted that budget monitoring efforts during the financial year 2012 resulted in a budget
+implementation rate of 100% and that the payment appropriations execution rate was 99.99%.
+Commitments and carryovers: Parliament noted that the carry-over of committed appropriations was relatively high for administrative
+expenditure at EUR 1.7 million (38%). This was partly due to events beyond the Authority's control, such as the relocation of its seat to
+Prague in September 2012 (EUR 400 000) and the setting-up of the Galileo Security Monitoring Centre (EUR 400 000) which
+necessitated the provision of certain goods and services in the last quarter of the year.
+Prevention and management of conflicts of interests and transparency: Parliament regretted that the Agency did not answer
+questionnaire on the management and prevention of conflicts of interests. It urged the Agency to report to the discharge authority on
+the actions it has implemented to become in line with the Court of Auditors' Special Report No 15/2012 and Parliament's
+recommendations that all agencies develop and implement comprehensive independence policies and procedures.
+Performance: Parliament requested that the Agency communicate the results and impact its work has on European citizens in an
+accessible way, mainly through its website.
+It also made a series of observations on transfers, procurement and recruitment procedures as well as comments on internal controls.
+
+2013/2231(DEC) - 03/04/2014 Final act
+PURPOSE: to grant discharge to the European GNSS Agency (GSA) for the financial year 2012.
+NON-LEGISLATIVE ACT: Decision 2014/619/EU of the European Parliament on discharge in respect of the implementation of the budget of
+the European GNSS Agency for the financial year 2012.
+CONTENT: by means of this Decision, the European Parliament grants the Executive Director of the European GNSS Agency discharge in
+respect of the implementation of the Agencys budget for the financial year 2012.
+The Decision is in accordance with the European Parliaments resolution of 3 April 2014 and includes a series of observations that are an
+integral part of the Decision on discharge (please see the summary of 3 April 2014).
+Amongst the main observations made, Parliament called on the Agency to improve the transparency of its recruitment procedures.
+
+

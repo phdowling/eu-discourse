@@ -1,0 +1,303 @@
+Procedure file
+Basic information
+2016/0371(CNS)
+
+CNS - Consultation procedure
+Regulation
+
+Awaiting final decision
+
+Value added tax (VAT): administrative cooperation and combating fraud
+Amending Regulation (EU) No 904/2010 2009/0118(CNS)
+Subject
+2.70.02 Indirect taxation, VAT, excise duties
+2.80 Cooperation between administrations
+8.70.04 Protecting financial interests of the EU against fraud
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+15/12/2016
+
+NIEDERMAYER Luděk
+Shadow rapporteur
+
+FRUNZULICĂ
+Doru-Claudian
+
+LUCKE Bernd
+
+NAGTEGAAL Caroline
+
+VIEGAS Miguel
+
+SCOTT CATO Molly
+KAPPEL Barbara
+Committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+MOSCOVICI Pierre
+
+Key events
+01/12/2016
+
+Legislative proposal published
+
+COM(2016)0755
+
+Summary
+
+16/01/2017
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/10/2017
+
+Vote in committee, 1st reading/single
+reading
+
+16/10/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0306/2017
+
+Summary
+
+30/11/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+T8-0472/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0371(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 904/2010 2009/0118(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 113
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Awaiting final decision
+
+Committee dossier
+
+ECON/8/08675
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0755
+
+01/12/2016
+
+EC
+
+Summary
+
+Committee draft report
+
+PE604.736
+
+31/05/2017
+
+EP
+
+Amendments tabled in committee
+
+PE606.182
+
+28/06/2017
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0306/2017
+
+16/10/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0472/2017
+
+30/11/2017
+
+EP
+
+Summary
+
+Additional information
+Research document
+
+Briefing
+
+2016/0371(CNS) - 01/12/2016 Legislative proposal
+PURPOSE: to modernise the VAT rules in the context of cross-border business to consumer (B2C) e-commerce (administrative cooperation
+and fight against fraud).
+PROPOSED ACT: Council Regulation.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consultation with the European Parliament but without needing to
+follow the latters opinion.
+BACKGROUND: this proposal is part of the package of legislation on modernising VAT for cross-border B2C e-commerce. The package
+includes a proposal for a Council Directive amending Directive 2006/112/EC and Directive 2009/132/EC as regards certain value added tax
+obligations for supplies of services and distance sales of goods.
+The proposal to amend Regulation (EU) No 904/2010 on administrative cooperation and combating fraud in the field of value added tax is an
+important element of the package. It provides the basis for the underlying IT infrastructure and the necessary cooperation by
+Member States to ensure the success of the extension of the Mini One Stop Shop (MOSS) to services other than telecommunications,
+broadcasting and electronically supplied services and to distance sales of goods, both within the Community and from outside the Community.
+The overall package is estimated to increase VAT revenues for Member States by EUR 7 billion annually and reduce regulatory costs for
+business by EUR 2.3 billion annually.
+The proposal also results from the Commission communication of May 2015 entitled Strategy for Digital Single Market for Europe' and its
+communication of April 2016 on an action plan on VAT entitled 'Towards a single EU VAT area,
+IMPACT ASSESSMENT: in terms of the impact assessment, the preferred option, which included coordination of audits, was estimated to lead
+to higher reductions in compliance costs for businesses compared to the alternatives.
+CONTENT: the proposal aims to amend and supplement the provisions concerning the Mini One Stop Shop (MOSS) provided for in Council
+Regulation (EU) No 904/2010 following the amendments that are being made to the VAT Directive.
+These provisions cover the rules and procedures for the exchange by electronic means between taxable persons and their tax administration
+as well as between Member States' tax administrations of VAT information concerning VAT identification, VAT returns and VAT payments
+within the MOSS.
+
+The proposal:
+contains the provisions relating to the exchange of information between Member States concerning the identification of taxable
+persons making use of the MOSS, VAT returns and VAT payments. They mirror the existing provisions and extend them to services
+other than electronic services and to distance sales of goods;
+provides that the Member State of importation should verify the validity of the VAT identification number to be provided to the customs
+authorities upon importation of goods for which VAT is declared and paid using the MOSS. A valid VAT identification number is a
+condition for the application of the exemption upon importation of such goods;
+provides that requests for records by Member States to taxable persons and administrative inquiries should be coordinated by the
+Member State of identification, so as to avoid uncoordinated requests for records or administrative inquiries by several Member States
+of consumption;
+provides for the payment of a fee of 5% to be paid by the Member States of consumption to the Member State of identification in order
+to compensate for the investment needed to update the MOSS IT system following the extension of its scope, ongoing maintenance
+costs and the resources spent controlling business established in that Member State;
+provides for the possibility for the Commission to automatically access information related to the MOSS stored in the Member States'
+electronic systems, with the exception of any personal data;
+confers implementing powers on the Commission to determine the data to be included in the information exchanges concerning
+identification, VAT returns, VAT payments, requests for records or administrative enquiries, etc., between taxable persons and
+Member States or between Member States as well as the technical means for the submission or transmission of this information.
+BUDGETARY IMPLICATIONS: this element of the package is estimated to have important positive budgetary implications. The coordination of
+audits together with the incentive of the administrative fee should result in risk-based audits. A more efficient audit process which focuses on
+audit yield should lead to higher compliance rates compared to the alternative of an uncoordinated approach which can needlessly tie up
+resources.
+
+2016/0371(CNS) - 16/10/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Lud?k NIEDERMAYER (EPP, CZ) on the proposal for a Council
+regulation amending Regulation (EU) No 904/2010 on administrative cooperation and combating fraud in the field of value added tax.
+As a reminder, this proposal is part of a legislative package on the modernisation of VAT in the context of cross-border electronic commerce
+between businesses and consumers (B2C). It is closely related to the proposal amending Directive 2006/112/EC and Directive 2009/132/EC
+as regards certain value added tax obligations applicable for supplies of services and distance sales of goods.
+The committee called on Parliament to approve the Commission proposal subject to the following amendments:
+Provisions applicable from 1 January 2021: the proposal adds a new section 3 on the provisions applicable from 1 January 2021. Members
+specified that, unless expressly stated otherwise, Member States should immediately exchange all the information referred to in Subsection 2.
+Subsection 2 of Section 3 contains the provisions relating to the exchange of information between Member States concerning the identification
+of taxable persons making use of the Mini One Stop Shop (MOSS), VAT returns and VAT payments.
+Publication on the Commission website: information on the contact details of the competent person responsible for coordinating administrative
+investigations in the Member States should be published on the Commission's website.
+Statistical information: when giving the Commission access to statistical information stored in their electronic systems, Member States should
+limit themselves to the information necessary for relevant statistical purposes.
+The Commission should ensure that the extraction of data does not impose an unnecessary administrative burden on the Member States.
+Fee: the proposal provides for the payment of a fee of 5% to be paid by the Member States of consumption to the Member State of
+identification in order to compensate the latter Member State for the costs linked to the collection and control of VAT under the special
+schemes.
+Members suggested that the Commission should review within two years of the application of this Regulation in order to ensure the viability
+and cost-effectiveness of the fee and, if necessary, take corrective measures.
+In the recitals, the report stressed the importance of:
+treating VAT at Union level, since the VAT gap in the Union is estimated at 12.8 % or EUR 152 billion per year including EUR 50
+billion of cross-border VAT fraud, making VAT an important issue to be addressed at Union level;
+encourage Member States to make general information on special schemes stored in their electronic systems available to other
+relevant national authorities, if that is not already the case, in order to combat VAT fraud and money laundering;
+ensuring that communication between the Commission and the Member States is effective in order to achieve the objectives of the
+Regulation in a timely manner;
+ensuring a targeted and balanced approach using new technologies in the fight against fraud to enable competent authorities to
+identify fraud networks faster and in a comprehensive manner.
+
+2016/0371(CNS) - 30/11/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 576 votes to 30, with 32 abstentions, in line with a special legislative procedure (Parliaments
+consultation), a legislative resolution on the proposal for a Council regulation amending Regulation (EU) No 904/2010 on administrative
+cooperation and combating fraud in the field of value added tax.
+As a reminder, this proposal is part of a legislative package on the modernisation of VAT in the context of cross-border electronic commerce
+between businesses and consumers (B2C). It is closely related to the proposal amending Directive 2006/112/EC and Directive 2009/132/EC
+
+as regards certain value added tax obligations applicable for supplies of services and distance sales of goods.
+Parliament approved the Commission proposal subject to the following amendments:
+Provisions applicable from 1 January 2021: the proposal adds a new section 3 on the provisions applicable from 1 January 2021. Members
+specified that, unless expressly stated otherwise, Member States should immediately exchange all the information referred to in Subsection 2.
+Subsection 2 of Section 3 contains the provisions relating to the exchange of information between Member States concerning the identification
+of taxable persons making use of the Mini One Stop Shop (MOSS), VAT returns and VAT payments.
+Publication on the Commission website: information on the contact details of the competent person responsible for coordinating administrative
+investigations in the Member States should be published on the Commission's website.
+Statistical information: when giving the Commission access to statistical information stored in their electronic systems, Member States should
+limit themselves to the information necessary for relevant statistical purposes.
+The Commission should ensure that the extraction of data does not impose an unnecessary administrative burden on the Member States.
+Fee: the proposal provides for the payment of a fee of 5% to be paid by the Member States of consumption to the Member State of
+identification in order to compensate the latter Member State for the costs linked to the collection and control of VAT under the special
+schemes.
+Members stated that where a rebate is paid between differing national currencies, the valid exchange rate published by the European Central
+Bank should be applied.
+Members suggested that the Commission should review within two years of the application of this Regulation in order to ensure the viability
+and cost-effectiveness of the fee and, if necessary, take corrective measures.
+In the recitals, the report stressed the importance of:
+treating VAT at Union level, since the VAT gap in the Union is estimated at 12.8 % or EUR 152 billion per year including EUR 50
+billion of cross-border VAT fraud, making VAT an important issue to be addressed at Union level;
+encourage Member States to make general information on special schemes stored in their electronic systems available to other
+relevant national authorities, if that is not already the case, in order to combat VAT fraud and money laundering;
+ensuring that communication between the Commission and the Member States is effective in order to achieve the objectives of the
+Regulation in a timely manner;
+ensuring a targeted and balanced approach using new technologies in the fight against fraud to enable competent authorities to
+identify fraud networks faster and in a comprehensive manner.
+
+

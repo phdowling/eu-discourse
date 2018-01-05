@@ -1,0 +1,462 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Decision
+
+2016/0027(COD)
+
+Procedure completed
+
+Use of the 470-790 MHz frequency band in the Union
+
+Subject
+3.30.01 Audiovisual industry and services
+3.30.05 Electronic and mobile communications, personal communications
+Legislative priorities
+Joint Declaration 2017
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+01/03/2016
+
+TOIA Patrizia
+Shadow rapporteur
+
+HÖKMARK Gunnar
+
+BASHIR Amjad
+
+ROHDE Jens
+
+LÓPEZ BERMEJO
+Paloma
+
+REIMON Michel
+
+BORRELLI David
+KAPPEL Barbara
+Committee for opinion
+
+Rapporteur for opinion
+
+IMCO
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+REGI
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+CULT
+
+Culture and Education
+
+Appointed
+
+29/02/2016
+MAULLU Stefano
+
+Council of the European Union
+Commission DG
+European Commission
+
+Commissioner
+
+Communications Networks, Content and Technology ANSIP Andrus
+
+European Economic and
+Social Committee
+
+Key events
+02/02/2016
+
+Legislative proposal published
+
+COM(2016)0043
+
+Summary
+
+04/02/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/11/2016
+
+Vote in committee, 1st reading/single
+reading
+
+10/11/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+14/11/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0327/2016
+
+26/01/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE601.020 GEDA/A/(2017)001495
+
+14/03/2017
+
+Debate in Parliament
+
+15/03/2017
+
+Results of vote in Parliament
+
+15/03/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+25/04/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+17/05/2017
+
+Final act signed
+
+17/05/2017
+
+End of procedure in Parliament
+
+25/05/2017
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0082/2017
+
+Technical information
+Procedure reference
+
+2016/0027(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Decision
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/05666
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0043
+
+02/02/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0019
+
+02/02/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0020
+
+02/02/2016
+
+EC
+
+PE580.792
+
+30/05/2016
+
+EP
+
+PE578.762
+
+24/06/2016
+
+EP
+
+PE585.601
+
+06/07/2016
+
+EP
+
+A8-0327/2016
+
+14/11/2016
+
+EP
+
+Committee draft report
+Committee opinion
+Amendments tabled in committee
+Committee report tabled for plenary, 1st
+reading/single reading
+
+CULT
+
+Summary
+
+Summary
+
+Coreper letter confirming interinstitutional
+agreement
+
+GEDA/A/(2017)001495
+
+20/01/2017
+
+CSL
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0082/2017
+
+15/03/2017
+
+EP
+
+Commission response to text adopted in
+plenary
+
+SP(2017)309
+
+16/05/2017
+
+Summary
+
+Final act
+Decision 2017/899
+OJ L 138 25.05.2017, p. 0131 Summary
+
+2016/0027(COD) - 02/02/2016 Legislative proposal
+PURPOSE: to ensure coordinated transition in spectrum use of the 470-790 MHz frequency band in the Union according to common
+objectives.
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: rapidly growing wireless broadband traffic makes enhanced wireless network capacity a necessity. Wireless connectivity
+requires access to spectrum in the bands below 1 GHz, being the sweet spot for both wide coverage and high speeds.
+In its strategy for the digital single market (DSM), the Commission highlights the importance of the 694-790 MHz (700 MHz) frequency band for
+ensuring the provision of broadband services in rural areas and stresses the need for a coordinated release of that frequency band, while
+accommodating the specific needs of audiovisual media services distribution.
+At present the UHF broadcasting band comprises the range of frequencies from 470 to 790 MHz (the UHF band). This band is used for digital
+terrestrial television (DTT) and audio programme making and special events (audio PMSE) equipment, essentially wireless microphones.
+The 2012 World Radiocommunication Conference (WRC-12), the International Telecommunications Union (ITU) Conference that revises the
+binding Radio Regulations, decided that the 700 MHz band should be allocated to both the broadcasting and mobile service in Region 1
+(Europe and Africa) as of 2015.
+The absence of a Union-wide common legislation for the UHF band would create detrimental fragmentation in the use of the UHF band within
+the Union.
+The Commission responded to the outcomes of the European stakeholder process and international agreements under the aegis of the ITU by
+developing a strategy for the Union on the long-term use of the UHF band. The strategy will promote the digital single market and ensure
+efficient management of radio spectrum in the UHF band, reflecting its social, cultural and economic value.
+The UHF band strategy has three major strands:
+harmonised technical conditions for wireless broadband electronic communications services in the 700 MHz frequency band based on
+the principle of technology and service neutrality;
+a common deadline for making the 700 MHz band available for effective use for wireless broadband electronic communications
+services in line with the harmonised technical conditions above, and coordination measures to support this transition;
+priority for distribution of audiovisual media services (AVMS) in the sub-700 MHz frequency band in conjunction with a flexible
+approach to how the band is used; this is necessary to cater for diversity regarding the market significance of DTT in Member States.
+This proposal contributes to the target of 1200 MHz for wireless broadband, which is one of the key objectives of Decision 2012/243/EU of the
+European Parliament and the Council establishing a multiannual radio spectrum policy programme (RSPP).
+IMPACT ASSESSMENT: the preferred option chosen by the Commission seeks to reach the following strategic objectives: (i) coordinated
+designation and authorisation of the 700 MHz frequency band for wireless broadband by 2020; (ii) coordinated designation of the sub-700
+MHz frequency band for flexible use, subject to national demand, which would safeguard the continued provision of audiovisual media
+services to a mass audience (in a technology-neutral way), including free-to-view distribution, as well as spectrum availability for audio PMSE
+use.
+CONTENT: in accordance with the UHF band strategy, this proposal lays down two binding common deadlines for Member States for
+repurposing the 700 MHz frequency band for wireless broadband:
+cross-border coordination agreements must be completed by the end of 2017;
+the 700 MHz frequency band must be made available for effective use for wireless broadband electronic communications services by
+mid-2020.
+In addition, the proposal also:
+requires Member States to consult on at national level and consider taking measures to ensure a high-quality level of coverage of their
+population and territory when they grant rights of use of the 700 MHz band for wireless broadband electronic communications
+services;
+
+deals with the long-term use of the sub-700 MHz frequency band. It requires Member States to safeguard use of this band in the long
+term for the distribution of audiovisual media services to a mass audience (or to the general public). This should include continued use
+for wireless audio PMSE, in accordance with national priorities;
+requires Member States to adopt and communicate across the Union their national roadmaps on repurposing the 700 MHz frequency
+band for wireless broadband and the related transition process for the whole UHF band;
+requires the Commission to conduct by 2025 a review of spectrum use in the sub700 MHz frequency band in cooperation with the
+Member States and report its conclusions together with any proposal for regulatory changes, which might, for example, change the
+substance or format of safeguards or their duration.
+
+2016/0027(COD) - 14/11/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Patrizia TOIA (S&D, IT) on the proposal for a decision of the
+European Parliament and of the Council on the use of the 470-790 MHz frequency band in the Union.
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should ament the Commission proposal as follows:
+Flexibility option: the Commission proposal stipulated that by 30 June 2020, Member States shall allow the use of the 694-790 ('700 MHz')
+MHz frequency band for terrestrial systems capable of providing wireless broadband electronic communications services only under
+harmonised technical conditions set by the Commission.
+Members proposed that Member States may delay the making available of the band for up to two years on the basis of duly justified reasons .
+Where a Member State does so, it shall inform other Member States and the Commission accordingly and shall include those duly justified
+reasons in its national roadmap.
+Member States that delay the use of the 700 MHz frequency band shall cooperate with neighbouring Member States with a view to
+coordinating the process of releasing the band for wireless broadband electronic communications services.
+This Decision is without prejudice to the right of Member States to organise and use their spectrum for the purposes of public order, public
+security and defence.
+Transfer or leasing of the rights of use of spectrum: the proposal stipulates that, by 30 June 2022, Member States must allow the transfer or
+leasing of the rights of use of spectrum for electronic communications services in the 700 MHz frequency band.
+Member States shall allow the transfer or leasing of the rights of use of spectrum for terrestrial systems capable of providing wireless
+broadband electronic communications services in the 700 MHz frequency band, in accordance with open and transparent procedures, as from
+the date of the granting of such rights.
+Use of the 700 MHz frequency band or amendments to existing rights: when Member States authorise the use of the 700 MHz frequency band
+or amend existing rights to use the 700 MHz frequency band, they shall take all necessary measures to ensure a consistent and continuous
+high-quality level of coverage of their entire population and territory, at the fastest possible broadband speeds, and at least 30 Mb/s both
+indoors and outdoors, including coverage in predetermined national priority areas where necessary, and along major terrestrial transport
+paths, for the purpose of allowing wireless applications and European leadership in new digital services to contribute effectively to Union
+economic growth.
+In addition, Member States may take due account of the opportunity to ensure that Mobile Virtual Network Operators (MVNOs) are able to
+obtain wholesale access to spectrum and of the opportunity to increase the geographical coverage of MVNOs.
+The Commission shall facilitate, where feasible, the option of jointly organised auctions, thus contributing to pan European structures.
+Audiovisual media services to mass audiences: the proposal obliges Member States to ensure that the 470-694 MHz frequency band (below
+700 MHz), or part of it, is available for the terrestrial provision of audiovisual media services to mass audiences and for use by wireless audio
+programme making and special events equipment (PMSE).
+Members proposed that Member States shall ensure availability until 2030 of the 470-694 MHz frequency band for the terrestrial provision of
+broadcasting services to mass audiences, including free television and innovative user-driven initiatives, and for use by wireless audio PMSE
+equipment, based on national broadcasting needs and taking into account the principle of technological neutrality.
+Each Member State shall ensure that any other use of the 470-694 MHz frequency band on its territory is compatible with its national
+broadcasting needs and does not cause harmful interference with the terrestrial provision of broadcasting services in a neighbouring Member
+State.
+National roadmap: Members considered it necessary for the Member States to adopt and make public their national plan and schedule
+('national roadmap') as soon as possible and in any event no later than 30 June 2018.
+Member States may, where appropriate and in accordance with Union law, ensure that the direct cost, in particular for end-users, of migration
+or reallocation of spectrum use is compensated adequately, promptly, and in a transparent manner, in order to facilitate the transition in
+spectrum use to more spectrum-efficient technologies such as DVB-T2 or HEVC.
+Impact assessment: by 1 January 2023 (as opposed to 1 January 2025), the Commission shall carry out an assessment and report to the
+Council and Parliament on developments in the use of the 470-960 MHz frequency band, with a view to developing a common position on the
+review of that frequency band at the World Radiocommunication Conference in 2023.
+The assessment shall take into account technological developments, changes in consumer behaviour but also the requirements in connectivity
+to foster growth and innovation in the Union.
+
+2016/0027(COD) - 15/03/2017 Text adopted by Parliament, 1st reading/single reading
+
+The European Parliament adopted by 614 votes to 44, with 28 abstentions, a legislative resolution on the proposal for a decision of the
+European Parliament and of the Council on the use of the 470-790 MHz frequency band in the Union.
+Parliaments position adopted at first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Flexible approach: Member States should be able to delay, on the basis of duly justified reasons, allowing the use of the 700 MHz frequency
+band for terrestrial systems capable of providing wireless broadband electronic communications services beyond a common Union deadline of
+2020 for up to two years.
+The reasons for such a delay should be limited to:
+unresolved cross-border coordination issues resulting in harmful interferences;
+the need to ensure, and the complexity of ensuring, the technical migration of a large amount of the population to advanced
+broadcasting standards;
+the financial costs of transition exceeding the expected revenue generated by award procedures;
+force majeure.
+In the event that Member States delay allowing the use of the 700 MHz frequency band, they should inform the other Member States and the
+Commission accordingly and include the duly justified reasons therefor in their national roadmaps. Such Member States and any Member
+States affected by the delay should cooperate with a view to coordinating the process of releasing the 700 MHz frequency band.
+As soon as possible and no later than 30 June 2018, Member States shall adopt and make public their national plan and schedule (national
+roadmap).
+Transfer or leasing of the rights of use of spectrum: upon the granting of the rights of use in the 700 MHz frequency band for terrestrial
+systems capable of providing wireless broadband electronic communications services, Member States shall allow the transfer or leasing of
+such rights in accordance with open and transparent procedures pursuant to the applicable Union law.
+Use of the 700 MHz frequency band or amendments to existing rights: when Member States authorise the use of or amend existing rights to
+use the 700 MHz frequency band, they shall take due account of the need to achieve the target speed and quality objectives set out in
+Decision No 243/2012/EU (minimum target speeds of 30 Mbps), including coverage in predetermined national priority areas where necessary,
+such as along major terrestrial transport paths.
+Frequency band inferior to 700 MHz: Member States shall ensure availability at least until 2030 of the 470-694 MHz (sub-700 MHz) frequency
+band for the terrestrial provision of broadcasting services, while taking into account the principle of technological neutrality.
+Pivotal role of the EU: the amended text stressed that the Union needs to take the lead by securing enough spectrum for the successful launch
+and development of 5G. It made reference to the resolution of 19 January 2016 in which it called on the European Parliament to highlight that
+radio spectrum is essential for the future competitiveness of the Union.
+
+2016/0027(COD) - 17/05/2017 Final act
+PURPOSE: to coordinate spectrum use of the 470-790 MHz frequency band in the Union according to common objectives.
+LEGISLATIVE ACT: Decision (EU) 2017/899 of the European Parliament and of the Council on the use of the 470-790 MHz frequency band in
+the Union.
+CONTENT: the aim of the Decision is to ensure the coordinated use of the 700 MHz frequency band in order to enhance mobile connectivity
+and facilitate the roll out of 5G technology.
+The coordinated use of the 700 MHz band should enable the deployment of innovative new digital services in urban areas as well as in rural
+and remote areas, such as on-line health services, smart energy networks and connected cars.
+Access to the use of the 700 MHz frequency band: the Decision sets the Member States two binding deadlines for the reallocation of the
+spectrum use the 700 MHz frequency band to wireless broadband:
+(1) Member States shall conclude, by 31 December 2017 at the latest, all the necessary cross-border frequency-coordination agreements
+within the Union.
+(2) By 30 June 2020, Member States shall allow the use of the 700 MHz frequency band for terrestrial systems capable of providing wireless
+broadband electronic communications services.
+Member states may, however, delay this reallocation by up to two years, but only in duly justified cases set out in the decision.
+A Member State that delays allowing the use of the 700 MHz frequency band and the Member States affected by that delay shall cooperate
+with each other with a view to coordinating the process of releasing the 700 MHz frequency band for wireless broadband electronic
+communications services.
+In the event that Member States delay allowing the use of the 700 MHz frequency band, they should inform the other Member States and the
+Commission accordingly and include the duly justified reasons therefor in their national roadmaps. These shall be adopted and published as
+soon as possible and no later than 30 June 2018.
+Broadcasting services: Member States shall ensure availability at least until 2030 of the 470-694 MHz (sub-700 MHz) frequency band for the
+terrestrial provision of broadcasting services, including free television, and for use by wireless audio programme-making and special (PMSE).
+Member States shall ensure that any other use of the sub-700 MHz frequency band on their territory is compatible with the national
+broadcasting needs in the relevant Member State and does not cause harmful interference to, or claim protection from, the terrestrial provision
+of broadcasting services in a neighbouring Member State.
+Authorisation for the use of the 700 MHz band: when Member States authorise the use of or amend existing rights to use the 700 MHz
+frequency band, they shall take due account of the need to achieve the target speed and quality objectives set out in Decision
+
+No 243/2012/EU of the European Parliament and of the Council, including coverage in predetermined national priority areas where necessary,
+such as along major terrestrial transport paths.
+This Decision refers to the resolution of 19 January 2016 entitled Towards a Digital Single Market Act, in which the European Parliament
+reminded the Member States of their commitment to reach full deployment of at least minimum target speeds of 30 Mbps by 2020.
+The Commission shall report to the European Parliament and to the Council on developments in the use of the sub-700 MHz frequency band.
+ENTRY INTO FORCE: 14.6.2017.
+
+

@@ -1,0 +1,873 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0164(COD)
+
+Procedure completed
+
+Copernicus Programme 2014-2020
+Repealing Regulation (EU) No 911/2010 2009/0070(COD)
+Subject
+3.30.03.06 Communications by satellite
+3.40.05 Aeronautical industry, aerospace industry
+3.50.20 Scientific and technological cooperation and agreements
+3.70.01 Protection of natural resources: fauna, flora, nature, wildlife,
+countryside; biodiversity
+3.70.02 Atmospheric pollution, motor vehicle pollution
+3.70.03 Climate policy, climate change, ozone layer
+3.70.05 Marine and coastal pollution, pollution from ships, oil pollution
+3.70.06 Soil pollution, deterioration
+3.70.10 Man-made disasters, industrial pollution and accidents
+3.70.11 Natural disasters, Solidarity Fund
+4.30 Civil protection
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+S&D PRODI Vittorio
+
+03/09/2013
+
+Shadow rapporteur
+PPE DATI Rachida
+ALDE ROHDE Jens
+Verts/ALE ANDERSDOTTER
+Amelia
+ECR TOŠENOVSKÝ Evžen
+GUE/NGL REMEK Vladimír
+Committee for opinion
+BUDG
+
+ENVI
+
+Budgets
+
+Environment, Public Health and Food Safety
+
+Council of the European Union
+Commission DG
+European Commission
+
+Rapporteur for opinion
+
+Appointed
+
+PPE CARVALHO Maria Da
+Graça
+
+27/06/2013
+
+PPE GARDINI Elisabetta
+
+19/09/2013
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs TAJANI Antonio
+
+Key events
+29/05/2013
+
+Legislative proposal published
+
+01/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/09/2013
+
+Debate in Council
+
+28/11/2013
+
+Vote in committee, 1st reading/single
+reading
+
+03/12/2013
+
+Debate in Council
+
+COM(2013)0312
+
+Summary
+
+Summary
+
+14/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+12/03/2014
+
+Results of vote in Parliament
+
+12/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+24/03/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+03/04/2014
+
+Final act signed
+
+03/04/2014
+
+End of procedure in Parliament
+
+24/04/2014
+
+Final act published in Official Journal
+
+A7-0027/2014
+
+Summary
+
+T7-0227/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0164(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Repealing Regulation (EU) No 911/2010 2009/0070(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 189
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/13114
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0312
+
+29/05/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0190
+
+29/05/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0191
+
+29/05/2013
+
+EC
+
+PE519.768
+
+09/10/2013
+
+EP
+
+CES5084/2013
+
+16/10/2013
+
+ESC
+
+PE522.817
+
+24/10/2013
+
+EP
+
+Committee draft report
+Economic and Social Committee: opinion,
+report
+Amendments tabled in committee
+
+Summary
+
+Committee opinion
+
+BUDG
+
+PE519.692
+
+15/11/2013
+
+EP
+
+Committee opinion
+
+ENVI
+
+PE519.791
+
+28/11/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0027/2014
+
+14/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0227/2014
+
+12/03/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)455
+
+10/06/2014
+
+Follow-up document
+
+COM(2017)0617
+
+23/10/2017
+
+EC
+
+Follow-up document
+
+SWD(2017)0347
+
+23/10/2017
+
+EC
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/377
+OJ L 122 24.04.2014, p. 0044 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0164(COD) - 29/05/2013 Legislative proposal
+PURPOSE: to establish the Copernicus Programme and repealing Regulation (EU) No 911/2010.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: Copernicus is the new name of the European Earth Observation Programme, GMES (Global Monitoring for Environment and
+Security) which was established as an EU programme by the GMES Regulation (EU) No 911/2010. It covers all the activities for ensuring an
+uninterrupted provision of accurate and reliable data and information on environmental issues and security matters to users in charge of policy
+making, implementation and monitoring, in the EU and its Member States.
+Copernicus aims at providing Europe with a continuous, independent and reliable access to observation data and information.
+Responsibility for funding the exploitation and the renewal of space infrastructure developed with EU and intergovernmental funds cannot be
+optimally achieved by individual Member States because of the costs incurred.
+For the services with a pan-European or global coverage, Member States cannot sufficiently achieve the objectives of the proposed action, as
+the inputs from different Member States have to be aggregated at European level.
+The provision of other services (e.g. emergency maps or thematic land monitoring maps of a more limited geographical scope) can be better
+achieved at EU level for two reasons.
+1. A more coherent and centralised management of input data, from space based or in situ sensors will allow for economies of scale;
+2. An uncoordinated provision of Earth observation services at Member State level would lead to duplications and would render the monitoring
+of the implementation of EU environmental legislation on the basis of transparent and objective criteria difficult or even impossible.
+Action at EU level thus leads to a clear added value.
+IMPACT ASSESSMENT: the Commission has carried out a consultation process since 2006 and the progressive implementation of the GMEs
+since 2010. Various consultations have confirmed the interest and the need for the Copernicus programme.
+An impact assessment was undertaken in 2011 and the main conclusions were published in SEC(2011)867 final of 28 June 2011, which
+accompanies the Commission proposal on the Multiannual Financial Framework.
+The impact assessment has now been adapted to take account of the financial issues and the ownership transfer. In view of an ownership
+transfer, options will need to be assessed, taking account relevant factors including the operation of the satellites; legal ownership of the data;
+data access conditions; and the value of the assets.
+These options will only be considered if disadvantages of EU ownership seem to outweigh its advantages.
+The option of a data purchase scheme could also be considered.
+LEGAL BASIS: Article 189 of the Treaty on the Functioning of the European Union.
+CONTENT: the proposal focuses on the following main aspects:
+1. Change of name into Copernicus;
+2. Governance of GMES in its operational phase, with a view to allowing the Commission to delegate activities to a number of operators;
+3. Funding over 2014-2020.
+Change of name: the acronym 'GMES' should be changed to 'Copernicus' in order to facilitate the communication with the public at large. The
+Commission has registered the trademark so that it can be used by the Union institutions and licensed to other interested users, in particular
+the providers of core services.
+Objectives: the objectives of the Copernicus programme are to provide accurate and reliable information in the field of the environment and
+security, tailored to the needs of users and supporting other Unions policies, in particular relating to :
+the internal market,
+transport,
+environment,
+
+energy,
+civil protection,
+cooperation with third countries,
+humanitarian aid.
+Capacity and infrastructure: in order to attain its objectives, the Copernicus programme should rely on an autonomous Unions capacity for
+space-borne observations and provide operational services in the field of environment, civil protection and security. It should also make use of
+the available in-situ data provided, namely, by the Member States. The provision of operational services depends on the well-functioning and
+safety of the Copernicus space component.
+Scope of the Copernicus services: the Copernicus services shall include:
+1. Operational services:
+air quality monitoring systems;
+marine monitoring service which shall provide information on the state and dynamics of physical ocean and marine ecosystems for the
+global ocean and the European regional areas;
+land monitoring service (soil, water, forests as well as in general implementation of environment, agriculture, development, energy,
+urban planning, infrastructure and transport policies;
+climate change monitoring service (provision of Essential Climate Variables (ECVs), climate analyses and projections at temporal and
+spatial scales relevant to adaptation and mitigation strategies for the various Unions sectorial and societal benefit areas);
+emergency response service shall provide information for emergency response in relation to different types of disasters, including
+meteorological hazards, geophysical hazards, deliberate and accidental man-made disasters;
+security service shall provide information in particular for border and maritime surveillance,risk assessment and early warning
+systems.
+2. Development activities consisting in improving the quality and performance of operational services, including their evolution and adaptation;
+3. Support activities consisting in measures to promote the use of operational services by users and downstream applications, as well as
+communication and dissemination activities.
+Governance: the Commission shall have the overall responsibility for the programme. It shall define the priorities and objectives of the
+programme and oversee its implementation, in particular with respect to the cost, schedule and performance. Taking into account the
+partnership dimension of Copernicus and in order to avoid duplication of technical expertise, the implementation of the programme should be
+delegated to entities with the appropriate technical and professional capacity.
+The Commission may entrust, in part or in full, where duly justified by the special nature of the action and specific expertise of the Union body
+the implementation tasks to competent Union bodies. Among such agencies are:
+the European Environment Agency (EEA);
+the European Agency for the Management of Operational Cooperation at the
+External Borders of the Member States of the European Union (FRONTEX);
+the European Maritime Safety Agency (EMSA);
+the European Union Satellite Centre (EUSC).
+Other Copernicus operators: the selection of entities (the operators) to whom the Commission may entrust implementation tasks, should follow
+a transparent procedure based on justified on objective grounds and shall not give rise to a conflict of interests. Given the particular nature of
+the tasks involved, an ad-hoc procedure based on a call for expression of interest was chosen to identify the potential operators best suited to
+be entrusted with indirect management of the Copernicus programme.
+The operators of the Copernicus programme should be subject to supervision by the Commission, whilst enjoying the necessary autonomy to
+implement the tasks they were entrusted with. They should submit an annual work programme to the Commission with an annual
+implementation report.
+Ownership: the question of ownership of the Copernicus space component assets is important and cannot be considered in isolation from the
+rights and responsibilities that such ownership confers upon the owner. The owner has the fullest possible rights including the right of use,
+transfer and disposal. The Union or a specifically designated body or fund shall be the owner of all tangible and intangible assets created or
+developed under the Copernicus programme subject to agreements concluded with third parties, wherever appropriate, with regard to existing
+ownership rights.
+The Commission shall adopt delegated acts to establish the terms and conditions of any subsequent transfer of ownership from the Union.
+Copernicus Data: Copernicus data and information shall be made available on a full, open and free-of-charge basis, subject to the following
+limitations:
+licensing conditions attached third party data and information;
+dissemination formats, characteristics and distribution means;
+security interests and external relations of the Union or its Member States;
+risk of disruption, for safety or technical reasons, of the system producing Copernicus data and information.
+Limitations and conditions of access and use have also been established.
+International cooperation: the Union, represented by the Commission, may enter into agreements with the European Free Trade Association
+(EFTA) countries which are Contracting
+Parties to the EEA Agreement; the candidate countries, as well as potential candidate countries; Switzerland, other third countries and
+international organisations. Third countries or international organisations may provide financial support or contributions in kind to the
+programme.
+Evaluation: by 30 June 2018 at the latest, an evaluation report shall be established by the Commission on the achievement of the objectives of
+all the tasks financed by the Copernicus programme at the level of their results and impacts and their European added value.
+
+Repeal: Regulation (EU) No 911/2010 is repealed in order to establish an appropriate framework for governance and funding and to ensure a
+fully operational Copernicus programme from 2014 onwards.
+BUDGETARY IMPLICATION: the financial statement accompanying this proposal for a Regulation sets out indicative budget appropriations,
+which are compatible with the multiannual financial framework 2014-2020, with a maximum level of commitments of EUR 3,786 million, in
+2011 prices, equivalent to EUR 4,291 million in current prices.
+Until the end of 2013, Copernicus is funded by the FP7 Space theme and the GMES and its Initial Operations programme.
+DELEGATED ACTS: the Commission may adopt delegated acts in accordance with Article 290 of the TFEU concerning:
+the establishment of the data requirements necessary for the operational services;
+the conditions and procedures as regards access to, registration and use of Copernicus data and information, including the formats,
+characteristic and dissemination means;
+the conditions and procedures for the transmission and use of satellite data transmitted to receiving stations not part of the Copernicus
+programme;
+the conditions and procedures for the archiving of Copernicus data and information;
+the specific technical criteria necessary to prevent the disruption of the Copernicus data and information system, including priority of
+access;
+the criteria for the restriction of dissemination of Copernicus data and information due to conflicting rights or security interests;
+the criteria for the performance of the security assessment.
+The Commission shall carry out appropriate consultations during its preparatory work, including at expert level.When preparing and drawing up
+delegated acts, it should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and to
+the Council.
+
+2013/0164(COD) - 03/12/2013 Debate in Council
+The Council agreed on a general approach concerning the "Copernicus programme", the space programme for monitoring the Earth from the
+space, with a view to entering into negotiations with the European Parliament for its timely adoption.
+Copernicus shall be a civil, user driven programme under civil control, building on the existing national and European capacities, as well as
+ensuring continuity with the activities achieved under the Global Monitoring for Environment and Security (GMES).
+Copernicus shall consist of the following components:
+a service component ensuring delivery of information in the following areas: atmosphere monitoring, climate change monitoring,
+emergency management, land monitoring, marine monitoring and security;
+a space component ensuring sustainable spaceborne observations for the service areas referred to in the Regulation;
+an in-situ component ensuring coordinated access to observations through airborne, seaborne and ground-based installations for the
+service areas referred to in the Regulation.
+The maximum amount allocated by the Union to implement the activities shall be EUR 3 786 million at 2011 prices for the period from 1
+January 2014 to 31 December 2020.
+The amount shall be broken down in the following categories of expenditure at 2011 prices:
+for the activities under the service component, EUR 791 711 million;
+for the activities under the space component, EUR 2 994.289 million, including a maximum amount of EUR 26.5 million for the other
+activities referred to in the Regulation.
+The recitals have also been examined in depth at a technical level. They add that:
+In order to attain its objectives, the Copernicus programme should rely on an autonomous Unions capacity for space borne
+observations and provide operational services in the field of environment, civil protection and security, fully respecting national
+mandates on official warnings.
+The evolution of the space component should be based on an analysis of options to meet the evolving users needs, including
+procurement from national/public missions and commercial providers in Europe, specification of new dedicated missions, international
+agreements ensuring access to non-European missions, and the European Earth observation market.
+
+2013/0164(COD) - 14/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Vittorio PRODI (S&D, IT) on the proposal for a regulation of the
+European Parliament and of the Council establishing the Copernicus Programme and repealing Regulation (EU) No 911/2010.
+The committee recommended that Parliaments position adopted in first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Scope: the Copernicus programme must ensure continuity with the activities achieved under the GMES programme and shall comprise the
+following:
+·
+
+a service component ensuring access to information in the following areas: atmosphere monitoring, climate change monitoring,
+emergency management, land monitoring, marine monitoring and security;
+
+·
+
+a space component ensuring sustainable space-borne observations for the service areas referred to above;
+
+·
+
+an in-situ component ensuring coordinated access to observations through airborne, seaborne and ground-based installations,
+
+including unmanned ones, for the service areas referred to in point (a) and calibration and validation activities for space-borne
+observations.
+Objectives: Copernicus shall contribute both to monitoring and protection of the environment and provision of support to civil protection
+and civil security efforts and also to fostering the development of a strong and balanced space industry across the Union.
+With regard to monitoring and protection of the environment, Members stressed the need for reliable data, supplied on a long term, continuous
+and sustainable basis. With regard to the development of a European space industry, Members stressed the need for completion of the
+dedicated space infrastructure in terms of satellites deployed and data produced, taking into account the available budget.
+Copernicus operation: Members detailed the different components of Copernicus:
+1) Services: this will include the atmosphere monitoring service providing information on air quality on a European scale and the observation
+of forest canopies, and waste flows. There shall be no priority among the services. Services shall be operated in accordance with the
+subsidiarity and proportionality principles, fully respecting existing national mandates. Therefore, they shall enable the development of
+decentralised downstream services which shall integrate at European level, existing space, in-situ and reference data in Member States to
+avoid duplication. The report made provision for certain activities in order to ensure the evolution of the services and their public-sector uptake.
+2) Space component: this must provide space-borne observations, serving primarily the operational services above. The Copernicus space
+component shall include the following activities:
+·
+
+tasking of the satellites, monitoring and control of the satellites, reception and processing, archiving and dissemination of data, and
+permanent calibration and validation;
+
+·
+
+activities in response to evolving needs of the users
+
+·
+
+protection of satellites against the risk of collision
+
+3) In-situ component: this will include coordination and harmonisation of the collection and provision of in-situ data and the identification and
+addressing of gaps in the in-situ observations that cannot be filled by existing infrastructure and networks.
+Financial envelope: whilst not amending the amount set out in the proposal (EUR 3 786 million in 2011 prices) Members proposed an
+allocation in percentage terms between the specific objectives of Copernicus, these being delivering the operational services in accordance to
+users needs and providing a sustainable and reliable access to space-borne observations.
+The report added that where it proves necessary to deviate from the allocation for a specific objective by more than 5 percentage points, the
+Commission shall be empowered to adopt delegated acts in to amend that allocation.
+Forms of Union funding: Union funding may take the following legal forms: (i) delegation agreements; (ii) grants; (iii) public procurement
+contracts. Genuine competition, transparency and equal treatment shall be ensured in the provision of funding by the Union. The report added
+that the Commission shall report to the European Parliament and to the Council on the allocation of Union funds, the evaluation process and
+results of the procurement tenders and of the contracts concluded.
+Role of the Commission: the Commission shall have overall responsibility for the Copernicus programme. It shall define the priorities and
+objectives of the programme and oversee its implementation, in particular with respect to cost, schedule and performance and security
+interests and shall provide to the Member States and the European Parliament all relevant information pertaining to the programme through a
+yearly report on the implementation results.
+The report contains additional provisions on the Commissions activities in this regard. The Commission may adopt implementing acts to
+promote the convergence of Member States in the use of Copernicus data . It shall ensure the complementarity and consistency of the
+Copernicus programme by creating the appropriate links with relevant Union policies, instruments, programmes and actions to ensure that
+they benefit from Copernicus services.
+The Commission must also:
+·
+
+take adequate measures to ensure the full participation of private resources in support of the Copernicus programme;
+
+·
+
+support a wide-ranging information campaign for local authorities of Copernicus data and services;
+
+·
+
+adopt a work programme through implementing act.
+
+ESA: the report contains a new Article on the European Space Agency. The latter shall conclude a delegation agreement with the Commission
+and be responsible for (i) the development and procurement of the Copernicus system space component; (ii) organisation of a procurement
+process for entrusting the operation of the dedicated missions to a suitable entity with the exception of missions operated by EUMETSAT. The
+delegation agreement shall be referred to the Copernicus Committee for consultation and communicated to the European Parliament.
+Public procurement: the report contains a new chapter on public procurement setting out the general principles regarding the objectives of the
+procurement procedure including sub-contracting. The principles of open access and fair competition throughout the industrial supply chain
+must be observed.
+Data protection: Copernicus data and information shall be made available on a full, open and free-of-charge basis, particularly for emergency
+situations and for development aid purposes. No later than 1 January 2017 the Commission shall, in consultation with all relevant
+stakeholders, conduct a review of the impact of this data policy on the European data and service market. If appropriate, the review may lead
+to a revision of the data policy.
+"User Forum": the Commission may be assisted by a dedicated body, the "User Forum", bringing together representatives of mid and end
+users, independent experts etc. The European Parliament, the Council and the Copernicus Committee shall be fully informed about its
+proceedings.
+Dedicated network for Copernicus data distribution: to promote and facilitate the use of Earth observation technologies both by local authorities
+and by SMEs, the Commission shall be assisted by a dedicated network for Copernicus data distribution, including national and regional
+bodies to support the use of earth observation technologies by local authorities and SMEs.
+International agreements concluded by the Union may provide for the involvement, as appropriate, of representatives of third countries or
+
+international organisations in the work of Copernicus Committee under the conditions laid down in its rules of procedure.
+Evaluation report: by 1 January 2017 at the latest, an evaluation report shall be established by the Commission on the achievement of the
+objectives of all the tasks financed by the Copernicus programme. The evaluation shall include an analysis of the impact of Article 14 on the
+European data and services market, and if appropriate be accompanied by proposals to amend this Regulation. The results of the evaluation
+report shall form the basis for a Commission proposal for a revision of this Regulation, to be submitted no later than 1 January 2020.
+
+2013/0164(COD) - 12/03/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 640 to 32 votes with 7 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council establishing the Copernicus Programme and repealing Regulation (EU) No 911/2010.
+Parliament adopted its position at first reading following the ordinary legislative procedure. The amendments adopted in plenary are the result
+of an agreement negotiated between the European Parliament and the Council. They modify the proposal as follows:
+Scope: Copernicus is a civil, user driven programme under civil control, building on the existing national and European capacities, as well as
+ensuring continuity with the activities achieved under the Global Monitoring for Environment and Security.
+It consists of the following components:
+a service component ensuring access to information in the following areas: i) atmosphere monitoring, ii) marine monitoring, iii) land
+monitoring, iv) climate change monitoring, v) emergency management, vi) security;
+a space component ensuring sustainable space-borne observations for the service areas referred to above;
+an in-situ component ensuring coordinated access to observations through airborne, seaborne and ground-based installations for the
+service areas referred to above.
+Appropriate links and interfaces between the components referred to shall be established.
+Objectives: the objectives of Copernicus are redefined as follows:
+1.
+
+monitoring the Earth to support the protection of the environment and the efforts of civil protection and civil security;
+
+2.
+
+maximising socio-economic benefits, thereby supporting the Europe 2020 strategy and its objectives of smart, sustainable and
+inclusive growth by promoting the use of Earth observation in applications and services;
+
+3.
+
+fostering the development of a competitive European space and services industry and maximising opportunities for European
+enterprises to develop and provide innovative Earth observation systems and services;
+
+4.
+
+ensuring autonomous access to environmental knowledge and key technologies for Earth observation and geoinformation services,
+thereby enabling Europe to achieve independent decision-making and action;
+
+5.
+
+supporting and contributing to European policies and fostering global initiatives, such as GEOSS.
+
+These objectives were detailed as part of the specific objectives focusing on the needs of end-users of Copernicus. The achievement of the
+objectives would be measured by indicators of the results specified in the proposal in particular progress observed in terms of increased users
+and data.
+Components: the different components of Copernicus were detailed as follows:
+1)component services: among other things, Copernicus should focus on monitoring the atmosphere and the marine and terrestial environment.
+Regarding monitoring of the marine environment, the focus would be on oceans and marine ecosystems, and the monitoring of waste flows,
+marine environmental, coastal and polar regions, and of marine resources as well as meteorological forecasting and climate monitoring. The
+land monitoring service would include information on land use, cryosphere, climate change and biogeophysical variables, including their
+dynamics.
+The provision of the services referred should in any case take account of the principles of subsidiarity and proportionality and should be
+carried out, where appropriate, decentralised, integrated at the European level data and space capabilities, in-situ and reference, existing in
+the Member States, so as to avoid any duplication.
+Measures have also been introduced to allow the evolution of the services referred to and their adoption by the public sector.
+2) Copernicus space component: on space matters, the component of Copernicus consists mainly of:
+·
+
+the provision of spaceborne observations, including operation of dedicated missions;
+
+·
+
+activities in response to evolving needs of the users, including identification of observation gaps and specification of new dedicated
+missions on the basis of user requirements, developments aiming at modernising and complementing the dedicated missions,
+including design and procurement of new elements of the related space infrastructure;
+
+·
+
+protectionof satellites against the risk of collision and tracking objects in orbit;
+
+·
+
+safe decommissioning of the satellites at the end of life.
+
+3)Copernicus in situ component: the in situ component shall also cover the coordination and harmonisation of the collection and provision of in
+situ data or identification of gaps in the in situ observations that cannot be filled by existing infrastructure and networks, including at global
+level, and adressing those gaps, while respecting the principle of subsidiarity
+N.B. the Commission may entrust, in part or in full, the activities of the in situ component to the service operators referred to or, when overall
+coordination is required, to the European Environment Agency.
+Financial envelope: the financial envelope for the implementation of the activities of Copernicus is set at EUR 4 291,48 million for the period
+from 2014 to 2020 allocated as follows:
+
+·
+
+EUR 897 415 millions for Copernicus in situ services;
+
+·
+
+EUR 3 394 065 millions for the Copenicus space component including a maximum amount of EUR 26.5 million for the protection of
+satellites against the risk of collision.
+
+The Commission may re-allocate funds from one category of expenditure to another, up to a ceiling of 10% of the total amount. A specific
+procedure is foreseen to this effect.
+Governance of Copernicus: a new chapter on governance specified the roles and tasks attributed to the Commission as well as ESA and other
+partners involved in the project.
+1)Role de la Commission: the Commission shall have overall responsibility for Copernicus and for the coordination among its different
+components. It shall manage the funds allocated under this Regulation and oversee the implementation of Copernicus. It shall also be
+responsible for:
+·
+
+managing, on behalf of the Union, relationships with third countries and international organisations;
+
+·
+
+facilitating coordinated contributions of Member States;
+
+·
+
+supporting the development of Copernicus services and ensuring the complementarity, consistency and links between Copernicus
+and other relevant Union policies, instruments, programmes and actions;
+
+·
+
+promoting a long-term stable investment environment;
+
+·
+
+ensuring decision-making in its areas of competence by the most appropraite procedure; providing to the Member States and the
+European Parliament, in a timely manner, all relevant information pertaining to Copernicus, in particular in terms of risk
+management, overall cost, annual operating costs of each significant item of Copernicus infrastructure.
+
+2) Role of the ESA: the Commission shall conclude a delegation agreement with ESA entrusting it with a series of tasks including the overall
+system architecture for the Copernicus space component, the management of allocated funds and the development of new dedicated
+missions, except those operated by EUMETSAT, as well as a scheme for access to contributing mission data by Copernicus services and the
+conditions of use of commercial satellite data.
+The Commission shall also conclude a delegation agreement with EUMETSAT entrusting it with a certain number of tasks.
+3) Service operators: the Commission may also entrust the service component implementation tasks, by means of delegation agreements or
+contractual arrangements, to certain Union agencies such as the European Environment Agency (EEA), the European Agency for the
+Management of Operational Cooperation at the External Borders of the Member States of the European Union (FRONTEX), the European
+Maritime Safety Agency (EMSA) or other relevant agencies.
+Work programme for Copernicus: the Commission may adopt an annual work programme, including an implementation plan which shall detail
+actions pertaining to the Copernicus, and be forward-looking, taking into account evolving user needs and technological developments.
+Public procurement: a new chapter has been added on public procurement. This chapter details in particular the principles guiding public
+procurement or recourse to subcontracting in the framework of Copernicus. Among other things, the principles of fair and open competition
+shall be appied throughout the industrial supply chain, as well as in tender calls, clear communication of the applicable procurement rules,
+selection and award criteria and any other relevant information allowing a level-playing field for all potential Copernicus bidders.
+Specific objectives have also been introduced into procurment procedures to avoid possible abuse of dominant position and reliance on a
+single supplier.
+Likewise, a series of specific provisions relating to public procurement have been fixed to guarantee:
+·
+
+the establishment of fair conditions of competition;
+
+·
+
+the security of information;
+
+·
+
+the reliability of supply;
+
+·
+
+the rules applicable to conditional stage-payment contracts;
+
+·
+
+the cost-reimbursement contracts;
+
+·
+
+amendments;
+
+·
+
+subcontracting.
+
+Principles and conditions of access to data: the chapter dealing with Copernicus data has also been revised to establish the general
+framework of Copernicus information policy. The underlying principles shall be the following:
+·
+
+promoting the use and sharing of Copernicus data and Copernicus information;
+
+·
+
+strengthening European Earth observation markets, in particular the downstream sector, with a view to enabling growth and job
+creation;
+
+·
+
+contributing to the sustainability and continuity of the provision of Copernicus data and Copernicus information;
+
+·
+
+supporting the European research, technology and innovation communities.
+
+Dedicated mission data and Copernicus information shall be made available through Copernicus dissemination platforms, under technical
+conditions pre-defined in the regulation.
+The proposal also fixes the conditions and limitations of Copernicus data and Copernicus information access and use, in particular the
+principle of the setting by the Commisson of a series of technical measures for the transmission and use of dedicated mission data, the
+archiving of data and the licensing conditions.
+
+Sensitive data: as some Copernicus data and Copernicus information, including high-resolution images, may have an impact on the security of
+the Union or its Member States, in duly justified cases, the Council should be empowered to adopt the measures in order to deal with risks and
+threats to the security of the Union or its Member States.
+Intellectual property: the Union should be the owner of all tangible and intangible assets created or developed under Copernicus. In order to
+comply fully with any fundamental rights relating to ownership, the necessary arrangements should be made with existing owners. Such
+ownership by the Union should be without prejudice to the possibility for the Union to make those assets available to third parties or to dispose
+of them. In particular, the Union should be able to transfer the ownership of, or license the intellectual property rights arising from, work under
+Copernicus in the interest of a strong uptake of Copernicus services by downstream users.
+International cooperation: the international coordination of observation systems and related exchanges of data may be addressed by
+Copernicus, in order to strengthen its global dimension and complementarity taking account of existing international agreements and
+coordination processes.
+User Forum: it is foreseen that the Copernicus Committee shall set up the 'User Forum', as a working group to advise it on user requirements
+aspects.
+Evaluation report: by 31 December 2017, an evaluation report shall be established by the Commission on the achievement of the objectives of
+all the tasks financed by Copernicus. The evaluation shall address the continued relevance of all objectives, as well as the contribution of the
+measures to the objectives described in Article 4, the performance of the organisational structure and the scope of services deployed. The
+evaluation shall focus in particular on maintaining the relevance of all objectives and include an assessment of possible involvement of
+relevant European agencies (including the European GNSS Agency) and if appropriate be accompanied by relevant legislative proposals. The
+report shall assess the impacts of the Copernicus data and Copernicus information policy, on stakeholders, downstream users, the influence
+on business as well as on national and private investments in Earth observation infrastructures.
+
+2013/0164(COD) - 03/04/2014 Final act
+PURPOSE: to establish the Copernicus programme (Global Monitoring for Environment and Security).
+LEGISLATIVE ACT: Regulation (EU) No 377/2014 of the European Parliament and of the Council establishing the Copernicus Programme
+and repealing Regulation (EU) No 911/2010
+CONTENT: Copernicus is the new name of the European Earth Observation Programme, GMES (Global Monitoring for Environment and
+Security) established under Regulation (EU) No 911/2010. This Regulation establishes Copernicus, the Union Earth observation and
+monitoring programme, and lays down the rules for its implementation. Copernicus is a civil, user driven programme under civil control,
+building on the existing national and European capacities, as well as ensuring continuity with the activities achieved under the Global
+Monitoring for Environment and Security.
+It consists of the following components:
+·
+
+a service component ensuring delivery of information in the following six areas: atmosphere monitoring, marine environment
+monitoring, land monitoring, climate change, emergency management and security;
+
+·
+
+a space component ensuring sustainable spaceborne observations for the service areas referred to above;
+
+·
+
+an in situ component ensuring coordinated access to observations through airborne, seaborne and ground-based installations for the
+six service areas.
+
+Appropriate links and interfaces between these components will be established.
+Objectives
+General objectives are as follows:
+·
+
+monitoring the Earth to support the protection of the environment and the efforts of civil protection and civil security;
+
+·
+
+maximising socio-economic benefits, thereby supporting the Europe 2020 strategy by promoting the use of Earth observation in
+applications and services;
+
+·
+
+fostering the development of a competitive European space and services industry and maximising opportunities for European
+enterprises to develop innovative Earth observation systems and services;
+
+·
+
+ensuring autonomous access to environmental knowledge and key technologies for Earth observation and geoinformation services;
+
+·
+
+supporting European policies and fostering global initiatives, such as GEOSS.
+
+In order to attain the general objectives, Copernicus shall have the following specific objectives: (a) delivering accurate and reliable data and
+information to Copernicus users; (b) providing access to spaceborne data and information from an autonomous European Earth observation
+capacity with consistent technical specifications; (c) providing access to in situ data, relying, in particular, on existing capacities operated at
+European and national levels, and on global observation systems and networks.
+Measurement of objectives: these result indicators will be used: (i) Copernicus data made available in accordance with the respective
+service-level delivery requirements for the environment, civil protection and civil security; (ii) increased demand for Copernicus data measured
+by the progression in number of users, etc.; (iii) use of Copernicus data by Union institutions, international organisations and European,
+national, regional or local authorities; (iv) market penetration; (v) sustained availability of Copernicus data supporting its services.
+Financial envelope: for the implementation of the activities relating to the service, space and in-situ components, the financial envelope is set
+at EUR 4 291.48 million in current prices for the period from 1 January 2014 to 31 December 2020.
+This amount is broken down in the following categories of expenditure in current prices:
+
+·
+
+for the activities relating to service and in situ components, EUR 897,415 million;
+
+·
+
+for the activities relating to the space component, EUR 3 394.065 million, including a maximum amount of EUR 26.5 million for
+protection of satellites against the risk of collision.
+
+Governance: the Commission shall have overall responsibility for Copernicus and for the coordination among its different components, and
+shall manage the funds allocated and oversee the implementation of Copernicus including the setting of priorities, user involvement, cost,
+schedule, performance and procurement.
+The Regulation contains provisions relating to the rules on public procurement. The Financial Regulation, and in particular the principles of
+open access and fair competition throughout the industrial supply chain, tendering on the basis of the provision of transparent and timely
+information, clear communication of the applicable procurement rules, selection and award criteria and any other relevant information allowing
+a level-playing field for all potential bidders, shall apply to Copernicus.
+European Space Agency: Copernicus is based on a partnership between the Union, ESA and the Member States. The Commission shall
+conclude a delegation agreement with ESA entrusting it with certain specified tasks, including ensuring the technical coordination of the
+Copernicus space component. It will also rely on the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT) for
+the operation of dedicated missions in accordance with its expertise and mandate.
+Ownership: the Union shall be the owner of all tangible and intangible assets created or developed under Copernicus. To that effect,
+agreements shall be concluded with third parties with regard to existing ownership rights. The Commission shall ensure the optimal use of the
+assets and in particular, it shall manage the intellectual property rights relating to Copernicus as effectively as possible.
+Evaluation: by 31 December 2017, an evaluation report shall be established by the Commission on the achievement of the objectives of all the
+tasks financed by Copernicus at the level of their results and impacts, their European added value and on the efficiency of the use of
+resources.
+ENTRY INTO FORCE: 25.04.2014.
+APPLICATION: from 01.01.2014.
+DELEGATED ACTS: the Commission may adopt delegated acts as in respect of the data requirements necessary for the evolution of
+operational services, the conditions and procedures regarding access to, registration and use of Copernicus data and Copernicus information,
+the specific technical criteria necessary to prevent the disruption of Copernicus data and Copernicus information and the criteria for the
+restriction of acquisition or dissemination of Copernicus data and Copernicus information due to conflicting rights. The European Parliament or
+the Council may raise objections in regard to a delegated act within two months of notification of that act (this period may be extended by two
+months). If the European Parliament or the Council make objections, the delegated act will not enter into force.
+
+

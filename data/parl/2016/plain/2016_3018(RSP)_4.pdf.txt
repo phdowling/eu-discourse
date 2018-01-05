@@ -1,0 +1,164 @@
+Procedure file
+Basic information
+2016/3018(RSP)
+
+RSP - Resolutions on topical subjects
+
+Procedure completed
+
+Resolution on the adequacy of the protection afforded by the EU-US Privacy
+Shield
+
+Subject
+1.20.09 Protection of privacy and data protection
+Geographical area
+United States
+
+Key players
+European Parliament
+
+Committee responsible
+LIBE
+
+Rapporteur
+
+Civil Liberties, Justice and Home Affairs
+
+Appointed
+11/07/2016
+
+MORAES Claude
+Shadow rapporteur
+
+VOSS Axel
+
+IN 'T VELD Sophia
+
+ERNST Cornelia
+
+ALBRECHT Jan Philipp
+
+VON STORCH Beatrix
+
+Key events
+05/04/2017
+
+Debate in Parliament
+
+06/04/2017
+
+Results of vote in Parliament
+
+06/04/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+06/04/2017
+
+End of procedure in Parliament
+
+T8-0131/2017
+
+Technical information
+Procedure reference
+
+2016/3018(RSP)
+
+Procedure type
+
+RSP - Resolutions on topical subjects
+
+Procedure subtype
+
+Resolution on statement
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 123-p2
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+LIBE/8/08645
+
+Summary
+
+Documentation gateway
+Amendments tabled in committee
+
+PE597.621
+
+30/01/2017
+
+EP
+
+Motion for a resolution
+
+B8-0235/2017
+
+06/04/2017
+
+EP
+
+Motion for a resolution
+
+B8-0244/2017
+
+06/04/2017
+
+EP
+
+Text adopted by Parliament, single reading
+
+T8-0131/2017
+
+06/04/2017
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2017)487
+
+07/09/2017
+
+Summary
+
+2016/3018(RSP) - 06/04/2017 Text adopted by Parliament, single reading
+The European Parliament adopted by 306 votes to 240, with 40 abstentions, a resolution tabled by the Committee on Civil Liberties, Justice
+and Home Affairs on the adequacy of the protection afforded by the EU-US Privacy Shield.
+The EU-US Privacy Shield replaced the former Safe Harbour decision, which was invalidated by a EU Court of Justice judgment on 6 October
+2015 (the Schrems case).
+Parliament welcomed the fact that, following further discussions with the US administration, the Commission adopted its implementing decision
+2016/1250 declaring the adequate level of protection for personal data transferred from the Union to organisations in the United States under
+the EU-US Privacy Shield.
+As at 23 March 2017, 1 893 US organisations have joined the EU-US Privacy Shield. Members regretted that the Privacy Shield is based on
+voluntary self-certification and therefore applies only to US organisations which have voluntarily signed up to it, which means that many
+companies are not covered by the scheme.
+Despite the assurances given by the US Government and the significant improvements in the clarity of standards compared to the former
+EU-US Safe Harbour, Members raised a number of concerns regarding certain aspects national security and law enforcement, including:
+the significant difference between the protection provided by Directive 95/46/EC and the notice and choice principle of the Privacy
+Shield arrangement, as well as the considerable differences between the Directive and the data integrity and purpose limitation
+principle of the Privacy Shield arrangement;
+the lack of specific rules on automated decision-making and on a general right to object, and the lack of clear principles on how the
+Privacy Shield Principles apply to processors (agents);
+the fact that only a fraction of the US organisations that have joined the Privacy Shield have chosen to use an EU data protection
+authority for the dispute resolution mechanism;
+recent revelations about surveillance activities conducted by a US electronic communications service provider on all emails reaching
+its servers, upon request of the National Security Agency (NSA) and the FBI, as late as 2015, i.e. one year after Presidential Policy
+Directive 28 was adopted and during the negotiation of the EU-US Privacy Shield;
+lack of effective judicial redress rights for individuals in the EU whose personal data are transferred to a US organisation;
+the absence of a uniform definition of "bulk surveillance" that would reflect European understanding of the term and ensure that the
+evaluation of data is not made dependent on selection; Members deplored the fact that the EU-US Privacy Shield does not prohibit the
+collection of bulk data for law enforcement purposes;
+sufficient independence of the Ombudsperson mechanism set up by the US Department and the fact that it is not vested with sufficient
+effective powers to carry out its duties and provide effective redress to EU individuals.
+On the basis of these considerations, the resolution called on the Commission to take all the necessary measures to ensure that the Privacy
+Shield will fully comply with Regulation (EU) 2016/679 (General Data Protection Regulation), to be applied as from 16 May 2018, and with the
+EU Charter of Fundamental Rights of the European Union.
+
+

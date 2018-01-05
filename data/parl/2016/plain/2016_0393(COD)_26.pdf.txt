@@ -1,0 +1,282 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0393(COD)
+
+Procedure completed, awaiting publication in Official Journal
+05/07/2017 Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+European statistical system: territorial typologies (Tercet)
+Amending Regulation (EC) No 1059/2003 2001/0046(COD)
+Subject
+4.70 Regional policy
+8.60 European statistical legislation
+
+Key players
+European Parliament
+
+Committee responsible
+REGI
+
+Rapporteur
+
+Regional Development
+
+Appointed
+06/02/2017
+
+MIHAYLOVA Iskra
+Shadow rapporteur
+
+MALETIĆ Ivana
+
+KREHL Constanze
+
+TOMAŠIĆ Ruža
+
+OMARJEE Younous
+
+ROPĖ Bronis
+
+D'AMATO Rosa
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+Commissioner
+MOGHERINI Federica
+
+Key events
+13/12/2016
+
+Legislative proposal published
+
+COM(2016)0788
+
+Summary
+
+15/12/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+20/06/2017
+
+Vote in committee, 1st reading/single
+reading
+
+20/06/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+22/06/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0231/2017
+
+Summary
+
+09/10/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE612.034 GEDA/A/(2017)009081
+
+13/11/2017
+
+Debate in Parliament
+
+14/11/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+04/12/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+12/12/2017
+
+Final act signed
+
+12/12/2017
+
+End of procedure in Parliament
+
+Summary
+
+T8-0424/2017
+
+Technical information
+Procedure reference
+
+2016/0393(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 1059/2003 2001/0046(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed, awaiting publication in Official Journal
+
+Committee dossier
+
+REGI/8/08755
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0788
+
+13/12/2016
+
+EC
+
+PE602.748
+
+14/06/2017
+
+EP
+
+A8-0231/2017
+
+22/06/2017
+
+EP
+
+CDR1528/2017
+
+12/07/2017
+
+CofR
+
+GEDA/A/(2017)009081
+
+04/10/2017
+
+CSL
+
+T8-0424/2017
+
+14/11/2017
+
+EP
+
+Committee draft report
+Committee report tabled for plenary, 1st
+reading/single reading
+Committee of the Regions: opinion
+Coreper letter confirming interinstitutional
+agreement
+Text adopted by Parliament, 1st reading/single
+reading
+
+Summary
+
+Summary
+
+Summary
+
+2016/0393(COD) - 13/12/2016 Legislative proposal
+PURPOSE: to complement Regulation (EC) No 1059/2003 on the establishment of a common classification of territorial units for statistics
+(NUTS) with the necessary elements to take into account recent developments in territorial classifications for statistical purposes.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: Regulation (EC) No 1059/2003 of the European Parliament and of the Council establishes a common classification of
+territorial units for statistics (Nomenclature of territorial units for statistics NUTS) in order to enable the collection, compilation and
+dissemination of harmonised regional statistics in the EU.
+These statistics are widely used in the context of EU regional policy and to determine eligibility for regions under the cohesion funds.
+Over the past few years, Eurostat has expanded the range of statistics published on a number of territorial typologies to address EU
+policy-makers increasing need for such data. The Commission has defined these territorial typologies in cooperation with the Organisation for
+Economic Cooperation and Development (OECD), and adopted methodologies to set up and maintain them.
+The European Statistical System (ESS) already uses those typologies, in particular the degree of urbanisation, including the definition of cities
+
+in order, for instance, to define eligibility for European Regional Development Fund support to carry out innovative actions in cities or towns
+and suburbs.
+However, the NUTS Regulation does not yet include or legally define these territorial typologies to determine urban, rural, coastal and/or other
+areas and regions in the EU, although they are already being used. The fact that these typologies and their methodologies have no legal
+recognition and are not formally recognised by the European Statistical System (ESS) is an issue that needs to be addressed to establish
+them as recognised, impartial and transparent statistical typologies.
+CONTENT: it is proposed to amend or replace some provisions of Regulation (EC) No 1059/2003 in order to incorporate typologies into the
+NUTS Regulation which interlink with several statistical domains, like regional accounts, the labour market, rural development, agriculture,
+tourism, maritime policy and more.
+It would make it possible to aggregate data according to clear-cut typologies: for instance making it possible to compare GDP in rural as
+opposed to urban areas, tourist nights spent in coastal as opposed to non-coastal areas and regions, employment/unemployment by degree of
+urbanisation and much more.
+The main policy objectives of the initiative are the following.
+establish a legal recognition of territorial typologies, including the definition of cities, for the purpose of European statistics: this will
+make it possible for thematic statistical regulations and policy initiatives to refer to these territorial typologies for the purpose of
+collecting European statistics and/or to target specific territories such as cities, urban, rural or coastal areas and regions in policy. The
+initiative will therefore cover the existing territorial typologies based on NUTS level 3 (e.g. urban-rural typology, metropolitan regions),
+the local administrative units (e.g. degree of urbanisation, cities, coastal areas) and the 1 km² grid level required to calculate the other
+typologies, which are based on population distribution and density in the grid cells;
+lay down the core definitions and statistical criteria for the different territorial typologies. For this purpose, the initiative will use the
+already existing methodologies for the different typologies;
+ensure harmonised and transparent application and use of the territorial typologies at EU level and in Member States;
+to align the NUTS Regulation to the new rules of the Treaty on the Functioning of the European Union (TFEU), powers currently
+conferred on the Commission by that regulation to adopt acts designed to amend non-essential elements of the regulation by
+supplementing it, in accordance with the regulatory procedure with scrutiny, should be provided for by powers to adopt delegated acts.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2016/0393(COD) - 22/06/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Regional Development adopted the report by Iskra MIHAYLOVA (ALDE, BG) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 1059/2003 as regards the territorial typologies (Tercet).
+The committee recommended that the European Parliament adopt its position at first reading in accordance with the ordinary legislative
+procedure, taking over the Commission proposal.
+The main objective of the amendments proposed by the Commission to the existing legislation is to introduce legal recognition of territorial
+typologies, including a definition of cities, for the purpose of European statistics.
+The proposal would make it possible to aggregate data on the basis of typologies. For example, urban GDP could be compared with that of
+rural areas and employment could be measured according to the degree of urbanisation.
+The proposal is of a technical nature and therefore does not affect the budget of the Union.
+
+2016/0393(COD) - 14/11/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 639 votes to 37, with 6 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EC) No 1059/2003 as regards the territorial typologies (Tercet).
+The European Parliaments position adopted at first reading under the ordinary legislative procedure amended the Commission proposal as
+follows:
+Subsidiarity: Members pointed out that, in view of the objective of this Regulation, namely the harmonisation of regional classification, the
+Union may adopt measures, in accordance with the principle of subsidiarity. They also stated the statistical typologies are without prejudice to
+the identification of specific areas for Union policies.
+Implementing acts: the proposal provides for the Commission to lay down, by means of implementing acts, uniform conditions for the
+harmonised application of typologies at Union level.
+Parliament clarified that these conditions shall describe the method according to which the typologies will be assigned to the individual LAU
+and NUTS level 3 regions. When applying the uniform conditions, the Commission shall take into account geographical, socioeconomic,
+historical, cultural and environmental circumstances.
+Delegated acts: the power to adopt delegated acts shall be conferred on the Commission for a period of five years (tacitly renewable) from the
+date of entry into force of the Regulation. Delegated acts shall be developed in accordance with the information provided by the Member
+States.
+
+

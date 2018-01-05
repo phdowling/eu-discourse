@@ -1,0 +1,274 @@
+Procedure file
+Basic information
+2015/2259(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Implementation of the Food Contact Materials Regulation (EC)
+No 1935/2004
+See also Regulation (EC) No 1935/2004 2003/0272(COD)
+Subject
+4.60.04.04 Food safety
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Rapporteur
+
+Environment, Public Health and Food Safety
+
+Appointed
+02/09/2015
+
+SCHALDEMOSE
+Christel
+Shadow rapporteur
+
+COLLIN-LANGEN Birgit
+
+NICHOLSON James
+
+JÄÄTTEENMÄKI Anneli
+
+ECK Stefan
+
+HÄUSLING Martin
+
+PEDICINI Piernicola
+D'ORNANO Mireille
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Health and Food Safety
+
+ANDRIUKAITIS Vytenis Povilas
+
+Key events
+29/10/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+12/07/2016
+
+Vote in committee, 1st reading/single
+reading
+
+18/07/2016
+
+Committee report tabled for plenary,
+single reading
+
+05/10/2016
+
+Debate in Parliament
+
+06/10/2016
+
+Results of vote in Parliament
+
+06/10/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+06/10/2016
+
+End of procedure in Parliament
+
+A8-0237/2016
+
+Summary
+
+T8-0384/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2015/2259(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Implementation
+See also Regulation (EC) No 1935/2004 2003/0272(COD)
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/8/03960
+
+Documentation gateway
+Committee draft report
+
+PE575.317
+
+26/04/2016
+
+EP
+
+Amendments tabled in committee
+
+PE584.109
+
+07/06/2016
+
+EP
+
+Committee report tabled for plenary, single reading
+
+A8-0237/2016
+
+18/07/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0384/2016
+
+06/10/2016
+
+EP
+
+Summary
+
+SP(2017)67
+
+29/03/2017
+
+Commission response to text adopted in plenary
+
+2015/2259(INI) - 18/07/2016 Committee report tabled for plenary, single reading
+The Committee on the Environment, Public Health and Food Safety adopted the own-initiative report by Christel SCHALDEMOSE (S&D, DK)
+on the implementation of the Food Contact Materials (FCMs) Regulation ((EC) No 1935/2004.
+Members acknowledged that the Framework Regulation (EC) No 1935/2004 constitutes a solid legal basis, the objectives of which remain
+relevant. They considered that the adoption of specific measures to overcome shortcomings that exist in the implementation and enforcement
+of the legislation in place are needed.
+Specific measures: the Framework Regulation lists 17 food contact materials and articles (FCMs) which may be covered by specific measures.
+Out of the above 17, only 4 materials are subject to specific EU measures: plastics (including recycled plastics), ceramics, regenerated
+cellulose, and active and intelligent materials.
+The other 13 materials listed in Annex I, the possibility remains for Member States to adopt national provisions.
+While the major focus should be on the adoption of specific measures for those 13 materials not yet regulated at EU level, all relevant
+stakeholders point out that shortcomings exist in the implementation and enforcement of the legislation in place .
+Members pointed out that, given the prevalence of the materials referred to on the EU market and the risk they pose to human health, the
+Commission should forthwith prioritise the drawing-up of specific EU measures for paper and board, varnishes and coatings, metals and
+alloys, printing inks and adhesives.
+The report noted that special attention needs to be paid to those food contact materials whether directly or indirectly in contact with food with
+a higher risk of migration, such as materials surrounding liquids and high-fat foods, and to materials that are in contact with food for a long
+period of time.
+Members urged the Commission, when drawing up the measures required, to take account of the European Implementation Assessment
+conducted by the European Parliaments Research Service (DG EPRS) and of the national measures which are already in force or are being
+prepared.
+Risk assessment: aware of the important role played by EFSA (European Food and Safety Authority) in the risk assessment of substances for
+use in FCMs regulated by specific measures; Members called on the Commission to increase the level of funding for EFSA. They called on
+EFSA and the European Chemicals Agency (ECHA) to cooperate and coordinate their work more closely.
+The report stressed the need to:
+continue with further scientific research into non-intentionally added substances (NIAS) as, in contrast to known hazardous
+substances, their identity and structure, especially in plastics, are often unknown;
+extend the concept of vulnerable groups to pregnant and breastfeeding women and to include the potential effects of low-dose
+exposure and non-monotonic dose responses in the risk assessment criteria.
+Members regretted that EFSA, in its current risk assessment procedure, does not take account of the so-called cocktail effect or the effect of
+multiple concurrent and cumulative exposures from FCMs and other sources, which can cause adverse effects even if levels of the individual
+
+substances in the mixture are low. They exhorted the EFSA to do so in future.
+The Commission is called upon to ensure:
+ensure coherence between the regulations on FCMs and biocidal products and to clarify the roles of ECHA and EFSA in this respect;
+better coordination and a more coherent approach between the REACH and FCM legislation, in particular as regards substances
+classified as CMRs (categories 1A, 1B and 2) or SVHCs (extremely concerning) under REACH.
+Traceability: Members recommended that all FCMs, whether harmonised or non-harmonised, are accompanied by a declaration of conformity
+(DoC) and the appropriate documentation. They regretted, however, that, even when they are mandatory, DoCs are not always available for
+enforcement purposes, and their quality is not always high enough to ensure that they are a reliable source of compliance documentation.
+The report insisted that imported FCMs from third countries must conform to EU standards, thus safeguarding public health and ensuring fair
+competition.
+The Commission is called upon to establish mandatory labelling of the intended presence of nanomaterials in FCMs and to establish
+mandatory labelling of the composition of the FCMs.
+Compliance, enforcement and controls: Members stressed the importance of developing EU guidelines for FCMs which would facilitate a
+harmonised and uniform implementation and better enforcement in the Member States. Other non-legislative policy options, such as the
+experience of industry self-assessment, should supplement measures to improve the enforcement of the Framework Regulation on FCMs.
+The Commission are called upon to ensure that the Member States that have not already done so impose an obligation on all companies
+producing or importing Food Contact Materials to officially register their business activity.
+Member States should increase the frequency and efficiency of official controls, based on the risk of non-compliance as well as on the health
+risks involved.
+Lastly, the report called for more effective cooperation and coordination between the Member States and the Commission on the early warning
+system for foodstuffs and feedingstuffs, so that risks to public health can be dealt with quickly and effectively.
+
+2015/2259(INI) - 06/10/2016 Text adopted by Parliament, single reading
+The European Parliament adopted by 559 votes to 31, with 26 abstentions a resolution on the implementation of the Food Contact Materials
+(FCMs) Regulation ((EC) No 1935/2004.
+Members acknowledged that the Framework Regulation (EC) No 1935/2004 constitutes a solid legal basis, the objectives of which remain
+relevant. They considered that the adoption of specific measures to overcome shortcomings that exist in the implementation and enforcement
+of the legislation in place are needed.
+Successes and gaps of the implementation of EU legislation: Members underlined that, while the major focus should be on the adoption of
+specific measures for those 13 materials not yet regulated at EU level, all relevant stakeholders point out that shortcomings exist in the
+implementation and enforcement of the legislation in place.
+Taking account of the risks they pose to human health, the Commission should prioritise the drawing-up of specific EU measures for paper
+and board, varnishes and coatings, metals and alloys, printing inks and adhesives.
+Given the risk of migration of mineral oils into food from food contact materials and articles made of paper and board, Parliament supported,
+pending the adoption of specific measures and a possible ban on mineral oils in inks, further research aimed at preventing such migration.
+Members are of the opinion that the adoption of further specific measures at EU level would encourage business operators to develop safe
+reusable and recycled FCMs, thereby contributing to the EUs efforts to establish a more effective circular economy.
+The Commission is urged, when drawing up the measures required, to take account of the European Implementation Assessment conducted
+by the European Parliamentary Research Service (EPRS) and of the national measures which are already in force or are being prepared.
+Risk assessment: aware of the important role played by EFSA (European Food and Safety Authority) in the risk assessment, Parliament called
+on the Commission to increase the level of funding for EFSA. It called on EFSA and the European Chemicals Agency (ECHA) to cooperate
+and coordinate their work more closely.
+The resolution stressed the need to:
+continue with further scientific research into non-intentionally added substances (NIAS) as, in contrast to known hazardous
+substances, their identity and structure, especially in plastics, are often unknown;
+extend the concept of vulnerable groups to pregnant and breastfeeding women and to include the potential effects of low-dose
+exposure and non-monotonic dose responses in the risk assessment criteria.
+Members regretted that EFSA, in its current risk assessment procedure, does not take account of the so-called cocktail effect or the effect of
+multiple concurrent and cumulative exposures from FCMs and other sources, which can cause adverse effects even if levels of the individual
+substances in the mixture are low. They exhorted the EFSA to do so in future.
+The Commission is called upon to ensure:
+ensure coherence between the regulations on FCMs and biocidal products and to clarify the roles of ECHA and EFSA in this respect;
+better coordination and a more coherent approach between the REACH and FCM legislation, in particular as regards substances
+classified as CMRs (categories 1A, 1B and 2) or SVHCs (extremely concerning) under REACH;
+ensure that harmful substances phased out under REACH are also phased out in FCMs.
+Parliament also called on the Commission to consider identifying Bisphenol A (BPA) as one of the substances classified as a substance of
+very high concern (SVHC).
+
+Traceability: Parliament recommended that all FCMs, whether harmonised or non-harmonised, are accompanied by a declaration of
+conformity (DoC) and the appropriate documentation. It insisted that imported FCMs from third countries must conform to EU standards, thus
+safeguarding public health and ensuring fair competition.
+The Commission is called upon to establish mandatory labelling of the intended presence of nanomaterials in FCMs and to establish
+mandatory labelling of the composition of the FCMs.
+Compliance, enforcement and controls: Parliament stressed the importance of developing EU guidelines for FCMs which would facilitate a
+harmonised and uniform implementation and better enforcement in the Member States. Other non-legislative policy options, such as the
+experience of industry self-assessment, should supplement measures to improve the enforcement of the Framework Regulation on FCMs.
+The Commission is called upon to ensure that the Member States that have not already done so impose an obligation on all companies
+producing or importing Food Contact Materials to officially register their business activity.
+Member States should increase the frequency and efficiency of official controls, based on the risk of non-compliance as well as on the health
+risks involved.
+Lastly, Parliament called for more effective cooperation and coordination between the Member States and the Commission on the early
+warning system for foodstuffs and feedingstuffs, so that risks to public health can be dealt with quickly and effectively.
+
+

@@ -1,0 +1,482 @@
+Procedure file
+Basic information
+2013/2061(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+eHealth Action Plan 2012-2020 - Innovative healthcare for the 21st century
+
+Subject
+2.40.02 Public services, of general interest, universal service
+3.30.06 Information and communication technologies
+3.30.20 Trans-European communications networks
+3.50.04 Innovation
+4.20.02 Medical research
+4.20.06 Health services, medical institutions
+4.60.06 Consumers' economic and legal interests
+4.70.07 European Regional Development Fund (ERDF)
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Environment, Public Health and Food Safety
+
+Rapporteur
+
+Appointed
+
+PPE AYUSO Pilar
+
+25/04/2013
+
+Shadow rapporteur
+S&D TĂNĂSESCU Claudiu
+Ciprian
+ALDE PARVANOVA Antonyia
+ECR NICHOLSON James
+GUE/NGL ANDERSON
+Martina
+Committee for opinion
+
+Appointed
+
+Employment and Social Affairs
+
+The committee decided not to
+give an opinion.
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+S&D IRIGOYEN PÉREZ María 18/12/2012
+
+REGI
+
+Regional Development
+
+EFD IMBRASAS Juozas
+
+19/03/2013
+
+PPE RONZULLI Licia
+
+18/04/2013
+
+EMPL
+
+ITRE
+
+FEMM
+
+European Commission
+
+Rapporteur for opinion
+
+Women's Rights and Gender Equality
+
+Commission DG
+
+Commissioner
+
+Health and Food Safety
+
+BORG Tonio
+
+Key events
+06/12/2012
+
+Non-legislative basic document published
+
+18/04/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+27/11/2013
+
+Vote in committee, 1st reading/single
+reading
+
+05/12/2013
+
+Committee report tabled for plenary,
+single reading
+
+13/01/2014
+
+Debate in Parliament
+
+14/01/2014
+
+Results of vote in Parliament
+
+COM(2012)0736
+
+Summary
+
+A7-0443/2013
+
+Summary
+
+14/01/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+14/01/2014
+
+End of procedure in Parliament
+
+Summary
+
+T7-0010/2014
+
+Technical information
+Procedure reference
+
+2013/2061(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/7/11532
+
+Documentation gateway
+Non-legislative basic document
+Document attached to the procedure
+
+Committee draft report
+
+COM(2012)0736
+
+06/12/2012
+
+EC
+
+N7-0043/2014
+OJ C 358 07.12.2013, p. 0013
+
+27/03/2013
+
+EDPS
+
+PE516.917
+
+05/09/2013
+
+EP
+
+Summary
+
+Committee opinion
+
+REGI
+
+PE514.579
+
+26/09/2013
+
+EP
+
+Committee opinion
+
+FEMM
+
+PE516.618
+
+04/10/2013
+
+EP
+
+Committee opinion
+
+IMCO
+
+PE514.574
+
+08/10/2013
+
+EP
+
+Amendments tabled in committee
+
+PE521.697
+
+18/10/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.557
+
+26/11/2013
+
+EP
+
+Committee report tabled for plenary,
+single reading
+
+A7-0443/2013
+
+05/12/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, single
+reading
+
+T7-0010/2014
+
+14/01/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)320
+
+26/05/2014
+
+2013/2061(INI) - 06/12/2012 Non-legislative basic document
+PURPOSE : to set up an eHealth Action Plan 2012-2020.
+BACKGROUND : EU health systems are under severe budgetary constraints, while having to respond to the challenges of an ageing
+population, rising expectations of citizens, and mobility of patients and health professionals. Information and Communication Technologies
+(ICT) applied to health and healthcare systems can increase their efficiency, improve quality of life and unlock innovation in health markets.
+Despite the economic crisis, the market potential of eHealth is strong. The global telemedicine market has grown from $9.8 billion in 2010 to
+$11.6 billion in 2011, and is expected to continue to expand to $27.3 billion in 2016, representing a compound annual growth rate of 18.6%.
+The first eHealth Action Plan was adopted in 2004. Since then, the European Commission has been developing targeted policy initiatives
+aimed at fostering widespread adoption of eHealth throughout the EU. For instance, the Commission Recommendation on cross-border
+interoperability of electronic health record systems (2008/594/EC), theCommunication on benefits of telemedicine for patients healthcare
+systems and society.
+The adoption of the Directive 2011/24/EU on the application of patients' rights in cross-border healthcare establishing the eHealth Network,
+marked a further step towards formal cooperation on eHealth. The eHealth Network set up by this Directive is the main strategic and
+governance body at EU level to work towards interoperability of cross-border eHealth services.
+Notwithstanding this substantial progress, barriers continue to exist that need to be addressed in order to reap all the benefits from a fully
+
+mature and interoperable eHealth system in Europe.
+CONTENT : the new eHealth Action Plan outlines the vision for eHealth in Europe, in line with the objectives of the Europe 2020 Strategy and
+the Digital Agenda for Europe. The vision of this Action Plan is to utilise and develop eHealth to address several of the most pressing health
+and health systems challenges of the first half of the 21st century:
+to improve chronic disease and multimorbidity (multiple concurrent disease) management and to strengthen effective prevention and
+health promotion practices;
+to increase sustainability and efficiency of health systems by unlocking innovation, enhancing patient/citizen-centric care and citizen
+empowerment and encouraging organisational changes;
+to foster cross-border healthcare, health security, solidarity, universality and equity;
+to improve legal and market conditions for developing eHealth products and services.
+The Action Plan addresses the barriers and the following operational objectives:
+(1) Achieving wider interoperability of eHealth services : the Commission recognises the need for an eHealth interoperability framework,
+building on eHealth roadmaps and the general European Interoperability Framework with its four levels of interoperability: legal, organisational,
+semantic and technical.
+(2) Supporting research, development and innovation in eHealth and wellbeing to address the lack of availability of user-friendly tools and
+services : short-term and mid-term research priorities include health and wellbeing solutions for citizens and health professionals, better quality
+of care, including of chronic diseases, while increasing citizens autonomy, mobility and safety. Particular attention is paid to the design and
+usercentricity of mobile technologies and applications. There will be an additional focus on ways of analysing and mining large amounts of
+data for the benefit of individual citizens, researchers, practitioners, businesses and decision makers. The Commission shall support:
+Public-Private Partnerships and other actions involving research and innovation and translation of knowledge to clinical trials and
+demonstration projects;
+actions to improve the market conditions for entrepreneurs developing products and services in the fields of eHealth and ICT for
+wellbeing.
+(3) Facilitating uptake and ensuring wider deployment : the Commission will leverage the Connecting Europe Facility (CEF) and the European
+Regional Development Fund (ERDF) for the large scale deployment of innovative tools, the replicability of good practices and services for
+health, ageing and wellbeing, with a particular attention to improving equal access to services.
+From 2013, starting with the Competitiveness and Innovation Programme and continuing under Horizon 2020, the Commission will support
+activities aiming at increasing citizens digital health literacy.
+From 2014, sets of common indicators will be made available to measure the added value and benefit of eHealth solutions, based on work
+funded by the Commission in partnership with
+stakeholders.
+(4) Promoting policy dialogue and international cooperation on eHealth at global level : the Commission shall enhance its work on data
+collection and benchmarking activities in health care with relevant national and international bodies (WHO, OECD) to include more specific
+eHealth indicators and assess the impact and economic value of eHealth implementation. It shall promote policy discussions on eHealth at
+global level to foster interoperability, the use of international standards, develop ICT skills, compare evidence of the effectiveness of eHealth,
+and promote ecosystems of innovation in eHealth.
+The Action Plan emphasises cross-border activities but it should be noted that work done at the EU level has a strong effect at the national
+level and vice versa. Therefore, the Action Plan encourages national and regional authorities, healthcare and social care professionals,
+industry, patients, service providers, researchers and EU Institutions to closely work together.
+
+2013/2061(INI) - 05/12/2013 Committee report tabled for plenary, single reading
+The Committee on the Environment, Public Health and Food Safety adopted the own-initiative report by Pilar AYUSO (EPP, ES) on the
+eHealth Action Plan 2012-2020 Innovative healthcare for the 21st century in response to the Commission Communication on the same issue.
+The report stated that equal access to high-quality universal healthcare is recognised as a fundamental right. However, access to a healthcare
+system is in many cases restricted as a result of either financial or regional constraints. eHealth systems can play an important role in
+improving these health inequalities.
+Article 168 of the Treaty on the Functioning of the European Union stipulates that Union action must complement national policies and be
+directed towards improving public health. Therefore, Union action in the field of eHealth should consist of helping all competent authorities at
+local, regional, national or state level to coordinate their efforts at national and cross-border levels and supporting their actions in fields where
+EU intervention can provide added value.
+In this respect, Members welcomed the Commission Communication entitled eHealth Action Plan 2012-2020: Innovative healthcare for the
+21st century, which updates the eHealth Action Plan adopted in 2004 by putting in place further actions, especially as regards improving
+access to health services, reducing health costs and ensuring greater equality among European citizens. They urged the Commission to
+continue working towards the wholesale adoption of eHealth throughout the EU.
+The report also welcomed the Commissions intention to launch a study regarding the legal aspects of eHealth services. It stressed, however,
+the need to take effective measures concerning reimbursement, liability and data protection. It stressed the need to endorse the wider concept
+of eHealth, and emphasises the importance of strengthening the role of healthcare professionals such as doctors, pharmacists and nurses, as
+well as of patients and patient organisations, in the implementation and development of the eHealth Action Plan, keeping in mind that patients
+should have the possibility of viewing, using and consulting information concerning their health.
+The Commission and the Member States were called upon to play a major part in bringing different stakeholders together in order to share
+
+experience and best practices and to focus in particular on its central role in supporting the sharing of best practices on rare diseases.
+Accessibility: the report emphasised that eHealth applications must be accessible to everyone and that, when developing any product or
+software application, accessibility should be a mandatory condition, in order to prevent any inequality with regard to access. It recommended
+that the necessary steps be taken to close the digital gap between the different regions of the Member States. Equal access should be ensure
+for women to the field of eHealth, not only as patients but also as caregivers (professional or not), ICT specialists and policymakers. The
+Commission and the Member States are also called upon to:
+pay particular attention to digital literacy and to technical training for women, especially elderly women, in order to ensure that eHealth
+tools, especially telemedicine, are genuinely effective and accessible for the whole population;
+provide the economic, human and material resources necessary to ensure that access to and use of eHealth services will not add to
+the territorial inequalities already affecting access to existing ICT services;
+develop new eHealth tools that are accessible to and user-friendly for the elderly and for persons with disabilities;
+bring forward guidelines and legislative proposals to fill the legal gaps that currently exist, in particular in the field of responsibilities
+and liability, and to ensure effective implementation of the eHealth system across the EU;
+establish a platform for collaboration in research between patients, academia, industry and professionals in order to ensure the
+delivery of an effective and all-inclusive eHealth policy;
+proceed with guidelines and legislation on the legal and data protection considerations relating to eHealth, in particular legislation
+enabling secure sharing, processing and analysis of data, in order to balance data protection with data access;
+develop data standards for collecting, sharing and reporting on cross-border, health-related issues;
+continue their efforts to implement Article 14 of Directive 2011/24/EU on the application of patients rights in cross-border healthcare,
+which is aimed at establishing an eHealth network;
+ensure the technical standardisation and interoperability of ICT enabled solutions and of data exchange at all levels of European
+healthcare systems, while developing guidelines for the EU-wide interoperability of these systems;
+ensure good governance of operations related to health information on the internet;
+run eHealth awareness and IT literacy training campaigns (taking into account social and territorial inequalities) aimed at overcoming
+the lack of knowledge and trust among patients, the general public and healthcare professionals.
+Members considered the proposed cuts to the Connecting Europe facility for broadband and digital services deeply regrettable. They hoped
+that financing for this area under Horizon 2020 will be maintained.
+The Commission is urged to come forward with a mHealth action plan for mobile devices, which should include guidelines on market
+surveillance of mHealth apps in order to ensure data protection and the reliability of the provided health information, as well as to guarantee
+that these apps are developed under appropriate medical scrutiny.
+It is also urged to dedicate resources within future research and development framework programmes to eHealth.
+Lastly, Members called on the Commission to publish every other year a progress review as regards the implementation of the eHealth Action
+Plan in the individual Member States, showing how this tool has been modified in innovative ways to provide citizens with high-quality and
+efficient healthcare systems, and, in the light of this, to set effective indicators at national and Union levels to measure the progress and impact
+of the actions planned, paying particular attention to potential discrimination or to access inequalities that could affect consumers and patients.
+
+2013/2061(INI) - 14/01/2014 Text adopted by Parliament, single reading
+The European Parliament adopted a resolution on the eHealth Action Plan 2012-2020 Innovative healthcare for the 21st century in response to
+the Commission Communication on the same issue. Parliament noted that equal access to high-quality universal healthcare is recognised as
+a fundamental right, but that access to a healthcare system is in many cases restricted as a result of either financial or regional constraints.
+eHealth systems can play an important role in improving these health inequalities. It also stressed the gender aspects of eHealth in the
+resolution and asked the Commission and the Member States to ensure equal access for women to the field of eHealth, not only as patients
+but also as caregivers (professional or not), ICT specialists and policymakers, highlighting the fact that women were involved at all levels of the
+health sector throughout their lives.
+Parliament stated that Union action in the field of eHealth, based on Article 168 TFEU, should consist of helping all competent authorities at
+local, regional, national or state level to coordinate their efforts at national and cross-border levels and supporting their actions in fields where
+EU intervention can provide added value.
+In this respect, Members welcomed the Commission Communication entitled eHealth Action Plan 2012-2020: Innovative healthcare for the
+21st century, which updates the eHealth Action Plan adopted in 2004 by putting in place further actions, especially as regards improving
+access to health services, reducing health costs and ensuring greater equality among European citizens. They urged the Commission to
+continue working towards the wholesale adoption of eHealth throughout the EU.
+Parliament also welcomed the Commissions intention to launch a study regarding the legal aspects of eHealth services. It stressed, however,
+the need to take effective measures concerning reimbursement, liability and data protection. It emphasised the importance of strengthening
+the role of healthcare professionals such as doctors, pharmacists and nurses, as well as of patients and patient organisations, in the
+implementation and development of the eHealth Action Plan, keeping in mind that patients should have the possibility of viewing, using and
+consulting information concerning their health.
+The Commission and the Member States were called upon to play a major part in bringing different stakeholders together in order to share
+experience and best practices and to focus in particular on its central role in supporting the sharing of best practices on rare diseases.
+Accessibility: Parliament emphasised that eHealth applications must be accessible to everyone and that, when developing any product or
+software application, accessibility should be a mandatory condition, in order to prevent any inequality with regard to access. It recommended
+that the necessary steps be taken to close the digital gap between the different regions of the Member States. Equal access should be ensure
+for women to the field of eHealth, not only as patients but also as caregivers (professional or not), ICT specialists and policymakers. The
+Commission and the Member States are also called upon to:
+·
+
+pay particular attention to digital literacy and to technical training in order to ensure that eHealth tools, especially telemedicine, are
+
+genuinely effective and accessible for the whole population;
+·
+
+provide the economic, human and material resources necessary to ensure that access to and use of eHealth services will not add to
+the territorial inequalities already affecting access to existing ICT services;
+
+·
+
+encourage and promote eHealth services designed for (informal) family carers so as to support them in their often heavy caring tasks
+and to enable them to provide the best care possible;
+
+·
+
+encourage eHealth solutions for isolated women, not only those living in remote areas but also home-bound women lacking the
+mobility and/or (social) support network they need in order to maintain their health and well-being;
+
+·
+
+bring forward guidelines and legislative proposals to fill the legal gaps that currently exist, in particular in the field of responsibilities
+and liability, and to ensure effective implementation of the eHealth system across the EU;
+
+·
+
+proceed with guidelines and legislation on the legal and data protection considerations relating to eHealth, in particular legislation
+enabling secure sharing, processing and analysis of data, in order to balance data protection with data access;
+
+·
+
+continue their efforts to implement Article 14 of Directive 2011/24/EU on the application of patients rights in cross-border healthcare,
+which is aimed at establishing an eHealth network;
+
+·
+
+ensure the technical standardisation and interoperability of ICT enabled solutions and of data exchange at all levels of European
+healthcare systems, while developing guidelines for the EU-wide interoperability of these systems;
+
+·
+
+run eHealth awareness and IT literacy training campaigns (taking into account social and territorial inequalities) aimed at overcoming
+the lack of knowledge and trust among patients, the general public and healthcare professionals;
+
+·
+
+to promote a gender-balanced approach to healthcare and medicine and, when implementing the eHealth Action Plan, to take into
+consideration the specific needs of women and girls as healthcare beneficiaries.
+
+In the light of these considerations, Parliament called for the establishment of a platform for collaboration in research between patients,
+academia, industry and professionals in order to ensure the delivery of an effective and all-inclusive eHealth policy.
+Members considered the proposed cuts to the Connecting Europe facility for broadband and digital services deeply regrettable. They hoped
+that financing for this area under Horizon 2020 will be maintained.
+The Commission is urged to come forward with a mHealth action plan for mobile devices, which should include guidelines on market
+surveillance of mHealth apps in order to ensure data protection and the reliability of the provided health information, as well as to guarantee
+that these apps are developed under appropriate medical scrutiny.
+It is also urged to dedicate resources within future research and development framework programmes to eHealth.
+Parliament called on the Commission to publish every other year a progress review as regards the implementation of the eHealth Action Plan
+in the individual Member States, showing how this tool has been modified in innovative ways to provide citizens with high-quality and efficient
+healthcare systems, and, in the light of this, to set effective indicators at national and Union levels to measure the progress and impact of the
+actions planned, paying particular attention to potential discrimination or to access inequalities that could affect consumers and patients.
+Lastly, Parliament recommended that the Member States and the Commission, with the help of the European Institute for Gender Equality
+(EIGE), collect gender-disaggregated data on initial findings as regards the accessibility and impact of eHealth systems and tools, and called
+for steps to be taken to share best practices in eHealth implementation.
+
+

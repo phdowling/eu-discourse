@@ -1,0 +1,296 @@
+Procedure file
+Basic information
+2014/0808(CNS)
+
+CNS - Consultation procedure
+Regulation
+
+Procedure completed
+
+Collection of statistical information by the European Central Bank
+Amending Regulation (EC) No 2533/98 1998/0807(CNS)
+Subject
+2.50.10 Financial supervision
+5.20.03 European Central Bank (ECB), ESCB
+
+Key players
+Committee responsible
+
+European Parliament
+
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+22/07/2014
+
+GUALTIERI Roberto
+Shadow rapporteur
+
+BALZ Burkhard
+
+VAN OVERTVELDT
+Johan
+
+GIEGOLD Sven
+
+Council of the European Union
+
+Key events
+20/06/2014
+
+Legislative proposal published
+
+17/07/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+11/11/2014
+
+Vote in committee, 1st reading/single
+reading
+
+12/11/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+25/11/2014
+
+Debate in Parliament
+
+26/11/2014
+
+Results of vote in Parliament
+
+26/11/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+05/03/2015
+
+Act adopted by Council after consultation
+of Parliament
+
+05/03/2015
+
+End of procedure in Parliament
+
+07/03/2015
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2014/0808(CNS)
+
+11200/2014
+
+Summary
+
+A8-0027/2014
+
+Summary
+
+T8-0061/2014
+
+Summary
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 2533/98 1998/0807(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 129-p4
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/00831
+
+Documentation gateway
+Legislative proposal
+
+11200/2014
+
+20/06/2014
+
+CSL
+
+Committee draft report
+
+PE537.495
+
+15/09/2014
+
+EP
+
+C(2014)7221
+
+13/10/2014
+
+EC
+
+Amendments tabled in committee
+
+PE539.836
+
+20/10/2014
+
+EP
+
+Amendments tabled in committee
+
+PE541.325
+
+20/10/2014
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0027/2014
+
+12/11/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0061/2014
+
+26/11/2014
+
+EP
+
+Summary
+
+Document attached to the procedure
+
+Summary
+
+Final act
+Regulation 2015/373
+OJ L 064 07.03.2015, p. 0006 Summary
+
+2014/0808(CNS) - 20/06/2014 Legislative proposal
+PURPOSE: to amend Regulation (EC) No 2533/98 concerning the collection of statistical information by the European Central Bank.
+PROPOSED ACT: Recommendation for a Council Regulation.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: Council Regulation (EC) No 2533/98 is a key component in the legal framework supporting the statistical information
+collection tasks of the European Central Bank (ECB) assisted by the national central banks (NCB).
+The ECB has consistently relied on this Regulation to carry out and monitor the coordinated collection of statistical information necessary to
+undertake the tasks of the European System of Central Banks (ESCB), including the task of contributing to the smooth conduct of policies
+pursued by the competent authorities relating to the prudential supervision of credit institutions and the stability of the financial system.
+Council Regulation (EU) No 1024/2013 confers on the ECB specific tasks concerning policies relating to the prudential supervision of credit
+institutions and the stability of the financial system within the Union and individual Member States.
+To minimise the reporting burden on reporting agents and to enable proper performance of supervision of financial institutions, markets and
+infrastructures conferred on all competent authorities, it is necessary to amend Regulation (EC) No 2533/98.
+CONTENT: in accordance with the procedure laid down in Article 129(4) of the Treaty on the Functioning of the European Union and in Article
+41 of the Statute of the European System of Central Banks and of the European Central Bank, the recommendation presented by the ECB
+intends to amend Council Regulation (EC) No 2533/98 concerning the collection of statistical information by the ECB. It aims to:
+specify that the ECB, on which specific functions in the field of prudential supervision of credit institutions have been conferred by
+Council Regulation 1024/2013, similarly to the NCBs on which specific functions in the field of prudential supervision have been
+conferred, may use confidential statistical information for the performance of these functions;
+clarify that transmission of confidential statistical information between ESCB members and other authorities of the Member States and
+the Union responsible for (a) the supervision of financial institutions, markets and infrastructures, and (b) the stability of the financial
+
+system, to the European Stability Mechanism (ESB) may take place to support to respective tasks.
+Authorities may include, inter alia, the competent authorities responsible for supervision and macro-prudential oversight, the European
+Supervisory Authorities (ESA), the European Systematic Risk Board (ESRB) as well as authorities authorised to resolve credit
+institutions.
+
+2014/0808(CNS) - 12/11/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted in the framework of a special legislative procedure (Parliaments consultation), the
+report by Roberto GUALTIERI (S&D, IT) on the draft Council regulation amending Regulation (EC) No 2533/98 concerning the collection of
+statistical information by the European Central Bank.
+The committee approved the draft proposed in the recommendation of the European Central Bank (ECB) which aims to amend Regulation
+(EC) 2533/98 with a view to taking into account the ECBs new supervisory tasks under Regulation (EU) No 1024/2013 conferring specific
+tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions ( SSM regulation).
+It has introduced a number of amendments aiming to clarify the following issues:
+any exemption of reporting agents shall be in the form of a motivated written decision. In addition, the decision shall be transparent
+and hence public;
+the ECB shall respect the principle of proportionality in the definition and imposition of statistical reporting requirements;
+the right of verification is not necessarily exhausted with the right to access documents, books and records;
+the ECB shall have access to paper and computer databases containing unprocessed data points for the conduct on comparative
+statistical analyses;
+it is important to distinguish when imposing sanctions the types of misconduct and whether the infringement is intentional or negligent.
+Hence, incorrect information should refer to errors and not to intentional falsification or tampering;
+the ex-post falsification of data after submission of statistical information should be included amongst the bad faith conducts.
+Lastly, Members considered that that such significant empowerment to transmit confidential data to a number of authorities needs to be
+balanced by a requirement of the receiving authorities to take all necessary regulatory, administrative, technical and organisational measures
+to ensure the physical and logical protection of the confidential statistical information concerned.
+
+2014/0808(CNS) - 26/11/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 541 votes to 98, with 49 abstentions, in the framework of a special legislative procedure (Parliaments
+consultation), a legislative resolution on the draft Council regulation amending Regulation (EC) No 2533/98 concerning the collection of
+statistical information by the European Central Bank.
+Parliament approved the draft proposed in the recommendation of the European Central Bank (ECB) which aims to amend Regulation (EC)
+2533/98 with a view to taking into account the ECBs new supervisory tasks under Regulation (EU) No 1024/2013 conferring specific tasks on
+the European Central Bank concerning policies relating to the prudential supervision of credit institutions ( SSM regulation).
+It has, however, introduced a number of amendments aiming to clarify the following issues:
+any exemption of reporting agents shall be in the form of a motivated written decision. In addition, the decision shall be transparent
+and hence public;
+economic agents may be allowed to submit information through their regular reporting channel;
+the ECB shall respect the principle of proportionality in the definition and imposition of statistical reporting requirements;
+the right of verification is not necessarily exhausted with the right to access documents, books and records;
+the ECB shall have access to paper and computer databases containing unprocessed data points for the conduct on comparative
+statistical analyses;
+it is important to distinguish when imposing sanctions the types of misconduct and whether the infringement is intentional or negligent.
+Hence, incorrect information should refer to errors and not to intentional falsification or tampering;
+the ex-post falsification of data after submission of statistical information should be included amongst the bad faith conducts.
+Lastly, Parliament considered that that such significant empowerment to transmit confidential data to a number of authorities needs to be
+balanced by a requirement of the receiving authorities to take all necessary regulatory, administrative, technical and organisational measures
+to ensure the physical and logical protection of the confidential statistical information concerned.
+
+2014/0808(CNS) - 05/03/2015 Final act
+PURPOSE: to amend Regulation (EC) No 2533/98 concerning the collection of statistical information by the European Central Bank.
+LEGISLATIVE ACT: Council Regulation (EU) 2015/373 amending Regulation (EC) No 2533/98 concerning the collection of statistical
+information by the European Central Bank
+CONTENT: Council Regulation (EC) No 2533/98 is a key component in the legal framework supporting the statistical information collection
+tasks of the European Central Bank (ECB) assisted by the national central banks (NCB).
+Council Regulation (EU) No 1024/2013 confers on the ECB specific tasks concerning policies relating to the prudential supervision of credit
+institutions and the stability of the financial system within the Union and individual Member States.
+In the context and on the basis of an ECB recommendation presented on 20 June 2014, this Regulation amends Regulation (EC) No 2533/98
+concerning the collection of statistical information by the European Central Bank.
+
+In order to minimise the reporting burden on reporting agents, the Regulation stipulates that the ESCB may transmit confidential statistical
+information to authorities or bodies of the Member States and the Union responsible for the supervision of financial institutions, markets and
+infrastructures or for the stability of the financial system in accordance with Union or national law, and to the European Stability Mechanism
+(ESM), only to the extent and at the level of detail necessary for the performance of their respective tasks.
+Those authorities should include the competent authorities responsible for the supervision of financial institutions, markets and infrastructures
+and macro-prudential oversight, the European Supervisory Authorities, the European Systemic Risk Board as well as authorities authorised to
+resolve credit institutions.
+The authorities or bodies receiving confidential statistical information shall take all the necessary regulatory, administrative, technical and
+organisational measures to ensure the physical and logical protection of confidential statistical information.
+ENTRY INTO FORCE: 8.3.2015.
+
+

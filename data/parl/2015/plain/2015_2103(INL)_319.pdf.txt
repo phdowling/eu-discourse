@@ -1,0 +1,393 @@
+Procedure file
+Basic information
+2015/2103(INL)
+
+INL - Legislative initiative procedure
+
+Procedure completed
+
+Civil law rules on robotics
+
+Subject
+3.40.06 Electronics, electrotechnical industries, ICT, robotics
+7.40.02 Judicial cooperation in civil and commercial matters
+
+Key players
+European Parliament
+
+Committee responsible
+JURI Legal Affairs
+(Associated committee)
+
+Rapporteur
+
+Appointed
+20/01/2015
+
+DELVAUX Mady
+Shadow rapporteur
+
+COMODINI CACHIA
+Therese
+
+DZHAMBAZKI Angel
+
+CAVADA Jean-Marie
+
+MAŠTÁLKA Jiří
+
+ANDERSSON Max
+
+FERRARA Laura
+Committee for opinion
+EMPL
+
+Rapporteur for opinion
+
+Employment and Social Affairs
+
+Appointed
+10/06/2015
+
+KÓSA Ádám
+ENVI
+
+Environment, Public Health and Food Safety
+
+19/04/2016
+BUŞOI Cristian-Silviu
+
+ITRE
+
+Industry, Research and Energy
+
+19/05/2015
+KALLAS Kaja
+
+IMCO
+
+Internal Market and Consumer Protection
+
+23/06/2015
+CHARANZOVÁ Dita
+
+TRAN Transport and Tourism
+(Associated committee)
+LIBE Civil Liberties, Justice and Home Affairs
+(Associated committee)
+
+European Commission
+
+Commissioner
+
+Justice and Consumers
+
+JOUROVÁ Věra
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+15/06/2016
+
+24/05/2016
+BONI Michał
+
+Commission DG
+
+Key events
+21/05/2015
+
+MAYER Georg
+
+15/09/2016
+
+Referral to associated committees
+announced in Parliament
+
+12/01/2017
+
+Vote in committee, 1st reading/single
+reading
+
+27/01/2017
+
+Committee report tabled for plenary,
+single reading
+
+15/02/2017
+
+Debate in Parliament
+
+16/02/2017
+
+Results of vote in Parliament
+
+16/02/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+16/02/2017
+
+End of procedure in Parliament
+
+A8-0005/2017
+
+Summary
+
+T8-0051/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2015/2103(INL)
+
+Procedure type
+
+INL - Legislative initiative procedure
+
+Procedure subtype
+
+Request for legislative proposal
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 046
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+JURI/8/03463
+
+Documentation gateway
+Committee draft report
+
+PE582.443
+
+31/05/2016
+
+EP
+
+Committee opinion
+
+IMCO
+
+PE585.496
+
+12/10/2016
+
+EP
+
+Committee opinion
+
+ENVI
+
+PE587.414
+
+14/10/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.395
+
+26/10/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.405
+
+26/10/2016
+
+EP
+
+Committee opinion
+
+ITRE
+
+PE583.918
+
+15/11/2016
+
+EP
+
+Committee opinion
+
+TRAN
+
+PE589.230
+
+16/11/2016
+
+EP
+
+Committee opinion
+
+EMPL
+
+PE584.250
+
+23/11/2016
+
+EP
+
+Committee opinion
+
+LIBE
+
+PE589.153
+
+23/11/2016
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0005/2017
+
+27/01/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0051/2017
+
+16/02/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)310
+
+16/05/2017
+
+2015/2103(INL) - 27/01/2017 Committee report tabled for plenary, single reading
+The Committee on Legal Affairs adopted the report by Mady DELVAUX (S&D, LU) with recommendations to the Commission on Civil Law
+Rules on Robotics (Initiative Rule 46 of the Rules of Procedure).
+The Committee on Transport and Tourism as well as the Committee on Civil Liberties, Justice and Home Affairs, exercising their prerogatives
+
+as associated committees in accordance with Article 54 of the Rules of Procedure, also gave their opinions on the report.
+More and more appliances are now able to operate interactively and autonomously to some extent. Examples include self-driving cars and
+autonomous weapons. Artificial intelligence and robotics are advancing at an accelerating pace and legislation needs to be updated in line with
+a changing world.
+Now that humankind stands on the threshold of an era when ever more sophisticated robots, bots, androids and other manifestations of
+artificial intelligence ("AI") seem to be poised to unleash a new industrial revolution, which is likely to leave no stratum of society untouched.
+The development of robotics and artificial intelligence raises legal and ethical issues which require a prompt intervention at EU level.
+Members called on the Commission to submit, on the basis of Article 114 TFEU, a proposal for a directive on civil law rules on robotics,
+following the detailed recommendations:
+Common Union definitions: Members called on the Commission to propose common Union definitions of cyber physical systems, autonomous
+systems, smart autonomous robots and their subcategories.
+Registration of smart robots: Members considered that a comprehensive Union system of registration of advanced robots should be introduced
+within the Unions internal market. The Commission is called upon to establish criteria for the classification of robots that would need to be
+registered. They also considered it essential, in the development of robotics and AI, to guarantee that humans have control over intelligent
+machines at all times and that special attention should be paid to the possible development of an emotional connection between humans and
+robots ? particularly in vulnerable groups (children, the elderly and people with disabilities).
+In order to avoid fragmentation in the internal market, the report noted that testing, certification and market approval should only be required in
+a single Member State and that this approach should be accompanied by effective market surveillance.
+Research and innovation: welcoming the fact that more and more research projects are being funded by the Member States and the Union,
+Members called on the Commission and the Member States to strengthen financial instruments for research projects in robotics and ICT. The
+EU already supports robotics projects through the SPARC programme which funds innovation in robotics by European companies and
+research institutions. However, increased support for this particular programme is called for.
+Ethical principles: Members stressed that the existing Union legal framework should be updated and complemented, where appropriate, by
+guiding ethical principles in line with the complexity of robotics and its many social, medical and bioethical implications. A clear, strict and
+efficient guiding ethical framework for the development, design, production, use and modification of robots is needed to complement the
+existing national and Union acquis. They proposed, in the annex to the resolution, a framework in the form of a charter consisting of a code of
+conduct for robotics engineers, of a code for research ethics committees when reviewing robotics protocols and of model licences for
+designers and users.
+The report suggested that advanced robots should be equipped with a black box which records data on every transaction carried out by the
+machine, including the logic that contributed to its decisions.
+A European Agency for robotics and artificial intelligence: Members stressed that enhanced cooperation between the Member States and the
+Commission is necessary in order to guarantee coherent cross-border rules in the Union. This Agency should provide the technical, ethical
+and regulatory expertise needed to support the relevant public actors, at both Union and Member State level. The Agency should be provided
+with a proper budget and staffing.
+Intellectual property rights: Members emphasised that the protection of networks of interconnected robots and artificial intelligence has to be
+ensured to prevent potential security breaches. A high level of security and protection of personal data together with due regard for privacy in
+communication between humans, robots and AI are fundamental. The Commission and the Member States are urged to ensure that civil law
+regulations in the robotics sector are consistent with Regulation (EU) 2016/679 of the European Parliament and of the Council on the
+protection of natural persons with regard to the processing of personal data and the free movement of such data (General Data Protection
+Regulation).
+Liability: civil liability for damage caused by robots is a crucial issue which also needs to be analysed and addressed at Union level. In this
+regard, the Commission is asked to submit a proposal for a legislative instrument on legal questions related to the development and use of
+robotics and artificial intelligence foreseeable in the next 10 to 15 years, combined with non-legislative instruments such as guidelines and
+codes of conduct.
+Members made a further series of recommendations on autonomous vehicles (the automotive sector is in most urgent need of efficient Union
+and global rules), drones, medical robots and human repair. They also called on the Commission to provide significant support for the
+development of digital abilities as a first step towards better aligning labour market shortages and demand.
+
+2015/2103(INL) - 16/02/2017 Text adopted by Parliament, single reading
+The European Parliament adopted by 451 votes to 138 with 20 abstentions, a resolution containing recommendations to the Commission on
+Civil Law Rules on Robotics.
+Humankind stands on the threshold of an era when ever more sophisticated robots, bots, androids and other manifestations of artificial
+intelligence ("AI") seem to be poised to unleash a new industrial revolution, which is likely to leave no stratum of society untouched. The
+development of robotics and artificial intelligence raises legal and ethical issues that require a prompt intervention at EU level.
+Members called on the Commission to submit, on the basis of Article 114 TFEU, a proposal for a directive on civil law rules on robotics,
+bearing in mind the following recommendations:
+Definition and classification of a smart robot: Parliament called on the Commission to propose common Union definitions of cyber physical
+systems, autonomous systems, smart autonomous robots and their subcategories.
+Registration of smart robots: Parliament considered that a comprehensive Union system of registration of advanced robots should be
+introduced within the Unions internal market. The Commission is called upon to establish criteria for the classification of robots that would need
+to be registered.
+
+Members also considered it essential, in the development of robotics and AI, to guarantee that humans have control over intelligent machines
+at all times and that special attention should be paid to the possible development of an emotional connection between humans and robots ?
+particularly in vulnerable groups (children, the elderly and people with disabilities).
+In order to avoid fragmentation in the internal market, Parliament noted that testing, certification and market approval should only be required
+in a single Member State and that this approach should be accompanied by effective market surveillance. It also underlined the importance of
+the principle of mutual recognition in the cross-border use of robots and robotic systems.
+Research and innovation: Members asked the Commission and Member States to strengthen financial instruments for research projects in
+robotics and ICT, including public-private partnerships. Whilst welcoming the fact that the Member States and the Union are funding more and
+more research projects, Parliament called for increased EU support for the Horizon 2020 funded SPARC programme.
+Ethical principles: Parliament stressed the need for a clear, strict and efficient guiding ethical framework for the development, design,
+production, use and modification of robots is needed to complement the existing national and Union acquis. It proposed, in the annex to the
+resolution, a framework in the form of a charter consisting of a code of conduct for robotics engineers, of a code for research ethics
+committees when reviewing robotics protocols and of model licences for designers and users.
+The code should be based on the principles of beneficence, non-maleficence, autonomy and justice. Researchers and designers were asked
+to act responsibly and bear in mind the need to respect, dignity, privacy, and human safety.
+A European Agency for robotics and artificial intelligence: in order to guarantee coherent cross-border rules in the Union, Parliament asked the
+Commission to consider the designation of such an Agency in order to provide the technical, ethical and regulatory expertise needed to
+support the relevant public actors, at both Union and Member State level. The Agency must be granted an appropriate budget.
+Intellectual property rights: Members called on the Commission to support a horizontal and technologically neutral approach to intellectual
+property applicable to the various sectors in which robotics could be employed. Parliament emphasised that a high level of security and
+protection of personal data together with due regard for privacy in communication between humans, robots and AI are fundamental. The
+Commission and the Member States are urged to ensure that civil law regulations in the robotics sector are consistent with Regulation (EU)
+2016/679 of the European Parliament and of the Council (General Data Protection Regulation).
+Liability: the Commission is asked to submit a proposal for a legislative instrument on legal questions related to the development and use of
+robotics and artificial intelligence foreseeable in the next 10 to 15 years, combined with non-legislative instruments such as guidelines and
+codes of conduct.
+The Commission was asked to explore the implications of all possible legal solutions, such as:
+establishing a compulsory insurance scheme where relevant and necessary for specific categories of robots whereby, similarly to what
+already happens with cars, producers, or owners of robots would be required to take out insurance cover for the damage potentially
+caused by their robots;
+ensuring that a compensation fund would not only serve the purpose of guaranteeing compensation if the damage caused by a robot
+was not covered by insurance;
+creating a specific legal status for robots in the long run, so that at least the most sophisticated autonomous robots could be
+established as having the status of electronic persons responsible for making good any damage they may cause.
+Members made a further series of recommendations on autonomous vehicles (the automotive sector is in most urgent need of efficient Union
+and global rules), drones, medical robots and human repair.
+Employment: stressing the need to prepare for the changes that robotics will mean for society, Parliament asked the Commission to start
+monitoring medium- and long-term job trends more closely, with a special focus on the creation, displacement and loss of jobs in the different
+fields/areas of qualification, as well as the consequences on the viability of the social security systems of the Member States. It also called
+upon the Commission to provide significant support for the development of digital abilities as a first step towards better aligning labour market
+shortages and demand.
+
+

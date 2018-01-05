@@ -1,0 +1,341 @@
+Procedure file
+Basic information
+2016/0209(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Access to anti-money-laundering information by tax authorities
+Amending Directive 2011/16/EU 2009/0004(CNS)
+Subject
+2.70 Taxation
+2.80 Cooperation between administrations
+7.30.30.08 Capital outflow, money laundering
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+12/07/2016
+
+MAUREL Emmanuel
+Shadow rapporteur
+
+VANDENKENDELAERE Tom
+
+RUOHONEN-LERNER
+Pirkko
+
+TORVALDS Nils
+
+VIEGAS Miguel
+
+ZANNI Marco
+Committee for opinion
+CONT
+
+Budgetary Control
+
+Rapporteur for opinion
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+The committee decided not to
+give an opinion.
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+Appointed
+
+Commissioner
+MOSCOVICI Pierre
+
+Key events
+05/07/2016
+
+Legislative proposal published
+
+12/07/2016
+
+Debate in Council
+
+12/09/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/11/2016
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0452
+
+Summary
+
+14/11/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+22/11/2016
+
+Results of vote in Parliament
+
+22/11/2016
+
+Debate in Parliament
+
+22/11/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+06/12/2016
+
+Act adopted by Council after consultation
+of Parliament
+
+06/12/2016
+
+End of procedure in Parliament
+
+16/12/2016
+
+Final act published in Official Journal
+
+A8-0326/2016
+
+Summary
+
+T8-0432/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/0209(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2011/16/EU 2009/0004(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 113; Treaty on the Functioning of
+the EU TFEU 115
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/07145
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0452
+
+05/07/2016
+
+EC
+
+Committee draft report
+
+PE589.168
+
+12/09/2016
+
+EP
+
+Amendments tabled in committee
+
+PE592.157
+
+19/10/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0326/2016
+
+14/11/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0432/2016
+
+22/11/2016
+
+EP
+
+Summary
+
+SP(2017)8
+
+17/01/2017
+
+Commission response to text adopted in plenary
+
+Summary
+
+Final act
+Directive 2016/2258
+OJ L 342 16.12.2016, p. 0001 Summary
+
+2016/0209(CNS) - 05/07/2016 Legislative proposal
+PURPOSE: to enable tax authorities to consistently access anti-money-laundering information for the performance of their duties in monitoring
+the proper application of the Directive 2011/16/EU on Administrative Cooperation by Financial Institutions.
+PROPOSED ACT: Council Directive.
+
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: Directive 2014/107/EU amending Directive 2011/16/EU on administrative cooperation applies as of 1 January 2016 to 27
+Member States and as of 1 January 2017 to Austria. It implements the Global Standard for Automatic Exchange of Financial Account
+Information in Tax Matters within the EU. As such, it ensures that information on Account Holders of Financial Accounts is reported to the
+Member State where the Account Holder is resident.
+In addition, Directive 2011/16/EU stipulates that, where the Account Holder is an intermediary structure, Financial Institutions are to look
+through that structure, and identify and report its beneficial owners. That important element in the application of the Directive relies on
+anti-money-laundering ('AML') information obtained pursuant to Directive 2015/849/EU of the European Parliament and of the Council on the
+prevention of the use of the financial system for the purposes of money laundering or terrorist financing.
+Recent media leaks exposed the large scale concealment of offshore funds. Further measures still need to be taken to reinforce the EU and
+international transparency framework. In particular, it has become apparent that tax authorities need greater access to information on the
+beneficial owners of intermediary entities and other relevant customer due diligence information, if they are to effectively identify and address
+tax evasion.
+Tax administrations' access to anti-money-laundering information differs considerably throughout the EU. Even when this access is granted,
+authorities often still encounter significant barriers that hinder the effectiveness of their work against tax avoidance and evasion.
+To ensure effective monitoring of the application by Financial Institutions of the due diligence procedures set forth in Directive 2011/16/EU, the
+tax authorities need access to AML information.
+This proposal is part of the Commissions ambitious agenda against tax evasion and avoidance, with a view to delivering fairer and more
+effective taxation in the EU.
+CONTENT: this proposal seeks to amend Directive 2011/16/EU on administrative cooperation in the field of taxation by introducing a measure
+to enable tax authorities to consistently access anti-money-laundering information for the performance of their duties .
+The amendment would enable tax authorities to have access to the mechanism, procedures, documents and information on beneficial
+ownership information and the underlying customer due diligence procedures as part of the Fourth Anti-Money-Laundering Directive.
+The proposed Directive respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental
+Rights of the European Union.
+
+2016/0209(CNS) - 14/11/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, following the Parliaments consultation procedure, the report by Emmanuel
+MAUREL (S&D, FR) on the proposal for a Council directive amending Directive 2011/16/EU as regards access to anti-money-laundering
+information by tax authorities.
+The committee responsible stressed that combating tax evasion and tax avoidance, including in connection with money laundering, is an
+absolute priority for the Union. It also stressed the need to:
+benefit synergies stemming from domestic, Union and international cooperation between the different authorities involved in fighting
+these crimes and abuses;
+take account of issues, such as beneficial ownership transparency or the extent to which entities, such as legal professions, are
+subject to the Anti-money laundering (AML) framework in third countries, are crucial to enhancing the ability of Union authorities to
+address tax dodging and money laundering.
+This Directive shall apply to all taxes of any kind levied by, or on behalf of, a Member State or the Member States territorial or administrative
+subdivisions, including the local authorities, as well as to virtual currency exchange services and custodial wallet providers.
+Members stressed the need to: (i) ensure direct and facilitated access by the tax authorities to the AML information, procedures, documents
+and mechanisms for the performance of their duties in monitoring the proper application of Directive 2011/16/EU; (ii) include that information,
+where relevant, in the automatic exchanges between Member States, and to provide access to the Commission, on a confidential basis.
+Since AML information is in many cases of a cross-border nature, it should be included, where relevant, in the automatic exchange between
+Member States and should be made available on request to the Commission in the framework of its power to enforce state aid rules.
+Member States shall ensure that all information exchanged and obtained shall be investigated in a timely manner, whether that information has
+been obtained by authorities on request, through spontaneous information exchange by another Member State, or from a public information
+leak. Should a Member State fail to do this in a timeframe required by national law, it should publicly communicate the reasons for this failure
+to the Commission.
+Member States shall adopt and publish, by 31 December 2017 at the latest, the laws, regulations and administrative provisions necessary to
+comply with this Directive. They shall apply those provisions from 1 January 2018.
+
+2016/0209(CNS) - 22/11/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 590 votes to 32, with 64 abstentions (following the Parliaments consultation procedure), a legislative
+resolution on the proposal for a Council directive amending Directive 2011/16/EU as regards access to anti-money-laundering information by
+tax authorities.
+Parliament approved the Commission proposal subject to amendments.
+
+Members stressed that combating tax evasion and tax avoidance, including in connection with money laundering, is an absolute priority for the
+Union.
+The Swissleaks, Luxleaks, Panama Papers and Bahamas Leaks revelations, which are individual manifestations of a global phenomenon,
+have confirmed the paramount need for greater tax transparency and much closer coordination and cooperation between jurisdictions.
+Scope: this Directive shall apply to all taxes of any kind levied by, or on behalf of, a Member State or the Member States territorial or
+administrative subdivisions, including the local authorities, as well as to virtual currency exchange services and custodial wallet providers.
+Automatic exchange of information: since anti-money laundering information is in many cases of a cross-border nature, Parliament called for it
+to be included, where relevant, in the automatic exchange between Member States and should be made available on request to the
+Commission in the framework of its power to enforce state aid rules.
+According to the amended text, the tax authorities of a Member State shall, within three months of their collection, automatically exchange the
+documents and information referred to in Article 22 of Directive 2011/16/EU with any other Member State if the beneficial owner of a firm, or, in
+the case of a trust, the settlor, one of the trustees, the protector (where relevant), a beneficiary or any other person exercising genuine control
+over the trust, or, lastly, the holder of an account referred to in Article 32a of Directive (EU) 2015/849 is a taxpayer in that Member State.
+Access should be provided to the Commission for the completion of its missions, on a confidential basis.
+Access to information: Member States shall provide by law for tax authorities access to the central registers, mechanisms, procedures,
+documents and information referred to in Articles 7, 13, 18, 18a, 19, 27, 30, 31, 32a, 40, 44 and 48 of Directive (EU) 2015/849 of the European
+Parliament and of the Council on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing.
+Such access shall be the result of a mandatory automatic exchange of information. Member States shall further guarantee access to that
+information by including it in a centralised public register of companies, trusts and other structures whose nature or purpose is similar or
+equivalent.
+Efficient use of exchanged data: Member States shall ensure that all information exchanged and obtained shall be investigated in a timely
+manner, whether that information has been obtained by authorities on request, through spontaneous information exchange by another
+Member State, or from a public information leak. Should a Member State fail to do this in a timeframe required by national law, it should
+publicly communicate the reasons for this failure to the Commission.
+Transposition: Member States shall adopt and publish, by 31 December 2017 at the latest, the laws, regulations and administrative provisions
+necessary to comply with this Directive. They shall apply those provisions from 1 January 2018.
+
+2016/0209(CNS) - 06/12/2016 Final act
+PURPOSE: to grant access for tax authorities to information held by authorities responsible for the prevention of money laundering.
+LEGISLATIVE ACT: Council Directive (EU) 2016/2258 amending Directive 2011/16/EU as regards access to anti-money-laundering
+information by tax authorities.
+CONTENT: the Directive will enable tax authorities to access the mechanisms, procedures, documents and information as regards
+anti-money-laundering for the performance of their duties in monitoring the proper application of Directive 2011/16/EU and for the functioning
+of all forms of administrative cooperation provided for in that Directive.
+Council Directive 2014/107/EU, amending Directive 2011/16/EU implements the global Standard for Automatic Exchange of Financial Account
+Information in Tax Matters within the Union thereby ensuring that information on Account Holders of Financial Accounts is reported to the
+Member State where the Account Holder is resident.
+Directive 2011/16/EU stipulates that, where the Account Holder is an intermediary structure, Financial Institutions are to look through that
+structure, and identify and report on its beneficial owners. That important element in the application of that Directive relies on
+anti-money-laundering information obtained pursuant to Directive (EU) 2015/849 for the identification of the beneficial owners.
+Access to anti-money-laundering information would ensure that tax authorities are better equipped to fulfil their obligations under Directive
+2011/16/EU and to combat tax evasion and fraud more effectively.
+TRANSPOSITION: 31.12.2017 at the latest.
+APPLICATION: from 1.1.2018.
+ENTRY INTO FORCE: 6.12.2016.
+
+

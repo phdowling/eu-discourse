@@ -1,0 +1,539 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2015/0133(COD)
+
+Procedure completed
+
+Collection, management and use of data in the fisheries sector and support
+for scientific advice regarding the common fisheries policy. Recast
+Repealing Regulation (EC) No 199/2008 2007/0070(CNS)
+Subject
+3.15.06 Fishing industry and statistics, fishery products
+
+Key players
+European Parliament
+
+Committee responsible
+PECH
+
+Rapporteur
+
+Fisheries
+
+Appointed
+26/08/2015
+
+AFFRONTE Marco
+Shadow rapporteur
+
+KUHN Werner
+
+SERRÃO SANTOS
+Ricardo
+
+VAN DALEN Peter
+
+BILBAO BARANDICA
+Izaskun
+
+FERREIRA João
+Committee for opinion on the recast technique
+JURI
+
+Rapporteur for opinion
+
+Legal Affairs
+
+Appointed
+06/01/2016
+
+FERRARA Laura
+
+Council of the European Union
+Commission DG
+European Commission
+Maritime Affairs and Fisheries
+
+Commissioner
+VELLA Karmenu
+
+European Economic and
+Social Committee
+
+Key events
+18/06/2015
+
+Legislative proposal published
+
+06/07/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+19/04/2016
+
+Vote in committee, 1st reading/single
+reading
+
+19/04/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+25/04/2016
+
+Committee report tabled for plenary, 1st
+
+COM(2015)0294
+
+Summary
+
+A8-0150/2016
+
+Summary
+
+reading/single reading
+26/01/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+16/03/2017
+
+Results of vote in Parliament
+
+16/03/2017
+
+Debate in Parliament
+
+16/03/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+25/04/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+17/05/2017
+
+Final act signed
+
+17/05/2017
+
+End of procedure in Parliament
+
+20/06/2017
+
+Final act published in Official Journal
+
+Summary
+
+T8-0091/2017
+
+Technical information
+Procedure reference
+
+2015/0133(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Recast
+
+Legislative instrument
+
+Regulation
+Repealing Regulation (EC) No 199/2008 2007/0070(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 043-p2
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+PECH/8/03721
+
+Documentation gateway
+Legislative proposal
+
+COM(2015)0294
+
+18/06/2015
+
+EC
+
+Summary
+
+Document attached to the procedure
+
+SWD(2015)0118
+
+18/06/2015
+
+EC
+
+Summary
+
+CES3926/2015
+
+16/09/2015
+
+ESC
+
+Committee draft report
+
+PE569.773
+
+17/12/2015
+
+EP
+
+Opinion on the recast technique
+
+PE575.119
+
+06/01/2016
+
+EP
+
+Amendments tabled in committee
+
+PE575.270
+
+26/01/2016
+
+EP
+
+Committee of the Regions: opinion
+
+CDR5241/2015
+
+10/02/2016
+
+CofR
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0150/2016
+
+25/04/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0091/2017
+
+16/03/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2017)309
+
+16/05/2017
+
+Economic and Social Committee: opinion, report
+
+Final act
+Regulation 2017/1004
+OJ L 157 20.06.2017, p. 0001 Summary
+Final legislative act with provisions for delegated acts
+
+2015/0133(COD) - 18/06/2015 Document attached to the procedure
+This Commission staff working document accompanies the proposal for a Regulation of the European Parliament and of the Council
+concerning the establishment of a Union framework for the collection, management and the use of data in the fisheries sector and support for
+the scientific advice regarding the Common Fisheries Policy (recast).
+The revision of the Data Collection Framework (DCF) is part of the Commission's Regulatory Fitness Programme ( REFIT) which seeks to cut
+red tape and remove regulatory burden. This means simplifying the DCF at different levels.
+More specifically, the document:
+1. explains the rationale behind the modifications and simplification and the technical details necessary to understand those
+modifications;
+2. describes the current data collection system and improvements for change;
+3. describes the preparatory work consisting of the publication of a roadmap discussing several legislative options, further consultations;
+4. explains the options choices for improvement and simplification of the system, including the modification of the legal setup.
+Overall, the current DCF has been criticised on a number of levels by a broad range of stakeholders including the Scientific, Technical and
+Economic Committee for Fisheries (STECF), Member States and end-users, for not reflecting sufficiently the needs of end-users in terms of
+deciding on what data should be collected or how this should be done, and not being flexible enough to address their evolving needs , e.g. new
+stocks being exploited, changes to technical measures regulations, development of scientific advice, move to statistically sound sampling
+schemes etc. Currently, the DCF Regulation contains provisions for the establishment of 3-year multiannual EU programmes but no provisions
+are included regarding modifications of these three year programmes, or how the needs of end-users should be taken into account to draw
+them up or modify them.
+Proposed solutions: in an attempt to respond to criticisms and improve the DCF, the Commission has examined the current system and has
+proposed a number of solutions. It is proposed to:
+include criteria in the DCF Regulation to determine what data should be included in the multiannual EU programmes, including the
+end-user need for the data;
+design the new multiannual EU programmes, and future amendments to it, based on consultation of end-user;
+include, in the DCF regulation, provisions on the amendment of the multiannual EU programmes;
+include, in the future data collection system, four key areas in which end-users of DCF data should be better involved: (i) end-user
+input (advice) in determining what should or should no longer be collected; (ii) end-user involvement in designing the sampling
+programmes that Member States must carry out to collect those data that end-users will use; (iii) end-user access to DCF data; (iv)
+end-user feedback on the data they have accessed;
+provide regions with a greater range of tasks concerning planning and implementing data collection. This would be achieved through
+the establishment of Regional Coordination Groups (RCGs), to deal with regional issues, as well as an EU Coordination Group
+(EUCG), to deal with EU-wide issues. The RCGs and EUCG would enable Member States to work on regional or EU cooperation
+throughout the year, rather than just through an annual meeting as is currently the case;
+in the context of governance structure, strengthen the current Regional Coordination Meetings (RCM) mechanism, without giving them
+a legal entity, but broadening the scope of areas they may work on;
+extend the scope of the DCF to reflect the CFP's new emphasis on ecosystem impacts of fisheries;
+include, in the revised DCF Regulation, an obligation for Member States to carry out biological sampling on all stocks targeted or
+by-caught by EU vessels, including on the discarded fraction of the catches, but without specifying the method for the data collection;
+streamline the data transmission and storage for fishing activity data;
+revise the scope of DCF Regulation so that obligations to collect socio-economic data cover also freshwater aquaculture;
+develop an improved impact assessment of decisions on fisheries management;
+establish EU-wide clear and harmonised rules on access to fishing activity data to progress towards exchange of data between
+Member States and facilitate access to fisheries data;
+define in DCF Regulation the basic rules and principles for data availability, including rules on personal data protection;
+develop an IT system for DCF data availability;
+develop single entry point for accessing DCF data;
+allow for a gradual shift from "a push" to "a pull system", i.e. to move from a system of data calls initiated by end-users, to a system of
+data availability ensured by the data providers.
+
+2015/0133(COD) - 18/06/2015 Legislative proposal
+PURPOSE: to establish a Union framework for the collection, management and use of data in the fisheries sector and support for scientific
+advice regarding the Common Fisheries Policy.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+
+BACKGROUND: a number of amendments are to be made to Council Regulation (EC) No 199/2008 concerning the establishment of a
+Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the
+Common Fisheries Policy. In the interests of clarity, that Regulation should be recast.
+Data collection is essential for the implementation of the Common Fisheries Policy (CFP), as a basis for founding it on the best possible
+scientific advice.
+Data are needed to evaluate the state of fish stocks, the profitability of the different segments of the sector and the effects of fisheries and
+aquaculture on the ecosystem. Data are also needed to evaluate EU policies.
+For this reason, an EU framework for the collection and management of fisheries data was established in 2000, and then reformed in 2008
+resulting in the Data Collection Framework (DCF).
+The 2013 reform of the Common Fisheries Policy (CFP) by Regulation (EU) No 1380/2013 needs to be matched by adaptations in the
+supporting scientific advice and therefore the data needed for it. This is particularly relevant in order to achieve maximum sustainable yield
+(MSY) at the latest by 2020, to manage fisheries taking account of their impacts on the ecosystem, and to gradually introduce a landing
+obligation. The reform of the CFP also requires changes in the way data are obtained, e.g. regionalisation and devolution of tasks from the
+European Union to Member States in the context of regional cooperation.
+The revision of the DCF is part of the Commission's Regulatory Fitness Programme (REFIT) which seeks to cut red tape and remove
+regulatory burden.
+CONTENT: the changes to be made to the rules laid down in Council Regulation (EC) No 199/2008 are essential because of the new needs
+arising from the CFP reform. The proposal retains the key provisions of the current system : the establishment of an EU Multi-annual
+Programme, to be implemented by national Data Collection plans; key obligations in the form of commitments by Member States in relation to
+collection, storage, protection and provision of data; provisions on rights and obligations of end-users of data; and provisions on cooperation
+within and between Member States, as well as with and between scientific and management bodies.
+The proposed modifications compared to the current DCF Regulation are presented as follows:
+remove overlaps and seeking synergies between EU legislations and reducing costs of the entire system of marine data. The DCF will
+only create data collection obligations insofar as they are not already covered by other EU legislation;
+maximise synergies with environmental law: the current DCF does not provide sufficient data on some ecosystem impacts of fisheries
+which are however required for implementing efficiently the Marine Strategy Framework Directive (MSFD). This is the case of
+incidental catches of protected species (birds, marine mammals, turtles etc.), effects on food webs (predator-prey relations), and the
+impact of fishing on habitats;
+reduce the level of prescriptions set at EU level without compromising data quality: the legislation should be more result-oriented and
+leave more flexibility to Member States regarding implementation. By ensuring more and earlier involvement of the Member States, in
+the context of regional cooperation, on decision making about methodologies to be followed or quality targets to be met, the DCF can
+be greatly simplified and the data collection system made more flexible;
+reduce the details decided by or reported to the Commission: currently, national programmes describe in great detail what will be
+done, how and by whom in each Member State. The objective is to reduce this significantly. With the move away from triennial to
+multi-annual EU and national programmes, Member States will be in a position to plan their work over a longer period;
+collect once, use several times: the Commission proposes, as a first proposal, to make the DCF the main legal instrument by which
+Member States are to provide any data necessary to data users (end-users and other interested parties), whatever the source of the
+legal obligation under which data are collected (DCF or any other EU legislation). The second proposal should enhance cooperation
+between Member States to develop compatible data storage and exchange systems and formats in line with those agreed under
+Directive 2007/2/EC and promote compatibility between data formats used under other Union legislation.
+BUDGETARY IMPLICATIONS: none which are not already foreseen in the European Maritime and Fisheries Fund ( EMFF).
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2015/0133(COD) - 25/04/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Fisheries adopted the report by Marco AFFRONTE (EFDD, IT) on the proposal for a regulation of the European Parliament
+and of the Council concerning the establishment of a Union framework for the collection, management and use of data in the fisheries sector
+and support for scientific advice regarding the Common Fisheries Policy (recast).
+The committee recommended that Parliaments position adopted in first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Objectives: Members specified that the regulation should establish rules on the collection, management, and use of biological, technical,
+environmental, social and economic data concerning the fisheries sector with a view to contributing to the objectives of the Common Fisheries
+Policy set out in Regulation (EU) No 1380/2013.
+Establishment of an EU multiannual programme: only one programme will be in force for the Union. This does not affect the ability of the
+Commission to amend the programme. When setting out the multiannual programme, the Commission should bear in mind:
+the information needs for the management and efficient implementation of the Common Fisheries Policy, including the needs for
+ecosystem-based fisheries management, the impact of recreational fisheries and the needs of the CFP where those information needs
+overlap with other legal acts such as the Marine Strategy Framework Directive, the Integrated Maritime Policy and the Birds and
+Habitats Directives;
+the need for and relevance of comprehensive and reliable data of good quality for decisions on fisheries management and protection
+of ecosystems including vulnerable species and habitats;
+the need for harmonised data that are in line with correct, standardised statistical principles that make it possible to assess the impact
+on ecosystems and fish stocks and that are taken into account for management at regional level;
+
+the need for simplification and to avoid duplication of data collection,
+the need for data to cover data-deficient fisheries,
+the need to collect information on fleets that have not yet been covered.
+Content of the multi-annual Union programme: multi-annual Union programmes shall establish:
+thresholds below which it is not mandatory for Member States to collect data or carry out research surveys, based on their fishing and
+aquaculture activities;
+data on fish stocks and their conservation and management;
+the quantifiable targets required for the implementation of the multiannual plans referred to in Article 9 of Regulation (EU) No
+1380/2013, such as fishing mortality rates and spawning stock biomass;
+ecosystem data to assess the impact of Union fisheries on the marine ecosystem in Union and external waters, including data on
+by-catch of non-target species, in particular species protected under international or Union law, data on impacts of fisheries on marine
+habitats and data on impacts of fisheries on food webs, obtained, inter alia, by analysing catches and vulnerable marine areas such as
+nursery areas and Posidonia seabeds (marine seagrasses);
+data on the Union fleet and its activity in Union and external waters;
+socio-economic data on fisheries, including recreational fisheries;
+socio-economic data on the fish and aquaculture product processing sector.
+The list of mandatory research surveys shall be drawn up taking into account the following requirements:
+information needs for the management of the Common Fisheries Policy, including compliance with Union environmental legislation, in
+particular the objective of achieving good environmental status by 2020;
+information needs for the evaluation of conservation measures;
+information which is necessary in order to terminate or adjust emergency measures when they have initially been based on the
+precautionary principle.
+National work plans: Member States' work plans shall contain a detailed description of the following:
+the format and time data are to be delivered to end users, taking into consideration deadlines provided for data calls;
+the type of data collected for control purposes and the type of data collected in the framework of the Regulation.
+In preparing their work plan, Member States shall endeavour to cooperate closely with regional authorities and shall coordinate their efforts
+with other Member States, notably in the same marine region. Data collection activities and methods shall be such as to ensure that it is
+possible for data to be compared and integrated at least at regional level.
+National correspondents: Member States shall ensure that their national correspondent is sufficiently trained and experienced, has a sufficient
+mandate to represent its Member State in the expert group meetings, and can negotiate on task sharing with regard to sampling, analysis and
+scientific surveys.
+Coordination and cooperation: Member States shall make every effort to coordinate their actions with third countries which have sovereignty or
+jurisdiction over waters in the same marine region.
+Members introduced an amendment defining the tasks of the Regional Co-ordination Groups so that they might plan their activities.
+Approval of work plans: the Commission shall adopt implementing acts approving the work plans by 31 December of the year preceding the
+year from which the work plan is to apply.
+Access to the sampling sites and data sources: with regard to data collection, the Commission shall, five years from the entry into force of the
+Regulation, set up a single European database in order to simplify and facilitate data analysis at European level.
+Collection of data in the context of scientific advice: when the Commission seeks scientific advice from a competent scientific body, it shall
+inform in due time the European Parliament and the Council and shall forward to them a copy of the request submitted to the scientific body
+concerned.
+
+2015/0133(COD) - 16/03/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 535 votes to 38, with 48 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council concerning the establishment of a Union framework for the collection, management and use of data in
+the fisheries sector and support for scientific advice regarding the Common Fisheries Policy (recast).
+Parliaments position adopted at first reading following the ordinary legislative procedure amended the Commission proposal.
+Aims: this Regulation aims to establish rules on the collection, management and use of biological, environmental, technical and
+socio-economic data concerning the fisheries sector.
+The data collection framework should contribute towards reaching the objectives of the Common Fisheries Policy, which includes the
+protection of the marine environment, the sustainable management of all commercially exploited species, and in particular the achievement of
+good environmental status in the marine environment by 2020.
+Multiannual Union programme: the Commission shall establish a multiannual Union programme for the collection and management of data
+while taking into account:
+the need for data to set the targets required for the implementation of the multiannual plans referred to in Article 9 of Regulation (EU)
+No 1380/2013, such as fishing mortality rates and spawning stock biomass;
+the need for: (i) data that are relevant, comprehensive and reliable for the purpose of decisions on fisheries management and
+protection of ecosystems including vulnerable species and habitats; (ii) sustainable development of aquaculture at Union level; (iii)
+support impact assessments of policy measures;
+the need for simplification and to avoid duplication of data collection and for data to cover data-deficient fisheries.
+
+Parliament stated that it is appropriate for a sufficient number of mandatory research surveys at sea to be carried out at Union level.
+National work plans: the Commission shall take into account the evaluation conducted by STECF when approving the national work plans. If
+such evaluation indicates that a national work plan does not ensure the scientific relevance of the data or sufficient quality of the proposed
+methods and procedures, the Commission shall immediately inform the Member State concerned and indicate amendments to that work plan.
+National work plans shall contain a detailed description of, inter alia, the following: (i) data to be collected in accordance with the multiannual
+Union programme; (ii) the temporal and spatial distribution and the frequency by which the data will be collected.
+Regional coordination and cooperation: Member States shall cooperate and coordinate their actions to further improve the quality, timeliness
+and coverage of data enabling the reliability of data collection methods to be further improved, with a view to improving their data collection
+activities.
+Regional coordination groups shall aim at developing and implementing procedures, methods, quality assurance and quality control for
+collecting and processing data with a view to enabling the reliability of scientific advice to be further improved. For that purpose, regional
+coordination groups shall aim to develop and implement regional databases.
+Access to the sampling sites: the masters of Union fishing vessels may refuse to accept on board the scientific observers operating under the
+at-sea monitoring scheme only on the basis of an obvious lack of space on the vessel or for safety reasons in accordance with national law. In
+such cases, data shall be collected through alternative data collection methods which are set out in the national work plan.
+Availability of data: Member States shall refrain from any unnecessary restrictions to the dissemination of detailed and aggregated data to
+end-users of scientific data and other interested parties.
+A Member State may refuse to transmit the relevant detailed and aggregated data if there is a risk of natural persons or legal entities being
+identified, in which case the Member State concerned shall propose alternative means to meet the needs identified by the end-users of
+scientific data which ensure anonymity.
+
+2015/0133(COD) - 17/05/2017 Final act
+PURPOSE: to improve the collection, management and use of data in the fisheries sector.
+LEGISLATIVE ACT: Regulation (EU) 2017/1004 of the European Parliament and of the Council on the establishment of a Union framework for
+the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and
+repealing Council Regulation (EC) No 199/2008.
+CONTENT: the new Regulation simplifies and strengthens the current system for the collection of biological, environmental, technical and
+socio-economic data in the fisheries sector.
+The aim of the new Regulation is to align EU rules with the objectives of the reformed Common Fisheries Policy (CFP), which includes: (i) the
+protection of the marine environment, (ii) the sustainable management of all commercially exploited species, and in particular (iii) the
+achievement of good environmental status in the marine environment by 2020.
+Multiannual Union programme: in order to coordinate the data collection efforts of all Member States, the Commission shall establish a
+multiannual Union programme for the collection and management of data. This data shall include:
+·
+
+biological data on all stocks caught or by-caught in Union commercial and, where appropriate, recreational fisheries in and outside
+Union waters;
+
+·
+
+data to assess the impact of Union fisheries on the marine ecosystem in and outside Union waters;
+
+·
+
+socioeconomic data on fisheries, on the sustainability of marine aquaculture and on the fish processing sector.
+
+The data collected should also allow:
+·
+
+the targets required for the implementation of the multiannual plans referred to in Article 9 of Regulation (EU) No 1380/2013, such as
+fishing mortality rates and spawning stock biomass, to be determined;
+
+·
+
+the gaps in the coverage of data relating to the fishing fleet to be closed and the number of data-deficient stocks in certain regions to
+be reduced.
+
+The Regulation stresses importance of carrying out a sufficient number of mandatory research surveys at sea to be carried out at Union level.
+The new rules will ensure that all these relevant data are collected following a cost/benefit approach and without duplication of effort, thus
+reducing the administrative burden.
+National work plans: Member States shall collect data within the framework of an operational programme, and a work plan drawn up in
+accordance with the multiannual Union programme.
+The Commission will assess the work plans after consulting the Scientific, Technical and Economic Committee for Fisheries (STECF). It may
+indicate that a Member State should make amendments to a national work plan if a national work plan does not ensure the scientific relevance
+of the data or sufficient quality of the proposed methods and procedures. The Member State concerned shall submit a revised national work
+plan.
+Cooperation within the Union and regional coordination: Member States shall cooperate and coordinate their actions to further improve the
+quality of data. They shall coordinate their data collection activities with other Member States in the same marine region and shall make every
+effort to coordinate their actions with third countries.
+In order to facilitate regional coordination, the relevant Member States for each marine region shall establish regional coordination groups.
+Access to the sampling sites: data collectors designated by the body in charge of the implementation of the national work plan have access to
+
+all catches, vessels and other sampling sites, business registers and any necessary data.
+The masters of Union fishing vessels may refuse to accept on board scientific observers only on the basis of an obvious lack of space on the
+vessel or for safety reasons in accordance with national law. In such cases, data shall be collected through alternative data collection methods
+that are set out in the national work plan.
+Availability of data: data should be put into national computerised databases so that they are accessible to the Commission and can be made
+available to end-users of scientific data and other interested parties. Data, which do not allow for personal identification should be available
+without restrictions to any party with an interest in their analysis, including on the environmental aspects of fisheries management.
+ENTRY INTO FORCE: 10.7.2017.
+DELEGATED ACTS: the Commission may adopt delegated acts in respect of establishing a detailed list of data requirements for the purpose
+of data collection within the framework of the multiannual Union programme. The power to adopt such acts is conferred on the Commission for
+a period of three years from 10 July 2017 . The European Parliament or the Council have the right to object to a delegated act within two
+months (which may be extended by two months) from the date of notification of the act.
+
+

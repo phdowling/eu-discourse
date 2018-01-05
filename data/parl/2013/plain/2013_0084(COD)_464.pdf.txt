@@ -1,0 +1,363 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0084(COD)
+
+Procedure completed
+
+Labour Force Survey (LFS): aligning the Regulation with the TFEU
+(Commission delegated and implementing powers); financing provision
+Amending Regulation (EC) No 577/98 1997/0202(CNS)
+Subject
+4.15.02 Employment: guidelines, actions, Funds
+4.15.04 Workforce, occupational mobility, job conversion, working conditions
+8.60 European statistical legislation
+8.70 Budget of the Union
+
+Key players
+European Parliament
+
+Committee responsible
+EMPL
+
+Employment and Social Affairs
+
+Rapporteur
+
+Appointed
+
+Verts/ALE ŽDANOKA Tatjana 17/04/2013
+Shadow rapporteur
+PPE ESSAYAH Sari
+S&D COSTELLO Emer
+ALDE HARKIN Marian
+ECR CABRNOCH Milan
+GUE/NGL ZUBER Inês
+Cristina
+
+Committee for opinion
+BUDG
+JURI
+
+Budgets
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+Rapporteur for opinion
+
+Appointed
+
+S&D COTTIGNY Jean Louis
+
+15/04/2013
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+ŠEMETA Algirdas
+
+Key events
+27/03/2013
+
+Legislative proposal published
+
+16/04/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/10/2013
+
+Vote in committee, 1st reading/single
+reading
+
+22/10/2013
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/04/2014
+
+Results of vote in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+COM(2013)0155
+
+Summary
+
+A7-0344/2013
+
+Summary
+
+T7-0392/2014
+
+Summary
+
+15/05/2014
+
+Final act signed
+
+15/05/2014
+
+End of procedure in Parliament
+
+29/05/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0084(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 577/98 1997/0202(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+EMPL/7/12355
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0155
+
+27/03/2013
+
+EC
+
+PE513.078
+
+21/06/2013
+
+EP
+
+PE513.063
+
+22/07/2013
+
+EP
+
+PE516.828
+
+28/08/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0344/2013
+
+22/10/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0392/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Committee draft report
+Committee opinion
+
+BUDG
+
+Amendments tabled in committee
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/545
+OJ L 163 29.05.2014, p. 0010 Summary
+Final legislative act with provisions for delegated acts
+
+Delegated acts
+2014/2927(DEA)
+
+Examination of delegated act
+
+2013/0084(COD) - 27/03/2013 Legislative proposal
+
+Summary
+
+PURPOSE: to align Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community to the Treaty on
+the Functioning of the European Union (the Commissions delegated and implementing powers) and integrate into the Regulation a provision
+on financing.
+PROPOSED ACT: Regulation of the European Parliament and of the Council (amending Council Regulation (EC) No 577/98).
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: following the entry into force of the TFEU, the powers delegated to the Commission must be aligned with Article 290
+(delegated acts), and Article 291 (implementing acts).
+The Commission has made a commitment to review legislative acts which currently contain references to regulatory procedure with scrutiny in
+the light of the criteria laid down in the
+Treaty. The overall objective is to remove all provisions referring to the regulatory procedure with scrutiny from all legislative instruments by the
+end of Parliaments seventh term (June 2014).
+Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community contains references to the
+regulatory procedure with scrutiny and should therefore be reviewed in the light of the criteria laid down in the TFEU.
+The EU Labour Force Survey (LFS) is the biggest household survey in Europe. The results produced form the backbone of the statistical
+information system on labour markets in the European Union. In particular, the LFS provides the indicators for three of the Europe 2020
+headline targets.
+Each year, the core LFS is supplemented with an ad hoc module, which serves predominantly European policy initiatives, such as the
+European Employment Strategy, the Youth on the Move flagship initiative, the Strategy for Equality between Women and Men, the European
+agenda for integration and the Employment Package. The sustainable production of high-quality ad hoc module data is of utmost importance
+to EU decision-makers, and thus it is proposed that a provision on financing be integrated into the Regulation.
+IMPACT ASSESSMENT: there was no need for impact assessment.
+LEGAL BASIS: Article 338(1) of the Treaty on the Functioning of the European Union.
+CONTENT : the main objectives of the proposal are as follows:
+1) Amend Regulation (EC) No 577/98 in order to align it to the new institutional context.
+The Commission may adopt, by means of delegated acts in accordance with Article 290 of the TFEU: (i) the content of the ad hoc modules,
+the definitions and any adjustment of the list of survey variables made necessary by the evolution of techniques and concepts; (ii) the list of
+structural variables, including the minimum sample size and the survey frequency.
+Implementing powers are conferred upon the Commission with a view to ensuring uniform conditions concerning the transmission of statistical
+information, in particular by adopting the rules on the edits to be used, the codification of the variables and the list of principles for the
+formulation of questions concerning labour status.
+2) Allow the Commission to provide for a financial contribution. The contribution by the Union to the financing of the implementation of modules
+is proposed through grant procedures, without calls for proposals. The grants are to be awarded to the national statistical institutes and other
+national authorities referred to in Regulation (EC) No 223/2009 on European statistics.
+BUDGETARY IMPLICATIONS: the total amount in commitment and payment appropriations (operational appropriations and human
+resources) is estimated at EUR 15.890 million for the period 2014-2020.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2013/0084(COD) - 22/10/2013 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Employment and Social Affairs adopted the report by Tatjana DANOKA (Greens/EFA, LV) on the proposal for a regulation
+of the European Parliament and of the Council amending Council Regulation (EC) No 577/98 on the organisation of a labour force sample
+survey in the Community.
+The committee recommended that the position of the European Parliament adopted in first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Members recalled that objectives of the Union which are to effectively combat discrimination, to assist in ensuring compliance with Article 21
+of the Charter of Fundamental Rights of the European Union, as well as pursuing the aim of full employment and social progress. In this
+context, they stressed the need to have comparable, reliable and objective statistics on the situation of employed persons, unemployed
+persons and persons outside the labour market, while respecting statistical confidentiality, privacy and protection of personal data.
+The amended text provided that a further set of variables to supplement the information ("the ad hoc module") may be added. Members
+proposed that the Union may award grants, without a call for proposals, to the national statistical institutes and other national authorities
+referred to as designated beneficiaries in Regulation (EC) No 223/2009, for the implementation of the ad hoc modules as referred to under the
+provisions of Article X of the Regulation of the European Parliament and of the Council on a European Union Programme for Social Change
+and Innovation.
+Members proposed that the power to adopt delegated acts shall be conferred on the Commission for a period of five years (renewable) from
+the date of entry into force of the Regulation.
+The delay to make an objection to a delegated act has been extended from two to three months.
+
+2013/0084(COD) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 592 votes to 30, with 3 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in
+the Community.
+Parliament adopted its position at first reading under the ordinary legislative procedure. The amendments adopted in plenary were the result of
+a compromise between Parliament and Council. They amend the Commissions proposal as follows:
+In line with the wishes expressed by the Members, the Union objective to effectively combat discrimination and to pursue the aim of full
+employment and social progress as well as the main objectives of the Europe 2020 strategy have been stressed. In this regard, it is necessary
+to have comparable, reliable and objective statistics on the situation of employed persons, unemployed persons and persons outside the
+labour market, while respecting statistical confidentiality, privacy and protection of personal data.
+Ad hoc modules: the amended text provided for a further set of characteristics to supplement the information described in the Regulation. The
+sample used to collect information on ad hoc modules should also provide information on structural variables and should fulfil certain
+conditions laid down in the text.
+The Commission should be empowered to adopt delegated acts as regards establishing a programme of ad hoc modules covering three
+years. This programme should be adopted not later than 24 months before the beginning of the reference period of the programme.
+Financial contribution: the Union should award financial support to the national statistical institutes and other national authorities for the
+implementation of the ad hoc modules. The grants may take the form of lump-sum payments and shall be made on condition that Member
+States actually participate in the implementation of ad hoc modules.
+Structural variables: these should fulfil the condition that the relative standard error (without taking design effect into account) of any yearly
+estimate representing 1% or more of the working age population does not exceed: (a) 9% for Member States with a population of between 1
+million and 20 million inhabitants; and (b) 5% for Member States with a population of 20 million or more.
+Member States with less than 1 million inhabitants should be exempted from the requirements regarding the relative standard error and the
+variables shall be collected for the total sample.
+Delegation of power: the delegation of powered conferred on the Commission to adopt delegated acts should be limited to a period of five
+years (renewable) from the date of entry into force of the Regulation.
+The delay to make an objection to a delegated act should be two months. That period could be extended by two months at the initiative of the
+European Parliament or the Council.
+Those delegated acts shall be adopted only where they are necessary in order to take account of social and economic developments. The
+Commission shall duly justify the statistical actions provided for in those delegated acts.
+
+2013/0084(COD) - 15/05/2014 Final act
+PURPOSE: to align Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community with the Treaty
+on the Functioning of the European Union (delegated and implementing powers of the Commission) and to incorporate into the Regulation a
+provision on funding.
+LEGISLATIVE ACT: Regulation (EU) No 545/2014 of the European Parliament and of the Council amending Council Regulation (EC) No
+577/98 on the organisation of a labour force sample survey in the Community.
+CONTENT: in order to monitor progress towards Union policy objectives, such as the Europe 2020 headline targets, it is necessary to have
+comparable, reliable and objective statistics on the situation of employed persons, unemployed persons and persons outside the labour market
+, while respecting statistical confidentiality, privacy and protection of personal data.
+This Regulation amends Regulation (EC) No 577/982 to align it with the new institutional context of the Lisbon Treaty, and to allow the EU to
+make a financial contribution in the form of grants to the national statistical institutes and other national authorities.
+Labour Force Survey ad hoc modules for Union policies: the regulation provides that a further set of characteristics may be added to
+supplement the information described in the Regulation. The Union can award financial support for the implementation of the ad hoc modules.
+The Union may award grants, without a call for proposals, to those national statistical institutes and other national authorities. The grants may
+take the form of lump-sum payments and shall be made on condition that Member States actually participate in the implementation of ad hoc
+modules.
+Delegation of power to the Commission: to take account of economic, social and technical developments, the Regulation delegates the power
+to adopt acts to the Commission in respect of the adjustment of the list of survey variables, specified within the list of 14 groups of survey
+characteristics referred to in Regulation (EC) No 577/98, to establish a three-year programme of ad hoc modules, specifying, for each ad hoc
+module the subject, the list and description of the area of specialised information (ad hoc sub-modules) and the reference period.
+In addition, the Commission should be empowered to adopt delegated acts in order to adopt the list of structural variables and the survey
+frequency.
+The power to adopt the delegated acts shall be conferred on the Commission for a period of five years (with tacit extension) from 18 June
+2014. The European Parliament or the Council may object to a delegated act within a period of two months from the date of notification (this
+period can be extended for two months). If the European Parliament or the Council make objections, the delegated act will not enter into force.
+The Commission shall duly justify the statistical actions provided for in those delegated acts, using, where appropriate, input from relevant
+experts based on a cost-effectiveness analysis, including an assessment of the burden on the respondents and of the production costs.
+
+ENTRY INTO FORCE: 18.06.2014.
+
+

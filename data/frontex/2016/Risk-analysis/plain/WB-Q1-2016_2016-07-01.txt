@@ -1,0 +1,4248 @@
+Western Balkans
+Quarterly
+Quarter 1 • January–March 2016
+
+Q1 Q2
+Q3 Q4
+
+FRAN · q1 2015
+
+Frontex official publications fall into four main categories: risk analysis, training,
+operations and research, each marked with a distinct graphic identifier. Risk analysis
+publications bear a triangular symbol formed by an arrow drawing a triangle, with
+a dot at the centre. Metaphorically, the arrow represents the cyclical nature of risk
+analysis processes and its orientation towards an appropriate operational response.
+The triangle is a symbol of ideal proportions and knowledge, reflecting the pursuit
+of factual exactness, truth and exhaustive analysis. The dot at the centre represents
+the intelligence factor and the focal point where information from diverse sources
+converges to be processed, systematised and shared as analytical products. Thus,
+Frontex risk analysis is meant to be at the centre and to form a reliable basis for its
+operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, June 2016
+Risk Analysis Unit
+Frontex reference number: 12244/2016
+
+OPOCE Catalogue number TT-AI-16-001-EN-N
+ISSN 2443-8367
+© Frontex, 2016
+All rights reserved. Reproduction is authorised provided the source is acknowledged.
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply
+the expression of any opinion whatsoever on the part of Frontex concerning the legal
+status of any country, territory or city or its authorities, or concerning the delimitation
+of its frontiers or boundaries. All charts included in this report are the sole property of
+Frontex and any unauthorised use is prohibited.
+Throughout the report, references to Kosovo* are marked with an asterisk to indicate
+that this designation is without prejudice to positions on status, and is in line with
+UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+ACKNOWLEDGMENTS
+The Western Balkans Quarterly has been prepared by the Frontex Risk Analysis Unit.
+During the course of developing this product, many colleagues at Frontex and from the
+WB-RAN contributed to it and their assistance is hereby acknowledged with gratitude.
+
+wb-ran · q1 2016
+
+Table of contents
+Introduction #3
+I. Situational overview #4
+Summary of WB-RAN indicators #5
+Key findings #5
+Situation at the border #6
+Border surveillance #6
+Border checks #8
+Situation in the Western Balkans #9
+Illegal stay in Western Balkan countries
+
+#9
+
+II. Featured risk analysis #10
+Detections of non-regional migrants stabilise at lower levels after the EU-Turkey statement #10
+III. Statistical annex #13
+
+1 of 19
+
+List of abbreviations used
+BCP	border-crossing point
+CIA
+Central Investigation Agency
+EDF
+European Union Document-Fraud
+EDF-RAN
+European Union Document-Fraud Risk Analysis Network
+EU 	European Union
+FRAN 	Frontex Risk Analysis Network
+Frontex	European Agency for the Management of Operational Cooperation at the External Borders of the Member
+States of the European Union
+FYR Macedonia	former Yugoslav Republic of Macedonia
+ICJ
+International Court of Justice
+ID
+identification document
+IOM
+International Organization for Migration
+n.a.
+not available
+Q/Qtr
+quarter of the year
+RAU
+Frontex Risk Analysis Unit
+UNSCR
+United Nations Security Council Resolution
+WB-RAN
+Western Balkans Risk Analysis Network
+
+2 of 19
+
+wb-ran · q1 2016
+
+Introduction
+
+Concept
+The Western Balkans Risk Analysis Network (WB-RAN) performs monthly exchanges of statistical data and information
+on the most recent irregular migration
+developments affecting the region. This
+information is compiled at Frontex Risk
+Analysis Unit (RAU) level and analysed in
+cooperation with the regional partners on
+a quarterly and annual basis. The annual
+reports offer a more in-depth analysis of
+the developments and phenomena which
+impact the regional and common borders, while the quarterly reports are meant
+to provide regular updates and identify
+emerging trends in order to maintain situational awareness. Both types of reports
+are aimed at offering support for strategic
+and operational decision making.
+
+Methodology
+The Western Balkans Quarterly is focused
+on quarterly developments as reflected by
+the seven key indicators of irregular migration: (1) detections of illegal bordercrossing between BCPs, (2) detections of
+illegal border-crossing at BCPs, (3) refusals of entry, (4) detections of illegal stay,
+(5) asylum applications, (6) detections of
+facilitators, and (7) detections of fraudulent documents.1
+
+1
+
+Please note that the analysis of this indicator
+is now limited to WB-RAN countries
+only, given that EU Member States have
+transitioned to the European Union
+Document-Fraud (EDF) reporting scheme.
+
+The data presented in the overview are
+derived from monthly statistics provided
+within the framework of the WB-RAN
+and reference-period statistics from common border sections of neighbouring EU
+Member States (Croatia, Bulgaria, Greece,
+Hungary and Romania). In addition, the
+Western Balkans Quarterly is drawing
+from FRAN Quarterly reports and also
+from data analysed in the framework
+of other risk analysis networks (FRAN,
+EDF-RAN).
+
+Structure
+The first part offers a general situational
+overview broken down by main areas of
+work of border-control authorities and
+police activities related to irregular migration. The second part presents more
+in-depth featured risk analyses of particular phenomena. As the current issue
+of the Western Balkans Quarterly is the
+fifth following a new approach adopted
+for risk analysis quarterlies, the structure
+of the report may still be subject to some
+readjustments.
+Changes in data scope after Croatia’s
+entry to the EU
+Important changes in the collection and
+use of data for Western Balkans Quarterlies were introduced upon Croatia’s joining
+the EU in July 2013. Firstly, data for Slovenia, which now has no external borders
+with non-EU Western Balkan countries,
+
+have not been included in the report since
+the third quarter of 2013. Slovenian historical data were also excluded from the tables in order to make the comparison with
+previous quarters analytically meaningful.
+Secondly, as the Croatian-Hungarian and
+Croatian-Slovenian border sections are
+now internal EU-borders and so they are
+no longer covered by this report.
+Thirdly, after joining the EU, Croatian data
+on illegal stay data are limited to detections at the border. More precisely, Croatia’s illegal stay data only include cases
+detected on exit, while inland detections
+are not included. The analysis of the illegal stay indicator takes this fact into
+consideration.
+Changes in data scope after Kosovo*’s
+entry to the WB-RAN
+Starting from the first quarter of 2014,
+data from Kosovo* on key indicators of
+irregular migration have been included in
+the reporting, making it possible to get a
+more comprehensive picture of the irregular movements in the region. However,
+as there are no historical data available for
+Kosovo*, the new data have some impact
+on the comparison of the examined period
+with previous quarters. When necessary
+for analytical purposes, some comparison
+can be made also excluding data from Kosovo*, which is noted in the text.
+
+3 of 19
+
+Featured
+Risk Analyses
+I.
+Situational
+overview
+
+Figure 1. General map of the Western Balkans region
+
+Hungary
+Kelebia
+
+Slovenia
+
+Röszke
+
+Croatia
+Moravita
+
+Stara Gradiška
+Bajakovo
+
+Romania
+
+Belgrade
+
+!
+
+Serbia
+
+7.2
+
+Bosnia and
+Herzegovina
+
+3.9
+
+!
+
+Sarajevo
+
+Montenegro
+Karasovići
+
+0.7
+
+Pristina
+
+Kalotina
+
+!
+
+Kosovo*
+
+Bulgaria
+
+1.9
+
+!
+
+Podgorica
+
+!
+
+Skopje
+
+Italy
+
+Tirana
+!
+
+Albania
+population in milions
+
+main BCPs between WB-RAN countries and the EU
+regional borders
+
+3.0
+
+FYR
+Macedonia
+
+2.0
+
+Kristallopigi
+
+Kakavia
+
+administrative boundary line
+common borders
+Pan-European Transport Corridor X
+other major roads
+
+* This designation is without prejudice to positions on status, and is in line with
+UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+Source: The CIA World Factbook (July 2014 estimates), ESRI geodata
+
+4 of 19
+
+Greece
+
+wb-ran · q1 2016
+
+Summary of WB-RAN indicators
+Table 1. O
+ verview of indicators as reported by WB-RAN members
+Q1 2015
+
+Q4 2015
+
+Q1 2016
+
+% change on same
+quarter last year
+
+% change on previous
+quarter
+
+WB-RAN Indicator
+Illegal border-crossing between BCPs
+Illegal border-crossing at BCPs
+
+48 753
+
+1 336 010
+
+217 815
+
+347%
+
+-84%
+
+394
+
+152
+
+410
+
+4%
+
+170%
+
+Facilitators
+
+517
+
+273
+
+261
+
+-50%
+
+-4%
+
+Illegal stay
+
+2 209
+
+1 901
+
+2 099
+
+-5%
+
+10%
+
+Refusals of entry
+Asylum applications*
+False travel-document users
+
+8 391
+
+9 626
+
+8 807
+
+5%
+
+-9%
+
+42 480
+
+13 248
+
+18 294
+
+-57%
+
+38%
+
+260
+
+220
+
+236
+
+-9%
+
+7%
+
+* Applications for asylum in EU Member States include all applications received in the territory of the countries, not limited to those made at the Western Balkan borders.
+Source: WB-RAN data as of 6 May 2016
+
+Key findings
+n Decrease of non-regional flow as more restrictions are
+
+gradually introduced and the transit corridor is closed
+
+n As the message about the unavailability of the Western
+
+Balkan transit corridor spreads, arrivals via the Eastern
+Aegean also decrease
+
+n Increased number of migrants trying to transit via BCPs
+n Regional flow still low, broadly consistent with seasonal
+
+trends
+
+5 of 19
+
+Featured
+Risk Analyses
+I.
+Situational
+overview
+
+Situation at the border
+
+Border surveillance
+Illegal border-crossings
+During the analysed period, 215 000 illegal border-crossings by non-regional migrants en route from Turkey, Greece and
+Bulgaria were reported at the common
+and regional borders (see Fig. 2). This represents an 84% decrease compared with
+the previous quarter, which was an alltime record.
+
+only fewer than 2 500 of the illegal bordercrossings in the Western Balkans in Q1 2016
+were associated with regional migrants.
+
+The decrease could be observed during all
+the three months of the quarter but was
+more visible in February and March, when
+coordinated restriction measures were introduced at regional level and, ultimately,
+the transit corridor was closed. After the
+closure in March 2016, the number of detections dropped to the level close to that
+of the same month in 2015, i.e. before the
+migratory crisis significantly worsened in
+the Western Balkans. At the same time,
+
+Figure 2. The non-regional flow continued to enter the Western Balkans region
+through the southern common borders and then exit in its northern part, mostly
+across the Croatian-Serbian border; an increase at the Hungarian-Serbian border
+could be noticed after the closure of the transit corridor in March
+Detections of illegal border-crossing between BCPs by non-regional migrants
+
+120 000
+
+Q1 2015
+
+100 000
+
+3% 1%
+
+Q1 2016
+
+GRC-MKD
+HRV-SRB
+
+80 000
+60 000
+
+48%
+
+Q1 2016
+
+48%
+
+HUN-SRB
+BGR-SRB
+
+40 000
+20 000
+0
+
+GRC-MKD
+
+HRV-SRB
+
+HUN-SRB
+
+BGR-SRB
+
+ROU-SRB
+
+GRC-ALB
+
+MKD-SRB
+
+Others
+
+Source: WB-RAN data as of 6 May 2016
+
+Figure 3. Detections of the regional flow continued to concentrate at the southern
+common borders (with only a seasonal decrease of the Albanian circular migration);
+in this context the share of the Hungarian-Serbian border increased
+Detections of illegal border-crossing between BCPs by regional migrants
+
+25 000
+Q1 2015
+20 000
+
+Q1 2016
+
+15 000
+
+4%
+18%
+
+GRC-ALB
+HUN-SRB
+GRC-MKD
+Others
+
+11%
+Q1 2016
+67%
+
+10 000
+5 000
+0
+
+GRC-ALB
+
+HUN-SRB
+
+Source: WB-RAN data as of 6 May 2016
+
+6 of 19
+
+GRC-MKD
+
+Kosovo*
+
+Administrative Boundary Line
+
+ALB-MKD
+
+Others
+
+Following the overall drop, Syrians and
+Afghans remained the two main nationalities, accounting for 21% and 14%, respectively, of the total non-regional migration
+flow. A high number of migrants was still
+reported as ‘unknown’ (despite being 79%
+lower compared to the last quarter of 2015,
+the number of such cases in the analysed
+period accounted for 51% of the non-regional total).
+Iraqi migrants continued to be the third
+most detected nationality, followed by
+Pakistanis, Iranians and Moroccans. All of
+these nationalities registered significant
+drops in relation to the previous quarter.
+Together, these top six nationalities accounted for 48% of the non-regional migration flow between BCPs, while the
+nationality of 51% of detected persons was
+reported as ‘unknown’.
+The detections of Western Balkan regional
+migrants was 34% lower than in the previous quarter and only represented less
+than 1% of the overall flow affecting the
+region. When analysing information available since 2009, a decrease in regional migrants between Q4 and Q1 appears to be
+a natural development. During the analysed period the drop was mainly linked to
+lower numbers of Albanian migrants reported at the Greek-Albanian border. This
+is in line with the lower number of available jobs in Greece during the first quarter of the year, a situation which usually
+changes during the warm season.
+Despite the overall decrease, the majority (67%) of Western Balkan country nationals detected for illegal border-crossing
+continued to be reported at the Greek-Albanian border. The second busiest section
+was the Hungarian-Serbian border, which
+took 18% of the regional flow.
+
+wb-ran · q1 2016
+
+Figure 4. In the southern part of the
+region, the border between the former
+Yugoslav Republic of Macedonia and
+Greece remained the main entry point
+for the non-regional transiting flow,
+followed by the Bulgarian-Serbian
+border. In the northern part, the
+Croatian-Serbian border remained the
+main point of exit from the region,
+but after the closure of the corridor,
+the Hungarian-Serbian section gained
+importance; the regional flow was still
+mainly restricted to the Greek-Albanian
+border
+
+%
+
+Austria
+
+Hungary
+
+Mostly non-regional flow
+Mostly regional flow
+
+-81%
+
+Slovenia Croatia
+
+Non-regional flows in the
+Eastern Mediterranean route
+
+Direction of the arrow – general direction of the flow
+Width of the arrow – indicative of the size of the flow
+
+58 863%
+-23%
+-90%
+
+Bosnia &
+Herzegovina
+-79%
+
+67%
+
+-14%
+
+Romania
+
+Serbia
+
+-99%
+
+-76%
+
+16%
+
+-17%
+
+Montenegro
+
+Changes in detections of illegal border-crossing
+between BCPs between Q1 2015 and Q1 2016 at
+particular border sections and main directions of the
+flow
+
+Kosovo*
+
+133%
+
+-99%
+
+Bulgaria
+
+-61%
+100%
+former Yugoslav
+Republic
+of Macedonia
+
+Albania
+
+Italy
+
+17 545%
+
+-41%
+
+During the first quarter of 2016, the number of detected facilitators was 261, showing a decrease for the second consecutive
+quarter. The number of detections during
+the analysed period was 4% lower than
+that registered in the previous quarter,
+reaching the lowest such total since Q3
+2014.
+
+-6%
+
+264%
+
+38%
+
+Facilitators
+
+Considering that there were more than
+215 000 illegal border-crossings associated
+with non-regional nationals, this very low
+total of detected facilitators indicates that
+migrants were increasingly able to self-organise and/or relied on authorities when it
+came to travel arrangements for transiting
+the region before the corridor was closed
+at the beginning of March.
+
+Change over Q1 2015
+
+Turkey
+
+1 098%
+
+Greece
+
+* This designation is without prejudice
+to positions on status, and is in line with
+UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence.
+
+Source: WB-RAN data as of 6 May 2016
+
+However, the decision to close the organised transit corridor is likely to increase
+migrants’ demand for people smuggling
+services in the future making facilitation
+activities more profitable.
+In terms of nationalities, 66% of all facilitators detected in the analysed quarter were
+nationals of Western Balkan countries,
+
+21% were citizens of EU Member States, especially those neighbouring the region, and
+13% were nationals of third countries from
+outside the region or ‘unknown’. The highest share of detections was still reported
+by Serbia, mostly involving Serbian nationals, followed by Greece, which mostly
+reported Albanians, Afghans and Greeks.
+
+Figure 5. The number of facilitators remained low, indicating the ability of migrants to self-organise or rely on transportation
+organised by authorities
+Detections of facilitators (at BCPs, between BCPs and inland), by reporting country, top shares (left) and nationalities (right)
+
+300
+
+Q1 2015
+
+250
+
+Q1 2016
+
+200
+
+10%
+10%
+14%
+
+150
+
+SRB
+GRC
+HUN
+MKD
+BGR
+Other
+
+3%
+38%
+
+Q1 2016
+25%
+
+100
+50
+0
+
+300
+
+Q1 2015
+
+250
+
+Q1 2016
+
+200
+150
+100
+50
+
+SRB
+
+GRC
+
+HUN
+
+MKD
+
+BGR
+
+Other
+
+0
+
+SRB
+
+ALB
+
+BGR
+
+AFG
+
+MKD GRC
+
+BIH
+
+Kosovo* Uknown
+
+Source: WB-RAN data as of 6 May 2016
+
+7 of 19
+
+ROU Other
+
+Featured
+Risk Analyses
+I.
+Situational
+overview
+
+Border checks
+Clandestine entries
+In Q1 2016, a total of 385 non-regional migrants were detected while attempting to
+illegally cross the borders hiding in vehicles. This represents a more than tenfold
+increase compared to Q4 2015 and the
+highest number of such detections in the
+past four quarters. This overall increase is
+mostly linked to higher numbers of Moroccan and Algerian migrants reported
+especially at the Hungarian-Serbian and
+Croatian-Serbian borders. Afghans and
+Iranians also contributed to this rise, being mostly reported at the Serbia-former
+Yugoslav Republic of Macedonia and Croatian-Serbian border.
+
+Document fraud
+During the first quarter, there were 236
+cases of false document use reported by
+the six Western Balkan countries, a number 7% higher than that of the previous
+quarter.
+Serbia continued to rank first in terms of
+detections, followed by the former Yugoslav Republic of Macedonia and Albania. As
+regards nationalities detected in Q1 2016,
+
+Albanian and Kosovo* citizens continued
+to rank top amongst false document users, accounting for 33% and 28% of all detections, respectively.
+Passports, ID cards and residence permits were the most commonly detected
+false documents. Unsurprisingly, a large
+majority of ID cards were EU Member
+States’ documents, as they can be used
+to move freely within the Schengen area
+and the EU.
+As far as detections of false passports are
+concerned, the majority were reportedly
+issued by countries of the region. The majority of these documents were Albanian,
+mostly used by Albanian nationals most
+likely in an attempt to avoid entry bans imposed for prior misuse of visa liberalisation.
+
+Refusals of entry
+In the analysed period, the number of refusals of entry decreased by 9% compared
+with the previous quarter: from roughly
+9 600 to 8 800. This decline appears to
+be broadly consistent with seasonal trends
+caused by lower tourist mobility as the
+number of refusals issued was relatively
+
+stable compared with the corresponding
+quarter of 2015. Turkish nationals ranked
+fourth among the refused nationalities,
+thus occupying a top position for the third
+consecutive quarter, despite a 32% reduction in relation to Q4 2015.
+As usual, a large majority of refusals of
+entry were issued at land borders (89%),
+while the remaining 11% were mainly reported at air borders.
+Most of the refusals reported by the neighbouring EU Member States were issued
+to nationals of Western Balkan countries
+(91%). In turn, among those refused entry
+by the six countries of the region, 39% were
+local residents, 26% were Turkish nationals and 24% were nationals of EU Member
+States/Schengen Associated Countries.
+The overall number of refusals issued to
+the non-regional nationalities associated
+with the migratory flow originating from
+Turkey/Greece continued to represent a
+low share of the total (i.e. Syrians, Afghans
+and Iraqis accounted for 45% of the reported illegal border-crossings between
+BCPs, but were only issued 3% of the refusals of entry at regional level).
+
+Figure 6. Turkish nationals continue to rank high among the top refused nationalities, indicating that many of them attempt to
+reach the EU by taking advantage of the high migration pressure
+Persons refused entry by top border sections, top shares (left) and nationalities (right)
+
+Q1 2016
+13%
+
+8 of 19
+
+th
+er
+s
+
+O
+
+n
+w
+
+RV
+
+H
+
+nk
+no
+U
+
+R
+
+S
+
+AF
+G
+
+BG
+
+RK
+
+KD
+M
+
+TU
+
+s
+er
+th
+O
+
+KD
+
+E
+
+M
+
+N
+
+BAL
+
+-M
+
+RV
+
+Ko
+
+so
+v
+
+A
+Bo dm
+un ini
+da str
+ry ati
+Li ve
+ne
+
+H
+
+RB
+
+RB
+
+-A
+
+U
+-S
+RO
+
+SR
+B
+
+SR
+
+-S
+H
+BI
+
+LB
+
+RV
+H
+
+CA
+
+IH
+GR
+
+-S
+
+RV
+-B
+
+H
+
+N
+U
+H
+
+Source: WB-RAN data as of 6 May 2016
+
+o*
+
+0
+ir
+
+0
+B
+
+500
+
+RB
+
+500
+
+R
+
+1 000
+
+8% 10%
+
+B
+
+5%
+
+Q4 2015
+
+1 500
+
+BI
+H
+
+1 000
+
+39%
+
+Q4 2014
+
+2 000
+
+B
+
+Q1 2016
+
+1 500
+
+25%
+
+SR
+
+2 000
+
+2 500
+
+HUN-SRB
+HRV-BIH
+GRC-ALB
+HRV-SRB
+BIH-SRB
+Others
+
+Q1 2015
+
+AL
+
+2 500
+
+wb-ran · q1 2016
+
+Situation in the Western Balkans
+
+Illegal stay in Western Balkan countries
+There were 834 detections of illegal stay
+reported by the six Western Balkan countries during Q1 2016, a number that is 6%
+higher than that in the previous quarter, but very low considering the overall
+volume of the flow transiting the region
+over the recent period. The number was
+also significantly lower than in the corresponding quarter of 2015 (-33%). This development can be attributed to the fact
+that until the beginning of March migrants tried to cross the Western Balkans as fast as possible using organised
+transportation services before border
+
+closures or other restrictions were put
+into effect.
+
+stayers and were mainly reported by Montenegro and Serbia.
+
+During the analysed quarter, Serbian and
+Albanian nationals continued to rank
+first and second, respectively, among
+detected illegal stayers. Citizens of Serbia were mainly reported by Montenegro and, to a lesser extent, by Bosnia
+and Herzegovina, while the Albanians
+seem to have preferred staying in the
+former Yugoslav Republic of Macedonia. Nationals of Bosnia and Herzegovina ranked third in detections of illegal
+
+The large discrepancy between the number of detected illegal border-crossings
+by the non-regional migrants originating from Greece/Turkey (over 107 000
+reported by the six Western Balkan countries) and that of detected illegal stayers
+of corresponding nationalities (e.g. only
+17 Iraqis, 12 Afghans, 7 Iranians and 6 Syrians) indicates that the Western Balkans
+region continued to be mainly regarded
+as a transit area.
+
+Figure 7. Only a small share of non-regional nationalities reported for illegal border-crossing are detected as illegal stayers
+(indicating that they perceive the Western Balkans as a transit area)
+Illegal stayers, by reporting Western Balkan country, top shares (left) and nationalities (right)
+
+450
+
+SRB
+6%
+MNE 21%
+28%
+BIH
+Q1 2016
+MKD
+Other 21%
+24%
+
+Q1 2015
+
+400
+
+Q1 2016
+
+350
+300
+250
+200
+
+800
+
+Q1 2016
+
+600
+500
+400
+300
+
+150
+100
+
+200
+
+50
+
+100
+
+0
+
+Q1 2015
+
+700
+
+SRB
+
+MNE
+
+BIH
+
+MKD
+
+ALB
+
+Kosovo*
+
+0
+
+SRB
+
+ALB
+
+BIH
+
+TUR
+
+BGR
+
+RUS
+
+HRV
+
+ITA
+
+MNE
+
+Source: WB-RAN data as of 6 May 2016
+
+9 of 19
+
+ROU Other
+
+II. Featured risk analysis
+
+Figure 8. Impact of various implemented
+measures on the flow transiting the Eastern
+Aegean Sea and the Western Balkans
+Illegal border-crossings between BCPs
+
+5 000
+
+4 500
+
+4 000
+
+3 500
+
+3 000
+
+2 500
+
+2 000
+
+1 500
+
+1 000
+
+0
+
+500
+
+01
+
+Mostly weather related variations
+Organised transportation in place
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+n n n n n n n n n n n n n n n n b b b b b b b b b b b b b b
+Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Ja Fe Fe Fe Fe Fe Fe Fe Fe Fe Fe Fe Fe Fe Fe Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ma Ap Ap Ap Ap
+03 05 07 09 11 13 15 17 19 21 23 25 27 29 31 02 04 06 08 10 12 14 16 18 20 22 24 26 28 01 03 05 07 09 11 13 15 17 19 21 23 25 27 29 31 02 04 06 08
+Source: Western Balkans info exchange as of 11 April 2016
+
+1.5 days
+from MKD
+to SVN
+
+GRC-TUR
+MKD-GRC
+SVN-HRV
+
+EU-TUR statement
+
+Returns to TUR
+
+10 of 19
+
+The number of detected illegal border-crossings associated with the nonregional transiting flow registered a
+significant decrease in the first quarter.
+Specifically, the 215 000 illegal bordercrossings between BCPs reported in the
+analysed period represent an 84% reduction in relation to the last quarter of 2015.
+Detections at the common and regional
+borders have fallen substantially each
+consecutive month in Q1 2016, from
+128 000 in January to 74 000 in February and finally to just 13 000 in March.
+Starting at the end of 2015 and through
+the first quarter of 2016, the countries
+most affected by the non-regional flow
+transiting the Western Balkans started
+to increase their coordination in order to
+better tackle the high migration pressure.
+
+WB restriction
+measures –
+Zagreb
+
+Closure of
+MKD-GRC
+border & WB
+corridor
+
+Detections of non-regional
+migrants stabilise at lower
+levels after the EU-Turkey
+statement
+
+The first common restriction measure
+was agreed at the end of November when
+only Syrian, Afghan and Iraqi migrants
+were allowed transit while all others
+started being filtered out from the flow.
+Despite being difficult to implement due
+to insufficient screeners and interpreters and the fact that many migrants resorted to nationality swapping in order
+to slip through, this decision set the stage
+for further trans-regional actions.
+During February 2016, several high-level
+meetings of regional police chiefs and
+ministers were organised, each resulting
+in the application of more coordinated
+and gradual transit restrictions. The restrictions ranged from requiring migrants
+to document their nationality, origin from
+war-torn areas, a previous registration in
+Greece all the way to imposing daily transit quotas, refusing entry to migrants who
+had resided in other safe countries for a
+
+longer period or who did not fully cooperate with the authorities.
+All of these increased filtering activities
+led to a decrease in the number of persons allowed transit based on the regional
+arrangements, while also resulting in a
+certain accumulation of migratory pressure inside Greece, and especially on its
+border with the former Yugoslav Republic of Macedonia.
+In order to cope with the high numbers
+of refused persons trying to force their
+passage, the authorities in Skopje increased the number of police forces on
+their southern border while also erecting
+a two-layer fence planned to cover the
+most sensitive areas. As the success of all
+planned restriction measures greatly depended on the capacity to properly prevent entries across the border between
+Greece and the former Yugoslav Republic of Macedonia, other regional countries also sent reinforcements to this area.
+On 9 March, the Slovenian and Croatian
+authorities announced a complete closure
+of the facilitated transit corridor and the
+return to the normal application of the
+Schengen Borders Code and legislation
+governing international travel.
+As a result, pressure continued to accumulate in Greece fuelled by migrants who
+continued to make their journey from
+Turkey across the Aegean Sea and to the
+border with the former Yugoslav Republic
+of Macedonia. They set on their journey
+hoping that the authorities would give
+in to pressure and reopen the corridor.
+More than 12 000 migrants quickly accumulated in the Idomeni area in northern Greece, irregularly camping there and
+constantly trying to force their way across
+
+wb-ran · q1 2016
+
+the border to the former Yugoslav Republic of Macedonia.
+Despite the massive pressure, the authorities managed to maintain the transit corridor closed, putting a halt to the
+momentum gained by the migratory flow
+in previous months and sending an important message to others who were
+still contemplating making the journey
+via Greece and the Balkans.
+
+Furthermore, the EU-Turkey statement
+aimed at stemming the migration flow
+entered into force on 20 March, bringing
+about enhanced patrolling by the Turkish
+authorities and other activities aimed at
+preventing departures in the Eastern Aegean Sea. The statement also envisioned
+effective returns of migrants from Greece.
+Moreover, migrants arriving in Greece after March 20 have been accommodated
+in closed reception facilities for almost
+one month pending processing and a final
+decision regarding their return to Turkey
+or eventual relocation to the EU should
+they qualify for this option. The prospect
+of being kept in a closed facility and facing a possible return to Turkey (despite
+spending money on facilitation) played
+an important role in decreasing arrivals
+on the Aegean Islands.
+
+© Frontex
+
+The perception that the transit corridor
+via the Western Balkans was no longer
+available contributed to a contraction in
+the number of arrivals on the Eastern Aegean Islands (see Fig. 8), as many migrants
+appear to be attracted by the prospect
+of easy, cheap and well organised travel
+(see box on page 12).
+
+Figure 9. Letter distributed to migrants in Idomeni informing them of the options to
+move to reception facilities and possibilities for relocation
+
+11 of 19
+
+II. Featured risk analysis
+
+While the survey’s sample is not statistically representative of the overall Iraqi
+migrant population that arrived in the EU
+
+in 2015, the results are still quite telling.
+Importantly, they indicate that most of
+information campaign efforts that aim
+at reaching would-be migrants should
+be tailored and delivered through informal channels, social media and relevant
+Internet information hubs. Furthermore,
+if the appeal of the Eastern Mediterranean / Western Balkans were reduced,
+many would-be migrants could postpone their decision to move to the EU
+for the future, possibly leading to a contraction of the flow.
+
+Top most important information gathered to plan the
+journey
+
+Most important source of information for planning
+the journey
+
+IOM survey suggests that most migrants consider the availability and costs
+of travel options as most important factors before starting their journey
+In November and December 2015 (the
+peak period of Iraqi arrivals in the EU), the
+IOM conducted a survey on 473 Iraqi migrants who had left their country over the
+previous year and were residing in Europe.
+The survey produced several important
+findings. Firstly, when deciding whether
+to go or to stay, most respondents were
+mainly searching information on routes
+and costs. This indicates the high importance of these two factors in the decision-making process. Information on life
+in their preferred destination country was
+largely a very secondary concern.
+
+their journey and about the sources they
+relied upon. Unsurprisingly, the most important sources were word of mouth, followed by social media and the Internet.
+All other sources, including local TV or
+other media are dwarfed in comparison.
+
+Transportation
+Asylum seeking procedures
+
+6%
+
+Life in the destination country
+
+Secondly, respondents were asked about
+the information they collected to plan
+
+Visa requirements 0%
+
+Local authorities or institutions 1%
+Information
+Type
+
+Routes
+43%
+
+Other 2%
+
+40% Word of mouth
+23% Social media
+22% Internet
+
+Costs
+40%
+
+Source IOM
+
+12 of 19
+
+Word of mouth
+40%
+
+Printed newspapers 0%
+
+8%
+
+43% Routes
+40% Costs
+8% Life in the
+destination
+country
+
+UN agencies/NGOs 1%
+Radio 0%
+
+3%
+
+Information
+Type
+TV
+8%
+
+Social
+media
+23%
+
+Internet
+22%
+
+Source IOM
+
+III. Statistical annex
+
+LEGEND
+Symbols and abbreviations: n.a.
+										:		
+
+not applicable
+data not available
+
+Source: 	WB-RAN and FRAN data as of 6 May 2016,
+unless otherwise indicated
+
+13 of 19
+
+FRAN · q1 2015
+
+Table 1.Illegal border-crossing between BCPs
+Detections reported by Western Balkan and neighbouring countries, by purpose of illegal border-crossing, top five border sections and top ten nationalities
+
+2016 Q1
+2014
+
+2015
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent
+of total
+
+Purpose of Illegal Border–Crossing
+9 326
+
+15 739
+
+46 797
+
+476 179
+
+1074 117
+
+109 125
+
+593
+
+-90
+
+85
+
+69
+
+92
+
+88
+
+260 671
+
+102 396
+
+148 300
+
+-61
+
+47
+
+27 715
+
+32 802
+
+34 439
+
+138 596
+
+1 169
+
+5 931
+
+-82
+
+407
+
+2.7
+
+67
+
+143
+
+328
+
+84
+
+53
+
+363
+
+154
+
+585
+
+0.2
+
+FYR Macedonia - Greece
+
+499
+
+591
+
+6 547
+
+259 986
+
+437 741
+
+104 279
+
+17 545
+
+-76
+
+48
+
+Croatia - Serbia
+
+108
+
+174
+
+173
+
+91 698
+
+465 506
+
+102 596
+
+58 863
+
+-78
+
+47
+
+Hungary - Serbia
+
+29 579
+
+35 274
+
+39 459
+
+142 918
+
+1 267
+
+6 629
+
+-81
+
+423
+
+3
+
+Bulgaria - Serbia
+
+557
+
+1 886
+
+7 828
+
+18 673
+
+20 108
+
+2 182
+
+16
+
+-89
+
+1
+
+Albania - Greece
+
+4 666
+
+2 890
+
+3 959
+
+2 506
+
+2 960
+
+1 713
+
+-41
+
+-42
+
+0.8
+
+Others
+
+1 784
+
+7 938
+
+23 690
+
+99 166
+
+408 428
+
+416
+
+-95
+
+-100
+
+0.2
+
+Irregular migration
+Other
+Not specified
+Smuggling
+
+50
+
+Top Five Sections
+
+Top Ten Nationalities
+138
+
+137
+
+214
+
+247 991
+
+530 893
+
+109 974
+
+80 173
+
+-79
+
+50
+
+Syria
+
+6 476
+
+8 446
+
+33 182
+
+236 445
+
+431 847
+
+46 033
+
+445
+
+-89
+
+21
+
+Afghanistan
+
+5 445
+
+7 986
+
+24 293
+
+67 428
+
+214 699
+
+30 433
+
+281
+
+-86
+
+14
+
+383
+
+1 618
+
+6 258
+
+21 198
+
+112 462
+
+20 644
+
+1 176
+
+-82
+
+9.5
+
+Not specified
+
+Iraq
+
+241
+
+897
+
+3 891
+
+19 757
+
+8 004
+
+3 351
+
+274
+
+-58
+
+1.5
+
+4 018
+
+2 760
+
+3 749
+
+2 972
+
+3 301
+
+1 926
+
+-30
+
+-42
+
+0.9
+
+113
+
+236
+
+643
+
+2 332
+
+16 985
+
+1 213
+
+414
+
+-93
+
+0.6
+
+Morocco
+
+8
+
+27
+
+133
+
+125
+
+5 034
+
+1 080
+
+3 900
+
+-79
+
+0.5
+
+Somalia
+
+66
+
+1 113
+
+1 511
+
+1 634
+
+2 004
+
+526
+
+-53
+
+-74
+
+0.2
+
+Kosovo*
+
+18 488
+
+22 661
+
+551
+
+409
+
+298
+
+435
+
+-98
+
+46
+
+0.2
+
+Others
+
+1 817
+
+2 872
+
+7 231
+
+14 656
+
+10 483
+
+2 200
+
+-23
+
+-79
+
+1
+
+Total
+
+37 193
+
+48 753
+
+81 656
+
+614 947
+
+217 815
+
+347
+
+-84
+
+100
+
+Pakistan
+Albania
+Iran
+
+1336 010
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence
+
+14 of 19
+
+wb-ran · q1 2016
+
+Table 2.Illegal border-crossing at BCPs
+Detections reported by Western Balkan and neighbouring countries, by type of entry, purpose of illegal border-crossing, top five border sections and top ten nationalities
+
+2016 Q1
+2014
+
+2015
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent
+of total
+
+Clandestine/Other
+Clandestine
+Others
+
+455
+
+315
+
+178
+
+78
+
+101
+
+384
+
+22
+
+280
+
+94
+
+90
+
+61
+
+133
+
+170
+
+47
+
+15
+
+-75
+
+-68
+
+3.7
+
+0
+
+18
+
+36
+
+1
+
+4
+
+11
+
+-39
+
+175
+
+2.7
+
+57
+
+Not specified
+
+Purpose of Illegal Border-Crossing
+Not specified
+
+154
+
+42
+
+31
+
+25
+
+14
+
+234
+
+457
+
+1571
+
+Irregular migration
+
+378
+
+332
+
+268
+
+212
+
+127
+
+164
+
+-51
+
+29
+
+40
+
+13
+
+19
+
+12
+
+12
+
+9
+
+12
+
+-37
+
+33
+
+2.9
+
+0
+
+1
+
+36
+
+0
+
+2
+
+0
+
+n.a.
+
+n.a.
+
+Other
+Smuggling
+
+Top Five Sections
+Hungary - Serbia
+
+130
+
+78
+
+63
+
+72
+
+0
+
+209
+
+168
+
+n.a.
+
+51
+
+FYR Macedonia - Serbia
+
+116
+
+195
+
+49
+
+0
+
+0
+
+92
+
+-53
+
+n.a.
+
+22
+
+Croatia - Serbia
+
+113
+
+11
+
+19
+
+6
+
+14
+
+78
+
+609
+
+457
+
+19
+
+4
+
+6
+
+3
+
+1
+
+2
+
+7
+
+17
+
+250
+
+1.7
+
+Albania - Sea
+
+3
+
+0
+
+0
+
+0
+
+1
+
+6
+
+n.a.
+
+500
+
+1.5
+
+179
+
+104
+
+213
+
+170
+
+135
+
+18
+
+-83
+
+-87
+
+4.4
+
+Morocco
+
+0
+
+0
+
+1
+
+0
+
+0
+
+126
+
+n.a.
+
+n.a.
+
+31
+
+Algeria
+
+1
+
+7
+
+4
+
+0
+
+0
+
+81
+
+1057
+
+n.a.
+
+20
+
+293
+
+197
+
+142
+
+72
+
+14
+
+51
+
+-74
+
+264
+
+12
+
+Iran
+
+0
+
+2
+
+2
+
+2
+
+0
+
+44
+
+2100
+
+n.a.
+
+11
+
+Iraq
+
+6
+
+9
+
+34
+
+16
+
+14
+
+22
+
+144
+
+57
+
+5.4
+
+Montenegro - Serbia
+Others
+
+Top Ten Nationalities
+
+Afghanistan
+
+42
+
+29
+
+18
+
+9
+
+91
+
+16
+
+-45
+
+-82
+
+3.9
+
+Palestine
+
+0
+
+0
+
+2
+
+0
+
+0
+
+16
+
+n.a.
+
+n.a.
+
+3.9
+
+Pakistan
+
+8
+
+4
+
+4
+
+2
+
+0
+
+13
+
+225
+
+n.a.
+
+3.2
+
+Libya
+
+0
+
+0
+
+0
+
+0
+
+0
+
+9
+
+n.a.
+
+n.a.
+
+2.2
+
+Syria
+
+110
+
+86
+
+115
+
+126
+
+4
+
+9
+
+-90
+
+125
+
+2.2
+
+Others
+
+85
+
+60
+
+25
+
+22
+
+29
+
+23
+
+-62
+
+-21
+
+5.6
+
+Total
+
+545
+
+394
+
+347
+
+249
+
+152
+
+410
+
+4.1
+
+170
+
+100
+
+Albania
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence
+
+15 of 19
+
+FRAN · q1 2015
+
+Table 3.Facilitators
+Detections reported by Western Balkan and neighbouring countries, by place of detection and top ten nationalities
+
+2016 Q1
+2014
+
+2015
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent
+of total
+
+Place of Detection
+418
+
+448
+
+551
+
+542
+
+240
+
+219
+
+-51
+
+-8.8
+
+84
+
+65
+
+66
+
+21
+
+76
+
+25
+
+42
+
+-36
+
+68
+
+16
+
+Air
+
+1
+
+0
+
+0
+
+0
+
+6
+
+0
+
+n.a.
+
+n.a.
+
+Sea
+
+2
+
+3
+
+0
+
+0
+
+2
+
+0
+
+n.a.
+
+n.a.
+
+Serbia
+
+254
+
+285
+
+338
+
+348
+
+119
+
+110
+
+-61
+
+-7.6
+
+Albania
+
+60
+
+49
+
+48
+
+38
+
+44
+
+33
+
+-33
+
+-25
+
+13
+
+Bulgaria
+
+22
+
+30
+
+32
+
+51
+
+61
+
+24
+
+-20
+
+-61
+
+9.2
+
+FYR Macedonia
+
+40
+
+36
+
+49
+
+6
+
+4
+
+20
+
+-44
+
+400
+
+7.7
+
+2
+
+0
+
+3
+
+0
+
+1
+
+20
+
+n.a.
+
+1900
+
+7.7
+
+Greece
+
+28
+
+21
+
+31
+
+28
+
+18
+
+17
+
+-19
+
+-5.6
+
+6.5
+
+Bosnia and Herzegovina
+
+15
+
+18
+
+6
+
+4
+
+3
+
+6
+
+-67
+
+100
+
+2.3
+
+2
+
+13
+
+6
+
+4
+
+5
+
+5
+
+-62
+
+0
+
+1.9
+
+18
+
+27
+
+13
+
+22
+
+9
+
+4
+
+-85
+
+-56
+
+1.5
+
+5
+
+3
+
+5
+
+14
+
+0
+
+3
+
+0
+
+n.a.
+
+1.1
+
+Others
+
+40
+
+35
+
+41
+
+103
+
+9
+
+19
+
+-46
+
+111
+
+7.3
+
+Total
+
+486
+
+517
+
+572
+
+618
+
+273
+
+261
+
+-50
+
+-4.4
+
+100
+
+Land
+Inland
+
+Top Ten Nationalities
+
+Afghanistan
+
+Kosovo*
+Not specified
+Romania
+
+42
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence
+
+Table 4.Illegal stay
+Detections reported by Western Balkan and neighbouring countries, by place of detection and top ten nationalities
+
+2016 Q1
+2014
+
+2015
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent
+of total
+
+Place of Detection
+Land
+
+1 232
+
+925
+
+1 595
+
+966
+
+1 115
+
+1 265
+
+37
+
+13
+
+Inland
+
+2 096
+
+1 185
+
+778
+
+562
+
+645
+
+668
+
+-44
+
+3.6
+
+32
+
+158
+
+99
+
+110
+
+87
+
+141
+
+166
+
+68
+
+18
+
+7.9
+
+Not specified
+
+60
+
+Top Ten Nationalities
+Serbia
+
+684
+
+700
+
+791
+
+599
+
+842
+
+858
+
+23
+
+1.9
+
+41
+
+Albania
+
+245
+
+167
+
+149
+
+127
+
+188
+
+154
+
+-7.8
+
+-18
+
+7.3
+
+FYR Macedonia
+
+130
+
+74
+
+100
+
+107
+
+147
+
+137
+
+85
+
+-6.8
+
+6.5
+
+73
+
+62
+
+56
+
+74
+
+79
+
+83
+
+34
+
+5.1
+
+4
+
+1 439
+
+391
+
+547
+
+125
+
+46
+
+63
+
+-84
+
+37
+
+3
+
+3
+
+7
+
+6
+
+6
+
+37
+
+60
+
+757
+
+62
+
+2.9
+
+Turkey
+
+90
+
+74
+
+63
+
+92
+
+42
+
+54
+
+-27
+
+29
+
+2.6
+
+Iraq
+
+60
+
+31
+
+71
+
+20
+
+18
+
+52
+
+68
+
+189
+
+2.5
+
+Montenegro
+
+16
+
+35
+
+25
+
+36
+
+44
+
+50
+
+43
+
+14
+
+2.4
+
+Afghanistan
+
+62
+
+44
+
+127
+
+42
+
+15
+
+46
+
+4.5
+
+207
+
+2.2
+
+Others
+
+684
+
+624
+
+548
+
+387
+
+443
+
+542
+
+-13
+
+22
+
+26
+
+Total
+
+3 486
+
+2 209
+
+2 483
+
+1 615
+
+1 901
+
+2 099
+
+-5
+
+10
+
+100
+
+Bosnia and Herzegovina
+Syria
+Morocco
+
+16 of 19
+
+wb-ran · q1 2016
+
+Table 5.Refusals of entry
+Refusals reported by Western Balkan and neighbouring countries, by border type and top ten nationalities
+
+2016 Q1
+2014
+
+2015
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent
+of total
+
+Border Type
+Land
+
+9 354
+
+7 684
+
+9 046
+
+12 581
+
+7 835
+
+7 830
+
+1.9
+
+-0.1
+
+89
+
+853
+
+704
+
+757
+
+1 335
+
+1 775
+
+973
+
+38
+
+-45
+
+11
+
+2
+
+3
+
+24
+
+40
+
+16
+
+4
+
+33
+
+-75
+
+0
+
+Air
+Sea
+
+Top Ten Nationalities
+Albania
+
+2 770
+
+2 206
+
+2 763
+
+2 736
+
+2 980
+
+2 317
+
+5
+
+-22
+
+26
+
+Serbia
+
+2 426
+
+1 925
+
+1 715
+
+1 852
+
+1 621
+
+1 924
+
+-0.1
+
+19
+
+22
+
+Bosnia and Herzegovina
+
+1 359
+
+1 257
+
+1 379
+
+1 391
+
+1 042
+
+1 217
+
+-3.2
+
+17
+
+14
+
+Turkey
+
+693
+
+554
+
+578
+
+1 332
+
+1 434
+
+982
+
+77
+
+-32
+
+11
+
+FYR Macedonia
+
+506
+
+433
+
+463
+
+578
+
+331
+
+480
+
+11
+
+45
+
+5.5
+
+Kosovo*
+
+289
+
+252
+
+291
+
+708
+
+271
+
+221
+
+-12
+
+-18
+
+2.5
+
+Bulgaria
+
+239
+
+223
+
+265
+
+372
+
+231
+
+153
+
+-31
+
+-34
+
+1.7
+
+Afghanistan
+
+13
+
+26
+
+7
+
+13
+
+18
+
+152
+
+485
+
+744
+
+1.7
+
+Not specified
+
+121
+
+80
+
+157
+
+587
+
+158
+
+94
+
+18
+
+-41
+
+1.1
+
+Croatia
+
+130
+
+227
+
+168
+
+260
+
+119
+
+92
+
+-59
+
+-23
+
+1
+
+Others
+
+1 663
+
+1 208
+
+2 041
+
+4 127
+
+1 421
+
+1 175
+
+-2.7
+
+-17
+
+13
+
+Total
+
+10 209
+
+8 391
+
+9 827
+
+13 956
+
+9 626
+
+8 807
+
+5
+
+-8.5
+
+100
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence
+
+Table 6.Applications for asylum
+Applications for international protection reported by Western Balkan and neighbouring countries, by top ten nationalities
+
+2016 Q1
+2014
+
+2015
+
+Q4
+
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent
+of total
+
+Top Ten Nationalities
+845
+
+1 423
+
+3 856
+
+7 929
+
+4 150
+
+3 838
+
+170
+
+-7.5
+
+21
+
+Afghanistan
+
+6 889
+
+5 772
+
+15 262
+
+30 111
+
+3 581
+
+3 172
+
+-45
+
+-11
+
+17
+
+Syria
+
+7 952
+
+5 561
+
+13 018
+
+56 443
+
+2 160
+
+3 061
+
+-45
+
+42
+
+17
+
+Pakistan
+
+753
+
+1 180
+
+3 329
+
+12 418
+
+826
+
+2 395
+
+103
+
+190
+
+13
+
+Iran
+
+285
+
+318
+
+563
+
+1 288
+
+121
+
+998
+
+214
+
+725
+
+5.5
+
+Iraq
+
+Morocco
+
+40
+
+56
+
+189
+
+104
+
+84
+
+952
+
+1600
+
+1033
+
+5.2
+
+Algeria
+
+97
+
+156
+
+377
+
+194
+
+56
+
+428
+
+174
+
+664
+
+2.3
+
+Bangladesh
+
+371
+
+528
+
+918
+
+3 209
+
+267
+
+373
+
+-29
+
+40
+
+2
+
+Albania
+
+137
+
+223
+
+217
+
+382
+
+499
+
+357
+
+60
+
+-28
+
+2
+
+80
+
+50
+
+89
+
+115
+
+194
+
+277
+
+454
+
+43
+
+1.5
+
+Others
+
+20 963
+
+27 573
+
+5 615
+
+6 845
+
+1 310
+
+2 443
+
+-91
+
+86
+
+13
+
+Total
+
+38 412
+
+42 840
+
+43 433
+
+119 038
+
+13 248
+
+18 294
+
+-57
+
+Egypt
+
+38
+
+17 of 19
+
+100
+
+FRAN · q1 2015
+
+Table 7.Document fraud
+Detections reported by Western Balkan countries, border type, document type, top ten nationalities and top countries of issuance of documents
+
+2016 Q1
+2014
+Q4
+
+2015
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago
+
+previous Qtr
+
+per cent of
+total
+
+Border Type
+Land
+Air
+Sea
+Not specified
+
+171
+59
+18
+0
+
+161
+76
+23
+0
+
+139
+88
+8
+0
+
+136
+60
+15
+5
+
+120
+83
+17
+0
+
+176
+48
+12
+0
+
+9.3
+-37
+-48
+n.a.
+
+47
+-42
+-29
+n.a.
+
+75
+20
+5.1
+
+117
+87
+12
+7
+10
+15
+
+161
+54
+17
+13
+2
+13
+
+119
+49
+13
+5
+0
+49
+
+133
+43
+11
+7
+5
+17
+
+132
+37
+10
+11
+2
+28
+
+154
+49
+15
+11
+4
+3
+
+-4.3
+-9.3
+-12
+-15
+100
+-77
+
+17
+32
+50
+0
+100
+-89
+
+65
+21
+6.4
+4.7
+1.7
+1.3
+
+81
+32
+23
+14
+7
+0
+0
+0
+0
+4
+87
+
+102
+43
+20
+10
+3
+0
+0
+2
+5
+2
+73
+
+85
+34
+34
+21
+4
+0
+0
+0
+7
+1
+49
+
+74
+41
+30
+11
+1
+0
+0
+1
+1
+0
+57
+
+109
+26
+19
+18
+3
+0
+2
+4
+3
+2
+34
+
+77
+67
+20
+19
+9
+7
+6
+4
+4
+3
+20
+
+-25
+56
+0
+90
+200
+n.a.
+n.a.
+100
+-20
+50
+-73
+
+-29
+158
+5.3
+5.6
+200
+n.a.
+200
+0
+33
+50
+-41
+
+33
+28
+8.5
+8.1
+3.8
+3
+2.5
+1.7
+1.7
+1.3
+8.5
+
+Document type
+Passport
+ID cards
+Residence permit
+Visas
+Unknown
+Stamp
+
+Top Ten Nationalities
+Albania
+Kosovo*
+Serbia
+Turkey
+FYR Macedonia
+Sri Lanka
+Morocco
+Bulgaria
+Bosnia and Herzegovina
+Nigeria
+Others
+
+Top Ten Countries of Issuance of Documents
+Albania
+Italy
+Bulgaria
+Serbia
+FYR Macedonia
+Greece
+Slovenia
+Kosovo*
+Switzerland
+Turkey
+Others
+
+Total
+
+55
+29
+14
+25
+7
+22
+3
+4
+2
+4
+83
+
+72
+26
+12
+30
+8
+27
+5
+5
+6
+6
+63
+
+56
+18
+10
+42
+4
+27
+4
+0
+4
+13
+57
+
+63
+11
+10
+22
+4
+15
+6
+3
+8
+6
+68
+
+75
+19
+8
+16
+9
+19
+6
+5
+1
+13
+49
+
+70
+21
+18
+18
+16
+8
+8
+7
+7
+6
+57
+
+-2.8
+-19
+50
+-40
+100
+-70
+60
+40
+17
+0
+-9.5
+
+-6.7
+11
+125
+13
+78
+-58
+33
+40
+600
+-54
+16
+
+30
+8.9
+7.6
+7.6
+6.8
+3.4
+3.4
+3
+3
+2.5
+24
+
+248
+
+260
+
+235
+
+216
+
+220
+
+236
+
+-9.2
+
+7.3
+
+100
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence
+
+18 of 19
+
+wb-ran · q1 2016
+
+Explanatory note
+Detections reported for EU Member States
+for indicators Illegal border-crossing between BCPs, Illegal border-crossing at
+BCPs, Refusals of entry and Document
+fraud are detections at the common land
+borders on entry only. For Facilitators, detections at the common land borders on
+entry and exit are included.
+
+For Illegal stay, only detections at the common land borders on exit are included. For
+Asylum, all applications (land, sea, air and
+inland) are included.
+For Western Balkan countries, all indicators – save for Refusals of entry – include
+detections (applications) on exit and entry
+at the land, sea and air borders.
+
+Each section in the table (Border type,
+Place of detection, Top five border section
+and Top ten nationalities) refers to total
+detections reported by WB-RAN countries and to neighbouring land border detections reported by EU Member States.
+
+19 of 19
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+For Public Release
+Risk Analysis Unit
+Reference number: 12244/2016
+
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+TT-AI-16-001-EN-N
+ISSN 2443-8367
+Warsaw, June 2016
+
+

@@ -1,0 +1,3851 @@
+Eastern European
+Borders Quarterly
+Quarter 1 • January–March 2015
+
+Q1 Q2
+Q3 Q4
+
+Frontex official publications fall into four main categories: risk analysis, training,
+operations and research, each marked with a distinct graphic identifier. Risk analysis
+publications bear a triangular symbol formed by an arrow drawing a triangle, with
+a dot at the centre. Metaphorically, the arrow represents the cyclical nature of risk
+analysis processes and its orientation towards an appropriate operational response.
+The triangle is a symbol of ideal proportions and knowledge, reflecting the pursuit
+of factual exactness, truth and exhaustive analysis. The dot at the centre represents
+the intelligence factor and the focal point where information from diverse sources
+converges to be processed, systematised and shared as analytical products. Thus,
+Frontex risk analysis is meant to be at the centre and to form a reliable basis for its
+operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, June 2015
+Risk Analysis Unit
+Frontex reference number: 9732/2015
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply
+the expression of any opinion whatsoever on the part of Frontex concerning the legal
+status of any country, territory or city or its authorities, or concerning the delimitation
+of its frontiers or boundaries. All maps and charts included in this report are the sole
+property of Frontex and any unauthorised use is prohibited.
+Throughout the report, references to Kosovo* are marked with an asterisk to indicate
+that this designation is without prejudice to positions on status, and is in line with
+UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+ACKNOWLEDGMENTS
+The EB-RAN Quarterly has been prepared by the Frontex Risk Analysis Unit. During the
+course of developing this product, many colleagues at Frontex and outside contributed
+to it and their assistance is hereby acknowledged with gratitude.
+
+2 of 22
+
+eb-ran · q1 2015
+
+Table of contents
+Introduction #5
+I.	Situational overview #7
+Summary of EB-RAN indicators #7
+Situation at the border #8
+		
+
+Border surveillance #8
+
+		
+
+Border checks #10
+
+Situation in the Eastern European region #12
+II. Featured risk analyses #12
+Sustained irregular migration movements by regional (CIS and EaP country) nationals #12
+Persistent smuggling activities at and between BCPs #14
+Statistical annex #17
+
+3 of 22
+
+FRAN · q1 2015
+
+List of abbreviations used
+BCP 					
+border-crossing point
+CIS					Community of Independent States
+EaP					Eastern Partnership
+EB-RAN				Eastern European Borders Risk Analysis Network
+EDF					
+European Union Document-Fraud
+EEU					Eurasian Economic Union
+EU 					
+European Union
+FRAN 				Frontex Risk Analysis Network
+Frontex				European Agency for the Management of Operational Cooperation at the External Borders of the Member States
+of the European Union
+ICJ						International Court of Justice
+ID						identification document
+n.a.					not available
+PLN					Polish zloty
+Q/Qtr				quarter of the year
+RAU					Frontex Risk Analysis Unit
+RUB					Russian rouble
+UNSCR				United Nations Security Council Resolution
+UK					United Kingdom
+VIN					vehicle identification number
+
+4 of 22
+
+eb-ran · q1 2015
+
+Introduction
+
+Concept
+
+Methodology
+
+The Eastern European Borders Risk Analysis Network (EB-RAN) performs monthly
+exchanges of statistical data and information on the most recent irregular migration trends. This information is compiled
+at Frontex RAU level and analysed in cooperation with the regional partners on
+a quarterly and annual basis. The annual
+reports offer a more in-depth analysis of
+the occurring developments and phenomena which impact the regional and common borders while the quarterly reports
+are meant to provide regular updates and
+identify emerging trends in order to maintain situational awareness. Both types of
+reports are aimed at offering support for
+strategic and operational decision making.
+
+The Eastern European Borders Quarterly
+statistical overview is focused on quarterly
+developments for the seven key indicators
+of irregular migration: (1) detections of illegal border-crossing between BCPs, (2) detections of illegal border-crossing at BCPs,
+(3) refusals of entry, (4) detections of illegal stay, (5) asylum applications, (6) detections of facilitators, and (7) detections
+of fraudulent documents.1
+The backbone of this overview are monthly
+statistics provided within the framework
+of the EB-RAN (Belarus, Ukraine, and Moldova) and reference period statistics from
+common border sections of the neighbouring EU Member States (Norway, Finland,
+
+1
+
+Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary and Romania). The data are
+processed, checked for errors and merged
+into an Excel database for further analysis.
+
+Structure
+The current issue of the Eastern European
+Borders Quarterly is the first following
+a new approach adopted for risk analysis quarterlies. The first part offers a general Situational overview broken down
+by main areas of work of border-control
+authorities and police activities related to
+irregular migration. The second part contains more in depth Featured risk analyses of particular phenomena. The structure
+of the report may still be subject to some
+readjustments.
+
+Please note that the analysis of this indicator
+is now limited to EB-RAN countries
+only, given that EU Member States have
+transitioned to the European Union
+Document-Fraud (EDF) reporting scheme.
+
+5 of 22
+
+Featured
+Risk Analyses
+I.
+Situational
+overview
+
+Figure 1. Geographical scope of the Eastern European Borders Risk Analysis Network
+Note on definitions: in the text ‘common borders’ refers both to borders between EU Member States and EB-RAN countries (covered by both sides) and borders of
+EU Member States/Schengen Associated Countries with the Russian Federation (covered only by the EU/Schengen Associated Country side of the border)
+
+Storskog
+!
+!
+
+Main BCPs
+Main BCPs between
+EB-RAN countries
+Regional borders
+Borders covered by EU/SAC data only
+Common borders
+Pan-European Transport Corridors
+
+Saint
+Petersburg !
+!
+!
+
+SWEDEN
+
+Narva
+
+Estonia
+
+Finland
+
+Russian
+Federation
+
+Niirala !
+!
+Imatra
+Nuijamaa !!
+!!
+ESTONIA
+!
+Vaalima
+a!
+
+Latvia
+
+Terehova !
+!
+
+!
+
+Lithuania
+
+Moscow
+
+Belarus
+
+Medininkai
+
+Russian Fed.
+
+!
+!
+
+Kuznica !
+
+142.5
+
+Minsk
+!
+
+Population
+in millions
+
+!
+
+9.6
+
+Poland
+
+!
+! Dolsk
+!
+Terespol! !
+!
+Domanove
+!
+!
+Pulemets
+!
+Dorohusk !
+
+Russian
+Federation
+!
+!
+Novi
+
+Yarylovychi
+
+!
+!
+
+Vystupovychi
+
+! Kiev
+
+Korczowa
+
+!
+
+!
+!
+
+Medyka !
+Slovakia
+
+! Ubla
+!
+Sokyriany
+!
+!
+Vysne Nemecke !
+! Mohyliv Podilskyi
+!!
+!
+!
+
+Zahony
+Hungary
+
+Moldova
+
+3.6
+
+Sculeni !
+!
+Romania
+
+!
+!
+Albita !
+!
+Galati !
+
+!!
+!
+!
+
+Tudora
+
+Palanka
+
+Chisinau
+!
+!
+
+Reni
+Source: Open-source data as of December 2013, ESRI geodata
+
+6 of 22
+
+44.5
+
+Ukraine
+
+eb-ran · q1 2015
+
+Summary of EB-RAN indicators
+
+Table 1.Summary of FRAN, EB-RAN and selected EU Member State indicators for Q1 2015
+
+Indicator
+Illegal border-crossing between BCPs
+Clandestine entries
+
+EU total
+
+EU Member States
+(eastern land
+borders only)[1]
+
+% of EU total
+
+only EB-RAN
+countries[2]
+
+62 385
+
+211
+
+0.3%
+
+563
+
+1 103
+
+1
+
+0.1%
+
+3 175
+
+Facilitators
+
+2 611
+
+11
+
+0.4%
+
+41
+
+Illegal stay
+
+110 534
+
+2 023
+
+1.8%
+
+5 732
+
+Refusals of entry
+
+27 424
+
+8 084
+
+29.5%
+
+12 341
+
+Applications for asylum
+
+181 569
+
+39 624[4]
+
+21.8%
+
+148
+
+False travel documents
+
+n.a.
+
+n.a.
+
+n.a.
+
+78
+
+Return decision issued
+
+63 843
+
+7 630[3]
+
+12.0%
+
+n.a.
+
+Effective returns
+
+37 625
+
+5 632[3]
+
+15.0%
+
+n.a.
+
+Source: FRAN as of 19 June 2015
+1
+2
+3
+4
+
+Norway, Finland, Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary and Romania
+Belarus, Moldova and Ukraine
+Total numbers reported in FRAN by Norway, Finland, Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary and Romania
+Over 60% refers to Kosovo* nationals claimed asylum in Hungary in Q1 2015
+
+* This designation is without prejudice to positions on status, and in line with UNSCR 1244 and the ICJ Opinion on Kosovo declaration of independence.
+
+7 of 22
+
+Featured
+Risk Analyses
+I.
+Situational
+overview
+
+Situation at the border
+
+Border surveillance
+
+Illegal border-crossing
+During the first quarter 2015, 774 persons
+were detected for illegal crossing of the
+regional and common borders between
+BCPs. Of this figure, 56% represented regional (CIS and EaP countries) nationals
+with the highest number of Ukrainian citizens, followed by Georgians and Russians.
+
+Figure 1. Detections between BCPs at the common borders and EU Member States’
+land borders with the Russian Federation (data only from EU side) show that the
+pressure in Q1 2015 as compared to the same quarter last year was the highest at the
+Hungarian-Ukrainian section
+Detections of illegal border-crossing at common and regional borders between BCPs in Q1 2015
+
+2
+n.a.
+
+Finland
+
+The remaining 44% was linked to nonregional nationals, namely the Vietnamese (who continued to mainly target the
+Lithuanian-Belarusian section), and Syrians and Afghans (mostly reported at the
+Hungarian-Ukrainian border).
+
+Detections of illegal
+border-crossings between BCPs
+(Q1 2015)
+low (0-25)
+medium (26-50)
+
+21
+-30%
+
+Estonia
+
+high (51-75)
+
+#
+%
+
+27
+n.a.
+
+Total number of detections
+Trend from the same period
+last year
+
+Latvia
+
+Overall, detections of illegal border-crossing between BCPs decreased by 24% when
+compared to the last quarter of 2014. The
+most significant drop (66%) was observed
+for Afghans, while an increasing trend
+was recorded regarding Syrians (18%) and
+Vietnamese (3.1%).
+
+Lithuania
+
+0
+n.a.
+
+0
+n.a.
+
+Russia
+
+36
+13%
+8
+167%
+
+Poland
+
+Belarus
+
+40
+29%
+
+Ukraine
+
+7
+-73%
+Czech
+Republic
+
+16
+-58%
+
+Slovakia
+
+75
+582%
+
+37
+-54%
+10
+-66%
+
+Moldova
+
+9
+-47%
+
+Hungary
+Romania
+Croatia
+Serbia
+Bosnia &
+Herzegovina
+
+Bulgaria
+
+Source: FRAN and EB-RAN data as of 22 May 2015
+
+8 of 22
+
+42
+-30%
+
+34
+0%
+
+53
+-49%
+
+60
+-36%
+
+eb-ran · q1 2015
+
+Facilitators
+The number of detected facilitators of irregular migration increased significantly in
+the first quarter of 2015 when compared
+to the same quarter of 2014 (from 11 in Q1
+2014 up to 52 in Q1 2015). Most detections
+in the examined period were reported by
+Belarus (77%) at the border with Lithuania, where the highest increase among all
+common borders was observed.
+
+Figure 2. The number of detected
+facilitators of irregular migration
+saw an almost fivefold rise in the first
+quarter 2015 when compared to the
+same period of 2014
+Nationalities of facilitators in Q1 2015 compared to
+Q1 2014
+
+25
+
+Q1 2014
+
+20
+
+Q1 2015
+
+15
+10
+5
+
+As regards nationalities, 79% of all facilitators detected in the analysed period were
+regional nationals, with Russians and Belarusians constituting the majority, followed by Kyrgyz and Uzbeks.
+
+0
+
+RUS
+
+BLR
+
+KGZ
+
+UZB
+
+POL
+
+EST
+
+Others
+
+Source: FRAN and EB-RAN data as of 22 May 2015
+
+9 of 22
+
+Featured
+Risk Analyses
+I.
+Situational
+overview
+
+Situation in the Eastern European region
+
+Border checks
+
+© dpsu.gov.ua
+
+During the first quarter of 2015 there were
+just four detections of clandestine entries reported at the Eastern European
+borders. Reported cases included three
+migrants from Afghanistan, Syria and Pakistan detected while attempting to cross
+from Ukraine to Romania hiding in a lorry
+(see Fig. 3), and one Russian citizen transported from Belarus to Poland in a suitcase (see Fig. 4).
+
+Figure 3. Three irregular migrants from
+Pakistan, Afghanistan and Syria detected
+hiding in a cargo trailer in an attempt to
+cross illegally the Romanian-Ukrainian
+border at the BCP Porubne
+
+Refusals of entry
+The number of refusals of entry issued during the first quarter 2015 at the common
+and regional borders decreased by almost
+9% when compared to the fourth quarter
+of 2014 (from 22 380 to 20 425). Compared
+to the corresponding quarter of 2014, the
+numbers remained relatively stable.
+The majority of refusals of entry was reported at the land borders (90%), while the
+remaining 10% was issued at air (6%) and
+sea borders (4%). The highest number of
+refusals was issued by Ukraine, Poland and
+Belarus. However, an increasing trend of
+
+10 of 22
+
+refusals of entry was observed in Ukraine,
+while Poland and Belarus reported a drop.
+Top five refused nationalities were citizens
+of Ukraine, the Russian Federation, Uzbekistan, Moldova and Tajikistan.
+The most significant drop in Q1 2015 referred to Georgians and Russians recorded
+by Poland, while the most remarkable increases were related to citizens of Uzbekistan, Tajikistan, Kyrgyzstan, Azerbaijan and
+Armenia refused entry to Ukraine.
+The increasing outflow of Central Asian
+nationals from the Russian Federation
+can be explained by the current economic
+situation and the more restrictive migration policy. The deteriorating economic
+standing and rouble depreciation rendered
+working in the Russian Federation unprofitable, with migrants’ wages almost halved
+and remittances send back home diminished. The outflow of labour migrants is
+also associated with new rules that came
+into effect on 1 January abolishing the former quota system and requiring migrant
+workers from outside the Eurasian Economic Union (EEU) (apart from the Russian Federation including Armenia, Belarus
+and Kazakhstan) to obtain work permits.
+Moreover, the new rules require migrants
+to pass Russian language and history tests,
+buy health insurance, and pay higher fees
+for work permits. In addition, citizens of
+non-EEU countries can no longer travel
+to the Russian Federation using domestic
+ID cards. Instead, they are required to use
+international passports, which are more
+expensive to obtain for labour migrants.
+
+Document fraud
+Quarterly detections of persons using
+fraudulent documents reported by the
+three EB-RAN countries (Belarus, Mol-
+
+© Polish Border Guard, 2015
+
+Clandestine entries
+
+Figure 4. In March 2015, a Russian
+female was detected hiding in a suitcase
+transported by a French citizen (her
+husband) on the passenger train
+Moscow-Nice at the rail BCP Terespol.
+The claimed the reason for this
+clandestine entry attempt was lack of
+relevant documents to enter the EU
+
+dova and Ukraine) increased by 8% in the
+first quarter 2015 when compared to the
+fourth quarter of 2014 (up from 72 in Q4
+2014 to 78 in Q1 2015). Most detections
+were reported by Ukraine at air borders
+and at the land borders with Moldova and
+the Russian Federation.
+As regards nationalities, Moldovans (mainly
+detected at the Moldovan-Ukrainian border section) ranked first among fraudulent document users, followed by Syrians
+(mainly on Moldova-Ukraine flights) and
+Ukrainians. The majority of commonly
+used fraudulent documents reported by
+EB-RAN countries were passports (78%)
+and ID cards (3.8%) and visas (3.8%).
+
+eb-ran · q1 2015
+
+Illegal stay in EB-RAN
+countries
+There were 5 732 detections of illegal stay
+in the first quarter of 2015 reported by the
+three EB-RAN countries, which represents
+over an 8.5% decrease when compared to
+
+the previous quarter, and remained roughly
+similar in relation to the same quarter of
+2014 (down from 5 896).
+With regards to the top five nationalities,
+Russians, Ukrainians, Georgians, Moldovans and Azeris were most detected for
+
+illegal stay in EB-RAN countries. While
+citizens of the Russian Federation, Moldova and Azerbaijan were in the majority
+of cases reported by Ukraine. Ukrainians
+and Georgians, in turn, were mostly detected by Belarus.
+
+11 of 22
+
+Featured
+Risk
+Analyses
+II.
+Featured
+risk
+analyses
+
+Sustained irregular migration
+movements by regional (CIS and EaP
+country) nationals
+The common eastern
+European borders
+In Q1 2015, regional migrants continued
+to abuse legal travel channels to enter
+the EU rather than attempt illegal entry
+via the green border. Regional (CIS and
+EaP country) nationals accounted for almost 85% of the 10 076 refusals of entry
+issued at the EU’s common eastern borders, but only for 38% of detected illegal
+entries between BCPs.
+During the first quarter 2015, there were
+less regional migrants reported both under the refusals of entry as well as illegal
+border-crossings to the EU, diminishing
+the pressure on the EU eastern borders.
+Nevertheless, the Ukrainian crisis and difficult economic situation in Ukraine continued to increase the flow of Ukrainian
+nationals towards the EU in the analysed
+quarter.
+As regards nationalities, refusals issued
+to Russians, Belarusians, Georgians and
+
+Armenians decreased significantly, while
+refusals issued to Ukrainians increased,
+sustaining at the same time, the movements of regional migrants as a total towards the EU.
+The most remarkable drop in refusals of
+entry was observed among Georgians
+(1 878 in Q4 2014 to 96 in Q1 2015) and Russians (1 248 in Q4 2014 to 435 in Q1 2015).
+By contrast, Ukrainian nationals were refused entry to the EU in Q1 2015 slightly
+more frequently (6 095) than in the previous quarter (5 384).
+
+Inside the EU/ Schengen area
+Asylum application of regional
+nationals
+The number of asylum applications lodged
+by the CIS and EaP nationals (regional migrants) in the EU/Schengen Associated
+Countries decreased of 8.8% in analysed
+period, when compared with the previous quarter. This figure was still on a relatively low level (over 11 200) taking into
+
+account increasing trend of asylum applications filed by all nationals in the EU/
+Schengen Associated Countries in the first
+quarter 2015 (over 181 500).
+Main applications’ receivers of the regional migrants were Germany, Poland,
+Italy, Sweden and Austria, with Ukrainians as dominating nationals, followed by
+Georgians and Russians. Nevertheless, the
+trends for different nationalities diverged
+strongly in particular top five EU countries,
+e.g. Russian and Georgian applicants increased in Germany, and decreased in Poland, Sweden and Austria, while Ukrainians
+applied less frequently for asylum in Germany and Sweden in favour for Poland, Italy and Austria.
+Illegal stay by regional migrants (CIS
+and EaP nationals)
+During the first quarter 2015 there were
+10 070 illegal stayers from the CIS and EaP
+countries reported in EU Member States/
+Schengen Associated Countries, out of
+which 7 581 of the Ukrainians, Russians and
+
+Figure 5. The number of applications filed in Q1 2015 by regional (CIS and EaP) nationals compared to Q4 2014, by top ten receiving
+EU Member States (left) and top three regional nationalities of asylum applicants, by main receiving EU Member States in Q1 2015
+(right)
+
+5 000
+
+Q1 2014
+
+Q1 2015
+
+4 000
+
+1 500
+Ukraine
+
+Russia
+
+Georgia
+
+1 000
+
+3 000
+2 000
+
+500
+
+1 000
+
+0
+
+ria
+Be
+lg
+iu
+m
+Sw
+itz
+er
+la
+nd
+N
+et
+he
+rla
+nd
+s
+S
+Cz
+p
+ai
+ec
+n
+h
+Re
+pu
+bl
+ic
+O
+th
+er
+
+en
+
+Au
+st
+
+ly
+
+ed
+
+Ita
+
+Sw
+
+an
+
+y
+
+Po
+
+m
+Ge
+r
+
+la
+nd
+
+0
+
+Source: FRAN and EB-RAN data as of 22 May 2015
+
+12 of 22
+
+Germany
+
+Poland
+
+Italy
+
+Sweden
+
+Austria
+
+Belgium
+
+eb-ran · q1 2015
+
+Georgians in total. The top three was represented by Ukrainians with 45% share of
+the total, followed by Russians and Georgians with 19.5% and 11%, respectively.
+Poland, Germany and Sweden recorded the
+highest number of illegal stayers originating from Ukraine, Georgia and the Russian
+Federation. As in case of asylum applications Poland faced the highest number of
+Ukrainians detected for illegal stay. Russians targeted especially Germany and Poland to the lesser extent, while Georgians
+were mainly reported by Greece, Sweden
+and Germany.
+
+Document fraud by CIS and EaP
+countries
+
+uments being in possession of Ukrainians
+represented Romanian travel documents.
+
+During the analysed period, there were
+264 citizens of CIS and EaP countries reported with fraudulent documents on intra EU/Schengen travels. The most cases
+were reported by the UK and Italy.
+
+Outlook
+
+As regards nationalities, the great majority
+of fraudulent document users recorded on
+intra EU/Schengen travels were Ukrainians, accounting for over 80% of all cases
+reported in the first quarter 2015. Around
+half of fraudulent documents presented
+by Ukrainian nationals was represented
+by Polish ID cards mostly belonging to
+other persons (imposters). The second
+most common group of fraudulent doc-
+
+A significant drop of Russians, Belarusians,
+Tajiks, Kirgiz and Armenians refused entry
+(mostly to Poland) as well as a decrease
+in the number of Georgian and Russian
+nationals applying for asylum (mostly in
+Poland) indicates that the flow of these
+migrants towards the EU will continue at
+a lower level also in the coming quarter.
+However, as the situation in the eastern
+Ukraine remains uncertain, further increase in the Ukrainian flow towards the
+EU, accompanied by more cases of the
+abuse of legal travel channels, cannot be
+ruled out.
+
+13 of 22
+
+Featured
+Risk
+Analyses
+II.
+Featured
+risk
+analyses
+
+Tobacco products
+
+© gpk.gov.by
+
+Q1 2015 was marked by seizures of significant amounts of illicit cigarettes most
+often smuggled on cargo trains or transported across border rivers. The typical places for illegal transport of tobacco
+goods did not change; however, cigarettes
+smuggled concealed in fuel tanks were increasingly detected.
+
+Figure 6. 187 500 packs of cigarettes
+floating on the Neman River at the
+border with Lithuania detected by the
+Belarusian authorities
+
+In another remarkable case of illicit cigarette smuggling in Q1 2015, over 17 000
+packs of cigarettes were detected in a
+truck-load of pallets of wood by Ukrainian border guards at the BCP Krakovets
+at the Ukrainian-Polish border. In-depth
+inspection revealed that cigarettes were
+cleverly camouflaged as pieces of wood
+(see Fig. 8).
+
+Stolen motor vehicles
+Smuggling of stolen vehicles from the EU
+via its eastern borders continued in Q1
+2015. Mercedes, Volkswagen, Audi, BMW
+and Toyota were the top five most trafficked makes, while the persons driving
+stolen vehicles were mostly citizens of
+
+Figure 8. More than 17 000 packs of
+cigarettes disguised within a truck cargo
+of wood at the Polish-Ukrainian border
+
+the Russian Federation, Belarus, Lithuania, Moldova, Romania, Poland and Kazakhstan. The detected vehicles had been
+stolen in different EU Member States, such
+as Poland, Italy, Germany, Austria, Belgium,
+the Netherlands, Denmark and Sweden.
+Car thieves applied various modi operandi
+to conceal the identity of stolen vehicles at
+the external borders, for example the manipulation of the VIN. In many cases, irregularities in car registration certificates or
+insurance policies were reported, as well
+as counterfeit powers of attorney authorising the driver to travel abroad.
+Importantly, the first quarter of 2015 saw
+a new phenomenon: stolen cars were also
+detected on entry to the EU via the common borders, mostly from Belarus. The vehicles, not only luxury cars, were reported
+
+© dpsu.gov.ua
+
+The largest shipment of illicit cigarettes
+was revealed by Belarusian border guards
+in February 2015. 187 500 packs of cigarettes were detected being rafted on the
+Neman River, on the border with Lithuania. The market value of the cigarettes
+was estimated at RUB 1 billion 237.5 million.
+
+One of the most sophisticated modi operandi revealed in Q1 2015 was identified by
+the State Border Service of Ukraine, which
+prevented the smuggling of large quantities of tobacco products through the BCP
+Yagodyn-Dorohusk at the Ukrainian-Polish border section in March. A joint border and customs inspection of a 27-tonne
+shipment of timber logs revealed that 55 of
+them had cavities containing caches filled
+with tobacco products. Overall, 25 000
+packs of ‘Fest’ cigarettes of Belarusian
+production with no excise stamps were
+discovered (see Fig. 7).
+
+© dpsu.gov.ua
+
+Persistent smuggling activities
+at and between BCPs
+
+Figure 7 25 000 packs of cigarettes hidden inside 55 timber logs in trailored-made cavities detected by the Ukrainian State Border
+Service at the Polish-Ukrainian border section at the BCP Yagodyn-Dorohusk
+
+14 of 22
+
+eb-ran · q1 2015
+
+Illicit drugs and prohibited
+substances
+In contrast to the last quarter of 2014, Q1
+2015 was marked by relatively few seizures
+of drugs, especially hashish.
+For example, an attempt of hashish smuggling was revealed by the Polish border
+guards at the BCP Korczowa in the direction to Ukraine. 31.5 kg of drugs, worth
+around PLN 880 800, were packed in 34
+plastic bags and hidden in the body of a
+Renault with French registration plates.
+Hashish was smuggled by citizens of Portugal. Interestingly, the same modus operandi was observed in the final quarter of
+2014, in September, when another citizen
+of Portugal attempted to smuggle 54 kg
+of hashish in a similar way, also at the BCP
+Korczowa.
+
+Importantly, the first quarter of 2015
+brought an increase in detections of medical pills containing substances whose importation into Belarus is banned. A number
+of such cases were detected at the BCP
+Brest on the Polish-Belarusian border and
+involving Russian citizens of Chechen origin legally residing in EU countries. They
+typically travelled in luxury passenger cars
+(Lexus, Mercedes, Chrysler, VW) registered
+in France, Belgium or Spain.
+
+Outlook
+The continuous smuggling of excise goods
+through the common borders can be explained by large differences in their prices
+between EU countries and their eastern
+neighbours, which constitute a major incentive. It can be assessed that this will
+not change significantly in the foreseeable future, considering the weak economic
+situation in Ukraine and the Russian Federation. On the contrary, smuggling may
+even intensify if the profitability increases
+in the coming quarters.
+
+© Polish Border Guard
+
+as previously stolen in the Russian Federation or Belarus.
+
+Figure 9. 31.5 kg of hashish packed in
+34 plastic bags hidden in the body of a
+passenger car detected at the PolishUkrainian border (BCP Korczowa)
+
+15 of 22
+
+16 of 22
+
+eb-ran · q1 2015
+
+Statistical annex
+
+LEGEND
+Symbols and abbreviations: n.a. not applicable
+										:		 data not available
+Source: 	EB-RAN and FRAN data as of 11 May 2015,
+unless otherwise indicated
+Note:		‘Member States’ in the tables refer to FRAN Member
+States, including both 28 EU Member States
+and three Schengen Associated Countries
+
+17 of 22
+
+FRAN · q1 2015
+
+Table 1.Illegal border-crossing between BCPs
+Detections reported by EB-RAN countries and neighbouring EU Member States, by purpose of illegal border-crossing and top ten nationalities
+
+2015 Q1
+2013
+Q4
+
+2014
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago previous Qtr
+
+per cent
+of total
+
+Purpose of Illegal Border-Crossing
+Irregular migration
+
+337
+
+408
+
+344
+
+503
+
+613
+
+372
+
+-8.8
+
+-39
+
+48
+
+Other
+
+424
+
+389
+
+353
+
+352
+
+238
+
+240
+
+-38
+
+0.8
+
+31
+
+Smuggling
+
+120
+
+84
+
+100
+
+99
+
+113
+
+86
+
+2.4
+
+-24
+
+11
+
+Not specified
+
+115
+
+11
+
+14
+
+46
+
+54
+
+75
+
+582
+
+39
+
+9.7
+
+Top Ten Nationalities
+Ukraine
+
+276
+
+278
+
+245
+
+252
+
+215
+
+201
+
+-28
+
+-6.5
+
+26
+
+Vietnam
+
+55
+
+33
+
+35
+
+181
+
+96
+
+99
+
+200
+
+3.1
+
+13
+
+Georgia
+
+113
+
+59
+
+60
+
+108
+
+149
+
+68
+
+15
+
+-54
+
+8.8
+
+35
+
+63
+
+29
+
+40
+
+56
+
+66
+
+4.8
+
+18
+
+8.5
+
+Syria
+Afghanistan
+
+89
+
+79
+
+44
+
+37
+
+196
+
+66
+
+-16
+
+-66
+
+8.5
+
+Russian Federation
+
+97
+
+83
+
+79
+
+104
+
+68
+
+57
+
+-31
+
+-16
+
+7.4
+
+120
+
+139
+
+129
+
+111
+
+67
+
+56
+
+-60
+
+-16
+
+7.2
+
+28
+
+26
+
+27
+
+25
+
+22
+
+28
+
+7.7
+
+27
+
+3.6
+
+Not specified
+
+44
+
+32
+
+34
+
+21
+
+15
+
+24
+
+-25
+
+60
+
+3.1
+
+Turkey
+
+16
+
+4
+
+2
+
+5
+
+11
+
+15
+
+275
+
+36
+
+1.9
+
+Moldova
+Belarus
+
+Others
+
+123
+
+96
+
+127
+
+116
+
+123
+
+94
+
+-2.1
+
+-24
+
+12
+
+Total
+
+996
+
+892
+
+811
+
+1 000
+
+1 018
+
+774
+
+-13
+
+-24
+
+100
+
+Table 2.Illegal border-crossing at BCPs
+Detections reported by EB-RAN countries and neighbouring EU Member States, by purpose of illegal border-crossing and top ten nationalities
+
+2015 Q1
+2013
+Q4
+
+2014
+
+% change on
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+year ago previous Qtr
+
+per cent
+of total
+
+Purpose of Illegal Border-Crossing
+215
+
+245
+
+228
+
+223
+
+205
+
+3 049
+
+1 144
+
+1 387
+
+n.a.
+
+Smuggling
+
+68
+
+84
+
+86
+
+65
+
+65
+
+91
+
+8,3
+
+40
+
+n.a.
+
+Irregular migration
+
+44
+
+33
+
+17
+
+20
+
+39
+
+35
+
+6,1
+
+-10
+
+n.a.
+
+0
+
+0
+
+7
+
+7
+
+1
+
+1
+
+n.a.
+
+0
+
+n.a.
+
+93
+
+Other
+
+Not specified
+
+Top Ten Nationalities
+Ukraine
+
+155
+
+148
+
+141
+
+158
+
+117
+
+2 948
+
+1 892
+
+2 420
+
+Moldova
+
+90
+
+118
+
+132
+
+96
+
+126
+
+158
+
+34
+
+25
+
+5
+
+Romania
+
+14
+
+9
+
+20
+
+11
+
+9
+
+16
+
+78
+
+78
+
+0.5
+
+Russian Federation
+
+13
+
+18
+
+11
+
+10
+
+20
+
+9
+
+-50
+
+-55
+
+0.3
+
+1
+
+1
+
+3
+
+5
+
+4
+
+7
+
+600
+
+75
+
+0.2
+
+6
+
+n.a.
+
+n.a.
+
+0.2
+
+4
+
+5
+
+67
+
+25
+
+0.2
+
+Belarus
+Azerbaijan
+
+0
+
+0
+
+1
+
+1
+
+Syria
+
+0
+
+3
+
+1
+
+2
+
+Afghanistan
+
+0
+
+0
+
+0
+
+2
+
+4
+
+5
+
+n.a.
+
+25
+
+0.2
+
+Turkey
+
+0
+
+0
+
+0
+
+1
+
+1
+
+4
+
+n.a.
+
+300
+
+0.1
+
+9
+
+9
+
+5
+
+4
+
+3
+
+3
+
+-67
+
+0
+
+0.1
+
+Others
+
+45
+
+56
+
+24
+
+26
+
+22
+
+15
+
+-73
+
+-32
+
+0.5
+
+Total
+
+327
+
+362
+
+338
+
+316
+
+310
+
+3 176
+
+777
+
+925
+
+100
+
+Not specified
+
+18 of 22
+
+eb-ran · q1 2015
+
+Table 3.Facilitators
+Detections reported by EB-RAN countries and neighbouring EU Member States, by place of detection and top ten nationalities
+
+2015 Q1
+2013
+Q4
+
+2014
+
+% change on
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+year ago previous Qtr
+
+per cent
+of total
+
+Place of Detection
+15
+
+9
+
+20
+
+49
+
+32
+
+49
+
+444
+
+53
+
+94
+
+Air
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+n.a.
+
+n.a.
+
+5.8
+
+Inland
+
+1
+
+2
+
+0
+
+0
+
+0
+
+0
+
+n.a.
+
+n.a.
+
+0
+
+Land
+
+Top Ten Nationalities
+Russian Federation
+
+3
+
+0
+
+3
+
+8
+
+3
+
+16
+
+n.a.
+
+433
+
+31
+
+Belarus
+
+1
+
+1
+
+1
+
+12
+
+1
+
+12
+
+1 100
+
+1 100
+
+23
+
+Kyrgyzstan
+
+0
+
+0
+
+0
+
+0
+
+0
+
+6
+
+n.a.
+
+n.a.
+
+12
+
+Uzbekistan
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+n.a.
+
+n.a.
+
+9.6
+
+Morocco
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+3.8
+
+Estonia
+
+0
+
+0
+
+0
+
+3
+
+2
+
+2
+
+n.a.
+
+0
+
+3.8
+
+Iraq
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+3.8
+
+Poland
+
+3
+
+0
+
+3
+
+1
+
+3
+
+2
+
+n.a.
+
+-33
+
+3.8
+
+Austria
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+n.a.
+
+n.a.
+
+1.9
+
+Hungary
+
+0
+
+1
+
+0
+
+8
+
+0
+
+1
+
+0
+
+n.a.
+
+1.9
+
+Others
+
+9
+
+9
+
+13
+
+17
+
+23
+
+3
+
+-67
+
+-87
+
+5.8
+
+Total
+
+16
+
+11
+
+20
+
+49
+
+32
+
+52
+
+373
+
+63
+
+100
+
+Table 4.Illegal stay
+Detections reported by EB-RAN countries and neighbouring EU Member States, by place of detection and top ten nationalities
+
+2015 Q1
+2013
+Q4
+
+2014
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago previous Qtr
+
+per cent
+of total
+
+Place of Detection
+Land
+
+6 041
+
+4 359
+
+4 315
+
+7 604
+
+7 395
+
+5 996
+
+38
+
+-19
+
+77
+
+Air
+
+5 394
+
+2 604
+
+1 025
+
+1 188
+
+1 616
+
+1 558
+
+-40
+
+-3.6
+
+20
+
+42
+
+8
+
+33
+
+46
+
+54
+
+109
+
+1263
+
+102
+
+1.4
+
+Sea
+
+111
+
+61
+
+46
+
+105
+
+76
+
+55
+
+-9.8
+
+-28
+
+0.7
+
+Inland
+
+389
+
+422
+
+416
+
+176
+
+15
+
+37
+
+-91
+
+147
+
+0.5
+
+Between BCPs
+
+Top Ten Nationalities
+Ukraine
+
+2 412
+
+1 405
+
+1 989
+
+3 017
+
+3 413
+
+2 135
+
+52
+
+-37
+
+28
+
+Russian Federation
+
+1 551
+
+1 348
+
+802
+
+2 209
+
+1 781
+
+1 962
+
+46
+
+10
+
+25
+
+Georgia
+
+1 653
+
+794
+
+388
+
+443
+
+840
+
+627
+
+-21
+
+-25
+
+8.1
+
+496
+
+444
+
+455
+
+520
+
+718
+
+549
+
+24
+
+-24
+
+7.1
+
+Moldova
+Belarus
+
+313
+
+249
+
+300
+
+549
+
+296
+
+288
+
+16
+
+-2.7
+
+3.7
+
+Azerbaijan
+
+619
+
+332
+
+131
+
+147
+
+188
+
+286
+
+-14
+
+52
+
+3.7
+2.1
+
+Hungary
+
+80
+
+120
+
+85
+
+94
+
+109
+
+159
+
+33
+
+46
+
+Armenia
+
+638
+
+209
+
+137
+
+190
+
+103
+
+152
+
+-27
+
+48
+
+2
+
+Turkey
+
+444
+
+312
+
+167
+
+115
+
+102
+
+150
+
+-52
+
+47
+
+1.9
+
+Poland
+
+140
+
+99
+
+107
+
+215
+
+143
+
+132
+
+33
+
+-7.7
+
+1.7
+
+Others
+
+3 631
+
+2 142
+
+1 274
+
+1 620
+
+1 463
+
+1 315
+
+-39
+
+-10
+
+17
+
+Total
+
+11 977
+
+7 454
+
+5 835
+
+9 119
+
+9 156
+
+7 755
+
+4
+
+-15
+
+100
+
+19 of 22
+
+FRAN · q1 2015
+
+Table 5.Refusals of entry
+Refusals reported by EB-RAN countries and neighbouring EU Member States, by border type and top ten nationalities
+
+2015 Q1
+2013
+
+2014
+
+% change on
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+year ago previous Qtr
+
+per cent
+of total
+
+Border Type
+17 617
+
+17 269
+
+18 651
+
+21 166
+
+20 192
+
+18 410
+
+6.6
+
+-8.8
+
+90
+
+Air
+
+2 031
+
+1 827
+
+1 720
+
+1 312
+
+1 093
+
+1 204
+
+-34
+
+10
+
+5.9
+
+Sea
+
+1 038
+
+736
+
+991
+
+1 055
+
+1 095
+
+811
+
+10
+
+-26
+
+4
+
+Ukraine
+
+5 317
+
+4 760
+
+5 295
+
+6 331
+
+5 384
+
+6 095
+
+28
+
+13
+
+30
+
+Russian Federation
+
+3 154
+
+5 148
+
+7 034
+
+7 178
+
+5 048
+
+3 832
+
+-26
+
+-24
+
+19
+
+Land
+
+Top Ten Nationalities
+
+Uzbekistan
+
+1 539
+
+1 078
+
+618
+
+476
+
+884
+
+1 969
+
+83
+
+123
+
+9.6
+
+Moldova
+
+1 089
+
+1 904
+
+1 416
+
+1 744
+
+1 699
+
+1 521
+
+-20
+
+-10
+
+7.4
+
+626
+
+531
+
+287
+
+218
+
+737
+
+1 428
+
+169
+
+94
+
+7
+
+Belarus
+
+1 248
+
+1 131
+
+1 241
+
+1 490
+
+1 393
+
+890
+
+-21
+
+-36
+
+4.4
+
+Lithuania
+
+1 020
+
+1 014
+
+1 147
+
+1 051
+
+898
+
+702
+
+-31
+
+-22
+
+3.4
+
+418
+
+343
+
+335
+
+326
+
+352
+
+628
+
+83
+
+78
+
+3.1
+
+Tajikistan
+
+Azerbaijan
+Kyrgyzstan
+
+315
+
+227
+
+114
+
+141
+
+626
+
+613
+
+170
+
+-2.1
+
+3
+
+Armenia
+
+757
+
+489
+
+306
+
+385
+
+596
+
+353
+
+-28
+
+-41
+
+1.7
+
+Others
+
+5 203
+
+3 207
+
+3 569
+
+4 193
+
+4 763
+
+2 394
+
+-25
+
+-50
+
+12
+
+Total
+
+20 686
+
+19 832
+
+21 362
+
+23 533
+
+22 380
+
+20 425
+
+3
+
+-8.7
+
+100
+
+Table 6.Applications for asylum
+Applications for international protection reported by EB-RAN countries and neighbouring EU Member States, by top ten nationalities
+
+2015 Q1
+2013
+Q4
+
+2014
+Q1
+
+Q2
+
+% change on
+
+Q3
+
+Q4
+
+Q1
+
+year ago previous Qtr
+
+per cent
+of total
+
+Top Ten Nationalities
+270
+
+233
+
+401
+
+3 072
+
+17 968
+
+24 427
+
+10 384
+
+36
+
+61
+
+Afghanistan
+
+1 439
+
+1 440
+
+1 167
+
+2 402
+
+5 098
+
+4 394
+
+205
+
+-14
+
+11
+
+Syria
+
+1 011
+
+1 252
+
+1 108
+
+3 115
+
+4 451
+
+3 027
+
+142
+
+-32
+
+7.6
+
+302
+
+273
+
+298
+
+431
+
+778
+
+1 219
+
+347
+
+57
+
+3.1
+
+Kosovo*
+
+Iraq
+Ukraine
+Russian Federation
+
+23
+
+238
+
+805
+
+1 226
+
+817
+
+916
+
+285
+
+12
+
+2.3
+
+1 042
+
+682
+
+710
+
+880
+
+953
+
+760
+
+11
+
+-20
+
+1.9
+
+Pakistan
+
+152
+
+125
+
+96
+
+142
+
+291
+
+602
+
+382
+
+107
+
+1.5
+
+Not specified
+
+195
+
+195
+
+263
+
+354
+
+760
+
+533
+
+173
+
+-30
+
+1.3
+
+Bangladesh
+
+166
+
+42
+
+40
+
+122
+
+265
+
+381
+
+807
+
+44
+
+1
+
+Somalia
+
+356
+
+324
+
+358
+
+371
+
+389
+
+361
+
+11
+
+-7.2
+
+0.9
+
+Others
+
+3 583
+
+2 391
+
+3 718
+
+3 873
+
+3 667
+
+3 152
+
+32
+
+-14
+
+7.9
+
+Total
+
+8 539
+
+7 195
+
+8 964
+
+15 988
+
+35 437
+
+39 772
+
+453
+
+12
+
+100
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence
+
+20 of 22
+
+eb-ran · q1 2015
+
+Table 7.Document fraud
+Detections reported by EB-RAN countries, by border type, document type, top ten nationalities and top ten countries of issuance
+
+2015 Q1
+2013
+
+2014
+
+% change on
+
+per cent
+of total
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Air
+
+31
+
+47
+
+25
+
+17
+
+35
+
+37
+
+-21
+
+5.7
+
+47
+
+Land
+
+57
+
+38
+
+18
+
+38
+
+31
+
+31
+
+-18
+
+0
+
+40
+
+Sea
+
+0
+
+16
+
+8
+
+7
+
+4
+
+7
+
+-56
+
+75
+
+9
+
+Not specified
+
+0
+
+0
+
+4
+
+1
+
+2
+
+3
+
+n.a.
+
+50
+
+3.8
+
+Passports
+
+53
+
+85
+
+49
+
+47
+
+58
+
+61
+
+-28
+
+5.2
+
+78
+
+Not specified
+
+29
+
+9
+
+0
+
+1
+
+6
+
+9
+
+0
+
+50
+
+12
+
+3
+
+4
+
+1
+
+2
+
+3
+
+3
+
+-25
+
+0
+
+3.8
+
+year ago previous Qtr
+
+Border Type
+
+Document Type
+
+ID cards
+Visas
+
+3
+
+2
+
+4
+
+7
+
+2
+
+3
+
+50
+
+50
+
+3.8
+
+Stamps
+
+0
+
+0
+
+0
+
+6
+
+2
+
+2
+
+n.a.
+
+0
+
+2.6
+
+Residence permits
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+n.a.
+
+n.a.
+
+0
+
+16
+
+17
+
+18
+
+16
+
+19
+
+16
+
+-5.9
+
+-16
+
+21
+
+1
+
+13
+
+1
+
+5
+
+8
+
+10
+
+-23
+
+25
+
+13
+
+34
+
+19
+
+13
+
+14
+
+10
+
+9
+
+-53
+
+-10
+
+12
+
+Iraq
+
+0
+
+4
+
+0
+
+0
+
+3
+
+7
+
+75
+
+133
+
+9
+
+Not specified
+
+2
+
+0
+
+0
+
+0
+
+0
+
+6
+
+n.a.
+
+n.a.
+
+7.7
+
+Top Ten Nationalities
+Moldova
+Syria
+Ukraine
+
+Congo
+
+0
+
+3
+
+0
+
+0
+
+0
+
+5
+
+67
+
+n.a.
+
+6.4
+
+Georgia
+
+7
+
+1
+
+0
+
+1
+
+4
+
+5
+
+400
+
+25
+
+6.4
+
+Afghanistan
+
+6
+
+5
+
+0
+
+0
+
+1
+
+4
+
+-20
+
+300
+
+5.1
+
+Tunisia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+2.6
+
+Russian Federation
+Others
+
+5
+
+6
+
+2
+
+2
+
+4
+
+2
+
+-67
+
+-50
+
+2.6
+
+17
+
+33
+
+21
+
+25
+
+23
+
+12
+
+-64
+
+-48
+
+15
+
+Top Ten Countries of Issuance of Documents
+Moldova
+
+2
+
+5
+
+5
+
+15
+
+11
+
+11
+
+120
+
+0
+
+14
+
+Ukraine
+
+21
+
+20
+
+15
+
+15
+
+9
+
+9
+
+-55
+
+0
+
+12
+
+Not specified
+
+27
+
+9
+
+0
+
+1
+
+5
+
+7
+
+-22
+
+40
+
+9
+
+1
+
+2
+
+1
+
+2
+
+2
+
+6
+
+200
+
+200
+
+7.7
+
+Bulgaria
+Syria
+
+0
+
+2
+
+0
+
+1
+
+1
+
+4
+
+100
+
+300
+
+5.1
+
+Germany
+
+0
+
+1
+
+0
+
+0
+
+0
+
+4
+
+300
+
+n.a.
+
+5.1
+
+UK
+
+7
+
+0
+
+0
+
+0
+
+1
+
+4
+
+n.a.
+
+300
+
+5.1
+
+Austria
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+2.6
+
+Iraq
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+2.6
+
+Tunisia
+
+2
+
+0
+
+0
+
+0
+
+0
+
+2
+
+n.a.
+
+n.a.
+
+2.6
+
+Others
+
+28
+
+62
+
+34
+
+29
+
+43
+
+27
+
+-56
+
+-37
+
+35
+
+Total
+
+88
+
+101
+
+55
+
+63
+
+72
+
+78
+
+-23
+
+8.3
+
+100
+
+21 of 22
+
+FRAN · q1 2015
+
+Explanatory note
+Detections reported for Member States for
+indicators Illegal border-crossing between
+BCPs, Illegal border-crossing at BCPs, Refusals of entry and Persons using fraudulent documents are detections at the
+common land borders on entry only. For
+Facilitators, detections at the common
+land borders on entry and exit are included.
+For Illegal stay, detections at the common
+
+22 of 22
+
+land borders on exit only are included. For
+Asylum, all applications (land, sea, air and
+inland) are included.
+For EB-RAN countries, all indicators – save
+for Refusals of entry – include detections
+(applications) on exit and entry at the land,
+sea and air borders.
+
+Each section in the table (Reporting country, Border type, Place of detection, Top
+five border section and Top ten nationalities) refers to total detections reported
+by EB-RAN countries and to neighbouring land border detections reported by
+Member States.
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+Risk Analysis Unit
+Reference number: 9732/2015
+Warsaw, June 2015
+
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+

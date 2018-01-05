@@ -1,0 +1,444 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0185(COD)
+
+Procedure completed
+
+Wholesale roaming markets
+Amending Regulation (EU) No 531/2012 2011/0187(COD)
+Subject
+3.30.05 Electronic and mobile communications, personal communications
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+06/07/2016
+
+KUMPULA-NATRI
+Miapetra
+Shadow rapporteur
+
+RÜBIG Paul
+
+TOŠENOVSKÝ Evžen
+
+ROHDE Jens
+
+FERREIRA João
+
+REIMON Michel
+
+BORRELLI David
+FONTANA Lorenzo
+Committee for opinion
+IMCO
+
+Internal Market and Consumer Protection
+
+Council of the European Union
+Commission DG
+European Commission
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+
+Communications Networks, Content and Technology ANSIP Andrus
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+15/06/2016
+
+Legislative proposal published
+
+04/07/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+29/11/2016
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0399
+
+Summary
+
+29/11/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+01/12/2016
+
+Debate in Council
+
+07/12/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0372/2016
+
+28/02/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE599.848 GEDA/A/(2017)002045
+
+05/04/2017
+
+Debate in Parliament
+
+06/04/2017
+
+Results of vote in Parliament
+
+06/04/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+25/04/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+17/05/2017
+
+Final act signed
+
+17/05/2017
+
+End of procedure in Parliament
+
+09/06/2017
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0128/2017
+
+Technical information
+Procedure reference
+
+2016/0185(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 531/2012 2011/0187(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/06880
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0399
+
+15/06/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0201
+
+15/06/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0202
+
+15/06/2016
+
+EC
+
+For information
+
+COM(2016)0398
+
+15/06/2016
+
+EC
+
+For information
+
+SWD(2016)0200
+
+15/06/2016
+
+EC
+
+Committee draft report
+
+PE589.188
+
+16/09/2016
+
+EP
+
+Amendments tabled in committee
+
+PE589.492
+
+25/10/2016
+
+EP
+
+A8-0372/2016
+
+07/12/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+
+Summary
+
+Summary
+
+Summary
+
+reading/single reading
+Coreper letter confirming interinstitutional
+agreement
+
+GEDA/A/(2017)002045
+
+15/02/2017
+
+CSL
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0128/2017
+
+06/04/2017
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2017)363
+
+07/06/2017
+
+Summary
+
+Final act
+Regulation 2017/920
+OJ L 147 09.06.2017, p. 0001 Summary
+
+2016/0185(COD) - 15/06/2016 Legislative proposal
+PURPOSE: to regulate the functioning of national wholesale roaming markets in order to abolish retail roaming surcharges by 15 June 2017.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: abolishing retail roaming surcharges is an essential step towards ensuring that telecom rules support the establishment and
+functioning of a digital single market across the Union. This target was also stressed in the Digital Single Market Strategy set out by the
+Commission.
+In 2015, the European Parliament and the Council adopted Regulation (EU) 2015/2120, which entered into force on 29 November 2015 and
+amended Regulation (EU) No 531/2012 (the Roaming Regulation).
+Regulation (EU) 2015/2120 requires retail roaming surcharges to be abolished in the Union from 15 June 2017 , subject to fair usage of
+roaming services and the possibility of applying a sustainability derogation mechanism of the abolition of retail roaming charges. These new
+rules for retail roaming services in the Union are referred to as the roam-like-at-home (RLAH) rule.
+While necessary, the regulation at retail level alone is not sufficient to implement RLAH. National wholesale roaming markets need to be
+competitive and deliver wholesale roaming prices that enable operators to sustainably offer retail roaming services without any additional
+charges.
+In this regard, the Commission has undertaken a review of the wholesale roaming market, with a view to assessing measures necessary to
+enable the abolition of retail roaming surcharges from 15 June 2017.
+The review shows in particular that wholesale roaming markets do not always function properly. The impact of these market failures on the
+functioning of wholesale markets results in prices substantially above estimated costs, in particular for data.
+Another conclusion of the review is that it is not possible to anticipate with certainty the impact of the future RLAH obligation, and in particular
+the expected increase of roaming traffic, on competition on national wholesale roaming markets.
+In light of the problems identified, the Commission considers that the current measures applicable on the wholesale roaming markets should
+be amended to ensure that the level of wholesale roaming charges enables the sustainable provision of RLAH in the Union.
+IMPACT ASSESSMENT: amongst the 4 options considered, the preferred option consisted of setting EU-wide wholesale roaming charges
+caps at a lower level than today. Under this option, legislation would reduce the current wholesale roaming charges caps and would also
+ensure that RLAH enters into force.
+CONTENT: this proposal for a regulation is meant to complete the rules on roaming, in particular with regard to wholesale roaming markets , in
+order to abolish retail roaming surcharges by 15 June 2017 without distorting the domestic visited and home markets.
+The Commission proposed to make the following amendments to the Roaming Regulation:
+add the possibility for the parties to a wholesale agreement to waive the application of maximum wholesale caps provided in Articles 7,
+9 and 12 of the Roaming Regulation;
+reduce the current wholesale roaming charges caps to EUR 0.04 per minutes of call made, EUR 0,01 per SMS and EUR 0,0085 per
+megabyte of data transmitted;
+ensure consultation of the Body of European Regulators for Electronic Communications ( BEREC) in disputes concerning inputs
+necessary for the provision of regulated wholesale roaming services;
+ensure that the Commission submits a report to the European Parliament and the Council every two years after 15 June 2017;
+clarify BERECs data-gathering powers: BEREC shall regularly collect data from national regulatory authorities on developments in
+retail and wholesale charges for regulated voice, SMS and data roaming services, including wholesale charges applied for balanced
+and unbalanced roaming traffic respectively.
+
+2016/0185(COD) - 07/12/2016 Committee report tabled for plenary, 1st reading/single reading
+
+The Committee on Industry, Research and Energy adopted the report by Miapetra KUMPULA-NATRI (S&D, FI) on the proposal for a
+regulation of the European Parliament and of the Council amending Regulation (EU) No 531/2012 as regards rules for wholesale roaming
+markets.
+The committee recommended that Parliament?s position adopted in first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Wholesale roaming access: the Commission proposal stated that mobile network operators may refuse requests for wholesale roaming access
+only on the basis of objective criteria and after obtaining authorisation from their national regulatory authority. Members suggested that the
+national regulatory authority concerned inform the Commission of any application for authorisation and of the objectively justified reasons
+therefor. The Commission shall make information concerning such applications available to the public, subject to the duty of confidentiality.
+Complaints: undertakings that have requested wholesale roaming access may submit complaints to the national regulatory authorities
+concerned. The national regulatory authorities shall accept or reject such complaints within one month of receipt, providing reasons for their
+decision. The national regulatory authorities shall inform the Commission of such complaints and the corresponding decisions, and the
+Commission shall make them available to the public.
+Wholesale charges for the making of regulated roaming calls: the average wholesale charge that the visited network operator may levy on the
+roaming provider for the provision of a regulated roaming call originating on that visited network, shall not exceed a safeguard limit of
+EUR 0.03 per minute as of 15 June 2017 and shall remain at EUR 0.03 until 30 June 2022 (the European Commission proposed a ceiling of
+EUR 0.04 per minute).
+Wholesale charges for regulated data roaming services: Members proposed to change the units used for data from megabytes to gigabytes
+(1024 MB).
+With effect from 15 June 2017, the average wholesale charge shall not exceed a safeguard limit of EUR 4 per gigabyte of data transmitted.
+The safeguard limit shall, on 1 July 2018, decrease to EUR 3 per gigabyte of data transmitted, on 1 July 2019 to EUR 2 per gigabyte of data
+transmitted, and on 1 July 2020, to EUR 1 per gigabyte of data transmitted. It shall remain at EUR 1 per gigabyte of data transmitted until 30
+June 2022.
+Dispute resolution: disputes between visited network operators and other operators on instances of unfair competition consisting in substance
+of an offer from a non-domestic operator based on permanent roaming may be referred to the competent national regulatory authority.
+In this case, the Body of European Regulators for Electronic Communications (BEREC) shall, in its opinion, make an overall assessment over
+a significant period of all factual elements characterising the activities carried out by the non-domestic operator in the Member State in which it
+is established and, on a proportional and comparative basis, in the Member State visited.
+Review clause: the Commission proposes a review of price caps every two years after 15 June 2017. Members proposed that the Commission
+submit an interim report on the implementation of the abolition of retail roaming surcharges by 15 December 2018. Furthermore, and after
+consulting BEREC, the Commission shall submit a report to the European Parliament and to the Council by 15 December 2019 and every two
+years thereafter, accompanied, if appropriate, by a legislative proposal to amend the wholesale charges for regulated roaming services laid
+down in this Regulation.
+In its biennial report, the Commission should, in particular, assess whether "roam-like-at-home' (RLAH) has any impact on the evolution of
+retail prices and, in particular, the range of tariff plans available on the retail market.
+
+2016/0185(COD) - 06/04/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 549 votes to 27, with 50 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 531/2012 as regards rules for wholesale roaming markets.
+Parliaments position adopted in first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Wholesale charges for the making of regulated roaming calls: with effect from 15 June 2017, the average wholesale charge that the visited
+network operator may levy on the roaming provider for the provision of a regulated roaming call originating on that visited network, inclusive,
+among others, of origination, transit and termination costs, shall not exceed a safeguard limit of EUR 0.032 per minute. That maximum
+wholesale charge shall remain at EUR 0.032 until 30 June 2022.
+Wholesale charges for regulated data roaming services: in order to take account of the increased usage of data services and the reduction in
+cost per unit of data transmitted, the maximum wholesale charge for regulated data roaming services should decrease each year and should
+be set in euro per gigabytes where a gigabyte is equal to 1 000 megabytes.
+With effect from 15 June 2017, the average wholesale charge that the visited network operator may levy on the roaming provider for the
+provision of regulated data roaming services by means of that visited network shall not exceed a safeguard limit of EUR 7.70 per gigabyte of
+data transmitted. That maximum wholesale charge shall decrease to EUR 6.00 per gigabyte on 1 January 2018, to EUR 4.50 per gigabyte on
+1 January 2019, to EUR 3.50 per gigabyte on 1 January 2020, to EUR 3.00 per gigabyte on 1 January 2021 and to EUR 2.50 per gigabyte on
+1 January 2022. It shall remain at EUR 2.50 per gigabyte of data transmitted until 30 June 2022.
+Conditions for wholesale access to roaming services: when included in a reference offer, these conditions should include specific measures
+that the operator of the visited network may take to prevent permanent roaming or abnormal use or abusive use of wholesale roaming access,
+as well as the objective criteria on the basis of which such measures should be taken.
+The reference offer may provide for the possibility to terminate a wholesale roaming agreement where the visited network operator has
+established that, based on objective criteria, permanent roaming by a significant share of the roaming provider's customers or anomalous or
+abusive use of wholesale roaming access is taking place, and has informed the home network operator accordingly.
+The visited network operator may terminate the wholesale roaming agreement unilaterally on grounds of permanent roaming or anomalous or
+abusive use of wholesale roaming access only upon the prior authorisation of the visited network operators national regulatory authority.
+
+The national regulatory authorities of the visited network operator and of the home network operator may each request BEREC to adopt an
+opinion with regard to the action to be taken in accordance with this Regulation. BEREC shall adopt its opinion within one month of receipt of
+such a request.
+Review clause: the Commission proposes a review of price caps every two years after 15 June 2017. Members proposed that the Commission
+submit an interim report on the implementation of the abolition of retail roaming surcharges by 15 December 2018. Furthermore, and after
+consulting BEREC, the Commission shall submit a report to the European Parliament and to the Council by 15 December 2019 and every two
+years thereafter, accompanied, if appropriate, by a legislative proposal to amend the wholesale charges for regulated roaming services laid
+down in this Regulation.
+In its biennial report, the Commission should, in particular, assess whether "roam-like-at-home' (RLAH) has any impact on the evolution of
+retail prices and, in particular, the range of tariff plans available on the retail market.
+The Commissions biennial reports should, in particular: (i) analyse the extent to which exceptional retail roaming surcharges have been
+authorised by national regulatory authorities; (ii) the ability of home network operators to sustain their domestic charging models and the ability
+of visited network operators to recover the efficiently incurred costs of providing regulated wholesale roaming services.
+BEREC should report regularly on the relationship between retail prices, wholesale charges and wholesale costs for roaming services.
+
+2016/0185(COD) - 17/05/2017 Final act
+PURPOSE: to regulate the functioning of national wholesale roaming markets in order to abolish retail roaming surcharges by 15 June 2017.
+LEGISLATIVE ACT: Regulation (EU) 2017/920 of the European Parliament and of the Council amending Regulation (EU) No 531/2012 as
+regards rules for wholesale roaming markets.
+CONTENT: this Regulation amends Regulation (EU) No 531/2012 by introducing rules which limit the amount that operators may charge
+between themselves to authorize roaming throughout Europe.
+The reform of the wholesale market makes it possible, as from 15 June 2017, to 'roaming national tariffs', i.e. the removal of roaming charges
+on the retail market for consumers who live in Europe and travel to other EU countries.
+Caps for the wholesale supply of roaming services:
+With effect from 15 June 2017,
+the average wholesale charge that the visited network operator may levy on the roaming provider for the provision of a regulated
+roaming call shall not exceed a safeguard limit of EUR 0.032 per minute. That maximum wholesale charge shall remain at EUR 0.032
+until 30 June 2022;
+the average wholesale charge that the visited network operator may levy on the roaming provider for the provision of a regulated
+roaming SMS message originating on that visited network shall not exceed a safeguard limit of EUR 0.01 per SMS message and shall
+remain at EUR 0.01 until 30 June 2022;
+the average wholesale charge that the visited network operator may levy on the roaming provider for the provision of regulated data
+roaming services by means of that visited network shall not exceed a safeguard limit of EUR 7.70 per gigabyte of data transmitted.
+That maximum wholesale charge shall decrease to EUR 6.00 per gigabyte on 1 January 2018, to EUR 4.50 per gigabyte on 1 January
+2019, to EUR 3.50 per gigabyte on 1 January 2020, to EUR 3.00 per gigabyte on 1 January 2021 and to EUR 2.50 per gigabyte on 1
+January 2022. It shall remain at EUR 2.50 per gigabyte of data transmitted until 30 June 2022
+Conditions for wholesale access to roaming services: where specified in a reference offer, such conditions shall include the specific measures
+that the visited network operator may take to prevent permanent roaming or anomalous or abusive use of wholesale roaming access as well
+as the objective criteria on the basis of which such measures may be taken.
+Disputes between visited network operators and other operators on rates applied to inputs necessary for the provision of regulated wholesale
+roaming services may be referred to the competent national regulatory authority or authorities. In such a case, the competent national
+regulatory authority or authorities may consult Body of European Regulators for Electronic Communications (BEREC) about the action to be
+taken to resolve the dispute. Where BEREC has been consulted, the competent national regulatory authority or authorities shall await
+BERECs opinion before taking action to resolve the dispute.
+Review: the Commission shall submit biennial reports on how the rules are working, and if necessary, propose new caps. The first report shall
+be submitted by 15 December 2019.
+ENTRY INTO FORCE: 12.6.2017.
+The rules on caps for the wholesale supply of roaming services shall apply from 15.6.2017.
+
+

@@ -1,0 +1,6536 @@
+Reg. No. 14768
+
+FINAL
+Financial Statements
+Reports on the
+Implementation of the
+Budget
+2016
+
+Frontex - European Border and Coast Guard Agency
+www.frontex.europa.eu | Pl. Europejski 6, 00-844 Warsaw, Poland | Tel. +48 22 205 95 00 | Fax +48 22 205 95 01
+
+FRONTEX - FINAL ACCOUNTS 2016
+
+2/48
+
+Frontex – Final Accounts 2016
+
+SUMMARY
+1.1. Introduction
+1.2. Accounting principles
+
+5
+6
+
+Note drawn up by the Accounting Officer
+
+8
+
+2. Financial statements 2016
+
+9
+
+2.1.
+2.2.
+2.3.
+2.4.
+
+Balance Sheet
+Statement of Financial Performance
+Cash Flow
+Statement of Changes in Net Assets
+
+3. Annex to Financial Statements
+
+9
+11
+12
+13
+
+14
+
+3.1. Notes to the Balance Sheet
+3.1.1.
+3.1.2.
+3.1.3.
+
+14
+
+Non current assets .......................................................................... 14
+Current assets ............................................................................... 17
+Current liabilities ........................................................................... 21
+
+3.2. Notes to the Statement of Financial Performance
+3.2.1.
+3.2.2.
+3.2.3.
+3.2.4.
+3.2.5.
+3.2.6.
+
+Operating revenue ..........................................................................
+Operating expenses .........................................................................
+Staff expenses ...............................................................................
+Financial expenses ..........................................................................
+Economic result for the year ..............................................................
+Cash Flow .....................................................................................
+
+3.3. Off balance sheet items
+3.3.1.
+3.3.2.
+3.4.
+3.5.
+3.6.
+3.7.
+
+22
+22
+24
+25
+25
+25
+25
+
+27
+
+Contingent assets ........................................................................... 27
+Contingent liabilities ....................................................................... 27
+
+Related parties
+Events after the balance sheet date
+Economic result / prior period adjustment
+Financial Instruments
+
+4. Reports on implementation of the budget 2016
+4.1. Budgetary principles
+4.2. Statement of Comparison of Budget and Actual Amounts 2016
+4.3. Budgetary Outturn Account
+4.4. Budget amendments and transfers
+4.5. Reconciliation economic outturn versus budgetary outturn
+4.6. Current year appropriations C1 – committed in 2016 and paid in 2016
+4.7. Automatic carry over C2 – Non-automatic carry over
+4.8. Automatic carry over C4 – internal assigned revenue
+4.9. Automatic carry over C5 – internal assigned revenue carried over
+4.10. Automatic carry over C8 – committed in 2015 and paid in 2016
+4.11. Earmarked expenditure
+
+28
+28
+28
+28
+
+31
+31
+32
+34
+35
+36
+37
+42
+43
+44
+45
+48
+
+Page 3 of 48
+
+Frontex – Final Accounts 2016
+
+Page 4 of 48
+
+Frontex – Final Accounts 2016
+
+1.1. Introduction
+The annual accounts are drawn up in accordance with the Financial Regulation of European
+Border and Coast Guard Agency (hereinafter Frontex). The annual accounts of Frontex include
+the financial statements and the report on implementation of the budget.
+The objectives of financial statements are to provide information about the financial position,
+performance and cash flows of Frontex.
+The financial statements have been prepared according to the accounting rules adopted by the
+European Commission’s accountant, following the principles of accrual based accountancy where
+the economic outturn, balance and cash flow are concerned. It should be noted that under
+Frontex Financial Regulation, the accounts consist of the general accounts and the budget
+accounts, both kept in euro.
+The general accounts are accrual accounts which mean that the effects of transactions and other
+events are recognised when those transactions or events occur (and not only when cash or its
+equivalent is received or paid). They are based on the IPSAS (International Public Sector
+Accounting Standards). The general accounts allow for the preparation of the financial
+statements as they show all revenues and expenses for the financial year and are designed to
+establish the financial position in the form of a balance sheet at 31 December.
+According to Article 82 of Frontex Financial Regulation, Agency’s Accounting Officer shall send
+to the Commission's Accounting Officer and the Court of Auditors by no later than 1 st of March of
+the following year its provisional accounts, together with the report on budgetary and financial
+management during the year.
+The European Court of Auditors (ECA) adopted on 16 May 2017 its preliminary observations on
+the 2016 provisional accounts of Frontex with their Reference-Number CH4089438 EN02-17PPCH049-17FIN-RAS-Frontex_2016-OR.
+On receiving the ECA’s preliminary observations, the accounting officer draws up and signs off
+the final accounts of the Agency.
+The Executive Director shall send the final accounts, together with the opinion of the
+Management Board, to the Commission’s Accounting Officer, the Court of Auditors, the European
+Parliament and the Council, by 1st of July of the following year at the latest.
+Finally the final accounts are presented to the Council and Parliament for discharge.
+The final annual accounts will be published on Frontex website:
+
+http://frontex.europa.eu/about-frontex/governance-documents/
+
+Page 5 of 48
+
+Frontex – Final Accounts 2016
+
+1.2. Accounting principles
+The objectives of the financial statements are to provide information about the financial
+position, performance and cash flows of an entity that is useful to a wide range of users. For a
+public sector entity such as Frontex, the objectives are more specifically to provide information
+useful for decision making, and to demonstrate the accountability of the entity for the resources
+entrusted to it.
+The accounting principles to be followed when preparing the financial statements are laid down
+in EU Accounting rule 2 and are the same as those described in IPSAS 1, that is:
+Fair presentation
+Financial statements shall present fairly the financial position, financial performance and cash
+flows of an entity. Fair presentation requires the faithful representation of the effects of
+transactions, other events and conditions in accordance with the definitions and recognition
+criteria for assets, liabilities, revenue and expenses set out in EC accounting rules. The
+application of EC accounting rules, with additional disclosures when necessary, is presumed to
+result in financial statements that achieve a fair presentation (EU Accounting Rule 2).
+Accrual Basis
+In order to meet their objectives, financial statements are prepared on the accrual basis of
+accounting. Under this basis, the effects of transactions and other events are recognised when
+they occur (and not as cash or its equivalent is received or paid) and they are recorded in the
+accounting records and reported in the financial statements of the periods to which they relate
+(EU Accounting Rule 2).
+Going concern basis
+When preparing financial statements an assessment of an entity’s ability to continue as a going
+concern shall be made. Financial statements shall be prepared on a going concern basis unless
+there is an intention to liquidate the entity or to cease operating, or if there is no realistic
+alternative but to do so. These financial statements have been prepared in accordance with the
+going concern principle, which means that Frontex is deemed to have been established for an
+indefinite duration (EU Accounting Rule 2).
+Consistency of presentation
+According to this principle the presentation and classification of items in the financial statements
+shall be retained from one period to the next (EU Accounting Rule 2).
+Aggregation
+Each material class of similar items shall be presented separately in the financial statements.
+Items of a dissimilar nature or function shall be presented separately unless they are immaterial
+(EU Accounting Rule 2).
+
+Page 6 of 48
+
+Frontex – Final Accounts 2016
+
+Offsetting
+Assets and liabilities, and revenue and expenses, shall not be offset unless required or permitted
+by an EU Accounting rule (EU Accounting Rule 2).
+Comparative Information
+Except when an EU accounting rule permits or requires otherwise, comparative information shall
+be disclosed in respect of the previous period for all amounts reported in the financial
+statements. When the presentation or classification of items in the financial statements is
+amended, comparative amounts shall be reclassified unless the reclassification is impracticable
+(EU Accounting Rule 2).
+The qualitative characteristics of financial reporting are relevance, reliability, understandability
+and comparability which are explained in EU Accounting Rule 2 and IPSAS 1.
+
+Currency
+Frontex financial statements are presented in euro, the euro being the European Union's
+functional and reporting currency.
+Economic transactions in other currencies than in euro have been converted into euro on the
+basis of European Commission’s official rate “Infor-Euro”.
+Due to the Agency’s location outside of Euro-zone, a substantial number of transactions during
+reporting period occurred in Polish Zlotys. Foreign currency exchange rate gains and losses
+resulting from transactions in other currencies than euro have been reflected in the Statement
+of Financial Performance.
+Year-end balances of monetary assets and liabilities denominated in foreign currencies are
+converted into euro on the basis of the exchange rates applying on 31 December 2016.
+Chart of Accounts
+The chart of accounts used by Frontex follows the structure of the chart of accounts of the
+European Commission (PCUE).
+Use of estimates
+In accordance with IPSAS and generally accepted accounting principles, the financial statements
+necessarily include amounts based on estimates and assumptions by management based on the
+most reliable information available. Significant estimates include, but are not limited to,
+provisions, financial risk on inventories and accounts receivables, accrued income and charges,
+contingent assets and liabilities. Actual results could differ from those estimates. Changes in
+estimates are reflected in the period in which they become known.
+
+Page 7 of 48
+
+Frontex – Final Accounts 2016
+
+NOTE DRAWN UP BY THE ACCOUNTING OFFICER
+
+The annual accounts of Frontex for the year 2016 have been prepared in accordance with the
+Title IX of the Financial Regulation applicable to the general budget of the European Union, the
+accounting rules adopted by the Commission’s Accounting Officer, and the accounting principles
+and methods adopted by myself.
+
+I acknowledge my responsibility for the preparation and presentation of the annual accounts of
+Frontex in accordance with Article 68 of the Financial Regulation and with Article 50 of the
+Financial Regulation of the European Agency for the Management of the Operational Cooperation
+at the External Borders of the Member States of the European Union.
+
+I have obtained from the authorising officer, who certified its reliability, all the information
+necessary for the production of the accounts that show the Frontex’s assets and liabilities and
+the budgetary implementation.
+
+I hereby certify that based on this information, and on such checks as I deemed necessary to sign
+off the accounts, I have a reasonable assurance that the accounts present fairly, in all material
+aspects, the financial position, the results of the operations and the cash flow of Frontex.
+
+Warsaw,
+
+21 June 2017
+[signed]
+
+Page 8 of 48
+
+Frontex – Final Accounts 2016
+
+2. FINANCIAL STATEMENTS 2016
+2.1. Balance Sheet
+
+A.
+
+Note
+
+31.12.2016
+
+31.12.2015
+
+Variation
+
+Intangible fixed assets
+
+3.1.1.1
+
+2.313.432,00
+
+3.333.506,00
+
+-1.020.074,00
+
+Tangible fixed assets
+
+3.1.1.2
+
+3.939.170,00
+
+3.448.351,00
+
+490.819,00
+
+108.840,00
+
+42.735,00
+
+66.105,00
+
+NON CURRENT ASSETS
+
+Plant and equipment
+Computer hardware
+
+2.627.979,00
+
+2.101.457,00
+
+526.522,00
+
+Furniture and vehicles
+
+760.512,00
+
+795.527,00
+
+-35.015,00
+
+Other fixtures and fittings
+
+441.839,00
+
+508.632,00
+
+-66.793,00
+
+0,00
+
+0,00
+
+0,00
+
+6.252.602,00
+
+6.781.857,00
+
+-529.255,00
+
+Long-term receivables
+
+3.1.1.3
+
+TOTAL NON CURRENT ASSETS
+B.
+
+CURRENT ASSETS
+Short-term pre-financing
+
+3.1.2.1
+
+10.865.061,64
+
+1.878.153,58
+
+8.986.908,06
+
+Short-term receivables
+
+3.1.2.2
+
+96.846.252,65
+
+50.591.078,22
+
+46.255.174,43
+
+Current receivables
+
+2.673.532,13
+
+4.702.295,52
+
+-2.028.763,39
+
+Sundry receivables
+
+92.885.038,57
+
+38.212.187,45
+
+54.672.851,12
+
+1.287.681,95
+
+7.676.595,25
+
+-6.388.913,30
+
+18.161,66
+
+43.836,86
+
+-25.675,20
+
+TOTAL CURRENT ASSETS
+
+107.729.475,95
+
+52.513.068,66
+
+55.216.407,29
+
+TOTAL ASSETS
+
+113.982.077,95
+
+59.294.925,66
+
+54.687.152,29
+
+Other
+Cash and cash equivalents
+
+3.1.2.3
+
+Page 9 of 48
+
+Frontex – Final Accounts 2016
+
+C.
+
+D.
+
+NET ASSETS
+
+2016
+
+2015
+
+Accumulated surplus/deficit
+
+19.396.976,55
+
+16.248.444,96
+
+3.148.531,59
+
+Economic result of the year
+
+15.955.565,18
+
+3.148.531,59
+
+12.807.033,59
+
+TOTAL NET ASSETS
+
+35.352.541,73
+
+19.396.976,55
+
+15.955.565,18
+
+CURRENT LIABILITIES
+Provisions for risks and charges
+
+3.1.3.1
+
+66.864,44
+
+14.600,00
+
+52.264,44
+
+Accounts payables
+
+3.1.3.2
+
+78.562.671,78
+
+39.883.349,11
+
+38.679.322,67
+
+Current payables
+
+21.708.421,24
+
+9.859.263,42
+
+11.849.157,82
+
+Sundry payables
+
+36.433,49
+
+99.550,91
+
+-63.117,42
+
+Other
+
+56.817.817,05
+
+29.924.534,78
+
+26.893.282,27
+
+Accrued charges
+
+44.604.299,01
+
+26.717.596,28
+
+17.886.702,73
+
+Accounts payable with consolidated EC entities
+
+12.213.518,04
+
+3.206.938,50
+
+9.006.579,54
+
+78.629.536,22
+
+39.897.949,11
+
+38.731.587,11
+
+113.982.077,95
+
+59.294.925,66
+
+54.687.152,29
+
+TOTAL CURRENT LIABILITIES
+TOTAL LIABILITIES
+
+Page 10 of 48
+
+Frontex – Final Accounts 2016
+
+2.2. Statement of Financial Performance
+
+Note
+Operating revenue:
+
+2016
+
+2015
+
+3.2.1
+
+Revenues from administrative operations
+
+682.931,60
+
+1.683.577,08
+
+Other
+
+227.906.362,75
+
+138.698.625,19
+
+Operating Revenue total
+
+228.589.294,35
+
+140.382.202,27
+
+-46.655.367,65
+
+-37.389.749,86
+
+-18.713.586,84
+
+-16.389.160,42
+
+Fixed asset related expenses
+
+-2.983.691,12
+
+-3.767.467,43
+
+Other administrative expenses
+
+-24.958.089,69
+
+-17.233.122,01
+
+Operating expenses:
+
+3.2.2
+
+Administrative expenses:
+Staff expenses
+
+165.977.525,58
+165.977.525,58
+
+Operating expenses:
+Other operating expenses
+
+-99.841.863,75
+-99.841.863,75
+
+212.632.893,23
+
+137.231.613,61
+
+15.956.401,12
+
+3.150.588,66
+
+-835,94
+
+-2.057,07
+
+-835,94
+
+-2.057,07
+
+Surplus/(deficit) from ordinary activities
+
+15.955.565,18
+
+3.148.531,59
+
+Economic result for the year
+
+15.955.565,18
+
+3.148.531,59
+
+Operating expenses total
+
+Surplus/(deficit) from operating activities
+
+Financial operations expenses
+Surplus/(deficit) from non-operating activities
+
+3.2.3
+
+Page 11 of 48
+
+Frontex – Final Accounts 2016
+
+2.3. Cash Flow
+(Indirect method)
+
+2016
+Surplus/(deficit) from ordinary activities
+
+2015
+
+15.955.565,18
+
+3.148.531,59
+
+1.595.281,35
+1.378.793,11
+52.264,44
+
+2.012.433,97
+1.074.192,42
+-5.560,00
+
+-8.986.908,06
+0,00
+-46.255.174,43
+
+-1.765.856,14
+0,00
+-35.314.116,12
+
+Increase/(decrease) in Accounts payable
+
+38.679.322,67
+
+15.892.636,05
+
+Net Cash Flow from operating activities
+
+2.419.144,26
+
+-14.957.738,23
+
+-2.444.819,46
+
+-3.590.994,07
+
+-2.444.819,46
+
+-3.590.994,07
+
+-25.675,20
+43.836,86
+18.161,66
+
+-18.548.732,30
+18.592.569,16
+43.836,86
+
+Operating activities
+Amortization (intangible fixed assets)
+Depreciation (tangible fixed assets)
+Increase/(decrease) in Provisions for risks and liabilities
+(Increase)/decrease in Short term Pre-financing
+(Increase)/decrease in Long term Receivables
+(Increase)/decrease in Short term Receivables
+
+Investing activities
+Purchase of tangible and intangible fixed assets (-)
+Proceeds from tangible and intangible fixed assets (+)
+Net cash flow from investing activities
+Net increase/(decrease) in cash and cash equivalents
+Cash and cash equivalents at the beginning of the period
+Cash and cash equivalents at the end of the period
+
+Page 12 of 48
+
+Frontex – Final Accounts 2016
+
+2.4. Statement of Changes in Net Assets
+
+Reserves
+Net assets
+
+Fair value
+reserve
+
+Other
+reserves
+
+Accumulated
+Surplus / Deficit
+
+Balance as of 31 December
+2015
+
+0,00
+
+0,00
+
+16.248.444,96
+
+Allocation of the economic result
+of previous year
+
+0,00
+
+0,00
+
+3.148.531,59
+
+Economic result of the year 2016
+
+0,00
+
+0,00
+
+Balance as of 31 December
+2016
+
+0,00
+
+0,00
+
+19.396.976,55
+
+Economic
+result of the
+year
+
+3.148.531,59
+
+Capital (total)
+
+19.396.976,55
+
+-3.148.531,59
+
+0,00
+
+15.955.565,18
+
+15.955.565,18
+
+15.955.565,18
+
+35.352.541,73
+
+Page 13 of 48
+
+Frontex – Final Accounts 2016
+
+3. ANNEX TO FINANCIAL STATEMENTS
+3.1. Notes to the Balance Sheet
+3.1.1. Non current assets
+Assets are resources controlled by Frontex as a result of past events and from which future economic
+benefits or service potential are expected to flow to the entity.
+Fixed assets are assets with an acquisition price value above 420.00 euro and are expected to be used
+during more than one year. Assets, which do not fall under the above described criteria, have been
+charged against expenses and are reflected in the Statement of Financial Performance. Repairs and
+maintenance are recognised as running expenses during the financial period in which they are incurred.
+The assets were valued in the financial statements at their purchase price minus depreciations, in order
+to give a fair view of Frontex assets.
+Depreciation is the systematic allocation of the depreciable amount of an asset over its useful life. The
+depreciation method chosen is the straight-line method. Frontex fixed assets are depreciated on a
+monthly basis. The depreciation rates are the coefficients used at the European Commission. The applied
+depreciation annual percentage rates per asset types are as follows:
+
+Intangible fixed assets:
+Computer software
+
+25.0%
+
+Tangible fixed assets:
+Specific equipment
+Transport equipment
+Computers, servers, printers etc.
+Telecommunications and audio-visual equipment
+Security, safety and protective equipment
+Equipment for kitchen
+Office furniture
+
+25.0%
+25.0%
+25.0%
+25.0%
+12.5%
+12.5%
+10.0%
+
+Page 14 of 48
+
+Frontex – Final Accounts 2016
+
+3.1.1.1. Intangible fixed assets
+
+Computer
+Software
+
+Other
+Intangible
+fixed
+assets
+
+Intangible
+assets
+under
+construction
+
+Total
+
+Gross carrying amounts 01.01.2016
+
+9.341.931,41
+
+20.130,76
+
+0,00
+
+9.362.062,17
+
+Additions
+
+1.075.920,35
+
+0,00
+
+0,00
+
+1.075.920,35
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+-500.713,00
+
+0,00
+
+0,00
+
+-500.713,00
+
+9.917.138,76
+
+20.130,76
+
+0,00
+
+9.937.269,52
+
+Accumulated amortization and
+impairment 01.01.2016
+
+-6.008.425,41
+
+-20.130,76
+
+0,00
+
+-6.028.556,17
+
+Amortization
+
+-1.595.281,35
+
+0,00
+
+0,00
+
+-1.595.281,35
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+-7.603.706,76
+
+-20.130,76
+
+0,00
+
+-7.623.837,52
+
+2.313.432,00
+
+0,00
+
+0,00
+
+2.313.432,00
+
+Transfer between headings
+other changes
+Gross carrying amounts 31.12.2016
+
+Transfer between headings
+Accumulated amortization and
+impairment 31.12.2016
+Net carrying amounts 31.12.2016
+
+Intangible assets are identifiable non-monetary assets without physical substance.
+Frontex intangible fixed assets consist mainly of computer software and intangible assets under
+construction. At 31.12.2016, the Agency had various projects of different scope and nature ongoing, the
+costs of which were capitalised in case they reached the internal threshold for capitalisation.
+
+Page 15 of 48
+
+Frontex – Final Accounts 2016
+
+3.1.1.2. Tangible fixed assets
+
+Plant and
+Equipment
+
+Computer
+hardware
+
+Furniture and
+vehicles
+
+197.451,80
+
+10.705.143,58
+
+1.190.339,48
+
+2.314.842,62
+
+14.407.777,48
+
+Additions
+
+85.332,40
+
+1.509.326,79
+
+103.864,85
+
+171.088,07
+
+1.869.612,11
+
+Write offs
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Transfer between headings
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+282.784,20
+
+12.214.470,37
+
+1.294.204,33
+
+2.485.930,69
+
+16.277.389,59
+
+-154.716,80
+
+-8.603.686,58
+
+-394.812,48
+
+-1.806.210,62
+
+-10.959.426,48
+
+Gross carrying amounts
+01.01.2016
+
+Gross carrying amounts
+31.12.2016
+Accumulated amortization and
+impairment 01.01.2016
+Depreciation
+
+Other Fixtures
+and Fittings
+
+Total
+
+-19.227,40
+
+-982.804,79
+
+-138.879,85
+
+-237.881,07
+
+-1.378.793,11
+
+Write-back of depreciation
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Transfer between headings
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Other changes
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+-173.944,20
+
+-9.586.491,37
+
+-533.692,33
+
+-2.044.091,69
+
+-12.338.219,59
+
+108.840,00
+
+2.627.979,00
+
+760.512,00
+
+441.839,00
+
+3.939.170,00
+
+Accumulated amortization and
+impairment 31.12.2016
+Net carrying amounts
+31.12.2016
+
+Tangible fixed assets are assets that are held by Frontex for use in the production or supply of goods or
+services, for rental to others, or for administrative purposes; and are expected to be used during more
+than one reporting period.
+Frontex tangible fixed assets consist of office furniture, printing and mailing equipment, transport
+vehicles, computers, servers and accessories, printers, copying equipment, audiovisual equipment,
+security equipment and other electronic office equipment.
+
+3.1.1.3 Financial assets
+Frontex has as financial assets its receivables and current bank accounts. Receivables arise when Frontex
+provides money, goods or services directly to a debtor with no intention of trading the receivable. They
+are included in current assets, except for maturities more than 12 months of the balance sheet date.
+3.1.1.3. Long-term receivables
+There are no amounts to be received after the end of the following financial year.
+
+Page 16 of 48
+
+Frontex – Final Accounts 2016
+
+3.1.2. Current assets
+3.1.2.1. Short-term pre-financing
+Pre-financing (PF) is a payment intended to provide the beneficiary with a float, i.e. cash advance. It
+may be split into a number of payments over a period defined in the particular pre-financing agreement.
+The float or advance shall be used for the purpose for which it was provided during the period defined
+in the agreement. If the beneficiary does not incur eligible expenditures, he has the obligation to return
+the pre-financing advance to Frontex.
+The amount of the pre-financing is reduced (wholly or partially) by the acceptance of eligible costs and
+amounts returned, and this amount is recognised as an expense.
+The short-term pre-financing balance amounts to 10.865.061,64 Euro. It consists of the following items:
+
+
+
+37.937.002,69 Euro pre-financing payments made to beneficiaries in relation to Frontex grant
+agreements and other forms of operational pre-financing, and 106.226,91 Euro administrative
+pre-financing payments;
+(27.178.167,96) Euro estimated eligible amounts not yet cleared at year-end but deducted from
+pre-financing payments made to beneficiaries.
+
+Analysis of Pre-Financing:
+A.) Operational PF
+
+37.937.002,69
+
+Out of the 37.9 Mio operational PF, the distinction into 4
+categories was made as follows:
+1.) Grants
+PF paid
+Accruals on grants
+2.) Staff missions
+PF paid
+Accruals on staff missions
+3.) other operational
+PF paid
+accruals on other operational
+4.) EU Agencies / int. Organisations
+Accrual EUSC
+Accrual EASO
+Accrual international Organisations
+Accrual EMSA
+Accruals on operational PF
+B.) Administrative PF
+Accruals on administrative PF
+C.) Total Accrued charges on
+PF
+Open pre-financing as of 31.12.16
+
+22.271.635,98
+-21.832.117,91
+735.228,55
+-571.366,34
+941.847,74
+-675.794,21
+13.988.290,42
+-2.320.000,00
+-83.041,73
+-1.229.290,28
+-396.410,58
+-27.108.021,05
+106.226,91
+-70.146,91
+
+-27.178.167,96
+10.865.061,64
+
+Page 17 of 48
+
+Frontex – Final Accounts 2016
+
+3.1.2.2. Short-term receivables
+
+Balance as at 31.12.2016
+
+Receivables from:
+
+Total
+
+Doubtful
+amounts
+
+Amounts
+written off
+
+Balance as at 31.12.2015
+
+Net value
+
+Total
+
+Doubtful
+amounts
+
+Amounts
+written
+off
+
+Net value
+
+Current
+receivables:
+VAT
+Member States
+Customers
+Other
+
+2.673.532,13
+2.650.469,31
+1.013,69
+1.443,99
+20.605,14
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+2.673.532,13
+2.650.469,31
+1.013,69
+1.443,99
+20.605,14
+
+4.702.295,52
+4.670.038,13
+29.809,01
+866,03
+1.582,35
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+4.702.295,52
+4.670.038,13
+29.809,01
+866,03
+1.582,35
+
+Other receivables:
+
+1.287.681,95
+
+0,00
+
+0,00
+
+1.287.681,95
+
+7.676.595,25
+
+0,00
+
+0,00
+
+7.676.595,25
+
+Deferred charges
+Accrued income
+EFTA
+
+622.539,64
+312.596,73
+352.545,58
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+622.539,64
+312.596,73
+352.545,58
+
+400.201,13
+7.276.394,12
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+400.201,13
+7.276.394,12
+0,00
+
+92.885.038,57
+
+0,00
+
+0,00
+
+92.885.038,57
+
+38.212.187,45
+
+0,00
+
+0,00
+
+38.212.187,45
+
+137.313,41
+
+0,00
+
+0,00
+
+90.672,52
+
+0,00
+
+0,00
+
+90.672,52
+
+-167.361.769,43
+
+0,00
+
+0,00
+
+137.313,41
+167.361.769,43
+
+11.593.502,65
+
+0,00
+
+0,00
+
+11.593.502,65
+
+260.109.494,59
+
+0,00
+
+0,00
+
+260.109.494,59
+
+26.528.012,28
+
+0,00
+
+0,00
+
+26.528.012,28
+
+96.846.252,65
+
+0,00
+
+0,00
+
+96.846.252,65
+
+50.591.078,22
+
+0,00
+
+0,00
+
+50.591.078,22
+
+Sundry
+receivables:
+Staff
+Autom.liason acc.
+Manual liason
+acc.
+Total
+
+Page 18 of 48
+
+Frontex – Final Accounts 2016
+
+Receivables are carried at original invoice amount less write-down for impairment. A write-down for
+impairment of receivables is established when there is objective evidence that Frontex will not be able
+to collect all amounts due according to the original terms of receivables.
+Frontex receivables as at 31.12. 2016 comprise of following items:
+Current receivables 2.673.532,13 Euro:
+
+
+
+VAT to be recovered from Polish Taxation Authorities relating to invoices paid during year 2016.
+In accordance with taxation regulations, Frontex is entitled to VAT exempt purchases with value
+of greater than 500.00 PLN;
+Other receivables refer to amounts to be received from debtors.
+
+Other receivables 1.287.681,95 Euro:
+
+
+
+Deferred charges relate to prepaid expenses paid in 2016 but relate to year 2017 expenditure
+(newspapers subscriptions, insurance, rent etc);
+Accrued income of 312.596,73 includes 2016 income for which debit notes will be issued next
+year.
+
+Sundry receivables include various advance payments to staff that will be settled next year, and they
+include the “virtual” treasury position of the Agency as regards the Centralised Treasury with the
+European Commission:
+
+Centralised Treasury
+With the effective date of 19 Oct. 2015, Frontex had implemented the Centralised Treasury Management
+with the European Commission DG Budget.
+The Centralised Treasury Management by DG Budget includes, amongst others, the services of:
+-
+
+Bank execution of the payments
+Receipt of the European Commission subsidy and of other income
+Cash management
+Treasury
+
+As a consequence of the implementation of the Centralised Treasury Management, the Agency closed,
+with exception of the imprest accounts, its main bank accounts.
+The payments are now executed by DG Budget on behalf of Frontex and, at accounting level, they credit
+the intercompany liaison account. The intercompany liaison account is disclosed in the sundry receivables
+table above.
+The balance of the automatic and manual account replaces the balance of the main bank accounts and
+represents the “virtual” treasury position of the Agency which amounts at the end of the year to EUR
+92.885.038,57.
+
+Page 19 of 48
+
+Frontex – Final Accounts
+
+3.1.2.3. Cash and cash equivalents
+
+PLN
+
+Current accounts:
+Bank account PLN
+Bank account EUR
+
+0,00
+
+Imprest accounts:
+Bank account PLN
+Bank account EUR
+
+18.782,13
+
+Total
+
+18.782,13
+
+EUR
+
+Exchange
+rate
+
+Total EUR
+
+0,00
+
+4,4103
+1,0000
+
+0,00
+0,00
+
+13.902,96
+
+4,4103
+1,0000
+
+4.258,70
+13.902,96
+
+13.902,96
+
+18.161,66
+
+Cash and cash equivalents refer to the Agency’s funds held on bank accounts.
+As a consequence of the Agency’s implementation of the Central Treasury with the European
+Commission, Frontex had closed its main bank accounts hold with private banks. The balance of the
+automatic and manual liaison account represents the net virtual cash position with the European
+Commission disclosed among sundry receivables, as above.
+Thus the Agency only hold a small amount of actual cash for the purpose of the imprest accounts,
+one bank account in Polish Zlotys and one bank account in EUR.
+
+Page 20 of 48
+
+Frontex – Final Accounts
+
+3.1.3. Current liabilities
+3.1.3.1. Provisions for risks and charges
+A provision is a liability of uncertain timing or amount. Provisions can be distinguished from other
+liabilities such as payables and accruals because there is uncertainty about the timing or amount of
+the future expenditure required in settlement.
+The financial statements include estimates for legal costs with a financial impact of 66.864,44 Euro.
+3.1.3.2. Accounts payables
+Balance as at
+31.12.2016
+
+Balance as at
+31.12.2015
+
+Current payables:
+
+21.708.421,24
+
+9.859.263,42
+
+Member States
+Vendors
+Other payables from public bodies
+Third States
+EFTA
+
+17.409.934,12
+1.151.982,78
+54.439,28
+498.307,45
+2.593.757,61
+
+9.307.411,07
+404.368,05
+65.512,28
+46.273,60
+35.698,42
+
+36.433,49
+
+99.550,91
+
+Other payables:
+
+56.817.817,05
+
+29.924.534,78
+
+Accrued charges and deferred income
+
+44.152.258,57
+
+26.479.840,45
+
+Accounts payable with
+consolidated EC entities
+Untaken holiday leave
+
+12.213.518,04
+452.040,44
+
+3.206.938,50
+237.755,83
+
+Total
+
+78.562.671,78
+
+39.883.349,11
+
+Sundry payables:
+
+Payables are amounts due to a creditor, including transactions arising from the purchase of goods
+and services. Frontex accounts payable are stated at the amount they are to be paid within one year.
+Current payables of 21.708.421,24 Euro consist of amounts owed by Frontex at the end of the
+reporting period for invoices, claims and requests for reimbursement that have been received in 2016
+but remained unpaid at year end.
+Sundry payables of 36.433,49 Euro comprise of amounts to be received for goods delivered in 2016.
+Accrued charges 44.152.258,57 Euro represent estimate of liabilities that are not supported by
+invoices or cost claims or expense summaries at the end of the reporting period. Accrued charges
+have been estimated on the basis of accounting information provided by authorising officers and
+authorising officers by delegation.
+The amount of 452.040,44 Euro refers to the Agency staff untaken holidays as at 31.12.2016, i.e.
+holiday days carried over to next year.
+By the end of 2016, the Agency had received the amount of 15.721.000 EUR under the Delegation
+Agreement with the European Union, represented by the European Commission (DG GROW) on the
+implementation of border surveillance components (COPERNICUS).
+
+Page 21 of 48
+
+Frontex – Final Accounts
+
+The Commission had entrusted budget implementation tasks to the Agency in accordance with the
+‘Copernicus Regulation’. Discharge in respect of the delegated funds is given to the Commission (not
+to the agency).
+Transactions relating to the delegation agreement are booked in the agency’s general accounts and
+included in its financial statements. The funds, received by the agency from the Commission through
+delegation agreements, fulfil the definition of a liability in the sense of EC accounting rule 2.
+The agency consequently books the pre-financings received from the Delegation Agreement in its
+general accounts. Excluding these transactions from the agencies accounts would mean the financial
+statements would not reflect a true and fair view.
+Pre-financing received in total reached the amount of 236,578,872 EUR and is composed of:
+218.686.000,00
+2.171.872,00
+15.721.000,00
+236.578.872,00
+
+Balancing Subsidy
+Grant for pillar assessed organisations
+COPERNICUS Delegation Agreement
+
+DG HOME
+DG NEAR
+DG GROW
+
+3.2. Notes to the Statement of Financial Performance
+3.2.1. Operating revenue
+
+2016
+Operating revenues:
+EC (Subsidy)
+Switzerland contribution
+Norway contribution
+UK contribution
+Exchange rate gains
+Iceland contribution
+Ireland contribution
+Liechtenstein contribution
+Other operating revenue
+Fixed assets related revenue
+
+211.741.766,02
+9.878.000,00
+5.645.000,00
+0,00
+565.420,79
+236.000,00
+0,00
+93.000,00
+341.973,54
+88.134,00
+
+Total
+
+228.589.294,35
+
+In accordance with the principle of accrual-based accounting, the financial statements shall show
+the income for the financial year, i.e. when they were recognised, regardless of the date of
+collection.
+Frontex revenue consists mainly of non-exchange transactions. In a non-exchange transaction, an
+entity either receives value from another entity without directly giving approximately equal value in
+exchange, or gives value to another entity without directly receiving approximately equal value in
+exchange.
+
+Page 22 of 48
+
+Frontex – Final Accounts
+
+As mentioned above under 3.1.3.2, the Agency had received by the end of 2016 the amount of
+15.721.000 EUR from the European Commission under the Delegation Agreement COPERNICUS. Out
+of this amount, the Agency had generated accrued income of 4,841,130.70 EUR by the execution of
+entrusted implementation tasks.
+According to Article 1(1) of Management Board Decision 3/2016 on the practical arrangements for
+participation in and financial contribution to Frontex activities by the United Kingdom and Ireland,
+the UK and Ireland cover their respective costs for participation in Frontex activities. This is
+considered as their financial contribution to the activity.
+Other operating revenue takes into account reimbursements of expenses.
+
+Page 23 of 48
+
+Frontex – Final Accounts
+
+3.2.2. Operating expenses
+2016
+Administrative Expenses:
+
+46.655.367,65
+
+Staff expenses
+
+18.713.586,84
+
+Fixed Assets Expenses
+Other Administrative Expenses:
+
+2.983.691,12
+24.958.089,69
+
+Experts and meetings
+
+4.553.523,57
+
+Office premises rent and maintenance
+
+4.791.312,87
+
+ICT supportive services
+
+4.578.228,86
+
+Other goods and services
+
+8.816.230,95
+
+Office Supplies and maintenance
+
+671.498,98
+
+Communications and publications
+
+613.718,13
+
+Missions
+
+527.623,13
+
+Training costs
+Recruitment costs
+Publicity and Legal Expenses
+
+97.348,21
+210.565,55
+98.039,44
+
+Operational Expenses:
+
+165.977.525,58
+
+Operational expenses
+
+165.348.650,46
+
+Exchange rate losses
+
+628.875,12
+
+Operating expenses total
+
+212.632.893,23
+
+In accordance with the principle of accrual-based accounting, the financial statements shall show
+the charges for the financial year, i.e. when they were recognised, regardless of the date of payment.
+Administrative expenses in the total amount of 46.655.367,65 Euro relate to the Agency’s
+administrative activities (budget titles 1: Staff and 2: Other administrative expenditure).
+Staff expenses include Frontex staff related costs (basic salaries, allowances, contract agents, family
+allowances, insurance, social contributions etc.) covered by the Conditions of Employment of Other
+Servants of the European Communities.
+Fixed assets expenses reflect depreciation charges for the year and net value of assets written off in
+2016.
+Administrative expenses consist of other expenses incurred from Frontex daily activities, such as rent
+of premises, Seconded National Experts’ allowances, meetings organizing expenses, office supplies
+etc.
+
+Page 24 of 48
+
+Frontex – Final Accounts
+
+Operational expenses equalling to 165.977.525,58 Euro relate to Frontex operational activities
+(budget title 3: Operational activities, and budget title 4: Earmarked expenditure).
+As mentioned above under 3.1.3.2, the Agency had received by the end of 2016 the amount of
+15.721.000 EUR from the European Commission under the Delegation Agreement COPERNICUS. Out
+of this amount, the Agency had total costs of the year in amount of 4,841,130.70 EUR by the execution
+of entrusted implementation tasks:
+Operational Expenses:
+Copernicus:
+
+165.977.525,58
+4.841.130,70
+
+3.2.3. Staff expenses
+
+The salary calculations giving the total staff expenses included in the Statement of financial
+performance of Frontex are externalized to the Office for administration and payment of individual
+entitlements (also known as the Paymaster's Office-PMO), based on the Service Level Agreement
+between Frontex and PMO.
+Frontex is responsible for the communication to the PMO of the necessary information allowing the
+determination of rights and calculation of the staff costs.
+[ Further information about the Paymaster's Office-PMO may be available by the official website of
+the European Commission. Information about audits carried out by the European Court of Auditors
+on the PMO may be obtained by the official website of the European Court of Auditors. ]
+
+3.2.4. Financial expenses
+
+Financial expenses totalling to 835.94 Euro relate to paid bank fees and to late payment interests to
+vendors.
+
+3.2.5. Economic result for the year
+The economic result for the year is a surplus of 13.405.892,33 Euro. In the previous year, the
+economic result was a surplus of 3.148.531,59 Euro. This gives a total variation for both years of
+10.257.360,74 Euro.
+The main reason for this variation may be mainly explained by the increase in the Agency’s revenues
+by 88.207.092,08 Euro, whereas the expenses increased by 77.949.731,34 Euro.
+
+3.2.6. Cash Flow
+By the end of 2016, the Agency hold funds in cash and cash equivalents on bank accounts in the
+amount of 18.161,66 Euro.
+
+Page 25 of 48
+
+Frontex – Final Accounts
+
+At the beginning of the reporting period the cash amounted to 43.836,86 Euro which gives a decrease
+in cash and cash equivalents of 25.675,20 Euro.
+This significant low level of cash and cash equivalent hold by the Agency is due to the implementation
+of the Centralised Treasury with DG Budget, as a result of which the funds had to be reclassified as
+Receivables and not as Cash (see also above 3.1,2,2, and 3.1.2.3).
+
+Page 26 of 48
+
+Frontex – Final Accounts
+
+3.3. Off balance sheet items
+3.3.1. Contingent assets
+A contingent asset is a possible asset that arises from past events and of which the existence will be
+confirmed only by the occurrence or non-occurrence of one or more uncertain future events not
+wholly within the control of the Agency.
+As at 31.12.2016 Frontex had a guarantee in amount of 200.000 Euro.
+3.3.2. Contingent liabilities
+A contingent liability is a possible obligation that arises from past events and of which the existence
+will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events
+not wholly within the control of the Agency, or a present obligation that arises from past events but
+is not recognised because:
+
+
+
+It is not probable that an outflow of resources embodying economic benefits or service
+potential will be required to settle the obligation; or
+The amount of the obligation cannot be measured with sufficient reliability.
+
+Operating lease
+
+The total of future minimum lease payments under non-cancellable operating leases for each of the
+following periods is estimated:
+(i)
+Not later than one year: 5.145.619,55 EUR
+(ii)
+Later than one year and not later than five years: 10.291.239,10 EUR
+(iii)
+Later than five years: not applicable,
+according to EU Accounting Rule 8 Leases.
+
+Finance lease
+Frontex has not entered into finance lease contracts.
+
+Commitments for future funding
+RAL – Commitments against appropriations not yet consumed amount to 32.761.211,25 Euro (i.e. total
+RAL for budgetary commitments 89.261.027,73 Euro less cut-off expenses 56.499.816,48 Euro
+included in the economic outturn).
+
+Legal cases
+Frontex has ongoing litigation related to staff cases; legal fees have been provided for in the Provision
+for risks and charges in amount of 66.864,44 EUR.
+
+Page 27 of 48
+
+Frontex – Final Accounts
+
+3.4. Related parties
+By the end of the reporting period Frontex is managed by the Executive Director who also performs
+the duties of the Authorising Officer. However, in accordance with Frontex Financial Regulation
+Article 34, the Executive Director may delegate his powers of budget implementation to staff of the
+Agency covered by the Staff Regulations, in accordance with the conditions laid down by the financial
+rules, within the meaning of Article 185 of the general Financial Regulation, adopted by the
+Management Board.
+As at 31.12.2016 Frontex had in total
+1 Authorising Officer
+31 Authorising Officers by Delegation
+who were staff of the Agency covered by the Staff Regulations. No loans were provided to any staff.
+
+3.5. Events after the balance sheet date
+No material issues were reported to the Accounting Officer of the Agency that would require separate
+disclosure under this section.
+
+3.6. Economic result / prior period adjustment
+The economic result for the year 2016 is a surplus of 15.955.565,18 Euro, for the year 2015 it is a
+surplus of 3.148.531,59 EUR.
+Under-estimation of costs in 2015:
+For the financial year 2015, after submission of the final accounts to the budgetary authority, the
+European Court of Auditors made the observation that the financial statements 2015 contained an
+under-estimation of not yet finally invoiced costs on pre-financing:
+The Agency underestimated the cost incurred in 2015 but not yet finally invoiced for pre-financed
+services related to maritime surveillance by 1.723.336,62 million Euro.
+The disclosure of the nature and amount of this under-estimation is made according to European
+Commission Accounting Rule 14, para 5.2.
+
+3.7. Financial Instruments
+Financial instruments comprise cash, current receivables and recoverables, current payables,
+amounts due to and from consolidated entities. Financial instruments give rise to liquidity, credit,
+interest rate and foreign currency risks, information about which and how they are managed is set
+out below.
+The carrying amounts of financial instruments are as follows:
+
+Page 28 of 48
+
+Frontex – Final Accounts
+
+2016
+Financial assets
+Current
+receivables
+Other receivables
+Cash and deposits
+Total financial assets
+Financial
+liabilities
+Current payables
+Sundry payables
+Other payables
+
+2.673.532,13
+94.172.720,52
+18.161,66
+96.864.414,31
+
+21.708.421,24
+36.433,49
+56.817.817,05
+
+Total financial liabilities
+
+78.562.671,78
+
+Total net
+financial
+instruments
+
+18.301.742,53
+
+Liquidity risk
+Liquidity risk is the risk that arises from the difficulty of selling an asset; for example, the ris that a
+given security or asset cannot be traded quickly enough in the market to prevent a loss or meet an
+obligation.
+Liquidity risk arises from the ongoing financial obligations, including settlement of payables.
+Frontex manages liquidity risk by continually monitoring forecast and actual cash flows.
+The table below provides detail on the contractual maturity of all financial instruments and other
+assets and liabilities.
+Liquidity risk
+
+At 31 December 2016
+Payables with third parties
+Payables with consolidated
+entities
+Totals
+
+< 1 year
+
+1-5 years
+
+>5
+years
+
+Total
+
+21.744.854,73
+
+0,00
+
+0,00
+
+21.744.854,73
+
+12.213.518,04
+33.958.372,77
+
+0,00
+0,00
+
+0,00
+0,00
+
+12.213.518,04
+33.958.372,77
+
+Bank accounts opened in the name of Frontex / the balance of the liaison accounts may not be
+overdrawn.
+Treasury and payment operations are highly automated and rely on modern information systems.
+Specific procedures are applied to guarantee system security and to ensure segregation of duties in
+line with the Financial Regulation, the internal control standards, and audit principles.
+
+Page 29 of 48
+
+Frontex – Final Accounts
+
+Credit risk
+Credit risk is the risk of loss due to a debtor's/borrower's non-payment of a loan or other line of credit
+(either the principal or interest or both) or other failure to meet a contractual obligation. The default
+events include a delay in repayments, restructuring of borrower repayments and bankruptcy.
+Treasury resources are kept with commercial banks. The EU contribution is requested 4 times a year
+based on cash forecasts.
+The maximum exposure to credit risk is:
+Credit
+risk
+2016
+
+Availabl
+e
+for sale
+
+Counterpartie
+s with external
+credit rating
+
+Loans
+
+0,00
+
+Receivables
+with
+Member
+States
+
+Receivables with
+Third parties
+
+Receivables
+with
+consolidate
+d entities
+
+0,00
+
+Short
+term
+deposit
+s
+
+Cash and
+cash
+equivalent
+s
+
+0,00
+
+Prime and high grade
+Upper medium grade
+Lower medium grade
+
+18,161,66
+2,651.483,00
+
+Non-investment grade
+Unassigned
+
+Counterpartie
+s without
+external credit
+rating
+
+94.194.378,75
+
+390,90
+
+Debtors who never defaulted
+Debtors who defaulted in past
+
+Interest rate risk
+Interest rate risk is the possibility of a reduction in the value of a security, especially a bond, resulting
+from an increase in interest rates. In general, higher interest rates will lead to lower prices of fixed
+rate bonds, and vice versa.
+It is recognised that interest rates fluctuate. Frontex does not consider it to be material.
+Frontex treasury does not borrow any money; as a consequence it is not exposed to interest rate risk.
+
+Fair value
+The estimated fair values of all financial instruments of Frontex are equal/approximate to their book
+values as at the end of the reporting period. All financial assets and liabilities are receivable or
+repayable on demand or within one year.
+
+Page 30 of 48
+
+Frontex – Final Accounts 2016
+
+4. REPORTS ON IMPLEMENTATION OF THE BUDGET 2016
+4.1. Budgetary principles
+In Accordance with Frontex Financial Regulation Title II, the establishment and implementation of
+the budget of the Agency shall comply with the following principles:
+a) Principles of unity and budget accuracy
+This principle means that no revenue shall be collected and no expenditure effected unless booked
+to a line in the Agency’s budget.
+An appropriation must not be entered in the budget if it is not for an item of expenditure considered
+necessary.
+No expenditure may be committed or authorised in excess of the appropriations authorised by the
+budget.
+b) Principle of annuality
+The appropriations entered in the budget shall be authorised for one financial year which shall run
+from 1 January to 31 December.
+c) Principle of equilibrium
+This means that the budget revenue and payment appropriations must be in balance.
+d) Principle of unit of account
+The budget shall be drawn up and implemented in euro and the accounts shall be presented in euro.
+e) Principle of universality
+Total revenue shall cover total payment appropriations and all revenue and expenditure shall be
+entered in full without any adjustment against each other.
+f) Principle of specification
+The appropriations in their entirety shall be earmarked for specific purposes by title and chapter;
+the chapters shall be further subdivided into articles and items.
+g) Principle of sound financial management
+Budget appropriations shall be used in accordance with the principle of sound financial management
+– in accordance with the principles of economy, efficiency and effectiveness.
+h) Principle of transparency
+The budget is established and implemented and the accounts presented in compliance with the
+principle of transparency - the budget and amending budgets are published in the Official Journal of
+the European Communities.
+
+Page 31 of 48
+
+Frontex – Final Accounts 2016
+
+4.2. Statement of Comparison of Budget and Actual Amounts 2016
+REVENUE
+
+`
+Budget
+item
+
+9000 Subsidy from the Community
+Contributions from the Schengen Associated
+9010 Countries
+9100 Other revenue
+9401 Earmarked Revenue
+Total
+
+Original budget
+
+Budget
+amendments
+
+Final budget
+
+Entitlements
+established
+
+Cashed
+
+Difference Final- Receipts as % of
+Actual
+budget
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)=(3)-(5)
+
+(7)=(5)/(3)
+
+(8)=(4)-(5)
+
+238,686,000.00
+
+-20,000,000.00
+
+218,686,000.00
+
+218,686,000.00
+
+218,686,000.00
+
+0.00
+
+100.00%
+
+0.00
+
+15,249,000.00
+
+-1,278,000.00
+
+13,971,000.00
+
+15,852,000.00
+
+15,852,000.00
+
+-1,881,000.00
+
+113.46%
+
+0.00
+
+100,000.00
+
+0.00
+
+100,000.00
+
+2,630,852.10
+
+2,255,963.27
+
+-2,155,963.27
+
+-
+
+374,888.83
+
+p.m.
+
+p.m.
+
+p.m.
+
+14,892,872.00
+
+14,892,872.00
+
+-14,892,872.00
+
+-
+
+0.00
+
+254,035,000.00
+
+-21,278,000.00
+
+232,757,000.00
+
+252,061,724.10
+
+251,686,835.27
+
+-18,929,835.27
+
+Outstanding
+
+374,888.83
+
+EXPENDITURE
+
+Assigned
+
+Carried over
+
+2016 budget
+
+revenue
+
+from 2015
+
+budget
+
+Actual
+
+2016
+
+Not used
+
+(1)
+
+(2)
+
+(3)
+
+(4)=(1)+(2)+(3)
+
+(5)
+
+(6)=(5)/(4)
+
+(7)=(4)-(5)
+
+(8)
+
+(9)=(4)-(5)-(8)
+
+1 Staff
+
+25.965.000,00
+
+14.668,30
+
+145.739,52
+
+26.125.407,82
+
+23.632.968,54
+
+90,46%
+
+2.492.439,28
+
+429.684,00
+
+2.062.755,28
+
+2 Administration
+
+15.570.000,00
+
+45.755,36
+
+3.207.065,44
+
+18.822.820,80
+
+11.795.178,06
+
+62,66%
+
+7.027.642,74
+
+6.405.342,00
+
+622.300,74
+
+3 Operating expenditure
+
+191.222.000,00
+
+2.300.215,96
+
+40.490.357,48
+
+234.012.573,44
+
+155.580.731,43
+
+66,48%
+
+78.431.842,01
+
+67.278.525,00
+
+11.153.317,01
+
+4 Earmarked expenditure
+
+p.m.
+
+p.m.
+
+p.m.
+
+21.181.426,00
+
+8.195.994,00
+
+38,69%
+
+12.985.432,00
+
+12.985.432,00
+
+0,00
+
+232.757.000,00
+
+2.360.639,62
+
+43.843.162,44
+
+300.142.228,06
+
+199.204.872,03
+
+66,37%
+
+100.937.356,03
+
+87.098.983,00
+
+13.838.373,03
+
+Budget title
+
+Total
+
+% of total Difference Total- Carried over to
+Total budget Payments made
+
+Page 32 of 48
+
+Frontex – Final Accounts 2016
+
+Summary of key points
+The originally adopted budget of EUR 254.0m was amended twice, resulting in the final budget of EUR 232.8m.
+Regular budget (C1):
+
+
+Commitment level at 98% (EUR 227.9m out of EUR 232.8m budgeted);
+
+
+
+Payment level at 66% (EUR 153.8m out of EUR 232.8m budgeted);
+
+
+
+EUR 4.9m cancelled;
+
+
+
+Funds to be carried forward from 2016 to 2017 amount to EUR 74.1m (=32%);
+
+Automatic carry forward (C8):
+
+
+Payments: out of EUR 43.8m carried forward, EUR 37.1m were paid (=85%);
+
+
+
+EUR 6.7m cancelled;
+
+Internally assigned revenue C4 and C5 (funds collected from Recovery Orders): for C4 funds 14% were committed; C5
+funds 74% was committed and 69% was paid, however those amounts are not material.
+The overall budget utilization rate for 2015 appropriations reached 95.3% [(C1) 2015 + (C8) 2016)].
+The table below gives the budget implementation figures and percentages for 2016 together with 2015 figures for
+comparison.
+2016
+
+2015
+
+Commitment of Regular budget (C1)
+
+€227,9
+
+98%
+
+€143,1
+
+100%
+
+Payment of Regular budget (C1)
+
+€153,8
+
+66%
+
+€99,5
+
+69%
+
+€37,1
+
+85%
+
+€23,6
+
+84%
+
+Payment of Automatic carry-overs (C8)
+
+Frontex issued 1741 grants in 2016 for a total amount of EUR 169.9m. Final payments were made to 1140 grants
+during 2016. On average the utilisation rate of the grants finalised is at 86%.
+
+Page 33 of 48
+
+Frontex – Final Accounts 2016
+
+4.3. Budgetary Outturn Account
+2016
+
+2015
+
+Revenue:
+Commission subsidy
+Other subsidy from Commission (Phare, IPA,…)
+Fee income
+Other income
+
+218.686.000,00
+14.892.872,00
+0,00
+18.107.963,27
+
+133.528.000,00
+3.707.157,50
+0,00
+9.381.458,03
+
+Total revenue
+
+251.686.835,27
+
+146.616.615,53
+
+Expenditure:
+Title I:Staff
+Payments
+Appropriations carried over
+
+-23.540.348,52
+-439.602,56
+
+-21.069.226,43
+-150.047,09
+
+-8.857.004,87
+-6.411.786,70
+
+-5.296.206,76
+-3.246.375,66
+
+Title II: Administrative Expenses
+Payments
+Appropriations carried over
+Title III: Operating Expenditure
+Payments
+Appropriations carried over
+
+129.725.608,31
+-82.409.638,47
+
+-74.127.364,28
+-46.839.969,84
+
+251.383.989,43
+
+150.729.190,06
+
+302.845,84
+
+-4.112.574,53
+
+6.492.085,14
+
+4.252.898,63
+
+6.665.160,93
+
+4.409.474,17
+
+-63.454,33
+
+64.379,05
+
+Balance of the Outturn Account for the financial
+year
+
+13.396.637,58
+
+4.614.177,32
+
+Balance year N-1
+
+-7.438.865,42
+
+-12.053.042,74
+
+0,00
+
+0,00
+
+5.957.772,16
+
+-7.438.865,42
+
+212.728.227,84
+
+133.528.000,00
+
+5.957.772,16
+
+0,00
+
+0,00
+
+0,00
+
+Total expenditure
+Outturn for the financial year
+Cancellation of unused payment appropriations
+carried over from previous year
+Adjustment for carry-over arising from assigned
+revenue
+Exchange differences for the year (gain +/loss -)
+
+Balance from year N-1 reimbursed to the
+Commission
+Final balance of the Outturn Account for the
+financial year
+Commission subsidy - agency registers accrued
+revenue and Commission accrued expense
+Pre-financing remaining open to be reimbursed by
+agency to Commission in year N+1
+Not included in the budget outturn:
+Interest received by 31/12/N on the Commission
+subsidy funds and to be reimbursed to the
+Commission (liability)
+
+Page 34 of 48
+
+Frontex – Final Accounts 2016
+
+4.4. Budget amendments and transfers
+
+Original budget
+
+Amending
+budget N1
+
+Amending
+budget N2
+
+Transfers
+
+Final budget
+
+(1)
+
+(2)
+
+(3)
+
+(5)
+
+(6)=(1)+(2)+(3)+(4)+(5)
+
+238,686,000.00
+
+0.00
+
+-20,000,000.00
+
+0.00
+
+218,686,000.00
+
+15,249,000.00
+
+0.00
+
+-1,278,000.00
+
+0.00
+
+13,971,000.00
+
+100,000.00
+
+0.00
+
+0.00
+
+0.00
+
+100,000.00
+
+p.m.
+
+p.m.
+
+p.m.
+
+0.00
+
+0.00
+
+254,035,000.00
+
+0.00
+
+-21,278,000.00
+
+0.00
+
+232,757,000.00
+
+Staff
+
+30,636,000.00
+
+0.00
+
+-1,278,000.00
+
+-3,393,000.00
+
+25,965,000.00
+
+Administration
+
+14,502,000.00
+
+0.00
+
+0.00
+
+1,068,000.00
+
+15,570,000.00
+
+208,897,000.00
+
+0.00
+
+-20,000,000.00
+
+2,325,000.00
+
+191,222,000.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+254,035,000.00
+
+0.00
+
+-21,278,000.00
+
+0.00
+
+232,757,000.00
+
+Budget title
+
+Revenue:
+Subsidy from the Community
+Contributions from the Schengen Associated Countries
+Other revenue
+Earmarked revenue
+Revenue total
+Expenditure:
+
+Operating expenditure
+Earmarked expenditure
+Expenditure total
+
+The originally adopted budget of EUR 254.0m was amended twice, resulting in the final budget of EUR 232.8m.
+The first amendment was proposed to the Management Board in October, following the entry into force of the
+European Border and Coast Guard Regulation. In order to implement its new and enhanced mandate it was assessed
+that the additional staff required should be recruited during the last quarter of 2016.
+A needs assessment for the 50 Temporary Agents posts was done and subsequently the allocation of those posts was
+proposed as well as for the Contract Agents and Seconded National Experts’ posts.
+Sufficient funds were still available in the Frontex budget 2016 to secure the payments of staff recruited for those
+posts, therefore the 2016 budget amendment N1 adopted by the Management Board on 19 October 2016 with the
+Decision no 32/2016 did not changed the initial financial allocations.
+The Management Board adopted the proposal for the second amendment on 18 November 2016 with the Decision no
+35/2016. In light of the very generous budget allocation in 2016, the revised forecast showed that the budget,
+although Frontex increased its activities and also achieved significant improvements compared with2015, could not
+be fully implemented due to political constraints, particularly with regard to return and readmission activities.
+Furthermore, not all recruitment procedures could be completed by year-end; this fact combined with the decrease
+in the salary weighting for Poland, led to savings in staff expenditure that could not be absorbed. The amendment
+resulted in reducing the regular appropriations from EUR 254.0m to EUR 232.8m.
+All transfers could be made on the authority of the Executive Director without prior approval of the Management
+Board.
+
+Page 35 of 48
+
+Frontex – Final Accounts 2016
+
+4.5. Reconciliation economic outturn versus budgetary outturn
+
+Economic result of the year
+Adjustment for accrual items (items not in the budgetary result but
+included in the economic result):
+Adjustments for Accrual Cut-off (reversal 31.12.2015)
+Adjustments for Accrual Cut-off (cut- off 31.12.2016 )
+Unpaid invoices at year end but booked in charges
+Depreciation of intangible and tangible assets
+Provisions
+Recovery Orders issued in 2016 in class 7 and not yet cashed
+Prefinancing given in previous year and cleared in the year
+Prefinancing received in previous year and cleared in the year
+Payments made from carry over of payment appropriations
+Deferred charges
+Adjustment for budgetary items (item included in the budgetary result but
+not in the economic result):
+Asset acquisitions (less unpaid amounts)
+New pre-financing paid in the year 2016 and remaining open as at 31.12.2016
+New pre-financing received in the year 2016 and remaining open as at 31.12.2016
+Budgetary recovery orders issued before 2016 and cashed in the year
+
+2016
+15.955.565,18
+97.788.496,13
+-57.586.630,14
+90.881.831,10
+0,00
+2.838.464,46
+66.864,44
+0,00
+25.056.828,86
+0,00
+37.153.677,05
+-622.539,64
+-100.344.340,67
+-2.444.819,46
+-36.719.150,59
+14.892.872,00
+30.539,04
+0,00
+
+Budgetary recovery orders issued in 2016 on balance sheet accounts (not 7 or 6) and cashed
+Payment appropriations carried over to 2017
+Cancellation of unused carried over payment approppriations from previous year
+Adjustment for carry-over from the previous year of appropriations available at 31.12 arising from assigned
+revenue
+Total
+Delta
+Budgetary result
+
+-89.261.027,73
+6.492.085,14
+6.665.160,93
+13.399.720,64
+3.083,06
+13.396.637,58
+
+Page 36 of 48
+
+Frontex – Final Accounts 2016
+
+4.6. Current year appropriations C1 – committed in 2016 and paid in 2016
+Commitments
+Budget item
+
+Payments
+
+Executed
+
+%
+
+Executed
+
+%
+
+Automatic
+Carry Over to
+2017
+
+(1)
+
+(2)
+
+(3)=(2)/(1)
+
+(4)
+
+(5)=(4)/(1)
+
+(6)
+
+(7)=(1)-(4)(6)
+
+10,504,000.00
+
+10,143,321.80
+
+96.57%
+
+10,143,321.80
+
+96.57%
+
+0.00
+
+360,678.20
+
+Appropriations
+
+Cancelled
+
+Title 1 Staff related expenditure
+
+1100
+
+Basic salaries
+
+1101
+
+Family allowances
+
+1,720,000.00
+
+1,706,775.41
+
+99.23%
+
+1,706,775.41
+
+99.23%
+
+0.00
+
+13,224.59
+
+1102
+
+Expatriation and foreign residence allowances
+
+1,910,000.00
+
+1,872,103.75
+
+98.02%
+
+1,872,103.75
+
+98.02%
+
+0.00
+
+37,896.25
+
+1111
+
+Contracted staff
+
+3,280,000.00
+
+3,050,958.42
+
+93.02%
+
+3,050,958.42
+
+93.02%
+
+0.00
+
+229,041.58
+
+1112
+
+Seconded National Experts
+
+4,500,000.00
+
+4,090,801.85
+
+90.91%
+
+4,090,801.85
+
+90.91%
+
+0.00
+
+409,198.15
+
+1130
+
+Insurance against sickness
+
+600,000.00
+
+521,082.44
+
+86.85%
+
+521,082.44
+
+86.85%
+
+0.00
+
+78,917.56
+
+1131
+
+Insurance against accidents and occupational disea
+
+90,000.00
+
+77,058.47
+
+85.62%
+
+77,058.47
+
+85.62%
+
+0.00
+
+12,941.53
+
+1132
+
+Insurance against unemployment
+
+250,000.00
+
+204,371.47
+
+81.75%
+
+204,371.47
+
+81.75%
+
+0.00
+
+45,628.53
+
+1140
+
+Childbirth and death allowances and grants
+
+15,000.00
+
+991.55
+
+6.61%
+
+991.55
+
+6.61%
+
+0.00
+
+14,008.45
+
+1141
+
+Travel expenses for annual leave
+
+230,000.00
+
+180,575.80
+
+78.51%
+
+180,575.80
+
+78.51%
+
+0.00
+
+49,424.20
+
+1142
+
+Stand-by duty allowance
+
+30,000.00
+
+15,039.30
+
+50.13%
+
+15,039.30
+
+50.13%
+
+0.00
+
+14,960.70
+
+1149
+
+Other allowances
+
+50,000.00
+
+8,979.39
+
+17.96%
+
+8,979.39
+
+17.96%
+
+0.00
+
+41,020.61
+
+1150
+
+Overtime
+
+30,000.00
+
+13,443.81
+
+44.81%
+
+13,443.81
+
+44.81%
+
+0.00
+
+16,556.19
+
+1180
+
+Travel expenses on taking up duties and at end of contract
+
+25,000.00
+
+14,445.46
+
+57.78%
+
+14,445.46
+
+57.78%
+
+0.00
+
+10,554.54
+
+1181
+
+Installation, resettlement and transfer allowances for TA
+
+180,000.00
+
+124,143.35
+
+68.97%
+
+124,143.35
+
+68.97%
+
+0.00
+
+55,856.65
+
+1182
+
+Removal expenses for temporary agents
+
+50,000.00
+
+44,969.00
+
+89.94%
+
+44,969.00
+
+89.94%
+
+0.00
+
+5,031.00
+
+1183
+
+Temporary daily subsistence allowances for TA
+
+210,000.00
+
+128,109.71
+
+61.00%
+
+128,109.71
+
+61.00%
+
+0.00
+
+81,890.29
+
+1184
+
+Temporary daily subsistence allowances: temporary
+
+20,000.00
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+20,000.00
+
+1200
+
+Translation and publication of notices
+
+50,000.00
+
+510.00
+
+1.02%
+
+510.00
+
+1.02%
+
+0.00
+
+49,490.00
+
+1201
+
+Travel and subsistence costs of applicants
+
+200,000.00
+
+193,000.00
+
+96.50%
+
+133,035.31
+
+66.52%
+
+59,964.69
+
+7,000.00
+
+Page 37 of 48
+
+Frontex – Final Accounts 2016
+Commitments
+Budget item
+
+Payments
+
+Executed
+
+%
+
+Executed
+
+%
+
+Automatic
+Carry Over to
+2017
+
+30,000.00
+
+30,000.00
+
+100.00%
+
+5,537.93
+
+18.46%
+
+24,462.07
+
+0.00
+
+Appropriations
+
+Cancelled
+
+1202
+
+Medical examinations
+
+1203
+
+Other recruitment costs
+
+6,000.00
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+6,000.00
+
+1300
+
+Administrative missions
+
+425,000.00
+
+425,000.00
+
+100.00%
+
+383,204.38
+
+90.17%
+
+41,795.62
+
+0.00
+
+1410
+
+Medical service
+
+60,000.00
+
+21,100.00
+
+35.17%
+
+6,882.96
+
+11.47%
+
+14,217.04
+
+38,900.00
+
+1430
+
+Other expenditure
+
+10,000.00
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+10,000.00
+
+1500
+
+Training and information of staff
+
+460,000.00
+
+351,173.42
+
+76.34%
+
+141,391.64
+
+30.74%
+
+209,781.78
+
+108,826.58
+
+1510
+
+Translation and interpretation services
+
+20,000.00
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+20,000.00
+
+1511
+
+Costs of organising stages
+
+270,000.00
+
+180,360.00
+
+66.80%
+
+174,600.00
+
+64.67%
+
+5,760.00
+
+89,640.00
+
+1512
+
+Supplementary clerical and interim services
+
+510,000.00
+
+372,143.38
+
+72.97%
+
+318,662.43
+
+62.48%
+
+53,480.95
+
+137,856.62
+
+1513
+
+Other external services including expenses for Commission
+
+210,000.00
+
+194,825.00
+
+92.77%
+
+174,603.61
+
+83.14%
+
+20,221.39
+
+15,175.00
+
+1600
+
+Special assistance grants
+
+20,000.00
+
+0.00
+
+0.00%
+
+0.00%
+
+0.00
+
+20,000.00
+
+25,965,000.00
+
+23,965,282.78
+
+92.30%
+
+23,535,599.24
+
+90.64%
+
+429,683.54
+
+1,999,717.22
+
+3,834,000.00
+
+3,832,460.21
+
+99.96%
+
+3,809,460.21
+
+99.36%
+
+23,000.00
+
+1,539.79
+
+13,500.00
+
+12,583.42
+
+93.21%
+
+12,583.42
+
+93.21%
+
+0.00
+
+916.58
+
+190,000.00
+
+180,915.96
+
+95.22%
+
+120,814.09
+
+63.59%
+
+60,101.87
+
+9,084.04
+
+1,110,000.00
+
+1,100,152.56
+
+99.11%
+
+993,664.56
+
+89.52%
+
+106,488.00
+
+9,847.44
+
+Total Title 1
+Title 2 Other Administrative Expenditure
+
+2000
+
+Rent
+
+2010
+
+Insurance
+
+2020
+
+Water gas electricity and heating
+
+2030
+
+Cleaning and maintenance
+
+2040
+
+Facility management related costs
+
+75,000.00
+
+74,873.68
+
+99.83%
+
+24,281.72
+
+32.38%
+
+50,591.96
+
+126.32
+
+2090
+
+Miscellaneous premises expenditure
+
+41,500.00
+
+41,407.09
+
+99.78%
+
+10,826.27
+
+26.09%
+
+30,580.82
+
+92.91
+
+2100
+
+Purchase of data processing equipment
+
+2,433,000.00
+
+2,429,393.15
+
+99.85%
+
+464,462.96
+
+19.09%
+
+1,964,930.19
+
+3,606.85
+
+2101
+
+Software
+
+815,000.00
+
+811,160.46
+
+99.53%
+
+612,119.81
+
+75.11%
+
+199,040.65
+
+3,839.54
+
+2102
+
+Maintenance and repair of data processing equipment
+
+1,041,000.00
+
+1,039,962.78
+
+99.90%
+
+391,353.36
+
+37.59%
+
+648,609.42
+
+1,037.22
+
+2103
+
+Consultancy and studies
+
+2,897,000.00
+
+2,870,504.33
+
+99.09%
+
+378,641.46
+
+13.07%
+
+2,491,862.87
+
+26,495.67
+
+2110
+
+Telecommunications subscriptions and charges
+
+350,000.00
+
+347,530.89
+
+99.29%
+
+271,718.87
+
+77.63%
+
+75,812.02
+
+2,469.11
+
+2111
+
+Purchase installation and maintenance of telecomm.
+
+56,000.00
+
+55,249.00
+
+98.66%
+
+48,386.05
+
+86.40%
+
+6,862.95
+
+751.00
+
+2210
+
+Furniture
+
+130,000.00
+
+129,568.36
+
+99.67%
+
+89,975.97
+
+69.21%
+
+39,592.39
+
+431.64
+
+2230
+
+Purchases and long-term lease of transport equipment
+
+47,000.00
+
+46,932.00
+
+99.86%
+
+45,838.91
+
+97.53%
+
+1,093.09
+
+68.00
+
+Page 38 of 48
+
+Frontex – Final Accounts 2016
+Commitments
+Budget item
+
+Payments
+
+Executed
+
+%
+
+Executed
+
+%
+
+Automatic
+Carry Over to
+2017
+
+Appropriations
+
+Cancelled
+
+2231
+
+Maintenance use and repair and other expenditures
+
+9,000.00
+
+8,346.45
+
+92.74%
+
+4,851.80
+
+53.91%
+
+3,494.65
+
+653.55
+
+2232
+
+Car insurance
+
+6,000.00
+
+2,991.16
+
+49.85%
+
+2,868.53
+
+47.81%
+
+122.63
+
+3,008.84
+
+2233
+
+Fuel
+
+10,000.00
+
+9,700.00
+
+97.00%
+
+8,574.84
+
+85.75%
+
+1,125.16
+
+300.00
+
+2250
+
+Documentation and library expenditure
+
+55,000.00
+
+49,683.29
+
+90.33%
+
+12,963.60
+
+23.57%
+
+36,719.69
+
+5,316.71
+
+2300
+
+Stationery and office supplies
+
+170,000.00
+
+169,827.06
+
+99.90%
+
+150,860.78
+
+88.74%
+
+18,966.28
+
+172.94
+
+2310
+
+Translation services
+
+370,000.00
+
+370,000.00
+
+100.00%
+
+369,975.70
+
+99.99%
+
+24.30
+
+0.00
+
+2311
+
+Petty expenditure
+
+90,000.00
+
+89,503.45
+
+99.45%
+
+78,458.02
+
+87.18%
+
+11,045.43
+
+496.55
+
+2313
+
+Health and safety at work
+
+100,000.00
+
+99,848.40
+
+99.85%
+
+20,557.26
+
+20.56%
+
+79,291.14
+
+151.60
+
+2320
+
+Bank charges
+
+1,000.00
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+1,000.00
+
+2330
+
+Legal expenses
+
+35,000.00
+
+35,000.00
+
+100.00%
+
+14,550.00
+
+41.57%
+
+20,450.00
+
+0.00
+
+2331
+
+Damages and compensation
+
+20,000.00
+
+8,800.00
+
+44.00%
+
+8,800.00
+
+44.00%
+
+0.00
+
+11,200.00
+
+2332
+
+LEGNET meetings
+
+35,000.00
+
+29,111.34
+
+83.18%
+
+13,954.47
+
+39.87%
+
+15,156.87
+
+5,888.66
+
+2333
+
+Missions legal team
+
+40,000.00
+
+20,460.54
+
+51.15%
+
+18,344.97
+
+45.86%
+
+2,115.57
+
+19,539.46
+
+2340
+
+Audit, Evaluation
+
+27,000.00
+
+27,000.00
+
+100.00%
+
+0.00
+
+0.00%
+
+27,000.00
+
+0.00
+
+2341
+
+Quality Management improvement activities
+
+104,000.00
+
+103,717.00
+
+99.73%
+
+51,858.50
+
+49.86%
+
+51,858.50
+
+283.00
+
+2350
+
+Security equipment
+
+70,000.00
+
+34,489.57
+
+49.27%
+
+4,689.48
+
+6.70%
+
+29,800.09
+
+35,510.43
+
+2351
+
+Security services
+
+25,000.00
+
+23,599.00
+
+94.40%
+
+2,767.35
+
+11.07%
+
+20,831.65
+
+1,401.00
+
+2352
+
+Uniforms and working clothes
+
+20,000.00
+
+17,505.00
+
+87.53%
+
+9,896.04
+
+49.48%
+
+7,608.96
+
+2,495.00
+
+2360
+
+Representation costs
+
+40,000.00
+
+38,365.48
+
+95.91%
+
+24,273.65
+
+60.68%
+
+14,091.83
+
+1,634.52
+
+2400
+
+Postal and delivery charges
+
+130,000.00
+
+119,000.00
+
+91.54%
+
+96,288.41
+
+74.07%
+
+22,711.59
+
+11,000.00
+
+2500
+
+Interpretation services and equipment
+
+130,000.00
+
+124,377.00
+
+95.67%
+
+93,377.00
+
+71.83%
+
+31,000.00
+
+5,623.00
+
+2501
+
+Travel and subsistence costs of delegates
+
+166,000.00
+
+160,000.00
+
+96.39%
+
+108,868.32
+
+65.58%
+
+51,131.68
+
+6,000.00
+
+2502
+
+Other expenditure
+
+85,000.00
+
+81,602.47
+
+96.00%
+
+48,186.74
+
+56.69%
+
+33,415.73
+
+3,397.53
+
+2510
+
+Other meetings and visits
+
+85,000.00
+
+74,020.01
+
+87.08%
+
+40,714.07
+
+47.90%
+
+33,305.94
+
+10,979.99
+
+2520
+
+Consultative Forum
+
+70,000.00
+
+67,269.93
+
+96.10%
+
+35,005.39
+
+50.01%
+
+32,264.54
+
+2,730.07
+
+2600
+
+Corporate Identity
+
+20,000.00
+
+16,779.25
+
+83.90%
+
+16,519.76
+
+82.60%
+
+259.49
+
+3,220.75
+
+2650
+
+Press Office activities
+
+85,000.00
+
+56,855.37
+
+66.89%
+
+38,855.03
+
+45.71%
+
+18,000.34
+
+28,144.63
+
+2651
+
+Press Office missions
+
+45,000.00
+
+45,000.00
+
+100.00%
+
+38,394.42
+
+85.32%
+
+6,605.58
+
+0.00
+
+Page 39 of 48
+
+Frontex – Final Accounts 2016
+Commitments
+Budget item
+
+Payments
+
+Executed
+
+%
+
+Executed
+
+%
+
+Automatic
+Carry Over to
+2017
+
+Appropriations
+
+Cancelled
+
+2660
+
+Communications activities
+
+324,000.00
+
+277,219.90
+
+85.56%
+
+177,444.33
+
+54.77%
+
+99,775.57
+
+46,780.10
+
+2661
+
+Communications missions
+
+20,000.00
+
+8,500.00
+
+42.50%
+
+5,702.88
+
+28.51%
+
+2,797.12
+
+11,500.00
+
+2662
+
+Communications publications
+
+150,000.00
+
+90,633.35
+
+60.42%
+
+54,828.35
+
+36.55%
+
+35,805.00
+
+59,366.65
+
+15,570,000.00
+
+15,231,898.91
+
+97.83%
+
+8,826,557.35
+
+56.69%
+
+6,405,341.56
+
+338,101.09
+
+Total Title 2
+Title 3 Operational Activities
+3000
+
+Operations and projects, land borders
+
+14,700,000.00
+
+14,699,179.59
+
+99.99%
+
+10,617,960.92
+
+72.23%
+
+4,081,218.67
+
+820.41
+
+3010
+
+Operations and projects, sea borders
+
+107,825,000.00
+
+107,825,000.00
+
+100.00%
+
+65,479,971.74
+
+60.73%
+
+42,345,028.26
+
+0.00
+
+3020
+
+Operations and projects, air borders
+
+3,152,000.00
+
+3,144,392.64
+
+99.76%
+
+2,714,543.36
+
+86.12%
+
+429,849.28
+
+7,607.36
+
+3100
+
+Risk analysis
+
+1,976,000.00
+
+1,929,463.03
+
+97.64%
+
+1,232,653.67
+
+62.38%
+
+696,809.36
+
+46,536.97
+
+3110
+
+Frontex Situation Center
+
+680,000.00
+
+679,912.03
+
+99.99%
+
+357,435.09
+
+52.56%
+
+322,476.94
+
+87.97
+
+3120
+
+EUROSUR
+
+11,732,000.00
+
+11,717,007.78
+
+99.87%
+
+7,147,568.21
+
+60.92%
+
+4,569,439.57
+
+14,992.22
+
+3200
+
+Training
+
+5,180,000.00
+
+4,427,500.64
+
+85.47%
+
+2,459,317.68
+
+47.48%
+
+1,968,182.96
+
+752,499.36
+
+3300
+
+Research and development
+
+1,600,000.00
+
+799,166.68
+
+49.95%
+
+464,906.40
+
+29.06%
+
+334,260.28
+
+800,833.32
+
+3400
+
+Pooled Resources network
+
+4,275,000.00
+
+3,534,727.58
+
+82.68%
+
+2,885,541.70
+
+67.50%
+
+649,185.88
+
+740,272.42
+
+3510
+
+IT services for Operational activities
+
+758,000.00
+
+756,547.80
+
+99.81%
+
+0.00
+
+0.00%
+
+756,547.80
+
+1,452.20
+
+3520
+
+European Day for Border Guards (ED4BG)
+
+420,000.00
+
+378,335.18
+
+90.08%
+
+370,612.38
+
+88.24%
+
+7,722.80
+
+41,664.82
+
+3620
+
+Missions-Fundamentals Rights Officer
+
+140,000.00
+
+136,115.37
+
+97.23%
+
+34,077.47
+
+24.34%
+
+102,037.90
+
+3,884.63
+
+3700
+
+Return Support
+
+38,529,000.00
+
+38,529,000.00
+
+100.00%
+
+27,524,298.01
+
+71.44%
+
+11,004,701.99
+
+0.00
+
+3800
+
+International and European cooperation
+
+255,000.00
+
+121,303.82
+
+47.57%
+
+110,240.66
+
+43.23%
+
+11,063.16
+
+133,696.18
+
+Total Title 3
+
+191,222,000.00
+
+188,677,652.14
+
+98.67%
+
+121,399,127.29
+
+63.49%
+
+67,278,524.85
+
+2,544,347.86
+
+Grand total
+
+232,757,000.00
+
+227,874,833.83
+
+97.90%
+
+153,761,283.88
+
+66.06%
+
+74,113,549.95
+
+4,882,166.17
+
+Page 40 of 48
+
+Frontex – Final Accounts 2016
+
+Figure 1.
+
+Regular budget (C1) cumulative trend comparison with 2015
+
+100%
+
+80%
+
+Payments 2016
+
+60%
+
+% of
+Budget
+
+Payments 2015
+
+40%
+
+Commitments 2016
+Commitments 2015
+
+20%
+
+0%
+Jan
+
+Feb
+
+Mar
+
+Budget in Euro (thousands)
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+2015: 143 300
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+2016: 232 757
+
+A significant increase of 77% was observed in Frontex budget 2016 compared with the budget of 2015. In terms of
+percentages, the 2016 level of commitments and payments, compared with 2015, was significantly higher in the first
+quarter whereas as of April the implementation levels slowed down to a steady increase without peaks.
+After the budget amendment reducing the regular appropriations from EUR 254.0m to EUR 232.8m an improved
+budget implementation could be observed in percentages in November and December 2016. However, the overall
+percentage level of commitments and payments implemented remained lower than the one observed for the same
+period last year, reaching 98% in commitments and 66% in payments, compared with 100% and 69% respectively in
+2015. Percentage wise slightly more funds are carried forward to the following year (32% compared with 31% in 2015),
+and 2% of the available appropriations needed to be cancelled.
+
+Page 41 of 48
+
+Frontex – Final Accounts 2016
+
+Figure 2.
+
+Co-financing of 2016 joint activities
+
+Sector
+(amounts in Euro)
+
+Specific decisions
+
+Pre financing
+
+Total final payments
+
+#
+
+Amount
+
+#
+
+Amount
+
+#
+
+Amount
+
+Land borders
+
+459
+
+14 191 875
+
+239
+
+3 752 918
+
+310
+
+7 536 701
+
+Sea borders
+
+574
+
+111 112 265
+
+330
+
+34 224 174
+
+333
+
+41 804 722
+
+Air borders
+
+224
+
+2 200 588
+
+107
+
+460 798
+
+160
+
+1 323 813
+
+Return support
+
+410
+
+41 358 093
+
+141
+
+6 361 775
+
+298
+
+25 570 203
+
+Situation center
+
+72
+
+873 381
+
+26
+
+175 175
+
+37
+
+355 988
+
+Pooled Resources
+
+1
+
+12 000
+
+0
+
+0
+
+1
+
+12 000
+
+Training unit
+
+1
+
+117 321
+
+0
+
+0
+
+1
+
+22 879
+
+1 741
+
+169 865 523
+
+843
+
+44 974 840
+
+1 140
+
+76 626 306
+
+4.7. Automatic carry over C2 – Non-automatic carry over
+
+Non-automatic carry-overs are appropriations that were not yet committed in 2015, but for which the procedures
+and/or negotiations had reached an advanced stage at year end. These appropriations have to be committed before
+31 March 2016 and paid before 31 December 2016.
+In the year 2016 no request for a non-automatic carry over was submitted.
+
+Page 42 of 48
+
+Frontex – Final Accounts 2016
+
+4.8. Automatic carry over C4 – internal assigned revenue
+Commitments
+Budget item
+
+Payments
+
+Carried Over to 2017
+
+Appropriations
+
+(1)
+
+Executed
+
+%
+
+Executed
+
+%
+
+(2)
+
+(3)=(2)/(1)
+
+(4)
+
+(5)=(4)/(1)
+
+Automatic Carry
+Over
+
+Carry over
+commitment
+appropriations
+
+(6)=(2)-(4)
+
+(7)=(1)-2
+
+2,591.05
+
+Title 1 Staff related expenditure
+1111
+
+Contract staff
+
+2,591.05
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+1112
+
+Seconded national experts
+
+4,479.81
+
+4,479.81
+
+100.00%
+
+441.71
+
+9.86%
+
+4,038.10
+
+0.00
+
+1300
+
+Administrative missions
+
+825.66
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+825.66
+
+1513
+
+Other external services
+
+Total Title 1
+
+2,464.21
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+2,464.21
+
+10,360.73
+
+4,479.81
+
+43.24%
+
+441.71
+
+4.26%
+
+4,038.10
+
+5,880.92
+
+1,542.14
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+1,542.14
+
+122.40
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+122.40
+
+4,780.60
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+4,780.60
+
+6,445.14
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+6,445.14
+
+Title 2 Other Administrative Expenditure
+2100
+
+Purchase of data processing equipment
+
+2333
+
+Missions legal team
+
+2500
+
+Interpretation services and equipment
+
+Total Title 2
+Title 3 Operational Activities
+3000
+
+Operations and pilot projects etc. land borders
+
+16,658.73
+
+16,658.73
+
+100.00%
+
+0.00
+
+0.00%
+
+16,658.73
+
+0.00
+
+3010
+
+Operations and pilot projects etc. sea borders
+
+432,689.44
+
+210,486.96
+
+48.65%
+
+62,430.44
+
+14.43%
+
+148,056.52
+
+222,202.48
+
+3020
+
+Operations and pilot projects etc. air borders
+
+6,392.32
+
+6,022.17
+
+94.21%
+
+4,818.88
+
+75.39%
+
+1,203.29
+
+370.15
+
+3100
+
+Risk analysis
+
+725.46
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+725.46
+
+3110
+
+FSC
+
+32,548.08
+
+32,050.78
+
+98.47%
+
+16,006.00
+
+49.18%
+
+16,044.78
+
+497.30
+
+3120
+
+EUROSUR
+
+1,742,749.44
+
+50,000.00
+
+2.87%
+
+5,802.62
+
+0.33%
+
+44,197.38
+
+1,692,749.44
+
+3200
+
+Training
+
+171.16
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+171.16
+
+3300
+
+Research and development
+
+718.47
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+718.47
+
+3400
+
+Pooled Resources network
+
+2,456.50
+
+1,916.50
+
+78.02%
+
+852.32
+
+34.70%
+
+1,064.18
+
+540.00
+
+3620
+
+Missions-Fundamentals Rights Officer
+
+430.18
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+430.18
+
+3700
+
+Return Support
+
+3,617.62
+
+3,617.62
+
+100.00%
+
+3,565.13
+
+98.55%
+
+52.49
+
+0.00
+
+Total Title 3
+
+2,239,157.40
+
+320,752.76
+
+14.32%
+
+93,475.39
+
+4.17%
+
+227,277.37
+
+1,918,404.64
+
+Grand total
+
+2,255,963.27
+
+325,232.57
+
+14.42%
+
+93,917.10
+
+4.16%
+
+231,315.47
+
+1,930,730.70
+
+Internal assigned revenue concerns funds recovered from third parties. These funds initially stem from the regular
+budget (C1) voted by the budgetary authority. Their reuse is not conditioned by specific contracts or agreements
+with third parties. The sums can be used in the same way as the voted appropriations without further restrictions.
+Recovery orders amounting to EUR 2.3m were issued in 2016.
+The amount EUR 2.2m that was not committed as of 31.12.2016 is available for commitments in 2016, i.e. carried
+over to Fund Source C5. The amount of EUR 231 316 are commitments made in 2016 and not paid as of 31.12.2016,
+therefore they are carried over to Fund Source C8.
+
+Page 43 of 48
+
+Frontex – Final Accounts 2016
+
+4.9. Automatic carry over C5 – internal assigned revenue carried over
+Commitments
+Budget item
+
+Carried Over to
+
+Payments
+
+2017
+
+Appropriations
+Executed
+(1)
+
+%
+
+(2) (3)=(2)/(1)
+
+Executed
+
+%
+
+(4) (5)=(4)/(1)
+
+Automatic Carry
+Over
+
+Cancelled
+
+(6)=(2)-(4)
+
+(7)=(1)-(2)
+
+Title 1 Staff related expenditure
+1300
+
+Administrative missions
+
+Total Title 1
+
+4,307.57
+
+4,307.57
+
+100.00%
+
+100.00%
+
+0.00
+
+0.00
+
+4,307.57
+
+4,307.57
+
+100.00%
+
+4,307.57
+
+4,307.57
+
+100.00%
+
+0.00
+
+0.00
+
+29,937.29
+
+29,937.00
+
+100.00%
+
+28,847.52
+
+96.36%
+
+1,089.48
+
+0.29
+
+9,268.04
+
+5,400.00
+
+58.26%
+
+1,600.00
+
+17.26%
+
+3,800.00
+
+3,868.04
+
+Title 2 Other Administrative Expenditure
+2030
+
+Cleaning and maintenance
+
+2231
+
+Maintenance use and repair and other expenditures
+
+2311
+
+Petty expenditure
+
+Total Title 2
+
+104.89
+
+0.00
+
+0.00%
+
+0.00
+
+0.00%
+
+0.00
+
+104.89
+
+39,310.22
+
+35,337.00
+
+89.89%
+
+30,447.52
+
+77.45%
+
+4,889.48
+
+3,973.22
+
+5,540.70
+
+5,540.70
+
+100.00%
+
+5,001.35
+
+90.27%
+
+539.35
+
+0.00
+
+381.28
+
+381.28
+
+100.00%
+
+381.28
+
+100.00%
+
+0.00
+
+0.00
+
+30.98%
+
+9,784.85
+
+30.98%
+
+0.00
+
+21,798.90
+1,680.59
+
+Title 3 Operational Activities
+3000
+
+Operations and pilot projects etc. land borders
+
+3010
+
+Operations and pilot projects etc. sea borders
+
+3110
+
+FSC
+
+31,583.75
+
+9,784.85
+
+3120
+
+EUROSUR
+
+23,524.55
+
+21,843.96
+
+92.86%
+
+21,843.96
+
+92.86%
+
+0.00
+
+3400
+
+Pooled Resources network
+
+28.28
+
+28.28
+
+100.00%
+
+0.00
+
+0.00%
+
+28.28
+
+0.00
+
+Total Title 3
+
+61,058.56
+
+37,579.07
+
+61.55%
+
+37,011.44
+
+60.62%
+
+567.63
+
+23,479.49
+
+Grand total
+
+104,676.35
+
+77,223.64
+
+73.77%
+
+71,766.53
+
+68.56%
+
+5,457.11
+
+27,452.71
+
+Appropriations of funds source C4 available at 31 December of Year N-1 are carried over as Internal Assigned revenue
+carried over (C5) in the current year. Unused C5 appropriations will not be carried over to the following year.
+Of the EUR 104 676 carried over from the 2015 C4 funds there will be no further payments.
+EUR 32 910, which were not used, have been cancelled.
+
+Page 44 of 48
+
+Frontex – Final Accounts 2016
+
+4.10. Automatic carry over C8 – committed in 2015 and paid in 2016
+
+Budget item
+
+Carried Over
+from 2015
+
+Executed
+Payments
+
+Cancelled
+
+(1)
+
+(2)
+
+(3)=(1)-(2)
+
+76.19
+
+76.19
+
+0.00
+
+480.00
+
+480.00
+
+0.00
+
+Title 1 Staff expenditure:
+1112
+
+Seconded national experts
+
+1200
+
+Translation and publication of notices
+
+1201
+
+Travel and subsistence costs of applicants
+
+8,981.07
+
+8,438.38
+
+542.69
+
+1202
+
+Medical examinations
+
+6,284.80
+
+5,085.60
+
+1,199.20
+
+1300
+
+Administrative missions
+
+34,796.32
+
+19,048.05
+
+15,748.27
+
+1410
+
+Medical service
+
+3,000.00
+
+1,886.76
+
+1,113.24
+
+1500
+
+Training and information of staff
+
+34,270.38
+
+17,358.30
+
+16,912.08
+
+1511
+
+Cost of organising stages
+
+9,360.00
+
+9,360.00
+
+0.00
+
+1512
+
+Supplementary clerical and interim services
+
+44,790.56
+
+27,657.13
+
+17,133.43
+
+1513
+
+Other external services
+
+3,700.20
+
+3,229.61
+
+470.59
+
+145,739.52
+
+92,620.02
+
+53,119.50
+
+77,300.00
+
+23,300.00
+
+54,000.00
+
+3,000.00
+
+3,000.00
+
+0.00
+
+Total Title 1
+Title 2 Other Administrative Expenditure:
+2000
+
+Rent
+
+2010
+
+Insurance
+
+2020
+
+Water gas electricity and heating
+
+27,838.94
+
+22,066.40
+
+5,772.54
+
+2030
+
+Cleaning and maintenance
+
+50,819.64
+
+29,708.00
+
+21,111.64
+
+2040
+
+Facility management related costs
+
+28,153.02
+
+18,022.32
+
+10,130.70
+
+2090
+
+Miscellaneous premises expenditure
+
+16,980.03
+
+11,736.87
+
+5,243.16
+
+2100
+
+Purchase of data processing equipment
+
+664,733.56
+
+662,022.81
+
+2,710.75
+
+2101
+
+Software
+
+261,723.30
+
+260,618.19
+
+1,105.11
+
+2102
+
+Maintenance and repair of data processing
+
+354,148.60
+
+353,585.67
+
+562.93
+
+2103
+
+Consultancy and studies
+
+1,227,770.00
+
+1,216,362.44
+
+11,407.56
+
+2110
+
+50,023.76
+
+31,338.59
+
+18,685.17
+
+1,195.07
+
+1,112.80
+
+82.27
+
+2210
+
+Telecommunications subscriptions and charges
+Purchase installation and maintenance of
+telecom
+Furniture
+
+16,701.10
+
+14,775.03
+
+1,926.07
+
+2231
+
+Maintenance use and repair
+
+1,930.18
+
+1,005.72
+
+924.46
+
+2232
+
+Car insurance
+
+49.48
+
+0.00
+
+49.48
+
+2233
+
+Fuel
+
+2,108.74
+
+1,495.47
+
+613.27
+
+2250
+
+Documentation and library expenditure
+
+952.93
+
+800.21
+
+152.72
+
+2300
+
+Stationery and office supplies
+
+3,190.33
+
+2,308.93
+
+881.40
+
+2310
+
+Translation services
+
+2,211.60
+
+0.00
+
+2,211.60
+
+2311
+
+Petty expenditure
+
+1,864.65
+
+1,357.40
+
+507.25
+
+2313
+
+Health and safety at work
+
+78,617.48
+
+58,028.64
+
+20,588.84
+
+2320
+
+Bank charges
+
+1,000.00
+
+0.00
+
+1,000.00
+
+2330
+
+Legal expenses
+
+38,669.58
+
+20,425.00
+
+18,244.58
+
+2331
+
+Damages and compensation
+
+2,000.00
+
+2,000.00
+
+0.00
+
+2332
+
+LEGNET meetings
+
+19,134.50
+
+13,374.24
+
+5,760.26
+
+2111
+
+Page 45 of 48
+
+Frontex – Final Accounts 2016
+
+Budget item
+
+Carried Over
+from 2015
+
+Executed
+Payments
+
+Cancelled
+
+5,965.35
+
+2,136.48
+
+3,828.87
+
+2333
+
+Missions legal team
+
+2341
+
+Quality Management improvement activities
+
+14,000.00
+
+14,000.00
+
+0.00
+
+2351
+
+Security services
+
+18,011.52
+
+15,152.52
+
+2,859.00
+
+2360
+
+Representation costs
+
+13,151.57
+
+722.11
+
+12,429.46
+
+2400
+
+Postal and delivery charges
+
+16,816.21
+
+11,348.25
+
+5,467.96
+
+2500
+
+Interpretation services and equipment
+
+20,756.72
+
+20,256.72
+
+500.00
+
+2501
+
+Travel and subsistence costs of delegates
+
+17,067.28
+
+10,534.95
+
+6,532.33
+
+2502
+
+Other expenditure
+
+1,343.47
+
+0.00
+
+1,343.47
+
+2510
+
+Other meetings and visits
+
+19,952.66
+
+5,832.44
+
+14,120.22
+
+2520
+
+Consultative Forum
+
+19,884.32
+
+5,726.55
+
+14,157.77
+
+2600
+
+Corporate Identity
+
+24,640.50
+
+23,058.03
+
+1,582.47
+
+2610
+
+Internal communications activities
+
+33,453.43
+
+30,448.59
+
+3,004.84
+
+2620
+
+Communication and information activities
+
+23,949.09
+
+18,430.97
+
+5,518.12
+
+2630
+
+Official publications/tender publications
+
+45,956.83
+
+32,080.85
+
+13,875.98
+
+3,207,065.44
+
+2,938,173.19
+
+268,892.25
+
+Total Title 2
+Title 3 Operational Activities:
+3000
+
+Operations and pilot projects etc. land borders
+
+2,676,038.70
+
+2,280,358.33
+
+395,680.37
+
+3010
+
+Operations and pilot projects etc. sea borders
+
+28,621,871.08
+
+23,484,753.81
+
+5,137,117.27
+
+3020
+
+Operations and pilot projects etc. air borders
+
+607,120.72
+
+521,252.98
+
+85,867.74
+
+3050
+
+Return co-operation
+
+2,829,617.05
+
+2,692,521.14
+
+137,095.91
+
+3100
+
+Risk analysis
+
+411,394.74
+
+381,061.45
+
+30,333.29
+
+3110
+
+FSC
+
+399,487.03
+
+349,607.95
+
+49,879.08
+
+3120
+
+EUROSUR
+
+2,265,824.97
+
+2,067,311.26
+
+198,513.71
+
+3200
+
+Training
+
+1,484,671.24
+
+1,217,709.39
+
+266,961.85
+
+3300
+
+Research and development
+
+345,119.42
+
+324,263.48
+
+20,855.94
+
+3400
+
+Pooled Resources network
+
+482,655.77
+
+417,680.20
+
+64,975.57
+
+3510
+
+IT services for Operational applications
+
+238,140.00
+
+238,140.00
+
+0.00
+
+3520
+
+European Day for Border Guards (ED4BG)
+
+22,181.66
+
+2,317.41
+
+19,864.25
+
+3600
+
+Meetings-External relations 3rd countries
+
+78,499.88
+
+63,144.75
+
+15,355.13
+
+3601
+
+Missions-External relations 3rd countries
+
+12,476.52
+
+2,742.06
+
+9,734.46
+
+3610
+
+Missions-External relations Int'l Organisations
+
+7,054.85
+
+5,292.09
+
+1,762.76
+
+3620
+
+Missions-Fundamentals Rights Officer
+
+8,203.85
+
+2,961.01
+
+5,242.84
+
+Total Title 3
+
+40,490,357.48
+
+34,051,117.31
+
+6,439,240.17
+
+Grand Total
+
+43,843,162.44
+
+37,081,910.52
+
+6,761,251.92
+
+Automatic carry-overs are appropriations that were committed during 2015 but not paid by 31.12.2015. Payments
+had to be made before 31 December 2016.
+
+Page 46 of 48
+
+Frontex – Final Accounts 2016
+
+Figure 3.
+
+Automatic carry-overs (C8) cumulative payment trend compared with 2015
+100%
+90%
+80%
+
+70%
+% of
+Total
+carry-over 60%
+50%
+
+Payments 2015
+
+40%
+
+Payments 2016
+
+30%
+20%
+10%
+0%
+Jan
+
+Feb
+
+Carry over in Euro (thousands)
+
+Mar
+
+Apr
+
+May
+
+2015:
+
+Jun
+28 262
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+2016: 43 843
+
+Page 47 of 48
+
+Frontex – Final Accounts 2016
+
+4.11. Earmarked expenditure
+External assigned revenue concerns funds which do not find their origin in voted Community appropriations for the
+Agency, but which are received for the execution of specific contracts or agreements from external financing parties
+or from other DGs. According to the Financial Regulations, these appropriations cannot be mixed with others,
+therefore they are shown separately under Title 4 of Frontex budget.
+The appropriations corresponding to assigned revenue are made available automatically, both as commitment
+appropriations and as payment appropriations, once the revenue has been received by the Agency. External assigned
+revenue is carried over automatically and must be fully used by the time all the operations relating to the programme
+or action to which it is assigned have been carried out.
+Frontex has signed three grant agreements and one Delegation Agreement, all funded by the European Commission:
+
+Grant agreement “Eastern Partnership IBM” (Regional Capacity Building Project) signed with EC (DG DEVCO) on
+the 20 June 2014; total budget of EUR 4.5m for three years starting in 2014.
+
+Cooperation agreement “Promoting the participation of Tunisia and Morocco in the work of EASO and Frontex”
+signed on 8 July 2014; total budget of EUR 54 694.
+
+Grant agreement “IPA II” (regional support to protection-sensitive migration management in the Western Balkans
+and Turkey) signed on the 22 December 2015; total budget EUR 5.5m, implementation period of 36 months from
+1 January 2016.
+
+Delegation Agreement on “Copernicus 2015-2020” with the European Commission, represented by DG GROW,
+signed on 10 November 2015, entrusting Frontex the service component implementation tasks, in line with
+Regulation (EU) 377/2014 establishing the Copernicus Programme. The indicative total budget amounts to EUR
+47.6m, implemented until 31 December 2020.
+
+Commitments
+Budget item
+
+Carried Over
+to 2017
+
+Payments
+
+Appropriations
+Executed
+(1)
+
+%
+
+(2) (3)=(2)/(1)
+
+%
+
+Automatic
+Carry Over
+
+(4) (5)=(4)/(1)
+
+(6)=(2)-(4)
+
+Executed
+
+Title 4 Earmarked Expenditure
+4100 External Relations Activities
+
+5,460,425.80
+
+4,298,345.92
+
+78.72%
+
+1,612,873.09
+
+29.54%
+
+3,847,552.71
+
+3,272,306.50
+
+2,756,234.49
+
+84.23%
+
+310,816.61
+
+9.50%
+
+2,961,489.89
+
+16,247.30
+
+1,600.19
+
+9.85%
+
+1,600.19
+
+9.85%
+
+14,647.11
+
+2,171,872.00
+
+1,540,511.24
+
+70.93%
+
+1,300,456.29
+
+59.88%
+
+871,415.71
+
+4200 Copernicus Security Service Activities
+
+15,721,000.00
+
+11,242,680.09
+
+71.51%
+
+6,583,121.10
+
+41.87%
+
+9,137,878.90
+
+Total Title 4
+
+21,181,425.80
+
+15,541,026.01
+
+73.37%
+
+8,195,994.19
+
+38.69% 12,985,431.61
+
+Grand total
+
+21,181,425.80
+
+15,541,026.01
+
+73.37%
+
+8,195,994.19
+
+38.69% 12,985,431.61
+
+EAP- EASTERN PARTNERSHIP
+EASO- PROMOTING THE PARTICIPATION OF
+TUNISIA AND MOROCCO
+IPA II- REGIONAL SUPPORT MIGRATION
+MANAGEMENT
+
+Page 48 of 48
+
+

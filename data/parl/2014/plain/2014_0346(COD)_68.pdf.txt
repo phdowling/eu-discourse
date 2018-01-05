@@ -1,0 +1,455 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2014/0346(COD)
+
+Procedure completed
+
+Harmonised indices of consumer prices and house price index
+Repealing Regulation (EC) No 2494/95 1995/0009(CNS)
+Subject
+5.10.02 Price policy, price stabilisation
+8.60 European statistical legislation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+13/01/2015
+
+GUALTIERI Roberto
+Shadow rapporteur
+
+MARTUSCIELLO Fulvio
+
+SWINBURNE Kay
+
+GOULARD Sylvie
+
+VIEGAS Miguel
+
+EICKHOUT Bas
+
+VALLI Marco
+Committee for opinion
+IMCO
+
+Internal Market and Consumer Protection
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+THYSSEN Marianne
+
+Key events
+09/12/2014
+
+Legislative proposal published
+
+15/12/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+13/10/2015
+
+Vote in committee, 1st reading/single
+reading
+
+13/10/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+27/10/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+COM(2014)0724
+
+Summary
+
+A8-0313/2015
+
+Summary
+
+18/02/2016
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+08/03/2016
+
+Results of vote in Parliament
+
+08/03/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+21/04/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+11/05/2016
+
+Final act signed
+
+11/05/2016
+
+End of procedure in Parliament
+
+24/05/2016
+
+Final act published in Official Journal
+
+PE604.782
+
+Summary
+
+T8-0070/2016
+
+Technical information
+Procedure reference
+
+2014/0346(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Repealing Regulation (EC) No 2494/95 1995/0009(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/02259
+
+Documentation gateway
+Legislative proposal
+
+COM(2014)0724
+
+09/12/2014
+
+EC
+
+Summary
+
+CON/2015/0010
+OJ C 175 29.05.2015, p. 0002
+
+13/03/2015
+
+ECB
+
+Summary
+
+Committee draft report
+
+PE564.902
+
+08/07/2015
+
+EP
+
+Amendments tabled in committee
+
+PE567.477
+
+08/09/2015
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0313/2015
+
+27/10/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0070/2016
+
+08/03/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2016)270
+
+19/04/2016
+
+European Central Bank: opinion, guideline, report
+
+Additional information
+European Commission
+
+Final act
+Regulation 2016/792
+OJ L 135 24.05.2016, p. 0011 Summary
+Final legislative act with provisions for delegated acts
+
+EUR-Lex
+
+2014/0346(COD) - 09/12/2014 Legislative proposal
+PURPOSE: to establish a common legal framework for the production of harmonised indices by Member States.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: harmonised indices of consumer prices (HICP) are designed to measure inflation in a harmonised manner across Member
+States. The Commission and the European Central Bank use the HICP in their assessment of price stability in Member States under Article
+140 of the Treaty on the Functioning of the European Union.
+Harmonised consumer price indices are essential for assessing and measuring: (i) convergence in terms of price stability within the EU; and
+(ii) the results of euro area monetary policy, in terms of achieving the objective of price stability.
+In October 1995, a Council Regulation on harmonised indices of consumer prices (HICP) was drafted and adopted, followed by 20
+implementing regulations in the following 17 years.
+Certain parameters have changed since the adoption of the original framework: (i) the development of the European Statistical System (ESS);
+(ii) the technical aspects of data collection and index compilation have changed dramatically due to the rapid rate of technological progress in
+recent years; (iii) the Lisbon Treaty established a new comitology set-up.
+These various changes all necessitate redrafting of the legislation on HICP so as to modernise and rationalise the legal basis and adapt it to
+todays needs, both actual and potential.
+CONTENT: the objective of this proposal is to establish a common legal framework for the production of harmonised indices by Member
+States, which involves collecting, compiling, processing and submitting harmonised consumer price indices.
+The proposal for a revised HICP Regulation seeks to create a single legal measure covering all uniform conditions. It would combine the
+different implementing regulations into a single one, which would give stakeholders and Member States greater clarity and make
+administration easier and more effective.
+This proposal simplifies and clarifies the requirements for the compilation of these indices. It enshrines the principles of the European Statistics
+Code of Practice relating to commitment to quality, sound methodology, cost-effectiveness, relevance, accuracy, reliability, coherence and
+comparability.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the treaty on the Functioning of the European Union.
+
+2014/0346(COD) - 13/03/2015 European Central Bank: opinion, guideline, report
+Opinion of the European Central Bank (ECB) on a proposal for a regulation of the European Parliament and the Council on harmonised
+indices of consumer prices and repealing Council Regulation (EC) No 2494/95.
+On 17 December 2014, the ECB received a request from the European Parliament for an opinion on this proposal. On 26 January 2015, the
+ECB was consulted on the same proposal by the Council of the European Union.
+The proposed regulation lies within the ECBs fields of competence as the ECB is a key user of HICP statistics. Harmonised indices of
+consumer prices are important indicators in the context of monetary policy. They are of crucial importance to the ECBs primary objective of
+maintaining price stability in the euro area.
+The ECB supports the efforts undertaken by the European Commission (Eurostat) concerning the review and modernisation of the Union legal
+framework for compilation of HICP statistic.
+It made the following remarks:
+Consultation of the ECB: the ECB is to be consulted on any implementing and delegated acts, which the Commission may adopt under the
+revised legal framework for the HICP. The proposed regulation should reflect the ECBs competence to be consulted on implementing and
+delegated acts adopted under the proposed regulation.
+Use of delegated and implementing acts:
+Regarding the Commissions power to adopt delegated acts, the ECB considers the threshold below which there is no obligation for Member
+States to provide sub-indices of harmonised indices, and the list of sub-indices that need not be produced by Member States to be essential
+elements of the proposed regulation. These items are fundamental to ensure sound and harmonised consumer price indices. These issues
+should be decided and laid down in the proposed regulation.
+The ECB supports the proposed Article 5(1) in connection with Article 2(q) on the collection of information about administered prices as part of
+the basic information that should be provided with reference to HICPs (and HICPs at constant tax rates). For indices that refer to, or exclude
+administered prices, the ECB would welcome if the Commission would provide guidance ensuring the harmonised definition and application of
+these concepts in an implementing act.
+Methodological issues:
+Article 4(2)(b) of the proposed regulation introduces a wider margin for systematic differences in annual growth rates of the owner-occupied
+housing price index (OOH-price index) and of the house price index (HPI) that may result from deviations from the concepts or methods laid
+down in the proposed Regulation. While Commission Regulation (EU) No 93/2013 is silent on this issue, the ECB strongly suggests applying
+
+the standard of 0.1 percentage points that is used for assessing the comparability of sub-indices.
+The production of sub-indices at intervals less frequent than required by the proposed regulation should remain subject to prior approval by the
+Commission (Eurostat).
+
+2014/0346(COD) - 27/10/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Roberto GUALTIERI (S&D, IT) on the proposal for a regulation of the
+European Parliament and of the Council on harmonised indices of consumer prices and repealing Regulation (EC) No 2494/95.
+The committee recommended that the European Parliaments position at first reading following the ordinary legislative procedure should
+amend the Commission proposal as follows:
+Subject matter: this Regulation lays down a common framework for the development, production and dissemination of harmonised indices of
+consumer prices (HICP, HICP-CT, OOH price index) and of the house price index (HPI) at Union, national and sub-national level.
+Compilation of harmonised indices: the amended text stipulated that neither the HICP nor the HICP-CT shall cover transactions between
+households, except in the case of rentals paid by tenants to private landlords, where the latter act as market producers of services purchased
+by households (tenants).
+OOH indices shall be compiled, where possible and provided that the data is available, for the 10 years preceding the entry into force of this
+Regulation.
+Depending on the outcome of the report on the suitability of the owner-occupied housing indices for integration into HICP coverage as
+provided for in Regulation EU) No 93/2013, the Commission may adopt, within one year of the publication of that report, a delegated act to
+integrate the OOH index into the HICP.
+Comparability of the harmonised indices: the Commission shall be empowered to adopt delegated acts for the amendment of the Annex in
+order to ensure comparability at international level of the breakdown of HICP by ECOICOP categories.
+In order to ensure uniform conditions of implementation, and for the purposes of achieving the objectives of this Regulation, further details for
+producing comparable harmonised indices shall be defined by means of implementing acts. Such implementing acts shall concern: (i)
+sampling and representativity; (ii) collection and treatment of prices; (iii) replacements and quality adjustment; (iv) index compilation; (v)
+revisions; (vi) special indices; (vii) treatment of products in specific areas.
+Data requirements: Member States shall collect basic information representative of their country in order to produce harmonised indices and
+their sub-indices.
+The amended text stipulated that the sub-indices of ECOICOP that are not required to be produced by the Member States , either because
+they do not cover household final monetary consumption expenditure or because the degree of methodological harmonisation is not yet
+sufficient, shall be as follows: (i) narcotics; (ii) games of chance; (iii) prostitution; (iv) life insurance; (v) Financial Intermediation Services
+Indirectly Measured (FISIM).
+In the event that the degree of methodological harmonisation improves sufficiently, the Commission shall be empowered to adopt delegated
+acts in order to remove one or more sub-indices listed.
+Deadlines, exchange standards and revisions: Member States shall provide the update weights for the monthly indices no later than 13
+February each year. The updated weights for the quarterly indices shall be provided no later than 15 June each year.
+The text stressed that early provisional information on the monthly Harmonised indices of consumer prices (HICP) in the form of flash
+estimates is crucial for monetary policy in the euro area. Therefore flash estimates should be provided by Member States in the euro area
+whenever necessary.
+Each Member State in the euro area shall provide a flash estimate of the HICP not later than the penultimate calendar day of the month to
+which the HICP refers.
+Pilot studies: these studies shall assess the feasibility and costs of obtaining improved data quality and composition of basic information or
+adopting new methodological approaches.
+The general budget of the Union shall, where appropriate, contribute to the financing of pilot studies.
+Based on the evaluation of the pilot studies, the Commission shall be empowered to adopt delegated acts in order to supplement this
+Regulation.
+Delegated acts: delegated acts shall not impose a significant additional burden on Member States, nor on the respondent units. A cost-effect
+analysis should be fully considered when adopting and implementing those delegated acts.
+
+2014/0346(COD) - 08/03/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 575 votes to 100, with 30 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on harmonised indices of consumer prices and repealing Regulation (EC) No 2494/95.
+Parliaments position, adopted at first reading following the ordinary legislative procedure, amended the Commission proposal as follows:
+Objective: the amended Regulation stated that price statistics of high quality and comparability are essential for those responsible for public
+policy in the Union, researchers and all European citizens.
+This Regulation lays down a common framework for the development, production and dissemination of harmonised indices of consumer prices
+(HICP, Harmonised Index of Consumer Prices at constant tax rates - HICP-CT, Owner-Occupied Housing - OOH price index) and of the house
+
+price index (HPI) at Union and national level.
+Compilation of harmonised indices: the amended text stipulated that neither the HICP nor the HICP-CT shall cover transactions between
+households, except in the case of rentals paid by tenants to private landlords, where the latter act as market producers of services purchased
+by households (tenants).
+OOH indices shall be compiled, where possible and provided that the data is available, for the 10 years preceding the entry into force of this
+Regulation.
+By 31 December 2018, the Commission shall prepare a report which shall address the suitability of the OOH price index for integration into the
+HICP coverage.
+Depending on the outcome of the report on the suitability of the owner-occupied housing indices for integration into HICP coverage, the
+Commission may adopt, within one year of the publication of that report, a delegated act to integrate the OOH index into the HICP.
+Comparability of the harmonised indices: the Commission shall be empowered to adopt delegated acts for the amendment of the Annex I in
+order to ensure comparability at international level of the breakdown of HICP by ECOICOP categories. The ECOICOP should also be
+consistent with the UN COICOP, which is the international standard classifying individual consumption according to purpose, therefore the
+ECOICOP should be adapted to align it with changes to the UN COICOP.
+In order to ensure uniform conditions of implementation, and for the purposes of achieving the objectives of this Regulation, further details for
+producing comparable harmonised indices shall be defined by means of implementing acts. Such implementing acts shall concern: (i)
+sampling and representativity; (ii) collection and treatment of prices; (iii) replacements and quality adjustment; (iv) index compilation; (v)
+revisions; (vi) special indices; (vii) treatment of products in specific areas.
+In order to ensure adaptation to changes to the UN COICOP, to amend the list of items regulated by implementing acts by adding items in
+order to take account of technical developments in the statistical methods and based on the evaluation of pilot studies, the power to adopt acts
+should be delegated to the Commission.
+Data requirements: Member States shall collect basic information representative of their country in order to produce harmonised indices and
+their sub-indices.
+The amended text stipulated that the sub-indices of ECOICOP that are not required to be produced by the Member States, either because
+they do not cover household final monetary consumption expenditure or because the degree of methodological harmonisation is not yet
+sufficient, shall be as follows: (i) narcotics; (ii) games of chance; (iii) prostitution; (iv) life insurance; (v) Financial Intermediation Services
+Indirectly Measured (FISIM).
+The Commission shall be empowered to adopt delegated acts to modify the list set out above in order to include games of chance in the HICP
+and the HICP-CT.
+Deadlines, exchange standards and revisions: Member States shall provide the Commission (Eurostat) with the harmonised indices and all
+sub-indices by no later than: (a) 15 calendar days for the February to December indices, and 20 calendar days for the January indices, after
+the end of the month for which the indices are calculated; and (b) 85 calendar days after the end of the quarter for which the indices are
+calculated.
+Member States shall provide the Commission (Eurostat) with the updated weights by no later than the 13 February each year for the monthly
+indices and the 15 June each year for the quarterly indices.
+Member States whose currency is the euro shall provide the Commission (Eurostat) with the flash estimate of the HICP no later than the
+penultimate calendar day of the month to which the flash estimate refers.
+Pilot studies: the Commission (Eurostat) may launch pilot studies, to be carried out on a voluntary basis by Member States. They shall assess
+the feasibility and costs of obtaining improved data quality and composition of basic information or adopting new methodological approaches.
+The general budget of the Union shall, where appropriate, contribute to the financing of pilot studies. By 31 December 2020 and every five
+years thereafter, the Commission shall submit a report to the European Parliament and the Council evaluating, if applicable, the main findings
+of the pilot studies.
+Delegated acts and implementing measures: in adopting implementing measures and delegated acts in accordance with this Regulation, the
+Commission should consider, where appropriate, cost-effectiveness and ensure that those measures and acts do not impose a significant
+additional burden on Member States or respondents.
+
+2014/0346(COD) - 11/05/2016 Final act
+PURPOSE: to lay down a common framework for the development of harmonised indices of consumer prices and of the house price index
+(HPI).
+LEGISLATIVE ACT: Regulation (EU) 2016/792 of the European Parliament and of the Council on harmonised indices of consumer prices and
+the house price index, and repealing Council Regulation (EC) No 2494/95
+CONTENT: the Regulation establishes a common framework for the development, production and dissemination of harmonised indices of
+consumer prices (HICP, HICP-CT, OOH price index) and of the house price index (HPI) at Union and national level.
+The harmonised index of consumer prices (HICP) is designed to measure inflation in a harmonised manner across Member States. Price
+statistics of high quality and comparability are essential for those responsible for public policy in the Union, researchers and all European
+citizens.
+The new Regulation adapts the legal framework laid down in Council Regulation (EC) No 2494/95 to current requirements and technical
+progress, thereby further improving the relevance and comparability of harmonised indices of consumer prices and the HPI. It establishes rules
+regarding:
+
+·
+
+the compilation of the harmonised indices;
+
+·
+
+the comparability of the harmonised indices
+
+·
+
+the frequency and the time limits for providing harmonized indices to the Commission.
+
+Requirements on data: basic information collected by Member States for the harmonised indices and their sub-indices shall be representative
+at Member State level.
+Member States shall not be required to produce the following sub-indices, either because they are not included in the household final
+monetary consumption expenditure or because the degree of methodological harmonisation is not yet sufficient: (i) narcotics; (ii) games of
+chance; (iii) prostitution; (iv) life insurance; (v) Financial Intermediation Services Indirectly Measured (FISIM).
+Pilot studies: whenever improved basic information is required for the compilation of the harmonised indices, or when the need for improved
+comparability of the harmonised indices is identified, the Commission (Eurostat) may launch pilot studies, to be carried out on a voluntary
+basis by Member States. The general budget of the Union shall, where appropriate, contribute to the financing of such pilot studies.
+By 31 December 2020 and every five years thereafter, the Commission shall submit a report to the European Parliament and the Council
+evaluating, if applicable, the main findings of the pilot studies.
+Delegated acts and implementing measures: the Regulation also takes account of the new provisions introduced in the Treaty of Lisbon on the
+decision-making process of the Union, which give the Commission (as Eurostat) the power to adopt implementing measures or legislative
+measures for the purpose of amending non-essential elements of a regulation (delegated acts).
+In adopting implementing measures and delegated acts, the Commission should consider, where appropriate, cost-effectiveness and ensure
+that those measures and acts do not impose a significant additional burden on Member States or respondents.
+ENTRY INTO FORCE: 13.6.2016.
+APPLICATION: the Regulation shall apply for the first time to data relating to January 2017.
+DELEGATED ACTS: the Commission may adopt delegated acts in order to: (i) amend Annex I, in order to ensure comparability of the
+harmonised indices at international level; (ii) take account of technical developments in the statistical methods in the production of harmonized
+indices; (iii) include games of chance in the HICP and the HICP-CT. The power to adopt such acts is conferred on the Commission for a period
+of five years from 13 June 2016 (which may be tacitly extended for the same period). The European Parliament or Council may raise
+objections to a delegated act within three months of the date of notification (which may be extended by three months). If Parliament or Council
+raise objections, the delegated act may not enter into force.
+
+

@@ -1,0 +1,998 @@
+FRAN Quarterly
+Quarter 3 • July–September 2013
+
+Q1 Q2
+Q3 Q4
+
+FRAN Quarterly
+Quarter 3 • July–September 2013
+
+1 of 58
+
+Frontex official publications fall into four main categories: risk analysis, training, operations
+and research, each marked with a distinct graphic identifier. Risk analysis publications
+bear a triangular symbol formed by an arrow drawing a triangle, with a dot at the centre.
+Metaphorically, the arrow represents the cyclical nature of risk analysis processes and their
+orientation towards an appropriate operational response. The triangle is a symbol of ideal
+proportions and knowledge, reflecting the pursuit of factual exactness, truth and exhaustive
+analysis. The dot at the centre represents the intelligence factor and the focal point where
+information from diverse sources converges to be processed, systematised and shared as
+analytical products. Thus, Frontex’s risk analysis is meant to be at the centre and to form
+a reliable basis for its operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Rondo ONZ 1
+00-124 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, January 2014
+Risk Analysis Unit
+Frontex reference number: 464/2014
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply the
+expression of any opinion whatsoever on the part of Frontex concerning the legal status of
+any country, territory or city or its authorities, or concerning the delimitation of its frontiers
+or boundaries.
+All maps and charts included in this report are the sole property of Frontex and any unauthorised
+use is prohibited. Frontex disclaims any liability with respect to the boundaries, names and
+designations used on the maps.
+The contents of open-source boxes are unverified and presented only to give context and
+media representation of irregular-migration phenomena.
+
+ACKNOWLEDGMENTS
+The FRAN Quarterly has been prepared by the Frontex Risk Analysis Unit. During the course
+of developing this product, many colleagues at Frontex and outside contributed to it and their
+assistance is hereby acknowledged with gratitude.
+
+2 of 58
+
+Table of contents
+Executive summary #5
+1. Introduction #7
+2. Methodology #8
+3. Summary of FRAN indicators #10
+4. Situational picture in Q3 2013 #12
+4.1.		Detections of illegal border-crossing #12
+4.2.		Routes #15
+4.3.		Clandestine entry #28
+4.4.		Detections of facilitators #28
+4.5.		Detections of illegal stay #29
+4.6.		Refusals of entry #31
+4.7.		Asylum claims #31
+4.8.		Document fraud #33
+4.9.		Returns #35
+4.10.Other illegal activities at the border #36
+5. Statistical annex #44
+
+3 of 58
+
+Frontex · FRAN Quarterly · q3 2013
+
+List of abbreviations
+BCP 				
+border-crossing point
+BCU				
+Border Control Unit
+BSRBCC			Baltic Sea Region Border Control Cooperation
+CARA			
+Centri di Accoglienza Richiedenti Asilo [Italian Reception Centres for Asylum Seekers]
+CETI				
+Centro de Estancia Temporal de Inmigrantes [Spanish Temporary Stay Centre for Immigrants]
+CIRCA 			Communication and Information Resource Centre Administrator
+CIREFI			Centre for Information, Discussion and Exchange on the Crossing of Frontiers and
+Immigration
+CPB				
+Coastal Patrol Boat
+EBGT				European Border Guard Teams
+EDF-RAN		 European Union Document-Fraud Risk Analysis Network
+EPN				
+European Patrols Network
+EU 				
+European Union
+EUR 				
+euro
+EURODAC		European Dactyloscopy
+Europol		
+European Police Office
+EUROSUR		 European Border Surveillance System
+FRAN 			Frontex Risk Analysis Network
+fYROM 			former Yugoslav Republic of Macedonia
+GPS				global positioning system
+HNP				Hellenic National Police
+IBSS 			Integrated Border Surveillance System
+ICJ		
+			International Court of Justice
+ICONet			Information and Coordination Network for Member States’ Migration Management
+Services
+ID 				
+identity document
+INTERPOL
+International Criminal Police Organization
+IOM 			International Organization for Migration
+ISO 				International Organization for Standardization
+ITS				Italian Ship
+JO 				
+Joint Operation
+JORA				Joint Operations Reporting Application
+LBT				local border traffic
+MS			 	Member State
+n.a. 				
+not applicable
+nm				
+nautical mile
+OCG				
+organised crime group
+OPV				
+Offshore Patrol Vessel
+RAU 				Frontex Risk Analysis Unit
+SAC 			
+Schengen Associated Country
+SAR				search and rescue
+SASEMAR		 Sociedad de Salvamento y Seguridad Marítima [Spanish Maritime Security and Rescue Society]
+SIS 				Schengen Information System
+THB				Trafficking in human beings
+UK 				
+United Kingdom
+UNODC			United Nations Office on Drugs and Crime
+UNSCR			United Nations Security Council Resolution
+UN				
+United Nations
+USAID			 United States Agency for International Development
+USD				
+United States dollar
+VIN				vehicle identification number
+VIS				V isa Information System
+
+4 of 58
+
+Executive summary
+In the third quarter of 2013 there was a massive influx of irregular migration in the Central
+Mediterranean. This, combined with sustained detections in the Ionian and Eastern
+Aegean Seas, meant that there were more
+detections of illegal border-crossing at the
+maritime borders of the EU than during any
+stage of the Arab Spring in 2011. Concurrent
+with this influx, there were more applications
+for international protection in the EU than in
+any other period since data collection began
+for this indicator in 2008.
+In Q3 2013, Syrians were the most detected
+nationality at the EU level in terms of several
+different indicators of irregular migration,
+such as detections of illegal border-crossing
+(across several locations and border types),
+clandestine entries, illegal stay in several
+Member States, and document fraud at both
+the external border and on intra-Schengen
+flights. Syrians also submitted more applications for asylum than any other nationality. Hence, without doubt Syrians were the
+most common nationality reported for the
+FRAN indicators of irregular migration in Q3
+2013 and there are few signs of this changing to any significant degree in the short or
+medium term.
+Over the last few years there have been some
+extraordinary trends in the number of asylum
+applications submitted in the EU, in terms of:
+(a) the total volume of applications submitted; (b) the increasing concentration of applications submitted by the top nationalities;
+and (c) the increasing proportion of applications received by the top Member States. In
+2011 there was an increase associated with
+the initial stages of the Arab Spring, as well
+as large numbers of applications submitted
+by nationals of the Western Balkan countries.
+
+Over the last one and a half years there has
+also been a dramatic increase in the number
+of applications submitted by Syrians, and in
+Q2 2013 there were more applications submitted by a single nationality than ever before, i.e. Russian nationals of Chechen origin
+submitting applications in both Poland and
+Germany. Resulting from these effects, some
+of which are still detectable in the FRAN data,
+in Q3 2013 there were more asylum applications submitted in the EU than ever before, with an increasing concentration in the
+top three Member States: Germany, Sweden
+and the UK.
+In Q3 2013, 42 618 detections of illegal border-crossing were reported at the EU level,
+which is very nearly double the number during the same period in 2012, and a fourfold
+increase compared to the beginning of the
+year. This dramatic rise was almost exclusively due to increased detections reported
+from the Italian blue border, specifically in
+Sicily and Lampedusa. The most commonly
+detected migrants were from Syria and Eritrea and, to a lesser extent, from Somalia
+and Egypt. In most cases, migrants arrived in
+boats from Libya but Egyptians departed from
+their own country. Across the region the use
+of large iron mother-ships, with smaller vessels for boarding and disembarking on tow,
+became more common. There were also increased detections of Syrians and Eritreans
+in Apulia and Calabria, and as a result, these
+nationalities ranked top at the EU level and
+detections of Eritreans increased more than
+any other nationality compared to a year
+previously.
+Tragically, there were several major incidents
+of boats capsizing in the Central Mediterranean resulting in massive loss of life, including
+
+5 of 58
+
+Frontex · FRAN Quarterly · q3 2013
+
+women and children. Intelligence gathered
+during interviews suggests that migrants
+subject to frequent racial attacks are gathering in increasing numbers in Libya, and that
+the political stability and internal security in
+Egypt are both worsening. Hence, the migration pressure in the Central Mediterranean region is likely to remain at a high level.
+After Sicily and Lampedusa, the next border section to be most affected by illegal
+border-crossings during the third quarter
+of 2013 was the Hungarian land border with
+Serbia, where detections have fluctuated
+dramatically throughout 2013 in response to
+a series of legislative changes aligning the
+treatment and detention of asylum seekers
+to EU ­standards; detections at this border
+section nearly doubled in relation to a year
+ago but were reduced by 50% compared to
+the previous quarter.
+In Greece, where detections have tended to
+be concentrated in recent years, the overall
+number of detections of illegal border-crossing remained stable between the second and
+third quarters of 2013 but was still sufficiently
+high for Greece to be rank second among all
+Member States for this indicator. This is because Greece continues to be affected by
+two independent flows of irregular migration: at its borders with Turkey and Albania.
+Until the launch of the Greek operation Aspida in August 2012, the Greek land border
+with Turkey had for many years been the main
+entry point to illegally cross the border into
+the EU. Since then detections have dropped
+to negligible levels but have risen elsewhere,
+particularly at the Eastern Aegean Sea and
+on the Bulgarian land border with Turkey,
+
+6 of 58
+
+now ranking fourth and fifth among all border sections. In these locations detections increased going into the third quarter of this
+year, mostly of Syrians and, to a lesser extent,
+Afghans. In Bulgaria the 600% increase in detections of illegal border-crossing compared
+to a year previously was the largest increase
+at the EU level and was accompanied by an
+increase in asylum applications.
+At the Greek land border with Albania, detections of illegal border-crossing remained
+stable compared to the previous year, almost exclusively involving Albanian circular migrants. Detections of Albanians using
+fraudulent documents to gain entry to Greece
+decreased in Q3 2013, but the number of Albanian refused entry and detected as illegal stayers increased to the highest level
+in Greece for several years. Given that Albanians were also widely detected in other
+Member States, particularly using fraudulent
+documents to enter the UK from the Schengen area, and as illegal stayers and subject
+to decisions to leave in France, the pressure
+of irregular migration from this nationality
+remains high.
+Document fraud increased in the third quarter of 2013 both in terms of detections at the
+external border and also of migrants making secondary movements within the Schengen area, or attempting entry to the UK from
+the Schengen area. Spain, Italy, France and
+Greece reported the most detections on entry
+at the external border together accounting
+for more than half of all detections at the EU
+level. For the second quarter in a row Spain
+has reported more detections than ever before, the most common of which were Moroccans detected in either Melilla or Ceuta.
+
+1. Introduction
+FRAN Quarterly reports are prepared by the
+Frontex Risk Analysis Unit and provide a regular overview of irregular migration at the
+EU external borders, based on the irregularmigration data exchanged among Member
+State border-control authorities within the
+cooperative framework of the Frontex Risk
+Analysis Network (FRAN) and its subsidiary,
+the European Union Document-Fraud Risk
+Analysis Network (EDF-RAN).
+The main purpose of the FRAN Quarterlies
+is to provide:
+1.	feedback to the FRAN community in the
+context of information exchange;
+2.	a periodic update to the situational picture of irregular migration at the EU level;
+and
+3.	material for constructive discussion on reporting protocols and related trends and
+patterns.
+This report is intended to simultaneously
+serve two objectives: first, to provide a clear
+summary of the situation at the external border of the EU, and second, to serve as an archive for future reference and comparative
+analyses. Consistent with standard archival
+techniques, some information is repeated
+among sections to serve as context.
+
+Harmonising complex, multi-source migration data among Frontex and Member States
+is an ongoing process. Therefore some of
+the more detailed data and trends in this
+report should be interpreted with caution
+and, where possible, cross-referenced with
+information from other sources. The statistics should be understood in the context of
+the different levels of passenger flows passing
+through different border sections, the activities undertaken by Member State bordercontrol authorities to secure different border
+sections, and widespread variation in reporting and data-collection practices.
+FRAN members and Member State risk analysis experts and border-control authorities
+are considered the primary customers of
+these reports. In addition to the discussions
+taking place during FRAN meetings, Member State experts are invited and actively
+encouraged to examine and comment upon
+the data and analyses presented here. Despite all efforts of the Frontex Risk Analysis
+Unit and Member State experts involved in
+data exchange and analyses, it is conceivable that minor errors will occur in these reports due to very challenging timelines, and
+the growing volume and complexity of data
+and other information exchanged within the
+FRAN community.
+
+7 of 58
+
+Frontex · FRAN Quarterly · q3 2013
+
+2. Methodology
+This, the 21st issue of the FRAN Quarterly, is a
+comparative analysis of FRAN data collected
+between July and September 2013, and exchanged between 30 Member State bordercontrol authorities within the framework of
+the FRAN. The report presents the results of
+statistical analysis of quarterly variations in
+eight irregular-migration indicators and one
+asylum indicator, aggregated at the level of
+the event. Bi-monthly analytical reports exchanged by Member States were also used
+for interpretative purposes and to provide
+qualitative information, as were other available sources of information, such as Frontex
+Joint Operations.
+
+terest group of the European Commission’s
+CIRCA server. Member State monthly data are
+based on a country template prepared by the
+Frontex Risk Analysis Unit. The deadline for
+submitting data for each month is the 25th
+day of the subsequent month, with the exception of the end of year data, which are requested by 15 January each year. For this 21st
+issue of the FRAN Quarterly, the target for
+Member States to upload the monthly data
+was thus 25 October 2013. In principle, data
+submitted subsequent to this date will be reflected in the next FRAN Quarterly, except
+in cases where clarification is needed in order to proceed with comprehensive analysis.
+
+Precise definitions of Indicators 1 to 6, aimed
+at harmonising the data exchanged at EU
+level, were presented in the annexes of the
+Q1 and Q2 reports in 2009 and so are not
+repeated here.
+
+Following the closure of the CIREFI working
+group in April 2010, most of its mandates and,
+of particular relevance, the exchange of data
+were transferred to the FRAN. Fortunately,
+most CIREFI indicators already overlapped
+with the monthly data exchange of FRAN
+members. The exception was the indicator
+on returns, which was added as part of the
+regular data exchange within the FRAN at
+the beginning of 2011.
+
+During the June 2010 FRAN Meeting, a proposal for a harmonised definition of the return
+indicator was outlined and several questions
+were presented in order to motivate discussion among FRAN members in view of establishing the regular collection of monthly
+return data by Frontex. Subsequently, an online survey of FRAN members was conducted
+to gather information and further motivate
+discussion to fine-tune the proposal for the
+indicator. The 11th FRAN report (Q1 2011) was
+the first to include analysis of Indicators 7A
+and 7B, and the definitions of these indicators are included in an annex to that report.
+Data collection commenced in January 2011.
+
+* http://www.iso.org
+
+8 of 58
+
+The FRAN data-exchange has been in place
+since September 2007. Data are exchanged
+through the ICONet Internet platform, an in-
+
+In January 2012, the European Union Document-Fraud Risk Analysis Network (EDFRAN) was formed as a specialist forum to
+oversee the exchange and analyses of detections of document fraud to illegally cross
+the external borders, and on all international
+flights.
+The EDF-RAN data are checked for inconsistencies, and corrections are made to reported
+totals to bring them in line with reported
+breakdowns. Corrections are also made to
+any three-letter nationality codes not present
+in the reference ISO list of nationality codes.*
+
+External borders refer to the borders between
+Member States and third countries. The borders between the Schengen Associated Countries (Norway, Iceland and Switzerland) and
+third countries are also considered as external
+borders. The borders between the Schengen
+Associated Countries and Schengen Member
+States are considered as internal borders. For
+the indicators on detections of facilitators, illegal stay and asylum, statistics are also reported for detections at the land borders
+between the Schengen Member States and
+Schengen candidates (Bulgaria, Croatia, Romania) or non-Schengen Member States (the
+UK, Ireland), so that a total for EU Member
+States and Schengen Associated Countries as
+a whole can be presented. It was not possible to make this distinction for air and sea
+borders because Member States do not habitually differentiate between extra-EU and
+intra-EU air and sea connections but tend to
+aggregate data for all arrivals.
+
+were JO Poseidon Sea 2013, Focal Points Sea
+2013, JO EPN Hermes 2013, JO EPN Indalo
+2013, JO EPN Aeneas 2013, JO EPN Minerva
+2013 and JO EPN Hera 2013; for land borders
+– JO Poseidon Land 2013, JO Focal Points
+Land 2013, Project Coordination Points 2013,
+JO Jupiter 2013 and the Rabbit Exercise; for
+the air border – JO Focal Points Air 2013, and
+JO Meteor 2013; and the return-related Project Attica 2013.
+
+When data are examined at the level of thirdcountry nationalities, a large percentage
+usually falls under the category ‘Other (not
+specified)’ or ‘Unknown’. It is expected that
+the percentage reported under these categories will decrease with time as Member States improve the quality and speed
+of their identification, data collection and
+reporting practices; nationalities are often
+reported as ‘Unknown’ if an individual’s nationality cannot be established before reports are submitted.
+
+Acknowledgements
+
+This issue of the FRAN Quarterly also includes main findings of Frontex-coordinated
+Joint Operations active for at least a proportion of Q3 2013. Namely, for sea borders they
+
+Both primary data sources, such as interviews
+with irregular migrants, and secondary data
+sources, such as reports of intelligence analysts, daily reports of deployed officers and
+analytical products (weekly and bi-weekly
+analytical reports for each abovementioned
+operation), were used to provide an exhaustive overview of the situation at the external
+borders of the EU. Additionally, open-source
+data were researched as background information for the present analysis.
+
+The Frontex Risk Analysis Unit would like
+to express its gratitude to all FRAN and
+EDF-RAN members and their associates in
+Member State statistical, migration and document-fraud units who collect, aggregate
+and exchange monthly data, and to the analysts who compile the bi-monthly analytical reports, on which much of the detailed
+analyses presented here are based.
+We are also grateful to Member State representatives who responded to requests for
+additional information on key topics and
+emerging trends.
+
+9 of 58
+
+Frontex · FRAN Quarterly · q3 2013
+
+3. Summary of FRAN indicators
+Table 1.Summary of FRAN indicators
+Detections or cases as reported by Member States
+
+2012
+
+FRAN indicator
+1A Illegal entries between BCPs
+1B Clandestine entries at BCPs
+
+Q2
+
+Q3
+
+Q4
+
+23 095
+
+22 093
+
+13 613
+
+126
+
+167
+
+203
+
+Q1
+
+2013 Q3
+% change on
+
+Q2
+
+Q3
+
+9 717
+
+24 805
+
+42 618
+
+93
+
+72
+
+130
+
+118
+
+53
+
+-68
+
+-55
+-0.9
+
+prev. year
+
+prev. qtr
+
+2
+
+Facilitators
+
+1 785
+
+1 712
+
+2 118
+
+1 622
+
+1 705
+
+1 689
+
+-1.3
+
+3
+
+Illegal stay
+
+84 891
+
+86 759
+
+84 817
+
+77 127
+
+80 125
+
+85 608
+
+-1.3
+
+6.8
+
+4
+
+Refusals of entry
+
+28 282
+
+32 012
+
+31 081
+
+28 358
+
+37 316
+
+32 435
+
+1.3
+
+-13
+
+5
+
+Applications for asylum
+
+59 576
+
+73 769
+
+86 109
+
+72 850
+
+85 362
+
+97 207
+
+32
+
+14
+
+7A Return decisions issued
+
+67 891
+
+71 129
+
+61 025
+
+55 285
+
+53 586
+
+57 583
+
+-19
+
+7.5
+
+7B Effective returns
+
+40 443
+
+37 696
+
+42 172
+
+38 231
+
+40 311
+
+40 420
+
+7.2
+
+0.3
+
+Source: FRAN data as of 5 November 2013
+
+10 of 58
+
+2013
+
+Figure 1. Evolution of FRAN indicators
+Detections reported by Member States, thousands of persons
+Line sections in lighter blue mark changes between second and third quarters
+
+1A Illegal entries between BCPs
+
+2 Facilitators
+
+45
+
+2.6
+
+40
+
+2.4
+
+35
+
+2.2
+
+30
+
+2.0
+
+25
+
+1.8
+
+20
+
+1.6
+
+15
+10
+
+1.4
+
+5
+
+1.2
+
+0
+
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+2010
+
+2011
+
+2012
+
+1.0
+
+2013
+
+3 Illegal stay
+98
+
+2010
+
+2012
+
+2013
+
+4 Refusals of entry
+
+38
+
+34
+
+90
+
+32
+
+86
+
+30
+
+82
+
+28
+
+78
+
+26
+
+74
+
+24
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+2010
+
+2011
+
+2012
+
+22
+
+2013
+
+5 Applications for asylum
+
+100
+
+80
+
+40
+
+70
+
+38
+
+60
+
+36
+
+50
+
+34
+
+2010
+
+2011
+
+2012
+
+2013
+
+2011
+
+32
+
+2012
+
+2013
+
+7B Effective returns
+
+44
+42
+
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+2010
+
+90
+
+40
+
+2011
+
+36
+
+94
+
+70
+
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+2010
+
+2011
+
+2012
+
+Source: FRAN data as of 5 November 2013
+
+11 of 58
+
+2013
+
+Frontex · FRAN Quarterly · q3 2013
+
+4. Situational picture in Q3 2013
+4.1.	Detections of illegal
+border-crossing
+
+* http://ec.europa.eu/
+commission_2010-2014/
+malmstrom/news/
+archives/2013/10/20131008_
+en.htm
+
+detections reported from the Italian blue
+border, specifically in the Central Mediterranean region. These detections were mostly of
+Syrians and Eritreans and, to a lesser extent,
+Egyptians and Somalis, arriving in boats to the
+Pelagic Islands (mainly Lampedusa) and Sicily. Tragically, in Q3 2013 there were several
+major incidents of boats capsizing in the region resulting in a massive loss of life including women and children. These events were
+widely reported in the media, and attracted a
+lot of political attention to the issue of irregular migration in the Mediterranean in general, including several statements released
+from EU Commissioner for Home Affairs Cecilia Malmström, and her visit to Lampedusa
+with Italian Prime Minister Enrico Letta* (see
+Section 4.2.2. Central Mediterranean route).
+
+Since the beginning of 2013 there has been
+a massive increase in detections of illegal
+border-crossing to a level even greater than
+that during the Arab Spring in 2011. Overall,
+there were 42 618 detections of illegal bordercrossing at the EU level, which is the highest
+number during any single quarter since 2008,
+very nearly double the number reported during the same quarter in 2012, and more than
+four times higher than at the beginning of
+the year. Most detections of illegal bordercrossing were at the sea border of the EU,
+where irregular migration has not been at
+similarly high levels for five years. This level
+of illegal-border crossing represents a massive influx of irregular migration at the external border of the EU.
+
+Elsewhere, in Greece detections remained
+stable between the second and third quarters of 2013 but remained at a sufficiently
+high level for Greece to rank second among
+all Member States in terms of illegal border-
+
+Similarly to the situation during the initial
+stages of the Arab Spring in 2011, this strong
+surge was almost exclusively due to increased
+
+Figure 2. D
+ etections of illegal border-crossing increased dramatically in Q3 2013, almost
+exclusively because of boats arriving in the Central Mediterranean; detections of illegal
+border-crossing at the sea border of the EU were at the highest level for five years
+Total quarterly detections of illegal border-crossing between BCPs, split between detections at the land and sea borders
+
+60 000
+
+Land
+
+50 000
+
+Sea
+
+40 000
+30 000
+20 000
+10 000
+0
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+2008
+
+2009
+
+Source: FRAN data as of 5 November 2013
+
+12 of 58
+
+2010
+
+2011
+
+2012
+
+2013
+
+Figure 3. Of the Member States that are
+subject to illegal border-crossings, most
+reported increased detections, especially
+those in the Central Mediterranean (Italy
+and Malta) and those affected by flows
+of migrants entering the EU via Turkey
+(Bulgaria and Hungary)
+
+crossings. The Greek land border with Turkey
+was for many years considered to be the main
+entry point for illegal border-crossing, until
+the launch of the Greek operation Aspida in
+August 2012. As a consequence of the operation Aspida, in nearby Bulgaria detections
+of illegal border-crossing have been steadily
+increasing. For example, between the second and third quarters of 2013 detections increased threefold mostly due to more Syrians
+and, to a lesser extent, Afghans and Algerians,
+detected at the Bulgarian land border with
+Turkey. This rise was associated with an increase in asylum applications in Bulgaria (see
+Section 4.2.4. Eastern Mediterranean route).
+In Hungary detections of illegal border-crossing were more than three times higher than
+a year ago but down by a half compared to
+the previous quarter. This remarkable fluctuation in such a short space of time was due
+to a series of legislative changes affecting the
+treatment and detention of asylum seekers,
+which resulted in a brief but very significant
+and still apparent pull factor to the Hungarian land border with Serbia (see Section 4.2.1.
+Western Balkan route).
+
+Detections of illegal border-crossing during Q3 2012 and
+Q3 2013 for the top ten reporting Member States shown
+by size of circle; gradient of the lines indicates the degree
+of change between the two reporting periods
+
+Bulgaria
+
+Italy
+
+Hungary
+
+Malta
+
+Spain
+Lithuania
+
+Figure 2 shows the evolution of FRAN Indicator 1A – detections of illegal border-crossing,
+and the proportion of detections at the land
+and sea borders of the EU per quarter since
+the beginning of 2008. This figure clearly illustrates the huge increase going into the
+third quarter of 2013 and the fact that detections were mostly (69%) reported from the
+sea border, where detections have not been
+at a similarly high level since 2008.
+
+Slovakia
+
+As well as in the Central Mediterranean,
+there were also reports of increased pressure at other border sections. In Q3 2013, of
+the Member States that are subject to illegal
+border-crossings, most reported increased
+detections compared to the same period
+in 2012. Figure 3 illustrates the number of
+detections of illegal border-crossing for ten
+
+Romania
+
+Cyprus
+
+Greece
+
+2012 Q3
+
+2013 Q3
+
+Source: FRAN data as of 5 November 2013
+
+13 of 58
+
+Frontex · FRAN Quarterly · q3 2013
+
+Figure 4. The massive influx of irregular
+migration at the European borders was
+mostly comprised of Syrians, Eritreans and,
+to a lesser extent, Somalis, Nigerians and
+Egyptians; the majority of each of these
+nationalities (59–97%) were detected at the
+blue borders of Italy
+Detections of illegal border-crossing during Q3 2012 and
+Q3 2013 for the top ten nationalities shown by size of
+circle; gradient of the lines indicates the degree of change
+between the two reporting periods
+
+Eritrean
+Nigerian
+Malian
+
+Apart from analysing the changes in terms
+of Member State distributions, it is also informative to consider these trends by nationality of the detected migrants at the EU
+level. Figure 4 illustrates the number of detections of illegal border-crossing of the top
+ten nationalities during the third quarters of
+2012 and 2013 (size of circles) and the degree
+of change between these reporting periods
+(slopes). This clearly shows that detections
+of Eritrean

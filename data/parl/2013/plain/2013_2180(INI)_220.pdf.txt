@@ -1,0 +1,442 @@
+Procedure file
+Basic information
+2013/2180(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Preparing for a fully converged audiovisual world
+
+Subject
+1.20.09 Protection of privacy and data protection
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+3.30.01 Audiovisual industry and services
+3.30.02 Television, cable, digital, mobile
+3.30.05 Electronic and mobile communications, personal communications
+3.30.06 Information and communication technologies
+3.30.08 Press, media freedom and pluralism
+3.30.25 International information networks and society, internet
+3.50.04 Innovation
+3.50.15 Intellectual property, copyright
+4.45 Common cultural area, cultural diversity
+4.60.06 Consumers' economic and legal interests
+
+Key players
+European Parliament
+
+Committee responsible
+CULT
+
+Culture and Education
+
+Rapporteur
+
+Appointed
+
+PPE VERHEYEN Sabine
+
+17/06/2013
+
+Shadow rapporteur
+S&D KAMMEREVERT Petra
+ALDE HIRSCH Nadja
+Verts/ALE TRÜPEL Helga
+ECR MCCLARKIN Emma
+GUE/NGL MICHELS Martina
+Committee for opinion
+ITRE
+
+IMCO
+
+European Commission
+
+Rapporteur for opinion
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+S&D CASTEX Françoise
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+The committee decided not to
+give an opinion.
+
+Commission DG
+
+Appointed
+
+14/10/2013
+
+Commissioner
+
+Communications Networks, Content and Technology KROES Neelie
+
+Key events
+24/04/2013
+
+Non-legislative basic document published
+
+12/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+21/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+28/01/2014
+
+Committee report tabled for plenary,
+single reading
+
+COM(2013)0231
+
+Summary
+
+A7-0057/2014
+
+Summary
+
+12/03/2014
+
+Results of vote in Parliament
+
+12/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+12/03/2014
+
+End of procedure in Parliament
+
+Summary
+
+T7-0232/2014
+
+Technical information
+Procedure reference
+
+2013/2180(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CULT/7/13728
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2013)0231
+
+24/04/2013
+
+EC
+
+Committee draft report
+
+PE522.809
+
+06/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE524.687
+
+13/12/2013
+
+EP
+
+PE523.005
+
+18/12/2013
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A7-0057/2014
+
+28/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T7-0232/2014
+
+12/03/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)457
+
+11/08/2014
+
+Committee opinion
+
+JURI
+
+Summary
+
+2013/2180(INI) - 24/04/2013 Non-legislative basic document
+BACKGROUND: the Commissions Green Paper shows that lines are blurring quickly between the familiar twentieth-century consumption
+patterns of linear broadcasting received by TV sets versus on-demand services delivered to computers. Moreover, with every smartphone
+enabling converged production as well as consumption, there might be a future shift from lean-back consumption to active participation.
+The Green Paper also indicates that connectable TVs will move from 40.4 million devices end of 2012 to a presence in a majority of EU TV
+households by 2016.
+As regards usage of the functions enabled through added connectivity to the internet, the reported rate in the UK in 2012 which is the highest
+in the EU - as 11% of the installed base, in comparison with 44% in China, 18% in Korea and 17% in India. In the US, it is envisaged that there
+will be an increase from the current 22.5% of US households using connected TVs including OTT (Over the Top) connections and game
+consoles to up to 43.1 % by 2016.
+While linear general viewing times are still around 4 hours a day across the EU, the converged experience progressively becomes a reality
+and market players develop and adapt business models. Technology already allows the user to create, distribute and access all types of
+content irrespective of time, place or device.
+In this context, the Commissions vision is to seize the opportunity of this changing technological environment to ensure the widest possible
+access to European diversified content for all Europeans and, the widest choice of high quality offers. The technological ability to deliver
+content to be legally accessible to viewers throughout the EU could also incentivise market players to create new types of content.
+CONTENT : the objective of the Green Paper is to open a broad, public discussion on the implications of the on-going transformation of the
+audiovisual media landscape, characterised by a steady increase in the convergence of media services and the way in which these services
+are consumed and delivered.
+What is convergence? : Convergence can be understood as the progressive merger of traditional broadcast services and the Internet. This
+results in viewing possibilities extending from TV sets with added internet connectivity, through set-top boxes delivering video content OTT to
+
+audiovisual media services provided via PCs, laptops or tablets and other mobile devices. Consumers use tablets or smartphones while
+simultaneously watching TV, for instance to find out more about what they are watching or to interact with friends or with the TV programme
+itself.
+Action at EU level: the need for private economic actors to further innovate and for policy makers to ensure the right framework conditions, and
+to reflect on possible public policy responses, results in the following questions:
+- How to transform the process of convergence in a larger European market into economic growth and business innovation in Europe?
+- What are the implications of convergence for values such as media pluralism, cultural diversity, and the protection of consumers, including
+specific groups such as minors?
+As convergence will become gradually more tangible over the next decade, it might have an impact in future on a number of legal instruments
+including the Audiovisual Media Services Directive (AVMS Directive), the E-Commerce Directive and the electronic communications
+framework.
+The Green Paper also discusses the following issues:
+·
+
+the impact of connected TV on the market and the opportunity for greater opening up of audiovisual content (still limited in Europe in
+comparison to global competitors) and the application of competition rules to this specific sector;
+
+·
+
+possible financing models since progressive convergence, changing consumer behaviour and emerging new business models
+impact the financing of audiovisual production;
+
+·
+
+problems relating to interoperability and the need for standardisation, bearing in mind both its advantages (allowing scale economies
+and interoperability) and its drawbacks (risk of freezing innovation);
+
+·
+
+infrastructure and access to radio spectrum (need to increase the bandwidth required;)
+
+·
+
+the values that underpin the regulation of audiovisual media services in Europe, data protection and promotion of European cultural
+diversity;
+
+·
+
+the problem of media freedom and pluralism and the need to filter content effectively in order to protect consumers;
+
+·
+
+advertising and personalisation of content offers (online behavioural advertising, and industry standardisation initiatives such as Do
+Not Track (DNT);
+
+·
+
+protection of minors and the weaknesses in the current regulatory regime;
+
+·
+
+accessibility problems for the disabled.
+
+With regard to the revision of the ADVS Directive, (the priority in the context of the Green Paper), the Commission considers that the
+technology-neutral approach of the Directive means that the same services are regulated in the same manner irrespective of the device on
+which they are consumed. However, the AVMSD makes a distinction between linear (television broadcasts) and non-linear (on- demand)
+services.
+Given convergence between media, the Green Paper asks whether there is evidence of market distortion caused by the regulatory
+differentiation between linear and non-linear services? If yes, what would be the best way to tackle these distortions while protecting the values
+underpinning the EU regulatory framework for audiovisual media services?
+Wide consultation: the Green Paper calls on all interested parties to respond to the questions asked. The consultation does not presuppose
+any specific outcome. Nonetheless, it may pave the way towards possible regulatory and other policy responses in the longer term, in
+particular linking up Commission initiatives such as the Better Internet for Kids Coalition, possible activities to follow up the report of the High
+Level Group on Media Freedom and Pluralism, as well as work on self-regulatory initiatives.
+Observations to the issues raised in the Green Paper should be sent to the Directorate- General for Communications Networks, Content and
+Technology of the European Commission by 31/08/2013.
+
+2013/2180(INI) - 28/01/2014 Committee report tabled for plenary, single reading
+The Committee on Culture and Education adopted the own-initiative report by Sabine Verheyen (EPP, DE) on preparing for a fully converged
+audiovisual world in response to the Commission Green Paper on the subject. It noted that technical media convergence had become a reality
+particularly for broadcasting, the press and the internet and European policies concerning media, culture and networks needed to adapt the
+regulatory framework to the new conditions and ensure that a uniform level of regulation could be established and enforced, including as
+regards new entrants to the market from the EU and third countries.
+Convergent markets: Members stressed the likely creation of dominant market positions and stated that regulation was required where content
+gateways control access to media and impact directly or indirectly on the shaping of opinion. They recalled that such gateways could include
+TV platforms (like satellite, cable and IPTV), devices (like connected TVs and games consoles) or over-the-top services. The committee called
+on the Commission and Member States to monitor developments in this regard and to make full use of the possibilities offered by European
+competition and anti-trust law and, if necessary, introduce measures to safeguard diversity, and also to draw up a regulatory framework for
+convergence that is adapted to these developments.
+Access and findability: the report asked the Commission to ensure, in a legally binding manner, compliance with the principles of internet
+neutrality, and reiterated that net neutrality rules did not remove the need to apply must-carry rules for managed networks or specialised
+services such as cable TV and IPTV. It called on the Commission to:
+check the extent to which operators of content gateways tend to abuse their position in order to prioritise their own content, and to
+develop measures to rule out any future abuse;
+define what a platform is and to establish, if necessary, regulation that also covers technical networks transfer of audiovisual content;
+investigate where measures to secure the accessibility and findability of audiovisual media were needed and how they could be
+
+enforced, while recalling that regulatory measures should only be taken if a platform provider, by means of apps, exploited a dominant
+market position or gatekeeper function in order to favour or discriminate against particular content.
+Members were concerned that appisation could lead to market access problems for producers of audiovisual content.
+Safeguarding diversity and funding: the report emphasises that new advertising strategies that used new technologies to increase their
+effectiveness (screenshots, consumer profiling, multi-screen strategies) raised the issue of protecting consumers, their private lives and their
+personal data. With this in mind, Members stressed the need to come up with a set of consistent rules to apply to these strategies. They also
+called on the Commission to:
+examine the extent to which market distortions as regards quantitative and qualitative bans on advertising have arisen as a result of
+the unequal treatment of linear and non-linear services under Directive 2010/13/EU;
+determine how the refinancing, funding and production of quality European audiovisual content can be secured in a future-proof and
+balanced manner;
+Infrastructure and frequencies: Members regretted there were still vast areas across Europe with limited internet infrastructure, and reminded
+the Commission that it was vital for consumers to have access to high-speed internet.
+They also urged industry actors to work together on a voluntary basis in order to ensure that there was a common framework for media
+standards, so that a more consistent approach applied across different media. On frequencies, Members stressed that DVB-T/T2 offered
+excellent long-term opportunities for the joint use of the 700 MHz frequency band by broadcasting and mobile communications.
+Values: the committee regretted the Green Papers lack of a specific reference to the dual nature of audiovisual media as cultural and
+economic assets. It drew attention to the fact that including audiovisual culture and media in international free trade agreements represented a
+contradiction of the EUs commitment to promote cultural diversity and to respect Member States sovereignty over their own cultural heritage.
+Members encouraged Europes audiovisual industry to continue to develop consistent, attractive services, especially on-line, so as to enrich
+the range of European audiovisual content on offer.
+Regulatory framework: Members called on the Commission to conduct an impact assessment so as to look into whether, in the light of
+developments in all audiovisual media services accessible to European citizens, the scope of the AVMS Directive was still relevant.
+Lastly, the report stressed the importance of protection of minors, and the equal treatment of all data packages, regardless of content,
+application, origin and destination.
+
+2013/2180(INI) - 12/03/2014 Text adopted by Parliament, single reading
+The European Parliament adopted by 613 votes to 34 with 30 abstentions, a resolution on Preparing for a Fully Converged Audiovisual World,
+in reply to the Commissions Green Paper on the subject.
+Parliament considered that technical media convergence was now a reality, particularly for broadcasting, the press and the internet. In this
+context, European policies concerning media, culture and networks should adapt the regulatory framework to the new conditions, while
+ensuring that a uniform level of regulation can be established and enforced, including as regards new entrants to the market from the EU and
+third countries.
+Convergent markets: if the increasing trend towards horizontal concentration in the industry and vertical integration along the value chain can
+provide new business opportunities they may also create dominant market positions. Parliament stressed that regulation is required where
+content gateways control access to media and impact directly or indirectly on the shaping of opinion.
+Members recalled that the term content gateway may include TV platforms (like satellite, cable and IPTV), devices (like connected TVs and
+games consoles) or over-the-top (OTT) services. Parliament invited the Commission and the Member States to consider these developments:
+·
+
+to make full use of the possibilities offered by European competition and anti-trust law and, if necessary, to introduce measures to
+safeguard diversity;
+
+·
+
+to draw up a regulatory framework for convergence that is adapted to these developments.
+
+Access and findability: to guarantee a pluralist supply of information and a diversity of opinion and culture, the resolution called on the
+Commission, to ensure, in a legally binding manner, compliance with the principles of internet neutrality. It recalled the net neutrality rules did
+not remove the need to apply must-carry rules for managed networks or specialised services such as cable TV and IPTV. Parliament called on
+the Commission to:
+·
+
+check the extent to which operators of content gateways tend to abuse their position in order to prioritise their own content, and to
+develop measures to rule out any future abuse;
+
+·
+
+define what a platform is and to establish, if necessary, regulation that also covers technical networks transfer of audiovisual content;
+
+·
+
+investigate where measures to secure the accessibility and findability of audiovisual media are needed and how they can be
+enforced.
+
+The resolution nonetheless recalled that regulatory measures should only be taken if a platform provider, by means of apps, exploits a
+dominant market position or gatekeeper function in order to favour or discriminate against particular content.
+Furthermore, whilst encouraging the creation of applications (apps) Members expressed the fear that appisation can lead to market access
+problems for producers of audiovisual content.
+Safeguarding diversity and funding models: Parliament emphasised that new advertising ?strategies that use new technologies to ?increase
+their effectiveness (screenshots, ?consumer profiling, multi-screen ?strategies) raise the issue of protecting ?consumers, their private lives and
+their ?personal data. With this in mind, Members stressed the need to come up with a set of consistent rules to apply to these strategies. They
+called on the Commission to:
+
+·
+
+examine the extent to which market distortions as regards quantitative and qualitative bans on advertising have arisen as a result of
+the unequal treatment of linear and non-linear services under Directive 2010/13/EU (Directive AMS);
+
+·
+
+determine how the refinancing, funding and production of quality European audiovisual content can be secured in a future-proof and
+balanced manner.
+
+Infrastructure and frequencies: Members regretted there are still vast areas across Europe with limited internet infrastructure. They reminded
+the Commission that in order to unlock the potential of a converged audiovisual world, it was vital for consumers to have access to high-speed
+internet.
+Parliament also invited industry actors to work together on a voluntary basis in order to ensure that there is a common framework for media
+standards, so that a more consistent approach applies across different media. With regard to frequencies, Members stressed that DVB-T/T2
+offered excellent long-term opportunities for the joint use of the 700MHz frequency band by broadcasting and mobile communications.
+Values: Parliament regretted the Green Papers lack of a specific reference to the dual nature of audiovisual media as cultural and economic
+assets. It reminded the Commission that including audiovisual culture and media in international free trade agreements contradicted the EUs
+commitment to promote cultural diversity and identity as well as its obligations vis-à-vis respecting Member States sovereignty over their own
+cultural heritage. Underlining that having a large number of platforms is no guarantee of diversity of content, Members encouraged Europes
+audiovisual industry to continue to develop consistent, attractive services, especially on-line, so as to enrich the range of European audiovisual
+content on offer.
+Regulatory framework: Parliament called on the Commission to conduct an impact assessment to look into whether, in the light of
+developments in all audiovisual media services accessible to European citizens, the scope of the Audiovisual Media Services (AMS) Directive
+is still relevant.
+The resolution stressed the importance of protection of minors and equality of treatment of all data packages, regardless of content,
+application, origin and destination.
+Finally, the Commission was invited to examine whether copyright law needs to be adapted to enable linear and non-linear content on the
+various platforms and their cross-border accessibility to be appropriately evaluated.
+
+

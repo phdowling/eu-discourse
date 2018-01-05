@@ -1,0 +1,576 @@
+Procedure file
+Basic information
+INI - Own-initiative procedure
+
+2015/2147(INI)
+
+Procedure completed
+
+Towards a digital single market act
+
+Subject
+2 Internal market, single market
+2.10 Free movement of goods
+2.40 Free movement of services, freedom to provide
+3.30.06 Information and communication technologies
+3.30.25 International information networks and society, internet
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE Industry, Research and Energy
+(Associated committee)
+
+Rapporteur
+
+Appointed
+07/07/2015
+
+GEBHARDT Evelyne
+
+07/07/2015
+
+KALLAS Kaja
+Shadow rapporteur
+
+JUVIN Philippe
+
+VIRKKUNEN Henna
+
+KUMPULA-NATRI
+Miapetra
+
+FORD Vicky
+
+HENKEL Hans-Olaf
+
+CHARANZOVÁ Dita
+
+DE JONG Dennis
+
+ERNST Cornelia
+
+REDA Julia
+
+TARAND Indrek
+
+BORRELLI David
+
+ZULLO Marco
+KAPPEL Barbara
+IMCO Internal Market and Consumer Protection
+(Associated committee)
+
+07/07/2015
+GEBHARDT Evelyne
+
+07/07/2015
+
+KALLAS Kaja
+Shadow rapporteur
+
+JUVIN Philippe
+
+VIRKKUNEN Henna
+
+KUMPULA-NATRI
+Miapetra
+
+FORD Vicky
+
+HENKEL Hans-Olaf
+
+CHARANZOVÁ Dita
+
+DE JONG Dennis
+
+ERNST Cornelia
+
+REDA Julia
+
+TARAND Indrek
+
+BORRELLI David
+
+ZULLO Marco
+KAPPEL Barbara
+Committee for opinion
+ECON
+
+Rapporteur for opinion
+
+Economic and Monetary Affairs
+
+Appointed
+11/06/2015
+
+SORU Renato
+EMPL Employment and Social Affairs
+(Associated committee)
+TRAN
+
+05/06/2015
+STEINRUCK Jutta
+
+Transport and Tourism
+
+24/06/2015
+KYLLÖNEN Merja
+
+CULT Culture and Education
+(Associated committee)
+JURI Legal Affairs
+(Associated committee)
+LIBE Civil Liberties, Justice and Home Affairs
+(Associated committee)
+
+European Commission
+
+Commission DG
+
+04/05/2015
+KAMMEREVERT Petra
+24/03/2015
+DZHAMBAZKI Angel
+03/09/2015
+BONI Michał
+Commissioner
+
+Communications Networks, Content and Technology OETTINGER Günther
+
+Key events
+06/05/2015
+
+Non-legislative basic document published
+
+10/09/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+Referral to associated committees
+
+COM(2015)0192
+
+Summary
+
+10/09/2015
+
+announced in Parliament
+
+14/12/2015
+
+Vote in committee, 1st reading/single
+reading
+
+21/12/2015
+
+Committee report tabled for plenary,
+single reading
+
+19/01/2016
+
+Results of vote in Parliament
+
+19/01/2016
+
+Debate in Parliament
+
+19/01/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+19/01/2016
+
+End of procedure in Parliament
+
+A8-0371/2015
+
+Summary
+
+T8-0009/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2015/2147(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Strategic initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 055; Rules of Procedure
+of the European Parliament EP 052
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CJ18/8/03915
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2015)0192
+
+06/05/2015
+
+EC
+
+Committee draft report
+
+PE567.714
+
+22/09/2015
+
+EP
+
+Amendments tabled in committee
+
+PE569.784
+
+21/10/2015
+
+EP
+
+Amendments tabled in committee
+
+PE569.785
+
+21/10/2015
+
+EP
+
+Amendments tabled in committee
+
+PE569.787
+
+21/10/2015
+
+EP
+
+Amendments tabled in committee
+
+PE569.786
+
+22/10/2015
+
+EP
+
+Summary
+
+Committee opinion
+
+TRAN
+
+PE565.151
+
+11/11/2015
+
+EP
+
+Committee opinion
+
+EMPL
+
+PE560.716
+
+16/11/2015
+
+EP
+
+Committee opinion
+
+CULT
+
+PE565.210
+
+16/11/2015
+
+EP
+
+Committee opinion
+
+LIBE
+
+PE567.643
+
+01/12/2015
+
+EP
+
+Committee opinion
+
+ECON
+
+PE567.734
+
+04/12/2015
+
+EP
+
+Committee opinion
+
+JURI
+
+PE557.273
+
+07/12/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0371/2015
+
+21/12/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0009/2016
+
+19/01/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2016)220
+
+01/06/2016
+
+2015/2147(INI) - 06/05/2015 Non-legislative basic document
+
+PURPOSE: to propose a connected Digital Single Market Strategy for Europe.
+BACKGROUND: the global economy is rapidly becoming digital. These changes are happening at a scale and speed that bring immense
+opportunities for innovation, growth and jobs.
+Against this background, all Member States are wrestling with similar problems but on a national basis which is too limited to allow them to
+seize all the opportunities and deal with all the challenges of this transformational change. For many issues the European level offers the right
+framework. That is why the European Commission has set the creation of a Digital Single Market as one of its key priorities.
+Europe has the capabilities to lead in the global digital economy but we are currently not making the most of them. Fragmentation and barriers
+that do not exist in the physical Single Market are holding the EU back. Bringing down these barriers within Europe could contribute an
+additional EUR 415 billion to European GDP. The digital economy can:
+expand markets and foster better services at better prices,
+offer more choice and create new sources of employment,
+create opportunities for new start-ups and allow existing companies to grow and profit from the scale of a market of over 500 million
+people.
+CONTENT: this Strategy has a multi-annual scope and is focused on key interdependent actions that can only be taken at EU level . They have
+been chosen to have maximum impact, can be delivered during the Juncker Commission's mandate.
+The Digital Single Market Strategy will be built on three pillars:
+PILLAR 1: Better access for consumers and businesses to online goods and services across Europe: this requires the rapid removal of key
+differences between the online and offline worlds to break down barriers to cross-border online activity.
+1. Cross-border e-commerce rules: only 7% of SMEs in the EU sell cross-border. If the same rules for e-commerce were applied in
+all EU Member States, 57% of companies say they would either start or increase their online sales to other EU Member States.
+The Commission will make an amended proposal before the end of 2015 (i) covering harmonised EU rules for online purchases of
+digital content, and (ii) allowing traders to rely on their national laws based on a focused set of key mandatory EU contractual rights
+for domestic and cross-border online sales of tangible goods. The Commission will also submit a proposal for a review of the
+Regulation on Consumer Protection Cooperation in order to develop more efficient cooperation mechanisms.
+2. Affordable high-quality cross-border parcel delivery: for companies that currently do not sell online but are trying to do so, 62% say
+the fact that delivery costs are too high is a problem. The Commission will launch measures in the first half of 2016 to improve price
+transparency and enhance regulatory oversight of parcel delivery.
+3. Preventing unjustified geo-blocking: geo-blocking refers to practices used for commercial reasons by online sellers that result in
+the denial of access to websites based in other Member States. Geo-blocking is one of several tools used by companies to segment
+markets along national borders (territorial restrictions). By limiting consumer opportunities and choice, geo-blocking is a significant
+cause of consumer dissatisfaction and of fragmentation of the Internal Market.
+The Commission will make legislative proposals in the first half of 2016 to end unjustified geo-blocking. Action could include targeted
+change to the e-Commerce framework and the framework set out by Article 20 of the Services Directive.
+Furthermore, the Commission will review the satellite and cable directive to assess the need to enlarge its scope to broadcasters'
+online transmissions and the need to tackle further measures to ensure enhanced cross-border access to broadcasters' services in
+Europe.
+4. A modern, more European copyright framework: 56% of Europeans use the internet for cultural purposes and spending on digital
+entertainment and media is predicted to see double digit growth rates (around 12%) for the next five years.
+Barriers to cross-border access to copyright-protected content services and their portability are still common, particularly for
+audiovisual programmes.
+The Commission will make legislative proposals before the end of 2015 to reduce the differences between national copyright
+regimes and allow for wider online access to works by users across the EU, including through further harmonisation measures.
+Europe needs a more harmonised copyright regime which provides incentives to create and invest while allowing transmission and
+consumption of content across borders, building on our rich cultural diversity.
+5. Reducing VAT related burdens and obstacles when selling across borders: an EU business wishing to make cross-border sales
+faces a VAT compliance cost of at least EUR 5,000 annually for each targeted Member State.
+The Commission will make legislative proposals in 2016 to reduce the administrative burden on businesses arising from different
+VAT regimes including (i) extending the current single electronic registration and payment mechanism to intra-EU and 3rd country
+online sales of tangible goods, (ii) introducing a common EU-wide simplification measure (VAT threshold) to help small start-up
+e-commerce businesses.
+PILLAR 2: Creating the right conditions for digital networks and services to flourish: this requires high-speed, secure and trustworthy
+infrastructures and content services, supported by the right regulatory conditions for innovation, investment, fair competition and a level playing
+field.
+The Commission intends to:
+1. present proposals in 2016 for an ambitious overhaul of the telecoms regulatory framework focusing on (i) a consistent single
+market approach to spectrum policy and management; (ii) delivering the conditions for a true single market; (iii) ensuring a level
+playing field for market players and consistent application of the rules; (iv) incentivising investment in high speed broadband
+networks (including a review of the Universal Service Directive).
+2. A media framework for the 21st century: the Commission will review the Audiovisual Media Services Directive with a focus on its
+scope and on the nature of the rules applicable to all market players, in particular measures for the promotion of European works,
+and the rules on protection of minors and advertising rules.
+
+3. Analyse the role of online platforms (e.g. search engines, social media, e-commerce platforms, app stores, etc): certain online
+platforms are playing an ever more central role in social and economic life: they enable consumers to find online information and
+businesses to exploit the advantages of ecommerce.
+The Commission will launch before the end of 2015 a comprehensive assessment of the role of platforms, including in the sharing
+economy, and of online intermediaries. It will cover issues such as how best to tackle illegal content on the Internet.
+4. Reinforcing trust and security in digital services and in the handling of personal data: only 22% of Europeans have full trust in
+companies such as search engines, social networking sites and e-mail services. In the first half of 2016, the Commission will initiate
+the establishment a Public-Private Partnership on cybersecurity in the area of technologies and solutions for online network security.
+Once the new EU rules on data protection are adopted, which should be by the end of 2015, the Commission will review the
+ePrivacy Directive.
+PILLAR 3: Maximising the growth potential of our European Digital Economy: this requires investment in ICT infrastructures and technologies
+such as Cloud computing and Big Data, and research and innovation to boost industrial competiveness as well as better public services,
+inclusiveness and skills.
+The Commission intends to:
+1. propose in 2016 a European Free flow of data initiative that tackles restrictions on the free movement of data for reasons other
+than the protection of personal data within the EU and unjustified restrictions on the location of data for storage or processing
+purposes;
+2. launch an integrated standardisation plan to identify and define key priorities for standardisation with a focus on the technologies
+and domains that are deemed to be critical to the Digital Single Market, including essential sectoral interoperability and standards in
+areas such as health (telemedicine, m-health), transport (travel planning, efreight), environment, and energy;
+3. support an inclusive Digital Single Market in which citizens and businesses have the necessary skills and can benefit from
+interlinked and multi-lingual eservices, from e-government, e-justice, e-health, e-energy or e-transport. The Commission will: (i)
+address digital skills and expertise as a key component of its future initiatives on skills and training; (ii) present a new e-Government
+Action Plan 2016-2020.
+
+2015/2147(INI) - 21/12/2015 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy adopted, jointly with the Committee on Internal Market and Consumer Protection, the
+own-initiative report presented by Kaja KALLAS (ALDE, FI) and Evelyne GEBHARDT (S&D, DE), entitled Towards a Digital Single Market Act,
+as a follow-up to the digital single market strategy for Europe presented by the Commission.
+The Committees on Employment and Social Affairs, Culture and Education, Legal Affairs, Civil Liberties, Justice and Home Affairs, exercising
+their prerogatives as an associated committee under Parliaments Rule 54 of the Rules of Procedure were consulted to give an opinion on the
+report.
+The need for a digital single market: the report stated that Europe must use the great potential of the information and communications
+technology (ICT) sector to digitise the industry and maintain global competitiveness. It called on the Commission to identify and dismantle
+barriers affecting e-commerce in order to build a genuine cross-border e-commerce market.
+Cross-border e-commerce rules that consumers and business can trust: Members welcomed the Commission's undertaking to adopt a strong
+proposal on online contracts covering digital content purchased online and to improve consumers' legal protection in this sphere. The report
+noted that the Commission is planning a Regulatory Fitness and Performance Programme (REFIT) of the whole consumers acquis for 2016.
+The Commission is also called upon to assess the feasibility, usefulness and potential opportunities and weaknesses created by the
+introduction of sector-specific EU trustmarks for online sales as well as to work towards the timely and correct implementation of the EU-wide
+online dispute resolution (ODR) Regulation.
+Affordable high-quality cross-border parcel delivery: the report noted that accessible, affordable, efficient and high-quality delivery services are
+an essential prerequisite for thriving cross-border e-commerce. It called on the Commission and the Member States to actively share best
+practices in the parcel delivery sector, and to propose a comprehensive action plan, including guidelines for best practices, in cooperation with
+operators, to find innovative solutions to improve services, lower costs and the environmental impact, and to propose if necessary a revision of
+the relevant legislation.
+Preventing unjustified geo-blocking: the report considered that ambitious, targeted actions are needed to improve access to goods and
+services, in particular by ending unjustified geo-blocking practices and unfair price discrimination based on geographical location or nationality
+which often have the effect of building monopolies and of consumers resorting to illegal content. Members welcomed the Commissions
+proposal to enhance portability and interoperability in order to stimulate the free circulation of legally acquired, and legally available, content or
+services, as a first step towards bringing an end to unjustified geo-blocking.
+Reducing VAT-related burdens and obstacles when selling across borders: Members stressed that in order to prevent market distortion, tax
+avoidance and tax evasion and to create a true European Digital Single Market, more coordination on taxation is needed, requiring inter alia
+the establishment of an EU-wide Common Consolidated Corporate Tax Base (CCCTB). In this regard, they welcomed the adoption of the
+review of the payment services directive and stressed that if the Union is to enhance EU-wide e-commerce, pan-EU instant e-/m-payments
+under a common standard and the appropriate implementation of the review of the payment services directive must be achieved without delay.
+Role of online platforms: the Commission is urged to examine whether potential issues related to online platforms could be resolved by proper
+and full implementation of existing legislation and effective enforcement of EU competition law in order to ensure a level playing field and fair
+and effective competition between online platforms and to avoid the creation of monopolies. Members also called on the Commission and the
+Member States to support the further development of the sharing economy by identifying artificial barriers and relevant legislation hindering its
+growth.
+Reinforcing trust and security in digital networks: a harmonised response from the EU and its Member States with a view to ensuring a high
+
+level of network and information security is needed. Members stated that providing security on the internet entails the protection of networks
+and critical infrastructure, ensuring the ability of law enforcement agencies to fight crime, including terrorism, violent radicalisation and sexual
+abuse and sexual exploitation of children online. Security, together with protection of fundamental rights in cyberspace, is crucial to reinforcing
+trust in digital services and is therefore a necessary basis for establishing a competitive digital single market.
+Building a data economy: Members emphasised the opportunities that new ICT technologies such as Big Data, cloud computing, 3D-printing
+and other technologies can bring to the economy and society. They also highlighted the opportunities offered by energy sector digitalisation,
+with smart meters, smart grids and data hubs for more efficient and flexible energy production.
+Digital skills and expertise: highlighting that the mismatch between supply and demand with regard to skills is a problem for the development of
+the digital economy, Members called on the Commission, as a matter of urgency, to develop a skills strategy which can tackle this shortage.
+They proposed using appropriations from the Youth Employment Initiative to support associations (grassroots movements) which teach
+disadvantaged young people digital skills. Media and internet literacy should also be promoted.
+E-government: Members stated that the development of e-administration is a priority for innovation. They urged the Commission to lead by
+example in the field of e-government and to develop, together with the Member States, an ambitious and comprehensive e-government action
+plan based on the once only principle, whereby citizens and businesses should not be asked for information already provided to a public
+authority, whilst ensuring citizens' privacy and a high level of data protection.
+
+2015/2147(INI) - 19/01/2016 Text adopted by Parliament, single reading
+The European Parliament adopted by 551 votes to 88, with 39 abstentions, a resolution entitled Towards a Digital Single Market Act, as a
+follow-up to the digital single market strategy for Europe presented by the Commission.
+The need for a digital single market: whilst welcoming the Commission communication, Parliament considered that achieving a Digital Single
+Market, based on a common set of rules, could foster EU competitiveness, have positive effects on growth and jobs, relaunch the Single
+Market and make society more inclusive, offering new opportunities to citizens and businesses, especially by exchanging and sharing
+innovation. Noting that 75 % of the value added by the digital economy comes from traditional industry, Parliament called on Europe to use the
+great potential of the information and communications technology (ICT) sector to digitise the industry and maintain global competitiveness.
+It called on the Commission to:
+identify and dismantle barriers affecting e-commerce in order to build a genuine cross-border e-commerce market e-commerce
+generates EUR 500 billion per year in the European Union - in order to build a genuine cross-border e-commerce market;
+promote a more dynamic economy that allows innovation to flourish and removes barriers for businesses, in particular innovative
+ones, SMEs, start-ups and scale-ups, so that they can access markets in a level playing field.
+Cross-border e-commerce rules that consumers and business can trust: Parliament welcomed the Commission's undertaking to adopt a strong
+proposal on online contracts covering digital content purchased online and to improve consumers' legal protection in this sphere. It agreed that
+consumers should enjoy an equivalent and future-proof level of protection regardless of whether they purchase digital content online or offline.
+It emphasised that this should be done in a technology-neutral manner and not impose unreasonable costs for business.
+Members requested an Active Consumers strategy to assess in particular whether consumer switching is facilitated in the online world, and
+whether action is needed to make consumer switching easier, in order to boost competition in online markets. It also called on the Commission
+to assess the feasibility, usefulness and potential opportunities and weaknesses created by the introduction of sector-specific EU trustmarks
+for online sales as well as to work towards the timely and correct implementation of the EU-wide online dispute resolution (ODR) Regulation.
+Affordable high-quality cross-border parcel delivery: Parliament the report noted that accessible, affordable, efficient and high-quality delivery
+services are an essential prerequisite for thriving cross-border e-commerce. It called on the Commission and the Member States to actively
+share best practices in the parcel delivery sector, and to propose a comprehensive action plan, to find innovative solutions to improve services,
+to further integrate the single market for parcel delivery an52d postal services, to dismantle barriers postal operators encounter in cross-border
+delivery, and to propose if necessary a revision of the relevant legislation.
+Preventing unjustified geo-blocking: in this regard, Parliament:
+called for ambitious, targeted actions to improve access to goods and services, in particular by ending unjustified geo-blocking
+practices and unfair price discrimination based on geographical location or nationality which often have the effect of building
+monopolies and of consumers resorting to illegal content;
+welcomed the Commissions proposal to enhance portability and interoperability in order to stimulate the free circulation of legally
+acquired, and legally available, content or services, as a first step towards bringing an end to unjustified geo-blocking;
+pointed out the importance of the ongoing competition sector inquiry into the e-commerce sector in order to investigate, inter alia,
+whether unjustified geo-blocking restrictions, such as discrimination on the basis of IP address, postal address or the country of issue
+of credit cards, infringe the rules of EU competition law.
+Parliament also welcomed the Commission's commitment to modernise the current copyright framework to adapt it to the digital age.
+Reducing VAT-related burdens and obstacles when selling across borders: Parliament stressed that in order to prevent market distortion, tax
+avoidance and tax evasion and to create a true European Digital Single Market, more coordination on taxation is needed, requiring inter alia
+the establishment of an EU-wide Common Consolidated Corporate Tax Base (CCCTB). In this regard, it welcomed the adoption of the review
+of the payment services directive and stressed that if the Union is to enhance EU-wide e-commerce, pan-EU instant e-/m-payments under a
+common standard and the appropriate implementation of the review of the payment services directive must be achieved without delay.
+To create a fit-for-purpose regulatory environment: Parliament emphasises that private investments in fast and ultra-fast communication
+networks are a requirement for any digital progress that must be incentivised by a stable EU regulatory framework enabling all players to make
+investments, including in rural and remote areas. It highlighted the importance of a successful implementation of European Fund for Strategic
+Investment (EFSI) to maximise investments by targeting projects with higher-risk profiles, boosting economic recovery, stimulating growth, and
+incentivising private investments, inter alia microfinancing and venture capital to support innovative companies.
+
+Role of online platforms: the Commission is urged to examine whether potential issues related to online platforms could be resolved by proper
+and full implementation of existing legislation and effective enforcement of EU competition law in order to ensure a level playing field and fair
+and effective competition between online platforms and to avoid the creation of monopolies. Members also called on the Commission and the
+Member States to support the further development of the sharing economy and its potential for more flexible forms of employment (the
+Commission is forecasting a growth potential that goes over USD 100 billion). Parliament encouraged the Commission to set up a stakeholder
+group in charge of promoting best practices in the sharing economy sector.
+Reinforcing trust and security in digital networks: a harmonised response from the EU and its Member States with a view to ensuring a high
+level of network and information security is needed. Members stated that providing security on the internet entails the protection of networks
+and critical infrastructure, ensuring the ability of law enforcement agencies to fight crime, including terrorism, violent radicalisation and sexual
+abuse and sexual exploitation of children online. The Commission is called upon to advance policies and a legal framework to tackle
+cybercrime and illegal content and materials on the internet.
+Security, together with protection of fundamental rights in cyberspace, is crucial to reinforcing trust in digital services and is therefore a
+necessary basis for establishing a competitive digital single market.
+Building a data economy: Parliament emphasised the opportunities that new ICT technologies such as Big Data, cloud computing, 3D-printing
+and other technologies can bring to the economy and society. It also highlighted the opportunities offered by energy sector digitalisation, with
+smart meters, smart grids and data hubs for more efficient and flexible energy production.
+Digital skills and expertise: highlighting that the mismatch between supply and demand with regard to skills is a problem for the development of
+the digital economy, Members called on the Commission, as a matter of urgency, to develop a skills strategy which can tackle this shortage.
+They proposed using appropriations from the Youth Employment Initiative to support associations (grassroots movements) which teach
+disadvantaged young people digital skills. Media and internet literacy should also be promoted.
+E-government: Parliament stated that the development of e-administration is a priority for innovation. It urged the Commission to lead by
+example in the field of e-government and to develop, together with the Member States, an ambitious and comprehensive e-government action
+plan based on the once only principle, whereby citizens and businesses should not be asked for information already provided to a public
+authority, whilst ensuring citizens' privacy and a high level of data protection.
+
+

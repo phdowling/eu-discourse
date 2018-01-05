@@ -1,0 +1,283 @@
+Procedure file
+Basic information
+2013/2047(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Recovery and resolution framework for non-bank institutions
+
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.08 Financial services, financial reporting and auditing
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Rapporteur
+
+Appointed
+
+ECR SWINBURNE Kay
+
+14/01/2013
+
+Shadow rapporteur
+PPE HÜBNER Danuta Maria
+S&D DOMENICI Leonardo
+ALDE BOWLES Sharon
+Verts/ALE BESSET Jean-Paul
+GUE/NGL KLUTE Jürgen
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Financial Stability, Financial Services and Capital
+Markets Union
+
+BARNIER Michel
+
+Key events
+14/03/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+14/05/2013
+
+Debate in Council
+
+17/10/2013
+
+Vote in committee, 1st reading/single
+reading
+
+22/10/2013
+
+Committee report tabled for plenary,
+single reading
+
+09/12/2013
+
+Debate in Parliament
+
+10/12/2013
+
+Results of vote in Parliament
+
+10/12/2013
+
+Decision by Parliament, 1st
+reading/single reading
+
+10/12/2013
+
+End of procedure in Parliament
+
+Summary
+
+A7-0343/2013
+
+Summary
+
+T7-0533/2013
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/2047(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/7/11753
+
+Documentation gateway
+Committee draft report
+
+PE514.596
+
+18/06/2013
+
+EP
+
+Amendments tabled in committee
+
+PE516.899
+
+03/09/2013
+
+EP
+
+Committee report tabled for plenary, single reading
+
+A7-0343/2013
+
+22/10/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T7-0533/2013
+
+10/12/2013
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)260
+
+06/05/2014
+
+2013/2047(INI) - 14/05/2013 Debate in Council
+The Council discussed the proposal for a Directive establishing a framework for the recovery and resolution of credit institutions and
+investment firms, focusing in particular on the design of the bail-in instrument.
+The Presidency concluded that to reach an agreement, a balance would have to be struck between establishing a harmonised approach to
+bail-in and allowing for limited national flexibility in its application. The Presidency stated its intention to re-submit the dossier to the Council at
+its meeting on 21 June, with the aim of reaching an agreement on the Directive.
+In summarising the discussion, the Presidency noted convergence around the following points:
+general agreement on a broad scope for bail-in, with a limited list of defined exclusions;
+general agreement that the level of loss absorbing capacity must be adapted to match the scope of exclusions ;
+noting that deposits under EUR 100 000 are always fully guaranteed by the deposit guarantee schemes, there was agreement
+amongst most Member States that the deposit guarantee schemes should also benefit from depositor preference;
+overall, considerable support for depositor preference (i.e. last category of assets to be bailed in) for deposits over EUR 100 000, with
+some reservations raised on giving preference to large corporate deposits.
+The Presidency also recognised that some country-specific concerns should be addressed, in particular as regards euro area vs. non-euro
+area issues.
+
+2013/2047(INI) - 22/10/2013 Committee report tabled for plenary, single reading
+The Committee on Economic and Monetary Affairs adopted the own-initiative report by Kay SWINBURNE (ECR, UK) on recovery and
+resolution framework for non-bank institutions.
+The report called on the Commission to prioritise recovery and resolution of Central Counterparties (CCPs) and of those Central Securities
+Depositories (CSDs) which are exposed to credit risk, and, give due consideration to those which have the potential to pose systemic risks to
+the economy. It emphasised the importance of EU legislation following internationally agreed principles, as agreed in the Committee on
+Payment and Settlement Systems (CPSS) and the International Organisation of Securities Commissions (IOSCO), the Financial Stability
+Board (FSB) and the International Association of Insurance Supervisors (IAIS).
+Members stressed the importance of clear provisions for a ladder of intervention in any recovery provisions for non-bank financial institutions
+under which competent authorities monitor appropriately designed indicators of financial health and have the power to intervene early in cases
+of financial stress of an entity and require it to take corrective measures according to a pre-approved recovery plan. In addition, non-bank
+financial institutions themselves should develop comprehensive and substantive recovery plans.
+Central Counterparties (CCPs): a CCP stands between two counterparties so as to provide a way to manage the risk of default of a
+counterparty. The report stated that if a CCP is to mutualise the risk in the financial system, good governance is paramount .
+The Commission is called upon to:
+ensure that CCPs have a default management strategy for all products that are cleared by the CCP as part of a wider recovery plan
+approved by the supervisor;
+ensure that CCPs act in the general public interest and adopt their business strategies accordingly;
+propose further measures in order to minimise the contagion risk;
+ensure that sound principles are established to govern contractual arrangements between a CCP and its clearing members, as well as
+how clearing members pass on losses to their clients.
+According to Members, all CCPs should have in place comprehensive recovery arrangements which provide protection over and above the
+funds and resources required by the European Market Infrastructure Regulation (EMIR). These plans should provide protection against all
+foreseeable circumstances, and should be included and published as part of the CCPs rules.
+They also asserted that the dividing-line between recovery and resolution in the case of CCPs is when the default waterfall is exhausted, and
+the loss absorption capacity of the CCP has been depleted. At this point the supervisor should actively consider the option of removing the
+CCPs management board and whether to transfer critical services of the CCP or hand over operational control of the CCP to another provider.
+
+CSDs: Members called, if no separate legislative proposal is imminent, for inclusion in the Central Securities Depositories Regulation of a
+requirement for national competent authorities to ensure the establishment of appropriate recovery and resolution plans in line with FSB and
+CPSS-IOSCO international standards for all CSDs.
+They called on the Member States, in the absence of Securities Law Legislation, to develop and coordinate their existing special administration
+regimes for CSDs in order to improve certainty as to how operational continuity will be maintained in a crisis.
+Insurance undertakings: the report invited the Commission to:
+closely take into account the IAISs work on recovery and resolution of insurers, and to consider it within the context of level two of
+Solvency II, Financial Conglomerates legislation, and the Insurance Mediation Directive;
+work with international partners to follow the timetable established by the FSB to implement the policy recommendations including
+requiring systemic insurers to have recovery and resolution plans as well as resolvability assessments in place, enhanced group
+supervision and higher loss absorbency requirements.
+Asset management: Members called on the Commission to assess carefully whether any asset managers should be designated as
+systemically important, taking into account the scope of their activity and using a comprehensive set of indicators such as: size, business
+model, geographical scope, risk profile, creditworthiness, etc.
+Payment systems: the Commission is called upon to engage with the relevant international financial supervisors and authorities in order to
+identify any weaknesses in globally systemically important payment systems and the arrangements in place to ensure continuity of service in
+the event of failure.
+
+2013/2047(INI) - 10/12/2013 Text adopted by Parliament, single reading
+The European Parliament adopted a resolution on recovery and resolution framework for non-bank institutions.
+Parliament recalls that effective recovery plans and resolution tools are crucial for improving the stability of the non-bank financial sector
+globally.
+While Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories (EMIR) and the Regulation on improving
+securities settlement in the European Union and on central securities depositories (CSDs) aim to reduce systemic risk through well-regulated
+market infrastructure, there is a possibility of unintended consequences.
+Mandatory central clearing contributes positively to decreasing the overall systemic risk of financial markets, it has also increased the
+concentration of systemic risk in CCPs.
+On the basis of the 2013 International Association of Insurance Supervisors (IAIS) report, the Financial Stability Board (FSB) has identified
+nine large insurers as being systemic, of which five are headquartered in the Union.
+In this context, Parliament called on the Commission to prioritise recovery and resolution of Central Counterparties (CCPs) and of those
+Central Securities Depositories (CSDs) which are exposed to credit risk, and, give due consideration to those which have the potential to pose
+systemic risks to the economy. It:
+emphasised the importance of EU legislation following internationally agreed principles, as agreed in the Committee on Payment and
+Settlement Systems (CPSS) and the International Organisation of Securities Commissions (IOSCO), the Financial Stability Board
+(FSB) and the International Association of Insurance Supervisors (IAIS);
+stressed the importance of clear provisions for a ladder of intervention in any recovery provisions for non-bank financial institutions
+under which competent authorities monitor appropriately designed indicators of financial health and have the power to intervene early
+in cases of financial stress of an entity and require it to take corrective measures according to a pre-approved recovery plan.
+In addition, non-bank financial institutions themselves should develop comprehensive and substantive recovery plans.
+Central Counterparties (CCPs): a CCP stands between two counterparties so as to provide a way to manage the risk of default of a
+counterparty. The resolution stated that if a CCP is to mutualise the risk in the financial system, good governance is paramount .
+The Commission is called upon to:
+ensure that CCPs have a default management strategy for all products that are cleared by the CCP as part of a wider recovery plan
+approved by the supervisor;
+ensure that CCPs act in the general public interest and adopt their business strategies accordingly;
+propose further measures in order to minimise the contagion risk;
+ensure that sound principles are established to govern contractual arrangements between a CCP and its clearing members, as well as
+how clearing members pass on losses to their clients.
+According to Members, all CCPs should have in place comprehensive recovery arrangements which provide protection over and above the
+funds and resources required by the European Market Infrastructure Regulation (EMIR). These plans should provide protection against all
+foreseeable circumstances, and should be included and published as part of the CCPs rules.
+They also asserted that the dividing-line between recovery and resolution in the case of CCPs is when the default waterfall is exhausted, and
+the loss absorption capacity of the CCP has been depleted. At this point the supervisor should actively consider the option of removing the
+CCPs management board and whether to transfer critical services of the CCP or hand over operational control of the CCP to another provider.
+CSDs: it is the responsibility of a CSD to ensure that its recovery plan clearly provides for operational continuity in reasonable crisis scenarios.
+Parliament called, if no separate legislative proposal is imminent, for inclusion in the Central Securities Depositories Regulation of a
+requirement for national competent authorities to ensure the establishment of appropriate recovery and resolution plans in line with FSB and
+CPSS-IOSCO international standards for all CSDs.
+It called on the Member States, in the absence of Securities Law Legislation, to develop and coordinate their existing special administration
+
+regimes for CSDs in order to improve certainty as to how operational continuity will be maintained in a crisis.
+Insurance undertakings: the resolution invited the Commission to:
+closely take into account the IAISs work on recovery and resolution of insurers, and to consider it within the context of level two of
+Solvency II, Financial Conglomerates legislation, and the Insurance Mediation Directive;
+work with international partners to follow the timetable established by the FSB to implement the policy recommendations including
+requiring systemic insurers to have recovery and resolution plans as well as resolvability assessments in place, enhanced group
+supervision and higher loss absorbency requirements.
+Asset management: Members called on the Commission to assess carefully whether any asset managers should be designated as
+systemically important, taking into account the scope of their activity and using a comprehensive set of indicators such as: size, business
+model, geographical scope, risk profile, creditworthiness, etc.
+Payment systems: the Commission is called upon to engage with the relevant international financial supervisors and authorities in order to
+identify any weaknesses in globally systemically important payment systems and the arrangements in place to ensure continuity of service in
+the event of failure.
+
+

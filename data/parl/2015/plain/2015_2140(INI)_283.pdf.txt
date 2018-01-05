@@ -1,0 +1,437 @@
+Procedure file
+Basic information
+2015/2140(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Annual report on EU competition policy
+
+Subject
+2.60 Competition
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+11/05/2015
+
+LANGEN Werner
+Shadow rapporteur
+
+SANT Alfred
+
+MESSERSCHMIDT
+Morten
+
+THEURER Michael
+
+LÓPEZ BERMEJO
+Paloma
+
+REIMON Michel
+Committee for opinion
+INTA
+
+Rapporteur for opinion
+
+International Trade
+
+Appointed
+21/09/2015
+
+SZEJNFELD Adam
+IMCO
+
+Internal Market and Consumer Protection
+
+23/06/2015
+COFFERATI Sergio
+Gaetano
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Competition
+
+VESTAGER Margrethe
+
+Key events
+04/06/2015
+
+Non-legislative basic document published
+
+09/07/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+07/12/2015
+
+Vote in committee, 1st reading/single
+reading
+
+17/12/2015
+
+Committee report tabled for plenary,
+single reading
+
+18/01/2016
+
+Debate in Parliament
+
+19/01/2016
+
+Results of vote in Parliament
+
+COM(2015)0247
+
+Summary
+
+A8-0368/2015
+
+Summary
+
+19/01/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+19/01/2016
+
+End of procedure in Parliament
+
+T8-0004/2016
+
+Summary
+
+Technical information
+Procedure reference
+
+2015/2140(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Annual report
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/03568
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2015)0247
+
+04/06/2015
+
+EC
+
+Committee draft report
+
+PE565.169
+
+23/09/2015
+
+EP
+
+Amendments tabled in committee
+
+PE569.789
+
+21/10/2015
+
+EP
+
+Summary
+
+Committee opinion
+
+IMCO
+
+PE567.474
+
+10/11/2015
+
+EP
+
+Committee opinion
+
+INTA
+
+PE567.764
+
+20/11/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0368/2015
+
+17/12/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0004/2016
+
+19/01/2016
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2016)220
+
+01/06/2016
+
+2015/2140(INI) - 04/06/2015 Non-legislative basic document
+PURPOSE: presentation of the report on Competition Policy 2014.
+CONTENT: 2014 was marked by the European elections and a new European Commission.
+Following the European elections, the European Parliament gave its green light to the new European Commission on the basis of the priorities
+outlined in President Junckers Political Guidelines. The mission letter addressed to Margrethe Vestager, Commissioner for Competition, states
+that competition policy would contribute, as appropriate, to our jobs and growth agenda, including in areas such as: (i) the digital single market,
+(ii) energy policy, (iii) financial services, (iv) industrial policy and (v) the fight against tax evasion. Indeed, competition policy encompassed all
+these areas in 2014.
+(1) Towards a connected digital single market: the Commission believes that competition policy can help building a genuine Digital Single
+Market:
+in the knowledge based sectors, vibrant competition is essential to stimulate innovation and spread the benefits of technological
+development among Europes citizens;
+effective enforcement of antitrust and merger policy makes it easier for small businesses to thrive and gain access to markets in
+sectors dominated by network effects;
+the application of State aid rules to the broadband sector helps to provide good coverage at affordable prices.
+The Commission seeks to:
+promote infrastructure development and competitive markets for broadband and telecoms networks;
+ensures that broadband and mobile networks remain open and competitive, a sine qua non for building a vibrant Digital Single Market;
+ensure that competition policy actions focus on smart devices and online services.
+In the increasingly important field of online services, the Commission continued carrying out its investigation into certain of Googles business
+practice. It is investigating concerns that Google may be abusing its dominant position in the markets for web search, online search advertising
+and online search advertising intermediation (i.e. the display of Google search advertising on partner sites) in the European Economic Area.
+
+An important feature of the area of smart mobile devices concern standard-setting procedures and interoperability. In this context, the
+Commission adopted two important decisions on the enforcement of standard essential patents (SEPs) in April: a prohibition decision against
+Motorola Mobility, and a commitment decision with regard to Samsung.
+Lastly, in March, the Commission adopted new rules for the assessment of technology transfer agreements under EU antitrust rules.
+(2) Making energy markets work better: In the energy sector, competition policy:
+ensures that companies do not maintain or re-erect barriers to protect themselves from competition, hampering the establishment of a
+European Energy Union;
+helps to ensure fair and non-discriminatory access to energy infrastructure, removes obstacles to market integration, and fosters
+competition between and within Member States.
+In April 2014, the Commission adopted the new Guidelines on State aid for environmental protection and energy (EEAG). Moreover, the
+revised State aid rules on energy and environment assist Member States to better target their support for example to renewable energy
+sources, infrastructure investments, generation capacity or relief of electro-intensive users from the financing of renewables support.
+Antitrust enforcement actions in the energy sector contributed in particular to tackling high energy prices by addressing segmentation of
+markets and abusive or collusive behaviour, especially in Eastern and Central European markets.
+The Commission remains vigilant on energy markets also using its State aid and merger control tools. In particular, it makes sure that powerful
+upstream players do not attempt to integrate downstream and thereby excessively strengthen their control over the value chain.
+(3) Fairer and more transparent financial sector: the Commission has been particularly vigilant in financial services with the main goal of
+bringing a stable and fairer financial sector back to its core function of lending to the real economy:
+the creation of the Banking Union is increasing the confidence of European citizens and markets in the European banking system;
+enforcement actions coupled with regulatory efforts also focused on tackling anticompetitive practices in financial derivatives and in
+the payments sector.
+In order to promote healthy competition in the payment sector to the benefit of European consumers, the Commission is continuing to tackling
+anti-competitive business models based on multilateral interchange fees (MIFs).
+In February, the Commission rendered legally binding the commitments offered by Visa Europe to significantly cut its MIFs for credit card
+payments, as well as to reform its rules to facilitate cross-border competition.
+(4) Boosting competitiveness of European industry: the new State aid framework is designed to channel government support where it matters
+most for growth and competitiveness.
+New Risk Finance State aid Guidelines were adopted giving EU countries better tools to facilitate access to finance for European
+SMEs and midcaps in their early development stage.
+The Commission adopted new rules to facilitate the granting of aid in support of research, development and innovation.
+In the framework of the State Aid Modernisation, the Commission adopted a communication on Important Projects of Common
+European Interests (IPCEI) which opens new avenues for Member States to finance certain projects.
+In November, the Commission announced the creation of the European Fund for Strategic Investment (EFSI), with the objective to
+enhance investment in Europe by generating EUR 315 billion investment. To maximise the impact of such investments, the
+Commission will formulate a set of core principles, for the purpose of state-aid assessments, which a project will have to meet to be
+eligible for support under the Fund.
+In 2014 the Commission also completed the revision of the Guidelines on State aid for rescuing and restructuring non-financial
+undertakings in difficulty.
+In addition, in 2014 the Commission investigated and punished several cartels concerning input and intermediate products.
+(5) Fight against tax avoidance and evasion: the new Commission will continue to focus on the fight against tax avoidance and tax evasion. In
+2014, the Commission tightened its control of fiscal State aid, by using EU competition tools to make sure that EU countries do not help
+selected multinational companies avoid paying their fair share of taxes.
+
+2015/2140(INI) - 17/12/2015 Committee report tabled for plenary, single reading
+The Committee on Economic and Monetary Affairs adopted an own-initiative report by Werner LANGEN (EPP, DE) following the 2014 Annual
+report on EU Competition Policy.
+Welcoming the report by the Commission, which underlines the importance of competition policy in the EU, Members called on the
+Commission not to implement internal EU competition policy in such a way as to restrict firms market strategies , so that they can compete on
+world markets with actors from outside the EU.
+An effective and credible competition policy must not be directed exclusively towards bringing down prices for consumers, but must also be
+mindful of the strategic interests of the European economy, such as: the ability to innovate; investment; competitiveness and sustainability; the
+special competitive conditions for SMEs, start-ups and microenterprises; and the need to promote high labour and environmental standards.
+The Commission was called upon to:
+put a stop to social dumping, and ensure that competition policy decisions take particular account of the social impact in remote or
+isolated regions;
+adapt its competition policy to the specificities of the digital economy sector, and support all initiatives connected with the development
+of e-government;
+complete the internal market in areas where it is still fragmented and incomplete, and to end unjustified market restrictions and
+distortions of competition as soon as possible wherever they are found;
+ensure that competition policy strengthens social cohesion in the Union;
+
+ensure that the Member States implement the new public procurement legislation in a timely manner, in particular as regards the
+deployment of e-procurement and e-administration, and the new provisions on consideration of social and environmental criteria and
+on the division of contracts into lots;
+promote better convergence of, and cooperation among, national competition authorities in the EU;
+safeguard competition in the telecommunication sector, including in the allocation of spectrum;
+scrutinise the unfair and unlawful clauses and practices employed by the banking sector in consumer contracts;
+ensure coherence between the Unions trade and competition policies and the objectives of its industrial policy , and ensure at the
+same time that the Unions competition policy should not hinder the emergence of European industrial champions in economy.
+Antitrust proceedings cases of abuse of dominant position: in this regard, Members asked the Commission:
+to increase its efforts as regards investigations of instances of abuse of dominant market positions to the detriment of EU consumers;
+take action internationally against cartels and anticompetitive, oligopolistic and monopolistic practices that are damaging to
+competition;
+incorporate the rules on fines, such as those imposed in cartel proceedings, into a legislative instrument; the fines should be high
+enough to act as a deterrent;
+carry out, on the basis of new criteria, a comprehensive legal and economic assessment of fast-moving markets and ephemeral
+business models employed by digital undertakings, in order to obtain a clear understanding of the market structure and market trends,
+take appropriate measures to protect consumers;
+provide effective protection for standard essential patents (SEPs) and to exercise close supervision to ensure that patent users obtain
+licences in the proper way.
+Members called into question the long duration of the investigations into US internet giant Google, and regretted the fact that these
+investigations have already dragged on for several years, with no transparency and creating uncertainty for all parties. The Commission was
+asked to: ((i) conduct a thorough investigation into the Google practice whereby the Android operating system is offered only in conjunction
+with other Google services, and whereby manufacturers may not pre-install rival products; (ii) examine in detail Googles dominant market
+position in the area of direct hotel bookings.
+State aid: the report called on the Commission, on Member States and on authorities at regional and communal administrative levels actively
+to promote compliance with EU competition policy and to explain its legal basis. It emphasised the importance of addressing horizontal and
+vertical State aid in the same way but took the view that remote or outlying regions and islands should be given greater leeway than at present
+when it comes to applying rules on State aid. It recalled that the structural funds may not be used in a way that directly or indirectly encourages
+the relocation of services or production to another Member State.
+Members welcomed the introduction of new guidelines on State aid for risk financing, the primary purpose of which is to make it possible to
+promote more effectively SMEs, innovative midcaps and start-ups, which have a significant size disadvantage.
+Financial aid and taxation: Members recalled that the temporary State aid in the financial sector was necessary for the stabilisation of the
+global financial system, but must quickly be reduced, or totally removed and scrutinised, if the Banking Union is to be completed. They
+believed that the Commission should consider the possibility of linking State aid to banks to conditionality on credit to SMEs.
+Unfair tax competition between Member States is another problem raised in the report, which brought to light the key importance of EU
+subsidy law in the fight against tax avoidance by multinational undertakings. Members welcomed the investigations initiated by the
+Commission in 2014 into unlawful State aid, through unfair tax competition, to the benefit of certain individual companies, which was extended
+to all the 28 EU countries in 2015. They called furthermore, on Member States in future to present to the Commission all relevant information
+about their tax practice, and, at long last, to comply with their obligation to disclose to the Commission and to Parliament details of any special
+arrangements that may have an impact on other Member States and SMEs. The Commission should use the findings of the current
+investigations as the basis for more precise and effective guidelines for tax-related State aid.
+In view of studies estimating the annual value of tax fraud and tax avoidance to up to EUR one trillion (1 000 000 000 000), Member States
+must ultimately tackle and restrict this practice. Members called for a EU legislative framework to prevent distortions of competition by
+aggressive tax planning and tax evasion. They recommended the introduction of an automatic mandatory exchange of tax rulings, a common
+consolidated corporate tax base (CCCTB) and a guarantee that no profit leaves the EU untaxed.
+Democratic strengthening of competition policy: Members welcomed the regular dialogue between the Competition Commissioner and
+Parliament, but considers that the right to a hearing on essential matters of principle is not sufficient. They considered that Parliament should
+have co-decision powers in competition policy, particularly with regard to fundamental legislative directives and binding guidelines. The
+Commission was asked to put forward proposals for a corresponding amendment to the Treaties to extend the scope of the ordinary legislative
+procedure to cover competition law as well.
+
+2015/2140(INI) - 19/01/2016 Text adopted by Parliament, single reading
+The European Parliament adopted by 500 votes to 137, with 73 abstentions, a resolution following the 2014 Annual report on EU Competition
+Policy.
+Welcoming the report by the Commission, which underlines the importance of competition policy in the EU, Parliament called on the
+Commission not to implement internal EU competition policy in such a way as to restrict firms market strategies , so that they can compete on
+world markets with actors from outside the EU.
+An effective and credible competition policy must not be directed exclusively towards bringing down prices for consumers, but must also be
+mindful of the strategic interests of the European economy, such as: the ability to innovate; investment; competitiveness and sustainability; the
+special competitive conditions for SMEs, start-ups and microenterprises; and the need to promote high labour and environmental standards.
+The Commission was called upon to:
+put a stop to social dumping, and ensure that competition policy decisions take particular account of the social impact;
+adapt its competition policy to the specificities of the digital economy sector, and support all initiatives connected with the development
+
+of e-government;
+complete the internal market in areas where it is still fragmented and incomplete, and to end unjustified market restrictions and
+distortions of competition as soon as possible wherever they are found;
+ensure that competition policy strengthens social cohesion in the Union;
+ensure that the Member States implement the new public procurement legislation in a timely manner, in particular as regards the
+deployment of e-procurement and e-administration, and the new provisions on consideration of social and environmental criteria and
+on the division of contracts into lots;
+promote better convergence of, and cooperation among, national competition authorities in the EU;
+safeguard competition in the telecommunication sector, including in the allocation of spectrum;
+scrutinise the unfair and unlawful clauses and practices employed by the banking sector in consumer contracts;
+examine ATM networks from the perspective of competition policy, given that this is a network infrastructure;
+ensure coherence between the Unions trade and competition policies and the objectives of its industrial policy , and ensure at the
+same time that the Unions competition policy should not hinder the emergence of European industrial champions in economy;
+review EU State aid rules for energy-intensive industries, guaranteeing effective carbon leakage protection and providing fair
+opportunities for EU industries.
+Antitrust proceedings cases of abuse of dominant position: in this regard, Parliament also asked the Commission:
+to increase its efforts as regards investigations of instances of abuse of dominant market positions to the detriment of EU consumers;
+take action internationally against cartels and anticompetitive, oligopolistic and monopolistic practices that are damaging to
+competition;
+incorporate the rules on fines, such as those imposed in cartel proceedings, into a legislative instrument; the fines should be high
+enough to act as a deterrent;
+carry out, on the basis of new criteria, a comprehensive legal and economic assessment of fast-moving markets and ephemeral
+business models employed by digital undertakings, in order to obtain a clear understanding of the market structure and market trends,
+take appropriate measures to protect consumers;
+provide effective protection for standard essential patents (SEPs) and to exercise close supervision to ensure that patent users obtain
+licences in the proper way.
+Parliament called into question the long duration of the investigations into US internet giant Google, and regretted the fact that these
+investigations have already dragged on for several years, with no transparency and creating uncertainty for all parties.
+The Commission was asked to: ((i) conduct a thorough investigation into the Google practice whereby the Android operating system is offered
+only in conjunction with other Google services, and whereby manufacturers may not pre-install rival products; (ii) examine in detail Googles
+dominant market position in the area of direct hotel bookings.
+The resolution noted that the Google case has triggered a general discussion on the power of dominant internet platforms such as eBay,
+Facebook, Apple, LinkedIn, Amazon, Uber, Airbnb, etc., their influence on markets and on the public sphere, and the need to regulate them to
+protect both.
+State aid: Parliament:
+called on the Commission, the Member States and the authorities at regional and communal administrative levels actively to promote
+compliance with EU competition policy and to explain its legal basis;
+emphasised the importance of addressing horizontal and vertical State aid in the same way but took the view that remote or outlying
+regions and islands should be given greater leeway than at present when it comes to applying rules on State aid;
+called on the Commission to examine evidence provided by the Member States more rigorously, and improve fact security, since there
+are regular attempts to circumvent the legal basis and the legal constraints, or to seek more or fewer borderline compromises;
+recalled that the structural funds may not be used in a way that directly or indirectly encourages the relocation of services or
+production to another Member State.
+Members welcomed the introduction of new guidelines on State aid for risk financing, the primary purpose of which is to make it possible to
+promote more effectively SMEs, innovative midcaps and start-ups, which have a significant size disadvantage.
+Financial aid and taxation: Members recalled that the temporary State aid in the financial sector was necessary for the stabilisation of the
+global financial system, but must quickly be reduced, or totally removed and scrutinised, if the Banking Union is to be completed. They called
+on the Commission to: (i) clarify the rules and procedures under which State aid in the financial sector can be authorised; (ii) consider the
+possibility of linking State aid to banks to conditionality on credit to SMEs.
+Unfair tax competition between Member States is another problem raised in the resolution, which brought to light the key importance of EU
+subsidy law in the fight against tax avoidance by multinational undertakings. Members welcomed the investigations initiated by the
+Commission in 2014 into unlawful State aid, through unfair tax competition, to the benefit of certain individual companies, which was extended
+to all the 28 EU countries in 2015. They called furthermore, on Member States in future to present to the Commission all relevant information
+about their tax practice, and, at long last, to comply with their obligation to disclose to the Commission and to Parliament details of any special
+arrangements that may have an impact on other Member States and SMEs. The Commission should use the findings of the current
+investigations as the basis for more precise and effective guidelines for tax-related State aid.
+In view of studies estimating the annual value of tax fraud and tax avoidance to up to EUR one trillion (1 000 000 000 000), Member States
+must ultimately tackle and restrict this practice. Parliament called for an EU legislative framework to prevent distortions of competition by
+aggressive tax planning and tax evasion. It recommended the introduction of an automatic mandatory exchange of tax rulings, a common
+consolidated corporate tax base (CCCTB) and a guarantee that no profit leaves the EU untaxed.
+Democratic strengthening of competition policy: Members welcomed the regular dialogue between the Competition Commissioner and
+Parliament, but considers that the right to a hearing on essential matters of principle is not sufficient. They considered that Parliament should
+have co-decision powers in competition policy, particularly with regard to fundamental legislative directives and binding guidelines. The
+Commission was asked to put forward proposals for a corresponding amendment to the Treaties to extend the scope of the ordinary legislative
+procedure to cover competition law as well.
+
+

@@ -1,0 +1,145 @@
+Procedure file
+Basic information
+2015/2651(DEA)
+
+DEA - Delegated acts procedure
+
+Procedure completed - delegated act rejected
+
+Exemption for cadmium in illumination and display lighting applications.
+Corrigendum
+Supplementing 2008/0240(COD)
+Subject
+3.70.13 Dangerous substances, toxic and radioactive wastes (storage,
+transport)
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Rapporteur
+
+Appointed
+
+Environment, Public Health and Food Safety
+
+Key events
+24/03/2015
+
+Non-legislative basic document published
+
+24/03/2015
+
+Initial period for examining delegated act
+2 month(s)
+
+15/04/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+20/05/2015
+
+Results of vote in Parliament
+
+20/05/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+C(2015)1926
+
+Summary
+
+T8-0205/2015
+
+Technical information
+Procedure reference
+
+2015/2651(DEA)
+
+Procedure type
+
+DEA - Delegated acts procedure
+
+Procedure subtype
+
+Examination of delegated act
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 105-p4
+
+Stage reached in procedure
+
+Procedure completed - delegated act rejected
+
+Committee dossier
+
+ENVI/8/03208
+
+Documentation gateway
+Non-legislative basic document
+
+C(2015)01926
+
+24/03/2015
+
+EC
+
+Motion for a resolution objecting delegated act
+
+B8-0464/2015
+
+13/05/2015
+
+EP
+
+Text adopted by Parliament, single reading
+
+T8-0205/2015
+
+20/05/2015
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2015)470
+
+24/09/2015
+
+2015/2651(DEA) - 20/05/2015 Text adopted by Parliament, single reading
+
+Summary
+
+The European Parliament adopted by 618 votes to 33 with 28 abstentions a resolution objecting to the Commission delegated directive of 30
+January 2015 amending, for the purposes of adapting to technical progress, Annex III to Directive 2011/65/EU of the European Parliament and
+of the Council as regards an exemption for cadmium in illumination and display lighting applications.
+Delegated directive: Directive 2011/65/EU on the restriction of the use of certain hazardous substances in electrical and electronic equipment
+restricts inter alia the use of cadmium in electrical and electronic equipment.
+Pursuant to Article 5(1) a, exemptions would be included in Annex III, provided that such inclusion did not weaken the environmental and
+health protection afforded by Regulation (EC) No 1907/2006 (REACH) and where any of the following conditions was fulfilled:
+their elimination or substitution via design changes or materials and components which did not require any of the materials or
+substances listed in Annex II was scientifically or technically impracticable;
+the reliability of substitutes was not ensured; or the total negative environmental, health and consumer safety impacts caused by
+substitution were likely to outweigh the total environmental, health and consumer safety benefits.
+The Commission delegated directive:
+extended exemption 39 until 30 June 2017, relabelling it exemption 39(a), and
+introduced a new more specific exemption 39(b) on Cadmium in downshifting cadmium based semiconductor nanocrystal quantum
+dots for use in display lighting applications (&lt; 0.2 µg Cd per mm2 of display screen area), with an expiry date of 30 June 2018.
+The extension of exemption 39 and the new exemption 39(b) both concerned cadmium quantum dots, even though a specific reference to
+quantum dots is given only in exemption 39(b). The extension of exemption 39 concerned two different applications of cadmium quantum dots:
+one concerned the use in solid state illumination, while the other concerned display systems. The new exemption 39(b) only concerned
+displays.
+Parliaments objection: Parliament objected to the delegated directive because it considered that the directive failed to comply with the
+conditions laid down in Article 5(1)(a) of Directive 2011/65/EU, for both exemptions it inserted in points 39(a) and 39(b) of Annex III to Directive
+2011/65/EU.
+It felt in particular that the justification given for the exemption in point 39(b) was based on an outdated situation with regard to the practicability
+of replacement of cadmium in quantum dots. It therefore called for a swift reassessment of the existing exemption in point 39 of Annex III to
+Directive 2011/65/EU against the conditions of Article 5(1)(a) with a view to its revocation.
+The Commission was asked to submit a new delegated act which took into account the position of Parliament.
+
+

@@ -1,0 +1,386 @@
+Procedure file
+Basic information
+2014/2243(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Safe use of remotely piloted aircraft systems (RPAS), commonly known as
+unmanned aerial vehicles (UAVs), in the field of civil aviation
+
+Subject
+1.20.09 Protection of privacy and data protection
+3.20.01 Air transport and air freight
+3.20.01.01 Air safety
+3.40.05 Aeronautical industry, aerospace industry
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Rapporteur
+
+Transport and Tourism
+
+Appointed
+15/12/2014
+
+FOSTER Jacqueline
+Shadow rapporteur
+
+MUSELIER Renaud
+
+ZEMKE Janusz
+
+VAN MILTENBURG
+Matthijs
+
+KONEČNÁ Kateřina
+
+ŠKRLEC Davor
+
+PAKSAS Rolandas
+Committee for opinion
+ITRE
+
+Industry, Research and Energy
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+05/02/2015
+POST Soraya
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Mobility and Transport
+
+BULC Violeta
+
+Key events
+08/04/2014
+
+Non-legislative basic document published
+
+15/01/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+15/09/2015
+
+Vote in committee, 1st reading/single
+reading
+
+25/09/2015
+
+Committee report tabled for plenary,
+single reading
+Results of vote in Parliament
+
+COM(2014)0207
+
+Summary
+
+A8-0261/2015
+
+Summary
+
+29/10/2015
+
+29/10/2015
+
+Debate in Parliament
+
+29/10/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+29/10/2015
+
+End of procedure in Parliament
+
+Summary
+
+T8-0390/2015
+
+Technical information
+Procedure reference
+
+2014/2243(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+TRAN/8/02303
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2014)0207
+
+08/04/2014
+
+EC
+
+Committee draft report
+
+PE554.997
+
+19/06/2015
+
+EP
+
+Amendments tabled in committee
+
+PE565.046
+
+24/07/2015
+
+EP
+
+PE549.364
+
+03/09/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0261/2015
+
+25/09/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0390/2015
+
+29/10/2015
+
+EP
+
+Summary
+
+Committee opinion
+
+LIBE
+
+Summary
+
+2014/2243(INI) - 08/04/2014 Non-legislative basic document
+PURPOSE: to open the aviation market to the civil use of remotely piloted aircraft systems.
+BACKGROUND: the Commission considers that opening the European market for remotely piloted aircraft systems (RPAS) - or the civilian
+use of drones - is an important step towards the aviation market of the future. The European Summit of 19 December 2013 called for action to
+enable the progressive integration of RPAS into civil airspace from 2016 onwards.
+RPAS technology has matured rapidly in past years and is ready to make the shift from being purely military equipment to becoming a reliable
+new technology for civil use.
+Member States are beginning to authorise RPAS operations in non-segregated airspace to respond to market demand. In the short term, the
+most promising market lies in areas such as infrastructure monitoring or photography; in a longer term future, it may be the transport of goods
+and eventually people.
+According to an industry source, the global budget forecast in terms of research and development (R&D) and procurement, including military
+and governmental, is expected to grow from currently $5.2 bn to about $11.6 bn per year in 2023 . The number of jobs created through new
+RPAS activities in the US is estimated to exceed 100,000 by 2025. For Europe, about 150,000 jobs by 2050 are forecast.
+Currently, the US and Israel dominate the global RPAS manufacturing sector. Other non-EU countries, such as Brazil, China, India and
+Russia, also show potential to become strong competitors. A strong common EU market should offer a solid basis to compete at the global
+level.
+CONTENT: the Communication responds to the call of the European manufacturing and service industry to remove barriers to the introduction
+of RPAS in the European single market. It sets out the Commission's views on how to address RPAS operations in a European level policy
+framework which will enable the progressive development of the commercial RPAS market while safeguarding the public interest.
+The European strategy aims at establishing a single RPAS market to reap the societal benefits of this innovative technology and at dealing
+with citizens' concerns through public debate and protective action wherever needed.
+The Commission recalls that RPAS applications can only develop if the aircraft can fly in non-segregated airspace without affecting the safety
+
+and the operation of the wider civil aviation system. To this end, the EU should:
+·
+
+put in place an enabling regulatory structure to which the major players at the European and national levels can contribute. The
+European Aviation Safety Agency (EASA) is best placed to develop common rules, using the proven EASA consultation process;
+
+·
+
+increase and coordinate R&D efforts in order to keep lead times for promising technologies as short as possible (e.g. command and
+control; detect and avoid technologies; security protection against attacks; contingency procedures; human factor issues such as
+piloting). The SESAR Joint Undertaking (SJU) (CE SESAR) is the R&D platform building the future air traffic management system of
+the Single European Sky. So it is uniquely placed to coordinate this R&D);
+
+·
+
+ensure that RPAS operations do not lead to fundamental rights being infringed: the progressive integration of RPAS into the airspace
+from 2016 onwards must be accompanied by adequate public debate on the development of measures which address societal
+concerns including safety, privacy and data protection, third-party liability and insurance or security;
+
+·
+
+support market development and European industries by recourse to existing EU instruments such as the Horizon 2020 and COSME
+programmes.
+
+This strategy should provide adequate legal certainty and offer a reliable timing, so that industry can take investment decisions and create
+employment. As the RPAS market is global by its very nature, the EU will also coordinate with international partners.
+The European Commission also intends to bring forward, where appropriate, legislative proposals to remove legal uncertainties that hinder the
+development of the European market.
+
+2014/2243(INI) - 25/09/2015 Committee report tabled for plenary, single reading
+The Committee on Transport and Tourism adopted an own-initiative report by Jacqueline FOSTER (ECR, UK) on the safe use of remotely
+piloted aircraft systems (RPAS), commonly known as unmanned aerial vehicles (UAVs), in the field of civil aviation.
+Stressing the global dimension of piloted aircraft systems and that all the Member States have some RPAS activities, either in manufacturing
+and/or operationally, Members considered that the RPAS sector urgently requires European and global rules in order to ensure cross-border
+RPAS development.
+A clear European legal framework is needed to ensure investment and development of a competitive European RPAS sector. Moreover,
+Members believed that this framework might assist the discussions on global rule making for the use of drones.
+Key issues: recalling the economic importance of this sector, Members stressed that all EU policies should take account of the following
+aspects:
+the need to put in place suitable policies to protect privacy and ensure data protection, safety and security, which are proportionate to their aim
+while not imposing an unnecessary burden on SMEs;
+the establishment of a clear distinction between professional and recreational use of remotely piloted aircraft;
+the fact that safety and security are paramount for any RPAS operations and rules and that they must be commensurate with the risks.
+In this regard, the report supports the five essential principles for future RPAS development set out in the Riga Declaration:
+1.
+2.
+3.
+4.
+5.
+
+RPAS need to be treated as new types of aircraft with proportionate rules based on the risk of each operation;
+EU rules for the safe provision of RPAS services need to be developed to enable the industry to invest;
+technology and standards need to be developed to enable the full integration of RPAS into European airspace;
+public acceptance is key to the growth of RPAS services;
+the operator of an RPAS is responsible for its use.
+
+Stressing the importance of out-of-sight flights for the development of the sector, Members considered that European legislation should favour
+this modus operandi.
+In the long term, technical and regulatory solutions should preferably enable RPAS to use the airspace alongside any other airspace user
+without imposing on the latter new equipment requirements.
+Future solutions: Members considered that future European and global rules on RPAS should address issues relating to:
+airworthiness;
+certification specifications;
+commercial and recreational use;
+the identity of the drone and the owner/operator;
+the approval of training organisations for pilots;
+training and licensing of pilots;
+operations;
+liability and insurance;
+data protection and privacy; geo-fencing;
+no-fly (exclusion) zones.
+Furthermore, the report concentrated on the following points:
+training provided to professional users and owners of RPAS, it includes specific training on data protection and privacy;
+RPAS flying beyond visual line of sight (BVLOS) must be equipped with detect-and-avoid technology in order to detect aircraft using
+the same airspace, ensuring that RPAS do not put at risk the safety of manned aircraft, and in addition, take into account
+densely-populated areas, no-fly zones, such as airports;
+Taking into account the expected economic spin-offs from this sector, the EU should favour the development of European
+technologies, for example through Horizon 2020;
+
+RPAS in line with a risk-based approach should be equipped with an ID chip and registered to ensure traceability, accountability and a
+proper implementation of civil liability rules;
+the use of RPAS by law enforcement and intelligence services must respect the fundamental right to privacy, data protection, freedom
+of movement and freedom of expression;
+the data protection authorities of the Member States should share existing specific data protection guidance for commercial RPAS.
+In addition, the Joint Authorities for Rulemaking on Unmanned Systems (JARUS) which is an international voluntary membership body
+comprising national civil aviation authorities from 22 EU and non-EU countries and regulatory agencies/bodies could ensure that any future EU
+rules will be coordinated with international arrangements in other countries, through a process of mutual recognition.
+Members took the view that the Parliament must establish its position prior to the Commissions adoption of its aviation package, thereby
+responding to the industry call for clear guidance. They called on the TRAN and LIBE committees to arrange a joint hearing with
+representatives of industry, national privacy protection organisations, the European Data Protection Supervisor, the Commission, and NGOs
+working in the area of fundamental rights.
+
+2014/2243(INI) - 29/10/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 581 votes to 31, with 21 abstentions, a resolution on safe use of remotely piloted aircraft systems
+(RPAS), commonly known as unmanned aerial vehicles (UAVs), in the field of civil aviation.
+Stressing the global dimension of piloted aircraft systems and that all the Member States have some RPAS activities, either in manufacturing
+and/or operationally, Members considered that the RPAS sector urgently requires European and global rules in order to ensure cross-border
+RPAS development.
+The absence of harmonised rules at EU level might impede the development of a European drone market, given that national authorisations
+are generally not mutually recognised among the Member States. According to Parliament, a clear European legal framework is needed to
+ensure investment and development of a competitive European RPAS sector. Moreover, this framework might assist the discussions on global
+rule making for the use of drones.
+Key issues: recalling the economic importance of this sector, Parliament stressed that all EU policies should take account of the following
+aspects:
+the need to put in place suitable policies to protect privacy and ensure data protection, safety and security, which are proportionate to
+their aim while not imposing an unnecessary burden on SMEs;
+the establishment of a clear distinction between professional and recreational use of remotely piloted aircraft;
+the fact that safety and security are paramount for any RPAS operations and rules and that they must be commensurate with the risks
+In this regard, the resolution supports the five essential principles for future RPAS development set out in the Riga Declaration, that is:
+1.
+2.
+3.
+4.
+5.
+
+RPAS need to be treated as new types of aircraft with proportionate rules based on the risk of each operation;
+EU rules for the safe provision of RPAS services need to be developed to enable the industry to invest;
+technology and standards need to be developed to enable the full integration of RPAS into European airspace;
+public acceptance is key to the growth of RPAS services;
+the operator of an RPAS is responsible for its use.
+
+Stressing the importance of out-of-sight flights for the development of the sector, Members considered that European legislation should favour
+this modus operandi. The question of identifying drones, of whatever size, being crucial, Members underlined that solutions should be found
+which take into account the recreational or commercial use to which drones are put.
+Future solutions: Parliament supported the development of a clear, harmonised and proportionate European and global regulatory framework
+on a risk-assessed basis, which avoids disproportionate regulations for businesses that would deter investment and innovation in the RPAS
+industry, whilst adequately protecting citizens and creating sustainable and innovative jobs.
+Thorough risk assessment should be based on the concept of operations established by the EASA and should take into account
+characteristics of the RPAS (weight, scope of operation, speed) and the nature of their use (recreational or professional).
+Concerned over potential illegal and unsafe uses of RPAS, Members called on the Commission to support the development of the necessary
+technology to ensure safety, security and privacy in the operation of RPAS.
+Parliament considered that future European and global rules on RPAS should address the following points:
+rules at EU and national level should clearly indicate the provisions applicable to RPAS in relation to the internal market and
+international commerce (production, sale, purchase, trade, and use of RPAS) and the fundamental rights of privacy and data
+protection;
+any person operating an RPAS should be made aware of the basic rules applicable to the use of RPAS, and that those rules should
+be specified in a notice for purchaser;
+training provided to professional users and owners of RPAS should include specific training on data protection and privacy;
+RPAS flying beyond visual line of sight (BVLOS) must be equipped with detect-and-avoid technology in order to detect aircraft using
+the same airspace, ensuring that RPAS do not put at risk the safety of manned aircraft, and in addition, take into account
+densely-populated areas, no-fly zones, such as airports or nuclear plants;
+RPAS should be equipped with an ID chip and registered to ensure traceability, accountability and a proper implementation of civil
+liability rules;
+the use of RPAS by law enforcement and intelligence services must respect the fundamental right to privacy, data protection, freedom
+of movement and freedom of expression.
+Taking into account the expected economic spin-offs from this sector, the EU should favour the development of European technologies, for
+example through Horizon 2020.
+
+In addition, the Joint Authorities for Rulemaking on Unmanned Systems (JARUS) which is an international voluntary membership body
+comprising national civil aviation authorities from 22 states (EU and non-EU countries) and regulatory agencies/bodies could ensure that any
+future EU rules will be coordinated with international arrangements in other countries, through a process of mutual recognition
+Members called on the TRAN and LIBE committees to arrange a joint hearing with representatives of industry, national privacy protection
+organisations, the European Data Protection Supervisor, the Commission, and NGOs working in the area of fundamental rights.
+
+

@@ -1,0 +1,366 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0064(COD)
+
+Procedure completed
+
+European Anti-Fraud Office (OLAF): secretariat of the Supervisory
+Committee
+Amending Regulation (EU, Euratom) No 883/2013 2006/0084(COD)
+Subject
+8.70.04 Protecting financial interests of the EU against fraud
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Budgetary Control
+
+CONT
+
+Appointed
+04/04/2016
+
+GRÄSSLE Ingeborg
+Shadow rapporteur
+
+AYALA SENDER Inés
+
+CZARNECKI Ryszard
+
+DLABAJOVÁ Martina
+
+DE JONG Dennis
+
+STAES Bart
+
+VALLI Marco
+ALIOT Louis
+Committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Budget
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+GEORGIEVA Kristalina
+
+European Court of Auditors
+
+Key events
+04/03/2016
+
+Legislative proposal published
+
+10/03/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+24/05/2016
+
+Vote in committee, 1st reading/single
+reading
+
+24/05/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+COM(2016)0113
+
+Summary
+
+27/05/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0188/2016
+
+14/06/2016
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+GEDA/T/(2016)007407
+
+05/07/2016
+
+Debate in Parliament
+
+06/07/2016
+
+Results of vote in Parliament
+
+06/07/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+19/10/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+26/10/2016
+
+Final act signed
+
+26/10/2016
+
+End of procedure in Parliament
+
+23/11/2016
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0308/2016
+
+Technical information
+Procedure reference
+
+2016/0064(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU, Euratom) No 883/2013 2006/0084(COD)
+
+Legal basis
+
+Euratom Treaty A 106-pa; Treaty on the Functioning of the EU TFEU 325-p4
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Court of Auditors
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CONT/8/05965
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0113
+
+04/03/2016
+
+EC
+
+Summary
+
+N8-0028/2016
+OJ C 150 27.04.2016, p. 0001
+
+05/04/2016
+
+CofA
+
+Summary
+
+PE580.677
+
+27/04/2016
+
+EP
+
+A8-0188/2016
+
+27/05/2016
+
+EP
+
+GEDA/T/(2016)007407
+
+10/06/2016
+
+CSL
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0308/2016
+
+06/07/2016
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2016)657
+
+12/10/2016
+
+Court of Auditors: opinion, report
+
+Committee draft report
+Committee report tabled for plenary, 1st
+reading/single reading
+Coreper letter confirming interinstitutional
+agreement
+
+Final act
+Regulation 2016/2030
+
+Summary
+
+Summary
+
+OJ L 317 23.11.2016, p. 0001 Summary
+
+2016/0064(COD) - 04/03/2016 Legislative proposal
+PURPOSE: to amend Regulation (EU, EURATOM) No 883/2013, as regards the secretariat of the Supervisory Committee of the European
+Anti-Fraud Office (OLAF).
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: in accordance with the new OLAF Regulation (Regulation 883/2013), the Supervisory Committee of the European Anti-Fraud
+Office is tasked with regularly monitoring the implementation by the Office of its investigative function, in order to reinforce its independence,
+and in particular to monitor developments concerning the application of procedural guarantees and the duration of investigations in the light of
+the information supplied by the Director General.
+However, in the recent past some concerns have been voiced about possible conflicts of interest and calls have been made for a strengthened
+legal independence as regards the management of the Committee's budget and secretariat. Thus, in its Annual Activity Reports of 2013 and
+2014, the Supervisory Committee underlined the importance of its independent and effective functioning which requires an independent and
+adequately staffed secretariat.
+The European Parliament called several times on the Commission to take measures to reinforce the independent functioning of OLAF's
+Supervisory Committee secretariat, such as in its report on the discharge procedure for 20134 or in its resolution on the OLAF Supervisory
+Committee's annual report 2014.
+On 18 December 2015, the Commission adopted an amendment to its Decision 1999/352 in order to move the responsibility for the
+implementation of the budgetary appropriations for the Members from the Director-General of OLAF to the Commission. The Commission
+subsequently delegated this responsibility to the Director of its Payments Office (PMO). This decision applied as from 1 January 2016.
+The framework for the implementation of the budgetary appropriations relating to the Members of the Supervisory Committee should be set up
+in a way which avoids any appearance of a possible interference of the Office in their duties . The secretariat of the Supervisory Committee
+should be provided directly by the Commission, independently from the Office. The Commission should refrain from interfering with the
+functions of the Supervisory Committee.
+CONTENT: in order to separate the management of the Committee's secretariat from the management of the Office and to avoid any
+impression that OLAF can impair the functioning of the support to the Committee's Members, the Commission proposes to modify Regulation
+883/2013 to foresee that the secretariat of the Supervisory Committee will be provided directly by the Commission, and no longer by OLAF .
+Lastly, the proposal seeks to amend the wording of Regulation so that the competence of OLAF's Data Protection Officer (DPO) will continue
+to cover the processing of data by the secretariat. Also, the secretariat's staff will continue to be subject to the same confidentiality rules as
+before.
+BUDGETARY IMPLICATIONS: the proposed Regulation will not require any new human or administrative resources and will have no financial
+impact. It will only transfer the management of the budgetary appropriations concerning the secretariat of OLAF's Supervisory Committee
+within the Commission.
+
+2016/0064(COD) - 05/04/2016 Court of Auditors: opinion, report
+COURT OF AUDITORS OPINION No 1/2016 concerning a proposal for a Regulation of the European Parliament and of the Council amending
+Regulation (EU, Euratom) No 883/2013, as regards the secretariat of the Supervisory Committee of the European Anti-Fraud Office (OLAF).
+The Court welcomed the proposal that the secretariat of the Supervisory Committee should no longer be provided by OLAF. However, the new
+provisions could be completed in order to clarify that the secretariat must act independently not only of OLAF but also of the Commission and
+that it is under the authority of the Supervisory Committee.
+The Court noted that the upcoming overall evaluation of the OLAF Regulation in 2017 will be an opportunity to examine and, if necessary,
+overhaul the governance of OLAF including its supervisory arrangements. However, the Court suggested not to wait for this overall evaluation
+to clarify the procedure for lifting the immunity of the Director-General of OLAF or of any other member of OLAF staff at the request of a
+national judicial authority.
+The Court therefore recommended that Article 17 of the OLAF Regulation should be completed by a provision that the Commission has to
+inform the Supervisory Committee of any such request in a timely manner and has to consult the Committee before taking a decision.
+
+2016/0064(COD) - 27/05/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Budgetary Control adopted the report by Ingeborg GRÄSSLE (EPP, DE) on the proposal for a regulation of the European
+Parliament and of the Council amending Regulation (EU, Euratom) No 883/2013, as regards the secretariat of the Supervisory Committee of
+the European Anti-Fraud Office (OLAF).
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should adopt its position at first reading, taking over the Commission proposal.
+
+To recall, the proposal aims to strengthen the independence of the OLAF Supervisory Committees Secretariat, thus providing for a more
+effective functioning of the Supervisory Committee.
+In the past the European Parliament called several times on the Commission to take measures to reinforce the independent functioning of the
+OLAF Supervisory Committees secretariat, for example in its report on the discharge procedure for 2013 or in its resolution on the OLAF
+Supervisory Committee's annual report 2014.
+Under the new proposed Regulation, the secretariat of the Supervisory Committee will be provided by the Commission, and no longer by
+OLAF.
+
+2016/0064(COD) - 06/07/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 670 vote to 34, with 6 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU, Euratom) No 883/2013, as regards the secretariat of the Supervisory
+Committee of the European Anti-Fraud Office (OLAF).
+To recall, the proposal aims to strengthen the independence of the OLAF Supervisory Committees Secretariat, thus providing for a more
+effective functioning of the Supervisory Committee.
+Under the new proposed Regulation, the secretariat of the Supervisory Committee will be provided by the Commission, and no longer by
+OLAF.
+The European Parliaments position, adopted at first reading under the ordinary legislative procedure, amended the Commission as follows:
+Confidentiality and data protection: Parliament stated that the staff of the Office and the staff of the secretariat of the Supervisory Committee
+shall refrain from any unauthorised disclosure of information received in the exercise of their functions, unless that information has already
+been lawfully made public or is accessible to the public.
+Moreover, the members of the Supervisory Committee shall be bound by the same obligation of professional secrecy in the exercise of their
+functions, and shall continue to be bound by that obligation after the end of their mandate.
+Guarantee the independence of the Supervisory Committee: before the appointment of any staff to the secretariat, the Supervisory Committee
+shall be consulted and its views shall be taken into account. The secretariat shall act on the instructions of the Supervisory Committee and
+independently from the Commission. Without prejudice to its control over the budget of the Supervisory Committee and its secretariat, the
+Commission shall not interfere with the monitoring functions of the Supervisory Committee.
+An amendment also stipulated that officials assigned to the secretariat of the Supervisory Committee shall neither seek nor take instructions
+from any government or any institution, body, office or agency relating to the exercise of the monitoring functions of the Supervisory
+Committee.
+Parliament took note of the Commission statement annexed to the resolution in which the Commission is committed to ensure the independent
+functioning of the Secretariat of the OLAF Supervisory Committee. This attachment will be of a purely administrative nature, with a view to
+facilitating certain organisational and budgetary aspects.
+The Commission will consider, after consulting the Supervisory Committee, putting in place appropriate internal rules on mobility limiting the
+duration of the postings of the Secretariat, while ensuring continuity in order to render their independence effective, and avoid risks of conflicts
+of interests or of revolving doors issues with OLAF.
+
+2016/0064(COD) - 26/10/2016 Final act
+PURPOSE: to amend Regulation (EU, EURATOM) No 883/2013, as regards the secretariat of the Supervisory Committee of the European
+Anti-Fraud Office (OLAF).
+LEGISLATIVE ACT: Regulation (EU, Euratom) 2016/2030 of the European Parliament and of the Council amending Regulation (EU, Euratom)
+No 883/2013, as regards the secretariat of the Supervisory Committee of the European Anti-Fraud Office (OLAF).
+CONTENT: in accordance with Regulation 883/2013, the Supervisory Committee of the European Anti-Fraud Office is tasked with regularly
+monitoring the implementation by the Office of its investigative function, in order to reinforce its independence.
+This Regulation amends Regulation (EU, Euratom) No 883/2013 so as to enable the framework for the implementation of the budgetary
+appropriations relating to the members of the Supervisory Committee to be set up in a way that avoids any appearance of a possible
+interference of the Office in their duties, while guaranteeing the same transparency of the appropriations for the operation of the Supervisory
+Committee as before.
+In order to ensure that the Supervisory Committee functions effectively and efficiently, its secretariat should be provided directly by the
+Commission, independently from the Office, and the Commission should provide the secretariat with appropriate means to fulfil its function. In
+order to safeguard the Supervisory Committee's independence, the Commission should refrain from interfering with the monitoring functions of
+the Supervisory Committee.
+The staff of the Office and the staff of the secretariat of the Supervisory Committee shall refrain from any unauthorised disclosure of
+information received in the exercise of their functions, unless that information has already been lawfully made public or is accessible to the
+public, and shall continue to be bound by that obligation after leaving the service.
+The members of the Supervisory Committee shall be bound by the same obligation of professional secrecy in the exercise of their functions,
+and shall continue to be bound by that obligation after the end of their mandate.
+ENTRY INTO FORCE: 24.11.2016.
+
+APPLICATION: from 1.1.2017.
+
+

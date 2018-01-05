@@ -1,0 +1,365 @@
+Procedure file
+Basic information
+2013/0400(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Common system of taxation applicable in the case of parent companies and
+subsidiaries of different Member States: tackling double non-taxation
+Amending Directive 2011/96/EU 2010/0387(CNS)
+Subject
+3.45.04 Company taxation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Rapporteur
+
+Appointed
+
+S&D KLEVA KEKUŠ Mojca
+
+10/12/2013
+
+Shadow rapporteur
+PPE STOLOJAN Theodor
+Dumitru
+Verts/ALE LAMBERTS
+Philippe
+GUE/NGL KLUTE Jürgen
+Committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+Rapporteur for opinion
+
+Appointed
+
+S&D GERINGER DE
+OEDENBERG Lidia Joanna
+
+16/12/2013
+
+Commissioner
+ŠEMETA Algirdas
+
+Key events
+25/11/2013
+
+Legislative proposal published
+
+13/01/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+18/03/2014
+
+Vote in committee, 1st reading/single
+reading
+
+24/03/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+02/04/2014
+
+Results of vote in Parliament
+
+02/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+20/06/2014
+
+Act adopted by Council after consultation
+of Parliament
+
+20/06/2014
+
+End of procedure in Parliament
+
+25/07/2014
+
+Final act published in Official Journal
+
+Technical information
+
+COM(2013)0814
+
+Summary
+
+A7-0243/2014
+
+Summary
+
+T7-0275/2014
+
+Summary
+
+Procedure reference
+
+2013/0400(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2011/96/EU 2010/0387(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 115
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/7/14639
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0814
+
+25/11/2013
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2013)0473
+
+25/11/2013
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2013)0474
+
+25/11/2013
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2013)0475
+
+25/11/2013
+
+EC
+
+PE526.302
+
+28/01/2014
+
+EP
+
+PE526.293
+
+12/02/2014
+
+EP
+
+PE529.823
+
+28/02/2014
+
+EP
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A7-0243/2014
+
+24/03/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0275/2014
+
+02/04/2014
+
+EP
+
+Summary
+
+PE536.048
+
+30/06/2014
+
+NP
+
+SP(2014)471
+
+09/07/2014
+
+Committee draft report
+Committee opinion
+
+JURI
+
+Amendments tabled in committee
+
+Reasoned opinion
+
+SE_PARLIAMENT
+
+Commission response to text
+adopted in plenary
+
+Summary
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2014/86
+OJ L 219 25.07.2014, p. 0040 Summary
+
+2013/0400(CNS) - 25/11/2013 Legislative proposal
+PURPOSE: to prevent fraud and tax evasion through artificial arrangements and thus fight against corporate base erosion.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+
+BACKGROUD: Directive 2011/96/EU on the common system of taxation applicable in the case of parent companies and subsidiaries of
+different Member States (PSD) exempts dividends and other profit distributions paid by subsidiary companies to their parent companies from
+withholding taxes and eliminates double taxation of such income at the level of the parent company.
+The Commission considers, however, that the benefits of Directive 2011/96/EU should not lead to situations of double non-taxation and,
+therefore, generate unintended tax benefits for groups of parent companies and subsidiaries of different Member States in comparison with
+groups of companies of the same Member State.
+Double non-taxation resulting from hybrid financial instruments deprives Member States of significant revenues and creates unfair competition
+between businesses in the Single Market.
+Hybrid loan arrangements are financial instruments that have characteristics of both debt and equity. Due to different tax qualifications given
+by Member States to hybrid loans, payments under a cross border hybrid loan are treated as a tax deductible expense in one Member State
+(the Member State of the payer) and as a tax exempt distribution of profits in the other Member State (the Member State of the payee), thus
+resulting in an unintended double non-taxation.
+To solve the issue, the Code of Conduct Group agreed guidance, which cannot be safely implemented under Directive 2011/96. However,
+double non-taxation is one of the key areas for urgent and coordinated action to be taken in the EU:
+·
+
+The Action Plan to strengthen the fight against tax fraud and tax evasion adopted by the Commission on 6 December 2012 identifies
+tackling mismatches between tax systems as one of the actions to be undertaken in the short term (in 2013). It also announced a
+review of anti-abuse provisions in the corporate tax directives, including PSD, with a view to implement the principles underlying its
+Recommendation on aggressive tax planning.
+
+In a resolution adopted on 21 May 2013, the European Parliament called on the Commission to: (i) address the problem of hybrid mismatches
+between the different tax systems used in the Member States; (ii) present in 2013 a proposal for the revision of the PSD with a view to revise
+the anti-abuse clause and to eliminate double non-taxation in the EU as facilitated by hybrid arrangements.
+IMPACT ASSESSMENT: the impact assessment found that counteracting double non-taxation deriving from hybrid financial arrangements
+and aggressive tax planning will have a positive impact on the tax revenue of Member States.
+With regard to hybrid loan mismatches, the impact assessment found that the best option is to deny the tax exemption in the PSD to profit
+distribution payments that are deductible in the source Member State.
+The assessment also found that the most effective option would be to update the current anti-abuse provisions of the PSD and make it
+obligatory for Member States to adopt the common anti-abuse rule.
+CONTENT: the proposal seeks to tackle hybrid financial mismatches within the scope of application of Directive 2011/96/EU (PSD) and to
+replace the current anti-abuse provisions with a general anti-abuse rule, based on the similar clause included in the Recommendation on
+aggressive tax planning.
+To counteract double non-taxation deriving from mismatches in the tax treatment of profit distributions between Member States, the Member
+State of the parent company and the Member State of its permanent establishment should not allow those companies to benefit from the tax
+exemption applied to received distributed profits, to the extent that such profits are deductible by the subsidiary of the parent company.
+
+2013/0400(CNS) - 24/03/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report, in the framework of a special legislative procedure (Parliament
+consultation), the report by Mojca KLEVA KEKU (S&D, SI) on the proposal for a Council directive amending Directive 2011/96/EU on the
+common system of taxation applicable in the case of parent companies and subsidiaries of different Member States.
+The committee approved the Commission proposal subject to the following amendments:
+Combating tax evasion: Members recalled that an estimated EUR 1 trillion of potential tax revenue is lost to tax fraud, tax evasion, tax
+avoidance or aggressive tax planning in the Union every year, representing an approximate cost of EUR 2 000 per annum for each Union
+citizen. It is therefore vital to take appropriate measures against tax fraud and to amend Council Directive 2011/96/EU in order to ensure that
+the application of that directive does not prevent effective action against double non-taxation in the area of hybrid loan structures.
+In order to prevent tax avoidance and abuse through artificial arrangements, the report suggested adding a common, compulsory anti-abuse
+provision tailored to the purpose and objectives of Directive 2011/96/EU should be inserted.
+It is stipulated that this Directive should not preclude the application of domestic or agreement based provisions required in order to prevent
+tax evasion or to permit the taxation of activities at the place of production or consumption, in so far as they are compatible with this Directive.
+Parent company: by derogation of the provisions of the Directive, Member States should be able to add, by means of bilateral agreement, the
+criterion of a holding in the capital by that of a holding of voting rights.
+Review: by 31 December 2016, the Commission should report to the European Parliament and the Council reviewing the operation of this
+Directive and in particular its effectiveness in preventing tax avoidance and abuse. The report should be submitted together with a legislative
+proposal, if appropriate.
+
+2013/0400(CNS) - 02/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 513 votes to 32, with 81 abstentions, in the framework of a special legislative procedure (Parliament
+consultation), a legislative resolution on the proposal for a Council directive amending Directive 2011/96/EU on the common system of taxation
+applicable in the case of parent companies and subsidiaries of different Member States.
+Parliament approved the Commission proposal subject to the following amendments:
+
+Combating tax evasion: Parliament recalled that an estimated EUR 1 trillion of potential tax revenue is lost to tax fraud, tax evasion, tax
+avoidance or aggressive tax planning in the Union every year, representing an approximate cost of EUR 2 000 per annum for each Union
+citizen. It is therefore vital to take appropriate measures against tax fraud and to amend Council Directive 2011/96/EU in order to ensure that
+the application of that directive does not prevent effective action against double non-taxation in the area of hybrid loan structures.
+In its resolution of 21 May 2013 on Fight against Tax Fraud, Tax Evasion and Tax Havens, the European Parliament called on the Commission
+to put forward a proposal in 2013 to amend Directive 2011/96/EU with a view to revising the anti-abuse provision and eliminating double
+non-taxation, as facilitated by hybrid entities and financial instruments in the Union.
+Anti-abuse provision: in order to prevent tax avoidance and abuse through artificial arrangements, the report suggested adding a common,
+compulsory anti-abuse provision tailored to the purpose and objectives of Directive 2011/96/EU should be inserted.
+Application of domestic or agreement based provisions: it is stipulated that this Directive should not preclude the application of domestic or
+agreement-based provisions required in order to prevent tax evasion or to permit the taxation of activities at the place of production or
+consumption, in so far as they are compatible with this Directive.
+Artificial arrangement: in order to determine whether an arrangement or series of arrangements is artificial, Member States should ascertain, in
+particular, but not exclusively, whether they involve one or more of the following situations outlined in the Directive.
+Parent company: by derogation of the provisions of the Directive, Member States should be able to add, by means of bilateral agreement, the
+criterion of a holding in the capital by that of a holding of voting rights.
+Review: by 31 December 2016, the Commission should report to the European Parliament and the Council reviewing the operation of this
+Directive and in particular its effectiveness in preventing tax avoidance and abuse. The report should be submitted together with a legislative
+proposal, if appropriate.
+
+2013/0400(CNS) - 08/07/2014 Final act
+PURPOSE: to amend EU tax rules on the common system of taxation applicable in the case of parent companies and subsidiaries of different
+Member States.
+LEGISLATIVE ACT: Council Directive 2014/86/EU amending Directive 2011/96/EU on the common system of taxation applicable in the case
+of parent companies and subsidiaries of different Member States.
+CONTENT: the original parent-subsidiary directive (Directive 2011/96/EU) exempts dividends and other profit distributions paid by subsidiary
+companies to their parent companies from withholding taxes and eliminates double taxation of such income at the level of the parent company.
+The benefits of Directive 2011/96/EU should not lead to situations of double non-taxation and, therefore, generate unintended tax benefits for
+groups of parent companies and subsidiaries of different Member States when compared to groups of companies of the same Member State.
+To counteract double non-taxation deriving from mismatches in the tax treatment of profit distributions between Member States, Directive
+2011/96/EU is amended to ensure that the Member State of the parent company and the Member State of its permanent establishment should
+not allow those companies to benefit from the tax exemption applied to received distributed profits, to the extent that such profits are
+deductible by the subsidiary of the parent company.
+ENTRY INTO FORCE: 26.07.2014.
+TRANSPOSITION: 31.12.2015.
+
+

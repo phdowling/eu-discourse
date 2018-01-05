@@ -1,0 +1,1641 @@
+Guidelines
+for Processing of
+Third‑Country Nationals
+through Automated
+Border Control
+
+Guidelines
+for Processing of
+Third‑Country Nationals
+through Automated
+Border Control
+
+1 of 32
+
+European Agency for the Management
+of Operational Cooperation at the External Borders
+of the Member States of the European Union
+Research and Development Unit
+Capacity Building Division
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+2 of 32
+
+Print version:
+TT-02-16-152-EN-C
+ISBN 978-92-95205-51-2
+DOI 10.2819/86138
+Online version:
+TT-02-16-152-EN-N
+ISBN 978-92-95205-50-5
+DOI 10.2819/39041
+
+Contents
+Legal notice #4
+All rights reserved #4
+Acknowledgements
+
+#5
+
+About Frontex #6
+Acronyms and abbreviations #7
+Glossary #8
+Executive summary #11
+Terminology #13
+1. Introduction #14
+1.1. Purpose and audience #14
+1.2. Scope and methodology #14
+1.3. A
+ bout best practices and guidelines #15
+1.4. How to read this document #16
+2.	Legal framework for border checks on third-country nationals #17
+3.	Current procedure for border checks on third‑country nationals #18
+3.1.	TCN manual border check process #18
+3.2.	Existing ABC and ABC-assisted processing of TCNs #20
+3.2.1. Finland #21
+3.2.2. Germany #22
+3.2.3. Netherlands #22
+3.2.4. United Kingdom #23
+3.2.5. Local border traffic #23
+4.	Perpectives on TCN ABC in the future #24
+4.1. Legal framework #24
+4.2.	Future scenarios for TCN ABC #25
+4.3. TCN ABC topology considerations #28
+5.	The document authentication and biometric verification processes #29
+6. Quality assurance #29
+7. Conclusions #30
+Annex: References #31
+
+3 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+Legal notice
+The contents of this publication do not necessarily reflect the official opinions of any institution or body of the European Union. Neither Frontex nor any person or company acting on
+behalf of Frontex is responsible for the use that may be made of the information contained
+in this report.
+
+All rights reserved
+No part of this publication may be reproduced in any form or by any means electronic
+or mechanical, including photocopying and
+recording, or by any information storage retrieval system, without permission in writing from the copyright holder.
+Before using the Frontex ‘Guidelines for Processing of Third-Country Nationals through
+Automated Border Control’ (TCN Guidelines)
+in a document please observe the following.
+1.	Contact the Frontex Research and Development Unit in order to get the latest
+version of the TCN Guidelines and support for using them in your document.
+In the introductory part of the document:
+2.	include a brief text declaring that Frontex TCN Guidelines have been used in the
+document. Mention explicitly which sections in the document are (totally or partially) based on these guidelines;
+3.	explain briefly why Frontex TCN Guidelines have been used in the document, and
+in case of total or partial use of particular
+sections, explicitly state why these sec-
+
+4 of 32
+
+tions are copied in full and what the added
+value is. Provide some background about
+how using Frontex guidelines best serves
+the purposes of the document;
+4.	briefly mention that the Frontex TCN
+Guidelines are the result of a collaborative effort among EU Member States (coordinated by Frontex) which at the time of
+writing have an operational or pilot ABC
+system in place.
+In the body of the document:
+5.	in the parts of the document based on the
+Frontex TCN Guidelines, make reference
+to the Frontex document (see instructions
+below).
+In the references section:
+6.	include a proper reference to the Frontex TCN Guidelines document (title, version and issuing date and ISBN reference,
+plus a download link to the Frontex web
+page hosting the latest version);
+7.	include the Frontex Research and Development Unit contact details at the end of
+the document.
+
+Acknowledgements1
+This document was prepared by the Research
+and Development Unit (RDU) of Frontex in
+close cooperation with experts from a number of European Union Member States which,
+at the time of writing, were operating and/
+or testing automated border control systems processing third-country nationals at
+selected external border crossing points of
+the EU. Frontex would like to particularly acknowledge the work of Pasi Nokelainen, System Manager for Border Checks at the Finnish
+Border Guard, who took the lead in developing these guidelines. It would also like to
+thank the following persons who participated
+in the working group on Automated Border
+Control and contributed to this document1
+nnBulgaria: Lyubomir Dilov and Aleksandr
+Kamburov (Border Police),
+nnCzech Republic: Mylan Frydrych and Petr
+Malovec (Border Police),
+nnFinland: Janne Kurvinen and Pasi
+Nokelainen (Finnish Border Guard),
+nnFrance: Eric Clement and Pierre Alexandre Gelas (Border Police),
+nnGermany: Markus Nuppeney and Florian
+Rienhardt (Federal Office for Information
+Security) and Maik Rudolf (Federal Police),
+
+1
+
+nnIreland: Kevin Ryan (Irish Naturalisation
+and Immigration Service),
+nnNetherlands: Yvonne Bakker (Ministry of
+Justice) and Hans de Moel (Royal Netherlands Marechaussee),
+nnPortugal: Paula Maria Azevedo Cristina
+(Immigration and Border Service),
+nnSpain: Javier Núñez Alonso and Alberto
+Raez Liria (Spanish National Police),
+nnUnited Kingdom: Andrew Clayton and
+Glen Wimbury (UK Border Agency).
+In addition, the following staff from the Frontex RDU participated in the drafting and editing process: Rasa Karbauskaite, Karolina
+Lopacka, Maria Duro Mansilla and Ignacio
+Zozaya.
+Frontex would also like to express its gratitude to other stakeholders who contributed to the review process, including Ciarán
+Carolan (eu-LISA) and Philippe Van Triel (Directorate-General for Migration and Home
+Affairs, European Commission).
+
+Member State experts and Frontex staff have
+been acknowledged in alphabetical order
+according to the first letter of their surnames.
+
+5 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+About Frontex
+The mission of Frontex is to facilitate and render more effective the application of existing
+and future European Union measures relating to the management of external borders,
+in particular the Schengen Borders Code. As
+such, Frontex is to play a key role in analysing and defining the capability needs in border control and in supporting the Member
+States in development of these capabilities.
+Frontex also provides qualified expertise to
+support the EU policy development process
+in the area of border control.
+One of the core objectives of the Capacity
+Building Division is to drive the process of harmonisation and standardisation of the management of the EU external borders by the
+
+6 of 32
+
+Member States, by promoting greater interoperability. As part of the Capacity Building
+Division at Frontex, the RDU is tasked with
+the development of best practices and procedures, both technical and operational, for
+border control. The RDU proactively monitors and participates in the development of
+research relevant for the control and surveillance of external borders and keeps the
+Member States and the European Commission informed concerning technological innovations in the field of border control. In
+particular, one of the RDU’s main areas of
+work is the exploration of the potential offered by new border management technologies to meet the dual objective of enhancing
+security while facilitating travel.
+
+Acronyms and abbreviations
+ABC	automated border control
+BCP
+border crossing point
+BPOG	
+‘Best Practice Operational Guidelines for Automated Border Control (ABC)
+Systems’
+BPTG
+‘Best Practice Technical Guidelines for Automated Border Control (ABC) Systems’
+EES
+entry/exit system
+eu-LISA	European Agency for the Operational Management of Large-Scale IT Systems
+in the area of Freedom, Security and Justice
+e-MRTD
+electronic machine-readable travel document
+EU
+European Union
+EU/EEA/CH European Union, European Economic Area, Switzerland
+GPVIS	‘Good Practices in Practical Implementation of the Visa Information System at
+EU Borders’
+ICAO
+International Civil Aviation Organisation
+MRTD
+machine-readable travel document
+RT(s)
+registered traveller(s)
+RTP
+registered traveller programme
+SBC
+Schengen Borders Code
+TCN(s)
+third-country national(s)
+VE
+visa exempt
+VH
+visa holder
+VIS
+Visa Information System
+WG
+working group
+
+7 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+Glossary
+The definitions included in this section are
+based on a number of relevant glossaries,
+dictionaries and documents, namely the
+OECD Glossary of Statistical Terms, the Oxford Language Dictionary, the European Commission ‘Proposal for a regulation of the
+European Parliament and of the Council establishing an entry/exit system (EES)’, the
+European Commission ‘Proposal for a regulation of the European Parliament and of the
+Council establishing a registered traveller
+programme’, the European Union ‘Schengen
+Borders Code’, the International Civil Aviation Organisation (ICAO) ‘Doc 9303 Machine Readable Travel Documents’, the ICAO
+‘Guidelines for Electronic Machine Readable Travel Documents and Passenger Facilitation’, the ICAO ‘Machine Readable Travel
+Documents Glossary,’ the ICAO ‘A Primer on
+the ICAO Public Key Directory: White Paper’ and the Treaty on the Functioning of
+the European Union (for further details see
+reference list in Annex I). Finally, a number
+of definitions have been devised and agreed
+upon by the Frontex working group on Automated Border Controls.
+Automated border control (ABC) system: an
+automated system which authenticates the
+electronic machine-readable travel document
+and/or token, establishes that the passenger
+is the rightful holder of the document and/
+or token, queries border control records and
+then determines eligibility of border crossing
+according to the predefined rules.
+Biometric capture: the process of taking a
+biometric sample from the user.
+Biometric verification: the process of confirming the identity of the holder of an e-MRTD
+
+8 of 32
+
+by the measurement and validation of one or
+more unique properties of the holder’s person.
+Border checks: the checks carried out at border crossing points in accordance with the
+Schengen Borders Code (SBC), to ensure that
+persons, including their means of transport
+and the objects in their possession, may be
+authorised to enter the territory of the Member States or authorised to leave it. See also
+‘Border crossing point (BCP)’.
+Border crossing point (BCP): any crossing
+point authorised by the competent authorities for the crossing of external borders.
+Border guard: any public official assigned,
+in accordance with national law, to a border
+crossing point or along the border or the immediate vicinity of that border who carries
+out, in accordance with the SBC and national
+law, border control tasks.
+Certificate: an electronic document establishing a digital identity by combining the
+identity name or identifier with the public
+key of the identity, a validity period and an
+electronic signature by a third party.
+Cost-benefit analysis: technique for deciding whether to make a change. As its name
+suggests, it compares the values of all benefits from the action under consideration and
+the costs associated with it.
+Database: an application storing a structured set of data and allowing for the management and retrieval of such data.
+Entry/exit system (EES): an information system enabling storage of entry and exit data
+of third-country nationals crossing the ex-
+
+ternal borders of the Member States of the
+European Union.
+
+sons enjoying the Community right to free
+movement’.
+
+E-gate: one of the components of an ABC
+system, consisting of a physical barrier operated by electronic means. This covers different types of e-gates: a single-door e-gate
+is a system with one barrier to pass. A double-door e-gate is a system with an entry
+and an exit barrier (man-trap).
+
+Interoperability: the ability of several independent systems or subsystem components
+to work together.
+
+Electronic machine-readable travel document (e-MRTD): a machine-readable travel
+document equipped with an electronic contactless chip according to the International
+Civil Aviation Organisation (ICAO) Doc 9303.
+See also ‘Machine-readable travel document’.
+E-passport: a machine-readable passport
+containing a contactless integrated circuit
+chip within which is stored data from the
+passport data page, a biometric measure of
+the passport holder and a security object to
+protect the data with public key infrastructure cryptographic technology, and which
+conforms to the specifications of ICAO Doc
+9303, Part 1.
+EU citizen: any person having the nationality
+of an EU Member State, within the meaning
+of Article 20(1) of the Treaty on the Functioning of the European Union. See also ‘Persons
+enjoying the Community right to free movement’ and ‘Freedom of movement (right to)’.
+First-line check: default check carried out at
+border crossing points to ensure that travellers are authorised to enter the territory of
+the EU/EEA/CH. See also ‘Second-line check’.
+Freedom of movement (right to): a fundamental right of every citizen of an EU Member State or another European Economic
+Area country or Switzerland to freely move,
+reside and work within the territory of these
+Member States. See also ‘EU citizen’ and ‘Per-
+
+Machine-readable travel document
+(MRTD): an official document, conforming
+with the specifications contained in ICAO
+Doc 9303 (e.g. passport, visa), issued by a
+state or an organisation which is used by the
+holder for international travel (e.g. passport,
+visa) and which contains mandatory visual
+(eye-readable) data and a separate mandatory data summary in a format which is capable of being read by machine.
+Member State: a country which is a member of the European Union. Within the context of the present guidelines, the term also
+applies to those countries that, not being EU
+members, are part of the Schengen area. See
+also ‘Schengen area’.
+Operator: the border guard officer responsible for the remote monitoring and control of
+the ABC system. The tasks performed by the
+operator typically include: (a) monitoring the
+user interface of the application; (b) reacting upon any notification given by the application; (c) managing exceptions and making
+decisions about them; (d) communicating
+with the assisting personnel for the handling
+of exceptions at the e-gates; (e) monitoring
+and profiling travellers queuing in the ABC
+line and using the e-gates, looking for suspicious behaviour in travellers; and (f) communicating with the border guards responsible
+for second-line checks whenever their service is needed.
+Persons enjoying the Community right of
+free movement: according to Article 2(5) of
+the Schengen Borders Code these are: (a)
+Union citizens within the meaning of Article
+20(1) of the Treaty on the Functioning of the
+
+9 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+European Union and third-country nationals who are members of the family of a Union citizen exercising his or her right to free
+movement to whom Directive 2004/38/EC of
+the European Parliament and of the Council of 29 April 2004 on the right of citizens of
+the Union and their family members to move
+and reside freely within the territory of the
+Member States; and (b) third-country nationals and their family members, whatever their
+nationality, who, under agreements between
+the Community and its Member States, on
+the one hand, and those third countries, on
+the other hand, enjoy rights of free movement equivalent to those of Union citizens.
+See also ‘Freedom of movement (right to)’.
+Port operator: also known as ‘port authority’. The public institution and/or private company that operates the port facility, either at
+air or sea borders.
+Registered traveller (RT): a third-country
+national who has been granted access to
+the registered traveller programme. See also
+‘Registered traveller programme’.
+Registered traveller programme (RTP): a
+programme that allows third-country nationals who have been pre-vetted and granted
+access to the RTP to benefit from facilitation of border checks at the European Union’s external border.
+Schengen area: an area without internal
+border control encompassing 26 European
+countries, including all EU Member States ex-
+
+10 of 32
+
+cept Bulgaria, Cyprus, Ireland, Romania and
+the United Kingdom, as well as four non-EU
+countries, namely Iceland, Liechtenstein, Norway and Switzerland. It takes its name from
+the Schengen Agreement signed in Schengen, Luxembourg, in 1985; this agreement was
+later incorporated into the EU legal framework by the 1997 Treaty of Amsterdam.
+Schengen Borders Code: Regulation (EC)
+No 562/2006 of the European Parliament and
+of the Council of 15 March 2006 establishing a Community Code on the rules governing the movement of persons across borders.
+Second-line check: a further check which
+may be carried out in a special location away
+from the location at which all travellers are
+checked (first line).
+Third-country national: any person who is
+not an EU citizen within the meaning of Article 20(1) of the Treaty on the Functioning
+of the European Union and who is not a person enjoying the Union right to freedom of
+movement, as defined in Article 2(5) of the
+Schengen Borders Code. See also ‘EU citizen’
+and ‘Persons enjoying the Community right
+of free movement’.
+Topology: the way in which the constituent
+parts of a system are interrelated or arranged.
+Watch list: a list of individuals, groups, or
+items that require close surveillance. See also
+‘Database’.
+
+Executive summary
+The present document provides guidelines
+on the implementation of automated border control (ABC) systems to process thirdcountry nationals (TCNs). ABC is defined as
+the use of automated systems that can verify the identity of travellers at border crossing
+points and automatically determine eligibility
+for border crossing according to predefined
+rules. A border guard stationed in a monitoring and control station supervises the process.
+The aim of these guidelines is to clarify the legal, operational and technical aspects of ABC
+implementations aimed to facilitate TCN border crossings as they exist today and could
+exist in the future in line with the European
+Commission’s proposals to establish an entry/
+exit system (EES proposal), a registered traveller programme (RTP proposal) and amendments to the Schengen Borders Code (SBC
+amendments). The guidelines will be regularly updated to reflect further development
+of the Commission’s proposals within the
+framework of the legislative procedure and
+the results of the 2015 ‘Smart borders’ pilot.
+The intended audience consists of technical
+experts as well as decision-makers involved
+in the design and implementation of ABC systems in the EU Member States. The guidelines should be read in conjunction with the
+Frontex ‘Best Practice Operational Guidelines’
+(BPOG) and ‘Best Practice Technical Guidelines’ (BPTG) for ABC and the ‘Good Practices in Practical Implementation of the Visa
+Information System at EU Borders’ (GPVIS).
+The guidelines are structured in three main
+sections which focus respectively on: (1) the
+legal framework of border checks of thirdcountry nationals; (2) current practice concerning border checks of third-country
+
+nationals, both manual and with the use of
+ABC; and (3) outlook on the development and
+implementation of ABC solutions for the processing of TCNs in the future.
+The Schengen Borders Code, the EU Visa Code
+and national legislation set the legal framework for the various measures which are
+implemented at the border crossing points
+of the Schengen area. TCNs should undergo
+a ‘thorough check’ comprising a number of
+steps, such as the verification of the available
+means of subsistence and the purpose of the
+intended stay, which are difficult to automate.
+In the case of TCNs who are visa holders, border guards must also verify the identity of the
+visa holder and the authenticity of the visa
+by using the traveller’s fingerprints.
+Some Member States have launched pilots
+and implemented operational ABC systems for
+TCNs. The guidelines review the cases of Finland, Germany, the Netherlands and the United
+Kingdom. These implementations are generally available to a limited group of eligible nationalities, sometimes on the basis of bilateral
+agreements with third countries, and differ,
+among other aspects, on whether pre-enrolment is required, the biometric markers used
+and whether there are separate dedicated
+ABC infrastructures for TCNs and EU citizens.
+The future outlook of ABC for the processing of TCNs will be shaped by the adoption
+of EU legislation on ‘Smart borders’. The document reviews the European Commission’s
+EES and RTP proposals and SBC amendments,
+focusing on the key elements that would
+shape the use of ABC for TCNs, mainly: (1)
+the establishment of an obligation to check
+whether a person has been granted access
+to the RTP and to verify the identity of the
+
+11 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+registered traveller (RT); (2) the exemption
+of RTs from certain aspects of the thorough
+check; and (3) the replacement of the current stamping of travel documents by the
+electronic recording and verification of data
+in the EES. As proposed by the Commission,
+both the EES and the RTP would require the
+enrolment and verification of fingerprints.
+These amendments open up three scenarios for the processing of TCNs through ABC.
+For TCNs enrolled in the RTP, all the stages
+can be fully automated at both entry and exit,
+since the checks on the purpose of stay and
+the means of subsistence have been waived.
+For non-enrolled TCNs, the possibilities include an ABC or ABC-assisted implementation
+where the entry requirements that are still
+applicable could be performed by answering
+the questions on a touch screen where the
+decision to authorise entry or exit would be
+done manually or electronically by a supervising border guard.
+The ABC system may facilitate both EU/EEA/
+CH citizens and TCNs. However, if different
+workflows and biometrics apply to the two
+groups, particular attention should be paid
+to the provision of customer guidance and
+instructions.
+In ABC for TCNs all the applicable requirements and recommendations regarding the
+document authentication, biometric verification and quality control processes listed in
+the BPOG and BPTG shall apply. Additionally,
+with respect to the fingerprint scanning process, the fingerprint quality control and requirements recommendations of the GPVIS
+should be adhered to.
+
+12 of 32
+
+Terminology
+Although the recommendations and guidelines
+presented in this document are non-binding
+for Member States, the present terminology2
+has been adopted in order to provide an unambiguous description of what should be observed in order to achieve a coherent approach
+with a common security baseline across the
+European Union’s external borders.
+SHALL This word, or the terms ‘REQUIRED’
+or ‘MUST’, is to be understood as an
+absolute requirement.
+SHALL NOT This phrase, or the phrase ‘MUST
+NOT’, is to be understood as an absolute prohibition.
+SHOULD This word, or the adjective ‘RECOMMENDED’, means that there may
+exist valid reasons in particular circumstances to ignore a particular aspect,
+but the full implications must be understood and carefully weighed before
+choosing a different course.
+SHOULD NOT This phrase, or the phrase
+‘NOT RECOMMENDED’, means that
+
+2
+
+there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even
+useful, but the full implications should
+be understood and the case carefully
+weighed before implementing any behaviour described with this label.
+MAY This word, or the adjective ‘OPTIONAL’,
+means that an item or feature is truly
+optional. For example, a vendor may
+choose to include the option because a
+particular marketplace requires it or because the vendor feels that it enhances
+the product while another vendor may
+omit the same item or feature. An implementation which does not include
+a particular option MUST be prepared
+to interoperate with another implementation which does include the option, although perhaps with reduced
+functionality. In the same sense an implementation which does include a particular option MUST be prepared to
+interoperate with another implementation which does not include the option.
+
+See Bradner, Scott, ‘Key words for use in RFCs
+[requests for comments] to indicate requirement
+levels’, BCP 14, RFC 2119, 1997. (A request for
+comments (RFC) is a formal document (type
+of publication) from the Internet Engineering
+Task Force (IETF) that is the result of committee
+drafting and subsequent review by interested
+parties. Some RFCs are informational in nature.
+Of those that are intended to become internet
+standards, the final version of the RFC becomes
+the standard and no further comments or
+changes are permitted).
+
+13 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+1. Introduction
+
+14 of 32
+
+1.1. Purpose and audience
+
+1.2. Scope and methodology
+
+This document presents a generic technical and operational framework for the implementation of automated border control
+(ABC) systems capable of processing thirdcountry nationals (TCNs), both visa holders
+and visa exempt, at the EU’s external borders.
+ABC is defined as the use of automated systems which can verify the identity of travellers at border crossing points (BCPs) and
+automatically determine eligibility for border crossing according to predefined rules.
+These rules need to observe the procedures
+and requirements set in the Schengen Borders
+Code (SBC) for carrying out border checks.
+The system’s human oversight is provided
+by a border guard stationed in a monitoring and control station, who supervises the
+whole process.
+
+The scope and content of the present document is aligned, when applicable, with the
+European Commission’s proposals to establish an entry/exit system (EES proposal)3 ,
+a registered traveller programme (RTP
+proposal)4 and amendments to the SBC (SBC
+amendments)5 constituting the ‘Smart borders’ package as well as the International Civil
+Aviation Organisation’s (ICAO) recommendations on the use of e-passports for automated border control without enrolment6, as
+available at the time of writing7. The existing
+
+The document has been elaborated in an
+effort to clarify the legal, operational and
+technical aspects of ABC implementations
+aimed to facilitate TCN border crossings as
+they exist today and could exist in the future.
+The intended audience consists of technical
+experts involved in the design and implementation of ABC systems in the EU Member States. Project managers and system
+architects from border management authorities will find here references to detailed
+technical information allowing for the specification and implementation of a system
+that performs to standards and complies
+with the legal requirements. In addition,
+current and prospective practitioners and
+decision-makers at national and EU levels
+may benefit from a better understanding of
+the technical, operational and legal aspects
+of the implementation of ABC systems processing TCNs.
+
+4
+
+3
+
+5
+
+6
+
+7
+
+Proposal for a Regulation of the European
+Parliament and of the Council establishing an Entry/
+Exit System (EES) to register entry and exit data
+of third-country nationals crossing the external
+borders of the Member States of the European
+Union, COM(2013) 95 final 2013/0057 (COD).
+Proposal for a Regulation of the European
+Parliament and of the Council establishing a
+Registered Traveller Programme, COM(2013) 97
+final 2013/0059 (COD).
+Proposal for a Regulation of the European
+Parliament and of the Council amending
+Regulation (EC) No 562/2006 as regards
+the use of the Entry/Exit System (EES) and
+the Registered Traveller Programme (RTP),
+COM(2103) 96 final 2013/0060 (COD).
+See in particular ‘Communication from the
+Commission to the European Parliament, the
+Council, the European Economic and Social
+Committee and the Committee of the Regions:
+Preparing the next steps in border management
+in the European Union’, COM(2008) 69 final,
+13.2.2008; ICAO, ‘Guidelines for electronic
+— Machine-readable Travel Documents &
+Passenger Facilitation’, Version — 1.0, 17.4.2008.
+It should be noted that at the time of writing, the
+‘Smart borders’ pilot coordinated by the European
+Agency for the Operational Management of
+Large-Scale IT Systems in the area of Freedom,
+Security and Justice (eu-LISA) is ongoing, thus the
+proposals may, as a result, be subject to changes.
+
+systems and legal framework for processing
+TCN travellers by ABC systems are also described in order to provide information on
+the changes, challenges and opportunities
+offered by the proposals. In particular, the
+present document provides insight into the
+functioning and requirements concerning:
+nnthe infrastructure and processes of ABC
+for TCNs today and as proposed by the
+European Commission;
+nnthe physical architecture of an ABC system for TCNs;
+nnthe document authentication process;
+nnthe biometric verification process;
+nnquality control aspects of ABC systems.
+Travel documents considered and
+biometric markers used
+ABC systems can be divided into two types:
+(a) systems without pre-enrolment based on
+the use of an electronic travel document; and
+(b) systems based on pre-enrolment which
+generally take the shape of registered traveller programmes. The European Commission
+encourages Member States to deploy ABC
+systems without pre-enrolment for EU citizens carrying ICAO-compliant e-passports.
+Most ABC systems currently in use support
+facial recognition as the main biometric verification method. However, the RTP proposal
+and the SBC amendments assume the use of
+fingerprints for TCNs and, if implemented as
+proposed, would require the use of a separate token for TCNs and enable the usage
+of regular machine-readable travel documents (MRTDs).
+Methodology
+The methodology used by the ABC working
+group (WG) to develop this document included thorough analysis and discussion of
+the current regulatory framework of the border checks applicable to TCNs, current ABC
+implementations processing TCNs in Mem-
+
+ber States and changes to the legislation
+regulating TCN processing proposed by the
+European Commission, as well as consultations with experts and with the Commission.
+In particular, the following tasks were undertaken by the WG members:
+nnstating the problem and goals;
+nnanalysing the SBC amendments and the
+EES and RTP proposals;
+nnelaborating the list of relevant topics to
+be covered;
+nndebating and agreeing on proposed
+guidelines;
+nnconstructing the present document;
+nnconducting an internal and external review of the document;
+nnapproving these guidelines.
+This document is intended to be a dynamic
+one, subject to regular updates in an attempt to gather and disseminate knowledge on state-of-the-art technologies and
+best current practices regarding ABC systems for TCNs, to reflect further development
+on the three legislative proposals within the
+framework of the legislative procedure and
+to follow the implementation of the ‘Smart
+borders’ pilot carried out in 2015. The guidelines will be validated through consultations
+with relevant stakeholders and with technical/operational experts in the field of ABC.
+
+1.3. About best practices
+and guidelines
+Frontex has published best practice guidelines
+on the operational and technical aspects of
+ABC solutions, namely the ‘Best Practice Operational Guidelines’ (BPOG) and ‘Best Practice Technical Guidelines’ (BPTG) for ABC. A
+best practice is a technique, method, process, activity, incentive or reward which conventional wisdom regards as more effective
+at delivering a particular outcome than any
+other technique, method, process, etc. when
+applied to a particular condition or circum-
+
+15 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+stance. In the Schengen context, for example,
+best practices are defined as ‘a non-exhaustive set of working methods or model measures which must be considered as the optimal
+application of the Schengen acquis, on the understanding that more than one best practice
+is possible for each specific part of Schengen
+cooperation’8.
+For a best practice to be identified there
+needs to be conclusive evidence of its effectiveness based on sufficiently broad experience. This is the case concerning the
+development and implementation of ABC systems without pre-enrolment for EU/EEA/CH
+nationals carrying ICAO-compliant e-passports, as these kinds of solutions have been
+in operation in a significant number of Member States for an extended period of time.
+In contrast, there is only limited experience
+in the EU as regards the use of ABC systems
+to process TCNs. In this light, the scope of
+the present document is circumscribed to
+the provision of guidelines, that is, of gen-
+
+8
+
+16 of 32
+
+Council of the EU, ‘EU Schengen Catalogue:
+External borders control, return and readmission
+— Recommendations and best practices’, Council
+document No 7864/09, 19.3.2009, p. 6.
+
+eral, non-mandatory principles aiming to
+streamline particular procedures according to
+a set routine. The aim is to complement the
+BPOG and BPTG as well as the ‘Good Practices in Practical Implementation of the Visa
+Information System at EU Borders’ (GPVIS) by
+clarifying the legal, operational and technical aspects of ABC implementation aimed at
+processing TCNs as they exist today and as
+foreseen in the European Commission’s proposals to establish an RTP and an EES.
+
+1.4. How to read this document
+These guidelines should be read in combination with the aforementioned Frontex documents, namely the ABC BPOG and BPTG, as
+well as the GPVIS. In particular, technical aspects are not repeated in this document, but
+references are made to the BPTG and GPVIS,
+when applicable.
+Clarification of the terminology used, a glossary and a list of acronyms can be found at
+the beginning of the document.
+
+2.	Legal framework for border
+checks on third-country
+nationals
+The Schengen Borders Code sets the framework for the various border control measures which are implemented at the external
+BCPs of the Schengen area. The notion of ‘border checks’ means the checks carried out at
+BCPs, to ensure that a person, including their
+means of transport and the objects in their
+possession, may be authorised to enter the
+territory of the Member States or authorised to leave it.
+According to the SBC, EU citizens and those
+enjoying the right of free movement are subject to a ‘minimum check’, which consists of
+establishing their identities on the basis of
+presented travel documents and a straightforward verification of their validity and authenticity, including consultation of databases,
+when necessary. With the issuance of e-passports by Member States, an infrastructure for
+travel document authentication and biometric verification emerged; this made it technically feasible to perform minimum checks
+automatically with the use of ABC systems.
+Some Member States have successfully implemented such solutions to facilitate border
+crossings by EU/EEA/CH passport holders.
+
+The SBC, however, sets a number of additional requirements for border checks on
+TCNs, such as the examination of the entry
+and exit stamps in order to verify that the
+person has not already exceeded the maximum duration of authorised stay in the territory of the Member States, the verification
+of the purpose of the intended stay and that
+the person has sufficient means of subsistence. These requirements limit the possibilities to automate the processing of TCNs, as
+some of the required checks cannot be performed by ABC systems but have to be completed manually.
+Moreover, one of the most challenging aspects of border checks on TCN visa holders
+is the obligation to verify the identity of the
+visa holder and the authenticity of the visa
+by using the fingerprint of the traveller. This
+requirement, set by the SBC on the basis of
+the provisions of the Visa Information System (VIS) regulation9, has been mandatory
+since October 2014.
+
+9
+
+Regulation (EC) No 767/2008 of the European
+Parliament and of the Council of 9 July 2008
+concerning the Visa Information System (VIS)
+and the exchange of data between Member
+States on short-stay visas (VIS Regulation).
+
+17 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+3.	Current procedure
+for border checks on
+third‑country nationals
+3.1.	TCN manual border check process
+The manual border check process for a TCN traveller consists of the following steps.
+Figure 1. TCN on entry
+1. Document/s
+
+1. Document/s
+
+2. Allowed stay?
+
+2. Allowed stay?
+
+3. Purpose of stay?
+
+3. Consult systems
+
+4. Financial means?
+
+4. Accept/reject
+
+5. Consult systems
+
+5. Stamping
+
+6. Accept/reject
+
+6. Entry/exit
+
+7. Stamping
+
+8. Entry/exit
+
+18 of 32
+
+Figure 2. TCN on exit
+
+Figure 3. TCN-VH on entry
+
+Figure 4. TCN-VH on exit
+
+1. Document/s
+
+1. Document/s
+
+2. Fingerprint scan
+
+2. Fingerprint
+
+3. Allowed stay?
+
+3. Allowed stay?
+
+4. Purpose of stay?
+
+4. Consult
+
+5. Financial means?
+
+5. Accept/reject
+
+6. Consult systems
+
+6. Stamping
+
+7. Accept/reject
+
+7. Entry/exit
+
+8. Stamping
+
+for processing TCNs through ABC systems. In
+practice, only the steps of document authentication, identity verification (referred to as the
+‘Document check’) and database queries (referred to as ‘Consult systems’) can be automated. The configuration of an ABC system
+can, however, also include processes such as
+entry/exit recording into national systems or allow for checking the eligibility of the traveller’s
+nationality to use ABC where eligible nationalities have been restricted, for example to visaexempt nationalities only. These requirements
+have so far, regardless of the growing number
+of e-passport holders among TCN travellers,
+limited the expansion of ABC systems for the
+processing of TCN and had a negative impact
+on the cost-efficiency of the systems.
+
+9. Entry/exit
+
+Figures 1 and 2 illustrate the content of a thorough check as defined by the SBC; dotted lines
+indicate that the step is optional. In practice,
+these steps can take place in parallel or in sequence. In some Member States, the process
+also includes the consultation and entering of
+data into a national entry/exit system.
+As noted above, currently the requirements set
+by the SBC considerably limit the possibilities
+
+19 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+While Figures 1 and 2 describe the basic border
+check process for both TCN traveller groups
+— visa exempt (VE) and visa holders (VH) —
+the VIS verification process for TCN-VH, illustrated in Figure 3, comprises yet another
+phase, i.e. fingerprint scan. This additional
+phase, which has been depicted as a separate step, is in reality part of the document
+check as it is connected to the visa verification and authentication.
+
+3.2.	Existing ABC and ABCassisted processing of TCNs
+Despite the fact that many of the TCN processing phases, in particular on entry (Figure 1), cannot be automated, some Member
+States have launched pilots and implemented
+operational ABC systems for TCNs. In these
+implementations, the basic process flow can
+be depicted as below (Figures 5 and 6).
+
+Figure 5. ABC-assisted control for TCN on entry
+ABC
+
+MANUAL CONTROL
+
+1. Document/s
+
+2. Consult systems
+
+3. Visa/permit
+
+4. Allowed stay?
+
+5. Purpose of stay?
+
+6. Financial means?
+
+7. Accept/reject
+
+8. Stamping
+
+9. Entry/exit
+
+20 of 32
+
+Figure 6. ABC-assisted control for TCN on exit
+ABC
+
+MANUAL CONTROL
+
+1. Document/s
+
+2. Consult systems
+
+3. Visa/permit
+
+4. Allowed stay?
+
+5. Accept/reject
+
+6. Stamping
+
+7. Entry/exit
+
+3.2.1. Finland
+
+or
+
+7. Entry/exit
+
+The Finnish Border Guard has piloted an ABC
+solution for the assisted processing of TCNVE travellers at the exit controls of HelsinkiVantaa Airport. The exit e-gates are available
+to a limited group of nationalities. At the time
+of writing, TCN-VE travellers holding passports issued by Australia, Japan, New Zealand, South Korea and the United States are
+allowed to use ABC. At entry, the e-gates are
+available only for Japanese travellers.
+
+similar and based on facial verification against
+the traveller’s photograph stored in the eMRTD chip. Both workflows can be enabled
+by the supervising officer and, if necessary,
+used at the same time, thus enabling joint
+usage of the gates by the two groups of
+passengers. However, due to the stamping
+requirement, the gates used by the TCN-VE
+are separated by a barrier guiding the travellers to an officer to have their passports
+stamped. Registration of eligible TCNs is not
+required.
+
+A specific workflow has been created in the
+ABC system to support systematic database
+queries (as opposed to the randomised ones
+used for the EU/EEA/CH workflow) and the
+recording of entry and exit data in the national EES system. Otherwise the processes
+for TCN-VE and EU/EEA/CH processing are
+
+Finland has also launched a pilot to test the
+ABC for TCN-VH travellers at the Port of
+Helsinki. The purpose of this pilot is to study
+the aspects of the ‘Smart borders’ proposals
+mentioned above and contribute to the creation of the EES and the RTP through a real
+life experiment. This process comprises both
+
+21 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+fingerprint scanning and facial recognition as
+well as entry/exit recording.
+3.2.2. Germany
+EasyPASS in Germany has a built-in RTP functionality that can be used by TCNs of certain nationalities at entry and exit controls
+of participating airports. Based on agreements in place with the United States and
+Hong Kong concerning the mutual use of
+ABC systems, the holders of e-passports issued by the United States and Hong Kong
+aged 18 years and above are eligible to register for the programme.
+Participation in EasyPASS-RTP is free of
+charge. To register in EasyPASS-RTP, the
+traveller should visit an enrolment centre
+at a participating airport 10. The enrolment
+procedure comprises a questionnaire and
+a personal interview. The enrolee is asked
+to sign a form confirming his or her voluntary participation in EasyPASS-RTP and consenting to the storage of his or her personal
+data. Subsequently the Federal Police checks
+whether the RT meets the participation requirements, the validity and authenticity of
+the travel document and whether there are
+any security issues that preclude the enrolee’s participation in the RTP. The RT data is
+checked against available police information
+systems. Provided that there are no objections for security reasons, the personal data
+is stored in the EasyPASS-RTP database of
+the Federal Police. If the RT completes the
+procedure successfully, he or she is able to
+use EasyPASS-RTP immediately and for the
+remaining validity of his or her e-passport. A
+confirmation of the recorded data and of the
+purpose of its use (in accordance with German law) is issued.
+
+10 As of June 2015, enrolment centres are available
+at Frankfurt Airport and Munich Airport. Other
+enrolment centres will open shortly.
+
+22 of 32
+
+EasyPASS is a two-step solution whereby the
+RT is directed towards the ABC system at
+the airports participating in the programme.
+The RT has to place his or her passport on
+the document reader; after the passport has
+been recognised and the participation status has been checked in the EasyPASS-RTP
+database, the door to the lane will open and
+the live image of the face of the RT will be
+verified against the passport photo. If face
+recognition is successful, RTs have to wait
+until a border guard opens the exit door and
+then have to move forward to the monitoring booth, where the additional entry requirements are checked and the passport is
+stamped. After these actions have been performed the border check is completed.
+3.2.3. Netherlands
+The regular e-gates in the Netherlands are
+targeted at EU/EEA/CH travellers, but there
+are RTPs in place allowing TCN travellers to
+use biometric gate systems as well. These
+programmes require a pre-vetting and enrolment and the traveller is issued a separate
+token on which his/her iris image has been
+stored. The options for facilitating the border crossing of these RTP travellers through
+the e-gates in the future are currently being explored.
+As regards TCNs, the programme is now available only to US citizens based on a bilateral
+agreement enabling the use of similar facilitation schemes for Dutch travellers in the
+United States. The discussed new processing
+of these TCNs foresees that residence permit holders would be able to use the gates
+as EU/EEA/CH citizens as they are not subject to the stamping requirement, while those
+not having a permit would be guided to an
+officer for stamping.
+
+3.2.4. United Kingdom
+The UK Border Force recently began its own
+RTP. This has been introduced in two stages,
+the first as a pilot to allow testing of the processes for a small cadre of eligible enrolees
+and the second to increase the eligible pool,
+allow the use of e-passport gates (ABC) and
+charge a fee for the service.
+Currently, membership in the RTP is restricted
+to TCNs from Australia, Canada, Japan, New
+Zealand and the United States who travel
+regularly to the United Kingdom. To enrol,
+the TCN first registers his or her details and
+agrees to the terms and conditions of the
+scheme on the RTP website11. Background
+checks are carried out against government
+systems and if successful the TCN is sent a
+confirmation letter. On his or her next arrival to the United Kingdom the TCN gives
+this letter to the border guard who carries
+out their usual checks. The border guard confirms that the travel history and intentions
+of the TCN are acceptable for the scheme. If
+successful, the border guard confirms his or
+her acceptance into the scheme. From this
+point onwards the TCN is allowed to use either a dedicated RTP desk or the EU channel to enter the United Kingdom (depending
+on the configuration of the port concerned).
+
+e-gate at the point at which they enter the
+United Kingdom. As part of the terms and
+conditions, RTs acknowledge acceptance of
+this leave and they agree to abide by the rules
+in accordance with their enrolment.
+A subscription fee is charged for successful
+RTs. It is also foreseen that eligibility will be
+extended to other ‘low-risk’ traveller groups
+over time, including TCN-VH, and that the
+ability to undertake fingerprint capture to
+carry out identification/verification will be
+incorporated into the system. Business cases
+for ABC already take into account the usage
+by RTs as part of their cost–benefit analysis
+on a port-by-port basis.
+3.2.5. Local border traffic
+Member States having local border traffic
+agreements in accordance with Regulation
+(EC) No 1931/200612 could also benefit from
+the use of ABC or ABC-assisted processing of
+TCNs, but so far no Member State has implemented ABC systems for this purpose.
+Spain has been planning the introduction of
+an ABC system for Gibraltar which in principle would be similar to an implementation
+serving local border traffic.
+
+TCNs who hold an e-passport will be allowed
+to use the e-passport gates (ABC) where
+available. The majority of RTs will be expected
+to use ABC, which will work in broadly the
+same way as for EU passengers (facial recognition against the passport photo and live
+checks against government watch lists).
+Legislation stipulating that the RTs who use
+the e-passport gates will not have their passports stamped was passed in 2010. Instead
+they will be granted ‘authorised leave’ by the
+
+11
+
+See: http://www.gov.uk/registered-traveller
+
+12 Regulation (EC) No 1931/2006 of the European
+Parliament and of the Council of 20 December
+2006 laying down rules on local border traffic at
+the external land borders of the Member States
+and amending the provisions of the Schengen
+Convention (OJ L 405, 31.12.2006).
+
+23 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+4.	Perpectives on TCN ABC
+in the future
+4.1. Legal framework
+The European Commission has put forward
+legislative proposals on the establishment
+of an EES and an RTP together with amendments to the SBC within the context of the
+‘Smart borders’ package13. The aim is to facilitate border checks at the EU’s external
+borders and to enable the usage of the ABC
+infrastructure by a larger population.
+The purpose of the proposed EES is to establish an information system which would allow
+the recording of entry and exit information of
+TCNs. The EES would also comprise an automated stay duration calculator to inform the
+border guards of the time the TCN has spent
+in the territory of the Member States and
+alert them on overstayers. The RTP would
+allow certain groups of frequent travellers
+from third countries to pre-register in order
+to use ABC facilities when available at BCPs.
+Like the VIS, both systems would require the
+enrolment and verification of fingerprints.
+The main proposed amendments to the SBC
+that would impact the implementation of the
+ABC for TCNs are the following.
+1.	Establishment of an obligation to check
+whether a person has been granted access to the RTP and verification of the
+identity of an RT.
+
+13 It should be noted that, at the time of writing,
+the European Commission initiated a proof of
+concept exercise aimed at identifying options for
+implementing the ‘Smart borders’ package, which
+included a technical study led by the Commission
+and a pilot project led by eu-LISA.
+
+24 of 32
+
+	According to the RTP proposal, an RT
+would be issued with a token containing the RT’s unique identifier number in
+a machine-readable format. This unique
+identifier number (token) and the number of the travel document shall be used
+in order to verify that access to the RTP
+has been granted. Additionally, verification of the RT’s identity by verifying his
+or her fingerprints shall be performed.
+2.	Introduction of an exemption for RTs from
+certain parts of the thorough check.
+	An RT would be exempted from the thorough check of the travel document as well
+as from the verification of the points of
+departure and destination, the purpose of
+the stay, including supporting documents,
+and the possession of sufficient means of
+subsistence.
+3.	Replacement of the current stamping of
+travel documents by the electronic recording and verification of data in the EES.
+	The SBC amendments contain a general
+obligation for TCNs entering the Schengen area to be registered in the EES. In addition, during the border checks on entry
+and exit there will be the obligation to verify whether a TCN has already been registered in the EES and to check whether
+the person has not exceeded the maximum duration of authorised stay.
+4. Other relevant amendments include:
+nnthe introduction of a compulsory authenticity check of the chip in travel
+documents containing an electronic
+
+storage medium; according to the
+draft provisions if the passport or other
+travel document contains an electronic
+storage medium (chip), the authenticity of the data stored on the chip
+shall be ascertained using the complete valid certificate chain, unless this
+is impossible due to the non-availability
+of valid certificates or for other technical reasons;
+nnthe obligation to provide information
+to the traveller on the remaining period of authorised stay when requested;
+nnthe setting of three groups of indications/pictograms to be used at ABC
+gates: one for EU/EEA/CH citizens, one
+for third-country nationals and one for
+all passports.
+The proposed systems are based upon the
+usage of fingerprints as biometric identifiers in both the EES and RTP with the exception that visa holders’ fingerprints already
+entered in the VIS would not be entered in
+the EES.
+These amendments would enable the processing of TCNs through ABC; however, they
+also present some challenges and create
+new requirements. According to the proposals, an ABC system targeted at TCNs or
+the assisted processing of TCNs through
+ABC would be possible under the following
+circumstances.
+1.	Checks on RTs on entry may be carried out
+through ABC supervised by a border guard.
+This applies only to those TCNs who have
+been pre-vetted and have been granted
+the access to the RTP.
+2.	For TCNs whose fingerprints are stored
+in the VIS or on a travel document from
+which fingerprints may be technically and
+legally accessed by the border guard, thorough checks on entry may be carried out
+through ABC in combination with self-service kiosks to examine the aspects of thorough checks listed in Article 7(3) of the SBC.
+
+The process shall be monitored and followed by an individual decision by the border guard to authorise or refuse entry. In
+practice, this option means that the selfservice kiosks provide the means to answer
+questions concerning the entry requirements listed in Article 7(3) of the SBC and
+it is not a fully automated ABC system.
+3.	Thorough exit checks on RTs and TCNs
+whose fingerprints are stored in the VIS,
+or on a travel document from which fingerprints may be technically and legally
+accessed by the border guard, may be carried out with the use of ABC systems under the supervision of a border guard.
+
+4.2.	Future scenarios for TCN ABC
+In the above scenarios the content of the
+border checks on TCNs established by the
+SBC would consist of the following phases.
+When these border checks are implemented
+by ABC or ABC-assisted means, they should
+comprise the following stages.
+The document scan phase refers to the scanning of the travel document and the RT’s token or the visa, if applicable. All the document
+authentication procedures described in Section 4 of the BPTG SHALL apply, with the exception of Subsections 4.3 and 4.4 in case of
+a non-electronic passport.
+When the biometric capture is performed the
+recommended practices described in Sections
+5.1 and 5.2 of the BPTG and those in the GPVIS
+SHALL be taken into account. The amount of
+biometric data and the quality requirements
+thereof shall be defined in the legal and implementation instruments of the EES and RTP.
+Processing the scan results refers to a phase
+where the travel document, token and biometric capture results are being processed
+and data is being collected to perform the
+required database and system queries.
+
+25 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+Figure 7. Border check of an RT-TCN on
+entry and exit
+
+1. Document/s
+
+Processing the results will provide the system and the operator with the necessary information to decide how the traveller should
+be processed further, including the calculation of the allowed duration of stay.
+
+2. Visa/permit
+
+In this phase, the traveller will either be allowed to cross the border or rejected or referred to the second line.
+
+For RT-TCN
+
+3. Biometric
+
+4. Consult systems
+
+5. Allowed stay?
+
+6. Accept/reject
+
+7. Entry/exit
+
+Processing the collected data refers to a process where the data in the third phase is being processed by the system and required
+messages are being created in defined formats to query the necessary central and national databases.
+System consultation refers to performing
+queries in all required databases both at central and national levels. These queries include
+queries to any watch lists, the RTP central
+repository and the EES, which would also
+provide information about the allowed stay
+duration of the traveller.
+
+26 of 32
+
+In this phase, the system creates a message
+in accordance with the EES technical specifications to create the entry/exit record in
+the EES; this is done on the basis of the decision to accept entry and making use of the
+information collected in the first and second
+phases, complemented with other data provided by the system and received from the
+EES query. As noted above, these messages
+SHALL be created in compliance with the EES
+specifications. It should be noted that depending on the required information, it may
+only be possible for a TCN-VE RT to use the
+ABC from the second entry onwards.
+In order to ensure that all entries and exits are recorded and entered into the EES in
+accordance with the legal requirements, it
+is RECOMMENDED that the system is provided with an electronic transaction receipt
+either from the national system or from the
+central EES confirming that the transaction
+was successful. This receipt may also contain the end date of the maximum allowed
+stay duration of the traveller, which may be
+made visible to the traveller.
+When all the required transactions and processes are successfully performed, the system allows the traveller to cross the border.
+The proposed legal instruments foresee biometric verifications being performed at the
+central system level only.
+The details applicable to the consultation of
+the EES and the RTP will be defined in the le-
+
+Figure 8. Border check of a non-RT-TCN on entry and exit
+For non-RT-TCN on entry
+
+For non-RT-TCN on exit
+
+1. Document/s
+
+1. Document/s
+
+2. Visa/permit
+
+2. Visa/permit
+
+3. Biometric
+
+3. Biometric
+
+4. Consult systems
+
+4. Consult systems
+
+5. Allowed stay?
+
+5. Allowed stay?
+
+6. Purpose of stay?
+
+6. Accept/reject
+
+7. Financial means?
+
+7. Financial means?
+
+8. Accept/reject
+
+8. Entry/exit
+
+9. Entry/exit
+
+gal instruments, the technical specifications
+and the technical implementing measures of
+these systems.
+For an RT-TCN, all the stages can be fully
+automated at both entry and exit, since the
+checks on the purpose of stay and the means
+of subsistence have been waived.
+
+For a non-RT-TCN, the SBC amendments
+offer other possibilities regarding ABC or
+ABC-assisted implementation, where the
+still applicable checks of entry requirements
+could be performed by answering the questions on a touch screen by the border guard
+or where the decision to authorise entry or
+exit would be done manually or electronically
+
+27 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+by a supervising border guard. Additionally,
+the document scanning and biometric capture phases could be implemented with the
+use of a self-service kiosk.
+
+Figure 9. ABC implementation for TCNs for
+whom full automation is allowed
+1. Document scan
+
+4.3. TCN ABC topology
+considerations
+The SBC amendments foresee the possibility to deploy both a full ABC system and a
+self-service kiosk solution for TCNs. The ABC
+system may facilitate both the EU/EEA/CH
+citizens and TCNs. If this option is selected
+for cost-efficiency or other reasons, particular attention should be paid to the provision
+of customer guidance and to the instructions
+displayed by the system if different biometric markers and workflows are used for the
+two groups. Also, due to a growing cultural
+diversity of ABC users, the used instructions
+and/or animations should be globally understandable to the highest extent possible.
+The different options for the deployment of
+ABC systems as regards their architecture
+and topologies have been discussed in detail in Subsection 3.6 of the BPOG and Section 3 of the BPTG.
+
+2. Biometric
+
+3. Process results
+
+4. Process data
+
+5. Consult systems
+
+6. Process results
+
+7. Accept/reject
+
+8. Submit EES entry
+
+9. Receipt from EES
+
+10. Proceed
+
+28 of 32
+
+5.	The document authentication
+and biometric verification
+processes
+In an ABC for TCN(s) all the applicable requirements and recommendations listed in the BPOG
+and BPTG shall apply. When considering the fingerprint scanning process in general and for
+the VIS verification purposes, attention should be paid to the recommendations of the GPVIS.
+
+6. Quality assurance
+With respect to quality assurance, the recommendations listed in Section 6 of the BPTG shall
+apply. Regarding the fingerprint quality control and requirements, the recommendations of
+the GPVIS should be adhered to.
+
+29 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+7. Conclusions
+The present document has provided guidelines on the implementation of ABC systems
+to process TCNs at the EU’s external borders.
+The legal framework applicable to border
+checks on TCNs was first introduced, with
+particular regard to those legal requirements
+that pose a challenge to their automation. By
+reviewing pilot projects and implementations
+in four Member States, namely Finland, Germany, the Netherlands and the United Kingdom, the guidelines then presented current
+practices at the national level concerning
+the use of ABC for TCN processing. Finally,
+the document illustrated a number of possible scenarios concerning the development
+and implementation of ABC solutions for
+TCNs, in light of the European Commission
+proposals to establish an RTP and an EES. It
+is concluded that the proposals open up the
+possibility to use ABC as a fully automated
+system on both entry and exit, for RT-TCNs
+for whom checks on the purpose of stay and
+
+30 of 32
+
+the means of subsistence have been waived,
+or as an assisted implementation checking
+entry requirements through a self-service kiosk or by a supervising border guard, in the
+case of TCNs who are not RTs.
+Importantly, these guidelines draw heavily
+on the configuration of the EES and RTP as
+proposed by the European Commission.
+However, the content of the proposals may
+undergo significant modifications throughout the legislative procedure, including the
+possibility of the presentation of new legislative proposals by the Commission and/or
+the introduction of amendments during the
+negotiations between the European Parliament and the Council of the EU. The guidelines will be subject to updates to reflect
+such changes, as well as to reflect technical improvements and developments in national practices.
+
+Annex: References
+Bradner, Scott, ‘Key words for use in RFCs
+to indicate requirement levels’, BCP 14, RFC
+2119, March 1997.
+Council of the European Union, ‘EU Schengen Catalogue: External borders control,
+return and readmission — Recommendations and best practices’, Council document
+No 7864/09, 19.3.2009.
+European Commission, ‘Communication from
+the Commission to the European Parliament
+and the Council: Smart borders — options
+and the way ahead’, COM(2011) 680 final,
+25.10.2011.
+European Commission, ‘Communication of
+13 February 2008 from the Commission to
+the European Parliament, the Council, the
+European Economic and Social Committee
+and the Committee of the Regions: preparing the next steps in border management
+in the European Union’, COM(2008) 69 final, 13.2.2008.
+European Commission, ‘Proposal for a regulation of the European Parliament and
+of the Council amending Regulation (EC)
+No 562/2006 as regards the use of the entry/exit system (EES) and the registered traveller programme (RTP)’, COM(2103) 96 final
+2013/0060 (COD).
+European Commission, ‘Proposal for a regulation of the European Parliament and of
+the Council establishing an entry/exit system
+(EES) to register entry and exit data of thirdcountry nationals crossing the external borders of the Member States of the European
+Union’, COM(2013) 95 final 2013/0057 (COD).
+
+European Commission, ‘Proposal for a regulation of the European Parliament and of
+the Council establishing a registered traveller
+programme’, COM(2013) 97 final 2013/0059
+(COD).
+European Union, Consolidated versions of the
+Treaty on European Union and the Treaty on
+the Functioning of the European Union, OJ
+C 326, 26.10.2012, p. 47.
+European Union, Regulation (EC) No 1931/2006
+of the European Parliament and of the Council of 20 December 2006 laying down rules
+on local border traffic at the external land
+borders of the Member States and amending the provisions of the Schengen Convention, OJ L 405, 31.12. 2006, p. 1.
+European Union, Regulation (EC) No 562/2006
+of the European Parliament and of the Council
+of 15 March 2006 establishing a Community
+Code on the rules governing the movement
+of persons across borders (Schengen Borders
+Code), OJ L 105, 13.4.2006, p. 1 (consolidated
+version of October 2013).
+European Union, Regulation (EC) No 767/2008
+of the European Parliament and of the Council
+of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data
+between Member States on short-stay visas
+(VIS Regulation), OJ L 218, 13.8.2008, p. 60.
+Frontex, ‘Best Practice Operational Guidelines for Automated Border Control (ABC)
+Systems’, Version 2.0, August, 2012.
+Frontex, ‘Best Practice Technical Guidelines
+for Automated Border Control (ABC) Systems’, Version 2.0, August, 2012.
+
+31 of 32
+
+Frontex
+
+Guidelines for Processing of Third-Country Nationals
+through Automated Border Control
+
+Frontex, ‘Good Practices for the Practical Implementation of the Visa Information System
+at EU Borders’, Release 2.1, September, 2014.
+ICAO, ‘A Primer on ICAO Public Key Directory: White Paper’, Version V1.5, 20.5.2009.
+ICAO, ‘Doc 9303 — Machine Readable Travel
+Documents’, Part 1 Vol. 2 (2nd edition, 2006)
+and Part 3 Vol. 2 (3rd edition, 2008) [ICAO
+9303].
+ICAO, ‘Guidelines for electronic — Machine
+Readable Travel Documents & Passenger Facilitation’, Version 1.0, 17.4.2008.
+
+32 of 32
+
+ICAO, ‘Machine Readable Travel Documents
+Glossary’, (http://www.icao.int/Security/
+mrtd/Pages/MRTDGlossary.aspx) (accessed
+1.6.2015).
+OECD, ‘Cost-benefit analysis,’ OECD Glossary of Statistical Terms, 2015 (https://stats.
+oecd.org/glossary/detail.asp?ID=6377) (accessed 24.4.2015).
+Stevenson, Angus, ed. ‘Watch list’, Oxford Dictionary of English, Oxford University Press, Oxford, 2010.
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+Print version:
+TT-02-16-152-EN-C
+ISBN 978-92-95205-51-2
+DOI 10.2819/86138
+
+Plac Europejski 6
+00-844 Warsaw, Poland
+
+Online version:
+TT-02-16-152-EN-N
+ISBN 978-92-95205-50-5
+DOI 10.2819/39041
+
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+

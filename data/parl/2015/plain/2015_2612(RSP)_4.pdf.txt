@@ -1,0 +1,218 @@
+Procedure file
+Basic information
+2015/2612(RSP)
+
+RSP - Resolutions on topical subjects
+
+Procedure completed
+
+Resolution on "Towards a thriving data-driven economy?'
+
+Subject
+3.30.06 Information and communication technologies
+3.50.04 Innovation
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+NI KAPPEL Barbara
+
+24/02/2015
+
+Shadow rapporteur
+
+BONI Michał
+
+SORU Renato
+
+TOŠENOVSKÝ Evžen
+
+KALLAS Kaja
+
+ERNST Cornelia
+
+REIMON Michel
+
+BORRELLI David
+Committee for opinion
+IMCO
+
+Rapporteur for opinion
+
+Internal Market and Consumer Protection
+
+Appointed
+17/03/2015
+
+TARABELLA Marc
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Communications Networks, Content and Technology OETTINGER Günther
+
+Key events
+07/03/2016
+
+Debate in Parliament
+
+10/03/2016
+
+Results of vote in Parliament
+
+10/03/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+10/03/2016
+
+End of procedure in Parliament
+
+T8-0089/2016
+
+Technical information
+Procedure reference
+
+2015/2612(RSP)
+
+Procedure type
+
+RSP - Resolutions on topical subjects
+
+Summary
+
+Procedure subtype
+
+Debate or resolution on oral question/interpellation
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 128-p5
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/02969
+
+Documentation gateway
+For information
+
+COM(2014)0442
+
+02/07/2014
+
+EC
+
+Amendments tabled in committee
+
+PE557.190
+
+20/05/2015
+
+EP
+
+Amendments tabled in committee
+
+PE567.762
+
+22/09/2015
+
+EP
+
+Oral question/interpellation by Parliament
+
+B8-0116/2016
+
+18/02/2016
+
+EP
+
+Motion for a resolution
+
+B8-0308/2016
+
+02/03/2016
+
+EP
+
+Text adopted by Parliament, single reading
+
+T8-0089/2016
+
+10/03/2016
+
+EP
+
+Summary
+
+2015/2612(RSP) - 10/03/2016 Text adopted by Parliament, single reading
+The European Parliament adopted a resolution on Towards a thriving data-driven economy, tabled by the Committee on Industry, Research
+and Energy.
+The growth rate in the Big Data market until 2017 will be six times faster than in the overall ICT market and will reach an overall total of EUR
+50 billion, according to the International Data Corporations Worldwide Big Data Technology and Services Forecast for 2013-2017, which may
+result in 3.75 million new jobs by 2017. The volume of data is growing at an unprecedented pace, so that there will be 16 trillion gigabytes of
+data by 2020, which corresponds to an annual growth rate of 236% in data generation.
+To meet this challenge, Parliament made the following recommendations:
+The role of the data-driven economy within the Digital Union strategy: Members considered that the creation of a data-driven economy as
+being at the core of the Digital Single Market strategy, and appreciated its potential to help Europe regain competitiveness in advanced
+sectors, only if there is the right business environment and the means to activate the digital transformation put in place and that these
+technologies comply with the EU legal framework on data protection.
+Parliament considered it essential to develop a regulatory framework to tackle the economic, technological, social and cultural challenges of a
+data-driven economy, such as access to, and control and ownership of, data, in particular public data. It stressed that finding a synergy
+between Big Data, data protection, data security and open data is the basis for a new digital start in Europe. It urged, in this connection, the
+swift adoption of the data protection package.
+Investing in infrastructure and R&D: Parliament pointed out that a data-driven economy requires enormous investments in cloud development,
+super-computing and high-speed broadband, which are also prerequisites for a successful digital economy. It called for a better regulatory
+framework and environment that target both the private and public sectors.
+The Commission and the Member Stated are encouraged to stimulate investments in network infrastructure through a positive regulatory
+framework and to continue to support broadband infrastructure through existing programmes such as the Connecting Europe Facility, the
+European Fund for Strategic Investments (EFSI) and the Cohesion Fund, but only in areas with identified market failures.
+The resolution recognised the Commissions initiatives to create public-private partnerships (PPPs) are crucial for identifying barriers to the
+development of the necessary technologies. It called for closer partnerships to be established between businesses and universities and
+research centres in order to foster Big Data innovation.
+Members also called on the Commission to adopt policies that remove excessive barriers in innovative sectors , to incentivise investments in
+research and development and European standardisation and to address the current problem of infringements of standard-essential patents.
+Creating a data-driven economy for the EU market: Parliament stressed that the fragmented single market is undermining the development of
+a data-driven economy, Big Data, cloud computing, the IoT and other data-driven technologies. The resolution stressed that the major
+technological impediments to the development of a data-driven economy include the lack of interoperability and of a common interface
+framework to facilitate sensor and machine data communication and communication between the virtual and physical world, the insufficient
+availability of open data and the lack of market conditions enabling entrepreneurs to innovate and grow. The Commission is asked to spur
+shared research to address these issues.
+Members called for a future-proof regulatory environment that adapts to the changing nature of the sector, is technology-neutral, encourages
+the creation of start-ups and the entry into the market of new operators, creates a level playing field and fair competition while avoiding
+excessive regulatory burden, and ensures full compliance with data protection and privacy standards.
+Parliament stated that more effort is needed with regard to the anonymisation and pseudonymisation of data as a precondition for creative
+data innovation.
+Fostering start-ups and SMEs: recalling that only 1.7% of companies make full use of advanced digital technologies, Parliament called on the
+Commission and the Member States to:
+
+launch a digital entrepreneurship strategy;
+create European digital economy hubs that include the use of Big Data and other data technologies by entrepreneurs, SMEs and
+innovative companies:
+promote the establishment of innovation spaces and clusters in order to help develop skills;
+improve their coordinated efforts within schools and educational facilities to make ICT an attractive vocational field, in particular for
+women and girls.
+Members asked that initiatives be launched, and funding models recommended, which foster lifelong learning and tailored measures for all,
+including elderly people, and which facilitate access to education to enable professionals to widen their ICT and data processing skills.
+Involving society: Parliament called for the stimulation of initiatives to increase awareness of, and encourage public debate in Member States
+and at European and international level on, the benefits and value of digital technologies, particularly in relation to those groups that do not yet
+have access to digital technologies or are not very familiar with them. It recognises, in particular, the value of the Internet of Things (IoT), and
+called on the Commission and the Member States to speed up actions to develop e-governance.
+
+

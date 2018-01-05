@@ -1,0 +1,445 @@
+Procedure file
+Basic information
+2015/0068(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Taxation: mandatory automatic exchange of information
+Amending Directive 2011/16/EU 2009/0004(CNS)
+Subject
+2.70 Taxation
+2.80 Cooperation between administrations
+3.45.04 Company taxation
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+28/04/2015
+
+FERBER Markus
+Shadow rapporteur
+
+BAYET Hugues
+
+LOONES Sander
+
+JEŽEK Petr
+
+MATIAS Marisa
+
+SCOTT CATO Molly
+
+ZANNI Marco
+Committee for opinion
+
+Rapporteur for opinion
+
+CONT
+
+Budgetary Control
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+Appointed
+
+31/08/2015
+DZHAMBAZKI Angel
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+MOSCOVICI Pierre
+
+Key events
+18/03/2015
+
+Legislative proposal published
+
+15/04/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+13/10/2015
+
+Vote in committee, 1st reading/single
+
+COM(2015)0135
+
+Summary
+
+reading
+20/10/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+26/10/2015
+
+Debate in Parliament
+
+27/10/2015
+
+Results of vote in Parliament
+
+27/10/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/12/2015
+
+Act adopted by Council after consultation
+of Parliament
+
+08/12/2015
+
+End of procedure in Parliament
+
+18/12/2015
+
+Final act published in Official Journal
+
+A8-0306/2015
+
+Summary
+
+T8-0369/2015
+
+Summary
+
+Technical information
+Procedure reference
+
+2015/0068(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2011/16/EU 2009/0004(CNS)
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/03107
+
+Documentation gateway
+Legislative proposal
+
+COM(2015)0135
+
+18/03/2015
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2015)0060
+
+18/03/2015
+
+EC
+
+Economic and Social
+Committee: opinion, report
+
+CES1828/2015
+
+27/05/2015
+
+ESC
+
+PE560.592
+
+04/06/2015
+
+NP
+
+Committee draft report
+
+PE560.586
+
+14/07/2015
+
+EP
+
+Amendments tabled in
+committee
+
+PE565.165
+
+29/09/2015
+
+EP
+
+PE565.191
+
+14/10/2015
+
+EP
+
+Committee of the Regions:
+opinion
+
+CDR2697/2015
+
+14/10/2015
+
+CofR
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A8-0306/2015
+
+20/10/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament,
+1st reading/single reading
+
+T8-0369/2015
+
+27/10/2015
+
+EP
+
+Summary
+
+Commission response to text
+adopted in plenary
+
+SP(2015)750
+
+10/12/2015
+
+Reasoned opinion
+
+Committee opinion
+
+SE_PARLIAMENT
+
+JURI
+
+Summary
+
+Final act
+Directive 2015/2376
+OJ L 332 18.12.2015, p. 0001 Summary
+
+2015/0068(CNS) - 18/03/2015 Legislative proposal
+PURPOSE: to ensure the mandatory automatic exchange of information between tax administrations regarding advance cross-border rulings
+and advance pricing arrangements.
+PROPOSED ACT: Council Directive.
+ROLEOF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: the challenge posed by cross-border tax avoidance, aggressive tax planning and harmful tax competition has increased
+considerably and has become a major focus of concern within the Union and at global level. In particular, rulings concerning tax-driven
+structures lead to a low level of taxation of artificially high amounts of income in the country giving the advance ruling and may leave artificially
+low amounts of income to be taxed in any other countries involved. An increase in transparency is therefore urgently required. The tools and
+mechanisms established by Council Directive 2011/16/EU need to be enhanced in order to achieve this.
+In its resolution of 21 May 2013, the European Parliament emphasised that the EU should take a leading role in global discussions on the fight
+against tax fraud, tax avoidance and tax havens, in particular in relation to promoting the exchange of information.
+The European Council, in its conclusions of 18 December 2014, underlined the urgent need to advance efforts in the fight against tax
+avoidance and aggressive tax planning, both at the global and Union levels.
+The Commission work programme for 2015 lists among its priorities that of a fairer approach to taxation including by ensuring automatic
+exchange of information on tax ruling which is precisely the purpose of this proposal.
+CONTENT: the draft directive amends Directive 2011/16/EU on administrative cooperation, as amended by Directive 2014/107/EU, so as to
+ensure the mandatory automatic exchange of information regarding advance cross-border rulings and advance pricing arrangements, under
+certain conditions.
+A new Article is inserted into the existing Directive, setting out the scope and conditions for the mandatory automatic exchange of information
+on types of tax rulings and transfer pricing arrangements. The new Article provides that the competent authorities of a Member State shall, by
+automatic exchange, communicate information about defined tax rulings that they issue or amend to the competent authorities of all other
+Member States. This obligation is extended to rulings issued in the ten years before the date on which the proposed Directive takes effect that
+are still valid on the date of entry into force of the Directive.
+The proposed Directive also enables the possible creation by the Commission of a secure central directory concerning information
+communicated in the framework of this proposal. This central directory would both facilitate the exchange of information and support Member
+States in their job of studying and reacting to rulings exchanged between Member States.
+BUDGETARY IMPLICATIONS: the impact on expenditure (operational appropriations) is estimated at EUR 2,100 million for the period
+2016-2020. The costs of the additional IT tools and the possible central directory that the Commission may develop in the future to facilitate
+the communication of information between Member States as well as to provide for its storage would be funded out of the FISCALIS 2020
+programme which provides financial support for activities to improve administrative cooperation between tax authorities in the EU.
+
+2015/0068(CNS) - 20/10/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, in the framework of a special legislative procedure (Parliaments consultation), the
+report by Markus FERBER (EPP, DE) on the proposal for a Council directive amending Directive 2011/16/EU as regards mandatory automatic
+exchange of information in the field of taxation.
+The committee called on the European Parliament to approve the Commission proposal as amended.
+The report noted that following the LuxLeaks scandal and by means of this report, the European Parliament expresses its strong determination
+not to tolerate tax fraud and tax avoidance as well as to advocate for a fair distribution of the tax burden between citizens and companies.
+The main amendments made to the proposal concern the following issues:
+Limited scope of the exchange of information: Members rejected the limited the scope of mandatory exchange of information to cross-border
+tax rulings and transfer pricing arrangements. They considered that the Directive should apply to all tax rulings and not just cross border
+rulings and advance pricing arrangements, given that purely national transactions can also have cross-border effects. That is particularly true
+of cascade transactions, where the advance tax ruling or price arrangement concerns the first national transactions, without taking into
+consideration the next (cross-border) transactions.
+Quicker exchanges: Members proposed that information should be exchanged immediately, and at the latest one month after the advance
+rulings or advance pricing arrangements have been issued or amended.
+Secure central directory and transparency: on 31 December 2016 at the latest, the Commission shall develop a secure central directory where
+information to be communicated in the framework of this Directive must be recorded in order to satisfy the automatic exchange of information.
+
+Member States shall ensure that all information communicated during the transitional period where the secure central directory is not yet
+developed is uploaded into the secure central directory by 1 April 2017. The Commission and the Member States shall have access to the
+information recorded in this directory.
+In order to enhance transparency for citizens, the Commission should publish, before 1 October 2017, and on an annual basis thereafter, a
+summary of the main tax rulings agreed in the previous year, based on information contained in the secure central directory and in compliance
+with the confidentiality provisions.
+Penalties: the Commission shall examine all penalties to be established in the event of refusal or omission of information exchange.
+Further action of Member States: this Directive shall not preclude Member States from taking further action to develop domestic or
+agreement-based provisions for the prevention of tax avoidance.
+Reporting: every three years after entry into force, the Commission shall submit a report on the application of this Directive.
+
+2015/0068(CNS) - 27/10/2015 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 572 votes to 90, with 30 abstentions, in the framework of a special legislative procedure (Parliaments
+consultation), a legislative resolution on the proposal for a Council directive amending Directive 2011/16/EU as regards mandatory automatic
+exchange of information in the field of taxation.
+Following the LuxLeaks scandal, the European Parliament expressed its strong determination not to tolerate tax fraud and tax avoidance as
+well as to advocate for a fair distribution of the tax burden between citizens and companies.
+Parliament approved the Commission proposal subject to the following amendments:
+Limited scope of the exchange of information: Members rejected the proposal from the Commission to limit the scope of mandatory exchange
+of information to cross-border tax rulings and transfer pricing arrangements. Members considered that the Directive should apply to all tax
+rulings and not just cross border rulings and advance pricing arrangements, given that purely national transactions can also have cross-border
+effects. That is particularly true of cascade transactions, where the advance tax ruling or price arrangement concerns the first national
+transactions, without taking into consideration the next (cross-border) transactions.
+Moreover, the definitions of advance rulings and advance pricing arrangements should cover tax arrangements regardless of the formal or
+informal manner in which they were issued, and irrespective of their binding or non-binding nature.
+Quicker exchanges: Members proposed that information should be exchanged immediately, and at the latest one month after the advance
+rulings or advance pricing arrangements have been issued or amended.
+No retroactive effect: the Commission proposed that the mandatory exchange mechanism should apply to tax rulings issued in the ten years
+before it enters into force. Parliament called for mechanism to apply to all rulings that are still valid on the day the directive enters into force.
+Member States shall:
+notify the Commission and other Member States at an early stage about any relevant change in their tax ruling practice (application
+formalities, decision process, etc.).
+notify the Commission and other Member States about any relevant changes to their domestic laws on corporate taxation (introduction
+of a new allowance, relief, exception, incentive or similar measure etc.) that could have an impact on their effective tax rates or on any
+other Member State's tax revenue.
+Secure central directory and transparency: on 31 December 2016 at the latest, the Commission shall develop a secure central directory where
+information to be communicated in the framework of this Directive must be recorded in order to satisfy the automatic exchange of information.
+Member States shall ensure that all information communicated during the transitional period where the secure central directory is not yet
+developed is uploaded into the secure central directory by 1 April 2017 . The Commission and the Member States shall have access to the
+information recorded in this directory.
+In order to enhance transparency for citizens, the Commission should publish, before 1 October 2017, and on an annual basis thereafter, a
+summary of the main tax rulings agreed in the previous year, based on information contained in the secure central directory and in compliance
+with the confidentiality provisions.
+That report should include at least: (i) a description of the issues addressed in the tax ruling, (ii) a description of the criteria used to determine
+an advance pricing arrangement and, (ii) the identification of the Member State(s) most likely to be affected.
+The personal data should be processed for specific, explicit and legitimate purposes and only if adequate, relevant and not excessive in
+relation to the purposes.
+Parliament also suggested that by 26 June 2017, a Union-wide register for beneficial ownership should be operational, which will aid in
+tracking down possible tax avoidance and profit shifting.
+Penalties: the Commission shall examine all penalties to be established in the event of refusal or omission of information exchange.
+OECD developments: this Directive shall be compatible with OECD developments and shall take into consideration the OECD comprehensive
+set of rules contained in the Standard for Automatic Exchange of Financial Account.
+Further action of Member States: this Directive shall not preclude Member States from taking further action to develop domestic or
+agreement-based provisions for the prevention of tax avoidance.
+The resolution recalled that the fundamental principle of the Member States sovereignty in tax matters should be upheld where direct taxes are
+concerned and that the current proposal does not jeopardise the subsidiarity principle.
+Reporting: every three years after entry into force, the Commission shall submit a report on the application of this Directive.
+
+2015/0068(CNS) - 08/12/2015 Final act
+PURPOSE: to ensure the mandatory automatic exchange of information between tax administrations regarding advance cross-border rulings
+and advance pricing arrangements, in order to prevent corporate tax evasion.
+LEGISLATIVE ACT: Council Directive (EU) 2015/2376 amending Directive 2011/16/EU as regards mandatory automatic exchange of
+information in the field of taxation.
+CONTENT: this Directive amends Directive 2011/16/EU on administrative cooperation, so as to ensure the mandatory automatic exchange of
+information between Member States regarding advance cross-border rulings and advance pricing arrangements.
+The challenge posed by cross-border tax avoidance, aggressive tax planning and harmful tax competition has increased considerably and has
+become a major focus of concern within the Union and at global level. Rulings concerning tax-driven structures have, in certain cases, led to a
+low level of taxation of artificially high amounts of income in the country issuing, amending or renewing the advance ruling and left artificially
+low amounts of income to be taxed in any other countries involved.
+The Directive will improve transparency regarding advance cross-border rulings made by Member States concerning the manner in which
+taxation will be dealt with.
+Scope: the Amending directive provides that the competent authorities of a Member States communicate to the competent authorities of all
+Member States, by automatic exchange, a defined set of basic information on tax rulings issued or amended.
+A new Article is inserted into the existing Directive, setting out the scope and conditions for the mandatory automatic exchange of information,
+which is sufficiently broad to cover a wide range of situations, these being:
+unilateral advance pricing arrangements and/or decisions;
+bilateral or multilateral advance pricing arrangements and decisions;
+arrangements or decisions determining existence or absence of a permanent establishment, and of facts with a potential impact on the
+tax base of a permanent establishment;
+arrangements or decisions determining tax status of a hybrid entity in one Member State which relates to a resident of another
+jurisdiction;
+arrangements or decisions on assessment basis for depreciation of an asset in one Member State that is acquired from a group
+company in another jurisdiction.
+Under a set of very strict conditions, the Directive excludes from the mandatory automatic exchange bilateral or multilateral advance pricing
+arrangements with third countries following the framework of existing international treaties with those countries, where the provisions of those
+treaties do not permit disclosure of the information received under that treaty to a third party country.
+Conditions and arrangements for the exchange of information: the Directive establishes regular intervals for the communication of the
+information. It also provide for the mandatory automatic exchange of advance cross-border rulings and advance pricing arrangements that
+were issued, amended or renewed within a period beginning five years before 1 January 2017 and which are still valid on 1 January 2014.
+However, particular persons or groups of persons with a group wide annual net turnover of less than EUR 40 000 000 could be excluded,
+under certain conditions, from such mandatory automatic exchange.
+Standard form: in order that the mandatory automatic exchange of information should in each case include the communication of a defined set
+of basic information that would be accessible to all Member States, the Commission is empowered to adopt practical arrangements necessary
+to standardise the communication by establishing a standard form to be used for the exchange of information.
+In developing such a standard form for the mandatory automatic exchange of information, it should take account of work performed at the
+OECD's Forum on Harmful Tax Practices, where a standard form for information exchange is being developed, in the context of the Action
+Plan on Base Erosion and Profit Shifting.
+Statistics on automatic exchanges: before 1 January 2018, Member States must provide the Commission on an annual basis with statistics on
+the volume of automatic exchanges and, to the extent possible, with information on the administrative and other relevant costs and benefits
+relating to exchanges that have taken place and any potential changes, for both tax administrations and third parties.
+Secure central directory: in order to facilitate the exchange of information, specific provision is made for the establishment of a central
+directory, accessible to all Member States and the Commission, to which Member States would upload and store information, instead of
+exchanging that information by secured email.
+Confidentiality: information communicated to the Commission will l be kept confidential by the Commission and may not be used for any
+purposes other than those required to determine whether and to what extent Member States comply with this Directive. The provision of
+information should not lead to the disclosure of a commercial, industrial or professional secret or of a commercial process, or disclosure of
+information which would be contrary to public policy.
+ENTRY INTO FORCE: 18.12.2015.
+TRANSPOSITION: by 31.12.2016.
+APPLICATION: from 01.01.2017.
+
+

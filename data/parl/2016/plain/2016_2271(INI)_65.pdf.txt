@@ -1,0 +1,450 @@
+Procedure file
+Basic information
+2016/2271(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Digitising European industry
+
+Subject
+3.30.06 Information and communication technologies
+3.40 Industrial policy
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+24/05/2016
+
+BÜTIKOFER Reinhard
+Shadow rapporteur
+
+SALINI Massimiliano
+
+TOIA Patrizia
+
+TOŠENOVSKÝ Evžen
+
+VAN NIEUWENHUIZEN
+Cora
+
+LÓPEZ BERMEJO
+Paloma
+
+BORRELLI David
+KAPPEL Barbara
+Committee for opinion
+EMPL
+
+Rapporteur for opinion
+
+Employment and Social Affairs
+
+Appointed
+25/10/2016
+
+LAURISTIN Marju
+IMCO
+
+Internal Market and Consumer Protection
+
+24/05/2016
+COFFERATI Sergio
+Gaetano
+
+TRAN
+
+Transport and Tourism
+
+28/07/2016
+TELIČKA Pavel
+
+CULT
+
+Culture and Education
+
+14/07/2016
+DZHAMBAZKI Angel
+
+Key events
+19/04/2016
+
+Non-legislative basic document published
+
+24/11/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+25/04/2017
+
+Vote in committee, 1st reading/single
+reading
+
+COM(2016)0180
+
+Summary
+
+10/05/2017
+
+Committee report tabled for plenary,
+single reading
+
+31/05/2017
+
+Debate in Parliament
+
+01/06/2017
+
+Results of vote in Parliament
+
+01/06/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+01/06/2017
+
+End of procedure in Parliament
+
+A8-0183/2017
+
+Summary
+
+T8-0240/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/2271(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/07974
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2016)0180
+
+19/04/2016
+
+EC
+
+Summary
+
+Document attached to the procedure
+
+SWD(2016)0110
+
+19/04/2016
+
+EC
+
+Summary
+
+PE595.761
+
+20/12/2016
+
+EP
+
+PE593.851
+
+30/01/2017
+
+EP
+
+PE597.696
+
+02/02/2017
+
+EP
+
+Committee draft report
+Committee opinion
+
+CULT
+
+Amendments tabled in committee
+Committee opinion
+
+IMCO
+
+PE593.808
+
+07/02/2017
+
+EP
+
+Committee opinion
+
+EMPL
+
+PE595.485
+
+28/03/2017
+
+EP
+
+Committee opinion
+
+TRAN
+
+PE599.589
+
+20/04/2017
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0183/2017
+
+10/05/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0240/2017
+
+01/06/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)536
+
+06/10/2017
+
+2016/2271(INI) - 19/04/2016 Document attached to the procedure
+The Commission presents a staff working document on advancing the Internet of Things (IoT) in Europe.
+It notes that the Internet of Things represents the next major economic and societal innovation wave enabled by the Internet . With the IoT, any
+physical (e.g. a thermostat or a bike helmet) and virtual (i.e. a representation of real object in a computer system) object can be connected to
+other objects and to the Internet, creating a fabric between things as well as between humans and things. The IoT can combine the physical
+and the virtual worlds into a new smart environment, which can make lives easier, safer, and more efficient.
+The Digital Single Market strategy for Europe underlines the need to avoid fragmentation and to foster interoperability for the IoT to reach its
+potential.
+Expected benefits: less than 1% of objects are currently connected to the Internet. The number of IoT connections within the EU is estimated
+to increase from approximately 1.8 million in 2013 to almost 6 billion in 2020 , leading to the EU IoT market being higher than one trillion euros
+
+by 2020. This growth in connectivity is expected to bring vast economic benefits, whereby the IoT significantly reshapes industry structures,
+with borders between products and services, as well as borders between industrial sectors becoming less obvious than today.
+In the opinion of Commission services, Europe's future digital industrial strengths will depend on the capacity of its industry to seize the
+opportunities coming from the wider diffusion of digital innovation across sectors. Given Europe's current strengths in vertical markets, the
+development of the IoT offers a unique opportunity for Europe, since it has the potential to lead to the establishment and reinforcement of the
+new digital value chains in Europe attracting investments and innovators.
+This staff working document, which builds on a series of studies and consultations organised over the past 4 years, is part of the digital single
+market technologies and public services modernisation package. It discusses:
+the challenges for the implementation of the Internet of Things, including the need to avoid fragmentation of the market;
+the key features of the IoT in a single market, including IoT architecture and data handling;
+the obstacles to connectivity, particularly spectrum availability and network coverage;
+the importance of standardization and interoperability, and obstacles to achieving them;
+possible obstacles to data flow and access to data;
+the need for a thriving IoT ecosystem, with a dynamic interaction between the vertical and horizontal dimensions;
+spurring innovations in lead markets. The Annex describes the lead markets in greater detail.
+
+2016/2271(INI) - 19/04/2016 Non-legislative basic document
+PURPOSE: to assist European industry to reap the full benefits of a digital single market.
+BACKGROUND: the Commission considers it essential to achieve the Digital Single Market (DSM) in Europe to attract investment in digital
+innovations and for faster business growth in the digital economy. In 2015 the Commission initiated an ambitious strategy to achieve a DSM.
+The Digital Single Market strategy is part of a coherent framework of Commission initiatives aimed at strengthening the overall
+competitiveness of industry, especially small and medium-sized enterprises (SME). This includes the Investment Plan for Europe, the Energy
+Union, the Capital Markets Union, the Circular Economy package and the Single Market Strategy.
+High-tech sectors in Europe are fairly advanced in embracing digital innovations while a large part of SME, mid-caps and non-tech industries
+still lag behind. Large disparities in digitisation also exist between regions.
+Several national and regional initiatives were launched recently to tap into the opportunities offered by digital innovations in industry. However,
+addressing the challenges of digital transformation at national level alone bears the risk of leading to further fragmentation of the single market
+and to efforts below the critical mass needed to attract private investments.
+Recent studies estimate that digitisation of products and services will add more than EUR 110 billion of revenue for industry per year in Europe
+in the next 5 years.
+CONTENT: this communication aims to reinforce the EU's competitiveness in digital technologies and to ensure that every industry in Europe,
+in whichever sector, wherever situated, and no matter of what size can fully benefit from digital innovations.
+The focus is on actions with a clear European value added building on, complementing and ensuring the scaling up of national initiatives.
+The Commission states that the proposed actions are expected to mobilise close to EUR 50 billion of public and private investment in the next
+5 years, explore and adapt when needed the legislative framework and reinforce coordination of efforts on skills and quality jobs in the digital
+age.
+The Commissions approach is built around the following themes:
+1) A framework for co-ordination of initiatives for digitising industry: in the first half of 2016, the Commission, together with Member States and
+industry, will set up a governance framework to (i) facilitate the coordination of EU and national initiatives on digitisation, (ii) mobilise
+stakeholders, and resources across the value chain, on actions towards the achievement of a Digital Single Market, building upon existing
+multi- stakeholders dialogues, and (iii) exchange best practices.
+2) Co-investing in boosting Europe's digital innovation capacities: the Commission plans to focus EUR 500 million investment from Horizon
+2020 on digital innovation hubs on:
+networking and collaboration of digital competence centres and cluster partnerships;
+supporting cross-border collaboration of innovative experimentation activities;
+sharing of best practices and developing, by end of 2016, a catalogue of competences;
+wider use of public procurement of innovations to improve efficiency and quality of the public sector.
+in co-operation with Member States, the Commission will focus investments in the public-private partnerships (PPPs) by concentrating
+on key technologies and their integration including through large scale federating projects and large-scale pilot projects to strengthen
+Internet of Things, advanced manufacturing and technologies in smart cities and homes, connected cars or mobile health services.
+The Commission will monitor the commitment by the private sector to invest, on average, at least four times as much as the EU investments in
+the PPPs and the use of the opportunities offered by financial instruments under the European structural and investments funds (EFSI and
+ESIF).
+3) Providing the appropriate regulatory framework conditions: with the support of industry and Member States, the Commission will:
+propose in 2016 the initiative on free flow of data within the EU in order to remove or prevent unjustified localisation requirements in
+national legislation or regulation as well as to examine in greater detail the emerging issues of data ownership, access and re-use
+rules, including as regards data in an industrial context and especially data generated by sensors and other collecting devices;
+explore the legal frameworks for autonomous systems (like driverless cars or drones) and Internet of Things applications in particular
+safety and liability rules and the legal conditions to allow large scale testing in real life environments;
+
+4) Digital skills: the digital transformation is structurally changing the labour market and the nature of work. The Commission address these
+challenges with a comprehensive dialogue on the social aspects of digitization that engages all stakeholders involved in all aspects of work,
+education and training.
+Starting in 2013, the Commission initiated the Grand Coalition for digital jobs as a cross-European, multi-stakeholder initiative to increase the
+provision of digital skills. The initiative has been successful in attracting over 60 pledges from more than 100 stakeholders, largely from the ICT
+sector, to train hundreds of thousands of people in new digital skills.
+The forthcoming New Skills Agenda for Europe will provide a comprehensive framework for employability, including the need for digital and
+complementary skills.
+
+2016/2271(INI) - 10/05/2017 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy adopted an own-initiative report by Reinhard BÜTIKOFER (Greens/EFA, DE) on digitising
+European industry, following the Commissions communication on this subject.
+Developing an integrated Industrial Digitalisation Strategy for the EU: Members welcomed the Commissions communication on digitising
+European industry, and strongly believed that such a strategy is of critical importance in contributing to solving Europes most pressing
+economic and societal challenges. Such a strategy would, notably:
+strengthening economic dynamic, social and territorial cohesion;
+fostering quality job creation and reshoring opportunities, by contributing to providing consumers with more opportunities and
+information;
+strengthening European cohesion through a reliable and ambitious European investment policy;
+supporting Europe's goals in climate policy by reducing emissions and energy consumption;
+strengthening economic, policy and social innovation through the principles of openness and accessibility of public and private data.
+The report recommends putting in place a competitive business environment that facilitates private investment, a build-up of state-of-the-art
+European digital infrastructure, and an EU coordination structure for the digitisation of industry.
+Digitisation must be accelerated particularly in those Member States, regions and sectors that are lagging behind and among those people
+who are affected by the digital divide.
+Such a strategy would contribute to solving some of the most pressing challenges in the transport and tourism sectors. Members called on the
+Commission and Member States to provide uninterrupted and high-performance connectivity for main transport paths and hubs no later than
+2025 and to initiate full coverage all over the EU.
+Creating conditions for successful industrial digitisation (infrastructure, investment, innovation and skills: Members felt an integrated industrial
+digitisation must be based on strong enabling conditions ranging from a first-rate, future-proof digital infrastructure, research and development
+and an investment-supportive environment to an appropriate innovation-nudging legislative framework.
+The report stressed the need to:
+advance public and private investment in high-speed connectivity, for example through 5G, fibre optics, navigation and satellite
+communications infrastructure;
+harmonise spectrum allocation, aimed at increasing demand for connectivity and enhancing the predictability of the network
+investment environment;
+establish leadership in key technologies such as 5G, high-performance computing, artificial intelligence, cloud computing, big data
+analytics, the Internet of Things (IoT), and robotics.
+Particular attention should be given to the specific problems encountered by SMEs. Furthermore, the European Fund for Strategic Investment
+(EFSI) should be better used.
+Advancing the digitisation of businesses: in this regard, the report stressed the need to:
+safeguard sensitive European technologies and know-how: Members highlighted the potential risks in regard to strategic state and
+industrial policy-driven foreign direct investment (FDI), particularly by state-owned enterprises by means of mergers and acquisitions;
+equal market access for investment should be enforced by establishing global rules;
+adopt a common European cybersecurity approach, particularly the need to advance cybersecurity for the internet of things;
+strengthen the role that the governing bodies referred to in the Directive on network security have in establishing trust in future
+technologies;
+establish a framework that ensures the free flow of data whilst protecting the ownership of data ;
+set out clear rules regarding data management in the framework of contractual relations between businesses ;
+establish a strong standardisation strategy, including interoperability in the digital domain; Members wanted to see an EU-wide
+coordinated approach through the European standards organisations (CEN, CENELEC and ETSI) in relation to international fora and
+consortia.
+The social dimension (skills, education and social innovation): in view of the digital gap, Members considered that a digitization strategy for
+businesses should gave a strong social dimension, including the right to training and the implementation of a skills guarantee, and lifelong
+learning, as well as the integration of digital skills into national education curricula. Employers should make use of the European Social Fund
+for such training. All Member States should develop comprehensive national digital skills strategies with targets.
+Lastly, the report emphasised the importance of investing in the digitisation of vocational training and the skilled crafts sector. Digital skills also
+need to be combined with engineering skills and the promotion of education in science, technology, engineering and mathematics.
+
+2016/2271(INI) - 01/06/2017 Text adopted by Parliament, single reading
+
+The European Parliament adopted by 571 votes to 32, with 35 abstentions, a resolution on digitising European industry, following the
+Commissions communication on this subject.
+Developing an integrated Industrial Digitalisation Strategy for the EU: Members welcomed the Commissions communication on digitising
+European industry, and strongly believed that such a strategy is of critical importance in contributing to solving Europes most pressing
+economic and societal challenges. Such a strategy would, notably:
+strengthen economic dynamic, social and territorial cohesion;
+foster quality job creation and reshoring opportunities, by improving working standards and the attractiveness of industrial sector jobs;
+strengthen European cohesion through a reliable and ambitious European investment policy;
+support Europe's goals in climate policy by reducing emissions and energy consumption;
+strengthen economic, policy and social innovation through the principles of openness and accessibility of public and private data;
+attract investment and leading researchers and expertise at world level, thus contributing to economic growth and European
+competitiveness;
+support new business models and innovative start-ups;
+solve some of the most pressing challenges in the transport and tourism sectors.
+Parliament recommended:
+putting in place a competitive business environment that facilitates private investment, a build-up of state-of-the-art European digital
+infrastructure, and an EU coordination structure for the digitisation of industry;
+accelerating digitisation particularly in those Member States, regions and sectors that are lagging behind and among those people
+who are affected by the digital divide;
+ensuring uninterrupted and high-performance connectivity for main transport paths and hubs no later than 2025 and to initiate full
+coverage all over the EU.
+Creating conditions for successful industrial digitisation (infrastructure, investment, innovation and skills): Members felt an integrated industrial
+digitisation must be based on strong enabling conditions ranging from a first-rate, future-proof digital infrastructure, research and development
+and an investment-supportive environment to an appropriate innovation-nudging legislative framework.
+Parliament stressed the need to:
+advance public and private investment in high-speed connectivity, for example through 5G, fibre optics, navigation and satellite
+communications infrastructure;
+harmonise spectrum allocation, aimed at increasing demand for connectivity and enhancing the predictability of the network
+investment environment;
+establish leadership in key technologies such as 5G, high-performance computing, artificial intelligence, cloud computing, big data
+analytics, the Internet of Things (IoT), and robotics;
+ensure that new forms of work must not be used to circumvent existing labour and social legislation as regards the protection of
+workers and consumer rights.
+Particular attention should be given to the specific problems encountered by SMEs. Furthermore, the European Fund for Strategic Investment
+(EFSI) should be better used.
+Advancing the digitisation of businesses: Parliament called on the Commission to increase the proportion of Horizon 2020 research projects
+generating patents and intellectual property rights and to report thereon.
+It stressed the need to:
+safeguard sensitive European technologies and know-how: Members highlighted the potential risks in regard to strategic state and
+industrial policy-driven foreign direct investment (FDI), particularly by state-owned enterprises by means of mergers and acquisitions;
+clarify the safety and liability rules for autonomously acting systems, including the conditions for testing with regard to automation,
+robotics and the application of artificial intelligence in production;
+adopt a common European cybersecurity approach, particularly the need to advance cybersecurity for the internet of things;
+strengthen the role that the governing bodies referred to in the Directive on network security (NIS Directive) have in establishing trust
+in future technologies
+establish a framework that ensures the free flow of data whilst protecting the ownership of data;
+monitor the adoption and coherent implementation of the European Cloud Initiative in order to enable the fair, swift, trustworthy and
+seamless flow and use of data;
+set out clear rules regarding data management in the framework of contractual relations between businesses ;
+establish a strong standardisation strategy, including interoperability in the digital domain.
+The social dimension (skills, education and social innovation): Parliament is called upon to adequately assess the social effects of industrial
+digitisation and, as appropriate, to propose further measures to close the digital divide.
+A digitisation strategy for businesses should gave a strong social dimension, including the right to training and the implementation of a skills
+guarantee, and lifelong learning, as well as the integration of digital skills into national education curricula. Employers should make use of the
+European Social Fund for such training.
+All Member States should develop comprehensive national digital skills strategies with targets.
+Lastly, the resolution emphasised the importance of investing in the digitisation of vocational training and the skilled crafts sector. Digital skills
+also need to be combined with engineering skills and the promotion of education in science, technology, engineering and mathematics.
+
+

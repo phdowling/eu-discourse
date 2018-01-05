@@ -1,0 +1,360 @@
+Procedure file
+Basic information
+2016/2211(BUD)
+
+BUD - Budgetary procedure
+
+Procedure completed
+
+Mobilisation of the European Globalisation Adjustment Fund: redundancies
+in the ICT sector in Finland
+
+Subject
+3.40.06 Electronics, electrotechnical industries, ICT, robotics
+4.15.05 Industrial restructuring, job losses, redundancies, relocations,
+Globalisation Adjustment Fund (EGF)
+8.70.56 2016 budget
+Geographical area
+Finland
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Budgets
+
+BUDG
+
+Appointed
+13/07/2016
+
+SARVAMAA Petri
+Committee for opinion
+
+Rapporteur for opinion
+
+EMPL
+
+Employment and Social Affairs
+
+The committee decided not to
+give an opinion.
+
+REGI
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+
+Appointed
+
+Commissioner
+
+Budget
+
+GEORGIEVA Kristalina
+
+Key events
+29/07/2016
+
+Non-legislative basic document published
+
+12/09/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+28/09/2016
+
+Vote in committee, 1st reading/single
+reading
+
+28/09/2016
+
+Draft budget approved by Council
+
+29/09/2016
+
+Budgetary report tabled for plenary, 1st
+reading
+
+04/10/2016
+
+Results of vote in Parliament
+
+04/10/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+04/10/2016
+
+End of procedure in Parliament
+
+20/10/2016
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2016/2211(BUD)
+
+COM(2016)0490
+
+Summary
+
+A8-0273/2016
+
+Summary
+
+T8-0366/2016
+
+Summary
+
+Procedure type
+
+BUD - Budgetary procedure
+
+Procedure subtype
+
+Mobilisation of funds
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+BUDG/8/07168
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2016)0490
+
+29/07/2016
+
+EC
+
+Summary
+
+Committee draft report
+
+PE587.428
+
+30/08/2016
+
+EP
+
+Amendments tabled in committee
+
+PE589.289
+
+19/09/2016
+
+EP
+
+Budgetary report tabled for plenary, 1st reading
+
+A8-0273/2016
+
+29/09/2016
+
+EP
+
+Summary
+
+Budgetary text adopted by Parliament
+
+T8-0366/2016
+
+04/10/2016
+
+EP
+
+Summary
+
+Final act
+Decision 2016/1857
+OJ L 284 20.10.2016, p. 0023 Summary
+
+2016/2211(BUD) - 29/07/2016 Non-legislative basic document
+PURPOSE: to mobilise the European Globalisation Adjustment Fund (EGF) to assist Finland in respect of redundancies in the information and
+communications technology sector (in particular, the mobile phone sector).
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+CONTENT: Article 12 of Council Regulation (EU, Euratom) No 1311/2013 laying down the multiannual financial framework for the years
+2014-2020 provides that the EGF is not to exceed a maximum annual amount of EUR 150 million (2011 prices).
+The rules applicable to financial contributions from the European Globalisation Adjustment Fund (EGF) are laid down in Regulation (EU) No
+1309/2013 of the European Parliament and of the Council on the European Globalisation Adjustment Fund (2014-2020) and repealing
+Regulation (EC) No 1927/2006.
+Against this backdrop, the Commission examined the application to mobilise the EGF to assist Finland and expressed its position as follows:
+Finland: EGF/2016/001 FI/Microsoft: on 11 March 2016, Finland submitted an application EGF/2016/001 FI/Microsoft for a financial
+contribution from the EGF, following redundancies in Microsoft (Microsoft Mobile Oy) and 8 suppliers and downstream producers in Finland.
+Finland submitted its application within the 12 week deadline set out in the EGF Regulation. The deadline of 12 weeks of the receipt of the
+complete application within which the Commission should finalise its assessment of the application's compliance with the conditions for
+providing a financial contribution expires on 29 July 2016.
+In order to establish the link between the redundancies and major structural changes in world trade patterns due to globalisation, Finland
+argues that in recent years the distribution of ICT sector employment between the EU and other economies has developed to the detriment of
+the EU share. These effects were particularly felt in Finland, where the ICT sector plays a key role in the economy.
+In 2014, the number of people employed by technology businesses in Finland decreased by 2 %, i.e. by over 5 000 employees. During the
+same period, the share of China and the United States in the ICT sector personnel of the developed countries increased, while the share of
+Europe decreased.
+The mobile phone markets have developed under constant competition between different operating systems. During the first decade of the
+2000s Nokia dominated the markets. Since then the Android operating system rapidly achieved a strong market position, while Microsoft failed
+to achieve a significant market share. This has led to growing imports into the Union.
+Thus, the main reason behind the workforce reductions at Microsoft is the declining market share of its phones (Lumia) with the Microsoft
+Windows operating system. Android and iOS, the two US-designed operating systems used by various Asian based manufacturers, have risen
+to dominate the market in recent years.
+The current application is the continuation of a series of previous applications from Finland, all revolving around the decline of Nokia in its
+country of origin.
+To date, the NACE Divison 62 sector has been the subject of two previous EGF applications, both based on trade related globalisation (
+EGF/2013/001 FI/Nokia and EGF/2015/005 FI/Computer programming).
+Basis of the Finnish request: Finland submitted the application under the intervention criteria of Article 4(1) (a) of the EGF Regulation, which
+requires at least 500 workers being made redundant over a reference period of four months in an enterprise in a Member State, including
+workers made redundant by suppliers.
+
+The reference period of four months for the application runs from 11 September 2015 to 11 January 2016. There were 2 035 redundancies
+within this reference period.
+The redundancies during the reference period are as follows:
+1 889 workers made redundant by Microsoft,
+146 workers made redundant by eight suppliers and downstream producers.
+In addition to the 2 035 workers already referred to, the eligible beneficiaries include 126 workers made redundant before or after the reference
+period of four months. These workers were all made redundant after the general announcement of the projected redundancies on 8 July 2015.
+The total number of eligible beneficiaries is therefore 2 161.
+The Commission proposes to mobilise the EGF for the amount of EUR 5 364 000.
+FINANCIAL IMPLICATIONS: having examined the application in respect of the conditions set out in Article 13(1) of the EGF Regulation, and
+having taken into account the number of targeted beneficiaries, the proposed actions and the estimated costs, the Commission proposes to
+mobilise the EGF for the amount of EUR 5 364 000, representing 60 % of the total costs of the proposed actions, in order to provide a financial
+contribution for the application.
+The proposed decision to mobilise the EGF will be taken jointly by the European Parliament and the Council, as laid down in point 13 of the
+Inter-institutional Agreement of 2 December 2013 between the European Parliament, the Council and the Commission on budgetary discipline,
+on cooperation in budgetary matters and on sound financial management.
+At the same time as it presents this proposal for a decision to mobilise the EGF, the Commission will present to the European Parliament and
+to the Council a proposal for a transfer to the relevant budgetary line for the requested amount.
+At the same time as it adopts this proposal for a decision to mobilise the EGF, the Commission will adopt a decision on a financial contribution,
+by means of an implementing act, which will enter into force on the date at which the European Parliament and the Council adopt the
+proposed decision to mobilise the EGF.
+
+2016/2211(BUD) - 29/09/2016 Budgetary report tabled for plenary, 1st reading
+The Committee on Budgets adopted the report by Petri SARVAMAA (EPP, FI) on the proposal for a decision of the European Parliament and
+of the Council on the mobilisation of the European Union Solidarity Fund for an amount of EUR 5 364 000 in payment and commitment
+appropriations to assist Finland in respect of redundancies in the information and communications technology sector (in particular, the mobile
+phone sector).
+Members recalled that the Union set up legislative and budgetary instruments to provide additional support to workers who are suffering from
+the consequences of major structural changes in world trade patterns or of the global financial and economic crisis and to assist their
+reintegration into the labour market.
+Finnish application: Finland submitted application EGF/2016/001 FI/Microsoft for a financial contribution from the EGF under the intervention
+criteria set out in Article 4(1)(a) of the EGF Regulation, following 2161 redundancies in Microsoft Mobile Oy and 8 of its suppliers and
+downstream producers in Finland, operating in the NACE Revision 2 division 62 (Computer programming, consultancy and related activities).
+Members agreed with the Commission that the conditions set out in Article 4(1)(a) of the EGF Regulation are met and that, therefore, Finland
+is entitled to a financial contribution of EUR 5 364 000 under that Regulation, which represents 60 % of the total cost of EUR 8 940 000.
+Nature of the redundancies: Members noted that the main reason behind the redundancies at Microsoft is the declining market share of its
+phones using the Microsoft Windows operating system from over 50 % in 2009 to 0.6 % in the second quarter of 2016.
+They considered that the redundancies in Microsoft are linked with the trend that has affected the entire Finnish electronics industry since the
+decline of Nokia in its country of origin and for which four previous applications have been presented. Those events are directly linked to
+structural changes in world trade patterns due to globalisation.
+Members also noted that redundancies are concentrated in NUTS 2 regions Helsinki-Uusimaa (FI1B), Etelä-Suomi (FI1C) and Länsi-Suomi,
+(FI197) and concern workers with highly varying competencies, 89 % of them between 30 and 54 years of age. However, the situation is
+already difficult as regards the unemployment situation of highly skilled and educated people, especially women who face a greater challenge
+in finding employment.
+A package of personalised services: Member welcomed the fact that the Finnish authorities started providing the personalised services to the
+affected workers on 11 September 2015, well ahead of the application for the EGF support for the proposed coordinated package.
+Finland is planning six types of measures for the redundant workers covered by this application:
+coaching measures and other preparatory measures;
+employment and business services;
+vocational labour training;
+pay subsidiesd;
+start-up grants;
+allowances for travel, overnight and removal costs, sufficient funds have been allocated to control and reporting.
+Members noted that the Microsoft case will cooperate with Labour Mobility in Europe 20142020, which is a national EURES service
+development project. They noted that international recruitment events will be organised regionally in cooperation with EGF and EURES
+services. They welcomed such measures and the fact that the Finnish authorities are encouraging the redundant workers to fully benefit from
+their right to free movement.
+It also noted that a national package of measures entitled "Models between the recruiting company and the retrenching company" has been
+
+launched within the European Social Fund and welcomed the efforts of the Finnish authorities to search for synergies with other actions
+funded by national or Union funds.
+In parallel, Members noted that the Finnish authorities have confirmed that the proposed actions will not receive financial support from other
+Union funds or financial instruments, that any double financing will be prevented and that such actions are complementary to actions funded
+by the Structural Funds.
+Lastly, they recalled that the financial contribution from the EGF will not replace actions the enterprise concerned is required to take by virtue
+of national law or pursuant to collective agreements.
+
+2016/2211(BUD) - 04/10/2016 Budgetary text adopted by Parliament
+The European Parliament adopted by 594 votes to 68, with 12 abstentions, a resolution on the proposal for a decision of the European
+Parliament and of the Council on the mobilisation of the European Union Solidarity Fund for an amount of EUR 5 364 000 in payment and
+commitment appropriations to assist Finland in respect of redundancies in the information and communications technology sector (in
+particular, the mobile phone sector).
+Parliament recalled that the Union set up legislative and budgetary instruments to provide additional support to workers who are suffering from
+the consequences of major structural changes in world trade patterns or of the global financial and economic crisis and to assist their
+reintegration into the labour market.
+Finnish application: Finland submitted application EGF/2016/001 FI/Microsoft for a financial contribution from the EGF under the intervention
+criteria set out in Article 4(1)(a) of the EGF Regulation, following 2161 redundancies in Microsoft Mobile Oy and 8 of its suppliers and
+downstream producers in Finland, operating in the NACE Revision 2 division 62 (Computer programming, consultancy and related activities).
+Parliament agreed with the Commission that the conditions set out in Article 4(1)(a) of the EGF Regulation are met and that, therefore, Finland
+is entitled to a financial contribution of EUR 5 364 000 under that Regulation, which represents 60 % of the total cost of EUR 8 940 000.
+Nature of the redundancies: Parliament noted that the main reason behind the redundancies at Microsoft is the declining market share of its
+phones using the Microsoft Windows operating system from over 50 % in 2009 to 0.6 % in the second quarter of 2016.
+It considered that the redundancies in Microsoft are linked with the trend that has affected the entire Finnish electronics industry since the
+decline of Nokia in its country of origin and for which four previous applications have been presented. Those events are directly linked to
+structural changes in world trade patterns due to globalisation.
+Members also noted that redundancies are concentrated in NUTS 2 regions Helsinki-Uusimaa (FI1B), Etelä-Suomi (FI1C) and Länsi-Suomi,
+(FI197) and concern workers with highly varying competencies, 89 % of them between 30 and 54 years of age. However, the situation is
+already difficult as regards the unemployment situation of highly skilled and educated people, especially women who face a greater challenge
+in finding employment.
+A package of personalised services: Parliament welcomed the fact that the Finnish authorities started providing the personalised services to
+the affected workers on 11 September 2015, well ahead of the application for the EGF support for the proposed coordinated package.
+Finland is planning six types of measures for the redundant workers covered by this application:
+coaching measures and other preparatory measures;
+employment and business services;
+vocational labour training;
+pay subsidiesd;
+start-up grants;
+allowances for travel, overnight and removal costs, sufficient funds have been allocated to control and reporting.
+Pay subsidies: Parliament noted that the pay subsidies will be between 30 and 50 % of the workers payroll costs and will be given for a period
+of 6 to 24 months. It called on Member States to pay strict attention when using pay subsidies to ensure that redundant workers hired with a
+subsidy are not replacing, in whole or in part, a position held previously by another employee at the company concerned. It called on the
+Commission to evaluate and provide information about the impact of the income support measures over a period of several years, to ensure
+that they are supporting high-quality employment and not being used to subsidise short-term, low-cost contracts.
+Synergies with other actions: Parliament noted that the Microsoft case will cooperate with Labour Mobility in Europe 20142020, which is a
+national EURES service development project. It welcomed such measures and the fact that the Finnish authorities are encouraging the
+redundant workers to fully benefit from their right to free movement.
+It also noted that a national package of measures entitled "Models between the recruiting company and the retrenching company" has been
+launched within the European Social Fund and welcomed the efforts of the Finnish authorities to search for synergies with other actions
+funded by national or Union funds.
+In parallel, Parliament noted that the Finnish authorities have confirmed that the proposed actions will not receive financial support from other
+Union funds or financial instruments, that any double financing will be prevented and that such actions are complementary to actions funded
+by the Structural Funds.
+Lastly, Parliament recalled that the financial contribution from the EGF will not replace actions the enterprise concerned is required to take by
+virtue of national law or pursuant to collective agreements.
+
+2016/2211(BUD) - 11/10/2016 Final act
+PURPOSE: to mobilise the European Globalisation Adjustment Fund (EGF) for EUR 5 364 000 to assist Finland in respect of redundancies in
+the information and communications technology sector (in particular, the mobile phone sector).
+
+NON-LEGISLATIVE ACT: Decision (EU) 2016/1857 of the European Parliament and of the Council on the mobilisation of the European
+Globalisation Adjustment Fund (following an application from Finland EGF/2016/001 FI/Microsoft).
+CONTENT: under this Decision, the European Parliament and the Council decided to mobilise EUR 5 364 000 in commitment and payment
+appropriations under the European Globalisation Adjustment Fund in the framework of the 2016 budget.
+This amount shall assist Finland financially in respect of redundancies in Microsoft (Microsoft Mobile Oy) and 8 suppliers and downstream
+producers.
+Given that the application complies with the requirements for determining a financial contribution from the EGF as laid down in Regulation (EU)
+No 1309/2013, the European Parliament and the Council have responded by granting the above-mentioned amount.
+In brief, the European Globalisation Adjustment Fund (EGF) aims to provide support for workers made redundant and self-employed persons
+whose activity has ceased as a result of major structural changes in world trade patterns due to globalisation, as a result of a continuation of
+the global financial and economic crisis, or as a result of a new global financial and economic crisis, and to assist them with their reintegration
+into the labour market.
+Council Regulation (EU, Euratom) No 1311/2013 laying down the multiannual financial framework for the years 2014-2020 provides that the
+EGF is not to exceed a maximum annual amount of EUR 150 million.
+ENTRY INTO FORCE: the Decision shall enter into force on 20.10.2016 and shall apply from 11.10.2016.
+
+

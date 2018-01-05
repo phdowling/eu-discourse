@@ -1,0 +1,528 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0287(COD)
+
+Procedure completed
+17/05/2018 Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+Promotion of internet connectivity in local communities
+Amending Regulation (EU) No 283/2014 2011/0299(COD)
+Amending Regulation (EU) No 1316/2013 2011/0302(COD)
+Subject
+3.30.20 Trans-European communications networks
+3.30.25 International information networks and society, internet
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+16/11/2016
+
+ZORRINHO Carlos
+Shadow rapporteur
+
+SANDER Anne
+
+VAN BOSSUYT
+Anneleen
+
+TELIČKA Pavel
+
+SYLIKIOTIS Neoklis
+
+REIMON Michel
+
+BORRELLI David
+KAPPEL Barbara
+Committee for opinion
+BUDG
+
+Rapporteur for opinion
+
+Budgets
+
+Appointed
+10/10/2016
+
+NÍ RIADA Liadh
+ENVI
+
+Environment, Public Health and Food Safety
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+TRAN
+
+Transport and Tourism
+
+08/11/2016
+APARDEL Claudia
+
+REGI
+
+Regional Development
+
+11/10/2016
+D'AMATO Rosa
+
+CULT
+
+Culture and Education
+
+Council of the European Union
+Commission DG
+European Commission
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+
+Communications Networks, Content and Technology OETTINGER Günther
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+14/09/2016
+
+Legislative proposal published
+
+COM(2016)0589
+
+Summary
+
+06/10/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+01/12/2016
+
+Debate in Council
+
+25/04/2017
+
+Vote in committee, 1st reading/single
+reading
+
+25/04/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+04/05/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0181/2017
+
+Summary
+
+21/06/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE606.136 GEDA/A/(2017)005766
+
+12/09/2017
+
+Results of vote in Parliament
+
+12/09/2017
+
+Debate in Parliament
+
+12/09/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+09/10/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+25/10/2017
+
+Final act signed
+
+25/10/2017
+
+End of procedure in Parliament
+
+01/11/2017
+
+Final act published in Official Journal
+
+T8-0326/2017
+
+Technical information
+Procedure reference
+
+2016/0287(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 283/2014 2011/0299(COD)
+Amending Regulation (EU) No 1316/2013 2011/0302(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 172
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/07864
+
+Documentation gateway
+
+Summary
+
+Legislative proposal
+
+COM(2016)0589
+
+14/09/2016
+
+EC
+
+Document attached to the
+procedure
+
+COM(2016)0603
+
+14/09/2016
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2016)0299
+
+14/09/2016
+
+EC
+
+PE595.574
+
+16/12/2016
+
+NP
+
+CES5185/2016
+
+25/01/2017
+
+ESC
+
+PE592.352
+
+31/01/2017
+
+EP
+
+CDR5113/2016
+
+08/02/2017
+
+CofR
+
+PE592.353
+
+06/03/2017
+
+EP
+
+Reasoned opinion
+
+SE_PARLIAMENT
+
+Economic and Social
+Committee: opinion, report
+Committee draft report
+Committee of the Regions:
+opinion
+Amendments tabled in
+committee
+Committee opinion
+
+REGI
+
+PE597.451
+
+29/03/2017
+
+EP
+
+Committee opinion
+
+BUDG
+
+PE597.622
+
+04/04/2017
+
+EP
+
+Committee opinion
+
+TRAN
+
+PE595.741
+
+12/04/2017
+
+EP
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A8-0181/2017
+
+04/05/2017
+
+EP
+
+Coreper letter confirming
+interinstitutional agreement
+
+GEDA/A/(2017)005766
+
+07/06/2017
+
+CSL
+
+Commission response to text
+adopted in plenary
+
+SP(2017)633
+
+11/09/2017
+
+Text adopted by Parliament,
+1st reading/single reading
+
+T8-0326/2017
+
+12/09/2017
+
+EP
+
+Summary
+
+Summary
+
+Summary
+
+Additional information
+Research document
+
+Briefing
+
+Final act
+Regulation 2017/1953
+OJ L 286 01.11.2017, p. 0001 Summary
+
+2016/0287(COD) - 14/09/2016 Legislative proposal
+PURPOSE: to promote internet connectivity in local communities.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with Council.
+BACKGROUND: the new telecommunications package adopted today by the Commission includes a Communication setting out a European
+vision of Internet connectivity for citizens and business in the Digital Single Market, as well as a legislative proposal for a European Electronic
+Communications Code. The Commission proposal set out the reforms needed to ensure availability and take-up of very high capacity networks
+and ensure that no one and no region is left behind.
+One of the Commission's strategic aims for the Union to be achieved by 2025 is for sites at which public services are provided, such as public
+administrations, libraries and hospitals to be equipped with gigabit internet connections.
+The proposal complements this effort through amendments to the legal framework for telecommunications in the Connecting Europe Facility
+(CEF), contained in Regulation (EU) No 1316/20133 and Regulation (EU) No 283/2014 on guidelines for trans-European networks in the area
+
+of telecommunications infrastructure. These amendments encourage entities with a public mission such as public authorities and providers of
+public services to offer free local wireless connectivity in the centres of local public life (e.g. public administrations, libraries, health centres and
+outdoor public spaces).
+IMPACT ASSESSMENT: the impact assessment carried out for the review of the regulatory framework builds on those considerations
+expressed by stakeholders and proposes to introduce provisions on the deployment of small cells. These provisions aim to reduce the costs of
+deploying very dense networks and to enhance access to local wireless connectivity in order to meet the exponential demand for ubiquitous
+connectivity.
+CONTENT: the proposal aims to amend Regulations (EU) No 1316/2013 and (EU) No 283/2014 in order to promote internet connectivity in
+local communities.
+Financial assistance: the proposal provides that entities with a public mission such as public authorities and providers of public services,
+wishing to offer free local wireless connectivity through local access points, will benefit from financial assistance.
+Funding to local public authorities for access points in the centres of local public life, including outdoor spaces accessible to the general public,
+will be prioritised in the first phase of the intervention.
+Targeted intervention: in order to ensure the targeted nature of the intervention and to realise maximum public benefit, funding will be limited to
+situations where no freely accessible public or private access points delivering very high-speed broadband exist.
+Furthermore, funding will be awarded in a geographically balanced manner that contributes to the economic, social and territorial cohesion in
+the Union by taking particular account of the needs of local communities.
+Rate of intervention: to ensure that local communities with limited resources can also experience these benefits of participation in the Digital
+Single Market, support under this measure should be available for up to 100 % of the eligible costs, without prejudice to the principle of
+co-financing.
+Projects of common interest: given its flexible and focussed nature relative to the support for broadband networks under the
+telecommunications sectoral envelope for the implementation of the CEF, the intervention should be recognised as a separate project of
+common interest with associated actions under the CEF Regulation and a dedicated budget, the details of which should be provided for under
+the Guidelines Regulation.
+BUDGETARY IMPLICATIONS: a total budget of EUR 120 million is envisaged for the period until 2019.
+Appropriations required by the proposal are to be fully financed within the Multiannual
+Financial Framework 2014-2020.
+EUR 70 million are to be reallocated within the programmed amounts for the CEF telecommunications sector 2017-2019 and
+EUR 50 million will be transferred to the financial envelope for the telecommunications sector through an amendment of Article 5(1) of
+the CEF Regulation.
+For reasons of consistency, this increase is also reflected in the proposal for an amendment of the legal framework for the European Fund for
+Strategic Investments.
+
+2016/0287(COD) - 04/05/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Carlos ZORRINHO (S&D, PT) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulations (EU) No 1316/2013 and (EU) No 283/2014 as regards the promotion of
+Internet connectivity in local communities.
+The committee recommended that the European Parliaments position adopted at first reading, following the ordinary legislative procedure,
+should amend the Commission proposal as follows:
+Universal and free access: actions contributing to projects of common interest shall promote the provision of high quality local wireless
+connectivity that is free of charge and free from restrictions in local communities.
+For the purposes of accessibility, those actions shall, to the extent possible, avoid potential language barriers.
+Access points: in order to promote internet connectivity in local communities, the proposal encouraged the deployment of wireless local access
+points as part of simplified planning procedures with reduced regulatory barriers.
+Members stressed that these access points should be able to form part of a network with a single authentication system that is valid across the
+whole Union, and other free local wireless connectivity networks should be able to join the system.
+Simplified procedures: given the limited volume of financial appropriations measured against the possibly high number of applications,
+Members called for steps to be taken to ensure that administrative procedures are simplified so that decisions can be taken in a timely
+manner.
+In this regard, they called for Regulation (EU) No 1316/2013 to be amended to ensure that certification of expenditure and annual reporting to
+the Commission are not obligatory for grants awarded under this Regulation.
+Eligibility of actions: eligible institutions may use financial assistance to establish free local wireless connectivity in locations that are most
+suitable and accessible for community usage.
+To be eligible, projects shall:
+be implemented by a public sector body capable of ensuring the financing of operating costs for minimum of three years;
+build on very high-speed broadband connectivity enabling delivery of high quality Internet experience to users is that free, easy to
+access, and uses state-of-the-art equipment, taking advantage of optimal technological solutions;
+
+respect the principle of technological neutrality, use public funding efficiently and are able to adapt projects to the best technological
+offers.
+Financing: Member States may allocate their own resources or resources from the European Structural and Investment Funds to develop
+complementary services and offers that boost the sustainability of projects. Projects financed under this section shall be in operation and
+closely monitored by the Commission for at least three years.
+The intervention shall be implemented by the most appropriate forms of financial assistance, notably grants, for instance through vouchers,
+available under the Financial Regulation. The principle of sound financial management should apply.
+The available budget shall be allocated in a geographically balanced manner so that projects can be covered in all the Member States. The
+allocation shall also take into account the need to address the digital divide.
+Priority shall be given to local SMEs in the context of the procurement and installation of equipment.
+
+2016/0287(COD) - 12/09/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 582 votes to 98, with 9 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulations (EU) No 1316/2013 and (EU) No 283/2014 as regards the promotion of
+Internet connectivity in local communities.
+The European Parliaments position adopted at first reading following the ordinary legislative procedure amended the Commission proposal as
+follows:
+Aim: the aim of the Regulation is to support the provision of high-quality wireless connectivity in local communities across the Union in order to
+reduce the digital divide in rural and isolated areas.
+The amended text stressed the importance of broadband deployment in the EU. It reaffirmed the goal of ensuring that, by 2020, all Europeans
+have access to internet speeds of above 30 Mbps and 50 % or more of European households subscribe to internet connections above 100
+Mbps.
+Eligibility and conditions: in order to be eligible for funding, actions shall:
+be implemented by a public sector body which is capable of planning and supervising the installation, as well as ensuring for a
+minimum of three years the financing of operating costs, of indoor or outdoor local wireless access points in public spaces;
+use the latest and best-performing equipment capable of providing their users with a broadband connection that is easy to access and
+properly secured, free of charge and without discriminatory conditions;
+provide access to services at least in the relevant languages of the Member State concerned and, to the extent possible, in other
+official languages of the institutions of the Union;
+respect the principles of technological neutrality;
+commit to providing equipment or services to ensure that projects do not unduly distort competition.
+In addition, internet connectivity shall:
+be provided without corresponding remuneration, whether by direct payment or by other types of consideration, such as commercial
+advertising or the provision of personal data for commercial purpose;
+ensure a smooth functioning of the network and, in particular, the need to ensure a fair allocation of capacity between users at peak
+times.
+Actions duplicating existing free private or public offers with similar characteristics in the same public space shall not be eligible to receive
+funding.
+Budget: the available budget shall be allocated in a geographically balanced manner across Member States and, in principle, on a 'first come,
+first served' basis. Administrative procedures shall be simplified so that decisions can be taken in a timely manner.
+To provide appropriate financing for the promotion of internet connectivity in local communities and to ensure its successful implementation,
+the financial envelope for the implementation of the Connecting Europe Facility in the telecommunications sector should be increased by EUR
+25 million, and may be increased to EUR 50 million.
+Actions financed shall be in operation and closely monitored by the Commission for at least three years. The Commission shall inform
+end-users about the availability of services and draw attention to the fact that funding has been provided by the Union.
+
+2016/0287(COD) - 25/10/2017 Final act
+PURPOSE: to support the provision of high quality wireless connectivity in local communities throughout the Union.
+LEGISLATIVE ACT: Regulation (EU) 2017/1953 of the European Parliament and of the Council amending Regulations (EU) No 1316/2013
+and (EU) No 283/2014 as regards the promotion of internet connectivity in local communities.
+CONTENT: this Regulation amends Regulation (EU) No 1316/2013 on the Connecting Europe Facility (CEF) and Regulation (EU) No
+283/2014 on guidelines for trans-European networks in the area of telecommunications infrastructure.
+The amendments shall enable the Union to provide assistance to support access to high-quality free local wireless connectivity without
+discriminatory conditions in centres of public life (e.g. public administrations, libraries, hospitals, etc.) and outdoor public spaces).
+The promotion of local wireless connectivity that is free of charge and without discriminatory conditions in centres of public life should be
+identified as a distinct project of common interest in the telecommunications sector within the meaning of Regulations (EU) No 1316/2013 and
+
+(EU) No 283/2014.
+The Regulation aims to contribute to bridging the digital divide, particularly in rural and remote areas. It underlines the importance of
+broadband deployment in the Union and reaffirms the goal of ensuring that, by 2020, all Europeans have access to internet speeds of above
+30 Mbps and 50 % or more of European households subscribe to internet connections above 100 Mbps.
+Eligibility and conditions: under the Regulation, municipalities, hospitals and other public sector bodies may apply for funding for the installation
+of new wireless access points if there are no private or similar public internet access available.
+The public body will have to commit to maintaining the new connection for at least three years.
+Actions financed shall:
+use the latest and best performing equipment capable of providing a high-speed connection that is easily accessible and properly
+secured, free of charge and without discriminatory conditions;
+provide access to services at least in the relevant languages of the Member State concerned and, to the extent possible, in other
+official languages of the institutions of the Union.
+respect the principles of technological neutrality;
+commit to providing equipment or services to ensure that projects do not unduly distort competition.
+In addition, internet connectivity shall:
+be provided without corresponding remuneration, whether by direct payment or by other types of consideration, such as commercial
+advertising or the provision of personal data for commercial purposes;
+ensure the smooth functioning of the network and, in particular, fair allocation of capacity between users at peak times.
+Financing: the available budget should be allocated in a geographically balanced manner across Member States to projects and, in principle,
+on a first come, first served basis. EU funding will cover up to 100% of eligible costs.
+To provide appropriate financing for the promotion of internet connectivity in local communities and to ensure its successful implementation,
+the financial envelope for the implementation of the Connecting Europe Facility in the telecommunications sector should be increased by
+EUR 25 million, and may be increased to EUR 50 million.
+Actions financed shall be carried out and monitored closely by the Commission for at least three years.
+ENTRY INTO FORCE: 4.11.2017.
+
+

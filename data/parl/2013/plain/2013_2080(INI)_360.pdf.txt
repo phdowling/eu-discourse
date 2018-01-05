@@ -1,0 +1,283 @@
+Procedure file
+Basic information
+2013/2080(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Regulatory framework for electronic communications. Implementation report
+
+Subject
+2.40 Free movement of services, freedom to provide
+3.30.05 Electronic and mobile communications, personal communications
+4.60.06 Consumers' economic and legal interests
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+
+S&D TRAUTMANN Catherine 24/04/2013
+Shadow rapporteur
+PPE HÖKMARK Gunnar
+ALDE VĂLEAN Adina-Ioana
+Verts/ALE ANDERSDOTTER
+Amelia
+ECR CHICHESTER Giles
+
+Committee for opinion
+IMCO
+
+European Commission
+
+Internal Market and Consumer Protection
+
+Commission DG
+
+Rapporteur for opinion
+
+Appointed
+
+ECR HARBOUR Malcolm
+
+29/05/2013
+
+Commissioner
+
+Communications Networks, Content and Technology KROES Neelie
+
+Key events
+10/06/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/09/2013
+
+Vote in committee, 1st reading/single
+reading
+
+01/10/2013
+
+Committee report tabled for plenary,
+single reading
+
+24/10/2013
+
+Results of vote in Parliament
+
+24/10/2013
+
+Debate in Parliament
+
+24/10/2013
+
+Decision by Parliament, 1st
+reading/single reading
+
+24/10/2013
+
+End of procedure in Parliament
+
+A7-0313/2013
+
+Summary
+
+T7-0454/2013
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/2080(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Implementation
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/12552
+
+Documentation gateway
+Committee draft report
+
+PE514.610
+
+19/06/2013
+
+EP
+
+Amendments tabled in committee
+
+PE514.877
+
+04/09/2013
+
+EP
+
+PE510.798
+
+09/09/2013
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A7-0313/2013
+
+01/10/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T7-0454/2013
+
+24/10/2013
+
+EP
+
+Summary
+
+SP(2014)62
+
+07/03/2014
+
+Committee opinion
+
+Commission response to text adopted in
+plenary
+
+IMCO
+
+2013/2080(INI) - 01/10/2013 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy adopted the own-initiative report by Catherine TRAUTMANN (S&D, FR) on Implementation
+report on the regulatory framework for electronic communications.
+Regretting the delay by Member States in transposing the 2009 changes to the regulatory framework for electronic communications, Members
+drew attention to the fragmentation of the internal market in communications.
+They support a competitive European market in high-speed broadband services and stated that the review of the regulatory framework should
+following these objectives:
+ensure that consumers have access to comprehensive and comprehensible information on internet connection speeds to enable them
+to compare the services offered by different operators;
+ensure that fully substitutable services are subject to the same rules;
+further promote effective and sustainable competition, which is the main driver of efficient investment over time;
+increase competition on the European high-speed broadband market;
+provide a stable and sustainable framework for investment;
+ensure harmonised, consistent and effective application;
+facilitate the development of pan-European providers and the provision of crossborder business services;
+ensure that the framework is fit for the digital age and delivers an internet ecosystem that support the entire economy;
+increase user confidence in the internal market in communications, including through measures to implement the future regulatory
+framework for the protection of personal data and measures to increase the security of electronic communications on the internal
+market.
+The report insisted in particular for the following aspects to be considered in a review of the entire regulatory framework:
+the overdue review of the universal service obligation, including the obligation to offer broadband internet access at a fair price in
+response to the urgent need to reduce the digital divide;
+the competence of NRAs for all issues, including spectrum, that are addressed by the framework;
+cooperation between the NRAs and national competition authorities;
+the symmetric obligations relating to network access (Article 12 FD);
+the impact of services that are fully substitutable to those provided by traditional providers;
+identification of transnational markets, as a first step at least with respect to business services;
+BEREC and its functioning as well as the extension of the scope of its competences;
+freedom of access to content for all and net neutrality building;
+the regulation of equipment, including bundling of equipment and operating systems;
+recent global developments in cybersecurity and cyberespionage.
+Members are convinced that increased spectrum coordination combined with the application of common principles for spectrum use rights
+across the Union would constitute a key remedy for tackling the problem of lack of predictability regarding spectrum availability, thus
+encouraging investment and economies of scale. The report emphasised that a pan-European auctioning of 4G and 5G wireless services, with
+a limited number of licensees collectively serving the whole territory of the EU, would enable pan-European wireless services, eroding the
+bases upon which roaming is built.
+Member States are invited to give the consumer aspects of electronic communications a much higher priority. In this regard, Members
+stressed the importance of:
+enhanced consumer information requirements regarding service restrictions, device subsidies and traffic management;
+ensure consistent enforcement of the ban on misleading advertising;
+switching, ease of number portability in a dynamic market, contract transparency and provision of information to consumers regarding
+contract changes;
+
+implementing reinforced requirements for equivalent access for disabled users.
+As regards the 112 common emergency telephone number, Members called for improvements regarding caller location response time. They
+welcomed the Commissions work on the practical implementation of the 116 numbers, especially the missing child hotline (116000) and also
+called for better promotion of these numbers by the Commission.
+
+2013/2080(INI) - 24/10/2013 Text adopted by Parliament, single reading
+The European Parliament adopted a resolution on the implementation report on the regulatory framework for electronic communications.
+Parliament underlined the fact that while the framework has made substantial progress towards achieving its aims, the EU telecoms market
+remains fragmented along national borders, making it difficult for businesses and citizens to fully benefit from a single market. It considered
+that only by having a competitive European market in high speed broadband services can innovation, economic growth and job creation be
+stimulated and competitive prices offered to end users.
+According to the resolution, the revision of the regulatory framework should follow these objectives:
+ensure that consumers have access to comprehensive and comprehensible information on internet connection speeds to enable them
+to compare the services offered by different operators;
+ensure that fully substitutable services are subject to the same rules;
+further promote effective and sustainable competition, which is the main driver of efficient investment over time;
+increase competition on the European high-speed broadband market;
+provide a stable and sustainable framework for investment;
+ensure harmonised, consistent and effective application;
+facilitate the development of pan-European providers and the provision of crossborder business services;
+ensure that the framework is fit for the digital age and delivers an internet ecosystem that support the entire economy;
+increase user confidence in the internal market in communications, including through measures to implement the future regulatory
+framework for the protection of personal data and measures to increase the security of electronic communications on the internal
+market.
+Parliament insisted in particular for the following aspects to be considered:
+the overdue review of the universal service obligation, including the obligation to offer broadband internet access at a fair price in
+response to the urgent need to reduce the digital divide;
+the competence of NRAs for all issues, including spectrum, that are addressed by the framework;
+cooperation between the NRAs and national competition authorities;
+the symmetric obligations relating to network access (Article 12 FD);
+the impact of services that are fully substitutable to those provided by traditional providers;
+identification of transnational markets, as a first step at least with respect to business services;
+BEREC and its functioning as well as the extension of the scope of its competences;
+freedom of access to content for all and net neutrality building;
+the regulation of equipment, including bundling of equipment and operating systems;
+recent global developments in cybersecurity and cyberespionage.
+Consistency, regulatory certainty and competition: Members considered that all the provisions proposed by the Commission, including a single
+European authorisation, consumer aspects and technical arrangements for spectrum auctions, could play an important role with a view to
+creating a single market for communications, but that they need to be assessed in the light of that objective to maintain consistency and
+provide regulatory certainty so as to ensure fair and balanced competition in which European players stand every chance.
+Spectrum coordination: Members are convinced that increased spectrum coordination combined with the application of common principles for
+spectrum use rights across the Union would constitute a key remedy for tackling the problem of lack of predictability regarding spectrum
+availability, thus encouraging investment and economies of scale. They emphasised that a pan-European auctioning of 4G and 5G wireless
+services, with a limited number of licensees collectively serving the whole territory of the EU, would enable pan-European wireless services,
+eroding the bases upon which roaming is built.
+Stimulating innovation: Members called for a mix of different measures and all available technologies should be explored and offered to
+consumers, so as to prevent the deterioration of service, the blocking of access and the slowing of traffic over networks.
+Consumer protection: Member States are invited to give the consumer aspects of electronic communications a much higher priority. In this
+regard, Members stressed the importance of:
+enhanced consumer information requirements regarding service restrictions, device subsidies and traffic management;
+ensure consistent enforcement of the ban on misleading advertising;
+switching, ease of number portability in a dynamic market, contract transparency and provision of information to consumers regarding
+contract changes;
+implementing reinforced requirements for equivalent access for disabled users.
+As regards the 112 common emergency telephone number, Members called for improvements regarding caller location response time. They
+welcomed the Commissions work on the practical implementation of the 116 numbers, especially the missing child hotline (116000) and also
+called for better promotion of these numbers by the Commission.
+
+

@@ -1,0 +1,592 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2015/0284(COD)
+
+Procedure completed
+
+Cross-border portability of online content services in the internal market
+
+Subject
+2.40 Free movement of services, freedom to provide
+3.30.01 Audiovisual industry and services
+3.30.25 International information networks and society, internet
+3.50.15 Intellectual property, copyright
+4.60.06 Consumers' economic and legal interests
+
+Key players
+European Parliament
+
+Committee responsible
+JURI Legal Affairs
+(Associated committee)
+
+Rapporteur
+
+Appointed
+14/03/2016
+
+CAVADA Jean-Marie
+Shadow rapporteur
+
+NIEBLER Angelika
+
+NEGRESCU Victor
+
+KARIM Sajjad
+
+MAŠTÁLKA Jiří
+
+REDA Julia
+
+BERGERON Joëlle
+LEBRETON Gilles
+Committee for opinion
+ITRE
+
+Rapporteur for opinion
+
+Industry, Research and Energy
+
+Appointed
+01/03/2016
+
+ZORRINHO Carlos
+IMCO Internal Market and Consumer Protection
+(Associated committee)
+CULT Culture and Education
+(Associated committee)
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+
+02/02/2016
+ZULLO Marco
+16/02/2016
+VERHEYEN Sabine
+The committee decided not to
+give an opinion.
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs BIEŃKOWSKA Elżbieta
+
+European Economic and
+Social Committee
+
+Key events
+
+09/12/2015
+
+Legislative proposal published
+
+21/01/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+29/02/2016
+
+Debate in Council
+
+28/04/2016
+
+Referral to associated committees
+announced in Parliament
+
+29/11/2016
+
+Vote in committee, 1st reading/single
+reading
+
+29/11/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+09/12/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+20/02/2017
+
+Debate in Council
+
+23/03/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+17/05/2017
+
+Debate in Parliament
+
+18/05/2017
+
+Results of vote in Parliament
+
+18/05/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/06/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+14/06/2017
+
+Final act signed
+
+14/06/2017
+
+End of procedure in Parliament
+
+30/06/2017
+
+Final act published in Official Journal
+
+COM(2015)0627
+
+Summary
+
+A8-0378/2016
+
+Summary
+
+T8-0224/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2015/0284(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+JURI/8/05563
+
+Documentation gateway
+Legislative proposal
+
+COM(2015)0627
+
+09/12/2015
+
+EC
+
+Document attached to the procedure
+
+SWD(2015)0270
+
+10/12/2015
+
+EC
+
+Document attached to the procedure
+
+SWD(2015)0271
+
+10/12/2015
+
+EC
+
+Summary
+
+Committee of the Regions: opinion
+
+CDR0039/2016
+
+08/04/2016
+
+CofR
+
+Economic and Social Committee: opinion,
+report
+
+CES0719/2016
+
+27/04/2016
+
+ESC
+
+PE585.465
+
+21/06/2016
+
+EP
+
+Committee draft report
+Committee opinion
+
+CULT
+
+PE578.729
+
+15/07/2016
+
+EP
+
+Committee opinion
+
+ITRE
+
+PE583.955
+
+28/09/2016
+
+EP
+
+Committee opinion
+
+IMCO
+
+PE583.879
+
+30/09/2016
+
+EP
+
+PE589.348
+
+03/10/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0378/2016
+
+09/12/2016
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0224/2017
+
+18/05/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)494
+
+19/07/2017
+
+Amendments tabled in committee
+
+Additional information
+Research document
+
+Briefing
+
+Final act
+Regulation 2017/1128
+OJ L 168 30.06.2017, p. 0001 Summary
+Corrigendum to final act 32017R1128R(01)
+OJ L 198 28.07.2017, p. 0042 Summary
+
+2015/0284(COD) - 09/12/2015 Legislative proposal
+PURPOSE: to ensure the cross-border portability of online content services.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: Parliament decides in accordance with the ordinary legislative procedure and on an equal footing
+with Council.
+BACKGROUND: the rapid take up of online content services and increasing use of portable devices, including across borders, means that
+Europeans today expect to use online content services from wherever they are in the Union (cross-border portability). However, when people
+travel in the EU, they frequently cannot enjoy such cross-border portability or can do so only to a limited extent . The absence of, or problems
+with, cross border portability of online content services in the EU results from the licensing practices of right holders and/or the commercial
+practices of service providers.
+Cross-border portability concerns online content services to which consumers have lawful access, or content that they purchased or rented
+online in their country of residence and to which they want to continue to have access when travelling in the EU. Consumer demand for the
+cross-border portability of online content services is substantial and expected to grow
+The Digital Single Market Strategy puts forward a range of initiatives with the objective of creating an internal market for digital content and
+services. This proposal is among the first of the initiatives under the strategy. The Commission considers that the proposal will have positive
+effects on competitiveness as it will help innovation in online content services and attract more consumers to them.
+IMPACT ASSESSMENT: the preferred option, in addition to establishing a mechanism ensuring portability: (i) would impose an obligation on
+providers of online content services to ensure cross-border portability of such services and (ii) would establish that any provisions in contracts
+limiting cross-border portability would be unenforceable. This option would respond to consumers' expectations and the impact on industry is
+expected to be marginal because the portability of online content services does not extend the range of users of the service and as such does
+not challenge the territorial exclusivity of licences
+CONTENT: the proposed regulation introduces a common approach to ensuring that subscribers to online content services in the Union, which
+are delivered on a portable basis, can receive these services when temporarily present in another Member State (cross-border portability).
+Definitions : the proposal contains definitions that will need to be interpreted in a uniform manner in the EU:
+a "subscriber" is defined as a consumer who, on the basis of a contract for the provision of an online content service, may access and
+
+use such service in the Member State of his or her residence;
+a "consumer" is defined as any natural person who, in contracts covered by the regulation, is acting for purposes which are outside his
+or her trade, business, craft or profession.
+"Online content service" is covered by the proposal when: (i) the service is lawfully provided online in the Member State of residence; (ii) the
+service is provided on a portable basis; (iii) the service is an audiovisual media service within the meaning of Directive 2010/13/EU of the
+European Parliament and of the Council or a service whose main feature is the provision of access to works, other subject matter or
+transmissions of broadcasting organisations.
+Two scenarios are covered as regards online content services: (i) services which are provided for payment of money (directly or indirectly);
+and (ii) services which are provided without payment of money provided that the subscriber's Member State of residence is verified by the
+service provider.
+if a subscriber receives an online content service without payment of money, the provider will only be obliged to enable the subscriber
+to enjoy cross-border portability if the provider verifies the subscriber's Member State of residence;
+if, however, a consumer just accepts the terms and conditions of a free of charge online content service but does not register on a
+website of such service (and hence the provider does not verify the Member State of residence of such a consumer), the service
+provider will not be obliged to provide cross-border portability for such service.
+Cross-border portability of online content services: the proposal requires the provider to enable a subscriber to use the online content service
+while the subscriber is temporarily present in another Member State. This applies to the same content, on the same range and number of
+devices and the same range of functionalities as offered in the Member State of residence.
+However, this obligation does not extend to any quality requirements applicable to the delivery of such service when the service is provided in
+the Member State of residence. Nevertheless, if the provider expressly agrees to guarantee certain quality of delivery to subscribers while
+temporarily present in other Member States, the provider shall be bound by such agreement. In addition, the draft regulation will oblige the
+provider to inform the subscriber of the quality of delivery of the online content service when accessed and used in a Member State other than
+the Member State of residence.
+Localisation: the proposal sets out a mechanism establishing the localisation of the service for purposes of portability: the provision as well as
+the access to and use of the service by a subscriber who is temporarily present in another Member State is deemed to occur solely in the
+Member State of residence. For the licensing of copyright and related rights, this means that the relevant copyright acts, which occur when the
+service is provided to consumers on a basis of crossborder portability, are deemed to occur solely in the Member State of residence.
+Contractual provisions: the proposal renders unenforceable:
+any contractual terms contrary to the cross-border portability obligation, in particular those which limit either consumer's possibilities as
+to the cross-border portability of his or her online content services or service provider's ability to deliver it;
+any contractual terms contrary to the legal mechanism which enables service providers to comply with the cross-border portability
+obligation.
+However, right holders may require that the service provider makes use of means in order to verify that the service is provided in conformity
+with the regulation.
+The draft regulation also provides that: (i) the processing of personal data carried out within the framework of the Regulation shall be carried
+out in compliance with Directive 95/46/EC and Directive 2002/58/EC; (ii) the regulation shall also apply to any contracts concluded and rights
+acquired before the date of the application of the regulation if they are relevant for the provision of the service, the access to or the use of the
+service.
+
+2015/0284(COD) - 09/12/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Legal Affairs adopted the report by Jean-Marie CAVADA (ADLE, FR) on the proposal for a regulation of the European
+Parliament and of the Council on ensuring the cross-border portability of online content services in the internal market.
+The Committee on the Internal Market and Consumer Protection as well as the Committee on Culture and Education, exercising their
+prerogatives as associated committees in accordance with Article 54 of the Rules of Procedure, also gave their opinions on the report.
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Objective and scope: Members stipulated that the Regulation introduces a common approach in the Union to ensuring that subscribers to
+legally acquired online content services in their Member State of residence can access and use those services without any additional charges,
+while temporarily present (for leisure, business or study purposes) in a Member State other than the Member State of residence. Such access
+and use shall be subject to effective prior verification of the subscribers Member State of residence.
+Online content service providers may be included in the scope of the regulation on condition that they take all necessary measures to permit
+verification of the Member State of residence of their users.
+Obligation to enable cross-border portability of online content services: the provider of an online content service shall:
+have the possibility for a service provider to enable a subscriber also to access and use the content licensed to the service provider for
+the Member State in which the subscriber is temporarily present;
+ensure that the quality provided is not below the standard of that provided in the Member State where the subscriber is temporarily
+present;
+inform the subscriber of potential variations in the quality of delivery of the online content service;
+ensure that the portability of its services is available on the same range and number of devices as is the case in the Member State of
+residence of the subscriber.
+
+Contractual clauses designed to prohibit or limit the cross-border portability of online content services and limiting the portability to a specific
+time period shall be unenforceable under this Regulation.
+Verification of the Member State of residence: Members proposed that the criteria for verification of the Member State of residence of the
+subscriber should be indicated in a semi-open list. Thus, online content service providers shall use a combination of two of the means of
+verification (or even just one of the means) among which: an identity card, electronic means of identification, bank details, an internet or
+telephone service supply contract, the payment of local taxes, a public utility bill of the subscriber confirming the subscribers address, random
+checking of the subscribers Internet Protocol (IP) address.
+The provider of an online content service shall be entitled to request that a subscriber provides the information needed to verify his or her
+Member State of residence. If the subscriber fails to provide such information, the provider shall not offer him or her portability of its online
+content services, until such time as it is able to verify the subscribers Member State of residence.
+The holders of copyright and related rights or those holding any other rights in the content of an online content service shall be informed of the
+verification process used by a service provider to verify its subscribers Member State of residence.
+Contractual provisions: providers of online content services and holders of rights relevant for the provision of those services should not be
+allowed to circumvent the application of this Regulation by choosing the law of a third country to be the law which is to apply to contracts
+between them or to contracts between providers and subscriber.
+It is also stated that providers of online content services shall ensure that any processing of personal data under this Regulation is necessary
+and proportionate in order to achieve the relevant purpose.
+Application of the Regulation: Members proposed a period of 12 months (instead of 6) for the application of the Regulation.
+Three years after the entry into force of this Regulation, and at three-yearly intervals thereafter, the Commission shall assess the application of
+this Regulation and submit to the European Parliament and to the Council a report thereon.
+
+2015/0284(COD) - 18/05/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 586 votes to 34, with 8 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on ensuring the cross-border portability of online content services in the internal market.
+The European Parliaments position adopted at first reading, following the ordinary legislative procedure, amended the Commission proposal
+as follows:
+Subject matter and scope: Members stipulated that this Regulation shall introduce a common approach in the Union to the cross-border
+portability of online content services, by ensuring that subscribers to portable online content services which are lawfully provided in their
+Member State of residence can access and use those services when temporarily present in a Member State other than their Member State of
+residence. Such access and use shall be subject to effective prior verification of the subscribers Member State of residence.
+Providers of online content services should not subject their subscribers to any additional charges for the provision of cross-border portability
+of online content services and its use in another Member State where he is temporarily present. They should not take any measures to reduce
+the quality of service provided.
+The provider of an online content service provided without payment of money may decide to enable its subscribers who are temporarily
+present in a Member State to access and use the online content service on the condition that the provider verifies the subscribers Member
+State of residence.
+Verification of the Member State of residence: the provider shall verify the Member State of residence of the subscriber by using not more than
+two of the following means of verification and shall ensure that the means used are reasonable, proportionate and effective:
+an identity card, electronic means of identification;
+payment details;
+the place of installation of a set top box;
+an internet or telephone service supply contract;
+a utility bill;
+the billing address or the postal address of the subscriber;
+an internet protocol (IP) address check.
+If the provider has reasonable doubts about the subscriber's Member State of residence, the provider may repeat the verification of the
+Member State of residence of the subscriber.
+If the subscriber fails to provide that information, and as a result the provider is unable to verify the subscribers Member State of residence, the
+provider shall not, on the basis of this Regulation, enable the subscriber to access or use the online content service when the subscriber is
+temporarily present in a Member State.
+The holders of copyright or related rights or those holding any other rights in the content of an online content service may authorise the
+provision of, access to and use of their content under this Regulation without the verification of the Member State of residence. In such cases,
+the contract between the provider and the subscriber for the provision of an online content service shall be sufficient to determine the
+subscriber's Member State of residence.
+Contractual provisions: any contractual provisions, including those between providers of online content services and holders of copyright or
+related rights or those holding any other rights in the content of online content services, as well as those between such providers and their
+subscribers, which are contrary to this Regulation, including those which prohibit cross-border portability of online content services or limit such
+portability to a specific time period, shall be unenforceable.
+Moreover, the providers and holders of rights relevant for the provision of online content services should not be allowed to circumvent the
+application of this Regulation by choosing the law of a third country as the law applicable to contracts between them.
+
+Protection of data: the use of the means of verification of the subscribers Member State of residence and any processing of personal data
+under this Regulation, shall be limited to what is necessary and proportionate in order to achieve its purpose . Data collected for the purpose of
+verifying the subscriber's Member State of residence shall be immediately and irreversibly destroyed on the completion of each verification.
+Application of the Regulation: Members proposed a period of nine months for the application of the Regulation.
+Three years after the entry into force of this Regulation, and at three-yearly intervals thereafter, the Commission shall assess its application
+and submit to the European Parliament and to the Council a report thereon.
+
+2015/0284(COD) - 14/06/2017 Final act
+PURPOSE: to allow consumers who paid for online content services in their home country to access them when visiting another country within
+the EU.
+LEGISLATIVE ACT: Regulation (EU) 2017/1128 of the European Parliament and of the Council on cross-border portability of online content
+services in the internal market
+CONTENT: the Regulation establishes a common EU approach to allow subscribers to access online content (such as films, sporting
+broadcasts, music, e-books or games) for which they have paid in their Member State of residence, when subscribers temporarily visit another
+Member State when on holidays, business trips or limited student stays.
+Providers of all online content services that are provided against the payment of money will not be able to impose any additional charges on
+the subscriber for access and use of the service in another Member State where the subscriber is temporarily present. They may not take any
+action to reduce the quality of delivery of the online content service when providing the online content service.
+Verification of the Member State of residence: to avoid abuses, service providers will verify the subscribers' member state of residence. The
+verifications will be carried out in compliance with EU data protection rules.
+The means of verification will be reasonable, proportionate and effective. Unless the subscribers Member State of residence can be verified
+with sufficient certainty on the basis of a single means of verification, providers should rely on two means of verification from the list in the
+Regulation. These may be:
+·
+
+an identity card;
+
+·
+
+bank account or credit or debit card number;
+
+·
+
+the place of installation of a set top box, a decoder or a similar device used for supply of services;
+
+·
+
+the payment by the subscriber of a licence fee for other services;
+
+·
+
+the billing address or the postal address;
+
+·
+
+an Internet protocol (IP) address check.
+
+If the provider has reasonable doubts about the subscribers Member State of residence, he may repeat the verification of the Member State of
+residence of the subscriber. The provider will be authorised to cease the access to the online service when the subscriber cannot prove his/her
+member state of residence.
+Copyright holders will have the possibility of authorising the use of their content without the obligation to verify the subscriber's residence. In
+such cases, the contract between the provider and the subscriber for the provision of an online content service should be used to determine
+the latters Member State of residence.
+Online content services provided without payment of money: free to air services, such as those provided by certain public broadcasters, will
+have the option of benefiting from the regulation provided that they verify the country of residence of their subscribers. The provider shall
+inform its subscribers of its decision to provide the online content service, prior to providing that service.
+Review: by 21 March 2021, and as required thereafter, the Commission shall assess the application of the Regulation in the light of legal,
+technological and economic developments, and submit to the European Parliament and to the Council a report thereon.
+ENTRY INTO FORCE: 20.7.2017.
+APPLICATION: from 20.3.2018.
+
+2015/0284(COD) - 14/06/2017 Corrigendum to final act
+CORRIGENDUM to Regulation (EU) 2017/1128 of the European Parliament and of the Council of 14 June 2017 on cross-border portability of
+online content services in the internal market (OJ L 168, 30.6.2017).
+NB: the corrections concern the dates and time limits originally laid down in respect of: (i) the application to existing contracts and rights
+acquired before the date of application of the Regulation; (ii) the review of the Regulation by the Commission; (iii) the date of application of the
+Regulation.
+LEGISLATIVE ACT: Regulation (EU) 2017/1128 of the European Parliament and of the Council on cross-border portability of online content
+services in the internal market.
+PURPOSE: to allow consumers who paid for online content services in their home country to access them when visiting another country within
+the EU.
+CONTENT: the Regulation establishes a common EU approach to allow subscribers to access online content (such as films, sporting
+
+broadcasts, music, e-books or games) for which they have paid in their Member State of residence, when subscribers temporarily visit another
+Member State when on holidays, business trips or limited student stays.
+Providers of all online content services that are provided against the payment of money will not be able to impose any additional charges on
+the subscriber for access and use of the service in another Member State where the subscriber is temporarily present. They may not take any
+action to reduce the quality of delivery of the online content service when providing the online content service.
+Verification of the Member State of residence: to avoid abuses, service providers will verify the subscribers' member state of residence. The
+verifications will be carried out in compliance with EU data protection rules.
+The means of verification will be reasonable, proportionate and effective. Unless the subscribers Member State of residence can be verified
+with sufficient certainty on the basis of a single means of verification, providers should rely on two means of verification from the list in the
+Regulation. These may be:
+an identity card;
+bank account or credit or debit card number;
+the place of installation of a set top box, a decoder or a similar device used for supply of services;
+the payment by the subscriber of a licence fee for other services;
+the billing address or the postal address;
+an Internet protocol (IP) address check.
+If the provider has reasonable doubts about the subscribers Member State of residence, he may repeat the verification of the Member State of
+residence of the subscriber. The provider will be authorised to cease the access to the online service when the subscriber cannot prove his/her
+member state of residence.
+Copyright holders will have the possibility of authorising the use of their content without the obligation to verify the subscriber's residence. In
+such cases, the contract between the provider and the subscriber for the provision of an online content service should be used to determine
+the latters Member State of residence.
+Online content services provided without payment of money: free to air services, such as those provided by certain public broadcasters, will
+have the option of benefiting from the regulation provided that they verify the country of residence of their subscribers. The provider shall
+inform its subscribers of its decision to provide the online content service, prior to providing that service.
+Application to existing contracts: this Regulation shall apply also to contracts concluded and rights acquired before the date of its application.
+By 2 June 2018, the provider of an online content service provided against payment of money shall verify the Member State of residence of
+those subscribers who concluded contracts for the provision of the online content service before that date.
+Review: by 2 April 2021, and as required thereafter, the Commission shall assess the application of the Regulation in the light of legal,
+technological and economic developments, and submit to the European Parliament and to the Council a report thereon.
+ENTRY INTO FORCE: 20.7.2017.
+APPLICATION: from 1.4.2018.
+
+

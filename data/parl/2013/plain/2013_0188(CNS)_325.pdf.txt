@@ -1,0 +1,367 @@
+Procedure file
+Basic information
+2013/0188(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Taxation: mandatory automatic exchange of information
+Amending Directive 2011/16/EU 2009/0004(CNS)
+See also 2017/2013(INI)
+Subject
+2.70 Taxation
+2.80 Cooperation between administrations
+3.45.04 Company taxation
+7.30.30.06 Action to combat economic fraud
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Rapporteur
+
+Appointed
+
+S&D CUTA George Sabin
+
+18/06/2013
+
+Shadow rapporteur
+PPE NITRAS Sławomir
+ALDE SCHMIDT Olle
+Verts/ALE TAVARES Rui
+ECR STREJČEK Ivo
+GUE/NGL CHOUNTIS
+Nikolaos
+Committee for opinion
+CONT
+JURI
+
+Budgetary Control
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Taxation and Customs Union
+
+Rapporteur for opinion
+
+Appointed
+
+PPE RIVELLINI Crescenzio
+
+19/07/2013
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+ŠEMETA Algirdas
+
+Key events
+12/06/2013
+
+Legislative proposal published
+
+04/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+05/11/2013
+
+Vote in committee, 1st reading/single
+reading
+
+12/11/2013
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+10/12/2013
+
+Debate in Parliament
+
+11/12/2013
+
+Results of vote in Parliament
+
+11/12/2013
+
+Decision by Parliament, 1st
+reading/single reading
+
+09/12/2014
+
+Act adopted by Council after consultation
+
+COM(2013)0348
+
+Summary
+
+A7-0376/2013
+
+Summary
+
+T7-0573/2013
+
+Summary
+
+of Parliament
+09/12/2014
+
+End of procedure in Parliament
+
+16/12/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0188(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2011/16/EU 2009/0004(CNS)
+See also 2017/2013(INI)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 115
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/7/13023
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0348
+
+12/06/2013
+
+EC
+
+Committee draft report
+
+PE516.889
+
+05/09/2013
+
+EP
+
+Amendments tabled in committee
+
+PE519.603
+
+01/10/2013
+
+EP
+
+CES5161/2013
+
+16/10/2013
+
+ESC
+
+PE516.714
+
+21/10/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0376/2013
+
+12/11/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0573/2013
+
+11/12/2013
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)148
+
+13/02/2014
+
+Economic and Social Committee: opinion,
+report
+Committee opinion
+
+CONT
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2014/107
+OJ L 359 16.12.2014, p. 0001 Summary
+
+2013/0188(CNS) - 12/06/2013 Legislative proposal
+PURPOSE: to expand the scope of the automatic exchange of information in the field of taxation in order to better combat fiscal fraud.
+PROPOSED ACT: Council Directive.
+
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: in recent years, the challenge posed by tax fraud and tax evasion has increased considerably and has become a major focus
+of concern within the European Union and worldwide. An increase in the efficiency and effectiveness of tax collection is therefore urgently
+needed. The automatic exchange of information (AEOI) constitutes an important tool in this regard.
+Council Directive 2011/16/EU on administrative cooperation in the field of taxation provides that, from 2015, Member States will exchange
+information automatically upon availability on five categories of income and capital: employment, directors' fees, life insurance products not
+covered by other Directives, pensions and ownership of and income from immovable property.
+Member States have now expressed a clear wish to go beyond current levels of cooperation. The European Council of 2 March 2012 invited
+the Council and the Commission to develop rapidly concrete ways to improve the fight against tax fraud. On 6 December 2012, the
+Commission presented an Action plan to strengthen the fight against tax fraud and tax evasion. The European Council on 22 May 2013 went
+even further, requesting the extension of AEOI at EU and global levels with a view to fighting against tax fraud, tax evasion and aggressive tax
+planning.
+The agreements that many governments have concluded or will conclude with the US as regards the US Foreign Account Tax Compliance Act
+(FATCA) have given further impetus to AEOI as a way of combating tax fraud and evasion. On 9 April 2013, France, Germany, the United
+Kingdom, Italy and Spain announced plans for a pilot action on AEOI using the FATCA model agreed with the US as a basis.
+The European Parliament adopted a resolution on 21 May 2013 emphasising that the EU should take a leading role in discussions on the fight
+against tax fraud, tax avoidance and tax havens and, in particular, in relation to the promotion of automatic exchange of information.
+IMPACT ASSESSMENT: most Member States wish to take speedy action to increase AEOI. It has, therefore, become exceptionally urgent to
+provide for a consistent and coherent EU legal framework; for this reason, no impact assessment has been prepared.
+LEGAL BASIS: Article 115 of the Treaty on the functioning of the European Union (TFEU).
+CONTENT: the proposal aims to amend Council Directive 2011/16/EU to expand the scope of AEOI in the EU beyond that provided for in
+existing EU automatic information exchange arrangements. It provides for:
+the removal of a threshold below which a Member State may not wish to receive information from other Member States;
+the introduction of automatic exchange of information for dividends, capital gains, any other income generated with respect to the
+assets held in a financial account, any amount with respect to which the financial institution is the obligor (i.e. is legally or contractually
+obliged to pay) or the debtor, including any redemption payments, and account balances. Information about those new items will
+certainly be available as financial intermediaries will be required to report it to tax administrations under the agreements that Member
+States have concluded or will conclude with the US as regards FATCA;
+the review of the condition of availability to be undertaken in 2017 should be extended to all the five categories referred to in Directive
+2011/16/EU so that the case for exchange of information by all Member States on all those categories be examined.
+The time limits proposed for transposition and application of the new rules are 31 December 2014 and 1 January 2015 respectively , in order to
+align them with the dates applicable in respect of the categories of income and capital included in the existing Directive.
+BUDGETARY IMPLICATION: the proposal has no budgetary implications.
+
+2013/0188(CNS) - 12/11/2013 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, in the framework of a special legislative procedure (consultation of Parliament)
+the report by George Sabin CUTA? (S&D, RO) on the proposal for a Council directive amending Directive 2011/16/EU as regards mandatory
+automatic exchange of information in the field of taxation
+The committee made the following amendments to the Commission proposal:
+Scope of mandatory and automatic exchange of information: the new categories of income and capital in respect of which the Directive
+introduces an obligation to exchange information should be established in accordance with their interpretation in the law of the Member State
+communicating the information.
+Data protection: in light of the sensitivity of the data to be collected, specific attention should be paid to the respect for the right of privacy
+and to legitimate claims of confidentiality, in particular during any inquiry process. Member States shall take appropriate measures to protect
+the exchanged information from unauthorised access by third parties or by third countries.
+Resources: Member States must make available the human, technological and financial resources needed for the implementation
+of this Directive, given the amount and the complexity of information, subject to the automatic exchange starting on 1 January 2015.
+Negotiating mandate with third countries: from the date of entry into force of this Directive, only the Commission shall negotiate agreements
+with third countries on automatic exchange of information (AEOI) on behalf of the Union. From that date Member States shall not engage in
+bilateral agreements.
+Penalties: Member State shall lay down penalties for breaches of the Directive and shall take the measures necessary to ensure compliance
+therewith. Such penalties shall be effective, proportionate and persuasive.
+Evaluation: the Commission shall inform the European Parliament on an annual basis of the evaluations made by Member States regarding
+the effectiveness of automatic exchange of information.
+
+2013/0188(CNS) - 11/12/2013 Text adopted by Parliament, 1st reading/single reading
+
+The European Parliament adopted by 360 votes to 59, with 287 abstentions, in the framework of a special legislative procedure (consultation
+of Parliament), a legislative resolution on the proposal for a Council directive amending Directive 2011/16/EU as regards mandatory automatic
+exchange of information in the field of taxation.
+The European Parliament, in its resolution of 21 May 2013 on Fight against Tax Fraud, Tax Evasion and Tax Havens, Parliament had already
+requested the extension of automatic information exchange at Union and global levels with a view to combatting tax fraud, tax evasion and
+aggressive tax planning.
+Parliament approved the Commission proposal, subject to the following amendments:
+Scope of mandatory and automatic exchange of information: Parliament called for new categories of income and capital in respect of which the
+Directive introduces an obligation to exchange information to be established in accordance with their interpretation in the law of the Member
+State communicating the information.
+Data protection: in light of the sensitivity of the data to be collected, specific attention should be paid to the respect for the right of privacy
+and to legitimate claims of confidentiality, in particular during any inquiry process. Member States shall take appropriate measures to protect
+the exchanged information from unauthorised access by third parties or by third countries.
+Resources: Member States must make available the human, technological and financial resources needed for the implementation
+of this Directive, given the amount and the complexity of information, subject to the automatic exchange starting on 1 January 2015.
+Negotiating mandate with third countries: from the date of entry into force of this Directive, only the Commission shall negotiate agreements
+with third countries on automatic exchange of information (AEOI) on behalf of the Union. From that date Member States shall not engage in
+bilateral agreements.
+Penalties: Member State shall lay down penalties for breaches of the Directive and shall take the measures necessary to ensure compliance
+therewith. Such penalties shall be effective, proportionate and persuasive.
+Evaluation: the Commission shall inform the European Parliament on an annual basis of the evaluations made by Member States regarding
+the effectiveness of automatic exchange of information.
+Implementation of amendments: many of the proposed amendments to Directive 2011/16/EU on administrative cooperation in the field of
+taxation regulate the same information exchange with which FATCA and the work at the OECD are concerned. Members considered that the
+Commission should clarify the relationship between those regulatory provisions in order to ensure that the national tax authorities and the
+financial institutions responsible for applying those amendments are able to implement them.
+Review: by 12 months after the date of entry into force of this Directive, the Commission shall review the functioning of this Directive and, if
+appropriate, submit a legislative proposal to the Council to provide for transparency of information exchanges.
+
+2013/0188(CNS) - 09/12/2014 Final act
+PURPOSE: to extend the scope of automatic exchange of information in order to combat tax fraud and evasion.
+LEGISLATIVE ACT: Council Directive 2014/107/EU amending Directive 2011/16/EU as regards mandatory automatic exchange of information
+in the field of taxation
+CONTENT: in recent years, the challenge posed by cross-border tax fraud and tax evasion has increased considerably and has become a
+major focus of concern within the Union and at global level. The European Council on 22 May 2013 requested the extension of automatic
+information exchange at Union and global levels with a view to combating tax fraud, tax evasion and aggressive tax planning.
+The importance of automatic exchange of information as a means to combat cross-border tax fraud and tax evasion has recently been
+recognised also at the international level (G20 and G8).
+In July 2014, the OECD Council released the full global standard, which was endorsed by G20 Finance Ministers and Central Bank Governors
+in September 2014.
+Council Directive 2011/16/EU already provides for the mandatory automatic exchange of information between Member States on certain
+categories of income and capital, mainly of a non-financial nature, that taxpayers hold in Member States other than their State of residence.
+This Directive amends Directive 2011/16/EU by extending the scope of automatic exchange of information to interest, dividends, gross
+proceeds from the sale of financial assets and other income, as well as account balances. The aim is to prevent taxpayers from hiding capital
+abroad or assets on which tax is due, whilst also improving the efficiency of tax collection.
+Automatic exchange means the systematic communication of predefined information on residents in other Member States to the relevant
+Member State of residence, without prior request, at pre-established regular intervals.
+The automatic exchange of information will be done in a standard format in order to facilitate exchange.
+Member States will start exchanging information automatically under the revised directive for the first time by the end of September 2017. In
+view of existing structural differences, Austria should be allowed to exchange information automatically under this Directive for the first time by
+30 September 2018.
+Before 1 July 2017, the Commission shall submit a report that provides an overview and an assessment of the statistics and information
+received, on issues such as the administrative and other relevant costs and benefits of the automatic exchange of information, as well as
+practical aspects linked thereto.
+ENTRY INTO FORCE: 5.1.2015.
+TRANSPOSITION: by 31.12.2015. The provisions of the Directive apply from 1.1.2016.
+
+

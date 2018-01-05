@@ -1,0 +1,369 @@
+Procedure file
+Basic information
+2014/2085(DEC)
+
+DEC - Discharge procedure
+
+Procedure completed
+
+2013 discharge: EU general budget, European Data Protection Supervisor
+
+Subject
+8.70.03.03 2013 discharge
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Budgetary Control
+
+CONT
+
+Appointed
+25/09/2014
+
+CZARNECKI Ryszard
+Shadow rapporteur
+
+DEUTSCH Tamás
+
+AYALA SENDER Inés
+
+THEURER Michael
+
+KARI Rina Ronja
+
+ŠOLTES Igor
+
+VALLI Marco
+Committee for opinion
+JURI
+
+Legal Affairs
+
+LIBE
+
+Civil Liberties, Justice and Home Affairs
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+10/11/2014
+GUILLAUME Sylvie
+
+European Commission
+
+Commission DG
+
+Commissioner
+
+Budget
+
+GEORGIEVA Kristalina
+
+Key events
+30/07/2014
+
+Non-legislative basic document published
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+23/03/2015
+
+Vote in committee, 1st reading/single
+reading
+
+31/03/2015
+
+Committee report tabled for plenary,
+single reading
+
+28/04/2015
+
+Debate in Parliament
+
+29/04/2015
+
+Results of vote in Parliament
+
+COM(2014)0510
+
+Summary
+
+A8-0118/2015
+
+Summary
+
+29/04/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+29/04/2015
+
+End of procedure in Parliament
+
+30/09/2015
+
+Final act published in Official Journal
+
+T8-0129/2015
+
+Summary
+
+Technical information
+Procedure reference
+
+2014/2085(DEC)
+
+Procedure type
+
+DEC - Discharge procedure
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CONT/8/01195
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2014)0510
+
+30/07/2014
+
+EC
+
+Committee draft report
+
+PE539.746
+
+22/01/2015
+
+EP
+
+Document attached to the procedure
+
+05303/2015
+
+30/01/2015
+
+CSL
+
+PE541.384
+
+06/02/2015
+
+EP
+
+PE539.829
+
+06/03/2015
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0118/2015
+
+31/03/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0129/2015
+
+29/04/2015
+
+EP
+
+Summary
+
+Committee opinion
+Amendments tabled in committee
+
+LIBE
+
+Summary
+
+Summary
+
+Final act
+Budget 2015/1630
+OJ L 255 30.09.2015, p. 0138 Summary
+
+2014/2085(DEC) - 30/07/2014 Non-legislative basic document
+PURPOSE: presentation by the Commission of the consolidated annual accounts of the European Union for the financial year 2013, as part of
+the 2013 discharge procedure.
+Analysis of the accounts of the EU Institutions: European Data Protection Supervisor.
+Legal reminder: the consolidated annual accounts of the European Union for the year 2013 have been prepared on the basis of the
+information presented by the institutions and bodies under Article 148(2) of the Financial Regulation applicable to the general budget of the
+European Union. They were prepared in accordance with Title IX of this Financial Regulation.
+(1) Purpose: the document helps to bring insight into the EU budget mechanism and the way in which the budget has been managed and
+spent in 2013, including the different expenses of the European institutions. It should be recalled that only the Commission budget contains
+administrative appropriations and operating appropriations. The other Institutions have only administrative appropriations.
+The document also presents the different financial actors involved in the budget process (accounting officers, internal officers and authorising
+officers) and recalls their respective roles in the context of the tasks of sound financial management.
+Amongst the other legal elements relating to the implementation of the EU budget presented in this document, the paper focuses on the
+following issues:
+accounting principles applicable to the management of EU spending (business continuity, consistency of accounting methods,
+comparability of information ...);
+consolidation methods of figures for all major controlled entities (the consolidated financial statements of the EU comprise all
+significant controlled entities institutions, organisations and agencies);
+the recognition of financial assets in the EU (tangible and intangible assets, financial assets and other miscellaneous investments);
+the way in which EU public expenditure is committed and spent, including pre-financing (cash advances intended for the benefit of an
+EU organ);
+
+the means of recovery following irregularities detected;
+the modus operandi of the accounting system;
+the audit process followed by the European Parliament's granting of the discharge.
+Discharge procedure: the final control is the discharge of the budget for a given financial year. The discharge represents the political aspect of
+the external control of budget implementation and is the decision by which the European Parliament, acting on a Council recommendation,
+"releases" the Commission from its responsibility for management of a given budget by marking the end of that budget's existence. When
+granting discharge, Parliament may make observations which it considers important and often recommends the Commission and the other
+institutions to take actions concerning these matters.
+The document also details specific expenditure of the institutions, in particular: (i) pensions of former Members and officials of institutions; (ii)
+joint sickness insurance scheme and (iii) buildings.
+The document also presents a series of tables and detailed technical indicators on (i) the balance sheet; (ii) the economic outturn account; (iii)
+cashflow tables; (iv) technical annexes concerning the financial statements.
+(2) Implementation of the EDPSs appropriations for the financial year 2013: the document comprises a series of detailed annexes, the most
+important concerning the implementation of the budget. As regards the EDPSs expenditure, the information is drawn from the Report on the
+Annual Accounts of the European Data Protection Supervisor 2013.
+The appropriations available for 2013 amounted to 7.66 million with 95.1% of these committed.
+(3) Budgetary implementation - conclusions: in more general and political terms, the implementation of the EDPSs budget in 2013 was
+marked by the following:
+in the consultation area, advising on new legislative measures, the review of the EU legal framework for data protection; the Digital
+Agenda and the privacy risks of new technologies were also significant features of 2013;
+the implementation of the Stockholm Programme in the area of freedom, security and justice and issues in the internal market, such
+as financial sector reform, and in public health and consumer affairs, also had an impact on data protection. The EDPS also increased
+cooperation with other supervisory authorities, particularly with regard to large-scale IT systems (SIS, VIS and Eurodac);
+in the supervision of EU institutions and bodies, when processing personal data, the EDPS interacted with more data protection
+officers in more institutions and bodies than ever before. In addition, it has completed a number of surveys showing that most EU
+institutions and bodies, including many agencies, have made good progress in complying with the Data Protection Regulation,
+although there are still some which should increase their efforts.
+The key EDPS figures in 2013 are:
+91 prior-check Opinions adopted, 21 non-prior check Opinions,
+78 complaints received, 30 admissible,
+37 consultations received on administrative measures,
+8 on-the-spot inspections (including 2 fact finding visits) and 3 visits carried out,
+1 set of Guidelines published on the processing of personal data in the area of procurement,
+20 legislative Opinions published,
+13 sets of formal comments,
+33 informal comments.
+
+2014/2085(DEC) - 31/03/2015 Committee report tabled for plenary, single reading
+The Committee on Budgetary Control adopted the report by Ryszard CZARNECKI (ECR, PL) called on the European Parliament to give
+discharge to the European Data Protection Supervisor (EDPS) in respect of the implementation of the budget of the EDPS for the financial
+year 2013. Members welcomed the conclusion of the Court of Auditors that the payments as a whole for the year ended on 31 December 2013
+for administrative and other expenditure of the EDPS were free from material error and that the supervisory and control systems were
+effective. Furthermore, no significant weaknesses had been identified in respect to the audited topics related to the human resources and
+procurement for the Supervisor.
+Budgetary and financial management: Members observed that the Supervisor had a total allocated budget of EUR 7 661 409 and that the
+implementation rate was 84.7 % (83.2 % in 2012). They found this a positive development and called for further efforts to improve the
+implementation rate. They also noted that the implementation rate of expenditure on persons working with the institution was 93.41 % and that
+the expenditure on buildings, equipment and expenditure in connection with the operation of the institution was 99.14 %.
+Actions of the EDPS: the committee welcomed the fact that the Supervisor took note of the observations made by Parliament in its 2010 and
+2012 discharge resolutions when drawing up his strategy for 2013-2014 and that the implementation of the strategy had brought about positive
+results. However, it made a series of observations on the Ombudsmans daily management and asked for:
+·
+
+information about the budgetary impact of the reorganisation of the Supervisor's secretariat;
+
+·
+
+notification of how many times the video-conference system was used in meetings in 2013;
+
+·
+
+the EDPS continuing to provide the scoreboard in the annual activity report;
+
+·
+
+clarifications on buildings policy;
+
+·
+
+an exhaustive table of all the human resources at the Supervisor's disposal, with a break-down according to grade, sex and
+nationality;
+
+·
+
+the introduction of an equal opportunities plan specifically geared towards management posts;
+
+·
+
+a reduction in the costs of away days;
+
+·
+
+strengthening cooperation with the other institutions to work out a uniform method of presenting translation costs;
+
+·
+
+the introduction of a procedure to assess the possible impact of certain publications in advance, with a view to publishing them along
+with an explanatory report so as to avoid them being used in a biased way.
+
+Lastly, Members were concerned by the delayed adoption of the internal whistleblowing rules. They considered, in general, that the Supervisor
+should pay greater attention to the principle of sound financial management.
+
+2014/2085(DEC) - 29/04/2015 Final act
+PURPOSE: to grant discharge to the European Data Protection Supervisor for the financial year 2013.
+NON LEGISLATIVE ACT: Decision (EU) 2015/1630 of the European Parliament on discharge in respect of the implementation of the general
+budget of the European Union for the financial year 2013, Section IX European Data Protection Supervisor.
+CONTENT: with the present decision, the European Parliament grants the European Data Protection Supervisor discharge in respect of the
+implementation of the budget of the European Data Protection Supervisor for the financial year 2013.
+This decision is in line with the European Parliament's resolution adopted on 29 April 2015 and comprises a series of observations that form
+an integral part of the discharge decision (please refer to the summary of the opinion of 29 April 2015).
+Amongst Parliaments main observations, the latter demanded that the Supervisor present in a transparent manner the building policy, in order
+to confirm that the costs of such a policy are properly rationalised and that such costs are not excessive.
+
+2014/2085(DEC) - 29/04/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 559 votes to 111, with 25 abstentions, a decision to give discharge to the European Data Protection
+Supervisor (EDPS) in respect of the implementation of the budget for the financial year 2013.
+In its resolution accompanying the discharge decision, adopted by 583 votes to 105, with 6 abstentions, Parliament welcomed the fact that the
+Court of Auditors observed that all payments for the year ended on 31 December 2013 relating to human resources and procurement for the
+EDPS were free from material error and that the supervisory and control systems were effective. Furthermore, no significant weaknesses had
+been identified in respect to the audited topics related to the human resources and procurement for the Supervisor.
+Budgetary and financial management: EDPS had a total allocated budget of EUR 7 661 409 and that the implementation rate was 84.7%
+(83.2% in 2012). Members found this a positive development and called for further efforts to improve the implementation rate.
+Actions of the EDPS: Members welcomed the fact that the EDPS took note of the observations made by Parliament in its 2010 and 2012
+discharge resolutions when drawing up its strategy for 2013-2014 and that the implementation of the strategy had brought about positive
+results. They noted that the authorising officer by delegation takes the view that the level of management and control is appropriate and is
+being improved.
+Parliament made a series of observations on the Ombudsmans daily management and asked for:
+continued monitoring of the management of allowances and improvement of EDPS performance levels;
+information about the budgetary impact of the reorganisation of the EDPS secretariat;
+notification of how many times the video-conference system was used in meetings in 2013;
+continuing to provide the scoreboard in the annual activity report;
+clarifications on buildings policy;
+the introduction into the annual report of an exhaustive table of all the human resources at EDPS's disposal, with a break-down
+according to grade, sex and nationality;
+the introduction of an equal opportunities plan specifically geared towards management posts;
+a reduction in the costs of away days;
+strengthening cooperation with the other institutions to work out a uniform method of presenting translation costs;
+the introduction of a procedure to assess the possible impact of certain publications in advance, with a view to publishing them along
+with an explanatory report so as to avoid them being used in a biased way.
+Parliament remains concerned by the delayed adoption of the internal whistleblowing rules. In general, EDPS should pay greater attention to
+the principle of sound financial management.
+
+

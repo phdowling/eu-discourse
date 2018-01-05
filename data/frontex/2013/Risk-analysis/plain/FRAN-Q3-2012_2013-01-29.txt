@@ -1,0 +1,269 @@
+FRAN Quarterly
+Issue 3 • July–September 2012
+
+Q1 Q2
+Q3 Q4
+
+FRAN Quarterly
+Issue 3 • July–September 2012
+
+1 of 70
+
+Frontex official publications fall into four main categories: risk analysis, training, operations
+and research, each marked with a distinct graphic identifier. Risk analysis publications bear a
+triangular symbol formed by an arrow drawing a triangle, with a dot at the centre. Metaphorically, the arrow represents the cyclical nature of risk analysis processes and its orientation
+towards an appropriate operational response. The triangle is a symbol of ideal proportions
+and knowledge, reflecting the pursuit of factual exactness, truth and exhaustive analysis.
+The dot at the centre represents the intelligence factor and the focal point where information from diverse sources converges to be processed, systematised and shared as analytical
+products. Thus, Frontex risk analysis is meant to be at the centre and to form a reliable basis for its operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Rondo ONZ 1
+00-124 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, January 2013
+Risk Analysis Unit
+Frontex reference number: 374
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply the
+expression of any opinion whatsoever on the part of Frontex concerning the legal status of
+any country, territory or city or its authorities, or concerning the delimitation of its frontiers
+or boundaries.
+All maps included in this report are the sole property of Frontex and any unauthorised use is
+prohibited. Frontex disclaims any liability with respect to the boundaries, names and designations used on the maps.
+The contents of open-source boxes are unverified and presented only to give context and
+media representation of irregular-migration phenomena.
+
+ACKNOWLEDGMENTS
+The FRAN Quarterly has been prepared by the Frontex Risk Analysis Unit. During the course
+of developing this product, many colleagues at Frontex and outside contributed to it and their
+assistance is hereby acknowledged with gratitude.
+
+2 of 70
+
+Table of contents
+Executive summary #5
+1. Introduction #8
+2. Methodology #9
+3. Summary of FRAN indicators #10
+4. Situational picture in Q3 2012 #12
+4.1.		Detections of illegal border-crossing #13
+4.2.		Routes #20
+4.3.		Clandestine entry (1B) #29
+4.4.		Detections of facilitators #30
+4.5.		Detections of illegal stay #32
+4.6.		Refusals of entry #34
+4.7.		Asylum claims #34
+4.8.		Document fraud #38
+4.9.		Returns #39
+4.10.Other illegal activities at the border #42
+5. Statistical annex #55
+
+3 of 70
+
+Frontex · FRAN Quarterly · q3 2012
+
+List of abbreviations used
+BCP 				
+border-crossing point
+CeCLAD-M 	Centre de Coordination pour la Lutte Anti-Drogue en Méditerranée
+Democratic Republic of the Congo (Congo-Kinshasa)
+COD			
+EDF-RAN		 European Union Document-Fraud Risk Analysis Network
+EPN				
+European Patrol Network
+EU 				
+European Union
+EUR 				
+euro
+FRAN 			Frontex Risk Analysis Network
+fYROM 			former Yugoslav Republic of Macedonia
+GEO				Grupo Especial de Operaciones
+ICJ		
+			International Court of Justice
+ID 				
+identity document
+IOM 			International Organization for Migration
+JO 				
+Joint Operation
+MS			 	Member State
+NM 				
+nautical mile
+NOK 				
+Norwegian krone
+OCG 			
+organised crime group
+RAU 				Frontex Risk Analysis Unit
+SV		
+			sea vessel
+SEESAC			 South Eastern and Eastern Europe Clearinghouse for the Control of Small Arms
+and Light Weapons
+SIS 				Schengen Information System
+UK 				
+United Kingdom
+UNODC			United Nations Office on Drugs and Crime
+UNHCR			 United Nations High Commissioner for Refugees
+USD				
+United States dollar
+VIN				
+vehicle identification number
+WB-ARA 	Western Balkans Annual Risk Analysis
+WB-RAN 	Western Balkans Risk Analysis Network
+
+Note
+
+As some Member States are unable to distinguish between the Democratic Republic of Congo
+(Congo-Kinshasa) and Congo (Congo-Brazzaville), ‘Congo’ and ‘Congolese’ are used as collective terms for these two countries throughout this report unless otherwise indicated.
+
+4 of 70
+
+Executive summary
+During the third quarter of 2012, several
+FRAN indicators varied radically compared
+to recent reporting periods. Firstly, there
+was a massive reduction in detections of
+illegal-border crossing compared to previous third quarters, widely attributed to increased operational activity by the Greek
+authorities since the beginning of August
+2012 at their land border with Turkey. Secondly, there was the largest number of applications for asylum since data collection
+began in early 2008, for the most part due
+to increased applications submitted by Syrians. Finally, at BCPs there were the most
+refusals of entry and detections of clandestine entries since early 2009.
+Overall, in Q3 2012 there were fewer detections of illegal border-crossing than in any
+previous third quarter, following the launch
+of two Greek Operations: Aspida (Shield),
+which involved the deployment of ~1 800
+Greek police officers to the Greek land border with Turkey, and Xenios Zeus, which
+focused on the inland apprehension of illegally staying persons. The much-increased
+surveillance and patrolling activities at the
+Greek-Turkish land border, combined with
+the lengthening of the detention period to
+up to 6 months, resulted in a drastic drop
+in the number of detections of irregular migrants from ~2 000 during the first week of
+August to below ten per week in each of the
+last few weeks of October. Perhaps somewhat predictably, there were increased detections of illegal border-crossing at both
+the Turkish sea border with Greece and land
+border with Bulgaria, indicative of weak displacement effects from the operational area.
+Also relevant in this area were several detections of significant amounts of heroin con-
+
+cealed in vehicles attempting to cross the
+Bulgarian-Turkish border.
+Despite the clear impact of the Greek operational activities on the number of detections
+of illegal border-crossing, there is little evidence to suggest that the absolute flow of
+irregular migrants arriving in the region has
+decreased in any way. In fact, document fraud
+on flights from Istanbul increased once the
+Greek operations commenced. Hence, there
+remains a very significant risk of a sudden influx of migrants immediately subsequent to
+the end of the operations.
+As far as nationalities are concerned, at the
+EU level migrants from Afghanistan continued to be the most widely detected across
+a range of indicators. For instance, Afghans
+ranked first in terms of detections of illegal
+border-crossing, clandestine entries at BCPs
+and illegal stay, and second for being subject
+to decisions to leave. Hence, this nationality is by far the most significant for irregular migration at the EU level. In contrast to
+most other nationalities, many detected Afghans had previously resided in Iran or Pakistan, rather than their home country. In
+Pakistan, energy shortages in many refugee camps may accelerate departures of Afghans; according to the UNHCR, 400 000
+to 800 000 Afghans are expected to leave
+Pakistan during 2012 and 2013.
+In Q3 2012 Syrian nationals were increasingly
+detected across a wide range of indicators
+and Member States, reflecting the desperate situation in their home country. For example, compared to the previous quarter,
+detections of illegal border-crossing doubled in Q3 2012 to nearly 4 000. As a result
+they ranked second at the EU level for ille-
+
+5 of 70
+
+Frontex · FRAN Quarterly · q3 2012
+
+gal border-crossing. However, subsequent to
+increased operational activity at the Greek
+land border with Turkey, detections of Syrians fell significantly, although slower and to
+a lesser extent than it was the case for other
+nationalities, which reflects Syrians’ desperate plight. Each migrant detected illegally
+crossing the border into Greece is handed a
+decision to leave the country within 7 days
+and, so correspondingly, in Q3 2012 Syrians
+were also subject to twice as many decisions
+to leave compared with the previous quarter.
+Most Syrians continued their journey on to
+other Member States, and so they were also
+increasingly detected as clandestine entries
+across the Western Balkans and using fraudulent documents travelling from Greek to
+(mostly) German airports. According to EDFRAN data, on intra-Schengen flights the most
+commonly detected documents used by Syrians were counterfeit Greek and Romanian ID
+cards, image-substituted Bulgarian ID cards
+and stolen blank Greek residence permits.
+Finally, Syrian nationals submitted twice as
+many asylum applications as in the previous quarter.
+As Greece is a Schengen exclave and also
+(mostly) a transit country, secondary movements from Greece to other EU Member
+States were still detected in very high numbers. For example, at the EU level there were
+more clandestine detections than in any
+other period since data collection began for
+this indicator in 2009, with most increases
+reported from the Western Balkans and of
+nationalities tightly coupled with those detected at the Greek border with Turkey. For
+instance, Slovenia reported more detections
+than any other Member State, mostly of Afghan migrants detected at the border with
+Croatia who were making secondary movements after initially entering the Schengen
+area in Greece.
+
+6 of 70
+
+Similarly, Afghan migrants, together with increasing numbers of nationals from Pakistan,
+Bangladesh and Syria, were also detected arriving on pleasure boats in the southern Italian blue borders of Calabria and Apulia after
+having initially entered the Schengen area
+in Greece. In fact, according to the FRAN
+data there were more detections in these
+regions than ever before. Finally, a wide variety of nationalities were also increasingly
+detected using fraudulent documents on
+flights from Greece to airports in other EU
+Member States, particularly in Germany.
+Although Greece reported more than half of
+all detections of illegal border-crossing, there
+remained significant numbers reported from
+elsewhere, particularly the Central Mediterranean. According to FRAN data, in Q3 2012
+there were more than 3 500 reported detections of illegal border-crossing on the main
+Central Mediterranean route (Italian Pelagic Islands, Sicily and Malta), a significant
+decrease compared to the same reporting
+period in 2011 during the peak associated
+with the Arab Spring, but still the highest
+reported so far in 2012, and higher than the
+pre-Arab Spring peak of 2010. Additionally,
+there were some significant increases of various nationalities such as Tunisians and Egyptians departing from their own countries,
+and Somalis and Eritreans departing from
+Libya. Several reports included details of how
+sub-Saharan migrants were often deceived,
+over-charged or even left to drown by their
+facilitators during the embarkation process.
+Ranking third at the EU level for detections
+of illegal border-crossing, Algerians were also
+detected along a range of border sections,
+which is in contrast to most other nationalities which show strong preferences for
+single entry points. Algerians were equally
+detected at the Greek land border with Turkey, the Spanish land border with Morocco
+and several areas of the Spanish sea border. In total, this amounts to a very signifi-
+
+cant pressure from Algerian migrants, which
+may be overlooked by a regional approach.
+Moreover, they were very rarely refused entry or detected with fraudulent documents,
+suggesting that they tended to avoid BCPs.
+However, with considerable detections they
+ranked fifth at the EU level as illegal stayers and seventh for decisions to leave, both
+mostly in Belgium, which indicates their final destination.
+Albanians continued to be detected illegally
+crossing their land border with Greece at rates
+that remain significant at the EU level (5% of
+all detections) but with a slightly declining trend. They were, however, increasingly
+detected using counterfeit border-crossing
+stamps to fabricate travel histories and extend periods of stay. They were detected
+mostly at their land border with Greece but
+also at the land border of Slovenia.
+
+the mos

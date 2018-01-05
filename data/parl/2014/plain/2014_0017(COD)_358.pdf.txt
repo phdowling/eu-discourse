@@ -1,0 +1,574 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2014/0017(COD)
+
+Procedure completed
+
+Transparency of securities financing transactions and of reuse
+Amending Regulation (EU) No 648/2012 2010/0250(COD)
+Amended by 2016/0365(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+2.80 Cooperation between administrations
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+22/07/2014
+
+SORU Renato
+Shadow rapporteur
+
+HÜBNER Danuta Maria
+
+SWINBURNE Kay
+
+DE BACKER Philippe
+
+KARI Rina Ronja
+
+JOLY Eva
+
+VALLI Marco
+Former committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Committee for opinion
+JURI
+
+Legal Affairs
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Former committee for opinion
+JURI
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+Commissioner
+HILL Jonathan
+
+European Economic and
+Social Committee
+
+Key events
+Legislative proposal published
+
+Summary
+
+29/01/2014
+
+COM(2014)0040
+
+25/02/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+24/03/2015
+
+Vote in committee, 1st reading/single
+reading
+
+24/03/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+09/04/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0120/2015
+
+16/07/2015
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE604.741
+
+28/10/2015
+
+Debate in Parliament
+
+29/10/2015
+
+Results of vote in Parliament
+
+29/10/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+16/11/2015
+
+Act adopted by Council after Parliament's
+1st reading
+
+25/11/2015
+
+Final act signed
+
+25/11/2015
+
+End of procedure in Parliament
+
+23/12/2015
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0387/2015
+
+Technical information
+Procedure reference
+
+2014/0017(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 648/2012 2010/0250(COD)
+Amended by 2016/0365(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/00344
+
+Documentation gateway
+Legislative proposal
+
+COM(2014)0040
+
+29/01/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0030
+
+29/01/2014
+
+EC
+
+Document attached to the procedure
+
+SWD(2014)0031
+
+29/01/2014
+
+EC
+
+Summary
+
+European Central Bank: opinion, guideline, report
+
+CON/2014/0049
+OJ C 336 26.09.2014, p. 0005
+
+24/06/2014
+
+ECB
+
+Committee of the Regions: opinion
+
+CDR1321/2014
+
+26/06/2014
+
+CofR
+
+Economic and Social Committee: opinion, report
+
+CES1466/2014
+
+09/07/2014
+
+ESC
+
+Committee draft report
+
+PE544.170
+
+22/12/2014
+
+EP
+
+Amendments tabled in committee
+
+PE549.104
+
+04/02/2015
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0120/2015
+
+09/04/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0387/2015
+
+29/10/2015
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2015)750
+
+10/12/2015
+
+COM(2017)0604
+
+19/10/2017
+
+Follow-up document
+
+Summary
+
+EC
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2015/2365
+OJ L 337 23.12.2015, p. 0001 Summary
+Final legislative act with provisions for delegated acts
+
+2014/0017(COD) - 29/01/2014 Legislative proposal
+PURPOSE: to improve transparency in securities financing transactions (SFT) and therefore in the financial system.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the 2008 global financial crisis revealed important regulatory gaps in the financial system. It also highlighted the need to
+improve transparency and monitoring not only in the traditional banking sector but also in areas where non-bank credit activities took place,
+called shadow banking.
+Confronted with new legislative developments in the banking sector, including structural measures, it is possible that banks will shift parts of
+their activity into less regulated areas as shadow banking. At the end of 2012 global shadow banking assets accounted for EUR 53 trillion,
+representing about half the size of the regulated banking system and mainly concentrated in Europe (around EUR 23 trillion) and in the United
+States (around EUR 19.3 trillion).
+On 19 March 2012, the Commission published a Green Paper on shadow banking, and on 4 September 2013, it published a Communication
+on the subject. It stressed that the complex and opaque nature of securities financing transactions (SFTs) makes it difficult to identify
+counterparties and monitor risk concentration. This also leads to the built-up of excessive leverage in the financial system. A High-Level Expert
+Group chaired by Erkki Liikanen adopted a report on reforming the structure of the Union banking sector in October 2012. The report
+recognised the risks of shadow banking activities such as high leverage and pro- cyclicality, and it called for a reduction of the
+interconnectedness between banks and the shadow banking system, which had been a source of contagion in a system-wide banking crisis.
+Actions regarding these matters have been international and coordinated through the G20 and the Financial Stability Board (FSB) which, in
+August 2013, adopted a policy framework consisting of eleven Recommendations addressing shadow banking risks in securities lending and
+repos. These Recommendations were subsequently endorsed in September 2013 by the G20 Leaders.
+In order to closely follow market trends regarding entities whose activities qualify as shadow banking, in particular in the area of securities
+financing transactions, the Commission feels it necessary to implement transparency requirements.
+The proposal regarding structural reforms of the EU banking sector, which is presented in a package with this proposal, is the final piece of the
+new regulatory framework, ensuring that even the largest banks in the EU become less complex and can be effectively resolved, with
+minimum implications for tax payers.
+IMPACT ASSESSMENT: the impact assessment concludes that a combination of different measures is necessary including reporting of SFTs
+to trade repositories, disclosure on the use of SFTs to fund investors, and the need for prior consent to rehypothecation of the financial
+instruments. The latter must be transferred to an account opened in the name of the receiving counterparty before rehypothecation can take
+
+place.
+This will ensure that the shadow banking activity of using SFTs is properly supervised and regulated. The use of SFTs as such will not be
+prohibited nor limited by specific restrictions but be more transparent.
+CONTENT: the Regulation aims at enhancing financial stability in the EU by means of increasing transparency of certain market activities,
+such as SFTs, rehypothecation and other financing structures having equivalent economic effect as SFTs.
+The Regulation introduces measures to improve the transparency in three main areas: (1) the monitoring of the build-up of systemic risks
+related to SFT transactions in the financial system; (2) the disclosure of the information on such transactions to the investors whose assets are
+employed in these or equivalent transactions; and (3) the contractual transparency of rehypothecation activities.
+In practice, the proposed measures will cover the FSB recommendations, these being:
+The obligation for competent authorities to collect additional data on the use of SFTs: the draft Regulation creates a Union framework under
+which financial or non-financial counterparties of a SFT will efficiently report the details of the transaction to trade repositories.
+This information will be centrally stored and easily and directly accessible to the relevant authorities, such as ESMA, ESRB, the ESCB, for the
+purpose of identification and monitoring of financial stability risks entailed by shadow banking activities of regulated and non-regulated entities.
+The requirement that requires fund managers be transparent towards their investors: in order to enable investors to become aware of the risks
+associated with the use of SFTs and other financing structures, fund managers should include detailed information on any recourse they have
+to these techniques in regular reporting intervals. The existing periodical reports that UCITS management or investment companies and AIF
+managers have to produce will be supplemented by this additional information on the use of SFTs and other financing structures.
+The requirement for financial intermediaries to provide sufficient disclosure to their clients in relation to re-hypothecation of assets: any
+rehypothecation should therefore take place only with the express knowledge of inherent risks and prior consent of the providing counterparty
+in a contractual agreement and should be appropriately reflected in the securities accounts.
+The counterparty receiving financial instruments as collateral will be allowed to rehypothecate them only with the express consent of the
+providing counterparty and only after having them transferred to its own account.
+BUDGETARY IMPLICATIONS: the proposal involves the hiring of two new temporary agents at EBA from January 2016. The new tasks will be
+carried out with the human resources available within the annual budgetary allocation procedure, and in line with the financial programming for
+agencies.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2014/0017(COD) - 24/06/2014 European Central Bank: opinion, guideline, report
+OPINION OF THE EUROPEAN CENTRAL BANK (ECB) on a proposal for a Regulation of the European Parliament and of the Council on
+reporting and transparency of securities financing transactions (SFTs).
+The ECB broadly welcomes the proposed regulation, which is aimed at increasing the safety and transparency of the financial market, in line
+with recommendations issued by the Financial Stability Board (FSB) and endorsed in September 2013 by the G20 leaders. The ECB considers
+that the new uniform rules on reporting and transparency of SFTs, as well as the provisions on rehypothecation, may play an important role in
+enhancing financial stability in the Union.
+The ECB makes the following recommendations:
+Exemption for central bank transactions from reporting and transparency obligations: the ECB notes that proposed reporting and transparency
+framework does not provide an exemption with regard to transactions to which an ESCB central bank is a counterparty. The ECB would
+strongly recommend including a transaction-based exemption in the proposed regulation. Failure to include such an exemption would have the
+same effect as imposing such reporting and transparency obligations on the ESCB itself.
+Clarification of the Commissions power to amend the list of exemptions: the ECB suggests clarifying Article 2(3) of the proposed regulation,
+which gives the Commission power to amend the list of exemptions under Article 2(2) by means of a delegated act. The ECB considers that
+Article 2(3) should contain a direct reference to the possibility of extending the list of exemptions to include central banks of third countries.
+Rehypothecation: with regard to contractual transparency requirements, the proposed regulation does not make a distinction between financial
+collateral transferred under a title transfer financial collateral arrangement and provided under a security financial collateral arrangement within
+the meaning of Directive 2002/47/EC of the European Parliament and of the Council.
+The ECB notes that a collateral taker should not be restricted from enjoying full ownership or full entitlement to the financial collateral, once a
+title transfer financial collateral arrangement has been entered into. It should be clarified that entering into a title transfer financial collateral
+arrangement already implies a consent to reuse and that any breach of requirements under Article 15 will not affect the validity or
+enforceability of the SFT, and the receiving counterparty could only be subject to administrative sanctions under the proposed regulation.
+The ECB notes that the proposed regulation focuses only on introducing reporting and transparency requirements. However, the recent
+financial crisis has shown that significant financial stability risks may arise from the practices of reuse and rehypothecation of client assets.
+Therefore, the ECB considers that it is important for the Commission to assess the need for further regulatory measures, which go beyond the
+proposed reporting and transparency requirements, including quantitative limits on reuse and on rehypothecation of client assets , which could
+be implemented in a future legal act.
+Modalities for the reporting of data on securities financing transaction (SFTs): the ECB recommends that the SFT details should be reported,
+compiled and made accessible to the ESCB with the maximum degree of granularity and in a fully standardised form.
+With regard to the data items to be reported, the ECB recommends that the technical standards prepared under the proposed regulation
+require details of the individual assets being used as collateral and the principal amount, currency, type, quality and value of each asset to be
+
+reported. The technical standards should also allow reporting of individual assets subject to securities or commodities lending or borrowing.
+In addition, the ECB suggests that the technical standards should require counterparties to report additional items to facilitate more
+comprehensive monitoring for financial stability purposes and for the fulfilment of the ESCB tasks.
+Lastly, the ECB recommends that technical standards under the proposed regulation require the reported data to include appropriate
+identifiers by using current and forthcoming internationally agreed standards. ESMA should make the use of such identifiers obligatory for all
+counterparties which fall within the scope of the proposed regulation, in particular, the international securities identification number (ISIN), the
+global legal entity identifier (LEI) and a unique trade identifier.
+
+2014/0017(COD) - 09/04/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Renato SORU (S&D, IT) on the proposal for a regulation of the
+European Parliament and of the Council on reporting and transparency of securities financing transactions.
+The committee recommended that the European Parliaments position at first reading following the ordinary legislative procedure should
+amend the Commission proposal as follows:
+Securities financing transactions (SFTs): the Regulation should cover repurchase transactions, securities or commodities lending, securities or
+commodities borrowing, buy-sell back or sell-buy back transactions, liquidity swaps and collateral swap transactions as laid down in Regulation
+(EU) No 575/2013 or total return swaps as defined in Commission Regulation (EU) No 231/2013.
+Reporting obligation: counterparties to securities financing transactions (SFTs) shall report the details of such transactions to a trade repository
+registered or recognised in accordance with this Regulation. The details shall be reported no later than the third working day following the
+conclusion, modification or termination of the transaction but as soon as the reporting is possible.
+The central banks of the European System of Central Banks (ESCB) are exempt from the obligation to report their SFTs to trade repositories
+but must cooperate with competent authorities, including by providing them directly with a description of their SFTs, upon request.
+Transparency obligation towards investors: the amended text stipulated that securities financing transactions are also used by other financial
+counterparties, such as credit institutions, and by non-financial counterparties, thereby creating specific risks for those who hold shares or who
+are clients of those counterparties.
+Members proposed that credit institutions should therefore disclose their activities in SFTs. Likewise, listed companies are required to disclose
+any activities in SFTs to their shareholders, who should be able to make informed choices about the risk profile of the companies in which they
+invest.
+Consequently, those credit institutions and listed companies should also inform the public of their activities in SFTs as part of their regular
+public report.
+Transparency and re-use: this Regulation shall apply to a counterparty engaging in re-use that is established in the Union, including all its
+branches irrespective of where they are located or in third country, under specific conditions.
+The term "re-use" is defined as the use by a receiving counterparty, in its own name and for its own account or for the account of another
+counterparty, including any natural person.
+Members specified the conditions to be met for the counterparties to be able to re-use the financial instruments received as collateral.
+Report and review: by 15 months following the entry into force of the Regulation, the Commission shall submit a report on the effectiveness
+and efficiency of this Regulation and on further international efforts to enhance the transparency of securities financing transaction markets as
+well as to further mitigate the risks associated with these transactions. The Commission shall submit that report together with any appropriate
+legislative proposals.
+
+2014/0017(COD) - 29/10/2015 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 546 votes to 89, with 7 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on reporting and transparency of securities financing transactions.
+The European Parliaments position at first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Subject matter and definitions: this Regulation lays down rules on the transparency of securities financing transactions (SFTs) and of reuse.
+Under this proposal, "reuse" shall mean the use by a receiving counterparty, in its own name and on its own account or on the account of
+another counterparty, including any natural person, of financial instruments received under a collateral arrangement.
+The Regulation seeks to create a Union framework under which details of SFTs can be efficiently reported to trade repositories and
+information on SFTs and total return swaps is disclosed to investors in collective investment undertakings.
+The definition of "securities or commodities lending" or "securities or commodities borrowing" has been defined as well as "buy-sell back
+transaction" or "sell-buy back transaction" and "repurchase transaction" and "margin lending transaction".
+Reporting obligation and safeguarding in respect of SFTs: counterparties to SFTs shall report the details of any SFT they have concluded, as
+well as any modification or termination thereof, to a trade repository registered. Those details shall be reported no later than the working day
+following the conclusion, modification or termination of the transaction.
+Transactions with members of the European System of Central Banks (ESCB) should be exempted from the obligation to report SFTs to trade
+repositories.
+Counterparties shall keep a record of any SFT that they have concluded, modified or terminated for at least five years following the termination
+
+of the transaction.
+In order to ensure consistent application of this Regulation, the ESMA shall:
+develop draft regulatory technical standards specifying the details of the reports;
+develop draft implementing technical standards specifying the format and frequency of the reports. The format shall include, in
+particular: (a) global legal entity identifiers (LEIs), or pre-LEIs until the Global Legal Entity Identifier System is fully implemented; (b)
+international securities identification numbers (ISINs); and (c) unique trade identifiers.
+Transparency: information on the risks inherent in securities financing markets should be centrally stored, and easily and directly accessible
+by, inter alia, ESMA, the European Supervisory Authority (European Banking Authority) ("EBA"), the European Supervisory Authority
+(European Insurance and Occupational Pensions Authority) ("EIOPA"), the relevant competent authorities, the ESRB and the relevant central
+banks of the ESCB, including the European Central Bank (ECB).
+Parliament also enhanced measures as regards the transparency of collective investment undertakings in pre-contractual documents and in
+periodical reports.
+Reuse of financial instruments received under a collateral arrangement: in order to increase transparency of reuse, minimum information
+requirements should be imposed. Reuse should take place only with the express knowledge and consent of the providing counterparty.
+This measure is without prejudice to stricter sectoral legislation and to national law that aims to ensure a higher level of protection for providing
+counterparties.
+Cooperation between the competent authorities: the amended Regulation introduces provisions on the exchange of information between
+competent authorities and to strengthen the duties of assistance and cooperation which they owe each other.
+Due to increasing cross-border activity, competent authorities should provide each other with the relevant information for the exercise of their
+functions in order to ensure the effective enforcement of this Regulation, including in situations where infringements or suspected
+infringements may be of concern to authorities in two or more Member States. In the exchange of information, strict professional secrecy is
+needed to ensure the smooth transmission of that information and the protection of particular rights.
+Equivalence of reporting: the Commission may adopt implementing acts determining that the legal, supervisory and enforcement
+arrangements of a third country: (a) are equivalent to the requirements regarding the reporting obligation and safeguarding laid down in the
+Regulation; (b) ensure protection of professional secrecy equivalent to that laid down in this Regulation; (c) are being effectively applied and
+enforced in an equitable and non-distortive manner in order to ensure effective supervision and enforcement in that third country.
+Sanctions: competent authorities may have the power to apply at least the following administrative sanctions and other administrative
+measures in the event of the infringements. In respect of legal persons, maximum administrative pecuniary sanctions of at least:
+EUR 5 000 000 or up to 10 % of the total annual turnover of the legal person according to the last available accounts approved by the
+management body for infringements regarding the reporting obligation and safeguarding;
+EUR 15 000 000 or up to 10 % of the total annual turnover of the legal person according to the last available accounts approved by
+the management body for infringements regarding the reuse of financial instruments received under a collateral arrangement.
+The powers to impose sanctions conferred on competent authorities should be without prejudice to the exclusive competence of the ECB,
+pursuant to Regulation (EU) No 1024/2013, to withdraw authorisations of credit institutions for prudential supervisory purposes.
+Reports: with the assistance of ESMA, the Commission should monitor and prepare reports to the European Parliament and to the Council on
+the international application of the reporting obligation laid down in this Regulation. The time provided for submission of the Commission
+reports should allow for the prior effective application of this Regulation.
+Following the outcome of the work carried out by relevant international fora, and with the assistance of ESMA, EBA and the ESRB, the
+Commission should submit a report to the European Parliament and to the Council on progress in international efforts to mitigate the risks
+associated with SFTs, including the FSB recommendations for haircuts on non-centrally cleared SFTs, and on the appropriateness of those
+recommendations for Union markets.
+
+2014/0017(COD) - 25/11/2015 Final act
+PURPOSE: to enhance the transparency of certain activities in financial markets such as the use of SFTs and reuse of collateral in order to
+enable the monitoring and identification of the corresponding risks.
+LEGISLATIVE ACT: Regulation (EU) 2015/2365 of the European Parliament and of the Council on transparency of securities financing
+transactions and of reuse and amending Regulation (EU) No 648/2012.
+CONTENT: a lack of transparency in the use of SFTs has prevented regulators and supervisors as well as investors from correctly assessing
+and monitoring the respective bank-like risks and level of interconnectedness in the financial system in the period preceding and during the
+financial crisis.
+This Regulation lays down rules on the transparency of securities financing transactions (SFTs) and of reuse . It creates a Union framework
+under which details of SFTs can be efficiently reported to trade repositories and information on SFTs and total return swaps is disclosed to
+investors in collective investment undertakings. It is intended to counter the risk of trading activities developing outside the regulated banking
+system, or otherwise without proper oversight.
+The definition of securities financing transaction or SFT shall cover a repurchase transaction; securities or commodities lending and
+securities or commodities borrowing; a buy-sell back transaction or sell-buy back transaction and a margin lending transaction.
+Reuse shall mean the use by a receiving counterparty, in its own name and on its own account or on the account of another
+counterparty, including any natural person, of financial instruments received under a collateral arrangement.
+Reporting obligation and safeguarding: counterparties to SFTs shall report the details of any SFT they have concluded, as well as any
+
+modification or termination thereof, to a trade repository registered with European Securities and Markets Authority (ESMA) or recognised in
+accordance with this Regulation. Those details shall be reported no later than the working day following the conclusion, modification or
+termination of the transaction.
+Counterparties shall keep a record of any SFT that they have concluded, modified or terminated for at least five years following the termination
+of the transaction.
+In order to ensure consistent application of this Regulation, ESMA shall, in close cooperation with, and taking into account the needs of, the
+European System of Central Banks (ESCB): (i) develop draft regulatory technical standards specifying the details of the reports for the
+different types of SFTs; (b) develop draft implementing technical standards specifying the format and frequency of the reports for the different
+types of SFTs.
+Transparency towards investors: in order to enable investors to become aware of the risks associated with the use of SFTs and total return
+swaps, managers of collective investment undertakings should include detailed information on any recourse they have to those techniques in
+periodical reports.
+A collective investment undertakings investment policy with respect to SFTs and total return swaps should be clearly disclosed in the
+pre-contractual documents, such as the prospectus for undertakings for collective investment in transferable securities (UCITS) and the
+pre-contractual disclosure to investors for alternative investment funds (AIFs).
+Transparency of reuse: reuse of collateral provides liquidity and enables counterparties to reduce funding costs. However, it tends to create
+complex collateral chains between traditional banking and shadow banking, giving rise to financial stability risks. The lack of transparency on
+the extent to which financial instruments provided as collateral have been reused and the respective risks in the case of bankruptcy can
+undermine confidence in counterparties and magnify risks to financial stability.
+In order to increase transparency of reuse, minimum information requirements should be imposed. Reuse should take place only with the
+express knowledge and consent of the providing counterparty.
+Cooperation between competent authorities: the Regulation provides that the competent authorities referred to in the Regulation and ESMA
+shall cooperate closely with each other and exchange information for the purpose of carrying out their duties pursuant to this Regulation, in
+particular in order to identify and remedy infringements of this Regulation.
+A competent authority may refuse to act on a request to cooperate and exchange information in exceptional circumstances.
+Any confidential information received, exchanged or transmitted shall be subject to the conditions of professional secrecy.
+Relationship with third countries: in order to ensure uniform conditions for the implementation of this Regulation, implementing powers should
+be conferred on the Commission to take decisions on the assessment of the rules of third countries for the purposes of recognising
+third-country trade repositories, and in order to avoid potentially duplicate or conflicting requirements.
+Where appropriate, the Commission should cooperate with third-country authorities in order to explore mutually supportive solutions to ensure
+consistency between this Regulation and the requirements established by those third countries and thus avoid any possible duplication in this
+respect.
+ESMA shall publish on its website a list of the trade repositories recognised in accordance with this Regulation.
+Sanctions: Member States shall ensure that competent authorities have the power to impose administrative sanctions and other administrative
+measures which are effective, proportionate and dissuasive. These sanctions shall satisfy certain essential requirements in relation to
+addressees, criteria to be taken into account when applying a sanction or measure, publication of sanctions or measures, key powers to
+impose sanctions and levels of administrative pecuniary sanctions.
+Reports: with the assistance of ESMA, the Commission shall monitor and prepare reports to the European Parliament and to the Council on
+the international application of the reporting obligation laid down in this Regulation. The time provided for submission of the Commission
+reports shall allow for the prior effective application of this Regulation.
+By 13 October 2017, the Commission shall submit a report on progress in international efforts to mitigate the risks associated with SFTs.
+ENTRY INTO FORCE AND APPLICATION: from 12.01.2016 (with the exception of certain provisions which shall apply at the end of a delay
+following the adoption of the delegated acts by the Commission).
+DELEGATED ACTS: the Commission should be empowered to adopt regulatory technical standards in the following areas: the details to be
+reported for different types of SFTs; the details of the application for registration or extension of the registration of a trade repository, etc. The
+power to adopt delegated acts shall be conferred on the Commission for an indeterminate period of time from 12 January 2016. The European
+Parliament or the Council may formulate objections with regard to the delegated act within a period of two months of its notification (this period
+may be extended by two months). If the European Parliament and the Council object, the delegated act may not enter into force.
+
+

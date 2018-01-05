@@ -1,0 +1,155 @@
+Procedure file
+Basic information
+RSP - Resolutions on topical subjects
+
+2013/2831(RSP)
+
+Procedure completed
+
+Resolution on the suspension of the TFTP agreement as a result of US
+National Security Agency surveillance
+
+Subject
+1.20.09 Protection of privacy and data protection
+2.50.04.02 Electronic money and payments, cross-border credit transfers
+6.40.11 Relations with industrialised countries
+7.30.20 Action to combat terrorism
+Geographical area
+United States
+
+Key players
+European Parliament
+European Commission
+
+Commission DG
+
+Commissioner
+
+Migration and Home Affairs
+
+MALMSTRÖM Cecilia
+
+Key events
+09/10/2013
+
+Debate in Parliament
+
+23/10/2013
+
+Results of vote in Parliament
+
+23/10/2013
+
+Decision by Parliament, 1st
+reading/single reading
+
+23/10/2013
+
+End of procedure in Parliament
+
+Summary
+
+T7-0449/2013
+
+Technical information
+Procedure reference
+
+2013/2831(RSP)
+
+Procedure type
+
+RSP - Resolutions on topical subjects
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 123-p2
+
+Stage reached in procedure
+
+Procedure completed
+
+Documentation gateway
+Motion for a resolution
+
+B7-0467/2013
+
+16/10/2013
+
+EP
+
+Motion for a resolution
+
+B7-0468/2013
+
+16/10/2013
+
+EP
+
+Motion for a resolution
+
+B7-0471/2013
+
+16/10/2013
+
+EP
+
+Motion for a resolution
+
+B7-0472/2013
+
+16/10/2013
+
+EP
+
+Motion for a resolution
+
+B7-0481/2013
+
+16/10/2013
+
+EP
+
+RC-B7-0468/2013
+
+16/10/2013
+
+T7-0449/2013
+
+23/10/2013
+
+Joint motion for resolution
+Text adopted by Parliament, single reading
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)62
+
+07/03/2014
+
+2013/2831(RSP) - 23/10/2013 Text adopted by Parliament, single reading
+The European Parliament adopted by 280 votes to 254, with 30 abstentions a resolution on the suspension of the TFTP agreement as a result
+of US National Security Agency surveillance.
+The resolution was tabled by the S&D, Greens/EFA and ALDE groups.
+It asked the Commission to suspend the Agreement on the processing and transfer of Financial Messaging Data from the EU to the US for the
+purposes of the Terrorist Finance Tracking Program (TFTP Agreement). Members were seriously concerned about recently revealed
+documents on the NSAs activities as regards direct access to financial payment messages and related data, which would constitute a clear
+breach of the Agreement. Although Parliament had no formal powers under Article 218 TFEU to initiate the suspension or termination of an
+international agreement, Members considered that the Commission would have to act if Parliament withdrew its support for a particular
+agreement. They pointed out that, when considering whether or not to give its consent to future international agreements, Parliament would
+take account of the responses of the Commission and the Council in relation to this Agreement.
+Members called for a full on-site technical investigation into allegations that the US authorities have had unauthorised access or created
+possible back doors in the SWIFT servers. They deplored the fact that no Member State has launched, or asked for, an investigation, in the
+absence of which the facts cannot be verified. The Council and Member States are asked to authorise an investigation by the Europol
+Cybercrime Centre into the allegations of unauthorised access to financial payment data governed by the Agreement. Parliament also called
+on the special inquiry by the Committee on Civil Liberties, Justice and Home Affairs into the mass surveillance of EU citizens to further
+investigate the allegations of unlawful access to financial payment messages covered by the Agreement.
+All relevant information and documents should be made available immediately for Parliaments deliberations.
+Lastly, Parliament reiterated the need to base any data sharing agreement with the US on a coherent legal data protection framework offering
+legally binding personal data protection standards, including with regard to purpose limitation, data minimisation, information, access,
+correction, erasure and redress.
+
+

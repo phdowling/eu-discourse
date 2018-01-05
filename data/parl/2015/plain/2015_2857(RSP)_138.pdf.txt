@@ -1,0 +1,141 @@
+Procedure file
+Basic information
+2015/2857(RSP)
+
+RSP - Resolutions on topical subjects
+
+Procedure completed
+
+Resolution on allocation by the World Radiocommunication Conference, to
+be held in Geneva from 2 to 27 November 2015 (WRC-15), of the necessary
+radio spectrum band to support the future development of a satellite-based
+technology to enable global flight tracking systems
+
+Subject
+3.20.01.01 Air safety
+3.20.15.02 Air transport agreements and cooperation
+3.30.03.06 Communications by satellite
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+European Commission
+
+Rapporteur
+
+Appointed
+
+Transport and Tourism
+
+Commission DG
+
+Commissioner
+
+Mobility and Transport
+
+BULC Violeta
+
+Key events
+29/10/2015
+
+Results of vote in Parliament
+
+29/10/2015
+
+Debate in Parliament
+
+29/10/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+29/10/2015
+
+End of procedure in Parliament
+
+Summary
+
+T8-0392/2015
+
+Technical information
+Procedure reference
+
+2015/2857(RSP)
+
+Procedure type
+
+RSP - Resolutions on topical subjects
+
+Procedure subtype
+
+Debate or resolution on oral question/interpellation
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 128-p5
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+TRAN/8/04536
+
+Documentation gateway
+Oral question/interpellation by Parliament
+
+B8-1101/2015
+
+26/10/2015
+
+EP
+
+Motion for a resolution
+
+B8-1094/2015
+
+26/10/2015
+
+EP
+
+Text adopted by Parliament, single reading
+
+T8-0392/2015
+
+29/10/2015
+
+EP
+
+SP(2016)67
+
+15/03/2016
+
+Commission response to text adopted in plenary
+
+Summary
+
+2015/2857(RSP) - 29/10/2015 Text adopted by Parliament, single reading
+The European Parliament adopted by 425 votes to 31 with 6 abstentions a resolution tabled the Committee on Transport and Tourism on
+allocation by the World Radiocommunication Conference, to be held in Geneva from 2 to 27 November 2015 (WRC-15), of the necessary
+radio spectrum band to support the future development of a satellite-based technology to enable global flight tracking systems.
+Recalling the tragedies involving Air France flight AF447 in June 2009 and Malaysia Airlines flight MH370 in March 2014, Parliament stated its
+support for the Commissions action aimed at rapidly developing a performance-based global flight tracking system that would enable air
+navigation service providers to determine the position of public transport aircraft at all times, even in remote locations. It stressed that such a
+system should remain effective even in the event of loss of normal electrical power on board, and should not offer any possibility of being
+disabled during the flight.
+Parliament noted that the Commission, in cooperation with the European Aviation Safety Agency (EASA), the International Civil Aviation
+Organisation (ICAO) and stakeholders, had started to study various technical options and had proposed rules on aircraft tracking with phased
+implementation. Among the possible options currently being studied, the Automatic Dependent Surveillance Broadcast (ADS-B) technology,
+supported by satellite communications, appeared to be very promising. The development of satellite-supported ADS-B technology might
+require the allocation of an appropriate radio spectrum band in order to prevent any interference.
+Accordingly, Parliament called on the Commission to take the necessary steps with a view to the next World Radiocommunication Conference
+(WRC-15), to be held in Geneva in November 2015 regarding the allocation of the necessary radio spectrum band to support the future
+development of a satellite-based global flight tracking system. The resolution stressed that when implementing ADS-B technology, it was
+essential to consider the needs of all airspace users and to ensure interoperability between alternative technologies in order to avoid safety
+and security breaches.
+
+

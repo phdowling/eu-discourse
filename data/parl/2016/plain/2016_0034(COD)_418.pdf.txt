@@ -1,0 +1,374 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2016/0034(COD)
+
+Procedure completed
+
+Markets in financial instruments; market abuse; securities settlement in the
+EU and central securities depositories: certain dates
+Amending Regulation (EU) No 596/2014 2011/0295(COD)
+Amending Regulation (EU) No 600/2014 2011/0296(COD)
+Amending Regulation (EU) No 909/2014 2012/0029(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+04/02/2016
+
+FERBER Markus
+Shadow rapporteur
+
+DODDS Anneliese
+
+SWINBURNE Kay
+
+VAN NIEUWENHUIZEN
+Cora
+
+DE MASI Fabio
+
+GIEGOLD Sven
+KAPPEL Barbara
+Committee for opinion
+DEVE
+
+Development
+
+Rapporteur for opinion
+The committee decided not to
+give an opinion.
+
+ITRE
+
+Industry, Research and Energy
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+Appointed
+
+Commissioner
+HILL Jonathan
+
+European Economic and
+Social Committee
+
+Key events
+10/02/2016
+
+Legislative proposal published
+
+COM(2016)0057
+
+Summary
+
+25/02/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+07/04/2016
+
+Vote in committee, 1st reading/single
+reading
+
+07/04/2016
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+11/04/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0125/2016
+
+24/05/2016
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE604.829
+
+07/06/2016
+
+Results of vote in Parliament
+
+07/06/2016
+
+Debate in Parliament
+
+07/06/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+17/06/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+22/06/2016
+
+End of procedure in Parliament
+
+23/06/2016
+
+Final act signed
+
+30/06/2016
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0244/2016
+
+Technical information
+Procedure reference
+
+2016/0034(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 596/2014 2011/0295(COD)
+Amending Regulation (EU) No 600/2014 2011/0296(COD)
+Amending Regulation (EU) No 909/2014 2012/0029(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/05722
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0057
+
+10/02/2016
+
+EC
+
+Committee draft report
+
+PE576.963
+
+16/02/2016
+
+EP
+
+Amendments tabled in committee
+
+PE578.559
+
+02/03/2016
+
+EP
+
+A8-0125/2016
+
+11/04/2016
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+Summary
+
+Summary
+
+European Central Bank: opinion, guideline, report
+
+CON/2016/0027
+OJ C 223 21.06.2016, p. 0003
+
+29/04/2016
+
+ECB
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0244/2016
+
+07/06/2016
+
+EP
+
+Commission response to text adopted in plenary
+
+SP(2016)487
+
+14/07/2016
+
+Summary
+
+Final act
+Regulation 2016/1033
+OJ L 175 30.06.2016, p. 0001 Summary
+
+2016/0034(COD) - 10/02/2016 Legislative proposal
+PURPOSE: to extend the date of entry into application of both instruments that are comprised in MIFID II on markets in financial instruments.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: Directive 2014/65/EU (MiFID) together with Regulation (EU) No 600/2014 (MiFIR) was adopted in the wake of the financial
+crisis. MiFID and MiFIR, collectively referred to as MiFID II, covers securities markets, investment intermediaries and trading venues. The new
+framework reinforces and replaces the current MiFID framework (Directive 2004/39/EC).
+Member States need to transpose the Directive by 3 July 2016. Both MiFID and MiFIR are scheduled to apply as of 3 January 2017 .
+During the legislative process, the very high level of complexity of the MiFID II package and the need for a significant number of implementing
+measures were recognised. To this end, a period of 30 months was foreseen between the adoption and the entry into application, instead of
+the usual 18-24 months.
+Despite this unusually long period, ESMA has made clear to the Commission that the technical implementing challenges are of such
+magnitude that essential data infrastructures will not be in place in time for 3 January 2017. This is a result of significant challenges in
+collecting the data that is necessary for the operation of the MiFID II rules.
+The absence of data has ramifications across multiple areas of MIFID II. As regards market regulation, it is clear that without the foundation of
+reference data (instrument ID) and the additional data infrastructures for transparency calculations and position reporting in place, it will not be
+possible to apply the majority of the market rules.
+In order to ensure legal certainty and avoid potential market disruption, urgent action is therefore needed to adjust the date of entry into
+application for MiFID II
+Changing the date of applicability of MiFID II does however have consequences for the applicability of other legislation, in particular Regulation
+(EU) 596/2014 ('MAR' market abuse) and Regulation (EU) 909/2014 ('CSDR' - central securities depositories regulation).
+CONTENT: the purpose of the draft proposal amending Regulation (EU) No 600/2014 on markets in financial instruments is to extend the
+entry into application of both instruments that are comprised in the MIFID II package as a result of the technical implementation challenges met
+by the European Securities and Markets Authority ('ESMA'), national competent authorities ('NCAs') and stakeholders.
+In order to enable ESMA, NCAs and stakeholders to complete the operational implementation, the Commission considered it appropriate to
+defer the date of application of Regulation (EU) No 600/2014 by 12 months until 3 January 2018 . Reports and reviews should be deferred
+accordingly.
+The Commission stated that an extension of one year should provide sufficient and reasonable time for ESMA, NCAs and operators to put in
+place the infrastructure for data collection, reporting and the transparency threshold calculations.
+In order to ensure that references in Regulation (EU) 596/2014 to organised trading facilities, small and medium-sized enterprises ('SME')
+growth markets, emission allowances or auctioned products based thereon do not apply until the date of application of Regulation (EU) No
+600/2014 and Directive 2014/65/EU, Article 39(4) of Regulation (EU) 596/2014 stating that references to them are read as references to
+Directive 2004/39/EC should be adjusted taking into account the extension of the date of application of those acts.
+In order to ensure that Directive 2004/39/EC is referenced in Regulation (EU) 909/2014 until the extended date of application of Regulation
+(EU) No 600/2014 and Directive 2014/65/EU and that the transitional provisions for MTFs applying for registration as SME growth markets
+under Regulation (EU) 909/2014 are maintained so as to provide sufficient time for MTFs to apply for such registration under Directive
+2014/65/EU, it is proposed that Regulation (EU) 909/2014 should be amended.
+
+2016/0034(COD) - 11/04/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Markus FERBER (EPP, DE) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 600/2014 on markets in financial instruments, Regulation (EU) No
+596/2014 on market abuse and Regulation (EU) No 909/2014 on improving securities settlement in the European Union and on central
+securities depositories as regards certain dates.
+
+The committee recommended that the European Parliaments position adopted at first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Through their amendments, Members sought to specify that, for the purpose of Regulation (EU) No 600/2014, the specific circumstances in
+which pre-trade transparency should not apply to package transactions, nor to any individual component of such transactions.
+Supporting these amendments, Members proposed to add a recital stipulating that investment firms often execute, on their own account or on
+behalf of their clients, transactions in derivatives and other financial instruments or assets that comprise a number of interlinked, contingent
+trades.
+Such package transactions enable investment firms and their clients to better manage their risks, with the price of each component of the
+package transaction reflecting the overall risk profile of the package rather than the prevailing market price of each component. Package
+transactions can take various forms, such as exchange for physicals, trading strategies executed on trading venues, or bespoke package
+transactions, and it is important to take those specificities into account when calibrating the applicable transparency regime.
+
+2016/0034(COD) - 07/06/2016 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 504 votes to 157, with 9 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 600/2014 on markets in financial instruments, Regulation (EU) No
+596/2014 on market abuse and Regulation (EU) No 909/2014 on improving securities settlement in the European Union and on central
+securities depositories as regards certain dates.
+Parliaments position, adopted at first reading following the ordinary legislative procedure, amended the Commission proposal as follows:
+Securities-financing operations: it is considered that securities financing transactions, as defined in Regulation (EU) 2015/2365 of the
+European Parliament and of the Council, do not contribute to the price discovery process and that it would be appropriate that Title II
+(Transparency for trading venues) and Title III (Transparency for systematic internalisers and investment firms trading over-the-counter) of
+Regulation (EU) No 600/2014 not apply to those transactions.
+Pre-trade transparency requirements for trading venues: Parliament introduced a new amendment stipulating that market operators and
+investment firms operating a trading venue shall make public current bid and offer prices and the depth of trading interests at those prices
+which are advertised through their systems for bonds, and structured finance products, emission allowances, derivatives traded on a trading
+venue and package orders.
+Package transactions: with the amendments, Members stipulated that it is therefore appropriate to specify for the purpose of Regulation (EU)
+No 600/2014 the specific circumstances in which pre-trade transparency requirements should not apply to orders relating to such package
+transactions, nor to any individual component of such orders.
+In order to support these amendments, it is proposed to include a new recital stating that investment firms often execute, on their own account
+or on behalf of clients, transactions in derivatives and other financial instruments or assets that comprise a number of interlinked, contingent
+trades.
+The text stated that such package transactions enable investment firms and their clients to better manage their risks, with the price of each
+component of the package transaction reflecting the overall risk profile of the package rather than the prevailing market price of each
+component. Package transactions can take various forms, such as exchange for physicals, trading strategies executed on trading venues, or
+bespoke package transactions, and it is important to take those specificities into account when calibrating the applicable transparency regime.
+Role of the European Securities and Markets Authority: ESMA shall develop draft regulatory technical standards to establish a methodology
+for determining those package orders for which there is a liquid market. ESMA shall submit those draft regulatory technical standards to the
+Commission by 28 February 2017. Power is delegated to the Commission to adopt the regulatory technical standards.
+
+2016/0034(COD) - 23/06/2016 Final act
+PURPOSE: to put back by one year the time limit for transposition and application of rules on markets in financial instruments (MIFID II
+package).
+LEGISLATIVE ACT: Regulation (EU) 2016/1033 of the European Parliament and of the Council amending Regulation (EU) No 600/2014 on
+markets in financial instruments, Regulation (EU) No 596/2014 on market abuse and Regulation (EU) No 909/2014 on improving securities
+settlement in the European Union and on central securities depositories
+CONTENT: this Regulation amends Regulation (EU) No 600/2014 (MiFIR) on markets in financial instruments in order to put back the date of
+entry into application of the Regulation, following difficulties encountered by the European Securities and Markets Authority (ESMA) and
+national competent authorities, and stakeholders in technical implementation.
+The MiFIR Regulation, like Directive 2014/65/EU (MiFID II), ought to be applicable 30 months after entry into force, i.e., 3 January 2017.
+However, ESMA has informed the Commission that neither it nor the national competent authorities will be in a position to ensure the
+application of the MiFID II from 3 January 2017. This situation is due to the severe difficulties encountered in completing the data collection
+infrastructures necessary for Miffed II.
+In order to ensure legal certainty and avoid potential market disruption, the amending Regulation defers by 12 months the date by which the
+Member States need to apply MiFIR to 3 January 2018. The dates for reports and review are set back accordingly.
+The new Regulation also includes amendments regarding executions on own account, package transactions, and alignment with the EU
+Regulation on securities financing transactions, and the date of application of certain provisions in the Regulation on market abuse.
+ENTRY INTO FORCE: 1.7.2016.
+
+

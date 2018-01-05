@@ -1,0 +1,565 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0080(COD)
+
+Procedure completed
+
+Measures to reduce the cost of deploying high-speed electronic
+communications networks
+
+Subject
+2.10.03 Standardisation, EC/EU standards and trade mark, certification,
+compliance
+2.40 Free movement of services, freedom to provide
+2.80 Cooperation between administrations
+3.20.11 Trans-European transport networks
+3.30.05 Electronic and mobile communications, personal communications
+3.30.06 Information and communication technologies
+3.30.20 Trans-European communications networks
+3.30.25 International information networks and society, internet
+3.40.07 Building industry
+3.60.06 Trans-European energy networks
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+S&D HERCZOG Edit
+
+14/05/2013
+
+Shadow rapporteur
+PPE HÖKMARK Gunnar
+ALDE PANAYOTOV Vladko
+Todorov
+Verts/ALE ANDERSDOTTER
+Amelia
+ECR CHICHESTER Giles
+Committee for opinion
+
+Rapporteur for opinion
+
+ENVI
+
+Environment, Public Health and Food Safety
+
+The committee decided not to
+give an opinion.
+
+IMCO
+
+Internal Market and Consumer Protection
+
+The committee decided not to
+give an opinion.
+
+TRAN
+
+Transport and Tourism
+
+The committee decided not to
+give an opinion.
+
+CULT
+
+Culture and Education
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+
+Appointed
+
+Commissioner
+
+Communications Networks, Content and Technology KROES Neelie
+
+European Economic and
+Social Committee
+
+Key events
+26/03/2013
+
+Legislative proposal published
+
+16/04/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+COM(2013)0147
+
+Summary
+
+06/06/2013
+
+Debate in Council
+
+28/11/2013
+
+Vote in committee, 1st reading/single
+reading
+
+05/12/2013
+
+Debate in Council
+
+10/12/2013
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+02/04/2014
+
+Debate in Parliament
+
+15/04/2014
+
+Results of vote in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/05/2014
+
+Final act signed
+
+15/05/2014
+
+End of procedure in Parliament
+
+23/05/2014
+
+Final act published in Official Journal
+
+Summary
+A7-0455/2013
+
+Summary
+
+T7-0360/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0080(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/12388
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0147
+
+26/03/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0073
+
+26/03/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0074
+
+26/03/2013
+
+EC
+
+CES2600/2013
+
+10/07/2013
+
+ESC
+
+Committee draft report
+
+PE516.892
+
+03/09/2013
+
+EP
+
+Amendments tabled in committee
+
+PE519.832
+
+09/10/2013
+
+EP
+
+Committee of the Regions: opinion
+
+CDR3535/2013
+
+28/11/2013
+
+CofR
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0455/2013
+
+10/12/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0360/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)471
+
+09/07/2014
+
+Economic and Social Committee: opinion, report
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2014/61
+OJ L 155 23.05.2014, p. 0001 Summary
+
+2013/0080(COD) - 26/03/2013 Legislative proposal
+PURPOSE: to propose measures to reduce the cost of deploying high-speed communications networks.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: high-speed broadband infrastructure is the backbone of the Digital Single Market and a precondition for worldwide
+competitiveness, for example, in the field of e-Commerce. According to the 2010 report on the Single Market, telecommunications services
+and infrastructures in the EU are still highly fragmented along national borders . A recent report on the cost of non-Europe in the electronic
+communications sector has shown that the untapped potential of the Single Market corresponds to a yearly amount of 0.9% GDP, or EUR 110
+billion.
+As recalled in the Communication on the Single Market Act II, a 10% increase in broadband penetration can result in a 1-1.5 % increase in the
+GDP annually and 1.5% labour productivity gains. Broadband-induced innovation in companies creates employment and has the potential to
+generate 2 million extra jobs by 2020.
+The Union has subscribed to ambitious broadband targets of the Digital Agenda for Europe: by 2013, basic broadband for all Europeans, and
+by 2020, (i) access to speeds of above 30 Mbps for all Europeans, and (ii) subscription of internet connection above 100 Mbps for 50% or
+more of European households. These goals will only be achieved if the infrastructure deployment costs are lowered across the EU.
+IMPACT ASSESSMENT: the Commission analysed four options:
+·
+
+Option 1 (Status quo): maintaining the current approach of monitoring, enforcement and guidance.
+
+·
+
+Option 2: recommending measures towards a more coherent and harmonised application by National Regulatory Authorities of the
+regulatory framework for electronic communications.
+
+·
+
+Option 3: a proposal for a Regulation aiming at unlocking the potential of cross-sector cooperation (two sub-options, 3a and 3b,
+discuss options regarding respectively, a regulation only and a combination of a regulation and a recommendation).
+
+·
+
+Option 4: a proposal for legislation complementing the current regulatory framework to mandate measures going beyond option 3,
+(such as infrastructure atlases, cost-oriented infrastructure access, mandated cooperation in civil engineering works even when not
+financed by public means, and installation of high-speed-ready infrastructure even in old buildings).
+
+The impact assessment concludes that option 3a is the best option available, given its effectiveness in achieving the objectives identified, the
+costs-benefits analysis, and ability to exploit the cost reduction potential efficiently and coherently with general EU policy objectives.
+A study estimates that if measures were taken to address the problems identified, the potential capital savings to operators are in the range of
+2030% of total investment costs, i.e. up to EUR 63 billion by 2020.
+LEGAL BASIS: Article 114 of the Treaty on the Functioning of the European Union.
+CONTENT: the objectives of the proposed Regulation are to reduce the cost and enhance the efficiency of deploying high-speed electronic
+communications infrastructure by scaling up existing best practices across the EU. In order to do this, the proposal sets out a number of
+directly applicable rights and obligations across the various steps of infrastructure deployment, which can lead to significant cost reductions.
+The proposal aims to lower the barriers to investment and market entry (i) by allowing for more intensive usage of existing physical
+infrastructures, (ii) by enhancing cooperation on planned civil works, (iii) by streamlining procedures on granting permits and (iv) by removing
+obstacles to high-speed-ready in-building infrastructure.
+This initiative therefore addresses four main problem areas:
+·
+
+inefficiencies or bottlenecks concerning the use of existing physical infrastructure (such as ducts, conduits, manholes, cabinets,
+poles, masts, antennae, towers and other supporting constructions);
+
+·
+
+bottlenecks related to co-deployment;
+
+·
+
+inefficiencies regarding the granting of administrative permits;
+
+·
+
+bottlenecks concerning in-building deployment.
+
+In order to maximise synergies across networks, the regulation is aimed not only at electronic communications network providers but to any
+
+owner of physical infrastructures, such as electricity, gas, water and sewage, heating and transport services, which are suitable for hosting
+electronic communications network elements.
+BUDGETARY IMPLICATIONS: the proposal has no implications for the EU budget.
+
+2013/0080(COD) - 05/12/2013 Debate in Council
+The Council took stock of the state of play concerning proposed measures to facilitate investment in high-speed electronic communication
+networks by reducing the costs involved.
+The proposal sets rights and obligations with regard to: access to existing physical infrastructure; transparency on physical infrastructure;
+permit granting; coordination of civil works; in-building physical infrastructure, and dispute settlement.
+Delegations generally support the objective of cutting down civil engineering costs, which can make up to 80% of the total deployment costs,
+and on fully exploiting synergies between electronic communications networks and the networks of other utilities.
+However, not all delegations are convinced that the proposed measures are proportionate to the objective pursued; they have doubts as to
+whether the benefits would outweigh the costs and administrative burden. Many delegations have pointed to the consequences for building
+owners and landlords, the implications for property rights, and potential implementation difficulties in countries with a federal structure.
+For these reasons, the form of the legal act - regulation vs. directive has been a recurring issue in the discussions, resulting in very broad
+support for a directive as an appropriate instrument.
+Other questions that still need further clarification relate, inter alia, to:
+Definitions used: delegations are seeking clarifications on the definitions used and their link to those contained in other relevant pieces
+of EU legislation, such as in the EU regulatory framework for electronic communications. Further discussion will be needed on the
+definitions of 'network operator' (e.g. should drinking water utilities and telecoms networks be included, the latter already being subject
+to the telecoms rules?) and '(in-building) physical infrastructure' (e.g. includes active/non-active and underground/above the ground
+elements?) in particular as well as on the meaning of 'permit', 'major renovation works', 'civil works', and 'high speed electronic
+communications' networks'.
+The single information point (SIP): rather than centralising access to information in such a SIP, some delegations appear to prefer to
+see the SIP more as a 'portal' for the exchange of (contact and registration) information on physical infrastructure, which would be less
+costly and less cumbersome from an administration point of view. In general, further discussion on this point will be required, taking
+into account the current practice in Member States as well as the general orientation of the delegations of keeping costs and
+administrative burden to the minimum.
+A number of delegations believe that the list of criteria to refuse access to networks should be extended, e.g. for reasons of protection of
+property rights, the environment, public safety and security, or public health.
+Lastly, the discussion on the modalities for the settlement of disputes under the auspices of a 'competent national dispute settlement body' has
+not come to a conclusion.
+
+2013/0080(COD) - 10/12/2013 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Edit HERCZOG (S&D, HU) on the proposal for a regulation of the
+European Parliament and of the Council on measures to reduce the cost of deploying high-speed electronic communications networks.
+The committee recommended that the position of the European Parliament adopted in first reading following the ordinary legislative procedure
+should amend the Commission proposal as follows:
+Legal instrument: the committee changed the proposal from a regulation to a directive.
+Access to existing physical infrastructure: the amended text stipulated that every network operator should have the right to offer access to its
+physical infrastructure in view of deployment of elements of high-speed electronic communications networks, while ensuring the safety and
+security of the network. Reciprocally, electronic communications network operators should have the right to offer access to their physical
+infrastructure with a view to the deployment of other networks, provided that the deployment has the approval of the owners and the authorities
+responsible.
+Any network operator shall, subject to the availability of network capacity, have the obligation to meet all reasonable requests for access to its
+physical infrastructure, on condition that no problems will arise in connection with the security and safety of the network and bearing in mind
+the principle of reciprocity, in view of deploying elements of high-speed electronic communications networks. The obligation of network
+operators to meet all reasonable access requests under fair terms and conditions should be without prejudice to their obligation to respect
+Union rules on State aid in case of government funded or guaranteed investment in infrastructure.
+Refusal of access: Members set out indicative grounds of refusal such as: (i) safety and public health concerns; (ii) the security of critical
+national infrastructure; (iii) current and future availability of space; (iv) the proportional usage of the available space, so that a
+network operator that owns the physical infrastructure could reserve space for its own future investments; (v) conditions whereby granting
+access to underground transport systems could result in disruption to long-term investment and upgrades and/or result in travel disruption with
+a disproportionate economic impact.
+The committee stated that if tasks have to be carried out which are connected with the shared use of the infrastructure, they might only
+be carried out by the network operator or by a party to which the network operator has contracted the task out.
+Unsuitable infrastructure: if existing infrastructure is not considered technically suitable to deploy high-speed electronic communications
+networks, Member States may provide exemptions from the obligations laid down regarding transparency of information on access to
+infrastructure. Such measure shall be notified to the Commission and reasons duly given with all interested parties given the opportunity to
+
+comment on the draft measure.
+Furthermore, with a view to safeguarding national security and the security and the integrity of certain elements of, and or areas on a network,
+Member States may decide to exempt certain areas from the obligation to grant the set of minimum information in electronic form. In those
+cases the access to minimum information may be limited to an examination in the offices of the network operator. Any such measure shall be
+notified to the Commission.
+Subject to limitations with a view to the physical security of the networks or operating and business secrets, the single information point may
+offer private individuals access to the minimum information for a specified area upon request or via its website.
+Lastly, with the aim of protecting commercial secrets, the inventory of planned civil works shall not be integrated into the same database as
+that of the general infrastructure inventory.
+In all cases, the undertaking requesting access to information should limit the number of persons having access to such data, guarantee the
+confidentiality of the data, and shall not transfer it to any third-party.
+Coordination of civil works: every effort shall be made by undertakings performing civil works and undertakings authorised to provide electronic
+communications networks to coordinate civil works with those of energy distribution system operators in order to minimise the works needed
+and to install, maintain or upgrade ICT and energy infrastructures concurrently.
+Dispute settlement body: if the Member States decides to appoint the national regulatory authority as the national dispute settlement body, that
+body shall be obliged to seek the opinion of the sector regulators before adopting any binding decision concerning the determination of fair
+terms, conditions or prices.
+Broadband-ready label: a new Union broadband-ready label should be introduced for buildings and apartments to help buyers and renters to
+identify buildings with access to a high-speed electronic communications networks. The Union broadband-ready label should be a voluntary
+label promoting high-speed readiness of in-house infrastructures.
+
+2013/0080(COD) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 639 votes to 18 with 20 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on measures to reduce the cost of deploying high-speed electronic communications networks.
+Parliament adopted its position in first reading following the ordinary legislative provedure. The amendments adopted in plenary were the result
+of a compromise between Parliament and Council. They amend the proposal as follows:
+Legal instrument: as Members suggested, the regulation has been changed to a directive of the European Parliament and of the council
+aiming to facilitate the deployment of high-speed electronic communications networks. High-speed electronic communications network was
+defined as an electronic communication network which was capable of delivering broadband access services at speeds of at least 30 Mbps.
+The Directive established minimum requirements relating to civil works and physical infrastructure, with a view to approximating certain
+aspects of the laws, regulations and administrative provisions of the Member States in those areas.
+Access to existing physical infrastructure: the amended text stipulated that every network operator had the right to offer to undertakings
+providing electronic communications networks access to its physical infrastructure - pipes, masts, ducts, inspection chambers, manholes,
+cabinets, buildings or entries to buildings, antenna installations, towers and poles etc -with a view to deploying elements of high-speed
+electronic communications networks. Reciprocally, Member States may provide for the right of public communications network operators to
+offer access to their physical infrastructure for the purpose of deploying networks other than electronic communications networks. Cables,
+including dark fibre, as well as elements of networks used for the provision of water intended for human consumption, were not physical
+infrastructure within the meaning of the Directive.
+Granting access: upon written request of an undertaking providing public communications networks, any network operator must have the
+obligation to meet all reasonable requests for access to its physical infrastructure under fair and reasonable terms and conditions, including
+price. Such written request should specify the elements of the project for which the access is requested, including a specific time frame.
+The obligation to grant access was without prejudice to the right to property of the owner of the physical infrastructure.
+Every refusal of access must be based on objective, transparent, and proportionate criteria, such as: (i) safety and public health concerns; (ii)
+integrity and security of any network, in particular of critical national infrastructure;
+The network operator should state the reasons for the refusal within two months from the date of the receipt of the complete request for
+access.
+The national dispute settlement body should resolve the dispute, within the shortest possible time frame and in any case within four months
+from the date of the receipt of the complete request except in exceptional circumstances. Any price set by the dispute settlement body should
+ensure that the access provider has a fair opportunity to recover its costs.
+Transparency: Member States may allow access to the minimum information to be limited only if necessary in view of the security of the
+networks and their integrity, national security, public health or safety, confidentiality or operating and business secrets.
+Furthermore Member States may require every public sector body holding, in electronic format, by reason of its tasks elements of the minimum
+information concerning the physical infrastructure of a network operator to make it available via the single information point by electronic
+means before 1 January 2017.
+Minimum information made available to a single information point should be accessible promptly, via the single information point, in electronic
+format and under proportionate, non-discriminatory and transparent terms. Undertakings providing public communications networks that obtain
+access to information must take appropriate measures to ensure respect for confidentiality, and operating and business secrets.
+New provisions are also inserted by Parliament and Council on transparency concerning planned civil works
+In-building physical infrastructure: all newly constructed multi-dwelling buildings, for which applications for building permits have been
+
+submitted after 31 December 2016, must be equipped with an access point. The same obligation applied in the event of major renovation
+works concerning multi-dwelling buildings for which applications for building permits have been submitted after 31 December 2016.
+Buildings equipped in such a way should be eligible to receive the voluntary broadband-ready label in Member States that have chosen to
+introduce such a label.
+There may be exemptions for categories of buildings in cases in which the fulfilment of those obligations is disproportionate, such as in terms
+of costs for individual or joint owners or in terms of type of building, such as specific categories of monuments, historic buildings, holiday
+homes, military buildings or other buildings used for national security purposes.
+Access to in-building physical infrastructure: every public communications network provider must have the right to roll out its network at its own
+costs, up to the access point. It must also have the right to access any existing in-building physical infrastructure with a view to deploying a
+high-speed electronic communications network if duplication is technically impossible or economically inefficient.
+Member States may lay down rules on adequate financial compensation of persons suffering damage as a result of the exercise of these
+rights.
+Review: the Commission should present a report by 1 July 2018 on the implementation of the Directive. The report must include a summary of
+the impact of the measures provided by this Directive and an assessment of the progress towards achieving its objectives, including whether
+and how the Directive could further contribute to achieving more ambitious broadband targets than those set out in the Digital Agenda namely to bring basic broadband to all Europeans by 2013, and to ensure that, by 2020, all Europeans have access to much higher internet
+speeds of above 30 Mbps and 50% or more of Union households subscribe to internet connections above 100 Mbps.
+
+2013/0080(COD) - 15/05/2014 Final act
+PURPOSE: to make it easier and cheaper to establish high-speed electronic communications networks.
+LEGISLATIVE ACT: Directive 2014/61/EU of the European Parliament and of the Council on measures to reduce the cost of deploying
+high-speed electronic communications networks.
+CONTENT: Member States have endorsed the ambitious broadband targets set out in the Communication from the Commission entitled A
+Digital Agenda for Europe, namely to bring basic broadband to all Europeans by 2013, and to ensure that, by 2020, all Europeans have access
+to much higher internet speeds of above 30 Mbps and 50% or more of Union households subscribe to internet connections above 100 Mbps.
+This Directive aims to facilitate the roll-out of high-speed electronic communications networks by promoting the joint use of existing physical
+infrastructure (for example, gas and electricity pipes and drainage systems) by enabling a more efficient deployment of new physical
+infrastructure so that such networks can be rolled out at lower cost.
+The Directive also establishes minimum requirements relating to civil works and physical infrastructure, with a view to approximating certain
+aspects of the laws, regulations and administrative provisions of the Member States in those areas. Member States may maintain or introduce
+measures in conformity with Union law which go beyond the minimum requirements established by this Directive.
+The Directive contains, among others, the following provisions:
+Access to existing physical infrastructure: every network operator that is to say, telecommunications operators or enterprises active in other
+sectors, such as electricity supply or sewage treatment plants - has the right to offer to undertakings providing or authorised to provide
+electronic communications networks access to its physical infrastructure with a view to deploying elements of high-speed electronic
+communications networks.
+Reciprocally, Member States may provide for the right of public communications network operators to offer access to their physical
+infrastructure for the purpose of deploying networks other than electronic communications networks.
+Network providers should have the obligation to give reasonable access to their infrastructure under fair and reasonable terms, including price
+level. The grounds for refusal that may be invoked include technical inadequacy, security, public health or the security of the network.
+The obligation to give access to the physical infrastructure should be without prejudice to the rights of the owner of the land or of the building in
+which the infrastructure is located.
+Where access is refused or agreement on specific terms and conditions, has not been reached within two months from the date of receipt of
+the request for access, Member States shall ensure that either party is entitled to refer the issue to the competent national dispute settlement
+body.
+Access to information on the infrastructure: telecommunications operators should have the right to receive, via a single information point, the
+following minimum information on an infrastructure: i) location, and route; ii) type and current use of the infrastructure; iii) as well as a contact
+point.
+Where the minimum information is not available via the single information point, network operators may be directly required to provide access
+to such information. Member States shall ensure that access to the minimum information is made available via the single information point by 1
+January 2017.
+When obtaining access to information, undertakings providing or authorised to provide public communications networks should ensure respect
+for confidentiality, and operating and business secrets.
+If access to information gives rise to a dispute, each party may bring the case before a national dispute resolution body, which will adopt a
+binding decision. This does not prevent one of the parties applying to a court.
+Coordination of civil works: any network operator has the right to negotiate agreements with regard to the coordination of civil engineering work
+with telecommunications operators for the deployment of high-speed electronic communications networks.
+If an agreement on the coordination of civil works is not achieved within one month from the date of receipt of the formal request to negotiate,
+each of the parties may refer the issue to the competent national dispute settlement body which shall resolve the dispute within two months
+
+from the date of the receipt of the complete request, without prejudice to the possibility for any party to refer the case to a court.
+In-building physical infrastructure: the Directive provides that all newly constructed buildings and those subject to major renovation works - for
+which applications for building permits have been submitted after 31 December 2016 should be equipped with a high-speed-ready in-building
+physical infrastructure, up to the network termination points.
+Buildings so equipped may obtain a voluntary broadband-ready label in the Member States that have decided to introduce such a label.
+Member States may provide for exemptions from the obligations provided for categories of buildings, in particular single dwellings, or major
+renovation works in cases in which the fulfilment of those obligations is disproportionate, such as in terms of costs for individual or joint owners
+or in terms of type of building, such as specific categories of monuments, historic buildings, holiday homes, military buildings or other buildings
+used for national security purposes.
+Competent bodies: each of the tasks assigned to the national dispute settlement body shall be undertaken by one or more competent bodies.
+Member States may allow the national dispute settlement body to charge fees to cover the costs of carrying out the tasks assigned to it.
+Review: by 1 July 2018 the Commission shall present a report on the implementation of this Directive.
+ENTRY INTO FORCE: 12.06.2014.
+TRANSPOSITION: no later than 01.01.2016. The provisions shall apply from 01.07.2016.
+
+

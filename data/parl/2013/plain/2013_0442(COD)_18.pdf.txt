@@ -1,0 +1,583 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2013/0442(COD)
+
+Procedure completed
+
+Limitation of emissions of certain pollutants into the air from medium
+combustion plants
+
+Subject
+3.40 Industrial policy
+3.70.02 Atmospheric pollution, motor vehicle pollution
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Rapporteur
+
+Environment, Public Health and Food Safety
+
+Appointed
+10/07/2014
+
+GRZYB Andrzej
+Shadow rapporteur
+
+PAOLUCCI Massimo
+
+WIŚNIEWSKA Jadwiga
+
+HUITEMA Jan
+
+RODRIGUEZ-RUBIO
+Teresa
+
+RIVASI Michèle
+
+PEDICINI Piernicola
+Former committee responsible
+ENVI
+
+Environment, Public Health and Food Safety
+
+Committee for opinion
+ITRE
+
+PPE HIBNER Jolanta Emilia
+
+13/02/2014
+
+Rapporteur for opinion
+
+Appointed
+
+Industry, Research and Energy
+
+15/09/2014
+FEDERLEY Fredrick
+
+Former committee for opinion
+ITRE
+
+Industry, Research and Energy
+
+Council of the European Union
+Commission DG
+European Commission
+Environment
+
+ALDE JOHANSSON Kent
+
+04/02/2014
+
+Commissioner
+VELLA Karmenu
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+18/12/2013
+
+Legislative proposal published
+
+COM(2013)0919
+
+Summary
+
+13/01/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+12/06/2014
+
+Debate in Council
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/12/2014
+
+Debate in Council
+
+06/05/2015
+
+Vote in committee, 1st reading/single
+reading
+
+06/05/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+13/05/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/07/2015
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+06/10/2015
+
+Debate in Parliament
+
+07/10/2015
+
+Results of vote in Parliament
+
+07/10/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+10/11/2015
+
+Act adopted by Council after Parliament's
+1st reading
+
+25/11/2015
+
+Final act signed
+
+25/11/2015
+
+End of procedure in Parliament
+
+28/11/2015
+
+Final act published in Official Journal
+
+Summary
+
+A8-0160/2015
+
+Summary
+
+T8-0339/2015
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0442(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 192-p1
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/8/00320
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0919
+
+18/12/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0531
+
+18/12/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0532
+
+18/12/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0536
+
+18/12/2013
+
+EC
+
+PE546.891
+
+04/02/2015
+
+EP
+
+Committee draft report
+
+Summary
+
+Amendments tabled in committee
+
+PE551.798
+
+10/03/2015
+
+EP
+
+Amendments tabled in committee
+
+PE551.872
+
+17/03/2015
+
+EP
+
+Amendments tabled in committee
+
+PE554.765
+
+09/04/2015
+
+EP
+
+PE546.728
+
+23/04/2015
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0160/2015
+
+13/05/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0339/2015
+
+07/10/2015
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2015)750
+
+10/12/2015
+
+Committee opinion
+
+ITRE
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Directive 2015/2193
+OJ L 313 28.11.2015, p. 0001 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0442(COD) - 18/12/2013 Legislative proposal
+PURPOSE: to limit emissions of certain pollutants into the air from medium combustion plants.
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: medium combustion plants are used for a wide variety of applications (including electricity generation, domestic/residential
+heating and cooling and providing heat/steam for industrial processes, etc.) and are an important source of emissions of sulphur dioxide,
+nitrogen oxides and particulate matter. The approximate number of medium combustion plants in the EU is 142 986.
+Emissions of air pollutants from medium combustion plants are generally not regulated at EU level. The Commission considers it appropriate
+to complement the existing legislation relating to combustion plants with provisions for this category.
+The Communication from the Commission to the Council and the European Parliament "A Clean Air Programme for Europe" calls for action to
+control emissions of air polluting substances from combustion plants with a rated thermal input between 1 and 50 MW, thereby completing the
+regulatory framework for the combustion sector also with a view of increasing the synergies between air pollution and climate change policies.
+The present proposal is part of the new framework of action in the field of air quality in the EU, as set out in the revised EU Thematic Strategy
+on Air Pollution, and is consistent with and reinforces the Europe 2020 objectives.
+IMPACT ASSESSMENT: the analysis concluded that there is a need to propose a legislative instrument for controlling emission from such
+plants at EU-level. Out of the five policy options considered and in depth analysed to control emissions from medium combustion plants, the
+preferred option would set emission limit values in line with those set in Directive 2010/75/EU for plants between 50-100 MW and in a number
+of Member States, and complemented with a number of emission limit values set out for new plants in the amended Gothenburg Protocol.
+CONTENT: the proposed Directive seeks to lay down emission limit values to control emissions of sulphur dioxide, nitrogen oxides and
+particulate matter into the air from medium combustion plants as minimum standards of protection for the environment and for all citizens of
+the EU. It introduces minimum requirements, keeping the administrative burden at the lowest possible level and taking special account of the
+situation of SMEs.
+In concrete terms, the proposal:
+sets out the obligation of the competent authority to register medium combustion plants, based on notification by the operator;
+sets out the emission limit values apply to existing combustion plants after a fixed period (from 1 January 2025 emissions into air of
+sulphur dioxide, nitrogen oxides and particulate matter from an existing medium combustion plant with a rated thermal input above 5
+MW shall not exceed the emission limit values; from 1 January 2030 emissions into air of sulphur dioxide, nitrogen oxides and
+particulate matter from an existing medium combustion plant with a rated thermal input of 5 MW or less shall not exceed the emission
+limit values);
+requires Member States to apply more stringent emission limit values to individual plants in zones not complying with air quality limit
+values;
+
+lays down a provision to require operators to immediately report on non-compliance to the competent authority;
+obliges Member States: (i) to ensure that the operator and the competent authority take necessary measures in case of
+non-compliance with this Directive; (ii) introduces requirements for Member States to provide for a system of environmental
+inspections of medium combustion plants covered by this Directive, or implement other measures to check compliance thereof;
+provides for the obligations of the operator and the competent authority in case of changes to a medium combustion plant;
+is concerned with the right of access to information and refers to Directive 2003/4/EC of the European Parliament and of the Council
+on public access to environmental information;
+requires Member States to designate the competent authorities responsible for carrying out the obligations arising from this Directive;
+establishes a reporting mechanism. While Member States' first report to the Commission, due by 30 June 2019, shall contain a
+summary of data of key importance in implementing this Directive, the following reports shall contain qualitative and quantitative
+information on the implementation of this Directive;
+lays down the provisions on penalties applicable to breaches of the national provisions enacted pursuant to the proposal.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2013/0442(COD) - 12/06/2014 Debate in Council
+Ministers held a policy debate on two legislative proposals (directives on medium-size combustion plants and on national emission ceilings)
+which are part of the Clean Air Programme for Europe.
+The aim of the programme is to further reduce the impacts of harmful emissions from industry, transport, energy plants and agriculture on
+human health and the environment. It sets out actions to achieve full compliance with existing air quality standards by 2020, and common EU
+health and environmental targets for the period up to 2030.
+The debate focused on the main political issues, in particular on matters related to the scope such as flexibility and exemptions.
+The question of whether the exemptions and the implementation timeline already included in the proposal provide enough flexibility to Member
+States and at the same time preserve the environmental integrity of the proposal.
+It is appropriate to examine: (i) if the proposed categorization of the medium size plants are appropriate for both existing and new plants in
+relation to the proposed emission limit values and; (ii) are the pollutants included in the scope of the MCP Directive adequate; (iii) should there
+be a more targeted approach to plants within certain capacity categories.
+As regards medium-sized combustion plants, there was much support for the proposal which will be crucial to achieve compliance with air
+quality standards. However, several delegations requested added flexibilities for specific situations and expressed concerns for small
+combustion plants and the emission limit values proposed.
+With regard to national emission ceilings, many delegations supported the step-by-step approach and the coverage of all economic sectors,
+but concerns were expressed on the level of ambition, particularly as regards the ceilings to be reached by 2030.
+Lastly, several delegations said that further examination of the impacts of the proposed emission ceilings should be carried out, especially
+impacts on the agricultural sector.
+
+2013/0442(COD) - 13/05/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on the Environment, Public Health and Food Safety adopted the report by Andrzej GRZYB (EPP, PL) on the proposal for a
+directive of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion
+plants
+The committee recommended that the position of the European Parliament adopted in first reading following the ordinary legislative procedure
+should amend the commission proposal as follows:
+Scope: the Directive laid down rules to monitor emissions of carbon monoxide also.
+The Directive should apply to combinations formed by two or more combustion plants having a total rated thermal input equal to or greater
+than 1 MW and less than 50 MW, unless the combination is a combustion plant covered by Chapter III of Directive 2010/75/EU on industrial
+emissions.
+If more than one individual combustion plant with a rated thermal input of less than 1 MW were installed on a single site in a load-sharing
+arrangement, such combination should be considered as a single combustion plant for the purposes of the Directive.
+Exclusions: Members considered that the Directive should not apply, inter alia, to:
+combustion plants covered by Directive 97/68/EC of the European Parliament and of the Council on the approximation of the laws of
+the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines
+to be installed in non-road mobile machinery
+on-farm combustion plants with a total rated thermal input not exceeding 5 MW, which are exclusively using unprocessed poultry
+manure;
+combustion plants in which the gaseous products of combustion are used for the direct heating, drying or any other treatment of
+objects or materials, or direct gas-fired heating used to heat indoor spaces for the improvement of workplace conditions;
+gas turbines and gas and diesel engines used on offshore platforms;
+facilities for the conversion of hydrogen sulphide into sulphur;
+reactors used in the chemical industry;
+coke battery furnaces.
+
+The Directive should not apply to research or development activities or testing activities relating to medium combustion plants.
+Overseas territories: the emission limit values set out in Annex II should not apply to medium combustion plants located in the Canary Islands,
+French Overseas Departments, and the archipelagos of Madeira and Azores. Member States should set emission limit values for those plants
+in order to reduce their emissions to air and the potential risks to human health and the environment.
+Registration: no new medium combustion plant must be operated without a permit or registration.
+Furthermore, none of the following should be operated without a permit or registration:
+as of 1 January 2020 an existing medium combustion plant with a rated thermal input above 15 MW;
+as of 1 January 2022 an existing medium combustion plant with a rated thermal input above 5 MW and less than or equal to 15 MW;
+as of 1 January 2025 an existing medium combustion plant with a rated thermal input of 5 MW .
+Competent authorities should hold a publicly accessible register of medium combustion plants.
+Emission limit values: Member States may exempt medium combustion plants which were part of an installation covered by Chapter II of
+Directive 2010/75/EU from compliance with the emission limit values set out in Annex II.
+Emissions into air of sulphur dioxide, nitrogen oxides and dust should not exceed the emission limit values set out in Part 1 of Annex II:
+from 1 January 2020 (instead of 2025) from an existing medium combustion plant with a rated thermal input above 15 MW;
+from 1 January 2022 from an existing medium combustion plant with a rated thermal input above 5 MW and less than or equal to 15
+MW;
+from 1 January 2027 (instead of from 2030) from an existing medium combustion plant with a rated thermal input of 5 MW or less.
+Member States may exempt existing medium combustion plants being part of small isolated systems and micro isolated systems from
+compliance with the emission limit values set out in Part 1 of Annex II for up to five years, but no later than 2030.
+In zones not complying with EU air quality limit values laid down in Directive 2008/50/EC, Member States shall assess the need to apply, for
+individual medium combustion plants in those zones, stricter emission limit values.
+Energy efficiency: the report wanted Member States to take measures to promote increased energy efficiency of medium combustion plants.
+By 31 December 2016, the Commission should assess the minimum energy efficiency standards for medium combustion plants in line with
+best available techniques. The Commission should report the results of that assessment to the European Parliament.
+Audits: when audits and inspections were already in place to check compliance with other Union legislation controlling emissions, Member
+States might make use of those audits and inspections to check compliance with the Directive.
+Review: Members stated that with such long time spans, it was important to regularly review the Directive in light of new technology
+developments.
+The Commission should review the emission limit values for new medium combustion plants by 31 December 2025 with the exception of NOx
+emission limit values which should be reviewed by 31 December 2021. The emission limit values for new and existing medium combustion
+plants should be reviewed by 31 December 2030. Thereafter, reviews would take place every ten years.
+
+2013/0442(COD) - 07/10/2015 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 623 votes to 70 with 12 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion plants
+Parliaments position adopted in first reading following the ordinary legislative procedure amends the proposal as follows;
+Purpose: the Directive lays down rules to control emissions of sulphur dioxide (SO2), nitrogen oxides (NOx) and dust into the air from medium
+combustion plants. It also lays down rules to monitor emissions of carbon monoxide (CO).
+Scope: the Directive shall apply to combustion plants with a rated thermal input equal to or greater than 1 MW and less than 50 MW.
+It also apply to a combination formed by new medium combustion plants, including a combination where the total rated thermal input is equal
+to or greater than 50 MW, unless the combination forms a combustion plant covered by Chapter III of Directive 2010/75/EU on industrial
+emissions. Individual combustion plants with a rated thermal input less than 1 MW should not be considered for the purpose of calculating the
+total rated thermal input of a combination of combustion plants.
+Exclusions: Parliament excluded from the scope of the legislation, inter alia:
+on-farm combustion plants with a total rated thermal input less than or equal to 5 MW, that exclusively use unprocessed poultry
+manure, as a fuel;
+combustion plants in which the gaseous products of combustion are used for direct gas-fired heating used to heat indoor spaces for
+the purpose of improving workplace conditions;
+gas turbines and gas and diesel engines, when used on offshore platforms;
+reactors used in the chemical industry;
+recovery boilers within installations for the production of pulp.
+The Directive shall not apply to research activities, development activities or testing activities relating to medium combustion plants.
+Permits and registration: no new medium combustion plant may be operated without a permit or without being registered.
+Moreover, the following combustion plants may not be operated without a permit or without being registered:
+as of 1 January 2024 no existing medium combustion plant with a rated thermal input greater than 5 MW;
+as of 1 January 2029 no existing medium combustion plant with a rated thermal input of less than or equal to 5 MW.
+
+The competent authority shall hold a register with information on each medium combustion plant and make the information contained in the
+register available to the public
+Emission limit values: emissions into the air of SO2, NOx and dust may not exceed the emission limit values set out in Annex II:
+from 1 January 2025, from an existing medium combustion plant with a rated thermal input greater than 5 MW;
+from 1 January 2030, from an existing medium combustion plant with a rated thermal input of less than or equal to 5 MW.
+Existing medium combustion plants which are part of small isolated systems or micro isolated systems shall comply with the emission limit
+values from 1 January 2030.
+Parliament specified that Member States might:
+exempt existing medium combustion plants which do not operate more than 500 operating hours per year as a rolling average over a
+period of five years from compliance with the emission limit values. They may extend the limit to 1 000 operating hours in cases of
+emergency or extraordinary circumstances, such as for backup power production in connected islands in the event of an interruption
+of the main power, or for heat production in cases of exceptionally cold weather events;
+exempt, until 1 January 2030, existing plants with a rated thermal input greater than 5 MW from compliance with the emission limit
+values provided that a significant part of the useful heat production of the plant is delivered in the form of steam or hot water to a
+public network for district heating.
+exempt, until 1 January 2030, medium combustion plants firing solid biomass as the main fuel, which are situated in zones where
+conformity with the limit values on air quality is ensured, from compliance with the emission limit values for dust. In the event of such
+exemption, the emission limit values set by the competent authority shall not exceed 150 mg/Nm³ for dust.
+exempt until 1 January 2030, from compliance with emission limit values for NOx existing medium combustion plants with a rated
+thermal input greater than 5 MW and which are used to drive gas compressor stations required to ensure the safety and security of a
+national gas transmission system.
+In zones not complying with the air quality limit values laid down in Directive 2008/50/EC, Member States shall assess the need to apply
+stricter emission limit values than those set out in the Directive.
+Isolated plants: the emission limit values set out in Annex II should not apply to medium combustion plants located in the Canary Islands,
+French Overseas Departments, the Azores and Madeira, because of the technical and logistical issues associated with such plants' isolated
+location. The Member States concerned should set emission limit values for such plants in order to reduce their emissions to air and the
+potential risks to human health and the environment.
+Monitoring and inspections: Member States should set up a system to check compliance of medium combustion plants with the requirements
+of this Directive.
+The operator shall keep a record of and process all monitoring results in such a way as to enable the verification of compliance with the
+emission limit values.
+In order to ensure the effective implementation and enforcement of the Directive, inspections should, where possible, be coordinated with
+those required under other Union legislation, as appropriate.
+Review: the Commission shall review: (i) by 1 January 2020, the benefits of setting minimum energy efficiency standards; (ii) by 1 January
+2023, the need to review the provisions concerning plants which are part of small isolated systems or micro isolated systems. In this context,
+the Commission should also consider the need to set specific emission limit values for carbon monoxide. Thereafter, a review shall take place
+every ten years and shall include an assessment of whether it is appropriate to set stricter emission limit values.
+
+2013/0442(COD) - 25/11/2015 Final act
+PURPOSE: to limit emissions of certain pollutants into the air from medium combustion plants.
+LEGISLATIVE ACT: Directive (EU) 2015/2193 of the European Parliament and of the Council on the limitation of emissions of certain
+pollutants into the air from medium combustion plants.
+CONTENT: this Directive lays down rules to:
+control emissions of sulphur dioxide (SO2), nitrogen oxides (NOx) and dust into the air from medium combustion plants, and thereby
+reduce emissions to air and the potential risks to human health and the environment from such emissions;
+monitor emissions of carbon monoxide (CO).
+The Directive is in line with the Commission communication entitled " Clean Air for Europe Programme", which calls for measures against the
+emission of air pollutants from combustion installations with a rated thermal input is 1 and 50 MW. It is part of the new framework for air quality
+in the EU, as defined by the new EU thematic strategy on air pollution.
+Scope: the Directive shall apply to combustion plants with a rated thermal input equal to or greater than 1 MW and less than 50 MW,
+irrespective of the type of fuel they use. It shall also apply to a combination formed by new medium combustion plants, including a combination
+where the total rated thermal input is equal to or greater than 50 MW, unless the combination forms a combustion plant covered by Chapter III
+of Directive 2010/75/EU.
+Individual combustion plants with a rated thermal input less than 1 MW should not be considered for the purpose of calculating the total rated
+thermal input of a combination of combustion plants.
+Exclusions: certain other medium combustion plants should also be excluded from the scope of this Directive, on the basis of their technical
+characteristics or their use in particular activities. The Directive shall not apply to medium combustion plants firing refinery fuels alone or with
+other fuels for the production of energy within mineral oil and gas refineries, and recovery boilers within installations for the production of pulp.
+
+Permits and registration: the Directive stipulates that no new medium combustion plant may be operated without a permit or without being
+registered.
+Moreover, the following combustion plants may not be operated without a permit or without being registered:
+as of 1 January 2024 no existing medium combustion plant with a rated thermal input greater than 5 MW;
+as of 1 January 2029 no existing medium combustion plant with a rated thermal input of less than or equal to 5 MW.
+The competent authority shall hold a register with information on each medium combustion plant and make the information contained in the
+register available to the public.
+Emission limit values: the Directive provides that the emission limits will apply to existing installations after a fixed period, namely:
+from 1 January 2025, from an existing medium combustion plant with a rated thermal input greater than 5 MW;
+from 1 January 2030, from an existing medium combustion plant with a rated thermal input of less than or equal to 5 MW.
+Existing medium combustion plants which are part of small isolated systems or micro isolated systems shall comply with the emission limit
+values from 1 January 2030.
+Moreover, Member States may:
+exempt existing medium combustion plants in cases of emergency and operated during limited time;
+exempt, until 1 January 2030 the obligation to respect emission limit values set for medium combustion plants which provide a
+substantial amount of their useful heat production to a public network for district heating;
+exempt, until 1 January 2030, medium combustion plants firing solid biomass as the main fuel, which are situated in zones where
+conformity with the limit values on air quality is ensured, from compliance with the emission limit values for dust;
+exempt until 1 January 2030, from compliance with emission limit values for NOx existing medium combustion plants with a rated
+thermal input greater than 5 MW and which are used to drive gas compressor stations required to ensure the safety and security of a
+national gas transmission system.
+In zones not complying with the air quality limit values, Member States shall assess the need to apply stricter emission limit values than those
+set out in the Directive.
+Isolated plants: the emission limit values set out in Annex II should not apply to medium combustion plants located in the Canary Islands,
+French Overseas Departments, the Azores and Madeira, because of the technical and logistical issues associated with such plants' isolated
+location. The Member States concerned should set emission limit values for such plants in order to reduce their emissions to air and the
+potential risks to human health and the environment.
+Obligations of the operator and compliance checks: Member States shall ensure that the operator carries out monitoring of emissions and that
+the operator shall keep a record of and process all monitoring results. In the event of non-compliance, Member States shall ensure that the
+competent authority requires the operator to take any measures necessary to ensure that compliance is restored without undue delay.
+Member States shall set up an effective system, based on either environmental inspections or other measures, to check compliance with the
+requirements of this Directive.
+Review: by 1 January 2020, the Commission shall assess the benefits of setting minimum energy efficiency standards; by 1 January 2023, it
+shall assess the need to review the provisions concerning plants which are part of small isolated systems (SIS) or micro isolated systems
+(MIS).
+As part of this review, the Commission shall also assess whether for certain or all types of medium combustion plants there is a need to
+regulate CO emissions. Thereafter, a review shall take place every ten years and shall include an assessment of whether it is appropriate to
+set stricter emission limit values in particular for new medium combustion plants.
+ENTRY INTO FORCE: 18.12.2015.
+TRANSPOSITION: 19.12.2017.
+DELEGATED ACTS: the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to adjust the
+provisions on assessment of compliance set out in point 2 of Part 2 of Annex III. The power to adopt delegated acts shall be conferred on the
+Commission for a period of five years (renewable) from 18 December 2015. The European Parliament or the Council may object to a
+delegated act within a period of two months from the date of notification (this period may be extended by two months). If the European
+Parliament or the Council objects, the delegated act shall not enter into force.
+
+

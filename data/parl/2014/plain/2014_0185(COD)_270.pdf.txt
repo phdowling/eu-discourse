@@ -1,0 +1,528 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Decision
+
+2014/0185(COD)
+
+Procedure completed
+
+Programme on interoperability solutions and common frameworks for
+European public administrations, businesses and citizens (ISA2 programme)
+
+Subject
+2.40.02 Public services, of general interest, universal service
+2.80 Cooperation between administrations
+3.30.06 Information and communication technologies
+3.30.20 Trans-European communications networks
+3.30.25 International information networks and society, internet
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE Industry, Research and Energy
+(Associated committee)
+
+Rapporteur
+
+Appointed
+09/09/2014
+
+ZORRINHO Carlos
+Shadow rapporteur
+
+BONI Michał
+
+TOŠENOVSKÝ Evžen
+
+THEURER Michael
+
+MATIAS Marisa
+
+MARAGALL Ernest
+
+BORRELLI David
+Committee for opinion
+BUDG
+
+ENVI
+
+Budgets
+
+Environment, Public Health and Food Safety
+
+IMCO Internal Market and Consumer Protection
+(Associated committee)
+
+The committee decided not to
+give an opinion.
+17/07/2014
+JAAKONSAARI Liisa
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+Informatics
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+REGI
+
+LIBE Civil Liberties, Justice and Home Affairs
+(Associated committee)
+
+European Economic and
+
+Rapporteur for opinion
+
+03/12/2014
+LENAERS Jeroen
+
+Commissioner
+MOEDAS Carlos
+
+Social Committee
+European Committee of the
+Regions
+
+Key events
+26/06/2014
+
+Legislative proposal published
+
+03/07/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+15/01/2015
+
+Referral to associated committees
+announced in Parliament
+
+16/06/2015
+
+Vote in committee, 1st reading/single
+reading
+
+06/07/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/07/2015
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+13/10/2015
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+11/11/2015
+
+Results of vote in Parliament
+
+11/11/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+23/11/2015
+
+Act adopted by Council after Parliament's
+1st reading
+
+25/11/2015
+
+Final act signed
+
+25/11/2015
+
+End of procedure in Parliament
+
+04/12/2015
+
+Final act published in Official Journal
+
+COM(2014)0367
+
+Summary
+
+A8-0225/2015
+
+Summary
+
+T8-0393/2015
+
+Summary
+
+Technical information
+Procedure reference
+
+2014/0185(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Decision
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 172
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/8/00665
+
+Documentation gateway
+Legislative proposal
+Economic and Social Committee: opinion,
+report
+
+COM(2014)0367
+
+26/06/2014
+
+EC
+
+CES4603/2014
+
+15/10/2014
+
+ESC
+
+Summary
+
+Committee draft report
+
+PE539.808
+
+13/01/2015
+
+EP
+
+Committee of the Regions: opinion
+
+CDR5514/2014
+
+11/02/2015
+
+CofR
+
+Amendments tabled in committee
+
+PE549.415
+
+02/03/2015
+
+EP
+
+Committee opinion
+
+LIBE
+
+PE544.268
+
+10/06/2015
+
+EP
+
+Committee opinion
+
+IMCO
+
+PE539.869
+
+11/06/2015
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0225/2015
+
+06/07/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0393/2015
+
+11/11/2015
+
+EP
+
+Summary
+
+SP(2016)20
+
+13/01/2016
+
+Commission response to text adopted in
+plenary
+
+Additional information
+European Commission
+
+EUR-Lex
+
+Final act
+Decision 2015/2240
+OJ L 318 04.12.2015, p. 0001 Summary
+
+2014/0185(COD) - 26/06/2014 Legislative proposal
+PURPOSE: to establish a programme on interoperability solutions for European public administrations, businesses and citizens (ISA2
+programme).
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: in its Communication of 19 May 2010 on a Digital Agenda for Europe (DAE), the Commission stressed that interoperability is
+essential to maximise the social and economic potential of ICT and that, consequently, the Digital Agenda can take off only if interoperability is
+ensured.
+As mentioned in its 2013 annual growth survey, the Commission considers the cross-border interoperability of online services and the
+digitisation of European public administrations to be important contributors to growth and increased efficiency.
+To enable efficient and effective interaction with citizens and businesses, Member States should modernise their administrations and provide
+interoperable digital services at national and European level.
+However, because it takes place at national level and lacks European-level interoperability, such change very often throws up electronic
+barriers (e-barriers) that prevent citizens and businesses from using public services efficiently and impede the smooth functioning of the
+internal market.
+Activities under the programmes put in place by the Commission since 1995 (IDA, IDABC and ISA) have contributed significantly to ensuring
+interoperability in the electronic exchange of information between European public administrations. In its Resolution of 20 April 2012, the
+European Parliament recognised the contribution and overarching role of the ISA Programme in defining, promoting and supporting the
+implementation of interoperability solutions and frameworks for European public administrations. It also called for an increase in the financial
+allocations for interoperability solutions between the EU public administrations for 2014-2020.
+With the ISA Programme coming to an end on 31 December 2015, a new EU programme on interoperability solutions for European public
+administrations, businesses and citizens is needed.
+On 24 and 25 October 2013, the European Council adopted conclusions stressing that the modernisation of public administrations should
+continue, with the swift implementation of services, such as e-government, e-health, e-invoicing and e-procurement that rely on
+interoperability.
+IMPACT ASSESSMENT: based on the 2012 interim evaluation for the ISA Programme, the Commission considers that the adoption of the
+new programme will help reduce the cost and administrative burden of cross-border interaction for all concerned, further improve the internal
+market and freedom of movement in the EU without administrative e-barriers, and contribute to the swift implantation of ICT systems
+supporting EU legislation.
+CONTENT: the proposed Decision seeks to establish, for 2016-2020, a programme on interoperability solutions for European public
+administrations, businesses and citizens (the ISA2 programme). The proposed programme succeeds the ISA Programme and will consolidate,
+
+promote and expand its activities.
+The specific objectives of the programme are as follows:
+improve, operate and re-use existing cross-border or cross-sector interoperability solutions;
+develop, operate and re-use new cross-border or cross-sector interoperability solutions;
+assess the ICT implications of proposed or adopted Union legislation and identify areas in which new legislation could promote
+interoperability;
+create a European Interoperability Reference Architecture (EIRA) to be used as the tool for building and assessing interoperability
+solutions;
+create an instrument to facilitate the re-use of existing interoperability solutions and to identify the areas in which such solutions are
+still missing;
+assess and promote existing common specifications and standards and develop new common specifications and standards;
+introduce a mechanism that will measure and quantify the benefits of interoperability solutions.
+BUDGETARY IMPLICATION: the financial envelope for implementation of the new ISA2 Programme for the period 1 January 2016 to 31
+December 2020 is EUR 130 928 000. The proposed envelope is consistent with the current Multiannual Financial Framework for the years
+2014-2020.
+
+2014/0185(COD) - 06/07/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted the report by Carlos ZORRINHO (S&D, PT) on the proposal for a decision of the
+European Parliament and of the Council establishing a programme on interoperability solutions for European public administrations,
+businesses and citizens (ISA 2) Interoperability as a means for modernising the public sector.
+The Committee on the Internal Market and Consumer Protection and the Committee on Civil Liberties, Justice and Home Affairs, exercising
+their prerogatives as associated committees under Rule 54 of Parliaments Rules of Procedure, also gave their opinions on the report.
+The committee recommended that the position of the European Parliament in first reading following the ordinary legislative procedure should
+amend the Commission proposal as follows:
+Subject matter and objectives: Members considered that the new programme should also focus on: (i) the end-user, particularly the needs of
+citizens and SMEs; (ii) security, respect for privacy and a high level of data protection; (iii) privacy by default and by design; (iv) administrative
+simplification and modernisation; (v) multi-channel delivery, namely maintenance of the possibility to access services by way of traditional
+means in addition to electronic means, and the availability of technical support when using electronic means.
+The report went on to suggest that the ISA 2 programme:
+take into account social, economic and other aspects of interoperability, as well as the specific situation of micro enterprises and
+SMEs, in order to improve interaction between European public administrations on the one hand, and businesses and citizens on the
+other;
+contribute to the development of a more effective, simplified and user-friendly e-administration at the national, regional and local levels
+of public administration;
+ensure a common understanding of interoperability and evaluate regularly its developments.
+Through the ISA 2 Programme, the Union should work with: (i) Member States to identify and promote best practices, to develop guidelines, to
+coordinate interoperability initiatives; (ii) industry and civil society and on all issues relevant to support interoperability and its relation to the
+better provision of public services.
+Common frameworks and solutions established under the ISA 2 Programme should encourage the exploitation of the potential of
+e-government and e-democracy and ensure, facilitate and enable both cross-border and cross-sector interoperability.
+Activities: the ISA 2 programme shall aim to support and promote, inter alia:
+developing common semantics to link public administrations together and connect them to other sectors, thereby providing a way to
+make the European economy more competitive overall;
+update and promotion of new common specifications and open standards, particularly with regard to the security of data transmission,
+processing and storage;
+the maintenance and wider publication of a virtual one-stop shop acting as a platform for access and best practice resulting from the
+ISA 2 Programme,;
+the establishment of a common repository of reusable solutions and standards that is accessible to public administrations or upcoming
+projects;
+the development of mechanisms to safeguard privacy and security from the perspective of public administrations, citizens, and
+businesses.
+6 months after the date of entry into force of the Decision, the Commission should develop a communication and training strategy, aiming to
+enhance information and to increase awareness with regard to the ISA 2 Programme.
+Eligibility and selection criteria: in order to avoid duplication and to speed up the establishment of interoperability solutions, Members proposed
+that the results achieved by other relevant Union and Member State initiatives must be taken into account and duplicate solutions must not be
+eligible.
+The report also contained a new article on implementation rules, which stressed that importance of sharing of experience, the exchange and
+promotion of good practices and coordination with other relevant Union initiatives.
+This should include a due consideration of the impact of interoperability solutions on privacy and data protection. The sharing of experience
+and good practices between all stakeholders and relevant public consultations should be encouraged and facilitated by adequate means, such
+as by means of a virtual repository. Particular focus should be placed on the engagement of Member States to secure the cooperation of
+
+national experts on interoperability.
+The Commission should bring together relevant stakeholders for the purposes of exchanging views among themselves and with the
+Commission on issues addressed by the Programme.
+Monitoring and evaluation: when evaluating the ISA 2 Programme the Commission should pay particular attention to whether the solutions
+created and implemented have a positive or a negative impact on modernising the public sector and facilitating the needs of citizens and
+SMEs, for example by reducing the administrative burden and costs for citizens and SMEs, by creating employment opportunities and by
+enhancing the overall interconnection between public administrations on the one hand, and citizens and businesses, in particular SMEs, on the
+other.
+
+2014/0185(COD) - 11/11/2015 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 569 votes to 31 with 24 abstentions, a legislative resolution on the proposal for a decision of the
+European Parliament and of the Council establishing a programme on interoperability solutions for European public administrations,
+businesses and citizens (ISA 2) Interoperability as a means for modernising the public sector
+Parliaments position, adopted in first reading following the ordinary legislative procedure, amended the Commission proposal as follows:
+Subject matter and objectives: the Decision establishes, for 2016-2020, a programme on interoperability solutions and common frameworks for
+European public administrations, businesses and citizens. It is recalled that Interoperability within local, national and European public
+administrations facilitates the achievement of the goals set out by the European Parliament in its resolution of 29 March 2012 on the EU
+Citizenship Report 2010: Dismantling the obstacles to EU citizens rights.
+The amended text states that the objectives of the ISA2 Programme are to:
+develop, maintain and promote a holistic approach to interoperability in the Union in order to eliminate fragmentation in the
+interoperability landscape in the Union;
+facilitate electronic cross-border or cross-sector interaction between European public administrations on the one hand, and between
+European public administrations and businesses and citizens on the other,
+identify, create and operate interoperability solutions supporting the implementation of Union policies and activities;
+facilitate the re-use of interoperability solutions by European public administrations.
+The ISA 2 Programme will take into account:
+social, economic and other aspects of interoperability, as well as the specific situation of SMEs and micro-enterprises, in order to
+improve interaction between European public administrations on the one hand, and between European public administrations and
+businesses and citizens on the other.
+ensure a common understanding of interoperability through the European Interoperability Framework (EIF) and its implementation in
+Member States administrations.
+Amongst the accompanying measures are information, communication of the benefits of the ISA2 Programme, and awareness-raising
+measures, aimed at European public administrations and, where appropriate, at businesses and citizens.
+Activities: the ISA2 Programme will support and promote, inter alia:
+the development, establishment, bringing to maturity, operation and re-use of new cross-border or cross-sector interoperability
+solutions and common frameworks ;
+the identification of legislation gaps, at Union and national level, that hamper cross-border or cross-sector interoperability;
+the development of mechanisms that measure and quantify the benefits of interoperability solutions including methodologies for
+assessing cost-savings;
+the mapping and analysis of the overall interoperability landscape;
+the establishment and promotion of open specifications and standards through the Unions standardisation platforms and in
+cooperation with European or international standardisation organisations as appropriate;
+the maintenance and publication of a platform allowing access to, and collaboration with regard to, best practices, functioning as a
+means of raising awareness and disseminating available solutions, including security and safety frameworks, and helping to avoid
+duplication of efforts while encouraging the reusability of solutions and standards;
+the identification and promotion of best practices, to develop guidelines to coordinate interoperability initiatives and to animate and
+support communities working on issues relevant to the area of electronic cross-border or cross-sector interaction between end users.
+9 months after the date of entry into force of the Decision, the Commission must develop a communication strategy, aiming to enhance
+information and increase awareness with regard to the ISA2 Programme and its benefits, targeting businesses, including SMEs, and citizens,
+and employing user-friendly means on the ISA² Programme's website.
+Actions launched under the ISA2 Programme shall comply with the following principles, inter alia: (i) delivery of public services in such a way
+as to prevent digital divide; (ii) data protection; (iii) administrative simplification and modernisation; (iv) avoidance of duplication ; (v) solutions
+which, insofar as possible, are future-proof .
+Prioritisation: actions that meet the eligibility criteria shall be prioritised in accordance with the following prioritisation criteria: (i) the contribution
+of the action to the interoperability landscape; (ii) the scope of the action across the sectors concerned; (iii) the geographical reach of the
+action; (iv) the urgency of the action; (v) the reusability of the action (vi) the re-use by the action of existing common frameworks and elements
+of interoperability solutions; (vii) the link of the action with Union initiatives.
+Implementation: the Commission shall bring together relevant stakeholders and organise conferences, workshops and other meetings on
+issues addressed by the ISA 2 Programme. The ISA 2 Programme shall build on the sharing of experience and promote community building
+activities around frameworks and solutions of common interest, involving relevant stakeholders including non-profit organisations and
+universities.
+
+The funding of an action may be suspended or terminated in accordance with the results of monitoring and control and based on an
+assessment of whether the action continues to meet the identified needs, and of the effectiveness and efficiency of the action.
+
+2014/0185(COD) - 25/11/2015 Final act
+PURPOSE: to establish a programme on interoperability solutions for European public administrations, businesses and citizens (ISA2
+programme).
+LEGISLATIVE ACT: Decision (EU) 2015/2240 of the European Parliament and of the Council of 25 November 2015 establishing a programme
+on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a
+means for modernising the public sector.
+CONTENT: this Decision establishes, for 2016-2020, a programme on interoperability solutions and common frameworks for European public
+administrations, businesses and citizens (the ISA2 programme). The new programme succeeds the ISA Programme and will consolidate,
+promote and expand its activities.
+The objectives of the ISA2 programme shall be to:
+develop, maintain and promote a holistic approach to interoperability in the Union;
+facilitate efficient and effective electronic cross-border or cross-sector interaction between European public administrations on the one
+hand, and between European public administrations and businesses and citizens on the other;
+identify, create and operate interoperability solutions supporting the implementation of Union policies and activities;
+facilitate the re-use of interoperability solutions by European public administrations.
+On a political level, the Council has repeatedly called for even greater interoperability in Europe and for continued efforts to modernise
+European public administrations. On 24 and 25 October 2013, the European Council adopted conclusions stressing that the modernisation of
+public administrations should continue through the swift implementation of services such as e-government, e-health, e-invoicing and
+e-procurement, which rely on interoperability.
+In its Communication of 16 December 2010 entitled Towards interoperability for European public services, the Commission introduced the
+European Interoperability Strategy (EIS) and the European Interoperability Framework (EIF).
+Interoperability within local, national and European public administrations facilitates the achievement of the goals set out by the European
+Parliament in its resolution of 29 March 2012 on the EU Citizenship Report 2010: Dismantling the obstacles to EU citizens' rights.
+The ISA2 programme shall take into account social, economic and other aspects of interoperability, as well as the specific situation of SMEs
+and microenterprises, in order to improve interaction between European public administrations on the one hand, and between European public
+administrations and businesses and citizens on the other. It shall ensure a common understanding of interoperability through the EIF and its
+implementation in Member States' administrations.
+General principles: actions launched or continued under the ISA2 programme shall: (i) be based on utility and driven by identified needs and
+programme objectives; (ii) be flexible, extensible and applicable to other business or policy areas; and; (iii) demonstrate financial,
+organisational and technical sustainability.
+It shall comply with the following principles: (i) subsidiarity and proportionality, (ii) user-centricity, (iii) inclusion and accessibility, (iv) delivery of
+public services in such a way as to prevent digital divide, (v) security, respect for privacy and data protection, (vi) multilingualism, (vii)
+administrative simplification and modernisation, (viii) transparency, (ix) preservation of information, (x) openness, (xi) re-usability and
+avoidance of duplication, (xii) technological neutrality, solutions which, insofar as possible, are future-proof, and adaptability, (xiii) effectiveness
+and efficiency.
+All actions that meet the eligibility criteria shall be prioritised in accordance with the following prioritisation criteria laid down in this Decision.
+The Commission shall, by 8 June 2016, adopt implementing acts establishing a rolling work programme for the entire period of application of
+this Decision.
+Financial provisions: the financial envelope for the implementation of the ISA2 programme for the period of its application shall be EUR 130
+928 000. The annual appropriations shall be authorised by the European Parliament and the Council within the limits of the multiannual
+financial framework.
+The development, establishment and improvement of common frameworks and generic tools shall be funded by the ISA2 programme. The use
+of such frameworks and tools shall be financed by the European public administrations.
+The development, establishment, bringing to maturity and improvement of common services shall be funded by the ISA2 programme. A
+centralised operation of such services at Union level may be also funded by the ISA2 programme, in cases where such an operation is serving
+Union interests and is duly justified in the rolling work programme. In all other cases, use of those services shall be financed by other means.
+ENTRY INTO FORCE: 07.12.2015.
+APPLICATION: from 01.01.2016 until 31.12.2020.
+
+

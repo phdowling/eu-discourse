@@ -1,0 +1,397 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2016/0171(COD)
+
+Procedure completed
+28/04/2017 Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+Registration of persons sailing on board passenger ships operating to or
+from ports of the Member States: simplification
+Amending Directive 98/41/EC 1996/0281(SYN)
+Amending Directive 2010/65/EU 2009/0005(COD)
+Subject
+3.20.03 Maritime transport: passengers and freight
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Rapporteur
+
+Transport and Tourism
+
+Appointed
+01/08/2016
+
+BILBAO BARANDICA
+Izaskun
+Shadow rapporteur
+
+MONTEIRO DE
+AGUIAR Cláudia
+
+UJHELYI István
+
+TOMAŠIĆ Ruža
+
+KYLLÖNEN Merja
+
+TAYLOR Keith
+
+D'AMATO Rosa
+ARNAUTU
+Marie-Christine
+Committee for opinion
+LIBE
+
+Rapporteur for opinion
+
+Civil Liberties, Justice and Home Affairs
+
+Appointed
+14/11/2016
+
+STEVENS Helga
+
+Council of the European Union
+Commission DG
+European Commission
+Mobility and Transport
+
+Commissioner
+BULC Violeta
+
+Key events
+06/06/2016
+
+Legislative proposal published
+
+09/06/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+01/12/2016
+
+Debate in Council
+
+11/04/2017
+
+Vote in committee, 1st reading/single
+
+COM(2016)0370
+
+Summary
+
+reading
+11/04/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+21/04/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0168/2017
+
+11/07/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE610.810
+GEDA/A/(2017)008683
+
+03/10/2017
+
+Debate in Parliament
+
+04/10/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+23/10/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+15/11/2017
+
+Final act signed
+
+15/11/2017
+
+End of procedure in Parliament
+
+30/11/2017
+
+Final act published in Official Journal
+
+Summary
+
+Summary
+
+T8-0374/2017
+
+Technical information
+Procedure reference
+
+2016/0171(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 98/41/EC 1996/0281(SYN)
+Amending Directive 2010/65/EU 2009/0005(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 100-p2
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+TRAN/8/06753
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0370
+
+06/06/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0189
+
+06/06/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0190
+
+06/06/2016
+
+EC
+
+PE597.720
+
+03/02/2017
+
+EP
+
+PE600.925
+
+28/02/2017
+
+EP
+
+PE600.951
+
+10/03/2017
+
+EP
+
+A8-0168/2017
+
+21/04/2017
+
+EP
+
+GEDA/A/(2017)008683
+
+21/06/2017
+
+CSL
+
+T8-0374/2017
+
+04/10/2017
+
+EP
+
+Committee draft report
+Committee opinion
+Amendments tabled in committee
+Committee report tabled for plenary, 1st
+reading/single reading
+Coreper letter confirming interinstitutional
+agreement
+Text adopted by Parliament, 1st
+reading/single reading
+
+LIBE
+
+Summary
+
+Summary
+
+Summary
+
+Additional information
+Research document
+
+Briefing
+
+Final act
+Directive 2017/2109
+OJ L 315 30.11.2017, p. 0052
+Final legislative act with provisions for delegated acts
+
+2016/0171(COD) - 06/06/2016 Legislative proposal
+PURPOSE: to simplify and streamline the existing EU passenger ship safety regulatory framework (registration of persons sailing on board).
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: Parliament decides in accordance with the ordinary legislative procedure and on an equal footing
+with the Council.
+BACKGROUND: Council Directive 98/41/EC the first piece of EU legislation dealing with information on persons on board - provides for
+counting and registration of passengers and crew on board of passenger ships operating to and from the EU ports . It aims to ensure that the
+safety of passengers is not compromised by exceeding the maximum authorised number of persons on board and that search and rescue in
+the aftermath of any accident can be dealt with effectively.
+Since 1998, however, other pieces of EU law and international conventions dealing with related issues have entered into force and new
+technological systems and solutions have been developed. This has resulted in increasingly complex and overlapping legal provisions dealing
+with the counting, registration and reporting of persons on board.
+Experience of implementation has shown that the information on persons on board is not always readily available to the competent authorities .
+According to the current requirements, this information has to be stored in the company's system and be at all times readily available for
+transmission to the competent authority responsible for search and rescue. This requirement ignores the development of systems such as
+SafeSeaNet and the National Single Window and requires that the national competent authority contacts the shipping company in the event of
+an emergency. Moreover, the recorded data does not always include information on nationality (i.e. besides name, age and sex), making the
+assistance provided to victims and their relatives more difficult. As a result, operators that already transmit such data to the National Single
+Window are subjected to a double reporting regime.
+In the spirit of the Commission's REFIT and Better Regulation agenda and as an immediate follow-up to the fitness check on EU passenger
+ship safety legislation, the Commission considers that the existing EU passenger ship safety regulatory framework should be simplified and
+streamlined in order to (i) maintain EU rules where necessary and proportionate; (ii) ensure their correct implementation; and (iii) eliminate
+potential overlap of obligations and inconsistencies between related pieces of legislation.
+The proposal is fully consistent with the simplification proposals amending Directive 2009/45/EC of the European Parliament and of the
+Council and the new Directive replacing Council Directive 1999/35/EC.
+CONTENT: the Commission proposes to amend Directive 98/41/EC in order to update, clarify and simplify the existing requirements for
+counting and registration of passengers and crew on board passenger ships while enhancing the level of safety that they provide.
+The main amendments are as follows:
+to align as far as possible the definitions with the proposal amending Directive 2009/45/EC and with the proposal for a new Directive
+replacing 1999/35/EC and to align the responsibility of the passenger registrar with the proposal to remove the requirement for the
+information required by this Directive to be retained by the company ;
+to clarify the scope of the Directive and to bring it in line with the definition of port areas as defined in accordance with the proposal
+amending Directive 2009/45/EC;
+to replace the requirement to store the information on the number of persons on board in the company by recording it in the National
+Single Window or transmission by means of Automatic Identification System;
+to introduce the information on nationality of persons on board and to replace the requirement to store the lists of passengers and
+crew by the company by recording it in the National Single Window;
+to align the reference with the proposed means of data transmission and to clarify the responsibilities of Member States with respect to
+passenger ships flying the flag of a third country;
+to reflect the new role of the passenger registrar (i.e. not to store but to transmit the data) and to remove the requirement to set up a
+company passenger registration system;
+to reflect EU law on protection of personal data and specifies that personal data shall be destroyed by the company once transmitted
+to the single window (without prejudice to other reporting obligations);
+to remove the outdated reference to the exemption for regular services crossing the Strait of Messina, and to remove the possibility to
+exempt operators from transmitting the number of persons on board to the competent authorities;
+to ensure that the exemption criteria reflect the proximity of search and rescue facilities which are no longer included in the new
+definition of protected sea areas;
+to simplify the notification of exemptions via a database to be established and maintained for this purpose;
+to align Directive 98/41/EC with the provisions of the Treaty on the Functioning of the EU with regard to the power to adopt delegated
+and implementing acts conferred on the Commission.
+
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2016/0171(COD) - 21/04/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Transport and Tourism adopted the report by Izaskun BILBAO BARANDICA (ADLE, ES) on the proposal for a directive of
+the European Parliament and of the Council amending Council Directive 98/41/EC on the registration of persons sailing on board passenger
+ships operating to or from ports of the Member States of the Community and amending Directive 2010/65/EU of the European Parliament and
+of the Council on reporting formalities for ships arriving in and/or departing from ports of the Member States.
+As a reminder, the proposal to amend Directive 98/41/EC introduces a requirement for the digital registration and notification of passenger
+data by means of harmonised administrative procedures (the National Single Window) established under Directive 2010/65/EU) in order to
+facilitate emergency search and rescue operations.
+The committee recommended that the European Parliaments position adopted at first reading, following the ordinary legislative procedure,
+should amend the Commission proposal as follows:
+Digital notification of the number of passengers on board: Members supported the digital notification that the Commission suggests should be
+made via the National Single Window where the journey concerned exceeds 20 miles. However, a certain amount of flexibility needs to be
+provided for operators of shorter routes. In this respect, Members proposed that until two years after the entry into force of this Amending
+Directive, the number of persons on board may be made available to the designated authority by means of another electronic system,
+provided that that system is approved by the Member State.
+Information recorded by every passenger ship: in order to properly identify people on a large passenger ship, the following information shall
+also be recorded:
+date of birth;
+a contact number in case of an emergency, when the passenger so requests;
+information concerning special care or assistance that might be needed in an emergency.
+That information shall be collected before departure and recorded in the single window upon the passenger ships departure but in no case
+later than 10 minutes after its departure (and not 30 minutes as proposed by the Commission).
+Once the registration procedures have been completed, passengers should always be supplied with information on safety measures on the
+vessels and on action to be taken in the event of an emergency.
+Exemption: Member States from whose ports ships depart may exempt passenger ships operating, exclusively in protected sea areas, regular
+services of less than one hour between port calls.
+Data protection: personal data collected to facilitate search and rescue operations and the efficient handling of the aftermath of an accident
+should not be further processed or used for any other purpose and should not be retained longer than necessary and shall be without
+prejudice to other specific reporting obligations under Union or national law. Personal data should therefore be destroyed automatically and
+without undue delay once a ship's voyage has been safely completed or, as applicable, when an investigation or a judicial proceeding taking
+place during the aftermath of an accident or emergency has been concluded.
+Each company shall implement appropriate technical and organisational measures to protect personal data processed against accidental or
+unlawful destruction or accidental loss, alteration, unauthorised disclosure of, or access to personal data stored, transmitted or otherwise
+processed.
+Delegated acts: Members proposed that the power to adopt delegated acts shall be conferred on the Commission for a period of five years,
+which may be extended, from the date of entry into force of the Directive.
+Evaluation: the Commission shall evaluate the implementation of this Directive and submit the results of the evaluation to the European
+Parliament and the Council no later than two years (instead of seven) after the date referred to in the second subparagraph of Article 3(1).
+
+2016/0171(COD) - 04/10/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 655 votes to 12 with 26 abstentions a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council amending Council Directive 98/41/EC on the registration of persons sailing on board passenger ships
+operating to or from ports of the Member States of the Community and amending Directive 2010/65/EU of the European Parliament and of the
+Council on reporting formalities for ships arriving in and/or departing from ports of the Member States.
+The proposal to amend Directive 98/41/EC introduces a requirement for the digital registration and notification of passenger data by means of
+harmonised administrative procedures (the National Single Window) established under Directive 2010/65/EU) in order to facilitate emergency
+search and rescue operations.
+The European Parliaments position adopted at first reading following the ordinary legislative procedure amended the Commission proposal as
+follows:
+Notification of the number of passengers on board: before the passenger ship departs, the number of persons on board shall be
+communicated to the master of the ship, and reported by appropriate technical means in the single window , or, if the Member State so
+chooses, communicated to the designated authority by means of the Automatic Identification System.
+For a transitional period of six years from the date of entry into force of the amending Directive, Member States could allow this information to
+be communicated to the company's passenger of the company installed ashore and having the same function.
+Information recorded by passenger ships: in order to correctly identify persons on passenger ships travelling more than 20 miles from the point
+
+of departure to the next port, this information shall also include:
+date of birth;
+an emergency contact number if the Member State so decides and the passenger so requests;
+at the request of the passenger, information on any special care or assistance that may be need in an emergency.
+The information listed above shall be collected before the passenger ship's departure and reported in the single window upon the passenger
+ship's departure but in no case later than 15 minutes after its departure.
+Data protection: personal data should therefore be destroyed automatically and without undue delay once a ship's voyage has been safely
+completed or, as applicable, when an investigation or a judicial proceeding taking place during the aftermath of an accident or emergency has
+been concluded.
+Exemption: Member States may exempt passenger ships operating exclusively in a protected sea area where they provide scheduled services
+of one less than one hour between port calls and provided that search and rescue facilities are ensured in the vicinity.
+This Directive shall not apply to pleasure craft.
+In addition, landlocked Member States which do not have seaports and do not have passenger ships flying their flag that fall within the scope
+of the Directive shall be allowed to derogate from the provisions of the Directive.
+
+

@@ -1,0 +1,387 @@
+Procedure file
+Basic information
+2013/0237(NLE)
+
+NLE - Non-legislative enactments
+
+Procedure completed
+
+Joint Undertaking to develop the new generation European air traffic
+management system (SESAR): extension of the Joint Undertaking until 2024
+Amending Regulation (EC) No 219/2007 2005/0235(CNS)
+Subject
+3.20.01 Air transport and air freight
+3.20.01.01 Air safety
+3.50.01.05 Research specific areas
+3.50.20 Scientific and technological cooperation and agreements
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Industry, Research and Energy
+
+Rapporteur
+
+Appointed
+
+S&D THOMSEN Britta
+
+08/10/2013
+
+Shadow rapporteur
+PPE CANCIAN Antonio
+ALDE CREUTZMANN Jürgen
+Verts/ALE LAMBERTS
+Philippe
+ECR TOŠENOVSKÝ Evžen
+Committee for opinion
+
+Rapporteur for opinion
+
+BUDG
+
+Budgets
+
+The committee decided not to
+give an opinion.
+
+TRAN
+
+Transport and Tourism
+
+PPE CANCIAN Antonio
+
+Council of the European Union
+Commission DG
+European Commission
+Mobility and Transport
+
+Appointed
+
+16/09/2013
+
+Commissioner
+KALLAS Siim
+
+Key events
+10/07/2013
+
+Legislative proposal published
+
+10/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/10/2013
+
+Debate in Council
+
+23/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+29/01/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+15/04/2014
+
+Results of vote in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+16/06/2014
+
+Act adopted by Council after consultation
+of Parliament
+
+16/06/2014
+
+End of procedure in Parliament
+
+COM(2013)0503
+
+Summary
+
+A7-0062/2014
+
+Summary
+
+T7-0372/2014
+
+Summary
+
+01/07/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0237(NLE)
+
+Procedure type
+
+NLE - Non-legislative enactments
+
+Procedure subtype
+
+Consultation of Parliament
+Amending Regulation (EC) No 219/2007 2005/0235(CNS)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 188 -a1; Treaty on the
+Functioning of the EU TFEU 187
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ITRE/7/13338
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0503
+
+10/07/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0262
+
+10/07/2013
+
+EC
+
+Committee draft report
+
+PE522.978
+
+11/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE522.979
+
+05/12/2013
+
+EP
+
+PE522.993
+
+17/12/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0062/2014
+
+29/01/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0372/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Committee opinion
+
+TRAN
+
+Summary
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/721
+OJ L 192 01.07.2014, p. 0001 Summary
+
+2013/0237(NLE) - 10/07/2013 Legislative proposal
+PURPOSE: to amend Regulation (EC) No 219/2007 on the establishment of a Joint Undertaking to develop the new generation European air
+traffic management system (SESAR) as regards the extension of the Joint Undertaking until 2024.
+PROPOSED ACT: Council Regulation.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting the European Parliament but without being obliged to
+follow its opinion.
+BACKGROUND: the Single European Sky Air Traffic Management Research and Development project (the 'SESAR project') aims to
+modernise the air traffic management ('ATM') in Europe and represents the technological pillar of the Single European Sky (SES). It aims by
+2030 to provide the Union with a high performance air traffic control infrastructure which will enable the safe and environmentally friendly
+
+development of air transport.
+The first phase of the definition process ran from 2004 to 2008 and delivered the first edition of the European ATM Master plan (the 'ATM
+Master Plan'). The ATM Master Plan identifies three steps in the SESAR development process: Time Based operations (Step 1), Trajectory
+Based Operations (Step 2) and Performance Based Operations (Step 3).
+SESAR JU (SJU) was set up by Regulation (EC) No 219/2007 for the purpose of managing the activities of the development process of the
+SESAR project under the Unions 2007-2013 financial perspectives. The JUs work programme, covered by the Unions 2007-2013 financial
+perspectives, addresses all elements of Step 1 and approximately 80% of Step 2 of the ATM Master Plan. The related activities should be
+completed by 2016. The remaining activities of Step 2 and those related to Step 3 should start in 2014 under the Unions 2014-2020 financial
+framework.
+In accordance with Regulation (EC) No 219/2007, the JU should cease to exist on 31 December 2016. To continue the development of the
+activities defined in the ATM Master Plan, it is necessary to extend the duration of the Joint Undertaking until 2024, which reflects the duration
+of the Unions 2014-2020 financial framework and allows 4 additional years for completion of projects that would be initiated by the end of that
+period.
+IMPACT ASSESSMENT: an ex ante evaluation confirms the usefulness and efficiency of an extension of the SJU under the Horizon 2020
+framework programme to reach the SES performance objectives.
+LEGAL BASIS: Articles 187 and 188 of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: as it is necessary to continue research and innovation on air traffic management (ATM) beyond 2016, this legislative proposal
+seeks to amend Council Regulation (EC) No 219/2007 to extend the duration of the SJU until 2024.
+The proposed amendments also seek to:
+entitle the SESAR JU to award grants to its Members and other participants, considering Horizon 2020 Rules for Participation;
+remove the limitation of 8 years on the employment contracts of temporary agents and contract agents, which could hinder the
+continuity of the employment of experienced staff for a body having a limited duration;
+limit the mandate of the Executive Director in place on 1.1.2009 to 31 December 2016 to ensure coherence with the amending Council
+Regulation No 1361/2008;
+terminate by 31 December 2016 the membership of the current members of the JU who do not contribute to activities that will be
+financed by Horizon 2020 under the 2014-2020 financial framework;
+clarify the procedure for the award of grants, taking into account the Rules for participation laid down in Horizon 2020;
+change the term of office of the Executive Director from 3 years into 5 years, renewable once;
+take into account the standard provision on the protection of the Union financial interests and the 2013 Financial Regulation.
+BUDGETARY IMPLICATION: the Commission proposes to provide again for a multiannual financial envelope to be imputed into the Union
+budget for the period from 1 January 2014 to 31 December 2020 coinciding with the new multiannual financial framework. It proposes
+earmarking an amount of up to EUR 600 million (including EFTA contribution) for the reference period. This amount is indicative because it is
+subject to the negotiations currently on-going on the Multi-Annual Financial Framework for the period 2014-2020 and to negotiations with
+private partners.
+The activities to be carried out under the 2014-2020 Multi Financial Framework cover the highest maturity level of Step 2, for which the
+technology and operations are expected to be available by 2016, and the full scope of Step 3 Performance based operations of the ATM
+Master Plan.
+It should be noted that the SJUs work programme financed under the Unions 2007-2013 financial perspectives is proceeding and is managed
+so as to complete its activities by 31.12.16, while new activities will be gradually phased in from 2014 onwards.
+
+2013/0237(NLE) - 29/01/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Industry, Research and Energy adopted, in the framework of a special legislative procedure (Parliament consultation), the
+report by Britta THOMSEN (S&D, DK) on the proposal for a Council regulation amending Regulation (EC) No 219/2007 on establishment of a
+Joint Undertaking to develop the new generation European air traffic management system (SESAR) as regards the extension of the Joint
+Undertaking until 2024.
+The committee approved the Commission proposal subject to the following amendments:
+SESAR Joint Undertaking: Members stipulated that SESAR should follow the research and innovation objectives established in Horizon 2020.
+In order to take account of the duration of the Horizon 2020 Framework Programme for Research and Innovation (2014-2020), all calls for
+proposals should be launched by 31 December 2020.
+Scope of work: Members introduced a new article which aims to clarify the scope of activities of the SESAR Joint Undertaking, in particular
+with respect to the relevant Technology Readiness Levels (TRLs) covered by its research programme. The rules of participation also call for a
+greater consideration of the TRL-concept to stipulate funding levels, which is taken up in this article with a view to the funding rates used in
+indirect actions.
+Unions financial contribution: the maximum Union contribution covering the costs under the Multiannual Financial Framework 2014-2020
+should be EUR 570 million (compared to the EUR 600 million as proposed by the Commission), including contributions from the countries of
+the European Free Trade Association (EFTA), paid from the budget appropriations allocated to Horizon 2020 and in particular from the specific
+objective "Smart, green and integrated transport" under the Horizon 2020 priority "Societal challenges".
+The Commission could oppose the use of the Union contribution for purposes that it considers to be contrary to the principles of Horizon 2020.
+Internal audit: the Joint Undertaking shall be free to organise its own internal audit capability.
+Evaluation: the Commission should organise independent evaluations of the implementation of this Regulation, the results obtained by the
+
+Joint Undertaking, that focus in particular on the impact and effectiveness of these concrete results achieved under the given term, in
+accordance with the ATM Master Plan. The evaluations should also cover the working methods, as well as the general financial situation of the
+Joint Undertaking. The results of those evaluations should be presented to the European Parliament and to the Council.
+The results of the 2017 independent interim evaluation of the Joint Undertaking shall be taken into account in the interim evaluation of Horizon
+2020.
+In order to respond to unforeseen situations or to new developments and needs the Commission may, following the interim evaluation of
+Horizon 2020, review, within the annual budgetary procedure, the budget of the Joint Undertaking.
+Rules of participation: in accordance with the principles of transparency and non-discrimination, Members called for calls for proposals
+organised by the Joint Undertaking shall be published on the web-based Horizon 2020 Participant Portal.
+Conflict of interest: the report introduced new provisions as regards a rigorous policy on conflicts of interest requiring parties to declare the
+absence or presence of such conflicts of interest and defining a procedure to deal with them as all too often declarations of interest are made
+but not acted upon.
+
+2013/0237(NLE) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 613 votes to 45, with 8 abstentions, a legislative resolution on the proposal for a Council regulation
+amending Regulation (EC) No 219/2007 on establishment of a Joint Undertaking to develop the new generation European air traffic
+management system (SESAR) as regards the extension of the Joint Undertaking until 2024.
+Parliament approved the Commission proposal subject to the following amendments:
+Joint Undertaking: the Joint Undertaking shall cease to exist on 31 December 2024. In order to take into account the duration of the Horizon
+2020 Framework Programme, calls for proposals under the Joint Undertaking shall be launched at the latest by 31 December 2020. In duly
+justified cases calls for proposals may be launched until 31 December 2021.
+The ECSEL Joint Undertaking should seek to develop close interactions with the European Structural and Investment Funds (ESIF).
+Financial contributions: the Union contribution under the Multiannual Financial Framework 2014-2020, including EFTA contributions, paid from
+the budget appropriations allocated to the Horizon 2020 - The Framework Programme for Research and Innovation (2014-2020) should be
+EUR 585 million (indicative amount in current prices).
+The arrangements for the Union contribution should be established by means of a general agreement and annual financial implementation
+agreements, which should be concluded between the Commission, on behalf of the Union, and the Joint Undertaking. The arrangements shall
+include:
+provision of data necessary to ensure that the Commission is able to meet its dissemination and reporting obligations; including on the
+single portal for participants as well as through other Horizon 2020 electronic means of dissemination managed by the Commission;
+provisions for the publication of calls for proposals of the SESAR Joint Undertaking also on the single portal for participants as well as
+through other Horizon 2020 electronic means of dissemination managed by the Commission.
+Evaluation: by 30 June 2017, the Commission should carry out, with the assistance of independent experts, an interim evaluation of the Joint
+Undertaking, and send a report to the European Parliament and to the Council by 31 December 2017. The results of the interim evaluation of
+the Joint Undertaking shall be taken into account in the interim evaluation of Horizon 2020.
+
+2013/0237(NLE) - 16/06/2014 Final act
+PURPOSE: to extend the duration of the SESAR Joint Undertaking until 31 December 2024.
+NON-LEGISLATIVE ACT: Council Regulation (EU) No 721/2014 of 16 June 2014 amending Regulation (EC) No 219/2007 on the
+establishment of a Joint Undertaking to develop the new generation European air traffic management system (SESAR) as regards the
+extension of the Joint Undertaking until 2024.
+CONTENT: the Single European Sky Air Traffic Management Research and Development project (SESAR project) aims to modernise the air
+traffic management (ATM) in Europe and represents the technological pillar of the Single European Sky (SES). It aims to provide the Union
+with a high performance air traffic control infrastructure by 2030 which will enable the safe and environmentally friendly development of air
+transport.
+The main task of the Joint Undertaking is the execution of the ATM Master Plan which is the agreed roadmap to bring ATM research and
+development to the deployment phase.
+In order to continue research and innovation on air traffic management (ATM) beyond 2016, this Regulation extends the duration of the
+SESAR Joint Undertaking until 2024 which reflects the duration of the Union's 2014-2020 financial framework.
+The amendments seek to:
+entitle the SESAR JU to award grants to its Members and other participants, considering Horizon 2020 Rules for Participation;
+terminate by 31 December 2016 the membership of the current members of the JU who do not contribute to activities that will be
+financed by Horizon 2020 under the 2014-2020 financial framework;
+clarify the procedure for the award of grants, taking into account the Rules for participation laid down in Horizon 2020;
+change the term of office of the Executive Director from 3 years into 5 years, renewable once;
+take into account the standard provision on the protection of the Union financial interests and the 2013 Financial Regulation.
+The Union contribution under the Multiannual Financial Framework 2014-2020, including EFTA contributions, paid from the budget
+
+appropriations allocated to Horizon 2020 Framework Programme shall be EUR 585 million. The arrangements for the Union contribution shall
+be established by means of a general agreement and annual financial implementation agreements, which shall be concluded between the
+Commission, on behalf of the Union, and the Joint Undertaking.
+In order to take into account the duration of Horizon 2020, calls for proposals under the Joint Undertaking shall be launched at the latest by 31
+December 2020. In duly justified cases calls for proposals may be launched until 31 December 2021. The calls for proposals launched by the
+Joint Undertaking should also be published on the single portal for participants as well as through other Horizon 2020 Framework Programme
+electronic means of dissemination managed by the Commission.
+The Joint Undertaking should seek to develop close interactions with the European Structural and Investment Funds (ESIF).
+By 30 June 2017, the Commission shall carry out an interim evaluation on the implementation of this Regulation and the results obtained by
+the Joint Undertaking send it to the European Parliament and to the Council by 31 December 2017. The results of the interim evaluation of the
+Joint Undertaking shall be taken into account in the interim evaluation of Horizon 2020.
+ENTRY INTO FORCE: 21.07.2014. It shall apply from 01.01.2014.
+
+

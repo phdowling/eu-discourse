@@ -1,0 +1,330 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0130(COD)
+
+Procedure completed
+
+European environmental economic accounts: new modules
+Amending Regulation (EU) No 691/2011 2010/0073(COD)
+Subject
+3.60.12 Energy statistics
+3.70.01 Protection of natural resources: fauna, flora, nature, wildlife,
+countryside; biodiversity
+3.70.20 Sustainable development
+8.60 European statistical legislation
+
+Key players
+European Parliament
+
+Committee responsible
+ENVI
+
+Environment, Public Health and Food Safety
+
+Rapporteur
+
+Appointed
+
+PPE ANTONESCU Elena
+Oana
+
+19/06/2013
+
+Shadow rapporteur
+S&D LYUBCHEVA Marusya
+ALDE DAVIES Chris
+Verts/ALE CHRYSOGELOS
+Nikos
+Committee for opinion
+ECON
+
+Economic and Monetary Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Eurostat
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Commissioner
+ŠEMETA Algirdas
+
+Key events
+02/05/2013
+
+Legislative proposal published
+
+21/05/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+27/11/2013
+
+Vote in committee, 1st reading/single
+reading
+
+02/12/2013
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+02/04/2014
+
+Results of vote in Parliament
+
+02/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+14/04/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+16/04/2014
+
+Final act signed
+
+16/04/2014
+
+End of procedure in Parliament
+
+COM(2013)0247
+
+Summary
+
+A7-0420/2013
+
+Summary
+
+T7-0268/2014
+
+Summary
+
+27/05/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0130(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 691/2011 2010/0073(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 338-p1
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ENVI/7/12662
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0247
+
+02/05/2013
+
+EC
+
+Summary
+
+Committee draft report
+
+PE521.527
+
+11/10/2013
+
+EP
+
+Amendments tabled in committee
+
+PE522.911
+
+06/11/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0420/2013
+
+02/12/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0268/2014
+
+02/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)471
+
+09/07/2014
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2014/538
+OJ L 158 27.05.2014, p. 0113 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0130(COD) - 02/05/2013 Legislative proposal
+PURPOSE: to ensure international comparability of environmental economic accounts.
+PROPOSED ACT: Regulation of the European Parliament and of the Council (amending Regulation (EU) No 691/2011).
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: sound information on the key trends, pressures and drivers for environmental change is essential for the development of
+effective policy, its implementation, and the empowerment of citizens more generally. Users put much emphasis on analysis and applications
+of environmental accounts in modelling and outlooks, both for preparing policy proposals and reporting on policy implementation and impacts.
+Regulation (EU) No 691/2011 on European environmental economic accounts covers three modules: (i) air emissions accounts ; (ii)
+environmental taxes ; (iii) material flow accounts. It contains a list of possible new modules to be introduced later based on Commission
+proposals. In accordance with the Regulation, several such pilot studies have been completed which clearly demonstrate the feasibility of the
+
+three new modules.
+IMPACT ASSESSMENT: no impact assessment was undertaken. The proposal has been discussed, in the framework of the European
+Statistical System, with data producers and users.
+LEGAL BASIS: Article 338(1) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the proposal of the amending act seeks to extend the coverage of Regulation 691/2011 to include the following additional modules
+:
+a module for environmental protection expenditure accounts;
+a module for environmental goods and services sector accounts;
+a module for physical energy flow accounts.
+These three new modules contribute directly to the Union's policy priorities of green growth and resource efficiency by providing important
+information on indicators such as market output and employment in the EGSS, national environmental protection expenditure and the use of
+energy in a detailed NACE breakdown. No new data collection is necessary for implementing the new modules.
+The United Nations Statistical Commission has adopted the System of Environmental- Economic Accounting (SEEA) as an international
+statistical standard at its 43rd session in February 2012. The new modules proposed are fully in line with the revised European Strategy for
+Environmental Accounting (ESEA 2008).
+BUDGETARY IMPLICATION: this proposal has no new implication for the Union budget.
+
+2013/0130(COD) - 02/12/2013 Committee report tabled for plenary, 1st reading/single reading
+The Committee on the Environment, Public Health and Food Safety adopted the report by Elena Oana ANTONESCU (EPP, RO) on the
+proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 691/2011 on European environmental
+economic accounts.
+The committee recommended that Parliaments position adopted at first reading following the ordinary legislative procedure should amend the
+Commission proposal as follows:
+Accessible data: Members considered that it is important that data on environmental economic activity are made available in a comprehensible
+and accessible form and published together with conventional economic data such as GDP. Environmental protection activities include all
+activities and actions which have as their main purpose the promotion of good environmental status (GES).
+Data transmission: the report noted that:
+the first reference year is the year following the year of entry into force of this Regulation;
+in the first data transmission, Member States shall include annual data from 2014 to the first reference year.
+Environmental goods and services sector: accounts for environmental goods and services should be drawn up using existing information
+obtained from national accounts, structural business statistics, business registers and other sources.
+Physical energy flow accounts: statistics shall be transmitted within 21 months of the end of the reference year.
+
+2013/0130(COD) - 02/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 609 votes to 20, with 5 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 691/2011 on European environmental economic accounts.
+Parliament adopted its position at first reading under the ordinary legislative procedure. The amendments adopted in plenary are the result of
+an agreement reached between the European Parliament and the Council. They amended the proposal as follows:
+Need for new measures: the amended text refers to Decision No 1386/2013/EU of the European Parliament and of the Council. This Decision
+provides that the pace of current developments and uncertainties surrounding likely future trends require further steps to ensure that policy in
+the Union continues to draw on a sound understanding of the state of the environment, of possible response options and their consequences.
+Instruments should be developed with a view to ensuring the preparation of quality-assured data and indicators and to improving its
+accessibility. It is important that such data be made available in a comprehensible and accessible form.
+Delegated acts: in order to take into account technical and scientific progress and supplement the provisions on energy accounts, the power to
+adopt acts should be delegated to the Commission in respect of the specification of the list of energy products referred to Annex VI as
+contained in the Annex to this Regulation.
+Such delegated acts should not impose a significant additional burden on the Member States or on the respondents. The Commission, when
+preparing and drawing up delegated acts, should carry out appropriate consultations during its preparatory work and ensure a simultaneous,
+timely and appropriate transmission of relevant documents to the European Parliament and to the Council.
+The power to adopt delegated acts should be conferred on the Commission for a period of 5 years from 11 August 2011 and could be tacitly
+extended for periods of an identical duration.
+Implementing acts: in order to facilitate a uniform application of Annex V, the Commission should, by 31 December 2015, by means of
+implementing acts, establish an indicative compendium of environmental goods and services and of the economic activities to be covered by
+Annex V based on the following categories: environmental specific services, environmental sole purpose products (connected products),
+adapted goods and environmental technologies.
+
+Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council.
+
+2013/0130(COD) - 16/04/2014 Final act
+PURPOSE: to ensure the international comparability of environmental economic accounts modules.
+LEGISLATIVE ACT: Regulation (EU) No 538/2014 of the European Parliament and of the Council amending Regulation (EU) No 691/2011 on
+European environmental economic accounts.
+CONTENT: the new Regulation extends the scope of the current legislation by introducing new modules on environmental economic accounts ,
+that is:
+·
+
+a module relating to Environmental Protection Expenditure accounts,
+
+·
+
+a module relating to Environmental Goods and Services Sector accounts,
+
+·
+
+a module relating to physical energy flow accounts.
+
+The new modules should contribute directly to the Union's policy priorities of green growth and resource efficiency , by providing important
+information on indicators such as market output and employment in the EGSS, national environmental protection expenditure and the use of
+energy.
+Delegated powers: in order to take into account technical and scientific progress and supplement the provisions on energy accounts, the
+power to adopt acts in respect of the specification of the list of energy products referred to in Section 3 of Annex VI as contained in the Annex
+to this Regulation.
+Such delegated acts shall not impose a significant additional burden on the Member States or on the respondents. When preparing the
+delegated acts, the Commission should proceed to appropriate consultations and ensure that relevant documents are transmitted to the
+European Parliament and the Council.
+The power to adopt the delegated acts shall be conferred on the Commission for a period of five years from 11 August 2011 and may tacitly be
+extended for periods of an identical time. The European Parliament or the Council may object to a delegated act within a period of two months
+from the date of notification (this period can be extended for two months). If the European Parliament or the Council make objections, the
+delegated act will not enter into force.
+Implementing powers: in order to facilitate a uniform application of Annex V, the Commission should establish, by 31 December 2015, by
+implementing acts, an indicative compendium of environmental goods and services and of the economic activities to be covered by this Annex,
+based on the following categories: environmental specific services, environmental sole purpose products (connected products), adapted goods
+and environmental technologies.
+ENTRY INTO FORCE: 16.06.2014.
+
+

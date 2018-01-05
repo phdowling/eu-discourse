@@ -1,0 +1,602 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0306(COD)
+
+Procedure completed
+
+Money market funds
+
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+22/07/2014
+
+GILL Neena
+Shadow rapporteur
+
+HAYES Brian
+
+KAMALL Syed
+
+JEŽEK Petr
+
+DE MASI Fabio
+
+LAMBERTS Philippe
+Former committee responsible
+ECON
+
+Economic and Monetary Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+S&D EL KHADRAOUI Saïd
+
+10/09/2013
+
+Commissioner
+HILL Jonathan
+
+European Economic and
+Social Committee
+
+Key events
+04/09/2013
+
+Legislative proposal published
+
+12/09/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+20/10/2014
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+26/02/2015
+
+Vote in committee, 1st reading/single
+reading
+
+04/03/2015
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+COM(2013)0615
+
+Summary
+
+A8-0041/2015
+
+Summary
+
+28/04/2015
+
+Debate in Parliament
+
+29/04/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+29/04/2015
+
+Matter referred back to the committee
+responsible
+
+17/06/2016
+
+Debate in Council
+
+08/12/2016
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+04/04/2017
+
+Debate in Parliament
+
+05/04/2017
+
+Results of vote in Parliament
+
+05/04/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+16/05/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+14/06/2017
+
+Final act signed
+
+14/06/2017
+
+End of procedure in Parliament
+
+30/06/2017
+
+Final act published in Official Journal
+
+Summary
+
+T8-0170/2015
+
+PE604.806
+
+Summary
+
+T8-0109/2017
+
+Technical information
+Procedure reference
+
+2013/0306(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/00218
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0615
+
+04/09/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0315
+
+04/09/2013
+
+EC
+
+Document attached to the procedure
+
+SWD(2013)0316
+
+04/09/2013
+
+EC
+
+Committee draft report
+
+PE541.543
+
+26/11/2014
+
+EP
+
+Amendments tabled in committee
+
+PE546.594
+
+12/01/2015
+
+EP
+
+Amendments tabled in committee
+
+PE546.595
+
+12/01/2015
+
+EP
+
+Amendments tabled in committee
+
+PE546.610
+
+12/01/2015
+
+EP
+
+Amendments tabled in committee
+
+PE546.613
+
+12/01/2015
+
+EP
+
+A8-0041/2015
+
+04/03/2015
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+Summary
+
+Summary
+
+Text adopted by Parliament, partial vote at 1st
+reading/single reading
+
+T8-0170/2015
+
+29/04/2015
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0109/2017
+
+05/04/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2017)363
+
+07/06/2017
+
+Additional information
+Research document
+
+Briefing
+
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Regulation 2017/1131
+OJ L 169 30.06.2017, p. 0008 Summary
+Final legislative act with provisions for delegated acts
+
+2013/0306(COD) - 04/09/2013 Legislative proposal
+PURPOSE: to ensure uniform prudential requirements that apply to money market funds throughout the Union.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: money funds (MMF, money market funds) offer a short-term cash management tool that provides a high degree of liquidity,
+diversification, stability of value combined with a market-based yield.
+The majority of MMFs, around 80% of the assets and 60% of the funds, operate under the rules of the Directive 2009/65/EC on Undertakings
+for Collective Investment in Transferable Securities (UCITS). The rest of MMFs should been operating, since July 2013, under the rules of the
+Alternative Investment Fund Manager (AIFM) Directive 2011/61/EU.
+Events that occurred during the financial crisis have shed light on several features of MMFs that make them vulnerable when there are
+difficulties in financial markets and therefore may spread or amplify risks through the financial system. When the prices of the assets in which
+the MMFs are invested in start to decrease, especially during stressed market situations, the MMF cannot always maintain the promise to
+redeem immediately and to preserve the principal value of a unit or share issued by the MMF to investors. This situation may trigger massive
+and sudden redemption requests, potentially causing broader macroeconomic consequences.
+In order to preserve the integrity and stability of the internal market by promoting more resilient MMFs and limiting contagion channels, it is
+necessary to lay down rules regarding the operation of MMFs, in particular on the composition of the portfolio of MMFs. Uniform rules across
+the Union are necessary to ensure smooth operation of the short term funding market for financial institutions, corporate issuers of short term
+debt and governments.
+This proposal is in line with the Commission Green Paper (March 2012) on shadow banking. In response to the Green Paper, the European
+Parliament adopted a resolution on shadow banking in November 2012 where it invites the Commission to submit a proposal with particular
+focus on the MMF issue.
+IMPACT ASSESSMENT: in order to ensure the liquidity and the stability of MMFs, a total of 16 options were analysed. The impacts including
+the costs and benefits on the various stakeholders, investors, asset managers, issuers of short term debt, sponsors were analysed. Such
+analysis concluded in favour of the creation of a more robust framework for MMFs, increased liquidity levels and more stable structure.
+LEGAL BASIS: Article 114 of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: the proposed Regulation aims to create a regulatory framework for MMFs in view of ensuring an increased protection of investors
+in MMFs, as well as enhancing financial stability by preventing contagion risk. It also aims to ensure that the liquidity of the fund is adequate to
+face investor redemption requests and to render the structure of MMFs safe enough to withstand adverse market conditions.
+The more specific objectives of this initiative: (i) to prevent the risk of contagion to the real economy, (ii) to prevent the risk of contagion to the
+sponsor and, (iii) to reduce the disadvantages for late redeemers, especially with respect to redemptions in stressed market conditions.
+The proposal introduces uniform requirements that will deal, amongst others with the scope of eligible assets, with diversification rules, rules
+related to exposures to credit, interest rate and liquidity risks, as well as rules regarding the authorisation of the funds intending to engage in
+money market investment. These are essentially prudential product rules that aim to render the European MMFs more secure and efficient,
+mitigating hereto related systemic risk concerns.
+The taking up of activities as fund manager is regulated either by the UCITS Directive or by the AIFM Directive. The activities of the managers
+will continue to be subject to AIFMD and UCITS Directive but the product rules contained under UCITS framework will be supplemented by the
+
+product rules contained in this proposed Regulation.
+BUDGETARY IMPLICATION: this proposal has no implications for the EU budget.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union (TFEU).
+
+2013/0306(COD) - 04/03/2015 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Neena GILL (S&D, UK) on the proposal for a regulation of the
+European Parliament and of the Council on Money Market Funds (MMFs).
+The parliamentary committee recommended that the European Parliament adopts its position at first reading, following the ordinary legislative
+procedure, amending the Commission proposal as follows.
+Subject matter and scope: Members stressed the necessity of adopting a uniform set of rules in order to avoid contagion of the short term
+funding market and of the sponsors of the MMF, which would put at risk the stability of the Union's financial market.
+In order to mitigate systemic risk, the amended text provides that the Constant Net Asset Value MMFs (CNAV MMFs) should, from the date of
+the entry into force of this Regulation, only operate in the Union:
+·
+
+as an EU "public debt CNAV MMF", namely, a CNAV MMF which invests 99.5% of its assets in public debt instruments and, by
+2020, at least 80% of its assets in EU public debt instruments:
+
+·
+
+as Retail CNAV MMFs;
+
+·
+
+or as a "Low Volatility Net Asset Value Money Market Fund" (LVNAV MMF).
+
+Eligible assets: the MMFs may also be invested in:
+·
+
+financial instruments issued or guaranteed separately or jointly i) by the national, regional and local administrations of the Member
+States or their central banks; ii) or by the institutions, bodies, offices or agencies of the Unions, including among others the European
+Central Bank; iii) or by the European Investment Bank, the European Investment Fund, the new European Fund for Strategic
+Investments; iv) but also the European stability mechanism, the International Monetary Fund, the International Bank for
+Reconstruction and Development, the Council of Europe Development Bank and the European Bank for Reconstruction and
+Development;
+
+·
+
+eligible derivative instruments used exclusively for hedging purposes;
+
+·
+
+reverse repurchase agreements or repurchase agreements provided that certain conditions are fulfilled.
+
+Eligible securitisations: the amended test underlines that not all categories of underlying assets have proved to be unstable, including in
+particular those securitisations where the underlying assets were associated with supporting the working capital of manufacturers and the
+sales of real economy goods and services. Those securitisations have performed well and should be considered to be eligible money market
+instruments to the extent that they are eligible as high quality liquid assets.
+That is why it is proposed that high quality liquid asset backed securities are deemed to be eligible securitisations. The high quality liquid asset
+backed securities would be deemed eligible if they are liquid in line with Regulation (EU) No 575/2013, and if the underlying exposures have a
+high credit quality.
+Specific requirements for Public Debt CNAV MMFs, Retail CNAV MMFs and LVNAV MMFs: the manager of a Public Debt CNAV MMF or a
+Retail CNAV MMF or LVNAV MMF should establish, implement and consistently apply a prudent, rigorous, systematic and continuous internal
+assessment procedure for determining the weekly liquidity thresholds applicable to the MMFs.
+In order to be able to mitigate potential client redemptions in times of severe market stress, all the MMFs should have in place provisions for
+liquidity fees and redemption gates to prevent significant redemptions in times of market stress and to prevent other investors being unfairly
+exposed to prevailing market conditions.
+LVNAV MMFs should only be authorised for a period of five years. The Commission should review the appropriateness of LVNAV MMFs four
+years after the entry into force of this Regulation.
+The MMFs should not receive external support.
+Transparency requirements: in order to develop a transparent and coherent credit assessment procedure, the manager should document the
+procedures used for the credit assessment. This should ensure that the procedure follows a clear set of rules that can be monitored and that
+the methodologies employed are communicated upon request to the interested stakeholders, as well as to the competent national authority.
+Investors should be clearly informed, before they invest in a MMF, if the MMF is of a short-term nature or of a standard nature. In order to
+avoid misplaced expectations from the investor it must also be clearly stated in any marketing document that MMFs are not a guaranteed
+investment vehicle.
+Investors in a MMF should, at least weekly, receive the following information: a) the liquidity profile of the MMF including the cumulative
+percentage of investments maturing overnight and within one week and how that liquidity is achieved; b) the credit profile and portfolio
+composition.
+
+2013/0306(COD) - 29/04/2015 Text adopted by Parliament, partial vote at 1st reading/single
+reading
+
+The European Parliament adopted amendments on the proposal for a regulation of the European Parliament and of the Council on Money
+Market Funds (MMFs).
+The matter was referred for review to the competent Committee. The vote was postponed to a later meeting.
+Subject matter and scope: money market funds (MMF) provide short-term finance to financial institutions, corporates or governments and thus
+contribute to the financing of the European economy. For such entities, using their investments in MMFs is an efficient way to spread their
+credit risk and exposure, rather than relying solely on bank deposits.
+In the absence of a regulation laying down MMF rules, Parliament stressed the necessity of adopting a uniform set of rules in order to avoid
+contagion of the short term funding market and of the sponsors of the MMF, which would put at risk the stability of the Union's financial market.
+In order to mitigate systemic risk, the amended text provides that the Constant Net Asset Value MMFs (CNAV MMFs) should, from the date of
+the entry into force of this Regulation, only operate in the Union:
+as an EU "public debt CNAV MMF", namely, a CNAV MMF which invests 99.5% of its assets in public debt instruments and, by 2020,
+at least 80% of its assets in EU public debt instruments;
+as Retail CNAV MMFs for small investors, that is, a CNAV MMF that is available for subscription only to charities, non-profit
+organisations, public authorities and public foundations;
+or as a "Low Volatility Net Asset Value Money Market Fund" (LVNAV MMF).
+Eligible securitisations: the amended test underlines that not all categories of underlying assets have proved to be unstable, including in
+particular those securitisations where the underlying assets were associated with supporting the working capital of manufacturers and the
+sales of real economy goods and services.
+That is why it is proposed that high quality liquid asset backed securities are deemed to be eligible securitisations. The high quality liquid asset
+backed securities would be deemed eligible if they are liquid in line with Regulation (EU) No 575/2013, and if the underlying exposures have a
+high credit quality. Within six months following publication of this regulation, the Commission shall, adopt delegated acts concerning the
+specification of the criteria for identifying simple, transparent and standardised securitisation.
+Specific requirements for Public Debt CNAV MMFs, Retail CNAV MMFs and LVNAV MMFs: the managers of such funds should establish,
+implement and consistently apply a prudent, rigorous, systematic and continuous internal assessment procedure for determining the weekly
+liquidity thresholds applicable to the MMFs.
+In order to be able to mitigate potential client redemptions in times of severe market stress, all the MMFs should have in place provisions for
+liquidity fees and redemption gates to prevent significant redemptions in times of market stress and to prevent other investors being unfairly
+exposed to prevailing market conditions:
+Public Debt CNAV MMFs and Retail CNAV MMFs for small investors should cease to be CNAV MMFs where they cannot meet the
+minimum amount of weekly liquidity requirements within 30 days of having used the liquidity fees or redemption gates.
+LVNAV MMFs should only be authorised for a period of five years. The Commission should review the appropriateness of LVNAV
+MMFs four years after the entry into force of this Regulation.
+The MMFs should not receive external support on the part of any third party, including the sponsor of the MMF, that is intended for, or would
+result in, guaranteeing the liquidity of the MMF or stabilising the NAV per unit or share of the MMF.
+Transparency requirements: in order to develop a transparent and coherent credit assessment procedure, the manager should document the
+procedures used for the credit assessment. This should ensure that the procedure follows a clear set of rules that can be monitored and that
+the methodologies employed are communicated upon request to the interested stakeholders, as well as to the competent national authority.
+Investors should be clearly informed, before they invest in a MMF, if the MMF is of a short-term nature or of a standard nature. In order to
+avoid misplaced expectations from the investor it must also be clearly stated in any marketing document that MMFs are not a guaranteed
+investment vehicle.
+Investors in a MMF should, at least weekly, receive the following information: a) the liquidity profile of the MMF including the cumulative
+percentage of investments maturing overnight and within one week and how that liquidity is achieved; b) the credit profile and portfolio
+composition.
+Supervision by the competent authorities: the competent authorities shall supervise compliance with this Regulation on an on-going basis.
+Authorisation of a MMF shall be withdrawn in the event of a breach of the ban on sponsor support.
+
+2013/0306(COD) - 05/04/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 514 votes to 179, with 9 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council on Money Market Funds.
+Parliaments position adopted in first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Subject matter and scope: the objective of this Regulation is to ensure uniform prudential, governance and transparency requirements that
+apply to money market funds (MMFs) throughout the Union.
+Money market funds provide short-term finance to financial institutions, corporations and governments. By providing finance to those entities,
+MMFs contribute to the financing of the economy of the Union. Those entities use their investments in MMFs as an efficient way to spread
+their credit risk and exposure, rather than relying solely on bank deposits.
+It is necessary to lay down rules regarding the operation of MMFs, in particular on the composition of the portfolio of MMFs. Those rules are
+intended to:
+make MMFs more resilient and limit contagion channels of the short-term funding market which would put at risk the stability of the
+Union's financial market;
+
+ensure that MMFs are able to face substantial and sudden redemption requests by a large group of investors during stressed market
+situations.
+Types of money market funds: the Regulation covers three types of MMFs:
+Variable net asset value MMF (VNAV MMF);
+Public Debt Constant net asset value MMF (Public Debt CNAV MMF or CNAV MMF), which invest at least 99.5% of their assets in
+public debt instruments or cash;
+Low Volatility Net asset value MMF (LVNAV MMF).
+Eligible assets: money market funds may invest in:
+money market instruments including financial instruments issued or guaranteed separately or jointly by the Union, the national,
+regional and local administrations of the Member States or their central banks, the European Central Bank, the European Investment
+Bank, the European Investment Fund, the European Stability Mechanism, the European Financial Stability Facility;
+eligible securitisations and asset-backed commercial paper (ABCPs) provided they meet certain requirements. Given that certain
+securitisations were particularly volatile during the financial crisis, the proposed Regulations would impose certain quality criteria on
+securitisations and ABCPs to ensure that only securitisations and successful ABCPs are eligible;
+reverse repurchase agreements and repurchase agreements that meet certain conditions;
+units or shares of other MMFs, subject to certain conditions.
+Diversification: an MMF shall invest no more than 5% of its assets in money market instruments, securitisations and ABCPs issued by the
+same body or 10 % of its assets in deposits made with the same credit institution. Some flexibility in the diversification requirement for deposits
+with the same credit institution should be allowed.
+The aggregate of all of an MMFs exposures to securitisations and ABCPs shall not exceed 20 % of the assets of the MMF.
+Credit quality: an MMF should have a prudent internal credit quality assessment procedure for determining the credit quality of the money
+market instruments, securitisations and ABCPs in which it intends to invest. MMFs should be able to use ratings as a complement to their own
+assessment of the quality of eligible assets.
+Specific requirements for Public Debt CNAV MMFs and LVNAV MMFs: the managers of such funds should establish, implement and
+consistently apply prudent and rigorous, liquidity management procedures for ensuring compliance with the weekly liquidity thresholds
+applicable to those MMFs.
+In order to be able to mitigate potential client redemptions in times of severe market stress, those MMFs should have in place provisions for
+liquidity fees and redemption gates to ensure investor protection.
+These funds should also be allowed to make limited use of the amortised cost method of valuing assets.
+A MMF shall not receive external support by a third party.
+Transparency requirements: investors should be clearly informed whether the MMF is of a short-term nature or of a standard nature and
+whether the MMF is a public debt CNAV MMF, a LVNAV MMF or a VNAV MMF. MMFs should also make available certain other information to
+investors on a weekly basis, including the maturity breakdown of the portfolio, the credit profile and details of the 10 largest holdings in the
+MMF.
+Supervision: competent authorities should be given all the supervisory and investigatory powers, including the ability to impose certain
+penalties and measures, necessary for the exercise of their functions with respect to this Regulation.
+Review: by five years after the date of entry into force of this Regulation, the Commission shall review and examine whether changes are to be
+made to the regime for public debt CNAV MMFs and LVNAV MMFs.
+
+2013/0306(COD) - 14/06/2017 Final act
+PURPOSE: to ensure uniform prudential, governance and transparency requirements that apply to money market funds (MMFs) throughout
+the Union,
+LEGISLATIVE ACT: Regulation (EU) 2017/1131 of the European Parliament and of the Council on money market funds.
+CONTENT: by providing short-term financing to financial institutions, corporations and governments, money market funds (MMFs) contribute
+to the financing of the economy of the Union . MMFs are mainly used by corporations seeking to invest their excess cash for a short time
+frame.
+The Regulation lays down rules for money market funds established, managed or marketed in the Union, concerning the financial instruments
+eligible for investment by a MMF, the portfolio of an MMF, the valuation of the assets of an MMF, and the reporting requirements in relation to
+an MMF.
+The rules and standards aim to:
+·
+
+make MMFs less vulnerable to crises and limit the risks of contagion within the short-term funding market that could risk the stability
+of the Union's financial market;
+
+·
+
+increase the liquidity of MMFs, to ensure that they can face substantial and sudden redemption requests from investors, especially
+during stressed market situations.
+
+Three types of MMFs: the Regulation covers three types of money market funds:
+·
+
+a public debt Constant Net Asset Value (CNAV) MMFs which aims to maintain the intrinsic value of the asset at a constant value;
+
+·
+
+variable net asset value MMFs (VNAV);
+
+·
+
+low volatility net asset value MMFs (LVNAV).
+
+Requirements on diversification of the portfolio: the Regulation lays down rules regarding the composition of MMF portfolios and the valuation
+of their assets, to ensure the stability of their structure and to guarantee that they invest in well-diversified assets of a good credit quality .
+An MMF may invest no more than 5 % of its assets in money market instruments, securitisations and securitisations and asset-backed
+commercial paper (ABCP) issued by the same body or no more than 10 % of its assets in deposits made with the same credit institutions .
+There is some flexibility allowed concerning the diversification requirement for deposits with the same credit institution.
+The aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 20 % of assets.
+As regards liquidity, the Regulation includes the following requirements:
+·
+
+for LVNAVs and CNAVs, a minimum 10% portfolio investment in daily maturing assets and minimum 30% portfolio investment in
+weekly maturing assets;
+
+·
+
+for VNAVs, a minimum 7.5% portfolio investment in daily maturing assets and minimum 15% portfolio investment in weekly maturing
+assets.
+
+The Regulation prohibits external support from sponsors, notably banks.
+Specific requirements for public debt CNAV MMFs and LVNAV MMFs: the manager of such funds shall establish, implement and consistently
+apply prudent and rigorous liquidity management procedures for ensuring compliance with the weekly liquidity thresholds applicable to such
+funds. In order to be able to mitigate potential investor redemptions in times of severe market stress, public debt CNAV MMFs and LVNAV
+MMFs should have in place provisions for liquidity fees and redemption gates to ensure investor protection.
+Credit quality: the manager of an MMF shall establish, implement and consistently apply a prudent internal credit quality assessment
+procedure for determining the credit quality of money market instruments, securitisations and ABCPs, taking into account the issuer of the
+instrument and the characteristics of the instrument itself.
+Transparency requirements: the common rules aim to ensure that the manager of an MMF knows the behaviour of its investors. The latter
+should be clearly informed before investing in a money market fund. MMFs should also make available certain other information to investors
+on a weekly basis, including the maturity breakdown of the portfolio, the credit profile and details of the 10 largest holdings in the MMF.
+Fund managers should also supply the appropriate information to competent authorities regarding surveillance matters.
+Review clause: by 21 July 2022, the Commission should undertake a review of the Regulation, including whether changes are to be made to
+the regime for public debt CNAV MMFs and LVNAV MMFs.
+ENTRY INTO FORCE: 20.7.2017.
+APPLICATION: from 21.7.2018 (with the exception of certain provisions that apply from 20.7.2017).
+DELEGATED ACTS: the Commission may adopt delegated acts in order to supplement non-essential elements of the Directive. The power to
+adopt such acts is conferred on the Commission for an indeterminate period from the date of entry into force of the Regulation. The European
+Parliament or the Council have the right to object to a delegated act within two months (which may be extended by two months) from the date
+of notification of the act.
+
+

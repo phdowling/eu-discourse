@@ -1,0 +1,405 @@
+Procedure file
+Basic information
+2015/2298(BUD)
+
+BUD - Budgetary procedure
+
+Procedure completed
+
+Mobilisation of the European Globalisation Adjustment Fund: redundancies
+in the ICT sector in Finland
+
+Subject
+3.40.06 Electronics, electrotechnical industries, ICT, robotics
+4.15.05 Industrial restructuring, job losses, redundancies, relocations,
+Globalisation Adjustment Fund (EGF)
+8.70.55 2015 budget
+Geographical area
+Finland
+
+Key players
+European Parliament
+
+Committee responsible
+
+Rapporteur
+
+Budgets
+
+BUDG
+
+Appointed
+06/11/2015
+
+ZANNI Marco
+Shadow rapporteur
+
+NEGRESCU Victor
+
+KÖLMEL Bernd
+
+JÄÄTTEENMÄKI Anneli
+
+NÍ RIADA Liadh
+
+VANA Monika
+Committee for opinion
+
+Rapporteur for opinion
+
+EMPL
+
+Employment and Social Affairs
+
+The committee decided not to
+give an opinion.
+
+REGI
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+Commission DG
+European Commission
+Budget
+
+Appointed
+
+Commissioner
+GEORGIEVA Kristalina
+
+Key events
+06/11/2015
+
+Non-legislative basic document published
+
+11/11/2015
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/12/2015
+
+Vote in committee, 1st reading/single
+reading
+
+10/12/2015
+
+Budgetary report tabled for plenary, 1st
+reading
+
+14/12/2015
+
+Draft budget approved by Council
+
+COM(2015)0553
+
+Summary
+
+A8-0362/2015
+
+Summary
+
+15/12/2015
+
+Results of vote in Parliament
+
+15/12/2015
+
+Decision by Parliament, 1st
+reading/single reading
+
+15/12/2015
+
+End of procedure in Parliament
+
+24/12/2015
+
+Final act published in Official Journal
+
+Summary
+
+T8-0438/2015
+
+Technical information
+Procedure reference
+
+2015/2298(BUD)
+
+Procedure type
+
+BUD - Budgetary procedure
+
+Procedure subtype
+
+Mobilisation of funds
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+BUDG/8/04939
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2015)0553
+
+06/11/2015
+
+EC
+
+Summary
+
+Committee draft report
+
+PE571.681
+
+19/11/2015
+
+EP
+
+Amendments tabled in committee
+
+PE573.026
+
+07/12/2015
+
+EP
+
+Budgetary report tabled for plenary, 1st reading
+
+A8-0362/2015
+
+10/12/2015
+
+EP
+
+Summary
+
+Budgetary text adopted by Parliament
+
+T8-0438/2015
+
+15/12/2015
+
+EP
+
+Summary
+
+Final act
+Decision 2015/2457
+OJ L 339 24.12.2015, p. 0044 Summary
+
+2015/2298(BUD) - 06/11/2015 Non-legislative basic document
+PURPOSE: to mobilise the European Globalisation Adjustment Fund (EGF) in order to assist Finland in dealing with redundancies in its
+information technology (ICT) sector.
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+CONTENT: Article 12 of Council Regulation (EU, Euratom) No 1311/2013 laying down the multiannual financial framework for the years
+2014-2020 provides that the EGF is not to exceed a maximum annual amount of EUR 150 million (2011 prices).
+The rules applicable to financial contributions from the European Globalisation Adjustment Fund (EGF) are laid down in Regulation (EU) No
+1309/2013 of the European Parliament and of the Council on the European Globalisation Adjustment Fund (2014-2020) and repealing
+Regulation (EC) No 1927/2006.
+In this context, the Commission has assessed the application for the mobilisation of the EGF in order to assist Finland, and has concluded as
+follows:
+Finland: EGF/2015/005 FI/Computer Programming: in June 2015, Finland submitted an application EGF/2015/005 FI/Computer programming
+for a financial contribution from the EGF, following redundancies in the economic sector classified under the NACE Revision 2 Division 62
+(Computer programming, consultancy and related activities) in the NUTS3 level 2 regions of Länsi-Suomi (FI19), Helsinki-Uusimaa (FI1B),
+Etelä-Suomi (FI1C) and Pohjois- ja Itä-Suomi (FI1D) in Finland. These regions, taken together, comprise all of Finland with the exception of
+the island of Åland.
+Finland submitted its application within the 12 weeks set out in the Regulation. The deadline within which the Commission should finalise its
+assessment of the application's compliance with the conditions for providing a financial contribution expires on 13 November 2015.
+In order to establish the link between the redundancies and major structural changes in world trade patterns due to globalisation, Finland
+argues that, in recent years, the distribution of ICT sector employment between the EU and other economies has developed to the detriment of
+
+the EU. While the volume of this domain has been increasing globally, it has dropped in Europe as businesses and services are moved to
+China, India, Taiwan and other non-European destinations. In 2014 alone, the personnel of Finnish ICT companies was reduced by 3 per cent
+or 1 500 people.
+These effects were particularly felt in Finland, where the entire Finnish electronics industry was severely affected, culminating in Nokia's
+announcement in 2011 of large-scale redundancies.
+The software business is a global business, and software products are purchased globally from the most cost-effective sources. An important
+feature of the global software industry is that it constantly requires a new, educated workforce, as the life cycle of products and related
+software solutions is very short compared to the life cycle of its personnel. While in 2008, the technology industry employed a total of 326 000
+people in Finland, the number of people employed by such companies in 2014 was 276 000.
+To date, the Computer programming, consultancy and related activities sector has been the subject of two EGF applications, one based on
+globalisation and the other on the economic and financial crisis (EGF/2011/016/Agile and the current application).
+Eligibility of the application: Finland submitted the application under the intervention criteria of Article 4(1)(b) of the EGF Regulation, which
+requires at least 500 workers being made redundant over a reference period of nine months in enterprises operating in the same economic
+sector defined at NACE Revision 2 Division and located in one region or two contiguous regions defined at NUTS 2 level in a Member State.
+The reference period for the application runs from 30 July 2014 to 30 April 2015.
+The redundancies during the reference period have been calculated as follows:
+1 218 from the date of the employer's individual notice to lay off or to terminate the contract of employment of the worker;
+385 from the date of the de facto termination of the contract of employment or its expiry.
+Accordingly, the total number of eligible beneficiaries is 1 603.
+With regard to the application, it is proposed that the EGF contribute the amount of EUR 2 623 200.
+BUDGETARY IMPLICATIONS: having examined the application in respect of the conditions set out in Article 13(1) of the EGF Regulation, and
+having taken into account the number of targeted beneficiaries, the proposed actions and the estimated costs, the Commission proposes to
+mobilise the EGF for the amount of EUR 2 623 200, representing 60 % of the total costs of the proposed actions, in order to provide a financial
+contribution for the application.
+The proposed decision to mobilise the EGF will be taken jointly by the European Parliament and the Council, as laid down in point 13 of the
+Interinstitutional Agreement of 2 December 2013 between the European Parliament, the Council and the Commission on budgetary discipline,
+on cooperation in budgetary matters and on sound financial management.
+At the same time as it presents this proposal for a decision to mobilise the EGF, the Commission will present to the European Parliament and
+to the Council a proposal for a transfer to the relevant budgetary line for the amount of EUR 442 293.
+Furthermore, at the same time as it adopts this proposal for a decision to mobilise the EGF, the Commission will adopt a decision on a
+financial contribution, by means of an implementing act, which will enter into force on the date on which the European Parliament and the
+Council adopt the proposed decision to mobilise the EGF.
+
+2015/2298(BUD) - 10/12/2015 Budgetary report tabled for plenary, 1st reading
+The Committee on Budgets adopted the report by Marco ZANNI (EFDD, IT) on the proposal for a decision of the European Parliament and of
+the Council on mobilisation of the European Globalisation Adjustment Fund, for an amount of EUR 2 623 200 in commitment and payment
+appropriations in order to assist Finland in dealing with redundancies in its information technology (ICT) sector.
+Members recalled that the Union set up legislative and budgetary instruments to provide additional support to workers who are suffering from
+the consequences of major structural changes in world trade patterns or of the global financial and economic crisis and to assist their
+reintegration into the labour market.
+Finnish application: Finland submitted application EGF/2015/005 FI/Computer Programming for a financial contribution from the EGF following
+1 603 redundancies in 69 enterprises operating in the NACE Rev. 2 division 62 ('Computer programming, consultancy and related activities') in
+several NUTS level 2 regions covering the whole of Finland. An estimated 1 200 redundant workers are expected to participate in the
+measures.
+Given that the conditions set out in point (b) of Article 4(1) of the EGF Regulation are met, Finland is entitled to a financial contribution for the
+workers made redundant.
+Nature of the redundancies: Members noted that in recent years the distribution of ICT sector employment between the Union and other
+economies has developed to the detriment of the Union and underlined that while in 2008, the technology industry employed a total of 326 000
+people in Finland, the number of people employed by such companies in 2014 was 276 000, which corresponds to an average decline per
+year of about 3%. The events giving rise to these redundancies are the developments affecting Nokia in recent years. They stated that
+developing and designing operating systems for Nokia mobile phones used to employ thousands of Finnish people and these functions have
+now been transferred to countries outside Europe. These redundancies will further aggravate the unemployment situation in the ICT sector in
+regions struggling with a high unemployment rate.
+Members noted that redundancies in the ICT sector are affecting particularly the Oulu region in Northern Ostrobothnia where ICT sector has
+been a mainstay of the economy for years. They regretted that in spring 2015, there were approximately 1 500 unemployed jobseekers in the
+ICT sector in Northern Ostrobothnia and that in many cases unemployment has become prolonged as one third of unemployed people with a
+higher education degree have been without work for more than a year.
+A package of personalised services: Members welcomed the fact that, in order to provide workers with speedy assistance, the Finnish
+authorities decided to initiate the implementation of the personalised services to the affected workers on 1 August 2014, well ahead of the
+decision on the granting the EGF support for the proposed coordinated package.
+
+Members noted that Finland is planning seven types of measures for redundant workers covered by this application:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+coaching measures and other preparatory measures,
+employment and business services,
+training,
+pay subsidies,
+start-up grants,
+steering towards entrepreneurship and services for new entrepreneurs,
+allowances for travel, overnight and removal costs.
+
+They welcomed the measures supporting entrepreneurship, in the form of start-up grants and measures steering towards entrepreneurship
+and services for new entrepreneurs. They considered that these measures will be more useful if they are provided in combination to the
+participants. They pointed out that a pay subsidy should preferably be provided to the dismissed workers only when the jobs offered to the
+participants comply with the adequate quality requirements in terms of skill level and duration of contract.
+They noted that the authorities estimate that 18.31% of the costs will be used for allowances and incentives, which remains much below the
+maximum allowed 35% of all costs.
+Appropriate and complementary measures: Members asked the Commission to further detail, in future proposals, the sectors in which the
+workers are likely to find employment and if the training on offer is aligned to the future economic prospects and labour market needs in the
+regions concerned by the dismissals.
+They expected the Commission to oversee and evaluate the use of the money granted and to use this information in future applications to
+further direct the use of EGF to align it with ideas of performance based budgeting.
+Lastly, Members noted that the Finnish authorities confirm that the eligible actions do not receive assistance from other Union financial
+instruments.
+
+2015/2298(BUD) - 15/12/2015 Budgetary text adopted by Parliament
+The European Parliament adopted by 597 votes to 83, with 13 abstentions, a resolution on the proposal for a decision of the European
+Parliament and of the Council on mobilisation of the European Globalisation Adjustment Fund, for an amount of EUR 2 623 200 in commitment
+and payment appropriations in order to assist Finland in dealing with redundancies in its information technology (ICT) sector.
+Parliament recalled that the Union set up legislative and budgetary instruments to provide additional support to workers who are suffering from
+the consequences of major structural changes in world trade patterns or of the global financial and economic crisis and to assist their
+reintegration into the labour market.
+Finnish application: Finland submitted application EGF/2015/005 FI/Computer Programming for a financial contribution from the EGF following
+1 603 redundancies in 69 enterprises operating in the NACE Rev. 2 division 62 ('Computer programming, consultancy and related activities') in
+several NUTS level 2 regions covering the whole of Finland. An estimated 1 200 redundant workers are expected to participate in the
+measures.
+Given that the conditions set out in point (b) of Article 4(1) of the EGF Regulation are met, Finland is entitled to a financial contribution for the
+workers made redundant.
+Nature of the redundancies: Parliament noted that in recent years the distribution of ICT sector employment between the Union and other
+economies has developed to the detriment of the Union and underlined that while in 2008, the technology industry employed a total of 326 000
+people in Finland, the number of people employed by such companies in 2014 was 276 000, which corresponds to an average decline per
+year of about 3%. The events giving rise to these redundancies are the developments affecting Nokia in recent years. It stated that developing
+and designing operating systems for Nokia mobile phones used to employ thousands of Finnish people and these functions have now been
+transferred to countries outside Europe. These redundancies will further aggravate the unemployment situation in the ICT sector in regions
+struggling with a high unemployment rate.
+Parliament noted that redundancies in the ICT sector are affecting particularly the Oulu region in Northern Ostrobothnia where ICT sector has
+been a mainstay of the economy for years. It regretted that in spring 2015, there were approximately 1 500 unemployed jobseekers in the ICT
+sector in Northern Ostrobothnia and that in many cases unemployment has become prolonged as one third of unemployed people with a
+higher education degree have been without work for more than a year.
+A personalised package of services: Parliament welcomed the fact that, in order to provide workers with speedy assistance, the Finnish
+authorities decided to initiate the implementation of the personalised services to the affected workers on 1 August 2014, well ahead of the
+decision on the granting the EGF support for the proposed coordinated package.
+It noted that Finland is planning seven types of measures for redundant workers covered by this application:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+coaching measures and other preparatory measures,
+employment and business services,
+training,
+pay subsidies,
+start-up grants,
+steering towards entrepreneurship and services for new entrepreneurs,
+allowances for travel, overnight and removal costs.
+
+It welcomed the measures supporting entrepreneurship, in the form of start-up grants and measures steering towards entrepreneurship and
+services for new entrepreneurs. It considered that these measures will be more useful if they are provided in combination to the participants.
+Members pointed out that a pay subsidy should preferably be provided to the dismissed workers only when the jobs offered to the participants
+comply with the adequate quality requirements in terms of skill level and duration of contract.
+
+Parliament noted that the authorities estimate that 18.31% of the costs will be used for allowances and incentives, which remains much below
+the maximum allowed 35% of all costs.
+Measures supporting entrepreneurship: Parliament welcomed the measures supporting entrepreneurship, in the form of start-up grants and
+measures steering towards entrepreneurship and services for new entrepreneurs. It considered that these measures will be more useful if they
+are provided in combination to the participants. It welcomed in particular the proposed measures which aim at creating new businesses and
+which will foster entrepreneurship and services for new entrepreneurs.
+It recalled that, in line with the EGF Regulation, the design of the coordinated package of personalised services supported by the EGF should
+anticipate future labour market perspectives and required skills and should be compatible with the shift towards a resource-efficient and
+sustainable economy.
+Appropriate and complementary measures: Parliament asked the Commission to further detail, in future proposals, the sectors in which the
+workers are likely to find employment and if the training on offer is aligned to the future economic prospects and labour market needs in the
+regions concerned by the dismissals.
+It expected the Commission to oversee and evaluate the use of the money granted and to use this information in future applications to further
+direct the use of EGF to align it with ideas of performance based budgeting.
+Lastly, Parliament noted that the Finnish authorities confirm that the eligible actions do not receive assistance from other Union financial
+instruments.
+
+2015/2298(BUD) - 16/12/2015 Final act
+PURPOSE: to mobilise the European Globalisation Adjustment Fund (EGF) in order to assist Finland in dealing with redundancies in its
+information technology (ICT) sector.
+LEGISLATIVE ACT: Decision (EU) 2015/2457 of the European Parliament and of the Council on the mobilisation of the European
+Globalisation Adjustment Fund (application from Finland EGF/2015/005 FI/Computer Programming).
+CONTENT: with this Decision, the European Parliament and the Council have decided to mobilise the sum of EUR 2 623 200 in commitment
+and payment appropriations from European Globalisation Adjustment Fund within the framework of the 2015 budget.
+This amount aims to obtain a financial contribution from the EGF following redundancies in the economic sector classified under the NACE
+Revision 2 Division 62 (Computer programming, consultancy and related activities) in the NUTS level 2 regions of Länsi-Suomi (FI19),
+Helsinki-Uusimaa (FI1B), Etelä-Suomi (FI1C) and Pohjois- ja Itä-Suomi (FI1D) in Finland.
+Given that this application complies with the requirements for determining the financial contributions as laid down in Regulation No 1309/2013
+(EGF Regulation 2014-2020), the European Parliament and Council have decided to grant the above-mentioned amount.
+The application was considered admissible since the redundancies have a serious impact on employment and the local, regional or national
+economy. Ireland has also decided to provide personalised services co-financed by the EGF also to 108 young persons not in employment,
+education or training (NEETs).
+To recall, the European Globalisation Adjustment Fund (EGF) aims to provide support for workers made redundant and self-employed persons
+whose activity has ceased as a result of major structural changes in world trade patterns due to globalisation, as a result of a continuation of
+the global financial and economic crisis, or as a result of a new global financial and economic crisis, and to assist them with their reintegration
+into the labour market.
+Council Regulation (EU, Euratom) No 1311/2013 laying down the multiannual financial framework for the years 2014-2020, allows mobilization
+of the EGF upto a maximum annual amount of EUR 150 million.
+ENTRY INTO FORCE: 16.12.2015.
+
+

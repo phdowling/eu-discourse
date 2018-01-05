@@ -1,0 +1,4257 @@
+2015
+
+Africa-Frontex
+Intelligence Community
+Joint Report
+
+2015
+
+Africa-Frontex
+Intelligence Community
+Joint Report
+
+1 of 52
+
+Frontex official publications fall into four main categories: risk analysis, training, operations
+and research, each marked with a distinct graphic identifier. Risk analysis publications bear a
+triangular symbol formed by an arrow drawing a triangle, with a dot at the centre. Metaphorically, the arrow represents the cyclical nature of risk analysis processes and its orientation
+towards an appropriate operational response. The triangle is a symbol of ideal proportions
+and knowledge, reflecting the pursuit of factual exactness, truth and exhaustive analysis.
+The dot at the centre represents the intelligence factor and the focal point where information from diverse sources converges to be processed, systematised and shared as analytical
+products. Thus, Frontex risk analysis is meant to be at the centre and to form a reliable basis for its operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, January 2016
+Risk Analysis Unit
+Frontex reference number: 20937/2015
+OPOCE Catalogue number TT-01-16-058-EN-N
+ISBN 978-92-95205-21-5
+doi:10.2819/436478
+© Frontex, 2016
+All rights reserved. Reproduction is authorised provided the source is acknowledged.
+Cover photo (taken by a migrant): A group of sub-Saharans stranded in a desert mud on
+their way to Sabha, southern Libya. © Frontex, 2015. All rights reserved.
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply the
+expression of any opinion whatsoever on the part of Frontex concerning the legal status of
+any country, territory or city or its authorities, or concerning the delimitation of its frontiers
+or boundaries. All maps and charts included in this report are the sole property of Frontex
+and any unauthorised use is prohibited. Frontex disclaims any liability with respect to the
+boundaries, names and designations used on the maps. The contents of open-source boxes
+are unverified and presented only to give context and media representation of irregular-migration phenomena.
+
+ACKNOWLEDGMENTS
+The AFIC Joint Report 2015 has been prepared by the Frontex Risk Analysis Unit. During the
+course of developing this product, many colleagues at Frontex and outside contributed to it
+and their assistance is hereby acknowledged with gratitude.
+
+2 of 52
+
+Table of contents
+Executive summary #6
+1.	Introduction and methodology #8
+1.1.	Introduction #8
+1.2.	Methodology #8
+2.	Irregular migratory movements affecting AFIC countries and EU Member States #12
+2.1.	Introduction #12
+2.2.	Availability of legal travel channels #14
+2.3.	Access to smuggling services, advice from relatives or friends and peer pressure #21
+2.4. L
+ ibya remains in a power vacuum #26
+2.5.	Rising number of casualties among migrants #32
+3.	Cross-border criminality #36
+3.1.	Introduction #36
+3.2.	Trafficking in human beings #36
+3.3.	Document fraud involving AFIC nationals and travel documents issued by AFIC countries #37
+3.4.	Drug smuggling #39
+3.5.	Firearms trafficking #41
+4.	Regional security threats #42
+4.1.	Regional initiatives gain ground against Boko Haram #42
+4.2.	Northern Mali remains unstable #48
+5.	Conclusions and recommendations #50
+
+3 of 52
+
+Frontex · AFIC Joint Report 2015
+
+List of abbreviations used
+ACLED
+Armed Conflict Location and Event Data Project
+AFIC
+Africa-Frontex Intelligence Community
+AQIM
+Al-Qaida in the Islamic Maghreb
+African Union
+AU
+AVRR
+Assisted Voluntary Return and Reintegration
+BCP
+border crossing point
+CCRC	
+Canary Islands Regional Coordination Centre of Guardia Civil (Centro de
+Coordinación Regional de Canarias)
+Frontex Consultative Forum
+CF
+CFA franc
+Communauté financière africaine franc
+CMFPR-I	Coordination of movements and patriotic resistance fronts I (Coordination des
+mouvements et forces patriotiques de résistance I)
+Coalition of the People of Azawad
+CPA
+CSDP
+Common Security and Defence Policy
+DRC
+Democratic Republic of the Congo
+DSS
+Nigeria’s Department of State Services
+EB-RAN
+Eastern European Borders Risk Analysis Network
+EC, COM
+European Commission
+ECOWAS
+Economic Community of West African States
+European Union Document-Fraud Risk Analysis Network
+EDF-RAN
+EPN
+European Patrols Network
+EU
+European Union
+EUCAP Sahel Mali European Union CSDP Mission in Mali
+EUNAVFOR Med	European Union Naval Force – Mediterranean
+EUR
+euro
+Statistical Office of European Communities
+Eurostat
+FOC
+Full Operational Capability
+Frontex	European Agency for the Management of Operational Cooperation at the
+External Borders of the Member States of the European Union
+Frontex Risk Analysis Network
+FRAN
+G5 Sahel
+Mauritania, Mali, Burkina Faso, Niger and Chad
+GADM
+Database of Global Administrative Areas
+Pro-unity Self-Defence Group of Imrad Tuareg and Allies
+GATIA
+GSPC	Salafist Group for Preaching and Combat (Groupe salafiste pour la prédication et
+le combat)
+HALCIA	
+Niger’s High Authority for the Fight against Corruption and Similar Crimes
+(Haute Autorité de lutte contre la Corruption et les Infractions Assimilées)
+HCUA
+High Council for the Unity of Azawad (Haut conseil pour l’unité de l’Azawad)
+ID
+identity document
+Internal Displacement Monitoring Centre
+IDMC
+IDP
+internally displaced person
+IOM
+International Organization for Migration
+Islamic State of Iraq and the Levant
+ISIL/Da’ish
+ISWAP
+Islamic State’s West Africa Province
+JO
+Joint Operation
+
+4 of 52
+
+MAA
+Arab Movement of Azawad
+MINUSMA	United Nations Multidimensional Integrated Stabilization Mission in Mali
+MNJTF
+Multinational Joint Task Force
+MNLA	National Movement for the Liberation of Azawad (Mouvement national pour la
+libération de l’Azawad)
+memorandum of understanding
+MoU
+MSF
+Médecins Sans Frontières
+MUJAO	Movement for Unity and Jihad in West Africa (Mouvement pour l’unicité et le Jihad
+en Afrique de l’Ouest)
+NEMA
+Nigeria’s National Emergency Management Agency
+NGO
+non-governmental organisation
+Offshore Patrol Vessel
+OPV
+OSCE
+Organization for Security and Co-operation in Europe
+RFI
+Request for Information
+Rimbo Transport Voyageurs
+RTV
+SALB
+Second Administrative Level Boundaries
+SAR
+search and rescue
+trafficking in human beings
+THB
+TU-RAN
+Turkey-Frontex Risk Analysis Network
+UK
+United Kingdom
+UNHCR
+United Nations High Commissioner for Refugees
+USA
+United States of America
+USD
+United States dollar
+Visa Information System
+VIS
+WAI
+Web Accessibility Initiative
+WB-RAN
+Western Balkans Risk Analysis Network
+United Nations Office on Drugs and Crime
+UNODC
+UN
+United Nations
+
+5 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Executive summary
+Legal travel channels to the EU available for
+most West Africans are quite narrow. Some
+AFIC countries have visa rejection rates close
+to 50%. This high rate indicates that irregular
+migratory movements from the AFIC region
+to the EU are largely perceived as economic
+migration by consular authorities in the EU.
+When measured in terms of the number of
+refusals of entry issued per 1 000 passengers, flights from Lagos to Paris, with rates
+of around 3–4 refusals for every 1 000 passengers, are considered the most risky. However, the overall ratio of refusals of entry to
+the number of passengers has been steadily
+declining on a number of air routes between
+West Africa and Europe.
+The prevailing profile of rejected visa applicants (young males) corresponds to the profile
+of migrants arriving in the EU through irregular channels. Also, apart from North African
+nationals all other AFIC country nationalities
+face a very low risk of return after their irregular entry to Italy, which is the main entry point
+for African migrants.
+For many West Africans, the decision to migrate is motivated by the feeling of inequality as well as social, peer and family pressure
+rather than by desperate need (poverty).
+This is why many of the migrants are not the
+worst-off in their home countries.
+Routing through Niger is currently the preferred option despite the turmoil in Libya and
+a high risk of loss of life when crossing the
+Mediterranean. This is largely due to the fact
+that would-be migrants face a much higher
+risk of return if detected on other routes. Most
+notably, very good operational cooperation
+between Spain, Senegal, Mauritania and Mo-
+
+6 of 52
+
+rocco has significantly reduced the pressure
+on the route towards the Canary Islands and
+south of Spain.
+The city of Agadez in Niger is catering for a
+growing number of transiting migrants en
+route to Libya and further on to the EU. Arriving in Niger and travelling to Agadez is a relatively cheap, fast and simple option. People
+smugglers in Agadez consider themselves to
+be service providers. Attempts to tackle this
+growing industry could spark local protests.
+Part of the challenge for the Nigerien authorities is the fact that the smuggling service industry is not controlled by one person
+or group. Authorities in Niger also face transiting migrants who are determined to reach
+Libya and Italy, have entered the territory of
+Niger legally (under the ECOWAS free-movement protocol) and for the most part are able
+to finance their onward journey.
+AFIC members pointed to a lack of harmonisation, especially with regards to different
+ECOWAS free-movement protocols. While
+some countries allow entry with ID cards both
+on land and air routes on the basis of bilateral
+or multilateral agreements (e.g. between Senegal and Guinea or Senegal and Cape Verde),
+others require travel documents (passports
+and IDs) in line with the ECOWAS protocols
+(Ghana and Nigeria). In practice, ECOWAS
+countries’ citizens very often travel without
+any kind of identity documents due to a lack
+of basic knowledge of the free movement of
+people within ECOWAS countries.
+Additionally, with regards to the maximum
+period of stay (90 days), travelling on the basis of ID card makes it difficult to confirm the
+period of stay, as there is no notification of
+
+entry/exit (a stamp or registration system).
+Thus, in majority of cases this requirement
+is not respected.
+Some people arriving in Agadez (mostly Sudanese) are also lured by the promise of finding
+gold in Djado, a hamlet located seven hundred kilometres north-east of Agadez, where
+soil gold was discovered in 2013. Such artisanal mining carries life hazards and also breeds
+the phenomenon of explosive smuggling on
+board regular buses. Regular bus lines in the
+ECOWAS region were also associated with
+drug smuggling as reported by Niger.
+Migrants making a maritime crossing continue
+to run a high risk of dying in the process. The
+increasing death toll in the Central Mediterranean during 2015, however, shows that more
+vessels engaged in rescue operations do not
+necessarily guarantee fewer deaths at sea.
+For several West African nationalities, the
+ratio between illegal border-crossings at external borders of the EU and the number of
+EU visas issued approaches 1:1 (e.g. the case
+of Malians in 2014).
+
+Reducing irregular migration through an efficient asylum and visa system is likely to be
+difficult to implement in the case of West Africa. This is suggested by the current visa rejection rates and the profiles of rejected visa
+applicants and irregular migrants detected in
+the Mediterranean.
+Based on discussions during thematic workshops held in Africa, AFIC delegates agreed
+that irregular migration, terrorism and organised crime must countered using a holistic approach.
+Consensus was reached that the securitisation and prosecution of smugglers and terrorists is exacerbated by the porosity of borders
+and vast areas of terrain in the Sahelian corridor (adjacent to ECOWAS free-movement
+space), corruption, opaque criminal structures
+and plethora of terrorist networks.
+AFIC delegates proposed that fight against
+cross-border criminality and terrorism should
+be based on three pillars: international cooperation, exchange of intelligence, and the provision of training and technical equipment to
+agencies and organisations involved in neutralising these security threats.
+
+7 of 52
+
+Frontex · AFIC Joint Report 2015
+
+1.	Introduction and methodology
+1.1.	Introduction
+The Africa-Frontex Intelligence Community
+(AFIC) was set up in 2010 to provide a framework for regular knowledge and intelligence
+sharing in the field of border security between
+Frontex and African countries. The concept of
+this collaboration was broadly based on the
+model of the Frontex Risk Analysis Network
+(FRAN) and the two already established regional risk analysis networks (the Western
+Balkans Risk Analysis Network – WB-RAN
+and the Eastern European Borders Risk Analysis Network – EB-RAN).
+In April 2010, a conference initiating this new
+network was held in Madrid with the participation of representatives of selected African
+states from West and North Africa, as well as
+Immigration Liaison Officers based in some
+African countries. The participants agreed
+to name the network ‘the Africa-Frontex
+Intelligence Community’, in short ‘the AFIC’.
+Following the positive experiences of 2011 and
+2012, further joint activities of the AFIC were
+organised in 2013 and 2014. Several workshops, annual conferences, field visits and
+three joint reports (prepared in English and
+French) testify to the achievements of the
+community.
+The AFIC has also gained more visibility outside its immediate members by sharing its
+knowledge with external stakeholders, such
+as ECOWAS, the European Commission, the
+European External Action Service, and regional initiatives such the Rabat and Khartoum Processes and the G5 Sahel (Mauritania,
+Mali, Burkina Faso, Niger and Chad).
+
+8 of 52
+
+This growing recognition was also echoed in
+the ‘EU Action Plan against migrant smuggling’ (COM(2015) 285 final), which recommended the AFIC to be further developed
+as a platform for information-sharing and
+joint analysis with third countries in Africa.
+In 2015, several new countries participated
+in the work of the AFIC. These are predominately countries of the Khartoum Process
+and Chad.
+
+1.2.	Methodology
+Over recent years, the AFIC has grown and
+matured as a community of experts. Discussions throughout 2014 revealed a clear need
+for further development of the community
+beyond the established model. In particular,
+work was initiated to create a dedicated and
+secure information-sharing platform that will
+be accessible via the internet. This was designed to extend the type and number of reports which could be shared within the AFIC
+and thus used in the drafting of this report.
+Furthermore, AFIC participants decided to
+create sub-regional analytical groups, based
+on linguistic, thematic or geographic criteria
+allowing for workshops to take place in Africa and not only in Europe, as has been the
+case until now.
+In March 2015, the AFIC held its first workshop in Warsaw, where information-sharing platform was presented and a training
+session was offered to AFIC participants on
+the use of the platform and the new reporting templates. Two types of reporting templates were agreed upon: Incident Reports
+(to be prepared on an ad-hoc basis) and In-
+
+Figure 1. Geographical scope of the Africa-Frontex Intelligence Community
+
+Tunisia
+
+Morocco
+
+Egypt
+
+Mauritania
+Cape
+Verde
+
+Niger
+
+Mali
+
+Sudan
+Chad
+
+The
+Senegal
+Gambia
+
+Eritrea
+
+Burkina
+Faso
+Guinea
+
+Djibouti
+Benin
+
+Cote
+d'Ivoire
+
+Sierra
+Leone
+
+Ghana
+
+Nigeria
+
+Somalia
+South
+Sudan
+
+Togo
+
+Liberia
+
+Cameroon
+
+Kenya
+
+EU Member States/Schengen Associated Countries
+
+Congo,
+DRC
+
+AFIC
+Invited as observers in 2015
+AFIC observer in 2014
+
+Angola
+
+Source: Frontex, 2015
+
+telligence Analysis Reports (to be submitted
+on a quarterly basis).
+
+ports (on a quarterly basis) as well as
+photographs and other graphic elements.
+
+The workshop participants agreed that the
+newly-created information-sharing platform
+is a major step forward in the development
+of the AFIC, as it:
+nn Allows for structured, secure and regular
+information sharing;
+nn Enhances the goal of shared ownership
+of the AFIC;
+nn Offers near to real-time information sharing among all AFIC participants;
+nn Limits access to the AFIC platform to registered users (no access to information uploaded by AFIC users to externals, such as
+other EU institutions, commercial companies, banks, etc.);
+nn Standardises the format of the provided
+information: Incident Reports (on an adhoc basis) and Intelligence Analysis Re-
+
+AFIC participants also noted that Frontex
+should explore options on how to bring the
+countries of the so-called Khartoum Process
+gradually into the community.
+The community also used the March 2015
+workshop to agree on the composition of,
+and the topics and venues for sub-regional
+groups. Frontex initially proposed three
+groups; however, the number was later reduced to two taking into account logistical
+issues and available resources. The first workshop took place in Casablanca between 26
+and 27 May 2015.
+The purpose of this workshop was to discuss, share and jointly analyse very important issues linking Africa and Europe: terrorist
+
+9 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Source: Frontex
+
+lese hosts for their excellent support, hospitality and professional attitude during the
+two events.
+
+Figure 2. Participants from AFIC countries during a training session
+on the use of a new platform and AFIC reporting templates
+
+movements affecting the Sahel and North
+Africa and irregular migration linking West
+Africa with North Africa and the EU. In addition, by organising the first event on the African continent, the community also wanted
+to test the feasibility of such events in the
+future.
+
+* In order to promote the highest
+levels of transparency and respect
+for Fundamental Rights in all
+Frontex activities, the Frontex
+Fundamental Rights Strategy
+(March 2011) and Article 26a (2) of
+the amended Frontex regulation
+(December 2011) mandated
+Frontex to create a Consultative
+Forum (CF) comprised of relevant
+European and international
+fundamental rights organisations.
+The organisations currently
+represented in the CF are:
+Amnesty International European
+Institutions Office, Caritas
+Europa, Churches’ Commission
+for Migrants in Europe, Council
+of Europe, European Asylum
+Support Office, European Council
+for Refugees and Exiles, European
+Union Agency for Fundamental
+Rights, International Catholic
+Migration Commission,
+International Commission of
+Jurists, International Organisation
+for Migration, Jesuit Refugee
+Service, OSCE Office for
+Democratic Institutions and
+Human Rights, Platform for
+International Cooperation on
+Undocumented Migrants, Red
+Cross EU Office, and the UNHCR.
+
+10 of 52
+
+The second workshop took place in Dakar
+between 10 and 11 June 2015. The objective
+was to review the functioning of the information sharing platform and, more importantly, discuss the topics of common interest:
+cross-border crime and the threat posed by
+Boko Haram.
+The two workshops were conducted in ‘open
+discussion’ format that allowed for direct and
+very productive exchanges. As such, they
+provided additional ideas for topics to be explored in the joint report. These include an
+update on legal travel channels between the
+EU and the AFIC region.
+In order to present a more comprehensive
+picture regarding this additional topic, Frontex addressed consular authorities from Germany, France, Belgium, Spain and Italy with
+a specific Request for Information (RFI). Furthermore, the European Commission and the
+European External Action Service were also
+addressed with specific RFIs.
+All replies to the RFIs and the issues discussed
+during the two workshops were fully integrated into the present report. Frontex would
+also like to take this opportunity to express
+its gratitude to our Moroccan and Senega-
+
+Joint analytical work continued throughout
+August and early September when the first
+draft of the annual report for 2015 was finalised. The draft was also shared with the
+Frontex Consultative Forum on Fundamental Rights*, which provided its comments. In
+addition, a meeting with International Organization for Migration (IOM) representatives was held in Dakar (June 2015) as were
+numerous audio or video conferences with
+the relevant representatives of the UNHCR,
+supported by UNHCR-Frontex liaison office
+in Warsaw.
+A drafting workshop was held in Warsaw
+between 8 and 9 September 2015 with the
+purpose of improving the draft’s quality by
+providing additional and more specific information from AFIC countries and other invited participants. Namely, apart from AFIC
+participants, nine observer countries (Khartoum Process + Chad) and experts from different EU missions in the Sahel region were
+also invited.
+The drafting workshop in Warsaw was also
+used to further enhance the visibility of the
+community by adopting an AFIC logo (see
+Fig. 5). It will be used in conjunction with
+the Frontex logo in accordance with the established rules.
+In addition, AFIC email server was created by
+Frontex and all participants were provided
+with initial training on the use of new communication channel. The new emails will be
+used to reregister all countries in the AFIC on
+the information-sharing platform.
+Objectives of this joint report
+Since the publishing of AFIC third annual report in November 2014, AFIC started to be
+seen by policy makers in Brussels as a model
+for a successful analytical and informationsharing platform. This fourth annual AFIC report is a further attempt to consolidate this
+cooperation model further.
+
+Source: Frontex
+Source: Frontex
+
+Figure 3. The first two sub-regional analytical group workshops were also attended by
+representatives of several EU Member States and the European Commission
+
+Source: Frontex
+
+Figure 4. Drafting workshop in Warsaw was very productive with all participants engaging
+in lively discussions
+
+Figure 5. Africa-Frontex Intelligence Community adopted a logo that represents core values
+of the community and symbolically brings the two continents closer together
+
+Furthermore, AFIC joint report drafting process is designed in a way to provide many opportunities for African partners to engage
+in practical implementation of risk analysis
+methodology used by Frontex.
+This annual report is also a culmination of
+joint efforts in terms of information exchange
+and the use of information-sharing platform.
+As such, the report testifies also to the positive developments in bringing African part-
+
+ners together and sharing information among
+themselves as they see fit.
+Lastly, the report should be read in the context of all major policy developments regarding the management of migration flows
+between West Africa and Europe and initiatives aimed at improving border control and
+return capacities of the countries involved
+in the AFIC.
+
+11 of 52
+
+Frontex · AFIC Joint Report 2015
+
+2.	Irregular migratory
+movements affecting AFIC
+countries and EU Member
+States
+2.1.	Introduction
+The EU is facing a dramatic and unprecedented irregular migration crisis. More
+precisely, with roughly 340 000 illegal border-crossings reported until July 2015, the
+sheer magnitude of the development becomes clear. By comparison, during the same
+period in 2014 (a record year in its own right)
+‘only’ 123 400 illegal border-crossings were
+reported.
+In July 2015 alone, there were 107 500 detections of illegal border-crossing, which is more
+than the sum of yearly totals for 2012 and 2013.
+Figure 6. Comparison of different routes used by irregular migrants
+from West Africa in 2015 compared with 2014
+Jan-Jul 2015
+
+Western
+Mediterranean
+route
+
+Jan-Jul 2014
+
+The dramatic nature of the situation is apparent, especially given the scale of irregular
+migration flows faced by border-control authorities in Greece, Hungary and Italy. These
+three Member States reported 97% of all
+cases of illegal border-crossing in the EU during 2015.
+A significant share of this flow is composed
+of persons coming from countries producing
+very high numbers of refugees (e.g. Afghanistan, Syria and Iraq). This particular flow has,
+during 2015, mostly affected Greece on the
+Eastern Mediterranean route, and by extension Hungary and Croatia on the Western Balkan route. The pressure stemming
+from large numbers of arriving refugees is
+also being largely felt by the main destination EU Member States (Germany, Sweden,
+the UK and France).
+In the Central Mediterranean, however, subSaharan Africans are the single largest group
+of persons being detected/rescued. More
+specifically, Nigerians, Gambians, Senegalese, Malians and Ghanaians are the top five
+nationalities detected amongst AFIC country nationals.
+
+Eastern
+Mediterranean
+route
+Western
+Balkan
+route
+Central
+Mediterranean
+route
+Grand Total
+
+0
+
+5 000 10 000 15 000 20 000 25 000 30 000 35 000 40 000
+
+Source: FRAN data as of 10 August 2015
+
+12 of 52
+
+Their numbers have been steadily increasing, mostly in the Central Mediterranean
+as shown in Figure 6, which compares the
+numbers of arrivals from West Africa in the
+first seven months of 2014 and the same period of 2015.
+
+Figure 7. Detections of illegal border-crossing at European external borders during July 2015 compared with July 2014
+
+Detections of illegal border-crossing
+at European external borders
+July 2014
+
+July 2015
+
+Jan–Jul 2014 Jan–Jul 2015
+
+Eastern Med. route
+Western Balkans route
+Central Med. route
+Other routes (outside the map)
+Total EU – Detections
+
+5 433
+1 738
+24 107
+1 286
+32 564
+
+49 911
+34 833
+20 871
+1 885*
+107 500*
+
+18 395
+8 089
+88 217
+8 768
+123 469
+
+132 240
+102 342
+91 302
+14 156*
+340 040*
+
+Total EU – Persons (estimate)
+
+31 000
+
+72 000
+
+117 000
+
+261 000
+
+*estimates
+
+Western
+Balkan
+
+1 738
+
+34 833
+100 000
+90 000
+
+Central
+Mediterranean
+
+24 107
+
+5 433
+
+80 000
+
+49 911
+
+70 000
+60 000
+
+Eastern
+Mediterranean
+
+20 871
+
+50 000
+40 000
+
+Overall EU long term trend
+
+30 000
+
+Monthly
+detections
+of illegal
+bordercrossing
+
+20 000
+10 000
+Total
+2 0 0 9
+
+2 0 1 0
+
+2 0 1 1
+
+2 0 1 2
+
+2 0 1 3
+
+2 0 1 4
+
+2 0 1 5
+
+Source: FRAN and JORA data as of 10 August 2015
+
+Using knowledge of AFIC experts, contributions from the European Commission, EU
+Member States’ consular authorities, regular
+reporting from EU Member States and available information from debriefing activities of
+Frontex, the current chapter explores underlying reasons behind these developments. The
+focus is put on analysing how several key factors have evolved. These include:
+
+(i)	availability of legal travel channels for
+AFIC country nationals;
+(ii)	likelihood of entering the EU without
+being returned and the risk of dying en
+route;
+(iii)	advice from relatives or friends already
+present in the EU and peer pressure;
+(iv)	access to smuggling services.
+
+13 of 52
+
+Frontex · AFIC Joint Report 2015
+
+2.2.	Availability of legal travel
+channels
+2.2.1. In Africa
+
+* The Economic Community of
+West African States (ECOWAS)
+was established on May
+28 1975 via the treaty of Lagos
+with a mandate of promoting
+economic integration in
+all fields of activity of the
+constituting countries. Member
+countries making up ECOWAS
+are Benin, Burkina Faso,
+Cape Verde, Côte d’Ivoire,
+the Gambia, Ghana, Guinea,
+Guinea-Bissau, Liberia, Mali,
+Niger, Nigeria, Sierra Leone,
+Senegal and Togo.
+
+Travelling in Africa is greatly facilitated by the
+existence of ECOWAS* free-movement protocols and great porosity of the borders. Citizens have therefore access to a large area of
+West Africa and the Sahel with roughly 340
+million inhabitants. The volume of these regular movements is difficult to estimate as reliable passenger flow data are not available;
+however, it is likely quite significant.
+Despite the legal framework that was put in
+place over thirty years ago, ECOWAS nationals are still facing limitations regarding free
+movement. More precisely, there are significant differences among ECOWAS member
+states’ implementing entry controls. Namely,
+ECOWAS member states reserve the full right
+to refuse entry to anyone from the ECOWAS
+region on the basis of their national legislation, which can substantially differ between
+one another. In some cases, border-control
+officials enjoy absolute discretion to refuse
+entry to would-be migrants without the need
+to explain their reasons or process the case.
+These challenges were also mentioned during the AFIC workshop in Dakar when a lively
+debate arose over the question of whether
+one ECOWAS member state has the right to
+refuse entry to a national of another ECOWAS member state on the basis that the person has no sufficient means of subsistence.
+The debate also demonstrated the possible
+differing interpretations of the same text
+amongst border-control authorities in the
+ECOWAS region.
+While some countries allow entry with ID
+cards both on land and air routes on the basis of bilateral or multilateral agreements
+(e.g. between Senegal and Guinea and Sen-
+
+14 of 52
+
+Box 1. Increasing number of bus
+companies offering extensive
+route network in the ECOWAS
+region
+A novel feature during 2014 and 2015,
+according to AFIC experts, is the increasing market presence of many
+bus companies. They compete for
+their customers by providing relatively cheap and thus affordable transport for potentially millions of persons
+across ECOWAS region.
+Rimbo Transport Voyageurs in particular stands out as the company
+with the most developed network of
+routes and prices that are quite affordable. This company is also frequently
+mentioned by irregular migrants upon
+arrival in Italy. Its role in facilitating
+transit through Agadez in Niger is explained in greater detail in Section 2.3.
+
+egal and Cape Verde) other require travel
+documents following the ECOWAS protocols
+(Ghana and Nigeria). In practice, ECOWAS
+countries’ citizens very often travel without
+any kind of identity documents due to lack
+of basic knowledge of the free movement of
+people within the ECOWAS countries.
+Additionally, with regards to the maximum
+period of stay (90 days) travelling on the basis of identity card makes it difficult to confirm
+the period of stay as there is no notification
+of entry/exit (stamp or registration system).
+Thus, in majority of cases this requirement is
+not respected.
+The European Commission and its ECOWAS
+counterpart are aware of these many challenges. In fact, in its European Agenda on Migration, the European Commission proposed
+
+a 24-million-euro project aimed at ‘maximising the development potential of free movement of persons and migration in West Africa
+by supporting the effective implementation
+of the ECOWAS Free Movement of Persons’
+Protocols and the ECOWAS Common Approach on Migration.’ The project covers all
+ECOWAS member states and Mauritania.
+In its proclaimed objective, the action wants
+to strengthen the capacities of the ECOWAS
+commission to lead an intra-regional dialogue
+on free-movement and migration issues and
+act as a platform for policy development and
+harmonisation.
+Furthermore, the capacities of national institutions of ECOWAS member states and
+Mauritania in the areas of migration data
+collection and management, migration policy development, border management, labour migration and anti-trafficking will be
+improved.
+2.2.2. Between Africa and Europe
+As the recently published European Agenda
+on Migration (COM(2015) 240 final) states,
+‘a clear and well implemented framework for
+legal pathways to entrance in the EU (both
+through an efficient asylum and visa system)
+will reduce push factors towards irregular
+stay and entry, contributing to enhance security of European borders as well as safety
+of migratory flows.’
+The fact, however, remains that most of the
+countries in the Sahel and West Africa have
+the highest visa and asylum rejections rates
+compared to other regions of the world. For
+example, when it comes to visas, West Africa is the region with a visa rejection rate
+almost six times higher than the EU average.
+In 2014, almost one in three visa applications was rejected by EU Member States’
+
+consular authorities in West Africa resulting in 213 000 visas issued, predominately,
+by five EU Member States (France, Germany,
+Italy, Belgium and Spain; data do not include the UK and Ireland) for a region with
+an estimated 340 million inhabitants. This
+represented only 1.3% of the total number
+of short-term visas issued by EU Member
+States (excluding the UK and Ireland) to third
+country nationals.
+In the case of the Democratic Republic of the
+Congo, visa rejection rate stood at 50% during 2014, which was the highest rate among
+AFIC countries and the second highest for
+any third country in 2014. Other AFIC countries with consistently high rejection rates
+(30–40%) since 2011 are Guinea, Mali, Senegal, Nigeria, Cameroon and Ghana. In fact,
+there were five AFIC countries among the
+top ten third countries with the highest visa
+rejection rates in 2014.
+The fact that visas are hard to obtain even
+for AFIC representatives was mentioned several times during the past meetings of the
+AFIC and reiterated during the AFIC workshop in Dakar. While in some cases these
+are logistical problems (no Polish consulate in their country or the need to travel
+great distances for the fingerprinting in accordance with VIS regulation), the biggest
+concern is the fact that a stamp with ‘visa
+rejected’ is put in the passport of an unsuccessful visa applicant. This fact alone has a
+potentially detrimental effect if the same
+persons wants to travel to Canada, the USA
+or the Persian Gulf.
+The AFIC representative from Cameroon also
+mentioned that in some cases people will
+change their passport up to four or five times
+in order to have one without such a stamp.
+In his words: ‘This practice is breeding also
+identity and document fraud as many try to
+fraudulently obtain a clean passport’.
+
+15 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Figure 8. Rejection rates of visas and the number of visas issued to AFIC country nationals in 2014
+Visa rejection rate (percentage)
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Tunisia
+Visas issued
+Rejection rate of visas
+
+Egypt
+Niger
+Morocco
+Togo
+Burkina Faso
+Guinea-Bissau
+
+AFIC countries
+
+Mauritania
+Benin
+Cape Verde
+Libya
+Algeria
+Côte d'Ivoire
+Cameroon
+Mali
+Ghana
+Nigeria
+Senegal
+Guinea
+Congo (DRC)
+0
+
+50 000
+
+100 000
+
+150 000
+
+200 000
+
+250 000
+
+300 000
+
+Number of visas issued
+Source: Complete statistics on short-stay visas issued by the Schengen States
+
+16 of 52
+
+350 000
+
+400 000
+
+450 000
+
+500 000
+
+Source: Cameroonian presentation at AFIC workshop in 2015
+
+2.2.3. Regular passenger flow between
+West Africa and Europe
+According to available Eurostat data, the
+number of passengers arriving in the EU on
+flights originating from Benin, Burkina Faso,
+Côte d’Ivoire, Cape Verde, the Gambia, Ghana,
+Guinea, Mali, Nigeria, Niger, Senegal and Togo
+has been steadily rising since 2009. During
+2014 this trend reversed as the numbers decreased compared to 2013.
+This was likely due to flights from Senegal and
+Nigeria carrying fewer passengers to Paris,
+Frankfurt, Amsterdam, Madrid and Brussels
+airports. The largest drop in passengers were
+on flights to Paris, both Charles de Gaulle and
+Orly airports especially from June 2014 onwards, while Madrid also registered fewer
+passengers from Dakar, albeit with a more
+moderate decrease.
+These decreases on direct routes to Europe
+are likely down to the ‘Ebola’ restrictions
+and passengers increasingly flying via Turkey
+given that Turkish Airlines increased capacity
+from Lagos and Dakar in the summer of 2014.
+In the case of Lagos, Turkish Airlines has increased its capacity annually for a number
+
+Figure 9. As visa rejection rates are the highest in West and Central
+Africa consular authorities of several EU Member States clearly mark
+a rejection by stamp affixing a stamp in the passport pages normally
+reserved for visas and entry/exit stamps
+
+Box 2. Impact of introduction of Visa Information
+System (VIS)
+Facilitation in visa procedure, less visa shopping: with the
+implementation of the VIS consular authorities can verify also
+possible other visa applications of the applicant. This gives a
+full image of the profile of the applicant (purpose of stay and
+country of destination). The status of earlier visa applications
+can be decisive in some cases.
+Reduction of fraud: The fingerprints of the applicant and the
+verification in the VIS by linking with other applications, give a
+useful control mechanism of the identity of the applicant. This
+limits the cases of look-alikes and identity theft.
+Source: Belgian consular authorities in Dakar, Abuja, Abidjan and Yaounde (reply to
+the RFI)
+
+Figure 10. Gradual increase of air passenger flow both from West African countries and
+Morocco to the EU
+Air passenger flow from West African and Moroccan airports to EU destinations between 2009 and 2014
+
+5 000 000
+4 000 000
+3 000 000
+2 000 000
+1 000 000
+0
+
+2009
+
+2010
+
+2011
+Morocco
+
+2012
+
+2013
+
+2014
+
+West Africa
+
+Source: Eurostat as of 26 June 2015
+
+17 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Box 3.
+
+Turkish Airlines have the largest network in Africa
+
+Turkish Airlines further expanded during 2015 adding at least
+six new destinations in Africa. The airline already has the largest network in the continent among foreign carriers, followed
+by Air France and Emirates. By the end of 2015, Turkish Airlines has approximately 45 destinations in its African network
+across 30 countries.
+Air France has the second largest African network among European carriers with 34 destinations. Brussels Airlines operates
+19 destinations, while British Airways has 18 and Lufthansa 13.
+Unsurprisingly, several members of AFIC members mentioned
+the fact that Turkish Airlines are transporting a growing number of their nationals either towards Istanbul or in transit towards the Gulf region.
+Flying to Turkey seems to be fairly easy for many would-be migrants who gain an easy access to the external borders of the EU.
+Importantly, during 2015 significantly more Congolese and Cameroonians, Moroccans, Algerians, Nigerians and Ghanaians were
+detected en route from Greece through the Western Balkans
+towards Hungary.
+
+Source: Frontex
+
+Turkish Airlines has nearly doubled its seat capacity to Africa
+from about 38 000 in 2011 to about 70 000 weekly seats at
+the end of 2014.
+
+Figure 11. Turkish Airlines advertisement
+in Dakar, where passenger numbers on
+Turkish Airlines flights are increasing
+
+of years, however, in the case of Dakar, the
+capacity was increased by over 50% in 2014,
+which was not the case in 2013. These diversions in passenger flow during the summer months could account for around 3 000
+passengers per month not taking the usual
+direct connections to Europe (calculation
+based on the capacity of aircraft and frequency of flights). Also of importance is the
+fact that Turkish Airlines have been adding
+capacity on all their flights to Africa, including in other AFIC countries (like Cameroon)
+that are not included in the Eurostat data
+set (see Box 3).
+Flights from Sierra Leone and Liberia, which
+are not included in the Eurostat database,
+
+Source: centreforaviation.com
+
+Figure 12. Lagos and Dakar accounted for most passengers travelling via air route towards
+the EU in 2013 and 2014
+
+Others
+17%
+Abidjan
+6%
+
+Lagos
+27%
+
+2014
+
+Abuja
+11%
+Accra
+12%
+
+Source: Eurostat as of 26 June 2015
+
+18 of 52
+
+Abidjan
+6%
+
+2013
+
+Abuja
+12%
+
+Others
+20%
+
+Lagos
+28%
+
+Dakar
+25%
+
+Accra
+12%
+
+Dakar
+24%
+
+Figure 13. The main destination airports from West Africa to the EU were Paris Charles de
+Gaulle, Porto Santo, London Heathrow and Amsterdam Schiphol
+Passenger flow between the main West African airports and European destinations during 2014
+
+250 000
+
+200 000
+
+Amsterdam/Schiphol
+
+Madrid/Barajas
+
+London/Heathrow
+
+Paris/Orly
+
+Paris/Charles De Gaulle
+
+Frankfurt/Main
+
+Brussels/Brussels-national
+
+Porto Santo
+
+150 000
+
+100 000
+
+50 000
+
+0
+
+Lagos
+
+Dakar
+
+Accra
+
+Abuja
+
+Abidjan
+
+Bamako
+
+Praia
+
+Dakar
+
+Source: Eurostat as of 26 June 2015
+
+Figure 14. 2009 and 2012 saw a high rates of refusals of entry issued to West Africans
+(principally at London Heathrow and Paris Charles de Gaulle) despite relatively low
+passenger flows, but since 2012 refusals of entry have been declining sharply thanks to all EU
+destinations issuing less refusals
+Refusals of entry issues to West African countries’ citizens at reporting EU airports between 2009 and 2014
+
+arrivals
+
+1 500 000
+
+2 800
+
+refusals
+
+2 700
+2 600
+
+1 450 000
+
+2 500
+
+1 400 000
+
+2 400
+
+1 350 000
+
+2 300
+
+1 300 000
+
+2 200
+
+1 250 000
+1 200 000
+
+2 100
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+total refusals of entry upon
+arrival to the EU
+
+Total passenger flow
+from West African air routes
+
+1 550 000
+
+2 000
+
+Source: Eurostat and FRAN data
+
+Figure 15. Refusals of entry are gradually decreasing, although each year a surge occurs in
+the final four months of the year
+Monthly breakdown of passenger flow (left scale) compared to refusals of entry (right scale) in 2012–2014
+
+160 000
+
+passenger flow
+
+refusals
+300
+
+140 000
+
+250
+
+120 000
+100 000
+
+200
+
+80 000
+
+150
+
+60 000
+
+100
+
+40 000
+
+50
+
+0
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+20 000
+
+2012
+
+2013
+
+0
+
+2014
+
+Source: Eurostat and FRAN data
+
+19 of 52
+
+Frontex · AFIC Joint Report 2015
+
+could have further dented this longer term
+rising trend of passenger flow in the second
+half of 2014, since flights between London
+Heathrow and Freetown/Monrovia (British Airways) were suspended between August 2014 and January 2015, due to the Ebola
+crisis.
+In 2014, most passengers from West Africa
+used Nigeria’s Lagos Murtala Muhammed
+International Airport to make their way towards Europe, with around 56% of these
+440 000 passengers flying to London Heathrow airport, the rest were split between the
+international airports of Paris, Amsterdam
+and Frankfurt.
+The second main air hub to the EU from West
+Africa during 2014 proved to be Senegal’s
+Léopold Sédar Senghor International Airport in Dakar, despite noting the largest decrease in its passenger flow compared with
+any other West African airport under investigation (23 782 or 6.7% since 2013).
+In addition to these two main airports, Ghana’s Accra Kotoka International airport with
+connections to London Heathrow, Frankfurt
+International and Paris Charles de Gaulle, as
+well as Nigeria’s Abuja Nnamdi Azikiwe International Airport connecting Paris Charles
+de Gaulle, proved to be airports with significant passenger flows above 180 000 in 2014.
+The drop in the share of total passengers
+travelling through Lagos, Dakar and Abuja
+seem to have been diverted towards other
+airports in the West African region. The main
+airport witnessing a large surge in passenger
+travel in 2014 was Bamako in Mali. Between
+2011 and 2013, the passenger flow to Paris
+dropped from 67 986 (2011) to 38 578 (2012)
+to 29 949 (2013). In 2014 however, the passenger flow through Bamako bounced back
+to 68 327. This can be linked to the end of operation Serval, the French military intervention in Mali which began in January 2013 and
+
+20 of 52
+
+lasted until mid-2014. Indeed, during 2013 no
+passengers departed Bamako towards Europe in the first five months of the year, coinciding with the beginning of the military
+intervention.
+2.2.4. Ratios of refusals of entry
+compared to passenger flow
+The peak in EU-wide refusals of entry noted
+in 2012, was mainly due to London Heathrow
+and Paris Charles de Gaulle airports issuing
+high numbers of refusals. Since 2012, the refusals of entry issued by these two major air
+hubs to West Africans has been declining,
+contributing greatly to the overall decrease
+in refusals of entry issued by Member State
+authorities at air borders.
+The highest number of refusals of entry per
+1 000 passengers in 2014 were on flights between Lagos and Paris Charles de Gaulle. Refusals in Paris were slightly above 3 per 1 000
+passengers, which represents a marginally
+higher rate compared to 2013.
+Most of these refusals were issued because
+no appropriate documentation justifying the
+purpose and length of stay could be provided
+by the traveller. A disproportionately high
+(55%) share of refusals of entry were issued
+during the last 4 months of the year, which
+seems to be in line with the general trend
+across reporting EU airports.
+Passengers travelling from Lagos to other European destinations were also refused entry
+in higher ratios than from other departure
+airports in West Africa. Indeed, authorities
+at London Heathrow airport refused entry
+to around 2.7 out of 1 000 passengers while
+in Amsterdam this ratio was a lower 1.7 out
+of 1 000. Reasons for refusals were similar,
+in that most passengers were refused for a
+lack of visa or residence permit, or because
+they could not present suitable documents
+to justify their stay.
+
+In contrast, the lowest rates of refusal measured against passenger flow were between
+Abuja (Nigeria) and Paris, while Accra (Ghana)
+to Amsterdam followed close behind. On
+these connections the refusal of entry ratio
+per 1 000 passengers was below 0.5 in 2013
+and dropped to below 0.25 in 2014, in other
+words approximately 1 in 4 000 passengers
+were refused entry.
+
+2.3.	Access to smuggling
+services, advice from
+relatives or friends and
+peer pressure
+Most irregular migrants from West Africa
+who cannot obtain a visa or travel to the EU
+using other legal avenues opt to travel by land
+through Agadez in Niger, where many smuggling services are easily available.
+Evidence from debriefing of migrants in the
+Central Mediterranean during 2015 suggest
+that many have started their journey after receiving information or encouragement from
+friends or relatives already in the EU. The
+suggestion was that it is now fairly easy to
+reach the EU regardless of the heightened
+risk of dying in the desert or at sea in the
+Mediterranean.
+This perceived easiness is obviously prompting many new departures as open source reporting suggests that the number of weekly
+arrivals of West Africans to Agadez can reach
+around 6 000.
+What is interesting is the fact that poverty
+is not necessarily the sole factor that influences a decision to migrate. As suggested by
+an IOM study*, ‘poverty usually needs to be
+accompanied by a perception of inequality or
+an appreciation for the fact that something
+greater exists’. IOM termed this as ‘aspirational migration’.
+
+Box 4.
+
+Migrants’ testimony
+
+‘Some of my friends went to Europe and when they came back,
+they had money and bought cars for their family. One day I
+thought, “I am the same as these people, I should do the same”.’
+(Male, Côte d’Ivoire, 25)
+Source: Migration Trends Across the Mediterranean: Connecting the Dots, IOM, June 2015
+
+An example given by the AFIC representatives of Niger highlights the aspirational nature of some migratory movements: even
+though the agricultural region of Kantche
+in Niger (on the border with Nigeria) is relatively rich, people who are relatively well
+off still choose to depart. Furthermore, micro credits given by the government to local
+women were used to finance trips to Europe
+instead of for its intended purpose.
+Many in Niger and West Africa view migration to Europe also as a ‘cultural’ phenomenon. Some would-be migrants are driven by
+the fame and status migrants gain after they
+are able to buy a house or a car upon return
+from Europe. These perceptions of how easy
+it is to get rich in Europe are strong.
+The paradox mentioned by the representative
+of Niger is that many migrants would never
+accept menial and low-paying jobs in their
+own countries but are willing to do so when
+either in transit or already at destination.
+In any case, arriving in Niger and travelling
+to Agadez is relatively cheap, fast and quite
+simple. As discussed in further detail below,
+migrants need only buy a bus ticket and hop
+on buses that connect Niamey and Agadez
+with numerous cities in the ECOWAS region.
+
+* Migration Trends
+across the Mediterranean:
+Connecting the Dots, IOM,
+June 2015
+
+Many regular bus lines are operating en route
+from countries like the Gambia, Senegal, Benin, Mali and Ghana to Niger. In the case of
+migrants from the Gambia, there are at least
+
+21 of 52
+
+Frontex · AFIC Joint Report 2015
+
+four companies operating buses en route between the Gambia and the city of Agadez:
+Rimbo Transport Voyageurs (RTV), Sonef,
+Africa Star and 3STV.
+
+Source: Frontex
+
+For example, it costs around EUR 60 or
+41 000 CFA francs to travel 1 600 km from
+Cotonou in Benin to Agadez in Niger. From
+Dakar in Senegal, RTV is offering tickets for
+EUR 120 for the journey that covers almost
+3 800 km (see Fig. 16).
+Migrants usually pay for each leg of the bus
+ride separately so that they do not carry large
+sums of money with them. The money is
+
+Figure 17. Hundreds of young Africans wait to board a RTV bus from
+Niamey to Agadez in late July 2015. The ticket costs EUR 19
+
+Figure 16. Main routes and prices of the bus company Rimbo Transport Voyageurs linking many cities in West Africa
+with Agadez
+
+Algeria
+
+Mauritania
+
+Mali
+
+Niger
+
+Agadez
+
+Dakar
+
+Senegal
+
+Segou
+Bamako
+
+Niamey
+
+Zinder
+
+Ouagadougou
+Burkina
+Faso
+
+Guinea
+
+Benin
+Nigeria
+
+Sierra
+Leone
+
+Côte
+d’lvoire
+
+Ghana
+
+Liberia
+
+Abidjan
+
+Source: Frontex, RTV
+
+22 of 52
+
+Cotonou
+Lomé
+Accara
+
+Cameroon
+
+Diffa
+
+Chad
+
+Nigerien authorities are maintaining several
+checkpoints between Niamey and Agadez.
+Police and soldiers manning these checkpoints are often accused of taking bribes
+from smugglers and migrants. In fact, according to Niger’s agency HALCIA (Haute Autorité
+de lutte contre la Corruption et les Infractions Assimilées) corruption remains a major issue. In
+its report from 2013 the HALCIA concluded
+that payments to security forces and local
+authorities totalled USD 450 per vehicle and
+USD 30 per foreign migrant on the route between Agadez and the Libyan border. The
+HALCIA mission also found that bribes paid
+by migrants were essential to keep the security forces functioning as money earmarked
+in the military budget to buy diesel for vehicles, spare parts and food simply disappeared in Niamey.
+
+Source: Niger, AFIC email system
+
+transferred using money transfer companies
+along the route.
+
+Figure 18. Regular bus lines are not used only for transport of people
+but also drugs
+
+Box 5.
+
+AFIC Incident Report.
+
+Operation against a migrant smuggling network
+This sentiment was echoed during the April
+2015 HALCIA workshop on corruption in the
+road transport sector. According to the chief
+of staff of the Minister for Transport of Niger, corruption and false travel expenses have
+become common practices in relations between some road users and those responsible
+for management and traffic control. Furthermore, corruption in the transport sector is
+also manifest in unhealthy practices regarding issuing of administrative documents, and
+especially the control of the roads through
+what is commonly called ‘road harassment’.
+
+27.05.2015 – As part of the fight against Illegal immigration,
+Nigerien National Police intercepted, at the entrance of the
+city of Agadez, 124 sub-Saharans. They are as follows: 12 Gambian, 15 Senegalese, 45 Nigerians, 2 Bissau Guineans, 10 Malians,
+1 Guinean, 11 Ivorians, 6 Burkinabe, 21 Ghanaians and 1 Beninese.
+Result: The Nigerien authorities have put several buses available to ensure return of the migrants to their home countries.
+Source: Nigerien AFIC delegation
+
+The issue of corruption is also exacerbated
+by the fact that in practically all AFIC countries border guards who are sent to remote
+regions consider this as a form of professional
+punishment and are therefore unmotivated.
+As reported by Cameroon, the approach often
+taken by the authorities to counter corruption
+is to rotate available staff on a regular basis.
+
+23 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Box 6. Smuggling of explosives on regular bus
+connections in Niger
+Authorities in Niger are confronted with a growing problem of
+explosives being smuggled on regular passenger buses. There
+were at least two seizures of large quantities of explosives and
+detonators during July-August 2015. Both cases were discovered during routine checks of passengers’ baggage on bus lines
+linking Niamey and Agadez. The first seizure was of 96 sticks
+of explosives, 50 detonators, 10 detonating cords and 6 rolls of
+detonating cords. The second one was very similar regarding
+the material however with smaller quantities.
+Some AFIC partners expressed their worry (during AFIC workshop in Warsaw, September 2015) that these explosives might
+also be used for terrorist attacks in the wider region.
+Source: Niger, AFIC workshop in Warsaw, September 2015
+
+When buses arrive in Agadez, passengers are
+immediately surrounded by people, called
+‘Chasseurs’ offering accommodation in socalled ‘ghettos’ and onward transport to
+Libya. They get a few thousand CFA francs
+(up to EUR 5) for each migrant they bring to
+the ghetto. Accommodation is reportedly
+
+not very expensive as most of the profits are
+made on transport towards Libya.
+Interviewed migrants, authorities in Niger,
+different NGOs and open sources cite fairly
+similar prices for the trip to Sabha – between
+EUR 180 and 300. Usually, the money is split
+between the owner of the ghetto and the
+driver of who reportedly gets around 100 000
+CFA francs or EUR 150 per each migrant.
+Those that cannot afford to travel to Libya
+opt to go to Morocco (Algeria/Morocco/
+Spain) and in some cases are provided with
+Malian passports (visa-free status in Algeria
+and Morocco) and/or a false UNHCR document registering them as refugees is Algeria. ‘Rental’ of this kind of documents costs
+between EUR 50 (for a Malian passport) and
+EUR 10 (for UNHCR documents). Malian or
+UNHCR refugee documents are used for
+identification during many road check Algerian authorities hold on major roads in the
+region. Once in Maghnia, close to the Moroccan border, the networks will take care
+of retrieving the documents so that they
+can be reused.
+
+Source: Georg Hofer
+
+The vast majority, however, chooses to go
+to Libya. Some arrivals in Agadez (mostly
+Sudanese) are also lured by the promise of
+finding gold in Djado, a hamlet seven hundred
+kilometres north-east of Agadez, where soil
+gold was discovered in 2013. Such artisanal
+mining not only carries life hazards but also
+breeds smuggling of explosives on regular
+buses (see Box 6).
+
+Figure 19. A group of young migrants from Burkina Faso is waiting for
+onward transport in a ghetto in Agadez
+
+24 of 52
+
+Box 7.
+
+EU to help Niger by creating a pilot multi-purpose centre
+
+According to the European Agenda on Migration ‘a
+pilot multi-purpose centre is to be set up in Niger.
+Working with the IOM, the UNHCR and the Niger
+authorities, the centre will combine the provision of
+information, local protection and resettlement opportunities for those in need. Such centres in countries of origin or transit will help to provide a realistic
+picture of the likely success of migrants’ journeys,
+and offer assisted voluntary return options for irregular migrants.’
+Whereas the existing four centres in Niger (operated by IOM) provide basic assistance to migrants
+and limited Assisted Voluntary Return and Reintegration (AVRR) opportunities, the new multi-purpose
+centre project will offer a more comprehensive range
+of services aimed at supporting migrants (including
+returnees) and local host communities, and promoting alternatives to irregular migration.
+
+Such a centre should offer the possibility of medical and
+psychological assistance to migrants transiting through
+Niger as well as the host communities. The migrants
+would be advised on the dangers of irregular migration, and provide a realistic view of future perspectives
+of life in Europe (existence as an irregular migrant) and
+inform about credible alternatives to risky journeys.
+According to AFIC representative from Niger persuading
+the transiting migrants not to continue their onward
+journey is and will remain an uphill battle. Namely, the
+authorities in Agadez are dealing with migrants who
+are determined to reach Libya and Italy, have invested
+money and reputational capital, are legally present on
+the territory of Niger (ECOWAS free-movement protocol) and in most part are able to finance their onward
+journeys. Only small minority request return assistance
+from IOM and their transit centre is currently (August
+2015) almost empty (capacity up to 1 000 persons).
+
+Box 8. Niger adopts a tough law against the
+smuggling of migrants. This is the first law of
+that kind in West African countries
+The Nigerien Parliament approved a law that increases
+sentences from 1 to 30 years of prison, penalties from
+3 million up to 30 million CFA francs (EUR 4 500–
+45 000) for human traffickers and allows for the seizure of their vehicles.
+According to the Nigerien Ministry of Justice, the
+main goal of this law is ‘to protect the country borders. At these disturbed times, when the organised
+crime sows the terror in our country, it is essential
+that all those who travel have their identity accreditation. This law imposes it’.
+
+Smaller vans are also transporting would-be migrants from Niamey
+to Agadez
+Source: Spanish National Police
+
+25 of 52
+
+Frontex · AFIC Joint Report 2015
+
+2.3.1. Growing service industry catering
+for transiting migrants in Agadez
+
+prior to 2011 when a lot of Africans were travelling to Libya for work.
+
+Thousands of would-be migrants transit
+Agadez every month. In fact, given the increasing weekly arrivals in Agadez and almost 45 000 that have already irregularly
+entered Italy from Libya (until August 2015),
+roughly 100 000 West Africans are expected
+to transit through Agadez in 2015. In a city of
+140 000 people, the numbers are staggering and difficult to ignore. According to open
+source estimates, these numbers are as much
+as four times higher compared to the period
+
+Unsurprisingly, local officials and inhabitants
+(according to open sources) view this transit
+as beneficial to the local economy. Transiting
+migrants spend money on food, water, accommodation, and generally contribute critically to the local economy. Furthermore, the
+steady demise of regular tourism prompted
+many former tour guides to switch and cater for the transiting migrants.
+Attempts to tackle this growing industry
+could spark riots in Agadez. Part of the challenge for authorities in Niger is also the fact
+that no one person controls the smuggling/
+services industry. Already in 2013 Niger’s national police reported there were more than
+70 smugglers ‘ghettos’ active in Agadez.
+
+Source: Georg Hofer
+
+2.4. Libya remains in a power
+vacuum
+
+Source: Jochen Stanchke
+
+Figure 20. Water stand in Agadez where locals are selling water
+canisters to the migrants preparing to travel through Sahara to Libya
+
+Figure 21. A migrant is waiting in front of a banking establishment in
+Agadez for money transfer
+
+26 of 52
+
+The current Libyan situation is characterised by the collapse of government security
+structures, even in the west of the country,
+where most of the migrants start their journey towards Europe. The security vacuum is
+filled by militias, often performing duties in
+their area of influence. They are not bound
+by state law, but rather guided by their own
+interests. These militias range from city and
+district militias to tribal militias, ideologically motivated militias and criminal gangs.
+The command and control structures often
+function only to a limited extent.
+The southern tribes of Libya, the Toubou
+and Tuareg are both engaged in providing
+some border security, in the absence of a
+central and effective border force. However,
+elements from both tribes are almost certainly also involved in the smuggling business themselves, and it is judged that their
+primary interests will remain financial.
+
+Box 9.
+
+Irregular routes as reported by Niger
+
+According to the National Police of Niger, moving towards Libya or Algeria maintains these main routes
+than precedent years:
+n	
+Agadez/Arlit/Assamaka/Inguezzam/Tamanrassett,
+the main road, which is less risky;
+n	
+Agadez/Arlit/Inguezzam/Tamanrassett (route bypasses the police station);
+n	
+Agadez/Arlit/Tchingalen/Bouss Adrar/Tchibarakaten, where Libyan and Algerian facilitators
+offer packages to Janett (Algeria) or Gath (Libya).
+Migrants are housed in places called ‘garage’ that
+belong to the facilitators. Crossing to Algeria or
+Libya is done in small groups and preferably overnight in order to avoid possible checkpoints;
+Agadez/Ténéré/Dirkou/Seguidine/DaoTimi/
+n	
+Madama/Toumo/Gatrone/Oubari/Sabahaon.
+
+Starting from Seguidine, the route is very dangerous and migrants face a high risk of dying in
+the desert given the many cases of drivers simply abandoning migrants;
+n	
+Agadez/Dirkou/Seguidine/Chirfa/Djado/Janet in Algeria. This route is also very dangerous since most
+of the journey is done at night with only stars showing the way;
+n	
+Tchintabaraden/Azanag/Albada/Nabamgaré/
+Assamaka/Tamanrasset/Dabab;
+n	
+Tchintabaraden/Gharo/Tassara/Assamaka/Tamanrasset/Dabab. The routes departing from Tchintabaraden are becoming more and more important.
+Often, the transport is provided by vehicles from
+Libya.
+
+Geographical representation of these routes as presented by Niger during the AFIC workshop in Casablanca (May 2015)
+
+Libya
+
+State borders
+Direction of migration
+The Niger River
+Main towns
+
+Janett
+
+Algeria
+
+Capital cities
+
+Oubari
+Gath
+Gatrone
+
+Tchibarakaten Well
+
+Tamnarasset
+
+Siguidine
+Tchingalen
+
+Inguezam
+Assamaka
+
+Mali
+
+Arlit
+
+Dirkou
+Ténéré Tree
+
+Bilma
+
+Agadez
+
+Niger
+
+Chad
+
+Niamey
+
+Burkina Faso
+Benin
+
+Nigeria
+
+27 of 52
+
+Frontex · AFIC Joint Report 2015
+
+2.4.1. Anatomy of smuggling networks
+in Libya
+
+Boat left adrift
+
+Smugglers recovering
+the rubber boat
+
+It is challenging for the smugglers to transfer
+migrants to the coastal departure points, as
+they have to move through the various militia
+control points. Due to hostilities and rivalry
+among militias, their controlled areas change
+constantly. Therefore, it is indispensable for
+human smugglers to know which group controls the transit areas at any given moment.
+Most probably, the fighting in coastal areas
+(e.g. over the route between western Tripoli
+and Ras Ajdir) is actually for control over the
+smuggling routes and the share of the profits.
+The common structure of these smuggling
+networks has three levels:
+nn High level: composed of the leading persons, described as Libyan nationals and
+members of active/former military/police officers.
+nn Medium level: middlemen named ‘people
+smugglers’ (usually Libyans) who organise
+the journey of the would-be migrants and
+their shelter while in Libya. They confirm
+the arrangements of the journey (such as
+price, type of vessel, etc.).
+nn Low level: members in charge of collecting new ‘clients’ willing to reach the EU,
+as well as giving support to the people
+smugglers during the embarkation process at the beach. Usually, these members are of the same nationality as the
+would-be migrants (Syrian, Sudanese, Eritrean, and Somali), in order to be trusted
+easily by them.
+2.4.2. Purchasing boats in Libya
+Thus far in 2015, inflatable dinghies (75% of
+the total) and wooden boats have been the
+
+28 of 52
+
+Source: Frontex, 2015
+
+The migrant smuggling networks in Libya
+are composed of active and former military/
+law-enforcement officers structured in a hierarchical and strict criminal organisation.
+
+MSF boat ‘Dignity 1’
+
+Figure 22. Smugglers towing a rubber boat
+back to Libya
+
+two types of boats used to cross the Mediterranean Sea from Libya to Italy. The choice
+of boat is based on the availability and price
+of the vessel.
+The type of boat used by the irregular migrants arriving in Italy from Libya has varied
+since the beginning of 2015. Starting from
+April an increase in the use of wooden boats
+has taken place. The migrant smuggling networks typically buy wooden boats in Tunisia
+and to a lesser extent in Egypt. Smugglers are
+also increasingly adamant to recover boats
+used for crossings as clearly shown by Figure 22.
+Cooperation between authorities is of
+key importance on other routes
+In the case of western Mediterranean and
+Ceuta and Melilla, cooperation between Spain
+and Morocco is also helping to reduce the
+number of irregular migrants. The Moroccan Gendarmerie Royale informs that 90 attempts to climb over the fences of Melilla and
+Ceuta involving more than 18 000 irregular
+sub-Saharan migrants were recorded in 2014.
+
+Box 10. EU Naval Force – Mediterranean
+MISSION
+
+MANDATE
+
+On 23 April 2015, the European Council stressed that
+the Union will mobilise all efforts to prevent further
+loss of life at sea, tackle the root causes of the human
+emergency in the Mediterranean – in cooperation with
+the countries of origin and transit – and fight human
+smugglers and traffickers. On 18 May 2015, the Council
+approved the Crisis Management Concept for a military CSDP operation to disrupt the business model
+of human smuggling and trafficking networks in the
+Southern Central Mediterranean (Council Decision
+2015/778 dated 18 May 2015).
+
+EUNAVFOR Med (now renamed Operation Sophia)
+operates in accordance with the political, strategic
+and politico-military objectives set out in order to:
+n	
+disrupt the business model of human smuggling
+and trafficking networks in the Mediterranean;
+contribute to reducing the further loss of lives at
+n	
+sea In accordance with the Council Decision dated
+18 May 2015 the operation shall end no later than
+12 months after having reached Full Operational
+Capability (FOC).
+
+As a result, and as part of the EU’s comprehensive
+approach to the challenge, on 22 June 2015 the EU
+launched an EU military operation in the Southern
+Central Mediterranean (EUNAVFOR Med). The aim
+of this military operation is to undertake systematic
+efforts to identify, capture and dispose of vessels as
+well as enabling assets used or suspected of being
+used by migrant smugglers or traffickers. Countering the smuggling and trafficking of migrants is one
+dimension of addressing the human tragedy that we
+see in the Mediterranean Sea. It is also an important
+contribution to saving lives and improving security
+in the region.
+
+The Operation Sophia is conducted in sequential
+phases and in full compliance with international law,
+including humanitarian, refugee and human rights law.
+n	
+The first phase focuses on surveillance and assessment of human smuggling and trafficking networks
+in the Southern Central Mediterranean.
+n	
+The second stage of the operation provides for the
+search and, if necessary, diversion of suspicious
+vessels.
+The third phase would allow the disposal of vesn	
+sels and related assets, preferably before use, and
+to apprehend traffickers and smugglers.
+The Council shall assess whether the conditions for
+transition beyond the first phase have been met, taking
+into account any applicable UN Security Council Resolution and consent by the Coastal States concerned.
+Source: European Union External Action Service
+
+Moroccan authorities have also dug a moat
+and have built a high fence on its own territory in the most vulnerable areas of the perimeter near the border with the Spanish
+cities. These fences and moat, combined with
+implementation of readmission agreement
+between Morocco and Spain, reinforcement
+of Moroccan Border Guard Units protecting
+the fence and dismantlement of makeshift
+
+camps of irregular migrants, have reduced
+the numbers attempts.
+In response, many sub-Saharan migrants
+have changed their modus operandi and are
+increasingly trying to take the sea route towards Spain.
+
+29 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Agadir
+
+!
+!
+
+!
+
+5
+
+!
+!
+
+!
+!
+
+12
+
+!
+!
+!
+
+!
+!
+
+!
+!
+!
+
+!
+!
+
+El Ouatia
+Tarfaya
+!
+!
+
+Al Ayoun
+
+Boujdour
+
+Ad Dakhla
+
+Between 2013 and 2014 three cargo vessels, towed to
+EU ports for scrapping, were used by sub-Saharan to
+illegally enter European soil. This is a very similar modus
+operandi well-known in other parts of the Mediterranean
+Sea, such as the ports of Turkey and Eastern Mediterranean, where criminal networks used old cargo vessels to transport irregular migrants towards the EU.
+
+This route is therefore characterised by a high return/
+readmission risk for migrants which contributes to the
+low numbers of departures and low numbers of migrants dying. Still, at least 12 people died during March
+2015 (exposure and dehydration) in two separate incidents involving boats that have departed from Morocco.
+
+Last Senegalese intervention was carried out on 15
+February 2015 when Senegalese Marine Commandos
+boarded the vessel Dola, sailing under Togolese flag,
+which was escorted and docked at Dakar port.
+After the operation, 17 members of the crew were arrested, accused of piracy in the Gulf of Guinea and human trafficking. This vessel was also involved in a piracy
+attack against the fishing vessel Lu Rong Yu-Tuan off the
+coast of Ghana (January 2015).
+
+As the route is effectively closed, migrant smuggling
+networks are constantly testing other modi operandi.
+Hence, in recent years Senegalese authorities have reported the use of cargo vessels, which have previously
+been moored in the port of Dakar, by migrants trying
+to enter illegally into the EU.
+
+Source: Senegalese AFIC delegation
+
+Source: Frontex
+
+After an in-depth search in the interior of the vessel,
+11 Nigerian would-be irregular migrants were found.
+They were attempting to reach Europe. They started the
+trip hidden as stowaways in the Nigerian port of Lagos.
+
+Vessel Dola assaulted on 15 February 2015 by
+Senegalese Special Forces
+
+* In areas between Tarfaya-Al‘Ayun-Boujdour, AoI in beaches such as Negritas, Blaibilat, Mraijnat and Roka Ariel
+** Ad Dakhla port: attempts in 2014 but no arrivals due to Spanish-Moroccan cooperation (including JO EPN Hera)
+
+30 of 52
+
+Morocco
+
+Source: CCRC, Guardia Civil
+
+Due to the effectiveness of the MoUs between Spain,
+Senegal and Mauritania, the last boat (cayuco) which arrived on the Canary Islands from Senegal was in 2008
+and the last one coming from Mauritanian shores was in
+June 2014, as Mauritanian and Senegalese AFIC delegates
+reported during workshops in Casablanca and Dakar.
+
+Senegalese patrol boat donated by Spain
+
+!
+!
+
+1
+
+At the Western African route that connects Senegal,
+Mauritania and Morocco with the Canary Island in
+Spain the numbers remain almost negligible despite
+a gradual increasing trends for departures from Morocco during 2014.
+These recent departures are mainly located in Moroccan shores specifically nearby the ports of Agadir,
+Sidi-Ifni, El Ouaitia/Tan-Tan, Tarfaya, Boujdour* and Ad
+Dakhla** (see map).
+
+Sidi Ifni
+
+!
+!
+
+2
+
+!
+
+Box 11. Western African route remains effectively
+closed due to joint efforts of Spain, Senegal,
+Morocco and Mauritania
+
+Canary Islands
+
+This again shows how important effective
+cooperation between transit, source and
+destination countries is in preventing unauthorised departures and thus preventing
+death at sea and ensuring integrity of legal
+migration channels.
+The European Commission (EC) is aware of
+this link between effective return policy of
+persons who are illegally present on the territory of the EU or no longer have the right
+to stay (e.g. failed asylum seekers). In its European Agenda on migration, the EC states
+that ‘one of the incentives for irregular migrants is the knowledge that the EU’s return
+system – meant to return irregular migrants
+or those whose asylum applications are re-
+
+Source: Frontex, JO Indalo 2015
+
+Algerian nationals also continue to arrive on
+Spanish shores of Andalucía and Levante. The
+phenomenon called harga (‘burning’ in Arabic) has decreased since 2013, largely due to
+good collaboration between Spanish and Algerian authorities regarding rapid repatriation processes.
+
+Figure 23. Very typical toy boat used by
+many would-be migrants for crossing
+from Morocco to Spain. In 2014, Morocco
+reported a total of 12 267 irregular migrants
+that were prevented from reaching Spain
+by sea (1 746 until April 2015). The main
+nationalities were Senegalese (41%),
+Malians (33%), Guineans (12%), Ivorians (9%),
+Algerians, Ghanaians and Nigerians (all 3%)
+
+fused – works imperfectly.’ The EC proposes
+several key actions in this regard, including to
+reinforce and amend the Frontex legal basis
+to strengthen its role on return.
+
+Figure 24. Illegal border-crossings of Algerian nationals in Spain and effective returns of
+Algerian nationals by Spain, comparison between years. Return likelihood is calculated
+using ratio between illegal border-crossings and effective returns performed by Spain. The
+number close to one indicates higher likelihood and therefore higher return risk (year 2015)
+1 600
+
+1.10
+
+1 400
+
+0.90
+
+1 200
+0.70
+
+1 000
+800
+
+0.50
+
+600
+
+0.30
+
+400
+0.10
+
+200
+0
+
+Year 2013
+Illegal border-crossings
+
+Year 2014
+Effective return
+
+Year 2015 (up to June)
+
+-0.10
+
+Return likelihood – right axis
+
+Source: FRAN data as of 7 August 2015
+
+31 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Box 12. Increasing number of Syrian asylum seekers
+in Ceuta and Melilla
+In March 2015, the International Protection and Asylum Offices
+were inaugurated at BCPs in Ceuta and Melilla (Spain). The decision came as response to a surge in the number of Syrian families seeking asylum there. The trend started in November 2014.
+Exponential growth of asylum applications by Syrian nationals in
+Ceuta and Melilla
+700
+600
+500
+400
+300
+200
+100
+0
+
+Sep
+
+Oct
+
+Nov
+2014
+
+Dec
+
+Jan
+
+Feb
+
+Mar
+Apr
+2015
+
+May
+
+Jun
+
+Source: FRAN data as of 7 August 2015
+
+The route followed by these Syrian asylum seekers is Syria/Lebanon/Algeria/Morocco (Nador)/Spain (Melilla or Ceuta).
+Different modi operandi used by Syrians to enter Ceuta and Melilla have been detected: They range from document fraud,
+mostly by using genuine Moroccan passports of residents of
+Tetuan and Nador (no visa needed, impostor method, reported
+by Frontex) to posing as Moroccan goods carriers. The impostor method started to be used by Syrians already in May 2014
+when Spanish authorities reported the first 72 cases.
+No Syrian national was detected for trying to storm the fences at
+the two Spanish cities. Furthermore, Spain reported 478 cases of
+Moroccan passport being used by Syrian impostors in the period
+between 2014 and the first half of 2015 while more than 2 800
+Syrian asylum applications were submitted in Melilla alone only
+during eight months between November 2014 and June 2015.
+This difference would indicate that many are able to enter Melilla undetected (successfully posing as Moroccans for example).
+There are still hundreds of Syrians in Moroccan city of Nador
+waiting to enter Spain through Melilla BCP. According to Moroccan intervention during AFIC workshop in Casablanca, altogether there are more than 5 000 Syrian refugees in Morocco.
+Moreover, the decision to open Asylum offices in Ceuta and Melilla has acted as an additional pull factor.
+
+32 of 52
+
+2.5.	Rising number of
+casualties among migrants
+According to IOM estimates, more than 2 000
+migrants have died during the first seven
+month of 2015 trying to cross the Mediterranean to reach Europe. This represents an increase of 27% compared to the same period
+in 2014. Frontex reporting from the Joint Operation Triton for the same period suggests
+190 confirmed fatalities (recovered bodies).
+As in 2014, the overwhelming majority died
+in Central Mediterranean route connecting
+Libya and Italy. When it comes to this tragic
+loss of life one must note the fact that 86%
+of all interceptions in the Central Mediterranean until the end of July 2015 were outside operational area of JO Triton and 90%
+of these cases were done as search and rescue (SAR – after receiving a call).
+What is also interesting is the fact that on
+the route from Libya to Italy there were almost exactly the same number of persons
+that were rescued/intercepted during 2015
+and the reference period in 2014. However,
+there were roughly 100 more incidents (551
+in 2014 and 657 in 2015) to which authorities
+had to respond in 2015, unfortunately resulting in the previously mentioned 27% increase
+of the estimated number of casualties. In addition, geographical location of these interventions moved further south as indicated
+by Figure 25.
+In May, the operational area of Frontex JO
+Triton 2015 was extended closer to Libya. In
+addition, the number of assets in this area
+were increased. Through the whole period
+Italian authorities continued with their naval operation ‘Mare Securo’.
+Importantly, the EU naval operation EUNAVFOR Med was approved in July 2015, and several additional naval vessels were deployed
+
+Figure 25. In some areas, in particular those of Zuwara and Misrata, detections have moved
+closer to the Libyan coast
+Detections of migrants’ boats up to 31 May 2015 (blue spots), and detections reported between 1 June to 26 July 2015
+(green spots)
+
+!
+P
+
+!
+P
+
+!
+P
+!
+P
+
+!
+P
+
+P
+!
+P!
+P!
+
+!
+P
+
+!
+P
+!
+P
+
+Tunisia
+
+!
+P
+!
+P
+!
+P !
+P
+!
+P
+!
+P
+P!
+P !
+P!
+P
+!
+!
+P
+P !
+!
+P
+!
+P
+!
+P
+P !
+!
+P!
+P!
+!
+P!
+P !
+!
+!
+P
+P!
+P!
+P
+!
+!
+P!
+PP !
+P!
+P!
+P !
+!
+P!
+P!
+!
+!
+P !!
+P
+P!
+P
+P!
+P
+!
+P
+P
+P!
+!
+!
+!
+P!
+P
+PP!
+P !
+!
+!
+!
+P
+P
+P
+!
+!
+P
+P!
+P!
+!
+P
+P
+P
+!
+!
+P!
+P
+P
+P
+P
+!
+P!
+!
+!
+P!
+P
+P
+!
+!
+P
+PP
+!
+!
+P
+P
+P!
+!
+!
+!
+P
+P
+P
+P
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+!
+!
+!
+!
+P
+P
+P
+P
+P
+!
+!
+P
+P
+!
+!
+!
+!
+!
+!
+!
+!
+P!
+P
+P
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+P
+P
+!
+!
+!
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+P
+P
+!
+P!
+P!
+!
+P
+P!
+!
+!
+!
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P P!
+P
+P
+P
+P
+P
+P
+P
+!
+!
+!
+!
+P
+P
+P
+P
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+P
+P
+P!
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P!
+P
+P
+P
+P
+P
+P!
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P!
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P!
+P
+P
+P
+P!
+P!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+P!
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+P
+P
+P
+P
+P
+P
+P
+P
+!
+!
+!
+!
+!
+!
+!
+P
+!
+!
+!
+P!
+P
+P
+P
+P
+P!
+P
+P
+P
+!
+!
+P
+P
+P
+P!
+P !
+!
+!
+!
+!
+!!
+P
+P!
+P
+P!
+P!
+!
+!
+!
+!
+P
+P
+P
+P
+P!
+!
+!
+!
+!
+P
+P
+P
+P!
+PP P!
+!
+!
+!
+!
+P
+P!
+P
+P
+P
+!
+P
+P
+P!
+!
+!
+!
+P!
+P
+P
+P !
+P
+!
+!
+!
+P
+P
+P
+!
+!
+!
+!
+P
+P
+P
+P
+P
+!
+!
+P!
+P!
+P P!
+PP
+!
+!
+P
+P
+P!
+!
+!
+P!
+P !
+P
+P
+!
+P!
+P!
+P
+P!
+P!
+!
+P!
+!
+P
+
+EPN Triton 2014/2015
+01 Jan - 26 Jul 2015
+Detections
+
+!
+P
+!
+P
+
+Libya
+
+01 Jun - 26 Jul
+01 Jan - 31 May
+Triton operational area
+Extended operational area
+
+Source: Frontex
+
+in the operational area of JO Triton and the
+Libyan SAR area.
+In addition, four vessels belonging to various
+NGOs (Sea-Watch, Norwegian Society for
+Search and Rescue, Medecins Sans Frontieres,
+and Migrant Offshore Aid Station) continued
+their patrolling close to the main departure
+areas in Libya.
+Despite these efforts and many more additional vessels engaged in rescue operations,
+new tragedies occurred in August 2015 when
+at least 340 people died. One incident that
+took place only 15 nautical miles from Libyan
+shores where 25 people died was soon fol-
+
+Figure 26. Deaths in the Central
+Mediterranean, by region of origin of
+migrants perished while making the sea
+crossing between 1 January and 14 July 2015
+MENA
+14%
+Horn
+of Africa
+18%
+
+Sub-Saharan
+Africa
+46%
+
+Breakdown
+unavailable/
+Unknown
+22%
+Source: IOM
+
+33 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Some 50 Sierra Leoneans had travelled by land to Libya through
+irregular means, in a bid to cross over to Europe. They were
+taken to the Southern City of Sabha where they were subjected
+to inhuman conditions by the facilitators. At the request of the
+Government of Sierra Leone and in coordination with the Libyan
+authorities and the Sierra Leonean embassy, IOM helped 35 of
+these Sierra Leonean migrants stranded in Libya to voluntarily return home from the south of the country through Tripoli.
+Source: Sierra Leonian AFIC delegation
+
+Box 14. IOM: Migrants in Libya suffer many types of abuse
+The International Organization for Migration (IOM) has collected the testimonies of more than 2 000 migrants from West
+Africa and Central Africa recorded between January and September 2014 two transit centres and assistance for migrants in
+Niger (Dirkou and Arlit).
+The migrants from Senegal, the Gambia and Mali, are mostly
+young men, married, who left their own country for Libya to
+find job opportunities. Only some migrants from Benin, Liberia and the Democratic Republic of the Congo chose Algeria as
+their final destination.
+As the interviewed migrants were returning back to Niger,
+their statements reflected precarious living conditions in Libya.
+Namely, the majority of migrants reported having suffered
+abuse and threats, including from their employer: the threat of
+intervention of law enforcement, confiscation of identity documents, forced use of drugs and other substances, restriction
+of movement and physical abuse.
+Source: Profilage de l’OIM: migrants en transit, IOM, January–September 2014
+
+lowed by another in which up to 250 people
+were declared missing.
+These incidents in August 2015 exposed the
+enormity of the challenge. Namely, as the
+number of SAR incidents is increasing, even
+
+34 of 52
+
+Source: Italian Navy
+
+Box 13. Inhumane treatment prompts return of 50 Sierra
+Leoneans from Libya
+
+Figure 27. Dramatic rescue of a migrant by
+the Italian Navy on 12 August 2015. At least
+50 people could not be saved and were
+declared missing
+
+with many more vessels now engaged in
+rescue operations it is simply impossible to
+effectively rescue all as there are often multiple simultaneous rescue operations requiring high level of coordination.
+The increasing death toll during 2015 is therefore highlighting possible paradox. That is to
+say, more and more vessels engaged in rescue operations is not necessarily a guarantee for reduction of number of people dying.
+In addition, operational intelligence from JO
+Triton 2015 suggests that Libyan smugglers
+are taking advantage of rescue vessels’ proximity to the shores of Libya and are overcrowding the vessels, with limited amount of
+fuel and water as they know that migrants
+will be rescued very soon. For example, in one
+incident a Spanish vessel participating in JO
+Triton 2015 was called to intervene roughly
+22 nautical miles from the coast of Libya. It
+managed to bring to safety 112 persons that
+were cramped on a rubber boat. The boat
+was at sea for less than 12 hours with only
+nine 20 litre fuel containers on board. Given
+the engine used in this particular case this is
+only enough for around 12 hours of sub-maximum speed sailing, therefore nowhere sufficient to reach Italian Pelagic islands. This
+overcrowding and low fuel supplies on unseaworthy vessels increases the risk of death
+at sea by a great deal.
+
+Source: Reuters
+
+Source: OPV Rio Segura. Guardia Civil
+
+Figure 28. A typical incident where a rubber
+
+Figure 29. There are between 3 000 and
+
+boat is overloaded and equipped with
+minimal fuel supplies
+
+4 000 residents in ‘The Jungle’, as the
+makeshift camp outside Calais is called.
+Around 90% of those living there are men,
+most of whom are in their late teens or
+early twenties
+
+Given that sub-Saharan African are the largest group of arrivals in Italy, most of the death
+during 2015 were linked to this group. According the IOM’s Missing Migrants Project,
+888 individuals from sub-Sahara Africa died
+at sea, which represents 46% of all deaths in
+the Mediterranean during 2015.
+Migrants also face constant danger during
+the crossing of the desert or when in Libya.
+The discovery of the remains of 30 migrants
+in Dirkou during May 2015 and Boxes 13 and
+14 clarify this point further.
+While crossing Sahara desert and the Mediterranean is extremely dangerous, reaching
+Italy does not necessarily means the end to
+
+all hazards. Migrants or refugees that move
+towards northern Europe often live in appalling conditions, usually in makeshift and
+improvised camps (e.g. Italy-France border,
+Austria-Germany border). Those travelling
+to the UK also risk injury or even their lives
+when trying to cross from Calais to Dover.
+Since June 2015 alone at least nine people died
+while attempting to cross the Euro tunnel.
+The rising death toll is following significant
+increases in the number of daily attempts to
+enter the tunnel (from 500 in May to 2 000
+in June 2015).
+
+35 of 52
+
+Frontex · AFIC Joint Report 2015
+
+3.	Cross-border criminality
+3.1.	Introduction
+Similar to other regions of the world, crossborder criminality in West Africa can be
+largely divided into two main categories:
+smuggling of people and illicit trade. Illicit
+trade can be further classified into six main
+non-exhaustive categories:
+nn Trafficking in human beings;
+nn Smuggling of natural resources and wildlife: crude oil (bunkering), cocoa, gold, minerals, vital commodities or crops, ivory,
+horns of rhinoceros and/or other protected species;
+nn Smuggling of excise goods: cigarettes
+(genuine or counterfeit) or fuel;
+nn Drug trafficking;
+nn Smuggling of stolen cattle, stolen vehicles, toxic waste, weapons, firearms and
+ammunition;
+nn Maritime piracy in the Gulf of Guinea.
+Illicit trade is often driven by factors such as
+considerable cross-border price differentials
+and differences in the legal status of particular products, taxation of excise goods, as
+well as local, regional and global demand for
+smuggled goods. In many cases, locals participating in illicit trade consider their activity as
+legitimate given the lack of other economic
+opportunities. Additionally, most borders in
+
+West Africa are highly porous and difficult to
+patrol with border-control authorities often
+suspected of corrupt practices. This in turn
+further facilitates illegal cross-border flow
+of goods and people both in the region and
+transiting towards Europe.
+It is also worth highlighting that West African criminal networks are non-hierarchical
+informal structures, in many cases linked by
+tribal, social or family ties showing a high degree of flexibility. Such loose structure allows
+for members to have exchangeable roles.
+Most informal groups are composed by networks of three to six individuals, mainly relatives or friends. There is hardly a permanent
+membership in the criminal group. These
+characteristics, make these groups highly
+fluid, which in turn makes detection, investigation and eventual criminal prosecution
+very difficult.
+
+3.2.	Trafficking in human
+beings
+Trafficking in human beings is a demand and
+profit driven crime. Vulnerability of people
+alone does not result in trafficking. Factors
+that render people more vulnerable to trafficking include limited economic opportuni-
+
+Figure 30. Evolution of cross-border criminality
+GLOBAL TRENDS
+Changing illicit markets
+
+Conflict
+
+Limited state reach and protection economies
+
+HISTORICAL CRIME
+Illicit goods
+smuggling
+
+Drug trafficking
+Migrant smuggling
+
+NEW & EVOLVING CRIME
+Enviromental
+crime
+
+Kidnapping for ransom
+Piracy
+
+Human trafficking
+Small arms trafficking
+
+Corruption
+
+Illicit financial flows
+and money laundering
+
+Cybercrime
+
+CRIMINAL ENABLERS
+Source: Comprehensive Assessment of Drug Trafficking and Organised Crime in West and Central Africa, African Union, 2014
+
+36 of 52
+
+Box 15. Labour recruitment morphing into a trafficking case
+
+ties, desperate socio-economic conditions,
+regional imbalances and violence. The line
+between people smuggling and human trafficking in the case of West Africa is therefore often blurred as prospective migrants or
+guest workers may often end up as victims of
+trafficking once in their destination country.
+For example, when irregular migration is
+financed by smugglers themselves (debtfinanced migration), migrants often find
+themselves exploited en route or in the destination country.
+As these debt/labour obligations incurred by
+migrants are easily enforceable by criminal
+groups, it can be profitable for smugglers to
+finance irregular migration.
+Debriefing interviews conducted in the context of Frontex Joint Operations revealed
+several suspected cases of ‘debt bondage’
+victimisation. They all are linked to Nigerian
+women who were forced to provide sexual
+services in transit countries such as Libya
+or Algeria before being transported further
+across the sea to Europe.
+One interviewee, who had escaped from the
+trafficking network in Libya before travelling onwards to Europe alone, described her
+journey in detail starting from her recruitment in Nigeria to the forced travel through
+Niger and Libya. She also described the system of debt bondage used to coerce the victims. First, victims are required to pay a fee
+for their travel from Nigeria. Once they leave
+the country and begin the journey through
+Niger and Libya they are told that they must
+pay again to ‘regain their freedom’. In this
+way they are forced into prostitution to repay these debts. Once they are transported
+to Europe they are forced to pay the traffickers an even higher fee to be released.
+
+In another typical case of labour recruitment morphing into a
+trafficking case, a women from Sierra Leone paid approximately
+USD 1 480 to recruiters who promised her a nursing job or hotel work in Kuwait. Upon her arrival in Kuwait, however, she
+was instead forced to work as a domestic worker for a private
+Kuwaiti family. She worked all day, every day without compensation. Her employers forbade her from leaving the house or
+from using a cell phone. The family eventually returned her to
+recruiter, taking advantage of a guarantee allowing them to
+obtain a refund for domestic workers they are not happy with.
+She ran away from the recruiter to the Sierra Leonean Embassy
+and was placed in a Kuwaiti government-run shelter with approximately 300 other former domestic workers.
+Source: Trafficking In Persons Report, US Department of State, July 2015
+
+AFIC representatives from Sierra Leone share
+their growing concern regarding trafficking in
+persons. In particular, establishment of many
+so-called phantom employment recruitment
+agencies. There were at least 20 such agencies with 301 cases of officially confirmed
+victims of trafficking in human beings (2013–
+2014). As the case described in Box 15 suggests, most victims ended up in Kuwait but
+also in Lebanon, Qatar and Europe.
+
+3.3.	Document fraud involving
+AFIC nationals and travel
+documents issued by AFIC
+countries
+3.3.1. M
+ ost detected AFIC nationals
+using fraudulent documents
+Moroccan nationals represented the largest group among AFIC nationals detected
+for document fraud in the EU. In 2014, there
+were over 800 Moroccans with fraudulent
+documents and just over 300 in the first five
+months of 2015. The trend has been more
+or less stable over the past couple of years.
+Most of the Moroccans were detected on
+entry to the EU/Schengen area, mostly from
+Morocco to the Spanish cities of Ceuta and
+Melilla, followed by arrivals on flights from
+Casablanca (CMN) to Fiumicino (FCO) or
+Brussels (BRU).
+
+37 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Moroccan nationals often use Spanish documents (ID cards, residence permits, passports)
+or Moroccan passports. Most of abovementioned documents were abused by Moroccan impostors, using genuine documents of
+someone else.
+Nigerian nationals form the second biggest group reported for document fraud in
+the EU/Schengen area. The overall number
+of detections and trends remained stable in
+2013, 2014 and 2015. Just under 800 document
+fraud cases were linked to Nigerian nationals
+in 2013 and a very similar figure was also recorded in 2014. Almost two-thirds have been
+reported on arrival from third countries, in
+particular from Lagos (LOS), followed by arrivals via Istanbul (IST).
+Senegalese nationals rank third among the
+AFIC nationals abusing travel documents.
+The overall number of detections oscillates
+around 280 cases per year. They are mostly
+detected on entry to the EU/Schengen area
+from third countries, in particular from Dakar (DKR).
+Most of the Senegalese attempted to reach
+either Spanish airports, such as Madrid (MAD)
+or Barcelona (BCN), or Lisbon airport (LIS) in
+Portugal. They were often detected travelling
+with their national passports (impostors), as
+
+well as mostly counterfeit French and Italian
+visas and residence permits.
+Congolese nationals have been mostly detected with fraudulent documents on the
+routes from Lagos (LOS) to Fiumicino (FCO)
+or on routes to French airports. Congolese
+nationals have been also departing from Kenia or attempting to reach the EU/Schengen
+area via Turkey, in particular via Istanbul (IST).
+The route via Istanbul (IST) includes embarkation in N’Djili (FIH) and intended final destination of Fiumicino (FCO), Charles de Gaulle
+(CDG) or Brussels (BRU).
+Ghanaian nationals were mostly detected
+on intra-Schengen air routes between Italy
+and Germany. Those detected on entry to the
+EU/Schengen area are in 50% of cases depart
+from Accra (ACC). There are also attempts to
+target the EU/Schengen area via Istanbul on
+the following air routes: ACC → IST → MAD,
+MXP, DUS, VIE. Ghanaian nationals were often detected presenting counterfeit Italian
+residence permits, passports, ID cards and
+fraudulent Ghanaian passports.
+3.3.2. Most abused travel documents
+issued by AFIC countries
+In total, there were approximately 1 400
+fraudulent travel documents issued by AFIC
+
+Figure 31. Moroccan and Nigerian nationals were the AFIC nationals most detected for
+document fraud. Overall figures, however, remain stable in the past 2.5 years except for a
+decrease in Angolan and Guinean nationals
+Detections of AFIC nationals presenting fraudulent documents, by nationality of the holder between 1 January 2014 and
+31 May 2015
+
+1 200
+1 000
+800
+600
+
+Entry from third country
+Intra-EU/Schengen
+Exit to third country
+Transit
+
+400
+200
+0
+
+MAR NGA SEN COD GHA CIV CMR MLI GIN GMB AGO TGO LBR SLE BEN BFA CPV MRT NER
+
+Source: European Union Document-Fraud Risk Analysis Network (EDF-RAN) data as of 6 July 2015
+
+38 of 52
+
+countries reported as fraudulent by EU Member States during 2013. This figure increased
+by 14% in 2014. The beginning of 2015 seems
+to follow the trend of previous years. These
+figures, however, include all persons showing fraudulent AFIC documents and not just
+AFIC nationals.
+Around 85% of fraudulent documents issued
+by AFIC countries were detected on entry
+from third countries and the most detected
+documents were passports issued by Morocco, Nigeria, Senegal, Mali, Guinea and the
+Democratic Republic of the Congo. Due to
+the significant increase in the use of genuine Moroccan passports by Syrian impostors,
+this type of document fraud became prevalent also in case of AFIC travel documents.
+
+3.4.	Drug smuggling
+In July 2015, regional representative for West
+Africa of the United Nations Office on Drugs
+and Crime (UNODC) estimated that between
+30 and 40 metric tonnes of cocaine transit
+West Africa every year en route to Europe.
+This represents a decrease from the peak of
+47 tonnes in 2007.
+
+Box 16. AFIC Incident Report.
+Exchange of Information. Ghana.
+Drug trafficking
+A 26-year-old Kenyan female, claiming to be a businesswoman,
+was arrested at Kotoka International Airport for carrying cocaine into the country. She arrived on a Kenya Airways flight
+from Nairobi, Kenya with approximately 3 kg of cocaine wrapped
+and hidden in her luggage. She claimed she was only to deliver the cocaine to someone she did not know but who was
+to meet her on arrival.
+Source: Ghanaian AFIC delegation
+
+ing Benin, Togo and Ghana (as entry points)
+and Nigeria (as the main centre for distribution and control of the drug by the criminal networks).
+Cocaine originating from South America is
+transported across the Atlantic by sea or
+air along the so-called Highway 10, i.e. the
+shortest distance between the two continents along the 10th parallel.
+
+Drug trafficking continues to be the most lucrative form of business for criminals. Despite
+the international cooperation and transnational efforts to curb the trafficking of cocaine, large and small shipments by sea or
+by air, continuously flow from South America (Venezuela, Peru, Argentina, Brazil or Colombia) to Europe, through the Sahel region.
+According to information from AFIC partners
+and other sources, three main cocaine hubs
+can be identified. The first consists of the
+Gambia, Guinea-Bissau, Senegal and Cape
+Verde islands. The second is the Central Sahelian corridor, which covers vast areas of
+Mali and Mauritania (air transport). The third
+hub is the Coastal Southern corridor includ-
+
+Figure 32. Helicopter intercepted by Spanish authorities after
+crossing the Strait of Gibraltar carrying 200 kg of hashish from
+Morocco to Spanish mainland
+
+According to the UN Secretary General, this
+flow of cocaine in West Africa could have the
+market value of USD 1.25 billion in Europe, and
+would bring West African traffickers profits in the order of USD 150 million per year.
+
+Source: Guardia Civil
+
+3.4.1. Routes
+
+Once it arrives in Africa, it is transported
+northwards towards Europe through the Sahara along routes which have been used for
+legal and illegal trade for centuries. Also for
+centuries, these transportation routes have
+been controlled by tribal groups such as Tuaregs and Tebus. Nowadays they use off-road
+vehicles to transport everything, starting
+from human beings, firearms, narcotics to
+
+39 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Box 18. AFIC Incident Report. Exchange of Information,
+Cape Verde
+Citizen of Guinea-Bissau
+On 15 June 2015 Nigerien Police apprehended, at the International Airport of Niamey, a citizen of Guinea-Bissau (male aged
+45, residing in Liberia) for drug trafficking inside of his body. He
+had swallowed 70 capsules of cocaine weighing 1 241 grammes
+to transport them from Nigeria to Niger on the itinerary Lagos/Nairobi/Addis Ababa/Niamey.
+Source: Nigerien AFIC delegation
+
+Box 17. AFIC Incident Report. Exchange of Information,
+Cape Verde
+The Airport Anti-Trafficking Cell seizes cocaine at Praia
+International Airport Nelson Mandela
+28.05.2015 – Due to Cape Verde’s geographic and strategic position, the country continues being used as a drug transit point
+from South America to Europe. Several ‘couriers’ transporting
+drugs inside their bodies and under clothes were arrested and
+the drug was apprehended by police at airports. Praia International Airport has an Airport Anti-Trafficking Cell composed of
+Judiciary Police, Borders Police, Fiscal Guard and Customs. In
+this specific case, the suspect was arrested, sent to the Main
+Court of Praia and put in prison to await the final trial.
+Source: Cape Verdean AFIC delegation
+
+40 of 52
+
+cigarettes. As the provision of such services
+is a very lucrative business, new players are
+violently seeking their slice of the pie: the terrorist groups of the Sahel region.
+Cocaine is transported across the Sahel by
+different routes: through northwestern African countries (Morocco and Mauritania) to
+Spain or through Libya to EU Member States
+in the Central Mediterranean.
+Morocco, considered as the largest producer
+of cannabis in the world alongside with Algeria, is also the first supplier of this drug for
+the EU market, using Egyptian and Balkan
+criminal networks. To avoid the troubled Moroccan-Algerian border, smugglers use two
+different routes: across the Sahel or following the Northern coastal path.
+International cooperation and exchange
+of intelligence are essential for curbing the
+black market of cocaine, methamphetamine
+and other narcotics. Also, such cooperation
+helps neutralise the criminal networks, forcing them to constantly adapt their modi operandi to maintain the flow of drugs towards
+the EU.
+During the workshop in Dakar in June 2015,
+Ghanaian AFIC delegates reported that
+drug smugglers are also using Kenya Airways flights to deliver small shipments of
+cocaine.
+Likewise, during the AFIC workshop in
+Senegal, delegates from Liberia, according
+with their intelligence analysis, concluded
+the following concerns on national security matters:
+nn The trafficking of illicit drugs and fake
+pharmaceuticals by Chinese transnational
+criminal organisations in West Africa;
+nn The resumption and reorganisation of major drug shipments in Liberia after the Ebola outbreak;
+nn South American criminal groups resurfacing in Guinea and Guinea-Bissau;
+nn Increased possibility of cross-border criminality across the Liberian-Ivorian border
+as the Ivorian elections draw near.
+
+Whilst trafficking in illicit goods, narcotics or
+human beings thrives in the areas of intense
+conflict and institutional chaos (e.g. Libya),
+firearms trafficking flourishes throughout the
+Sahelian area. This criminal activity responds
+to the demand for armaments in unstable
+areas, such as Mali, Niger, Nigeria, Burkina
+Faso or Côte d’Ivoire, among others. Firearms trafficking is of course not limited to
+supplying the needs of criminal networks but
+also those of terrorist groups such as MUJAO, MNLA, AQIM, Boko Haram or small secessionist factions.
+Thus, particularly after the collapse of
+Gaddafi’s regime in 2011, the main routes of
+arms trade run from Libya: to Niger and the
+south of Algeria (area of influence of terrorist groups such as al-Mourabitoun or AQIM),
+to northern Mali to supply terrorist and separatist groups (MUJAO, Ansar al-Dine, MLNA)
+and also from Chad to Nigeria to feed Boko
+Haram’s needs.
+
+Source: Liberian AFIC delegation
+
+3.5.	Firearms trafficking
+
+Figure 33. Typical handgun smuggled from
+Guinea and used in armed robberies in Liberia
+
+Other routes of illegal arms trade have been
+detected between other ECOWAS countries:
+from Guinea-Bissau, the Gambia or Guinea
+to Mali, and from Côte d’Ivoire and Sierra Leone to Liberia through the coastal corridor
+of the Gulf of Guinea to supply local criminal networks.
+Liberian AFIC delegates expressed their concerns about new non-Liberian gunsmiths
+emerging in Central Liberia and in the northwestern suburb of the capital, Monrovia.
+
+41 of 52
+
+Frontex · AFIC Joint Report 2015
+
+4.	Regional security threats
+Both AFIC workshops in Africa highlighted
+that political violence and terrorism in AFIC
+countries are mainly linked to: Boko Haram
+activities, attempts of ISIL/Da’ish to establish
+itself in the Maghreb/North Africa, a more latent threat of Al-Qaida in the Islamic Maghreb
+(AQIM), and activities of groups such as alMourabitoun, MUJAO or Ansar al-Dine.
+The absence of state authority and institutional weakness in vast regions of the Sahel
+and West Africa, porous borders and an ongoing chaos in Libya continue to be cited by AFIC
+members as the main obstacles when addressing the physical threat that these groups pose.
+According to AFIC members and other relevant sources, the groups mentioned above
+are mostly operating in the following areas:
+nn Boko Haram: mainly in the north-east
+of Nigeria and at its borders with Niger,
+Cameroon and Chad;
+nn ISIL/Da’ish: trying to operate in North Africa, mainly Libya with the Wilayat (province) in Barqa/Cyrenaica, Sinai in Egypt and
+Jamaat Jund al-Khalifah in Algeria;
+nn AQIM: after this Al-Qaida franchise evolved
+from the Algerian terrorist group known as
+the Salafist Group for Preaching and Combat (GSPC) in January 2007, it mainly operates in the north of the Sahelian corridor;
+
+Box 19. Number of terrorist attacks on the rise in North
+Africa and the Sahel
+According to open sources, the documented numbers of terrorist attacks in North Africa and the Sahel during 2014 show
+an increase of the political violence in the area. Thus, the countries most affected were Libya with 201 attacks, Mali with 35,
+Mauritania with 27, Tunisia with 27 and Algeria with 22.
+
+42 of 52
+
+nn Al-Mourabitoun, MUJAO or Ansar al-Dine:
+mainly in northern Mali.
+In addition to the above, AFIC workshops also
+provided an opportunity to openly discuss
+the issue of young men mostly from North
+Africa travelling to Syria and Iraq to engage
+in combat. Concerns were voiced that many
+might be travelling to and from these war
+zones without being identified and thus posing a serious security risk.
+
+4.1.	Regional initiatives gain
+ground against Boko
+Haram
+After shifting away from insurgent tactics in
+order to seize and hold territory in 2014, Boko
+Haram terrorist group succeeded in gaining control over a vast swath of territory in
+northeastern Nigeria. In fact, during the AFIC
+workshop in Dakar, Nigeria reported that 2014
+was the year of the most violent and intensive activities of Boko Haram. Data on clashes
+and casualties reported by diverse specialised open sources confirm this conclusion.
+In February 2015, the Nigerian government
+initiated military operations north of Maiduguri and Mubi. They first liberated towns
+along the main road to Baga, up to Monguno, as reported by the Nigerian AFIC member. They later captured Baga (where Boko
+Haram had taken control of a Nigerian military outpost and massacred the local population), Monguno, Marte, Gamboru-Ngala and
+Dikwa. This offensive push was the first major success since minor operations in northern Adamawa during 2014.
+In other words, at the beginning of 2015,
+Boko Haram controlled 20 districts of Nige-
+
+Figure 39. Military operations against Boko Haram at the beginning of 2015 (upper map)
+and changing intensity of the crisis in 2012–2015 (bottom map)
+
+Localities under Boko Haram control
+
+Niger
+
+Localities under government control
+Chadian military presence
+
+Abadam
+Kukawa
+
+Recent Nigerian military offensive
+
+Gashua
+
+Baga
+
+Marte
+
+Maiduguri
+Damaturu
+Potiskum
+Buni
+Gujba
+Yade Konduga
+Bularafa
+Ashaka
+
+Dutse
+
+Nigeria
+
+Bajoga
+Bauchi
+
+Gulani
+Biu
+Gombe Bumsa
+
+Dikwa
+Mafa
+
+Chad
+
+Chibok
+
+ns
+
+Jos
+
+Lake Chad
+
+Monguno
+
+Mubi
+Hong
+Bama
+Sambisa
+forest
+
+Yola
+
+Gwoza
+Limankara
+
+M
+
+an
+
+da
+
+ra
+M
+
+Jalingo
+
+ou
+
+nt
+iai
+
+Song
+
+Gulak
+
+Banki
+
+Pulka
+Madagali
+
+100 mi
+
+Cameroon
+
+200 km
+
+Source: Stratfor 2015
+
+50
+
+100
+
+200
+
+400
+
+Numbers killed
+in individual attacks
+
+More intense colour
+represents multiple attacks
+
+2012 1 663 civilians killed
+
+State of emergency since May 2013
+(Adamawa, Borno Yobe)
+
+2013 2 978 civilians killed
+
+Kano
+
+Nigeria
+
+Nigeria
+
+Abuja
+
+2014 9 033 civilians killed
+
+Maiduguri
+
+Abuja
+
+2015* 2 146 civilians killed
+Baga
+
+Nigeria
+
+Chibok
+Abuja
+
+Nigeria
+
+Abuja
+
+* data as of 24 January 2015
+
+Source: ACLED data, by Prof. Clionadh Raleigh, University of Sussex
+
+43 of 52
+
+Frontex · AFIC Joint Report 2015
+
+territory around the size of Belgium and the
+Netherlands.
+According to the Nigerian AFIC delegate, this
+decision was taken in cooperation with Chad,
+Cameroon and Niger (Multinational Joint Task
+Force – MNJTF, 9 000 troops) and a clear
+demonstration of commitment to fight Boko
+Haram on the regional level.
+Source: Nigerian AFIC delegation
+
+The joint offensive by the MNJTF forces also
+rescued 200 girls and 118 women from the
+Sambisa Forest (April and May 2015) and additional 260 women and children in the outskirts of Chalawa village in Adamawa State.
+
+Figure 40. Women and children kidnapped by Boko Haram a moment
+after the liberation by Nigerian Special Forces in Sambisa forest
+
+ria (a territory the size of Belgium). By midMarch, they only controlled three.
+The AFIC member from Nigeria also reported
+that the Nigerian military had received more
+sophisticated arms to confront Boko Haram
+and senior officers had also changed their
+strategy, which resulted in these successes. In
+March 2015, Nigerian Defence Headquarters
+also declared Adamawa and Yobe States free
+from the control of Boko Haram insurgents.
+While these operations have pushed Boko
+Haram forces out of many population centres in a substantial portion of northern
+Borno State, insurgents dispersed closer to
+the mountainous Cameroonian border.
+The new Nigerian president Muhammadu Buhari announced in his first speech on 29 May
+2015 that the Command Centre of Nigerian
+Military Operations against Boko Haram
+would be moved from Abuja (capital of Nigeria) to Maiduguri. This move to the largest city in the north-east of Nigeria, where
+the insurgency is the strongest, was aimed
+at establishing governmental control over a
+
+44 of 52
+
+With the new and increasing pressure exerted by the MNJTF, Boko Haram lost control of additional villages and its combatants
+dispersed in the surrounding forests. In doing so, the group made sure to slow down
+the advance of the MNJTF with minefields
+and other measures.
+4.1.1. Financing of activities and
+recruitment
+Boko Haram gains finances through diverse
+illegal activities such as fake military checkpoints, kidnapping people for ransom, extortion, looting, bank robberies and illicit
+trafficking of arms or other goods. It is estimated that more than 2 000 women and
+girls have also been kidnapped to be used as
+sexual slaves, forced into marriages and recently even used as suicide bombers.
+During the discussions in both AFIC workshops, Nigerien and Nigerian delegates came
+to the same conclusion that economic incentives are a very powerful tool to recruit
+young people, above all in economically deprived communities. In the geographical area
+formed by the borders of Nigeria, Chad, Cameroon and Niger, poverty and unemployment is widespread. Boko Haram uses money
+and ideology to approach young individuals
+
+who are more receptive to indoctrination
+and recruitment.
+AFIC members also reported that in some
+cases Boko Haram also kidnaps people and
+forces them to fight for them.
+4.1.2. Change in tactics – going back to
+roots
+Boko Haram is an ideologically driven
+group so setbacks such as loss of territory
+will not lead to its complete disintegration.
+However, these setbacks require a change
+in tactics. Rather than acting like a state,
+which provides services to its people and
+protects its borders, terrorist organisations
+without territory use more typical terrorist
+tactics – bombing, shooting, assassination
+and kidnapping.
+These changes in modus operandi are evidenced
+by a number of terrorist attacks attributed
+to Boko Haram in Nigeria and nearby countries. Two explosions in Chad, where the MNJTF has its headquarters, killed 11 people. A
+few days later, approximately 150 people died
+in Nigeria: nearly 50 killed in a shooting in
+Monguno and almost 100 in Kukuwa. The
+group has been trying to smuggle weapons through Chad but Chadian police forces
+raided two arsenals, seizing a large number
+of arms and gathering intelligence.
+4.1.3. Regional threat
+Although Boko Haram’s acts of violence are
+mainly concentrated in Borno State in the
+north-east of Nigeria, the terrorist group
+has demonstrated the ability to launch attacks in the territories of Niger and Cameroon and even in Abuja, the Nigerian capital.
+
+Box 20. The ‘deadliest massacre’ of Baga
+Between 3 and 9 January 2015, the group AlJama’atu Ahlus Sunnah Lid Da’wati Wal Jihad, commonly called Boko Haram, carried out massive
+attacks in the city of Baga and its outskirts, located in the state of Borno, north-east of Nigeria
+near the border with Chad.
+The storms of attacks began when Boko Haram
+assaulted the Headquarters of the Multinational
+Joint Task Force (MNJTF) containing troops from
+Chad, Niger, and Nigeria. In the days that followed,
+Boko Haram terrorists were killing people in the
+area. According to an Amnesty International statement, and other sources of information, the town
+was razed and 2 000 people were killed in the
+‘deadliest massacre’ in the history of Boko Haram.
+Source: Amnesty International
+
+Box 21. Pledging alliance to ISIL/Da’ish?
+In March 2015, a ISIL/Da’ish’s spokesman said
+that the leader Abu Bakr Al-Baghdadi accepted
+the pledge of allegiance (bayat) by Boko Haram’s
+leader Abubakar Shekau, adopting the name ‘Islamic State’s West Africa Province’ (ISWAP). Nigerian member of AFIC informed however that there
+is no intelligence so far to establish any relation
+between Boko Haram and Da’ish. Boko Haram is
+a local group, very focused and located in a specific region which does not have international links,
+not even with AQIM, Al-Shabbab or other terrorist groups operating in the Sahel.
+There were also no confirmed foreign fighters
+among Boko Haram’s troops. Most of the fighters
+are locals from Nigeria or immediate border regions.
+
+In the case of Niger, Lamina and Ungumawo
+villages in the Diffa region suffered at least
+40 casualties after Boko Haram staged their
+attacks there. Similar attacks outside Nige-
+
+45 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Source: Nigerian AFIC delegation
+
+ria have provoked mobilisation of troops in
+the Diffa region, which meant fewer troops
+in the area of Agadez. This vulnerability could
+have been exploited by migrant smuggling
+networks and other criminal organisations.
+
+Source: Nigerian AFIC delegation
+
+Figure 42. Nigerian refugees in a Nigerien camp
+
+Figure 43. Nigerian refugees in a Cameroonian camp
+
+Boko Haram mainly uses car bomb attacks,
+young girls as suicide bombers and very often also ‘moto raids’. This method was described by the Nigerien AFIC member during
+the workshop in Casablanca. Groups of motorcycles reach the target, attack using RPG-7
+rocket-propelled grenades and quickly disappear. In fact, Boko Haram might be giving away motorcycles among the Nigerien
+youths to increase the number of recruits.
+Likewise, AFIC members from Cameroon expressed their concern about the persistence
+of Boko Haram and pointed to a need to disrupt radicalisation and recruitment of local
+population. In addition, Cameroon is very
+concerned about Boko Haram members hiding among refugees. Namely, Cameroonian
+authorities were able to detect such cases
+in August when two female bombers were
+arrested with explosive devices in a refugee
+camp of Minawao (northern Cameroon). As
+female suicide bombers were behind several
+blasts in northern Cameroon in July 2015, the
+regional governor banned the Islamic veil as
+part of counter-terrorist measures.
+4.1.4. Humanitarian impact
+
+Source: Nigerian AFIC delegation
+
+In April 2015, the Internal Displacement Monitoring Centre (IDMC) estimated that 1.5
+million people had been forced to flee their
+homes in Nigeria. They are either internally
+displaced or are living as refugees in neighbouring countries.
+
+Figure 44. Nigerian refugees in a Chadian camp
+
+46 of 52
+
+The Nigerian AFIC member reported that Niger has evacuated thousands of Nigerian refugees sheltering from Boko Haram fighters
+on Lake Chad’s Karanga Island in May 2015.
+Karanga Island has been used by Boko Haram
+
+Figure 41. Displacement statistics for Cameroon
+
+Cameroon: Far North
+–Displaced Population
+(as of 1 June 2015)
+
+Chad
+
+Nigeria
+
+Resident Population:
+3 945 168
+
+LOGONE-ET-CHARI
+Central
+African
+Republic
+
+Affected Population
+
+Yaounde
+
+Affected Population
+
+Fotokol
+
+Border Crossing
+Gabon
+
+Border Crossing
+
+Sites
+
+Ndjamena
+
+Refugee Camp
+Refugee Site
+Transit Site
+
+Republic
+of the Congo
+
+Kousséri
+NIGERIA
+
+Settlements
+
+Chad
+
+Transit Site
+
+Borders
+National
+Regions
+Departments
+
+Roads
+
+Waza
+
+Amchide
+
+Primary
+Kolofata
+
+Magdame
+
+Ashigashiya
+0
+
+Mora
+
+25
+
+MAYO-SAVA
+
+km
+
+DIAMARE
+
+Mokolo
+
+EXTREME-NORD
+Maroua
+
+Minawao
+Population: 37 171
+MAYO-TSANAGA
+
+NORD
+
+Guider
+
+Source: Natural Earth, SALB, GADM, UNHCR, MapAction, 2015
+
+47 of 52
+
+Frontex · AFIC Joint Report 2015
+
+Source: Nigerian AFIC delegation
+
+are no Boko Haram terrorists among the
+refugees. Of those, 650 have been relocated
+to Borno State and the rest to Malkohi IDP
+camp in Yola. Nigerian authorities are calling for international assistance to mitigate
+the appalling conditions in these IDP camps.
+
+4.2.	Northern Mali remains
+unstable
+
+Figure 45. 33 Nigerian women and children rescued from Sambisa
+forest and located at IDP camp of Maiduguri, Borno State
+
+to mount surprise attacks in Chad, Cameroon, Niger and Nigeria itself.
+By the middle of 2015, UNHCR reported the
+presence of 74 000 Nigerian refugees in the
+Far North of Cameroon (Logone-et-Chari;
+Mayo Sava, Dimare, Mayo-Sanaga). This represents an increase of around 26 000 refugees from 30 December 2014, when there
+were 48 000 Nigerian refugees. In addition to
+the Nigerian refugees, there are 81 700 IDPs,
+36 000 returnees and 74 000 Nigerian refugees in the Far North region. These massive
+numbers, added to the 200 000 people settled in this region and the refugees form Central Africa Republic, are considered a factor
+of destabilisation and this situation is overwhelming the Cameroonian capabilities of
+security and assistance.
+Minawao Camp in Cameroon saw an increase in arrivals as its population rose from
+about 30 000 in late 2014 to approximately
+44 000 at the end of July 2015. On 5 August
+2015, Nigeria’s National Emergency Management Agency (NEMA) reported that 12 000
+Nigerian refugees had been returned to Nigeria from Cameroon.
+All the returnees are currently being screened
+by the Nigerian Immigration Service and security agencies (DSS) to confirm that there
+
+48 of 52
+
+Despite the efforts by Malian authorities and
+the international community, instability persists in the Northern regions of Mali. On 15
+May 2015 a peace agreement was signed in
+Bamako between Malian government and
+the ‘Platform movement’ composed by Coordination of movements and patriotic resistance fronts I (CMFPR-I), a faction of the
+Coalition of the People of Azawad (CPA), a
+faction of Arab Movement of Azawad (MAA)
+and the pro-government Tuareg militia of
+the Pro-unity Self-Defence Group of Imrad
+Tuareg and Allies (GATIA), and representatives of two groups of the ‘Coordination
+movement’.
+However, the core members of ‘Coordination movement’ did not sign the agreement,
+which led to a serious deterioration of security situation and violent clashes between
+the opponents.
+The Malian AFIC member reported, during the
+workshop held in Casablanca (Morocco), the
+proliferation of terrorist activities from AQMI,
+MUJAO and Ansar al-Dine. These groups are
+responsible for destruction of places of religious worship and attempts to violently impose sharia (Islamic law) in the Kidal district.
+The Malian member of the AFIC also highlighted the persistence of terrorist activities after the French intervention, referring
+to the operation Serval and the appearance
+of new jihadist or radical groups, such as the
+Haut Conseil pour l’unité de l’Azawad (HCUA),
+formed by members of the Al-Qaida-allied
+Islamist Ansar al-Dine.
+
+International community is supporting the
+government of Mali in its fight against terrorism and political violence. These efforts
+include the United Nations Multidimensional
+Integrated Stabilization Mission in Mali (MINUSMA), EUCAP Sahel Mali mission, the
+French operation Barkhane and cooperation with the USA.
+The Malian armed forces have also intensified their activities at the border with Côte
+d‘Ivoire. For example, near the Sama forest,
+Malian forces neutralised a group of jihadists belonging to Ansar al-Dine, seizing diverse weaponry and vehicles.
+
+Box 22. Regional displacement of people
+As of 31 July 2015 Malian refugees were residing in the following neighbouring countries: Niger (52 445), Mauritania (49 911),
+Burkina Faso (33 907), Algeria (1 330), Togo (169) and Guinea (27).
+Additional 90 000 live as IDPs in Mali’s southern cities, including Bamako (46 143), Koulikoro (19 101) and Ségou (12 139), and
+just over 16 000 have returned to their homes. The camp in
+M’berra (Mali), at the border with Mauritania, is the most populous with almost 60 000 people.
+
+These groups often operate as criminal networks engaged in narcotic trafficking, migrant smuggling activities, kidnapping for
+ransom, looting and all kind of cross-border crimes in order to finance their activities.
+
+49 of 52
+
+Frontex · AFIC Joint Report 2015
+
+5.	Conclusions and
+recommendations
+This AFIC Joint Report covers several subjects broadly linked to border management
+which call for measures to be taken in coordination and at different operational levels.
+Possible measures also fit into the recent EU
+actions addressing the challenges of migration (European Agenda on Migration, Agenda
+on Security, Action Plan on smuggling, and
+Action Plan on return) and the current discussions concerning the scope and deliverables of the upcoming Valletta Summit on
+Migration. The multitude of issues mentioned
+in the preceding analysis can be summarised
+into the following core blocks:
+Reducing risks that migrants or asylum
+seekers face during irregular migration
+through new framework for legal
+pathways
+The analysis of legal travel channels clearly
+points to the fact that travelling to the EU
+legally is simply not an option for large sections of African societies. As mentioned by
+several AFIC members, the fact that visa rejection rates are by far the highest for AFIC
+nationals is also perpetuating false and often exaggerated impression of Europe as a
+sort of ‘the promised land’.
+To obtain a chance of getting to Europe, many
+young Africans are willing to resort to illegal
+means. As reported by Cameroon and consular authorities of EU Member States, these include falsification of breeder documents (salary
+slips, passports, birth and marriage certificates,
+etc.), misleading consular authorities about
+their intended duration of stay, identity theft
+and – as a last resort – also irregular migration using the routes described in the analysis.
+
+50 of 52
+
+While decision on issuing visas is an exclusive
+competence of every EU Member State, AFIC
+members agree that currently the threshold for obtaining a visa is set extremely high
+compared to other regions.
+Stamping the rejected visa applicant’s passport with a ‘visa rejected’ stamp should be
+avoided given the existence of the Visa Information System and its impact on reducing visa shopping and identity fraud.
+Several nationalities in West Africa have the
+ratio of illegal border-crossings at external
+borders of the EU to the number of visas issued for a legal travel to the EU was very
+close to 1:1 (e.g. the case of Malians in 2014).
+Furthermore, the prevailing profile of rejected visa applicants almost perfectly corresponds to the profile of migrants arriving
+through irregular channels.
+This would indicate that their propensity
+to use irregular routes is to be reduced, the
+possible new framework within the Mobility Partnerships should be geared towards
+this group of migrants. In addition, circular
+migration patterns should be encouraged
+taking into account EU rules facilitating circular migration (Seasonal Workers Directive).
+Improving effectiveness of rapid
+return of those who are not eligible for
+international protection
+It is clear that the lack of effective return of
+persons not eligible for protection is encouraging others to try their chances. This can
+lead to unnecessary human suffering as migrants face harassment, exploitation, violence
+
+and even death while trying to cross the desert or the Mediterranean Sea.
+The EU Action Plan against migrant smuggling (COM(2015) 285 final) clearly acknowledges this by making a link between a lack
+of effective return and increasing migrant
+smuggling.
+In addition, EU Action Plan on return
+(COM(2015) 453 final) identifies many AFIC
+countries as possible priority countries regarding readmission building on the ‘morefor-more’ principle (e.g. Morocco, Nigeria,
+Senegal, Guinea, Mali, the Democratic Republic of the Congo, Côte d’Ivoire, the Gambia).
+If the ratio between illegal border-crossings
+and subsequent returns by the affected EU
+Member States in line with the EU Return
+Directive (2008/115/EC) was improved, fewer
+migrants would be willing to risk the journey
+as clearly demonstrated by the case of Tunisians in Italy or Algerians in Spain.
+However, in order to improve this ratio, additional support from the affected AFIC countries needs to be secured, taking into account
+financial, technical and logistical limitations
+that many of these countries will have to be
+helped with.
+
+established bilateral arrangements that several AFIC countries (e.g. Cameroon or Nigeria) have with EU Member States.
+Helping transport companies in Africa to
+operate responsibly and thus minimise
+migrant smuggling
+It is clear that the growing travel industry
+can help maximise the development potential of the ECOWAS protocols on free movement of persons.
+Many bus companies now operate in all 15
+ECOWAS countries and offer a vast network
+of routes (for example Africaada Trans-Continent or Rimbo Transport Voyageurs) at
+relatively affordable prices. In doing so, the
+companies play a key role in regional mobility and should thus be an important partner
+to consider when AFIC countries are addressing irregular migratory movements.
+Authorities from AFIC countries should
+therefore engage in dialogue and establish
+partnership with these companies to raise
+awareness and work with them on proper
+implementation of ECOWAS free-movement
+protocols.
+Improving detection of THB victims as
+they cross borders
+
+This could result in possible presence of their
+consular authorities at the main entry points
+where Frontex-coordinated Joint Operations
+are ongoing (mostly Italy and Spain) in order to assist with the procurement of return
+documentation. Given the complexity of the
+return procedure, a pilot project with one
+or two African countries could be initiated.
+
+Potential THB victims typically travel either
+alone or in groups of two or three persons.
+If the victim is accompanied by a trafficker
+during the journey, they often cross the border control separately. They may claim that
+they are travelling with an apparent family member.
+
+Such initiatives should be implemented in
+conjunction with the Commission’s plan to
+provide ‘technical support to countries of origin or transit for migrants, to help improve
+their capabilities to integrate the returnees.’
+Furthermore, they should build on already
+
+If the victim travels alone, they are usually
+picked up directly at the airport by the trafficker (sometimes the ‘madam’). During the
+interview victims make false statements
+about the travel and their personal and family situation as they present a story learnt by
+
+51 of 52
+
+Frontex · AFIC Joint Report 2015
+
+heart from the traffickers. Victims can initially
+appear arrogant or aggressive and refuse to
+cooperate with border guards.
+All these insights should be taken into consideration by border authorities in AFIC countries when they perform border checks.
+Frontex should further assist by providing a
+handbook and/or risk profiles when available.
+Further development of the AfricaFrontex Intelligence Community
+The AFIC is growing both in terms of its participants and ability to share information.
+New AFIC mailboxes dedicated to each AFIC
+country have now been added to the already
+introduced information sharing platform. This
+allows for more frequent and permanent information sharing and more frequent production of joint reports (quarterly and annual).
+
+52 of 52
+
+To further develop information sharing capacity, Frontex would be ready to engage in
+developing technical and institutional capacity using available EU financial instruments.
+Frontex will also support AFIC partners to effectively disseminate joint reports and present the work of the AFIC in regional fora
+(ECOWAS, AU, other). AFIC partners will provide proposals for regional meetings where
+this support will be needed.
+The AFIC should also continue to meet in Africa at least once per year. Frontex will support study visits that could be organised on
+the margins of such AFIC meetings in Africa.
+Finally, while this report is mostly focused on
+ECOWAS and Central African region, steps
+will be taken to cover also East Africa the
+Horn of Africa in future activities of the AFIC.
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+For Public Release
+Risk Analysis Unit
+Reference number: 20937/2015
+
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+
+TT-01-16-058-EN-N
+ISBN 978-92-95205-21-5
+doi:10.2819/436478
+
+Warsaw, January 2016
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+

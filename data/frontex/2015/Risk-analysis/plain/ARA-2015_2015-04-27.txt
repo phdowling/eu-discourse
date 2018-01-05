@@ -1,0 +1,9888 @@
+Annual Risk
+Analysis 2015
+
+Annual Risk
+Analysis 2015
+
+1 of 68
+
+Frontex official publications fall into four main categories: risk analysis, training, operations and
+research, each marked with a distinct graphic identifier. Risk analysis publications bear a triangular symbol formed by an arrow drawing a triangle, with a dot at the centre. Metaphorically,
+the arrow represents the cyclical nature of risk analysis processes and its orientation towards an
+appropriate operational response. The triangle is a symbol of ideal proportions and knowledge,
+reflecting the pursuit of factual exactness, truth and exhaustive analysis. The dot at the centre
+represents the intelligence factor and the focal point where information from diverse sources
+converges to be processed, systematised and shared as analytical products. Thus, Frontex risk
+analysis is meant to be at the centre and to form a reliable basis for its operational activities.
+
+European Agency for the Management of Operational Cooperation
+at the External Borders of the Member States of the European Union
+Plac Europejski 6, 00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+Warsaw, April 2015
+Risk Analysis Unit
+Frontex reference number: 4613 / 2015
+Print version:
+
+Online version:
+
+OPOCE Catalogue number: TT-AC-15-001-EN-C
+ISBN 978-92-95205-20-8
+ISSN 1977-4451
+DOI 10.2819/65576
+
+TT-AC-15-001-EN-N
+ISBN 978-92-95205-19-2
+ISSN 1977-446X
+DOI 10.2819/95629
+
+© Frontex, 2015
+All rights reserved. Reproduction is authorised provided the source is acknowledged.
+Cover photo © Frontex, 2014. All rights reserved.
+
+DISCLAIMERS
+This is a Frontex staff working document. This publication or its contents do not imply the
+expression of any opinion whatsoever on the part of Frontex concerning the legal status of
+any country, territory or city or its authorities, or concerning the delimitation of its frontiers or
+boundaries. All maps and charts included in this report are the sole property of Frontex and any
+unauthorised use is prohibited. Frontex disclaims any liability with respect to the boundaries,
+names and designations used on the maps. The contents of open-source boxes are unverified
+and presented only to give context and media representation of irregular-migration phenomena.
+
+ACKNOWLEDGMENTS
+The Frontex Annual Risk Analysis 2015 has been prepared by the Frontex Risk Analysis Unit.
+During the course of developing this product, many colleagues at Frontex and outside contributed to it and their assistance is hereby acknowledged with gratitude.
+
+2 of 68
+
+Table of contents
+Executive summary #5
+1. Introduction #8
+2. Methodology #9
+3. Situational picture in 2014 #12
+3.1.	Passenger flow across the external borders #12
+3.2. Visas #15
+3.3. Detections of illegal border-crossing between BCPs #17
+3.4. Clandestine entries #25
+3.5. Document fraud #26
+3.6. Refusals of entry #28
+3.7. Detections of illegal stay #29
+3.8. Returns #32
+3.9. Facilitators #33
+3.10. Cross-border crimes #33
+3.11. Asylum applications #40
+4. Situation in the EU #42
+4.1.	European Commission’s priorities in 2015 #42
+4.2.	Renewed Internal Security Strategy #42
+4.3. State of play concerning an EU Passenger Name Record proposal #42
+4.4. New Schengen Evaluation Mechanism #43
+4.5. EUROSUR Handbook #43
+4.6. Roll-out and impact of Visa Information System #43
+4.7.	Schengen visa policy developments #44
+4.8.	State of play concerning the ‘Smart Borders Package’
+(entry/exit system and the registered traveller programme) #45
+4.9.	Recast Eurodac Regulation #45
+4.10.Asylum Procedures Directive changes #45
+5. Outlook #47
+5.1.	Illegal border-crossing expected to remain concentrated in
+southern and south-eastern borders of the EU #47
+5.2.	Increased workload at the border #48
+5.3. Increased abuse of fraudulent breeder documents #49
+5.4. Movement of terrorists #49
+5.5. Health risk assessment #49
+6.	Selected recommendations for risk mitigation #52
+6.1.	Security aspects of border management #52
+6.2. Full identification of individuals entering the EU #53
+6.3. Knowledge management at operational and policy levels #54
+6.4. Specific third-country border management and border security risks #54
+6.5. Multidisciplinary integrated training for EU border-control authorities #55
+7. Statistical annex #56
+
+3 of 68
+
+Frontex · annual risk analysis 2015
+
+List of abbreviations used
+APD
+API
+ARA
+BCP
+CETI
+CIRAM
+EASO
+EBF
+EC
+EDF
+EDF-RAN
+EMCDDA
+EPN
+EU
+eu-LISA
+EUR
+Eurodac
+Europol
+EUROSUR
+FRAN
+Frontex
+HIV
+IBM
+IBSS
+ID
+IMO
+IOM
+ISS
+JO
+JORA
+MS
+NGO
+OCG
+PHAME
+PNR
+RAU
+SAC
+SIS
+TB
+THB
+UK
+UNHCR
+UNODC
+USA
+VIN
+VIS
+VLAP
+WHO
+
+4 of 68
+
+ sylum Procedures Directive
+A
+Advance Passenger Information
+Annual Risk Analysis
+border crossing point
+Centro de Estancia Temporal de Inmigrantes [Spanish Temporary Stay Centre for Immigrants]
+Common Integrated Risk Analysis Model
+European Asylum Support Office
+External Borders Fund
+European Commission
+European Union Document-Fraud
+European Union Document-Fraud Risk Analysis Network
+European Monitoring Centre for Drugs and Drug Addiction
+European Patrols Network
+European Union
+EU Agency for large-scale IT systems
+euro
+European Dactyloscopy
+European Police Office
+European Border Surveillance System
+Frontex Risk Analysis Network
+European Agency for the Management of Operational Cooperation at the External
+Borders of the Member States of the European Union
+human immunodeficiency virus
+Integrated Border Management
+Bulgaria’s Integrated Border Surveillance System
+identity document
+International Maritime Organisation
+International Organization for Migration
+Internal Security Strategy
+Joint Operation
+Frontex Joint Operations Reporting Application
+Member State
+non-government organisation
+organised crime group
+Public Health Aspects of Migration in Europe
+Passenger Name Record
+Frontex Risk Analysis Unit
+Schengen Associated Country
+Schengen Information System
+tuberculosis
+trafficking in human beings
+United Kingdom
+United Nations High Commissioner for Refugees
+United Nations Office on Drugs and Crime
+United States of America
+Vehicle Identification Number
+V isa Information System
+V isa Liberalisation Action Plan
+World Health Organization
+
+© Frontex, 2013
+
+Executive summary
+In 2014, detections of illegal border-crossing reached a new record, with more than
+280 000 detections. The unprecedented
+number of migrants crossing illegally the
+external borders has roots in the fighting in
+Syria that has resulted in the worst refugee
+crisis since the Second World War. Indeed,
+most of the detections at the borders concerned migrants from Syria, who later applied for asylum within the EU.
+The record number of migrants detected at
+the external borders of the EU had several
+implications for border-control authorities
+and EU internal security:
+1) Most of these detections were reported
+as part of search and rescue operations in
+the Central Mediterranean area. In 2014,
+border-control authorities saved the lives
+of thousands of people. However, facilitators increasingly utilised unsafe boats,
+with the inevitable result that migrants’
+lives were put at risk.
+2) The very high demand for illegal crossing
+to the EU, fuelled by the record number of
+successful entries, also led to a new modus
+operandi. Since September 2014, the use of
+large cargo ships to transport migrants directly from the Turkish coast near Mersin
+to Italy has been reported. This is a multimillion-euro business for organised crime
+groups (OCG), which is likely to be replicated in other departure countries. Another
+
+worrying trend has been the increasing
+number of deliberate attempts to involve
+merchant ships in rescuing migrants. This
+has prompted the International Maritime
+Organization (IMO) to voice the concerns
+of the shipping industry over its involvement in rescuing irregular migrants.
+3) W ith record numbers of migrants crossing the border illegally, resources are devoted to their immediate care, rather
+than screening and obtaining information on their basic characteristics such as
+nationality. After they are rescued, they
+continue their journey to other Member
+States and not knowing who is travelling
+within the EU is a vulnerability for EU internal security.
+The profile of detected irregular migrants
+remained relatively unchanged compared
+to 2013, being mostly adult males. However,
+the proportion of women (11%) and children
+(15%) reflects the fact that many migrants
+move to the EU with the intention of claiming asylum, thereby escaping violence in their
+own country.
+Most migrants were detected in the Central Mediterranean area, where detections
+totalled over 170 000. On the Eastern Mediterranean route detections totalled over 50
+800. Towards the end of 2014, detections
+sharply increased at the Hungarian land border with Serbia, making the Western Bal-
+
+5 of 68
+
+Frontex · annual risk analysis 2015
+
+kan route (with 43 357 detections) the third
+most important irregular migration route
+towards the EU.
+Detections of clandestine entry in vehicles increased strongly from 599 in 2013 to 3 052 in
+2014. This rise was due to a tenfold increase in
+detections reported from the Bulgarian BCPs
+along the land border with Turkey.
+In 2014, there were just over 9 400 detections
+of document fraud cases on entry to the EU/
+Schengen area from third countries, which
+represented a slight decrease compared to
+the previous year. By contrast, cases reported
+on intra-EU Schengen movements showed a
+marked increase from 7 867 in 2013 to 9 968
+in 2014 (+27%). Thus, for the first time, there
+were more fraudulent documents detected
+on intra-EU/Schengen movements than during border checks on passengers arriving from
+third countries. This is partly due to the large
+number of migrants undertaking secondary
+movements within the EU, often with fraudulent documents obtained in the country of
+their entry into the EU.
+The facilitation of illegal migration remains
+a significant threat to the EU external borders. Detections of facilitators rose from
+7 252 in 2013 to 10 234 in 2014. The increase
+was mostly due to higher numbers reported
+in Spain, Italy and Bulgaria.
+Member States reported more than 114 000
+refusals of entry issued at the external borders of the EU, a decrease of 11% compared
+to 2013. The decrease is the consequence of
+the record high of 2013, when an exceptionally large number of Russians of Chechen origin were refused entry because they lacked
+a valid visa.
+In 2014, there were 441 780 detections of illegal stay in the EU, which represents an increase compared to the year before. Most
+of the increase was due to a higher number
+
+6 of 68
+
+of detected Syrians and Eritreans who later
+applied for asylum.
+A total of 252 003 third-country nationals
+were subject to an obligation to leave the
+EU as a result of an administrative or judicial decision, which was a 12% increase compared to 2013.
+In 2014, there were 161 309 third-country nationals effectively returned to countries outside the EU, which was broadly similar to
+the numbers returned in 2013. The UK was
+the Member State that conducted the largest number of returns (36 313), with steady
+trends to India and Pakistan. Greece reported
+an increase in effective returns, mostly of
+Albanians.
+As regards the wider geopolitical context,
+two issues clearly stand out: the conflict in
+Syria and the continued volatility in North African countries, notably Libya, from where migrants often depart in their attempt to cross
+the Mediterranean Sea. The large number
+of displaced Syrians in the Middle East and
+North Africa suggests that Syria will likely remain the top country of origin for irregular
+migrants and asylum seekers in the EU for
+some time to come. In Libya, migrants are
+in an extremely vulnerable situation, especially those in areas affected by the fighting.
+Migrants in Libya also face arbitrary detention and very poor conditions of detention,
+marked by overcrowding, poor sanitation
+and exploitation.
+The ongoing crisis in Ukraine will continue
+to be an important factor affecting population movements. However, so far it has not
+resulted in marked changes in illegal migration movements towards the EU. The main
+development along the eastern land border
+has been the reduction in the number of regular passengers from the Russian Federation
+to the EU due to the economic downturn.
+
+Looking ahead, the likelihood of a large number of illegal border-crossings to the EU is
+high and so is the probability of a large number of migrants needing assistance in terms
+of search and rescue operations (but also the
+provision of international protection), in particular in the southern section of the external
+border, on the Eastern Mediterranean and
+the Central Mediterranean routes. Many migrants who cross illegally and apply for asylum
+are not detained and thus continue making
+their journey within the EU.
+Most risks associated with document fraud
+were assessed as high. Indeed, document
+fraudsters not only undermine border security but also the internal security of the EU.
+
+These risks are common to nearly all Member
+States, as they are associated with passenger
+flows and border checks, which are a specific expertise of border-control authorities.
+Most cases of fraud are expected to involve
+EU travel documents and there are indications of a shift away from the use of passports towards less sophisticated documents
+such as ID cards and residence permits.
+Overall, there is an underlying threat of terrorism-related travel movements especially
+due to the appeal of the Syrian conflict to both
+idealist and radicalised youths. The conflict in
+Syria has attracted hundreds of foreign fighters, including EU citizens, dual-nationality
+holders and other third-country nationals.
+
+7 of 68
+
+Frontex · annual risk analysis 2015
+
+1. Introduction
+The Frontex Annual Risk Analysis (ARA) 2015
+presents a European summary of trends and
+developments along the external borders of
+the Member States of the EU. This analysis
+is based on information provided to Frontex
+by the EU Member States and Schengen Associated countries throughout 2014, as well
+as information collected during Frontex Joint
+Operations and from open sources.
+The analysis starts with an overview of the
+situation before the border based on data for
+Schengen uniform visas. It then looks at the
+situation along the external border, based on
+trends in regular passenger flows, detections
+of illegal border-crossing, clandestine entries
+and refusals of entry. Finally, the report provides an update on the situation regarding
+persons staying illegally in the EU and thirdcountry nationals returned.
+Frontex operational activities aim at strengthening border security by ensuring the coordination of Member States’ actions in the
+implementation of Community measures
+relating to the management of the external
+
+8 of 68
+
+borders. The coordination of operational activities also contributes to better allocation
+of Member States’ resources and protection
+of the area of freedom, security and justice.
+The ARA 2015 concentrates on the current
+scope of Frontex operational activities, which
+focus on irregular migration at the external
+borders of EU Member States and Schengen
+Associated Countries. In line with the concept of integrated border management (IBM),
+border management should not be limited to
+controlling illegal migration but also cover
+threats to the EU internal security. Thus a full
+section is dedicated to the analysis of crossborder crime.
+The Frontex Risk Analysis Unit (RAU) would
+like to express its gratitude to all members
+of the Frontex Risk Analysis Network (FRAN)
+in Member States for their efforts in providing data and information, as well as Europol,
+EASO and the WHO PHAME programme,
+which have contributed to the ARA 2015, and
+all Frontex colleagues involved in the preparation of this report.
+
+2. Methodology
+Data exchange
+A coherent and full analysis of the risks affecting security at the external borders requires, above all, the adoption of common
+indicators. Consistent monitoring of these
+indicators will then allow effective measures
+to be taken on the ground.
+The backbone of the ARA 2015 is the monthly
+statistics exchanged among Member States
+within the framework of the Frontex Risk
+Analysis Network (FRAN). This regular dataexchange exercise was launched in September 2007 and then refined in 2008. Thanks to
+FRAN members’ efforts, a much larger statistical coverage was achieved in 2011. Additional
+requirements were added in 2014, and active
+collaboration with EASO means that their
+data on asylum applications are now privileged over data collected through the FRAN.
+Thus, for the ARA 2015, the key indicators collected through FRAN were: detections of illegal border-crossing through the green border
+or at BCPs; refusals of entry; detections of illegal stay; detections of facilitators; detections
+of forged documents; return decisions and
+effective returns; and passenger flow (when
+available). Data on asylum applications are still
+being collected within the FRAN, but increasingly Frontex relies on data collected by EASO
+to analyse the situation regarding asylum.
+Data on the number of EU visas issued and
+their places of issue would improve the characterisation of third-country passenger flows.
+
+© Frontex, 2014
+
+However, this information, which is collected
+within the Council’s Visa Working Party and
+published by the European Commission, is
+not yet available for 2014. For the purpose
+of the ARA, data from 2008 to 2013 are discussed as an introduction to the general situation at the borders.
+Member States were not requested to answer specific questions in support of this
+analysis. Rather, bi-monthly analytical reports
+and incident reports of Member States routinely collected within the FRAN were used
+as important sources of information, especially as regards the analysis of routes and
+modi operandi.
+Open-source information was also effectively
+exploited, especially in identifying the main
+push and pull factors for irregular migration to
+the EU. Among others, these sources included
+reports issued by government agencies, international and non-governmental organisations, as well as official EU reports, such as
+the European Commission’s reports on third
+countries, and mainstream news agencies.
+In addition, Frontex organised an Annual Analytical Review to consolidate the risk analyses presented in the FRAN Quarterlies for
+2014 and also to gather knowledge on likely
+risks of irregular migration at the EU’s external borders. Participants of the FRAN were
+invited in January 2015 to review and comment on the risks identified at the external
+borders during a one-day exercise.
+
+9 of 68
+
+Frontex · annual risk analysis 2015
+
+The data exchange was overseen by Frontex
+involving national border-control authorities.
+Data were categorised by border type (land,
+air and sea) and those on land borders were
+additionally categorised by border section
+with neighbouring third countries.
+The data exchanged within the FRAN are
+compiled and analysed on a quarterly basis.
+Priority is given to the use of data for management purposes and to its fast sharing
+among Member State border-control authorities. Member States’ data processed by
+Frontex are not treated as official statistics
+and thus may occasionally vary from those
+officially published by national authorities.
+Throughout 2014, some FRAN members performed backdated updates of their 2013 statistics. These updates have been accounted
+for in this document and so some data presented herein may differ from the data presented a year ago in the Annual Risk Analysis
+2014.
+External borders refer to the borders between Member States and third countries.
+The borders, if any, between the Schengen
+Associated Countries (Liechtenstein, Norway,
+Iceland and Switzerland) and third countries
+are also considered as external borders. The
+borders between the Schengen Associated
+Countries and Schengen Member States are
+considered as internal borders. For indicators
+on detections of facilitators, illegal stay and
+asylum, statistics are also reported for detections at the land borders, if any, between
+the Schengen Member States and Member
+States not yet part of the Schengen area (Bulgaria, Romania, Croatia, Cyprus) or Member
+States that have opted-out from Schengen
+(the UK, Ireland), so that a total for EU Member States and Schengen Associated Countries as a whole can be presented. It was not
+possible to make this distinction for air and
+sea borders because Member States do not
+habitually differentiate between extra-EU
+
+10 of 68
+
+and intra-EU air and sea connections but tend
+to aggregate data for all arrivals per airport.
+Quality of available data
+Consistent with other law-enforcement indicators, variations in administrative data
+related to border control depend on several
+factors. In this case, the number of detections
+of illegal border-crossing and refusals of entry are both functions of the amount of effort spent detecting irregular migrants and
+the actual flow of irregular migrants to the
+EU. For example, increased detections of illegal border-crossing might be due to a real
+increase in the flow of irregular migrants
+or may in fact be an outcome of more resources made available to detect them. In
+exceptional cases, increased resources may
+produce a rise in reported detections while
+effectively masking an actual decrease in the
+flow of migrants, resulting from a strong deterrent effect.
+Information on national-level resources for
+border-control authorities and their allocation
+is currently only partially known by Frontex.
+These data are provided by Member States
+themselves either within the Schengen evaluation mechanism or within the External
+Borders Fund (EBF) reporting. Without systematic and reliable information on resources
+allocated to border control and without estimates of irregular migration flows, it is not
+possible to assess the performance and impact of the border controls put in place and
+the analyses of the situation at the EU’s external borders are limited to descriptive statistics of the administrative data provided by
+Member States.
+Application of the Common Integrated
+Risk Analysis Model (CIRAM)
+A key development in the CIRAM 2.0 update released in 2011 was the adoption of a
+management approach to risk analysis that
+
+defines risk as a function of the threat, vulnerability and impact. Such an approach endeavours to reflect the spirit of the Schengen
+Borders Code and the Frontex Regulation,
+
+both of which emphasise risk analysis as a
+key tool in ensuring the optimal allocation of
+resources within the constraints of budget,
+staff and efficiency of equipment.
+
+11 of 68
+
+Frontex · annual risk analysis 2015
+
+3. Situational picture in 2014
+3.1. P
+ assenger flow across the
+external borders
+Passenger flow is highly correlated with the
+volumes of checks that border guards have
+to perform at the BCPs. The composition and
+volume of passenger flow determine to a
+large extent the planning and allocation of
+resources that will be needed.
+At a European level, there is no systematic
+reporting on passenger flows by BCP, border section or as a total for the EU’s external
+border. Some external indicators can be used
+to raise awareness on the trend, like growth
+in air traffic movements, tickets sold by ferry
+companies, and the like. However, these external indicators are insufficient to properly
+and rapidly highlight the trend. Despite these
+shortcomings, some initiatives are being de-
+
+veloped, such as the Smart Borders Package
+currently in the pilot phase. Hopefully, this
+may lead to the roll-out of an EU Entry/Exit
+System that will remedy this lack of reliable
+data. In parallel, Frontex and Member States,
+under the Frontex Risk Analysis Network
+(FRAN), have started to report passenger
+flow on a monthly basis. This initiative is still
+in its infancy, and the data collection is done
+on a voluntary basis (13 Member States did
+not report any monthly data for 2014). Nevertheless, this reporting should shed some
+light on the broad characteristics of passenger flows across the external borders.
+At the macro level, since 2008 two factors have
+contributed to significant changes in passenger flow: the first one was the economic crisis
+that translated into a decrease in passenger
+flow in 2009–2010, in particular at the air bor-
+
+Table 1. Summary of FRAN indicators
+FRAN indicator
+Illegal entries between BCPs
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+% change
+on prev. year
+
+2014
+
+104 599
+
+104 060
+
+141 051
+
+72 437
+
+107 365
+
+283 532
+
+164
+
+296
+
+242
+
+282
+
+591
+
+599
+
+3 052
+
+410
+
+Facilitators
+
+9 171
+
+8 629
+
+6 957
+
+7 662
+
+7 252
+
+10 234
+
+41
+
+Illegal stay
+
+412 125
+
+353 077
+
+350 948
+
+344 928
+
+345 098
+
+441 780
+
+28
+
+Refusals of entry1
+
+113 029
+
+108 651
+
+118 277
+
+116 524
+
+129 235
+
+114 887
+
+-11
+
+Persons using fraudulent documents2
+
+:
+
+:
+
+5 255
+
+7 804
+
+9 804
+
+9 420
+
+-3.9
+
+Return decisions issued3
+
+:
+
+:
+
+231 385
+
+269 949
+
+224 305
+
+252 003
+
+12
+
+Effective returns
+
+:
+
+:
+
+149 045
+
+158 955
+
+160 418
+
+161 309
+
+0.6
+
+Clandestine entries at BCPs
+
+Other indicators
+Issued visas (source: Commission)
+Passenger flow4
+
+10 270 107
+
+11 857 352
+
+13 521 706
+
+14 263 225
+
+16 196 350
+
+:
+
+n.a.
+
+660 000 000
+
+675 000 000
+
+701 000 000
+
+:
+
+:
+
+:
+
+n.a.
+
+ In addition, Spain reported refusals of entry in Ceuta and Melilla, which totalled: 492 742 in 2008; 374 845 in 2009; 280 625 in 2010; and 215 021 in
+2011.
+2
+ Decisions not available for France, Luxembourg, the Netherlands and Sweden. For 2014, data from Austria are not available.
+Data for France are not available for 2011 and 2012.
+3
+ Figures provided by Member States to the European Commission in the framework of the EU External Borders Fund.
+1
+
+:
+not available
+n.a. not applicable
+Source: FRAN and EDF-RAN data as of 9 February 2015
+
+12 of 68
+
+© Frontex, 2014
+
+der. The second was the visa liberalisation policy and local border traffic agreements that
+resulted in higher passenger flows, mostly at
+the land borders with Western Balkan countries, especially at the Hungarian land border
+with Serbia, i.e. along the main road connection of the Western Balkans to the EU. Even
+though the lack of passenger flow data does
+not warrant the comparison of flows at the
+land and air borders, since 2010, refusals of entry have been larger at the land borders than
+at the air borders, which suggests a heavier
+workload at the former type of border.
+Air borders
+At the air borders, Member State border-control authorities do not collect data on passengers going through border checks in a
+systematic way. Some Member States have
+national Entry-Exit systems in place that record the number and nationality of the passengers in detail, but most Member States
+do not directly collect detailed statistics but
+
+rely on information provided by air carriers
+(flight manifests and/or API transmissions).
+At the air border, data from Eurostat on extra-EU arrivals are the best approximation of
+the flow of passengers, but this flow does not
+correspond to the total flow of passengers
+going through border checks as it does not
+take into account the flow between Schengen and non-Schengen Member States.
+Eurostat annual totals for 2014 are not yet
+available but earlier data can also provide
+some valuable insights (see Fig. 1). In 2013
+compared to 2012 the increase in arrivals
+requiring border checks (arrivals from third
+countries, as well as between Schengen and
+non-Schengen Member States and between
+non-Schengen Member States) was more
+pronounced (+20%) than in the case of arrivals not requiring any checks (+9%, within
+Schengen Member States). This means that
+border-control authorities saw their workload at airports considerably increasing in
+2013. The rising trend in passenger flow is
+
+Table 2. A
+ rrivals at EU airports 2009–2013
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+451 752 882
+
+458 234 222
+
+491 812 533
+
+488 918 164
+
+548 556 638
+
+Arrivals from EU non-Schengen to EU non-Schengen
+
+35 261 246
+
+31 902 549
+
+32 087 444
+
+31 995 197
+
+34 482 692
+
+Arrivals from EU non-Schengen to Schengen
+
+54 776 399
+
+53 439 118
+
+58 423 605
+
+59 036 633
+
+70 922 296
+
+Arrivals from Schengen to EU non-Schengen
+
+54 519 640
+
+53 110 401
+
+57 532 214
+
+58 377 691
+
+71 831 715
+
+307 195 597
+
+319 782 154
+
+343 769 270
+
+339 508 643
+
+371 319 935
+
+Arrivals from third countries
+
+98 858 409
+
+107 624 147
+
+111 537 220
+
+116 833 684
+
+143 536 433
+
+Arrivals from third country to EU non-Schengen
+
+27 444 807
+
+27 973 986
+
+28 478 404
+
+29 057 849
+
+34 160 798
+
+Arrivals from third country to Schengen
+
+71 413 602
+
+79 650 161
+
+83 058 816
+
+87 775 835
+
+109 375 635
+
+Arrivals requiring border checks
+
+243 415 694
+
+246 076 215
+
+259 580 483
+
+266 243 205
+
+320 773 136
+
+Arrivals not requiring border checks
+
+307 195 597
+
+319 782 154
+
+343 769 270
+
+339 508 643
+
+371 319 935
+
+Arrivals intra-EU/Schengen
+
+Arrivals from Schengen to Schengen
+
+Arrivals and border checks
+
+Source: Eurostat data as of 20 January 2015
+
+13 of 68
+
+Frontex · annual risk analysis 2015
+
+Figure 1. Arrivals requiring and not requiring border checks at EU
+airports in 2009–2013
+
+rouble against the euro which have a negative
+impact on numbers of travellers to the EU.
+
+400 000 000
+
+Land borders
+
+350 000 000
+300 000 000
+250 000 000
+200 000 000
+150 000 000
+100 000 000
+50 000 000
+0
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Arrivals requiring border checks
+Arrivals not requiring border checks
+Source: Eurostat data as of 20 January 2015
+
+mostly due to the growing passenger flow
+on major air routes.
+Third-country airports of departure to
+the EU
+The USA remains the main departure third
+country for arrivals in the EU, representing 19% of all arrivals from third countries
+in 2013 (with about 27 million passengers),
+yet the largest increase was observed for
+arrivals from Turkey: from about 16 million in 2012 to nearly 20 million in 2013
+(+25%). In fact, two Turkish airports, Istanbul (more than 7 million arrivals) and the
+leisure airport Antalya (6.5 million arrivals),
+are in the top three airports for arrivals in
+the EU. The largest absolute increase between 2012 and 2013 was reported for arrivals from Dubai airport, which increased
+from 5.6 million in 2012 to nearly 7 million
+in 2013 (+25%).
+Arrivals from the Russian Federation (mostly
+from Moscow Sheremetyevo airport) have
+also constantly increased since 2009, to reach
+a record high in 2013 with 11 million arrivals,
+but this trend is expected to stop in 2014, because of the economic downturn in the Russian Federation and the depreciation of the
+
+14 of 68
+
+Information available on passenger traffic at
+the external land borders of the EU is scarce.
+Under FRAN data collection scheme on passenger flow, ten Member States reported
+data on passenger flow at their land border on a monthly basis in 2014. Information
+for some of the busiest land borders is still
+missing, notably at the Bulgarian and Greek
+land border with Turkey, and at the Croatian
+border with Bosnia-Herzegovina and Serbia.
+In 2014, the ten Member States reporting
+data on passenger flow together totalled
+about 50 million arrivals at the land borders. The traffic was the heaviest at the
+borders with the Russian Federation (Norway, Finland, Estonia, Latvia and Lithuania),
+with about 13 million passengers. On an annual basis, passenger flow from Ukraine followed. However, through the year, these two
+flows showed diverging trends, with passenger flow from the Russian Federation decreasing and passenger flow from Ukraine
+slightly increasing.
+Indeed, passenger flow sharply dropped at
+all border sections with the Russian Federation after August 2014, as a consequence of
+the economic downturn in the Russian Federation and the depreciation of the rouble
+against the euro. This makes any purchase
+in the EU much less accessible for Russian
+customers. On the other hand, this situation is likely to favour the growth of petty
+smuggling across the border. Indeed, wider
+price difference in the rouble for products
+like cigarettes will make it more attractive for Russian smugglers to export illegally to the EU.
+In terms of nationalities, Ukrainians were
+ranking first for passenger flow. The largest
+
+increase was, however, reported for Moldovans after the introduction of visa liberalisation regime that entered into force in 2014.
+Land BCP check practices and land BCPs
+themselves vary widely. This sets them apart
+from air borders, as airports constitute a
+controlled environment where practices can
+be more easily standardised. Moreover, the
+rate at which traffic flows across land BCPs
+are determined not only by Member States
+but also by the practices of neighbouring
+third countries. Bilateral cooperation is thus
+fundamental to facilitating transit. Unlike at
+the air border, early warnings at land BCPs
+are rarely available, which limits the ability of border management authorities to
+allocate resources in advance. Finally, land
+borders can be subject to massive or emergency flows, for which contingency planning is necessary.
+
+3.2. Visas
+The Community Code on Visas, which entered into force in April 2010, sets out the
+common requirements for issuing transit
+and short-term visas to enter the territory of Member States. There are currently
+over 100 nationalities that require a visa to
+enter the EU, covering more than 80% of
+non-EU population of the world. Nevertheless, about 1 billion nationals from approximately 40 third countries do not require an
+EU visa. These include Australia, Canada,
+Japan, New Zealand and the USA. As indicated in the Visa Code, statistical data are
+an important means of monitoring migratory movements and can serve as an efficient management tool.
+Generally, a short-stay visa issued by one of
+the Schengen states (visa C) entitles its holder
+to travel throughout the 26 Schengen states
+for up to three months within a six-month
+period. Visas for visits exceeding that period remain subject to national procedures.
+
+The data include visas issued by the Schengen Associated Countries (Iceland, Liechtenstein, Norway and Switzerland), but do
+not include those issued by Croatia, Cyprus,
+Romania and Bulgaria, which have not yet
+joined the Schengen area, nor visas issued
+by the UK and Ireland, which are not part of
+the Schengen area.
+Data on visa issuance by Member States and
+third countries of issuance are not yet available for 2014, but the European Commission,
+through its Directorate-General Home Affairs, has released the data for 2013. VIS data
+are collected on the basis of the place of application rather than the citizenship of the
+visa applicant. Thus, for instance, applications made in the Russian Federation do not
+necessarily represent only Russian nationals.
+However, for the purpose of the following
+overview, the country where the visas were
+delivered was used as the most suitable approximation of the visas issued to citizens of
+that country. Visas broken down by nationalities are available at the national level, where
+they can be used for operational purposes.
+In 2013, a total of 16 196 350 short-term uniform visas were issued, representing an increase of 14% compared to 2012. Most of the
+visas (61%) were issued in just three countries: the Russian Federation, which alone
+accounted for 43% of all visas issued in 2013,
+with almost 7 million visas, as well as Ukraine
+(1.5 million, 9%) and China (1.4 million, 9%).
+There are, however, important differences
+between these three countries in the purpose of travel and frequency of trips. Multiple-entry visas accounted for 49% of all visas
+issued in the Russian Federation, but only for
+13% of those issued in China. Indeed, many
+Chinese applied for short-term visas as part
+of their tourist package in the EU. According
+to the World Tourism Organization, China is
+now the leading nation in terms of tourism
+expenditure worldwide, and this trend will
+further consolidate.
+
+15 of 68
+
+Frontex · annual risk analysis 2015
+
+Table 3. D
+ etections of illegal border-crossing between BCPs
+Detections reported by routes and top three nationalities at the external borders
+
+Routes
+
+2009
+
+Central Mediterranean route (ITA and MLT)
+
+11 043
+40
+
+Syria
+Eritrea
+Unspecified sub-Saharan nationals
+Eastern Mediterranean route (GRC, BGR AND CYP)
+Sea
+Syria
+Afghanistan
+Somalia
+Land
+Syria
+Afghanistan
+
+2010
+
+2011
+
+2012
+
+4 450
+
+64 261
+
+191
+
+283
+
+1 084
+
+55
+
+0
+
+Share of parent % change on
+row total
+previous year
+
+2013
+
+2014
+
+15 151
+
+45 298
+
+170 664
+
+60
+
+277
+
+581
+
+11 503
+
+39 651
+
+23
+
+245
+
+659
+
+1 889
+
+10 398
+
+33 559
+
+20
+
+223
+
+0
+
+0
+
+0
+
+0
+
+26 340
+
+15
+
+n.a.
+
+39 975
+
+55 688
+
+57 025
+
+37 224
+
+24 799
+
+50 834
+
+18
+
+105
+
+28 848
+
+6 175
+
+1 467
+
+4 370
+
+11 831
+
+44 057
+
+87
+
+272
+
+184
+
+139
+
+76
+
+906
+
+5 361
+
+27 025
+
+61
+
+404
+
+11 758
+
+1 373
+
+310
+
+1 593
+
+4 080
+
+11 582
+
+26
+
+184
+
+5 675
+
+416
+
+42
+
+56
+
+526
+
+1 621
+
+3.7
+
+208
+
+11 127
+
+49 513
+
+55 558
+
+32 854
+
+12 968
+
+6 777
+
+13
+
+-48
+
+354
+
+495
+
+1 216
+
+6 216
+
+7 366
+
+4 648
+
+69
+
+-37
+-56
+
+639
+
+21 389
+
+19 308
+
+7 973
+
+2 049
+
+893
+
+13
+
+2 674
+
+2 704
+
+1 054
+
+987
+
+372
+
+483
+
+7.1
+
+30
+
+3 089
+
+2 371
+
+4 658
+
+6 391
+
+19 951
+
+43 357
+
+15
+
+117
+
+Kosovo*
+
+705
+
+372
+
+498
+
+942
+
+6 303
+
+22 059
+
+51
+
+250
+
+Afghanistan
+
+700
+
+469
+
+983
+
+1 665
+
+2 174
+
+8 342
+
+19
+
+284
+
+0
+
+12
+
+34
+
+178
+
+1 171
+
+7 320
+
+17
+
+525
+
+40 250
+
+35 297
+
+5 269
+
+5 502
+
+8 728
+
+8 841
+
+3.1
+
+1.3
+
+38 017
+
+32 451
+
+5 022
+
+5 398
+
+8 592
+
+8 757
+
+99
+
+1.9
+
+FYR Macedonia
+
+97
+
+49
+
+23
+
+36
+
+21
+
+31
+
+0.4
+
+48
+
+Georgia
+
+12
+
+16
+
+21
+
+7
+
+23
+
+14
+
+0.2
+
+-39
+
+6 642
+
+5 003
+
+8 448
+
+6 397
+
+6 838
+
+7 842
+
+2.8
+
+15
+
+5 003
+
+3 436
+
+5 103
+
+3 558
+
+2 609
+
+4 755
+
+61
+
+82
+
+122
+
+254
+
+181
+
+146
+
+255
+
+845
+
+18
+
+231
+
+3 190
+
+1 242
+
+1 037
+
+1 048
+
+536
+
+734
+
+15
+
+37
+
+254
+
+300
+
+775
+
+364
+
+282
+
+468
+
+10
+
+66
+
+1 639
+
+1 567
+
+3 345
+
+2 839
+
+4 229
+
+3 087
+
+39
+
+-27
+
+Mali
+
+:
+
+:
+
+:
+
+:
+
+:
+
+669
+
+22
+
+n.a.
+
+Cameroon
+
+:
+
+:
+
+:
+
+:
+
+:
+
+652
+
+21
+
+n.a.
+
+Syria
+
+:
+
+:
+
+:
+
+:
+
+:
+
+405
+
+13
+
+n.a.
+
+1 335
+
+1 052
+
+1 049
+
+1 597
+
+1 316
+
+1 275
+
+0.4
+
+-3
+
+31
+
+39
+
+23
+
+158
+
+149
+
+257
+
+20
+
+72
+
+Afghanistan
+
+163
+
+132
+
+105
+
+200
+
+149
+
+209
+
+16
+
+40
+
+Georgia
+
+173
+
+144
+
+209
+
+328
+
+235
+
+171
+
+13
+
+-27
+
+Black Sea route
+
+1
+
+0
+
+0
+
+1
+
+148
+
+433
+
+0.2
+
+193
+
+Afghanistan
+
+0
+
+0
+
+0
+
+0
+
+62
+
+261
+
+60
+
+321
+
+Iraq
+
+0
+
+0
+
+0
+
+0
+
+0
+
+90
+
+21
+
+n.a.
+
+Iran
+
+0
+
+0
+
+0
+
+1
+
+0
+
+45
+
+10
+
+n.a.
+
+2 244
+
+196
+
+340
+
+174
+
+283
+
+276
+
+0.1
+
+-3
+
+Morocco
+
+176
+
+179
+
+321
+
+104
+
+104
+
+52
+
+19
+
+-50
+
+Guinea
+
+304
+
+0
+
+4
+
+2
+
+12
+
+50
+
+18
+
+317
+
+Senegal
+
+186
+
+2
+
+4
+
+15
+
+10
+
+26
+
+9.4
+
+160
+
+20
+
+3
+
+1
+
+0
+
+4
+
+10
+
+0
+
+150
+
+Russian Federation
+
+0
+
+2
+
+0
+
+0
+
+0
+
+4
+
+40
+
+n.a.
+
+Iraq
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+30
+
+n.a.
+
+Serbia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+10
+
+n.a.
+
+104 599
+
+104 060
+
+141 051
+
+72 437
+
+107 365
+
+283 532
+
+100
+
+164
+
+Iraq
+Western Balkan route
+
+Syria
+Circular route from Albania to Greece
+Albania
+
+Western Mediterranean route
+Sea
+Cameroon
+Algeria
+Morocco
+Land
+
+Eastern borders route
+Vietnam
+
+Western African route
+
+Other
+
+Total
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+Source: FRAN data as of 9 February 2015
+
+16 of 68
+
+In 2013, the Schengen Member State reporting the issuance of most short-term visas was
+France (2.3 million worldwide). For the first
+time, Italy (1.9 million) and Spain (1.89 million)
+issued more visas than Germany (1.85 million).
+The granting of visa-free regime to Moldova
+in 2014 considerably increased passenger
+flows, but in contrast to the situation in the
+Western Balkans did not result in an increase
+in asylum applications.
+
+3.3. Detections of illegal
+border-crossing between
+BCPs
+In 2014, detections of illegal border-crossing reached a new record, with more than
+280 000 detections. This was twice as many
+as the previous record of 140 000 detections
+in 2011, the year of the Arab Spring. This unprecedented number of migrants crossing illegally the external border has roots in the
+fighting in Syria that have created the worst
+refugee crisis since the Second World War. Indeed, most of the detections at the borders
+concern migrants from Syria, who later applied for asylum within the EU.
+The unprecedented number of migrants detected at the external border of the EU had
+several implications for border-control authorities and EU internal security:
+1) Most of these detections were reported as
+part of search and rescue operations in the
+Central Mediterranean area. In 2014, border-control authorities saved the lives of
+thousands of people. Not all could be saved
+unfortunately, as facilitators have increasingly chartered unsafe boats, stretching
+to the limit the capacities of surveillance
+and rescue.
+2) The very high demand for crossing to the
+EU has also created new modus operandi.
+Since September, there has been an in-
+
+Figure 2. Detections of illegal border-crossing in 2014, by gender and
+age of detected migrants
+
+2014 – Gender
+
+2014 – Age
+2%
+
+11%
+
+18%
+
+15%
+
+83%
+
+71%
+
+female
+
+adult
+
+male
+
+minor
+
+unknown/not specified
+
+unknown/not specified
+
+Source: JORA data as of 9 February 2015
+
+creasing use of large cargo ships to transport migrants directly from the Turkish
+coast near Syria to Italy. This is a multi-million-euro business for OCG, which is likely
+to be replicated in other departure countries. Another worrying trend has been the
+increasing deliberate attempts to involve
+merchant ships to rescue migrants. This
+has prompted the International Maritime
+Organization (IMO) to voice concerns over
+the involvement of the shipping industry
+in rescuing irregular migrants.
+3) W ith a record level of migrants crossing
+the border illegally, resources are devoted
+to their immediate care, but not towards
+screening and obtaining information on
+basic characteristics like their nationality.
+As migrants quickly continue their journey to other Member States, increasing
+the movements of persons staying illegally within the EU, this puts the EU internal security at risk.
+Similarly to last year, most of detected migrants were adult men (see Fig. 2). However,
+
+17 of 68
+
+Frontex · annual risk analysis 2015
+
+Figure 3. Top increases and decreases from 2013 to 2014, by nationality
+of migrants detected for illegal border-crossing between BCPs
+90 000
+
+Top increase
+
+80 000
+
+Top decrease
+
+70 000
+60 000
+
+2014
+
+2013
+
+50 000
+40 000
+30 000
+20 000
+10 000
+0
+Syria
+
+Eritrea
+
+Not specified* Georgia
+
+Pakistan
+
+Algeria
+
+Detections of Afghans sharply increased from
+about 9 500 in 2013 to more than 22 000 in
+2014. Afghans were detected on the Eastern
+Mediterranean route (mostly crossing the
+Eastern Aegean Sea), and then once again
+on the Western Balkan route.
+Detections of citizens from Kosovo* crossing the land border illegally between Serbia
+and Hungary sharply increased in November
+and December 2014. This trend coincided
+with rumours among Kosovo*’s population
+that it would be now easier to obtain asylum in the EU. By the end of the year their
+detections totalled 22 069.
+
+* In 2014, 99% were reported as unspecified sub-Saharan nationals
+Source: FRAN data as of 9 February 2015
+
+Routes
+n Central Mediterranean route
+
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence.
+
+the proportion of women and children reflects the fact that most migrants are seeking asylum in the EU, escaping violence in
+their own country.
+Indeed, Syrians alone (79 169) represented
+more than a quarter (28%) of the total as
+shown in Figure 3. They were also the top
+nationality for other indicators, in particular asylum applications, reflecting the dire
+situation in Syria and the desperate plight
+of Syrian asylum seekers. However, the vast
+majority of Syrians did not apply for asylum
+in the Member States of entry but rather in
+other Member States for many different reasons, notably because they expect to receive
+more attractive welfare benefits.
+Regarding Eritreans, their detections in 2014
+reached a record level (more than 34 500,
+compared to 11 300 in 2013). They were mostly
+arriving through Libya on the Central Mediterranean route. Like Syrians, they did not
+apply for asylum in the Member States of entry, but rather continued to other Member
+States. Many of the Eritreans stated that they
+had lived for some time in Libya but decided
+to leave because of the violence.
+
+18 of 68
+
+In 2014, more than 170 000 migrants arrived irregularly in the EU through the Central Mediterranean route (see Fig. 4). As in
+2013 and in 2011, the Central Mediterranean
+route was the main area for illegal bordercrossing into the EU, representing 60% of
+all detections in 2014. Detections were the
+largest between June and September at over
+20 000 per month, but throughout the year,
+monthly detections were larger than in 2013.
+Most migrants were Syrians and Eritreans departing from the Libyan coast.
+The vast majority were rescued by bordercontrol authorities after issuing a distress
+call; however, despite best efforts there were
+many fatalities. Smugglers typically make
+use of frail, overcrowded boats, with limited
+fuel available to maximise their profits, putting migrants’ lives at considerable risk. The
+role of the Italian Navy and the JO Hermes/
+Triton was crucial in rescuing an unprecedented number of migrants. Despite these
+efforts, around 3 400 people died or went
+missing at sea in 2014 and around 2 800
+since the beginning of July according to UNHCR estimates.
+
+Figure 4. Detections of illegal border-crossing in 2014 with percentage change on 2013, by route
+
+Iceland
+Finland
+Sweden
+
+Route
+Top nationality - % share in route total
+#
+%
+
+Norway
+
+Total detections in 2014
+% Change from 2013
+Land border
+Sea border
+
+Latvia
+
+Western
+Balkan
+Kosovo* 51%
+
+Belarus
+
+Eastern
+Land Border
+Vietnam 20%
+
+1 275
+
+Poland
+
+Germany
+
+-3%
+
+43 357
+
++117%
+
+France
+
+Western
+Mediterranean
+Cameroon 19%
+
+Circular route to Albania
+Albania 99%
+
+8 841
+
++1%
+ITALY
+
+Ukraine
+
+Hungary
+
+Black Sea
+Afghanistan 60%
+
+Romania
+
+433
++193%
+
+Bulgaria
+
+7 842
+
+Eastern
+Mediterranean
+Syria 62%
+
+SPAIN
++15%
+Turkey
+
+Western
+Africa
+Morocco 19%
+
+50
+834
+SYRIA
+
+Iran
+
++105%
+
+276
+
+-2%
+
+Russian Federation
+
+Morocco
+Algeria
+
+170 664
++277%
+
+Central
+Mediterranean
+Syria 23%
+
+Iraq
+
+Egypt
+
+Saudi Arabia
+
+Libya
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+Source: FRAN data as of 9 February 2015
+
+Besides naval assets, civilian vessels have
+been increasingly involved in the detection
+and rescue of migrants at sea (see Fig. 5). According to the International Maritime Organization (IMO), more than 600 merchant ships
+have been diverted from their routes to rescue persons at sea in 2014. These deviations
+are, in the words of the Secretary General,
+detrimental to shipping and are not offset
+by any realistic prospects of salvage awards.
+
+In addition to migrants leaving from Libya,
+since September 2014, an increasing number
+of cases have been reported of cargo vessels
+being used to smuggle migrants from Turkey directly to Italy. This new trend affects
+the Eastern Mediterranean route, as the departure area, and the Central Mediterranean
+area, as the arrival area. This practice is further developed under the section related to
+the Eastern Mediterranean route.
+
+19 of 68
+
+Frontex · annual risk analysis 2015
+
+Figure 5. Relative shares of different vessels performing search and
+rescue operations in the Central Mediterranean in May–December 2014
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Among the migrants who declared their
+nationalities, Syrians (nearly 40 000) and
+Eritreans (more than 33 500) were by far
+the largest group, together accounting for
+more than 43% of all arrivals in the Central
+Mediterranean.
+n Eastern Mediterranean route
+
+May
+
+Jun
+Civilian vessels
+
+Jul
+
+Aug
+
+Sep
+
+Italian Navy
+vessels
+
+Oct
+
+Nov
+
+Dec
+
+Vessles deployed under
+JO Aeneas/Hermes/Triton
+
+Source: JORA data as of 9 February 2015
+
+As migrants were rescued in high-sea, they
+were reported as part of the Central Mediterranean route. Many were disembarked in
+Apulia and Calabria, to alleviate the burden on
+reception capacity in Sicily. From a statistical
+point of view, these disembarkations artificially inflated the number of migrants usually
+reported on the Apulia and Calabria route. In
+2014, there were fewer migrants departing
+from Egypt and targeting this area of the Italian coast than in 2013.
+Nationalities
+Once rescued, migrants declare their nationality and this information is used to determine the main countries of origin. Since June
+2014, due to the large number of migrants
+arriving, this information has been either
+slowly or partially reported under the heading ‘sub-Saharan’ for many migrants coming
+from Africa (26 340, or 15% of arrivals in the
+Central Mediterranean in 2014). Migrants’
+declarations of nationality are also increasingly difficult to validate, as they often lack
+travel documents and, with border-control
+authorities working under increasing pressure there are fewer possibilities to check
+their validity.
+
+20 of 68
+
+Since data collection began in early 2008,
+the Eastern Mediterranean has maintained
+its status as a hotspot of irregular migration (see Fig. 6). In 2014, 50 800 detections
+were reported from the area, representing
+18% of the EU total. This was twice as many
+as in 2013, mostly due to a sharp increase in
+detections in the Aegean Sea (from 11 829 in
+2013 to 43 377 in 2014). Detections remained
+comparatively much lower at the Bulgarian
+and Greek land borders with Turkey (12 262 in
+2013 and 5 938 in 2014).
+Sea border
+Aegean Sea
+Compared to the previous year, the sharp increase in the Aegean Sea in 2014 meant that
+migrants departed from more areas, and also
+arrived on a larger number of islands. While
+the islands reporting the largest number of
+arrivals remained Lesbos, Chios and Samos,
+detections were also reported from small islands from North to South, stretching capacity of surveillance. Many migrants claimed
+to be Syrian, and were thus handed an administrative notice allowing them to stay in
+Greece for up to six months, even without
+applying for asylum.
+Screening processes of some migrants revealed a high degree of falsely claimed nationalities to avoid return. Not knowing the
+nationality of migrants who are illegally
+crossing the border and travelling within
+the EU is evidently a vulnerability for EU internal security.
+
+Figure 6. Detections of illegal border-crossing between BCPs on the Eastern Mediterranean route in 2009–2014 (graph)
+and in 2014, by border section (map)
+12 000
+
+GRC-Sea-TUR
+
+BGR-Land-TUR
+
+GRC-Land-TUR
+
+10 000
+8 000
+6 000
+4 000
+
+2010
+
+2012
+
+2013
+
+Increasing use of cargo ships
+
+BGR-Land-TUR
+Istanbul
+GRC-Land-TUR
+GRC-Sea-TUR
+Source: FRAN data as of 9 February 2015
+
+The presence of the screening teams also has
+a preventive effect. Migrants aware of being
+screened tend to state their true nationality.
+This could be indirectly established when comparing the proportion of migrants reporting to
+be Syrians in islands where screening teams
+were active, with their proportion in islands
+where no screening teams were present. In
+2014, out of the total of 18 662 migrants arriving in Lesbos and Samos, two islands with
+screening teams, 36% declared to be Syrians. By
+contrast, over the same period, out of 14 802
+migrants reported in the islands of Kalymnos,
+Kos, Leros, Limnos, Patmos, Rhodes and Symi,
+seven islands without screening teams, 86%
+declared being from Syria.
+
+Since August 2014 the number of irregular migrants arriving in the Central Mediterranean
+from Turkey sharply increased compared to
+earlier in the year and to the same period in
+2013. This sharp increase was directly related
+to the use of cargo ships to facilitate migrants
+and asylum seekers from Turkey to Italy (for
+example, see Fig. 7).
+To date, Mersin has been the place where those
+wishing to travel to the EU in an irregular fashion have made contact with the smuggling
+networks. Wooden boats, however, have departed from various points along south-eastern Turkish coast such as Mersin, Adana and
+Hatay provinces to reach cargo vessels waiting off shore.
+Smuggling migrants from Turkey on board
+large cargo vessels is extremely profitable, and such funds are likely to be an important source of income for smuggling
+networks also engaged in other criminal
+activities. This means that the criminal
+networks might be financing other criminal activities by exploiting and putting at
+risk vulnerable groups of displaced families from Syria.
+
+21 of 68
+
+Nov
+
+Jul
+
+2014
+
+Sep
+
+May
+
+Jan
+
+Mar
+
+Nov
+
+Jul
+
+Sep
+
+May
+
+Jan
+
+Mar
+
+Sep
+
+Nov
+
+Jul
+
+May
+
+Jan
+
+Mar
+
+Nov
+
+Jul
+
+2011
+
+Sep
+
+May
+
+Jan
+
+Mar
+
+Nov
+
+Jul
+
+Sep
+
+May
+
+Jan
+
+Mar
+
+Nov
+
+Jul
+
+2009
+
+Sep
+
+Mar
+
+May
+
+0
+
+Jan
+
+2 000
+
+Frontex · annual risk analysis 2015
+
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence.
+
+22 of 68
+
+Specifically, the cargo ships, which are often bought as scrap, tend to cost between
+EUR 150 000 and 400 000. There are often
+as many as 200–800 migrants on board, each
+paying EUR 4 500–6 000 for the trip, either
+in cash a few days before the departure or
+by Hawala payment after reaching the Italian coast. The cost is high because the modus
+operandi is viewed as being safe and has been
+demonstrated as being successful.
+
+certain, they point to the fact that a certain
+proportion of migrants who entered illegally
+went undetected.
+
+Hence, the gross income for a single journey
+can be as high as EUR 2.5 or even 4 million
+depending on the size of the vessel and the
+number of migrants on board. In some cases,
+the profit is likely to be between EUR 1.5 and 3
+million once other overheads such as recruiters, safe houses, shuttle vessels, crew and fuel
+have been taken into account. Given this level
+of financial gain it is important to act against
+this modus operandi not only to stem the flow
+of irregular migration but also to limit the financial assets of the smuggling networks.
+
+The Western Balkan route remained largely
+a function of the transiting flow of migrants
+that enter the EU at the Greek-Turkish borders and later continue towards other Member States through the former Yugoslav
+Republic of Macedonia and Serbia. This is
+reflected in the large number of detections
+of Afghans and Syrians at the Hungarian land
+border, whose number increased five-fold
+compared to 2013, like they increased in the
+Aegean Sea.
+
+n Western Balkan route
+For the second year in a row, detections in
+the Western Balkans strongly increased, from
+6 391 in 2012, to 19 951 in 2013 and 43 357 in
+2014.
+
+In Bulgaria, as a consequence of increased Bulgarian operational measures, including an Integrated Border Surveillance System (IBSS) and
+a special police operation, the level of detections decreased compared to 2013 and tended
+to be mostly reported from the eastern part
+of the border, not covered by the IBSS.
+
+However, nearly half the detections were citizens of Kosovo*, representing a distinct flow
+of migrants in the Western Balkans. Their
+detections surged from less than 1 000 per
+month before September 2014, to more than
+9 000 in December. This ten times increase
+in a few months is one of the sharpest recorded in the FRAN data, comparable to pace
+of the increase in the Central Mediterranean
+that peaked in the summer. This trend could
+partly be attributed to rumours among the
+Kosovo* population that after France decided
+to remove Kosovo* from the national list of
+safe countries it will be much easier to obtain asylum in that Member State.
+
+In Greece, while detections at the green border
+and at BCPs were low, some migrants were
+reportedly hiding in vehicles detected on the
+highways inside Greece. Similarly, some interviews with migrants conducted in Italy indicated that they had entered illegally without
+being detected at the border. While the reliability of these interviews is difficult to as-
+
+During 2014 most detected individuals immediately applied for asylum. As a result asylum applications in Hungary mirrored the
+increase in pressure at this border section,
+increasing to unprecedented levels for this
+country – more than 43 000 applications
+submitted in 2014, about half being submitted by Kosovo* citizens. These migrants were
+
+Land border
+Compared to detection at the sea borders,
+detections at the Bulgarian and Greek land
+border with Turkey have been much lower,
+totalling less than 6 000 detections.
+
+Figure 7. Example of route taken from Turkey to Italy by the cargo ship Sandy in December 2014
+
+From Istanbul
+
+Gaziatep
+
+Adana
+
+Mersin
+
+P
+!
+
+P
+!
+
+T T T!P
+P
+!
+
+Alanya
+
+Iskenderun
+
+í
+
+P
+!
+
+P
+!
+P
+!
+
+Istanbul
+
+P
+!
+Kilis
+
+Latakia
+
+Tartus
+
+P
+!
+
+C rotone
+
+P Beirut
+!
+
+P
+!
+
+P
+!
+Sidon
+
+Alaya
+
+Air route
+Land route
+Sea route
+Ferry
+
+í
+T
+
+Cargo ship
+
+P
+!
+
+Mersin
+
+Kilis
+
+P
+!
+
+í
+
+P
+!
+
+! Tartus
+P
+Beirut
+
+P
+!
+
+Fishing/rubber boat
+
+P Damascus
+!
+
+Damascus
+
+P
+!
+
+Num ber of mig rants
+intercept ed in the area in 2014
+5 000
+0
+
+100 000
+
+25 000
+
+Source: Frontex
+
+only attempting to cross the green border
+into Hungary, rather than attempting to enter via the BCPs, as there is no indication of
+increased refusals of entry or use of fraudulent documents at any of the BCPs between
+Hungary and Serbia.
+Despite the apparently tight relationship between illegal border-crossing and applications
+for asylum, it is not supposed that all migrants
+crossing this border section immediately ap-
+
+plied for asylum in Hungary, as asylum applications submitted by citizens of Kosovo* also
+increased in Germany over the same period.
+This means that, for most migrants, Hungary
+is not their final destination and they will continue their journey through the Schengen area.
+It also means that, to avoid later return to Hungary, migrants will increasingly attempt to
+avoid detection at the border, and only apply
+for asylum in Hungary as a last resort option
+if detected by border-control authorities.
+
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence.
+
+23 of 68
+
+Frontex · annual risk analysis 2015
+
+n C
+ ircular route between Albania and
+Greece
+In 2014, Greece reported 8 841 detections
+of illegal border-crossing at its land border
+with Albania and with the former Yugoslav
+Republic of Macedonia, of which 8 757 were
+associated with Albanians. This represented
+a stable trend compared to the previous year.
+Prior to visa liberalisation in 2011, detections
+at this border section had ranged between
+38 000 and 30 000 a year.
+The introduction of visa liberalisation went
+together with a small increase in refusals of
+entry as more Albanians crossed the border
+at BCPs. However, in 2014 refusals of entry
+decreased at this land border compared to
+2013, probably due to the decreasing flow of
+seasonal workers to Greece. Indeed, many
+Albanians are attempting to travel to other
+Member States than Greece, as reflected in
+their increasing refusals of entry, notably due
+to document fraud, in several Member States.
+These trends may reflect a general migration
+trend for Albanians within the EU.
+n Western Mediterranean route
+In 2014 there were 7 842 detections of illegal border-crossing in the Western Mediterranean region, which consists of several
+areas of the southern Spanish coast and the
+land borders of Ceuta and Melilla. This total
+shows an increase of 15% compared to the
+total of 6 838 reported in 2013.
+Like in 2013, the first half of 2014 showed most
+detections being reported at the land border,
+mostly from Melilla. Indeed, the Spanish authorities reported several violent attempts to
+cross the fence.
+As mitigating measures, the fence has been
+upgraded. As a result, in the second half of
+the year, Spain reported more detections at
+the sea border than at the land border.
+
+24 of 68
+
+Once in Melilla, migrants are turned over to
+Spanish Police Headquarters for identification, and many are transferred to the Temporary Centre for Immigrants (CETI – Centro
+de Estancia Temporal de Inmigrantes). However, this centre only has a limited capacity
+and some migrants had to be transferred to
+mainland Spain.
+In terms of nationality, most of the migrants
+are from Western Africa, in particular from
+Cameroon and Mali. Algerians and Moroccans
+have also been reported among the top ten
+nationalities, but mostly at the sea border.
+Since November 2014, Spain also reported
+an increase in detections of illegal bordercrossing of Syrians at the land border (more
+than 250 in November and December), then
+applying for asylum. This increase, combining with increasing detections of Syrians using forged document to enter to the EU, has
+prompted Spain to open asylum and international protection offices at the borders of
+Ceuta and Melilla in March 2015.
+n Black Sea route
+Detections of illegal border-crossing on the
+Black Sea were extremely rare. However,
+since 2013, Bulgaria and Romania have reported an increasing number of detections,
+totalling 433 migrants in 2014.
+These incidents still constitute isolated cases,
+and are possibly linked to the increased surveillance on the Eastern Mediterranean route
+and the increasing number of migrants waiting in Turkey to reach the EU illegally.
+n Eastern land border route
+The eastern land border route is, in effect,
+an amalgam of detections of illegal bordercrossing reported by Finland, Estonia, Latvia,
+Lithuania, Poland, Slovakia, Hungary and Romania. Despite the total length of all the bor-
+
+der sections, detections on this route tend to
+be lower than on other routes, possibly due to
+the long distances between major hubs and
+many countries of origin. Also, according to
+several reports shared during 2014, visa fraud
+and counterfeit border-crossing stamps tend
+to predominate on this route, as opposed to
+detections of illegal border-crossing.
+Detections of illegal border-crossing remained
+stable, with 1 275 detections (compared to
+1 316 in 2013). In 2014, most detections were
+reported at the land border between Lithuania and Belarus. Most of these detections
+were of Vietnamese nationals arriving after
+transiting through Belarus.
+By contrast to other routes, a large proportions of these detections were connected
+with the smuggling of goods rather than irregular migration. Several Member States
+also mentioned migrants or smugglers crossing the border illegally undetected, but these
+events are believed to be rare.
+Detections of illegal border-crossing are also
+kept at low levels along the eastern land
+border thanks to the surveillance efforts of
+neighbouring third countries, in particular
+the Russian Federation and Belarus. Most
+part of the border with Belarus is fenced on
+the Belarusian side.
+Regarding the border with Ukraine, Frontex
+monitors the situation, but in 2014 no important changes have been noticed. Detections
+for illegal border-crossing remains insignificant along all green border section with
+Ukraine and the number of refusals of entry remained comparable to previous years.
+
+3.4. Clandestine entries
+Detections of clandestine entry in vehicles
+increased strongly from 599 in 2013 to 3 052
+in 2014. The increase was due to a tenfold
+increase in detections reported from the
+
+Bulgarian BCPs along the land border with
+Turkey. The increase started in August, possibly as an indirect consequence of enhanced
+measures at the green border that might have
+caused a partial displacement of the flow
+from green border to BCPs, by way of clandestine entries. At the neighbouring Greek
+border section, BCP Kipi, data on clandestine entries is not collected on a systematic
+basis, but detections were much lower than
+at the Bulgarian border (see Fig. 8).
+Clandestine hiding in vehicles was also reported in large numbers by Croatia and Hungary at BCPs along their land borders with
+Serbia, as well as on exit from Bulgaria to Serbia in transit to Hungary. The migrants For
+Croatia, 2014 was the first complete year of
+reporting, so comparison with previous year
+are not relevant. However, in Hungary, detections doubled compared to last year, in
+line with increasing pressure at the green
+border. This means that the Hungarian authorities are facing considerable challenges,
+having to deal with larger passenger flow in
+the wake of visa liberalisation in the Western
+Balkans, increased detections of illegal border-crossing and clandestine entries.
+Spain reported 340 clandestine entries in
+2014, at the BCP with Morocco in Melilla. This
+was the first annual report, so comparison
+with previous years is not possible.
+Clandestine entry requires migrants to stay
+in confinement for long periods of time, and
+is known to put migrants’ lives at risk of suffocation and dehydration. Therefore, most
+of the migrants detected hiding in vehicles
+at BCPs are single young males, rather than
+more vulnerable family groups.
+Compared to detections of illegal bordercrossings (283 500), the number of detected
+attempts at clandestine entry (3 052) appears
+very low, in particular considering the large
+volume of vehicle traffic, particularly lorries.
+
+25 of 68
+
+Frontex · annual risk analysis 2015
+
+Figure 8. Detections of illegal border-crossing and clandestine entries at the land border with Turkey in 2014
+1 000
+
+Illegal border-crossings
+
+800
+
+Bulgaria
+
+Clandestine entries
+
+BCP Lesovo
+
+600
+BCP Kpt. Andreevo
+
+400
+
+Greece
+
+200
+
+Istanbul
+
+Dec
+
+Nov
+
+Oct
+
+Sep
+
+Aug
+
+Jul
+
+Jun
+
+May
+
+Apr
+
+Mar
+
+Feb
+
+BCP Kipi
+
+Jan
+
+0
+
+2014
+
+Turkey
+
+Source: FRAN data as of 9 February 2015
+
+It is thus reasonable to assume that detections underestimate the actual number of
+clandestine entries.
+
+3.5. Document fraud
+In 2014 there were just over 9 400 detections of document fraud cases on entry to
+the EU/Schengen area from third countries,
+which represents a slight decrease compared
+to last year.
+The introduction of the new security features
+into travel documents and the development
+of the new automated border-control systems did not translate into a significant decrease in the use of fraudulent documents.
+Fraudsters appear to have changed their modi
+operandi and instead of the simple alterations,
+tend to use more sophisticated methods.
+Routes
+The air borders remained the border type reporting the largest number of detections of
+document fraud in 2014, but on a decreasing
+trend compared to 2013 (-10%).
+Considering all detections of fraudulent documents at the air borders in 2014, Istanbul
+Atatürk (IST) international airport in Turkey
+
+26 of 68
+
+remained the most reported last embarkation
+airport from third countries, even if the overall number of document fraud cases dropped
+down by almost 40% compared to 2013.
+Murtala Muhammed (LOS) international airport in Lagos, Nigeria remained the second
+most common embarkation point of detected
+document fraudsters. In fact document fraud
+detections on flights to EU/Schengen countries increased by almost 20%. The majority of document fraudsters were Nigerians.
+Other often reported last embarkation airports were located in Brazil, most notably
+Rio de Janeiro (GIG) and Fortaleza (FOR).
+Document fraud from these airports significantly increased.
+For one-third of all detections made at the
+air borders on entry to the EU/Schengen area
+and involving passengers arriving from third
+countries the last embarkation airport was
+unknown (meaning not reported under the
+EDF data collection).
+Detections of document fraud at the land
+border increased by 16% between 2013 and
+2014, but remained significantly smaller than
+at the air borders (see Fig. 10). The increase at
+the land border was driven mainly by a sig-
+
+Figure 9. Detections of document fraudsters on entry to the EU/Schengen area from third countries in 2014, by BCP
+and border type
+
+103
+
+Number of detections in 2014
+
+Stockholm
+
+Air
+Land
+Sea
+
+Amsterdam
+
+286
+
+London
+
+Brussels
+
+397
+
+257
+
+201
+Paris
+(Orly)
+
+Paris
+
+111 Dusseldorf
+
+149
+Milan
+
+Lisbon
+
+256
+
+1 034
+
+Barcelona
+
+198
+
+Ceuta (Land)
+
+190
+
+213
+Ceuta (Sea)
+
+98
+
+Zahony
+
+Roszke
+
+158
+
+385
+
+Madrid
+
+113
+
+Vienna
+
+720
+(CGD)
+
+Medyka
+
+137 Frankfurt
+
+Kapitan-Andreevo
+
+Rome
+
+687
+
+235
+
+Kakavia
+
+225
+
+Athens
+
+167
+
+Melilla
+
+774
+
+Source: EDF-RAN data as of 4 February 2015
+
+nificant rise in document fraud detections
+at the Spanish-Moroccan land border section, involving almost exclusively Syrian and
+Moroccan nationals. The detections of Syrians using fraudulent documents to enter the
+EU by land border section between Morocco
+and Spain appeared for the first time in 2014.
+Detections of document fraud also increased
+significantly at the land border between Bulgaria and Turkey (by 30% compared to 2013)
+
+mostly due to a larger number of detected
+Iraqi nationals. Detections also increased
+(+20%) at the land border between Hungary
+and Serbia, with mostly Serbian, Albanian
+and Kosovo* citizens detected using fraudulent documents at this land border section.
+At the sea borders, fewer cases were reported. Almost half of the cases were connected to Moroccan nationals detected in
+Ceuta (Spain).
+
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence.
+
+27 of 68
+
+Frontex · annual risk analysis 2015
+
+Figure 10. Detections of document fraud on
+entry to the EU/Schengen area, by border
+type in 2013 and 2014
+
+Nigerians continued to rank high for detections of document fraud, with more than
+500 fraudulent cases in 2014. Most detections were made after embarkation in Lagos.
+
+12 000
+Sea
+
+Land
+
+Air
+
+10 000
+8 000
+
+The number of Iraqi nationals involved in document fraud more than doubled compared
+to 2013. They were mostly detected flying
+from Fortaleza (Brazil) and Istanbul (Turkey).
+
+6 000
+4 000
+2 000
+0
+
+2013
+
+2014
+
+Source: EDF-RAN data as of 4 February 2015
+
+Nationalities
+As in 2013, Syrians accounted for the largest share of detections of fraudulent document on entry to EU/Schengen countries,
+increasing from 1 200 detections in 2013 to
+over 1 400 detections in 2014 (see Fig. 11). In
+addition, more than 2 200 detections, representing a 70% increase compared to 2013
+were also detected on intra-EU/Schengen
+movements, making Syrians by far the most
+
+Figure 11. Detections of document fraud on entry to the EU/Schengen
+area, by nationality of the holder in 2013 and 2014
+2 000
+1 800
+
+2013
+
+1 600
+
+4 707 4 855
+
+2014
+
+1 400
+1 200
+1 000
+
+Claimed EU nationals detected with fraudulent documents rose by almost 20% from 945
+fraudulent cases in 2013 to 1 140 fraudulent
+cases in 2014 including all travel types. Most
+detections were made on intra-EU/Schengen movements, often starting on Greek islands but the largest increase, by almost 50%
+compared to 2013, was recorded on entry to
+the EU/Schengen area from third countries.
+Travel documents
+Fraudulent passports were mostly detected
+on entry from third countries (4 953) followed
+by visas (1 616), residence permits (1 506), ID
+cards (1 414), stamps (1 047) and other documents (233). The overall decrease compared
+to 2013 was led mainly by the decrease in detections of fraudulent border stamps followed
+by residence permits and visas. The biggest
+increase was recorded in case of fraudulent
+ID cards. Most of the fraudulent documents
+detected on intra-EU/Schengen movements
+were ID cards (5 067) (+30% compared to
+2013). Regarding impostors, most were using authentic EU passports.
+
+3.6. Refusals of entry
+
+800
+600
+400
+200
+0
+
+commonly detected document fraudsters
+across the EU/Schengen area in 2014.
+
+Syria
+
+Morocco
+
+Not
+specified
+
+Source: EDF-RAN data as of 4 February 2015
+
+28 of 68
+
+Albania
+
+Ukraine
+
+Nigeria
+
+Other
+
+Member States reported a total of more than
+114 000 refusals of entry at the external borders of the EU, a decrease of 11% compared to
+last year. The decrease is the consequence of
+the record high in 2013 when an exceptionally
+
+large number of Russians of Chechen origin
+were refused entry due to a lack of visa and
+then applied for asylum in Poland and Germany before overstaying in the EU. This modus
+operandi became less popular in 2014 thanks
+to successful media campaigns supported by
+Germany aimed at quelling the widespread
+rumours in Chechnya that it was possible to
+enter Member States without a visa and easily receive asylum once there.
+
+Figure 12. Refusals of entry in 2008–2014, by border type
+Sea
+
+140 000
+
+Land
+
+Air
+
+120 000
+100 000
+80 000
+60 000
+40 000
+20 000
+
+As shown in Figure 12, since 2011, more refusals
+of entry were issued at the land border (56%)
+than at the air borders (40%). This is due to
+the increase in passenger flow at land borders following visa liberalisation in the Western Balkans, and the subsequent increased
+role of border-control authorities in checking
+entry requirements, which was previously the
+responsibility of consular authorities who issued the visa. At the same time, at the air border most refusals of entry used to be issued to
+citizens of Latin America. However, since this
+region has been enjoying economic growth
+and better employment rate since 2010, there
+has been a decrease in the number of passengers refused entry at the EU’s external border.
+Indeed, since 2009 (with the exception of 2013
+when Russians of Chechen origins ranked
+first), most of the persons refused entry at
+EU borders were Ukrainians. Albanians have
+been ranking high since 2011, in the wake of
+the visa liberalisation. In particular, Albanians are now ranking first for refusals of entry at the air border. Altogether, citizens of
+Western Balkan countries granted visa-free
+regime accounted for 25% of all refusals of entry at the external border, or 28 140 persons.
+As in previous years, the main reasons for refusals of entry were the lack of a valid visa
+(30%) and the lack of appropriate documentation justifying the purpose of stay (21%).
+The number of persons refused entry due
+to an alert in the SIS represented only 2% of
+the total, with 2 753 refusals issued in 2014.
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Source: FRAN data as of 9 February 2015
+
+Figure 13. Top increases and decreases in refusals of entry between
+2013 and 2014, by nationality
+Top increase
+
+25 000
+20 000
+
+2014
+
+2013
+
+Algeria
+
+Belarus
+
+Top decrease
+
+15 000
+10 000
+5 000
+0
+Albania
+
+Morocco
+
+Georgia
+
+Source: FRAN data as of 9 February 2015
+
+3.7. Detections of illegal stay
+In 2014, there were 441 780 detections of illegal stay in the EU, which represents a generally increasing trend compared to the year
+before and recent reporting periods. However, in the following analysis of detections
+of illegal stay it has to be borne in mind that
+the Netherlands, since 2012, due to technical
+reasons, reported only detections on exit and
+not those inland, which in 2011 amounted to
+about 6 000. Also in Sweden, for administrative reasons, many asylum applicants were
+also reported as illegal stayers, raising the
+total number of detections of illegal stay in
+Sweden. Finally, data from Croatia cover the
+whole of 2014, whereas the 2013 data only re-
+
+29 of 68
+
+Russia
+
+Frontex · annual risk analysis 2015
+
+Figure 14. Main border sections (land in green, air in blue) with the greatest number of refusals of entry issued in 2014,
+with percentage change on 2013 and the share of the single most refused nationality
+
+Iceland
+
+Top nationality - % share in Border Section total
+#
+
+%
+
+Finland
+
+Total detections at air borders in 2014
+% change from 2013
+
+Sweden
+
+Norway
+
+Top nationality - % share in Border Section total
+#
+
+%
+
+Total detections at land borders in 2014
+% change from 2013
+
+Russia 32%
+USA 19%
+
+12 267
+
+LATVIA
+
+-53%
+
+6 079
+
++5%
+
+12 685
+
+London
+Unknown 14%
+
+Paris
+
+4 388
+
+Ukraine
+
+Romania
+
+Hungary
+
++78%
+
+Serbia 69%
+
+9 168
+
+Venezuela 99%
+
++11%
+
+2 960
+
+-29%
+
+Bosnia and Herzegovina 80%
+France
+
+Algeria 24%
+
+Spain
+
+3 765
+
+Belarus
+
+Ukraine 92%
+
+POLAND
++4%
+
+Germany
+
+6 590
+
+-3%
+
+Russian Federation
+
+Ukraine 97%
+
+Madrid
+
+2 659
++3%
+
++21%
+
+Rome
+Italy
+
+Albania 97%
+
+Turkey
+
+3 308
+
+-28%
+
+Syria
+
+Morroco 100%
+
+Iran
+Iraq
+
+2 965
+
+-24%
+
+Algeria
+Libya
+
+Egypt
+
+Saudi Arabia
+
+Source: FRAN data as of 9 February 2015
+
+fer to the period between July and December
+2013, after the country joined the EU.
+The vast majority of illegal stayers were detected inland (383 507 detections, or 86% of
+the total) and so are presumed to be long
+term over stayers as they were making no
+
+30 of 68
+
+attempt to leave at the time of detection.
+The next most common location for detections of illegal stayers was the air borders
+on exit (33 789 detections) followed by the
+land borders (15 345 detections) where illegally staying migrants were leaving the EU
+or the Schengen area.
+
+Figure 15. Detections of illegal stay in 2014 with percentage change on 2013
+
+Source: FRAN data as of 9 February 2015
+
+In terms of nationalities, the large number of
+Syrians detected staying illegally is artificially
+inflated by detections in Sweden and some
+other Member States as it includes people
+not meeting requirements for staying legally
+before they apply for asylum.
+Looking at detections over the past few years,
+Moroccans stand out as one the main na-
+
+tionalities detected staying illegally (above
+20 000 annual detections between 2009
+and 2014), although their detections at the
+external borders remain much lower. This indicates that Moroccans tend to cross the external borders legally, but then exceed their
+legal period of stay within the EU. The same
+applies to Algerians, although in lower number (above 10 000 annual detections for il-
+
+31 of 68
+
+Frontex · annual risk analysis 2015
+
+legal stay between 2009 and 2014). Afghans
+have also ranked high among the top nationalities since 2009.
+
+3.8. Returns
+In 2014, there were 252 003 third-country nationals subject to an obligation to leave the
+EU as a result of an administrative or judicial decision, which was a 12% increase com-
+
+Figure 16. Effective returns in 2011–2014, by type
+180 000
+
+Not specified
+
+160 000
+
+Voluntary returns
+
+140 000
+
+Forced returns
+
+120 000
+80 000
+60 000
+40 000
+20 000
+2012
+
+2013
+
+Much of the change between 2013 and 2014
+was due to an increase in return decisions issued by Spain, from 7 410 in 2013 to 40 386 in
+2014. This increase in the number of return
+decisions did not concern any nationality in
+particular, but was spread among all nationalities, suggesting an increased use of return
+when detecting migrants illegally.
+Effective returns
+In 2014, there was a steady trend of 161 309
+third-country nationals effectively returned
+to countries outside the EU (see Fig. 16). The
+UK was the Member State conducting the
+largest number of returns, with steady trends
+of returned nationals from India and Pakistan.
+Greece reported an increase in effective returns, mostly of Albanians.
+
+100 000
+
+2011
+
+pared to 2013. The absolute total number of
+migrants subject to return decisions is still
+underestimated by this indicator, as data on
+decisions were unavailable from, inter alia,
+France, the Netherlands and Sweden, which
+only reported effective returns but presumably issued a high number of decisions.
+
+2014
+
+Source: FRAN data as of 9 February 2015
+
+Type of return
+Figure 17. Top nationalities of migrants detected for illegal bordercrossing compared with those effectively returned in 2014
+
+Top five nationalities
+
+Top five nationalities
+
+Illegal border-crossings
+
+Effective returns
+
+(283 532)
+
+(161 309)
+
+Albania
+16%
+
+Syria
+28%
+
+Other
+40%
+
+Eritrea
+12%
+
+Mali
+4% Kosovo* Afghanistan
+8%
+8%
+
+Source: FRAN data as of 9 February 2015
+
+32 of 68
+
+Pakistan
+6%
+Other
+62%
+
+Ukraine
+6%
+Morocco
+5%
+India
+5%
+
+It is difficult to evaluate the overall cost-effectiveness of return measures in comparison with other practical measures taken to
+reduce irregular migration. Forced returns
+are recognised as being more costly than
+voluntary returns, although Member States
+highlight the importance of return flights
+(including those co-ordinated by Frontex)
+in ensuring an effective return, as well as
+having a deterrent effect for future irregular migrants.
+Within the number of effective returns to
+third countries in 2014, 40% were reported
+to be on voluntary basis and 43% were forced
+returns, while for 17%, the type of return was
+not specified (see Fig. 16).
+
+In terms of nationalities, there is a striking
+difference between the nationality detected
+crossing the border illegally or staying illegally
+in the EU, and the nationality effectively returned (see Fig. 17). Indeed, most people detected crossing the border illegally apply for
+asylum and thus are not returned.
+
+3.9. Facilitators
+The facilitation of illegal immigration remains a significant threat to the EU. Detections of facilitators rose from 7 252 in 2013
+to 10 234 in 2014. The increase was mostly
+due to increases reported in Spain, Italy
+and Bulgaria.
+The facilitation of irregular migrants by sea
+is carried out using increasingly diverse modi
+operandi, which often put the lives of migrants
+at risk. The Central and Eastern Mediterranean routes are particularly affected by growing and sustained flows of irregular migrants
+facilitated to the EU using various types of
+vessels. The recent incidents of large cargo
+vessels containing several hundreds of migrants is evidence of this evolution.
+Organised Crime Groups (OCGs) provide facilitation services to an ever-increasing number of irregular migrants seeking to reach the
+EU. These OCG activities sustain and exacerbate the large-scale influx of irregular migrants to the EU. Driven by a profit-incentive,
+these OCGs callously disregard the safety and
+human rights of migrants. Large and increasing numbers of facilitated irregular migrants
+enter the EU along Europe’s Mediterranean
+coast and engage in secondary movements
+to countries of final destination.
+Irregular migrants are also facilitated to enter the EU by air relying on fraudulent documents. Other modi operandi include marriages
+of convenience as well as the abuse of visas/
+overstaying. However, it is difficult to quantify the scope of these activities.
+
+OCGs provide various facilitation services for
+irregular migrants enabling the entry into the
+EU, secondary movements within the EU and
+the transition to legal stay in Member States.
+Most OCGs operate on an international level
+relying on contacts in countries of origin and
+within diaspora communities in transit and
+destination countries. The proportion of facilitated irregular migrants remains difficult
+to assess.
+Facilitation services related to the illegal immigration to the EU and secondary movements between Member States are in high
+demand and generate significant profits for
+the OCGs involved. People smuggling is a
+growing market prompting existing OCGs
+and criminals to adapt their business models and shift from other criminal activities to
+the facilitation of illegal immigration.
+
+3.10. Cross-border crimes
+Frontex promotes and coordinates European
+border management with a special focus on
+migration flows. In application of the concept
+of Integrated Border Management, it additionally supports Member States in combating organised crime at the external borders,
+including the smuggling of goods and trafficking in human beings. However, due to the legal and institutional national characteristics,
+border-control authorities along the external borders of the EU have different types and
+degrees of responsibilities in the fight against
+transnational crimes. The nature and extent
+of inter-agency cooperation at the external
+borders thus differs greatly between Member
+States. Regarding the prevention of smuggling
+of illicit goods, border-control authorities of
+certain Member States play only an assisting
+role, while border-control authorities in other
+Member States share their tasks with customs
+or are able to conduct investigations. Because
+of these differences, cross-border crime data
+reported by some national border guard insti-
+
+33 of 68
+
+Frontex · annual risk analysis 2015
+
+tutions are partial and frequently do not include data collected by customs.
+On the other hand, identifying cross-border
+movements of persons involved in criminal
+activities or victims thereof is a crucial task
+of border-control authorities. Either in the
+case of human trafficking or the travel of voluntary fighters with a jihadist background,
+border agencies are confronted with new
+challenges particularly in the field of international and inter-agency cooperation, profiling, identification, and assistance to victims.
+3.10.1. Smuggling of illicit drugs
+Cannabis from the Western Balkans and
+North Africa
+
+* EMCDDA (2014),
+European Drug Report:
+Trends and Developments,
+p. 17ff.
+
+** UNODC (2014) World
+Drug Report, p. 37
+
+The EU is the destination of several main
+routes for various narcotic drugs, coming from
+different regions of the world including Latin
+America, the Western Balkans, West Asia
+and North Africa. The EU also plays a role of
+a transit point for drugs destined for other
+regions. According to the EMCDDA European
+Drug Report 2014*, 80% of drug seizures in
+Europe were for cannabis in 2012, although
+indicators point to a trend of decreasing use.
+Cannabis is smuggled into Europe in the
+form of two distinct products, cannabis resin
+(‘hashish’) and herbal cannabis (‘marijuana’).
+The main provider of cannabis resin to Europe is Morocco, although its production capacities are in decline. Spain as an entry door
+for cannabis resin from Morocco reported
+around two thirds of the total quantity of
+resin seized in Europe in 2012.
+Within the last years, the number of seizures
+of herbal cannabis have been increasingly
+exceeding resin seizures. The shift towards
+herbal cannabis was predominantly caused
+by an increase of domestic production in
+many European countries. This means that
+trafficking of cannabis products across the
+
+34 of 68
+
+EU external borders has decreased, with the
+domestic production increasingly satisfying
+national demand. An exception seems to be
+trafficking activities in southeast Europe,
+where mainly Albanian cannabis supplies
+the customer demand in countries such as
+Greece, Italy, Slovenia, and Hungary.
+Cocaine from South America
+According to EMCDDA calculations based on
+seizure data, cocaine shows to be the third
+most intensively smuggled drug in Europe after cannabis resin and herb. In 2012, around
+77 000 seizures of cocaine amounting to
+71 tonnes have been reported by Member
+States.* The number of seizures increased
+between the mid-1990s and 2007, but have
+been declining since 2009. Reported quantities in contrast have been slightly increasing
+in 2011 and 2012, mostly because of seizures
+made in transit countries including Spain and
+Belgium. Some of the cocaine seized in the
+EU was in fact destined for emerging markets in third countries such as the Russian
+Federation.
+The drug is almost entirely produced in Bolivia, Colombia and Peru, with the latter
+having substantially increased its supply to
+Europe.** Cocaine is smuggled from South
+America to the EU across the Atlantic by
+sea and air. Large shipments travelled by sea
+and air from Argentina, Brazil, Chile, Colombia, Ecuador, Mexico, Peru and Venezuela to
+Spain, Portugal, the Netherlands, and increasingly also Belgium. Cocaine is smuggled by air
+freight, on pleasure boats and through container shipments, but to a large extent also
+by individual airline travellers.
+In October 2014, the European Commission
+adopted two reports concluding that Colombia and Peru meet the criteria to start negotiating agreements allowing their citizens
+visa-free access to the Schengen area. An introduction of short-stay visa waiver agree-
+
+ments for citizens of Colombia and Peru,
+however, might allow OCGs to intensify their
+use of individual cocaine couriers.
+Although a majority of shipments of cocaine
+continue to enter the EU through Western
+Europe, a diversification of trafficking routes
+away from the very dominant routes to the
+Iberian Peninsula drew a larger share of cocaine to the ports of the Balkans and the
+Black Sea. Between 2009 and 2011, four
+tonnes of cocaine have been seized in Bulgaria, Greece, Romania and Turkey, accounting for 2% of the overall number of seizures
+reported in Europe.* Bulgarian and Romanian authorities have moreover reported an
+increased role of Nigerian OCGs in the trafficking of cocaine to these countries.**
+Heroin from Afghanistan, Iran and
+Pakistan
+Seizure numbers and statistics on treatment
+of drug addicts suggest that heroin use in Europe has been decreasing over the last decade. Five tonnes of heroin were seized in 2012,
+which represents only 50% of the amount reported by Member States in 2002.*** Most
+of the heroin consumed in the EU is produced
+in Afghanistan and, to a lesser extent, in Iran
+and Pakistan. It is transported along a variety of routes to Europe, including the Balkan
+route, which runs through Turkey and the
+Balkan countries, the Northern route, which
+heads through Central Asia and the Russian
+Federation, and increasingly the Southern
+route via the Persian Gulf by sea, sometimes
+including passages through Africa.
+In 2014, European border guards deployed
+along the Balkan route reported seizures totalling 86.4 kg of heroin – more than three
+times as much as in 2013. The largest quantities were seized at the BCP Kapitan Andreevo at the Bulgarian-Turkish border and
+at departure from the Greek ferry port of
+Igoumenitsa.
+
+New psychoactive substances
+New psychoactive substances comprise
+a wide range of drugs that are in many cases
+not yet under control of national or international drug legislation. In 2013, the Early
+Warning System of the EMCDDA and Europol
+listed a total of 81 new synthetic substances.
+Although new psychoactive substances represent only a small share of the illicit drugs
+market, they are particularly dangerous because limited information about their effects on the human body is available. These
+substances often come in the form of more
+openly sold ‘Legal Highs’, thereby giving the
+false impression of legality and lower consumer exposure to physical and mental health
+risks. Most new psychoactive substances or
+their precursors arrive in shipments from
+China or India.
+The challenges for law-enforcement authorities at the external borders of the EU lie
+within the development of capacities to identify the rapidly developing diversity of new
+psychoactive substances. Drug control legislative measures within the EU also need a
+more coherent approach to prevent the exploitation of differences and gaps between
+national jurisdictions. The sale of new psychoactive substances through the internet and
+anonymised networks and the fact that manufacturers, retailers and other parts of the
+market chain are located in different countries pose additional challenges. In 2013, the
+EMCDDA has identified 651 websites shipping ‘legal highs’ to European consumers.****
+3.10.2. Trafficking in human beings (THB)
+
+* EMCDDA (2013) EU Drug
+Markets Report: a strategic
+analysis, p. 46
+** UNODC (2014) The Illicit
+Drug Trade through SouthEastern Europe, p. 18
+
+*** EMCDDA (2014)
+European Drug Report:
+Trends and Developments,
+p. 21
+
+**** EMCDDA (2014)
+European Drug Report:
+Trends and Developments,
+p. 29
+
+The detection of persons trafficked for sexual exploitation, forced labour or other purposes represents a major challenge for border
+authorities, as victims themselves are often
+not aware of their fate when they arrive in
+the transit or destination countries.
+
+35 of 68
+
+Frontex · annual risk analysis 2015
+
+* It should be noted that
+2008 data come from 22
+Member States, whereas
+2009 and 2012 data
+include figures from 29
+EU countries.
+
+** UNDP (2012) Small
+Arms Survey 2010–2011 in
+Bosnia and Herzegovina
+
+*** Greek police investigating
+suspected ISIS gun supply
+routes, Ekathimerini, 20
+November 2014.
+
+36 of 68
+
+In 2014, Eurostat presented its second statistical working paper on THB at EU level, including data on the years 2010–2012. It allows
+a more long-term comparison with data presented in the first edition of the report, which
+starts with numbers of 2008. Within five
+years, the number of identified victims, male
+and female, registered by police, NGOs and
+other agencies in the Member States increased from 3 691 in 2008 to 4 443 in 2012.*
+As Eurostat points out, more reported cases
+are not necessarily related to a higher number of actual victims. The upward tendency
+may also be caused by an improved reporting rate of the phenomenon.
+Data disaggregated by types of exploitation in
+2012 show that a majority of 66% of the victims were trafficked for the purpose of sexual
+exploitation and 20% for labour exploitation.
+14% were trafficked for forced begging, criminal activities, removal of organs and other
+purposes. Compared to previous years, the
+figures point to a clear trend towards a growing share of victims identified for sexual exploitation (2008: 58%), and fewer for labour
+exploitation (14%).
+Important for border guards at the external
+borders is the fact that only a minority of
+35% of registered victims came from non-EU
+countries in the years 2010–2012 (EU victims
+mainly come from Romania and Bulgaria). According to Eurostat, the main third countries
+of origin in 2012 were Nigeria, Vietnam as an
+emerging origin country, China, Albania, Brazil, Ukraine, Philippines, Sierra Leone, Dominican Republic and Cameroon. Notably, the
+number of victims from Asia has increased,
+with victims from the Philippines being registered in bigger numbers for the first time,
+and Vietnamese victims peaking, mainly for
+the purpose of labour exploitation. The reemergence of victims of THB from Albania
+in 2012 may be connected to the visa liberalisation for Albania by the end of 2010. On
+the other hand, victims from Nigeria were
+
+consistently strongly represented between
+2008 and 2012.
+3.10.4. Smuggling of weapons
+The effective control of firearms is crucial in
+the fight against crime and it is clear that European law-enforcement authorities inland
+and at the external borders need to cooperate
+across the EU in the fight against trafficking
+of firearms. The threat emanating from the
+crime is measured not simply by the smuggling of the weapons but of the further crimes
+and damage they enable. The terrorist attacks of 7–9 January in France and successive
+police operations showed the availability of
+military-grade arms including AK-47s rocketpropelled grenade launchers on European
+illicit markets. Many of these weapons are
+illegally traded from former conflict regions
+such as the Western Balkans, where in Bosnia and Herzegovina alone around 800 000
+weapons are estimated to be in illegal civilian possession.**
+Taking into account increasing passenger flow
+and heavier workload of border guards at the
+EU external borders, and constantly evolving
+and refining modi operandi of weapon smugglers, the risk of seeing this criminal activity
+at the EU external borders is increasing. EU
+funding and action have been put in place to
+complement the work of Member States in
+addressing this phenomenon and to improve
+their capabilities in preventing these criminal
+ambitions and averting illicit weapons entering the EU.***
+Smuggled arms might be employed to facilitate organised crime groups involved in the
+trafficking of human beings, facilitation of
+illegal immigration, illegal drugs trade and
+more. Arms trafficking might also be linked
+to such crimes as corruption, falsification of
+documents, money laundering and thefts from
+not sufficiently secured weapon storages or
+ammunition stockpiles outside the EU. Ter-
+
+In case of firearms seizures it is important to
+distinguish if the weapon was only trafficked
+for criminals’ protection – e.g. smuggling
+drugs, stolen vehicles – or if it was intended
+to be smuggled to the EU. The differences in
+legislation among Member States and between third countries and Member States
+create legal loopholes that might be exploited
+for the secondary distribution of weapons
+within the EU. Lack of firearms deactivation
+standards and ease of converting gas, alarm,
+signal and pneumatic guns imported legally
+to the EU into lethal weapons adds additional
+risk. Legal channels of distribution of weapons might also be abused (arms trade, legal
+weapon transits and purchases).
+3.10.5. Exit of stolen motor vehicles
+According to Eurostat, the total number of
+vehicles including cars, motorcycles, buses,
+lorries, construction and agricultural vehicles stolen in the EU has been steadily falling between 1998 and 2010. In 2013, statistical
+data published by UNODC counted more
+than 750 000 vehicles stolen in 29 of the EU
+and Schengen Associated Countries, compared to 1.4 million in 2005.* Among the reasons for the decline were the advanced
+technical protection technologies developed
+by the producers and intensified international
+law-enforcement cooperation.
+Only a small share of the vehicles stolen in
+the EU are detected at its external borders,
+often in the context of Frontex Joint Operations. In contrast to the overall theft statistics, detections at the borders reported to
+Frontex showed a decrease from 519 in 2013
+to 487 in 2014. These cases included cars, lor-
+
+© Polish Border Guard
+
+rorist groups might also seek weapons from
+criminal groups to be used in attacks staged
+in the EU. Presumably, criminal groups explore already existing smuggling routes used
+for other criminal phenomena for smuggling
+small arms and light weapons.
+
+Figure 18. A Polish border guard inspecting a vehicle driven by a
+Turkish national at the BCP of Korczowa, which was allegedly stolen
+in Italy
+
+ries, trailers, boats, excavators, agricultural
+machines and motor bikes.
+Most car thefts were detected by querying
+SIS II, the Interpol and national theft data
+with the Vehicle Identification Numbers (VIN)
+specified on the engine, frame and major
+parts of most motor vehicles. Car thieves applied various modi operandi to cloud the identity of their stolen vehicles at the external
+borders. Reports indicated frequent manipulation of the VIN, or departure from the EU
+with rental or very recently stolen cars before
+authorities are notified of the theft. In other
+cases, vehicles were disassembled into parts
+to obscure identification or vehicle registration papers were counterfeited.
+The brand preferences did not change during the last years, as more than 40% of the
+private vehicles detected were produced by
+Mercedes Benz, Volkswagen and BMW. A
+majority of the persons driving the stolen
+vehicles on exit from the EU were nationals
+of the country which they intended to enter.
+For example, 70% of the persons caught with
+a stolen vehicle at the borders with Ukraine
+
+* Crime and criminal
+justice statistics,
+http://www.unodc.org/
+unodc/en/data-and-analysis/
+statistics/crime.html
+
+37 of 68
+
+Frontex · annual risk analysis 2015
+
+Figure 19. Main routes of stolen vehicles crossing the external border in 2014 (map) and the number of theft cases
+reported in 2014, by type of vehicle (chart)
+
+Number of detection cases reported through JORA in 2014
+Bicycles
+Rental cars
+Lorries
+Car parts
+Buses and vans
+Trailers
+Motorbikes
+Cars
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Eastern borders routes
+Northern branch
+Southern branch
+Balkan route
+Northern African route
+Main route for motorbikes
+stolen in Italy
+
+Source: JORA data as of 9 February 2015
+
+were of Ukrainian nationality, while only 17%
+were EU citizens.
+3.10.6. Smuggling of excise goods
+
+* European Commission.
+(2014). Excise duty tables.
+Part III - Manufactured
+tobacco. Shows the
+situation as at 1 July 2014
+(Ref 1041).
+
+38 of 68
+
+Most excise goods smuggled across the
+EU external borders are tobacco products.
+According to estimates of the European
+Commission, the illicit trade in tobacco products costs the EU and its Member States
+EUR 10 billion a year in lost tax revenues. Not
+only individual consumers and small scale
+
+smugglers from economically weak border
+regions try to make use of existing price differences. Large scale criminal businesses illicitly import cigarettes especially to Western
+European markets from as far away as Asia.
+In 2014, many governments increased the
+taxes on excise goods to improve their budget
+situation. Between January 2013 and July 2014,
+22 Member States increased their excise duties on cigarettes, in average by EUR 0.10 per
+pack of cigarettes.*
+
+Figure 20. Average cigarette prices (pack of 20) in the EU and neighbouring third countries
+
+European Commission. (2014). Excise duty tables. Part III - Manufactured tobacco. Shows the situation as at 1 July 2014 (Ref 1041).
+
+Source: European Commission (prices in Member States) and open sources (prices outside the EU)
+
+Currently, a customer would pay EUR 5 for an
+average pack of cigarettes in Finland, whereas
+across the Russian border, the same good
+would cost him only around EUR 1. A new
+law would see a 40% increase in the minimum price for cigarettes by 1 April 2015, but
+that price hike was already compensated by
+the recent loss in value of the Russian rouble against the euro. The negative economic
+growth in the Russian Federation is expected
+to increase the illicit trade of tobacco products to the EU, by both individual ‘ant-smugglers’ from the border regions and OCGs.
+
+On 9 January 2014, the Protocol to Eliminate
+Illicit Trade in Tobacco Products, was closed
+for signature by the Parties to the WHO
+Framework Convention on Tobacco Control. At this time, it was signed by 53 States,
+including 15 Member States, and by the EU.
+The Protocol will enter into force 90 days after the 40th ratification. To assist in the investigation of illicit cross-border trade in tobacco
+products, it requires States to implement a
+global tracking and tracing regime through
+unique, secure and non-removable identification markings, such as codes or stamps on
+
+39 of 68
+
+Frontex · annual risk analysis 2015
+
+cigarette packages. Within the EU, this and
+other measures for public health are implemented through the revised Tobacco Products Directive, which entered into force on
+19 May 2014 and will apply after a transposition period of two years.
+A tracking system that assists law-enforcement authorities in determining if cigarettes
+were traded illegally was already agreed upon
+between the EU and the four largest tobacco manufacturers, which cover 80% of the
+world market. Through these agreements the
+companies committed themselves to sell to
+legitimate clients only. However, smaller companies outside the EU currently still sell large
+quantities to third-country markets where
+only an insignificant share of these cigarettes
+can be absorbed by the local demand. Much
+of the rest is then smuggled out to Member
+States. In particular seizures of ‘cheap white
+brands’ have been showing a strong upward
+tendency over the past years. An example is
+the Jin Ling cigarette brand produced in Kaliningrad, which grew so popular among western consumers that this brand itself started
+to be counterfeited.
+
+3.11. Asylum applications
+Data on asylum applications are not related
+to law-enforcement activities, but provides
+contextual information on movements of persons towards the EU. The analysis of asylum
+applications for international protection provides useful information on the push and pull
+factors at play in mixed migration flows. It is
+also important for border-control authorities
+because they are often the first authorities
+prospective applicants meet, before being referred to asylum authorities. Border-control
+authorities also play a role in the implementation of the Dublin system. As mentioned in
+recital 3 of the Eurodac Regulation (and in recital 4 of the recast Eurodac Regulation), for
+the purposes of applying the Dublin Regulation, it is necessary to establish the identity
+
+40 of 68
+
+of applicants for asylum and of persons apprehended in connection with the unlawful
+crossing of the external borders.
+Finally, unfounded applications for international protection inevitably delay the examination and subsequent provision of protection
+for those third-country nationals with genuine claims. When applications are made after an unsuccessful attempt to illegally enter
+the territory (illegal border-crossing, document fraud, refusal of entry, clandestine entry), it overloads border-control authorities
+and dilutes allocated resources.
+In 2014, Frontex has developed its collaboration with EASO, which notably contributed
+to the analysis of the data on asylum applications, based on the data they collected
+through their newly established network.
+Approximately 615 000 applicants for asylum
+(+41% compared to 2013) were registered in
+2014, which marked the highest level received
+in the EU since EU-level data collection began in 2008. 90% of applicants people applying for the first time in the EU.
+The main nationalities of applicants were
+Syrians (over 120 000) and those of Western Balkan countries (>107 000 considered
+together). After a sudden rise in the number
+of applications at the beginning of spring,
+Eritrea became the second most common
+country of origin of asylum claimants in the
+EU and Schengen Associated Countries, with
+over 40 000 applicants in 2014. Significant
+(over 50%) increases were also seen in applications from citizens of Pakistan and Afghanistan. The situation in Ukraine caused a
+particularly significant change in relation to
+previous years. A total of over 14 000 claims
+were received in 2014 in the EU – a 14-fold
+increase compared to 2013 – but the applications were not limited to countries bordering
+Ukraine, but spread across all Member States.
+In parallel, many Ukrainians sought alterna-
+
+tives to asylum via family reunification or visas and residence permits for work.
+Compared to last year, 21 Member States reported more applications for international
+protection than in 2013. Among these, three
+Member States, all of which are located at the
+EU external borders, saw particularly sharp
+rises: Italy (+146%), Hungary (+125%) and Bulgaria (+54%).
+EASO’s new Early warning and Preparedness
+System (EPS) data collection, which started in
+March 2014, includes the numbers of implicit
+withdrawals of asylum applications: this covers cases where a person applies in a Member State and then absconds and is no longer
+contactable by the Member State. Many of
+such persons later apply again for international protection in another Member State
+and may eventually be returned in accordance with the stipulations of the Dublin III
+Regulation. From the initial data it appears
+that the proportion of asylum applications
+that are implicitly withdrawn is particularly
+high (above 30% of all applications) in several
+States at the EU external land border (Poland,
+Latvia, Croatia, Romania, Hungary, Slovakia
+
+and Lithuania). Notwithstanding a more detailed analysis of the links between bordercrossing indicators, asylum applications and
+withdrawn applications, this pattern might
+indicate potential misuses of the asylum procedure whereby an individual may make an
+application for international protection in order to circumvent obligations applicable to
+regular border-control.
+This can also be an issue with those arriving
+in an irregular manner by sea. Large numbers
+of potential applicants for asylum can lead to
+severe difficulties in registration. In summer
+of 2014 legal and administrative questions
+led to the non-fingerprinting of some asylum-applicants in Eurodac in Italy leading to
+the non-application of Dublin for those who
+absconded from reception centres in Sicily
+and other areas and then travelled north to
+lodge asylum claims in other Member States.
+Italy resolved this issue by issuing instructions to Questure to take fingerprints of all
+arrivals even forcibly, if necessary, after the
+correct legal interpretation issue was clarified by the Commission and Member States
+in the autumn.
+
+41 of 68
+
+Frontex · annual risk analysis 2015
+
+4. Situation in the EU
+4.1. European Commission’s
+priorities in 2015
+
+4.2. R
+ enewed Internal Security
+Strategy
+
+The 2015 European Commission programme
+of work was adopted in December 2014 and
+set out the main actions the Commission intends to take throughout the coming year.
+Included here was the European Agenda on
+Migration, the objective of which is to develop a new approach to legal migration to
+make the EU an attractive destination for
+talents and skills, as well as to improve the
+management of migration by intensifying
+cooperation with third countries, fostering
+burden sharing and solidarity and fighting
+against irregular migration and smuggling.
+The agenda includes the review of the Blue
+Card Directive, the EU-wide work permit for
+highly skilled workers.
+
+The EU Strategic Guidelines for the Justice and
+Home Affairs Area were adopted in June 2014
+and included a call for the renewal of the EU
+Internal Security Strategy (ISS) by mid-2015
+as part of the efforts to promote operational
+police cooperation and to prevent and combat serious organised crime, including human
+trafficking and smuggling, as well as corruption. Furthermore, the Council Conclusions of
+December 2014 on a renewed Internal Security Strategy call for an update of the EU IBM
+Concept. The European Commission will, on
+the basis of opinions given by the European
+Parliament and the Council of the EU, present a Communication on the renewed ISS
+by spring 2015. The five strategic objectives
+which were agreed upon for the initial ISS will
+remain as priorities. These objectives are: the
+disruption of international criminal networks;
+the prevention of terrorism and addressing
+radicalisation and recruitment; raising levels of security for citizens and businesses in
+cyberspace; strengthening security through
+border management; and increasing Europe’s
+resilience to crises and disasters.
+
+The Commission Communication on the
+Work Programme states:
+‘To tackle the growing pressure at our
+external borders the Commission is developing a European Agenda on Migration, which will balance a fairer and
+responsible approach to legal migration, in order to make the EU an attractive destination for talent and skills, with
+firm measures against irregular migration and people trafficking and smuggling. Improving the management of
+migration means better linking our migration policy with our external policy,
+fostering greater internal and external
+cooperation, offering protection to persons in need, based on responsibility and
+solidarity and preventing tragic events
+such as those recurrently happening in
+the Mediterranean.’
+
+42 of 68
+
+4.3. S
+ tate of play concerning an
+EU Passenger Name Record
+proposal
+In February 2011, the Commission presented
+a proposal for an EU Passenger Name Record (PNR) Directive. The proposal would
+oblige Member States to set up PNR systems
+and establish strict data protection safeguards for the processing and collection of
+PNR data from flights to and from the EU.
+The Commission has declared its commitment to ensuring the proposal, which should
+
+© Frontex, 2014
+
+include high fundamental rights protection for EU citizens, gets adopted. The European Commission, European Parliament
+and the Council are currently in negotiations to this end.
+
+4.4. N
+ ew Schengen Evaluation
+Mechanism
+Preparations are ongoing as regards the implementation of the new Schengen evaluation mechanism. In line with Regulation
+1053/2013 establishing an evaluation and
+monitoring mechanism to verify the application of the Schengen acquis, the standard
+evaluation questionnaire was adopted in July
+2014. In October, the annual evaluation programme for 2015 was approved on the basis
+of the multi-annual evaluation programme
+2014–2019, taking into account the risk analysis provided by Frontex as well as information made available by relevant EU agencies
+and bodies such as Europol and the Fundamental Rights Agency. The first evaluations
+under the new mechanism (concerning announced visits) started in February 2015 in
+Austria. In the meantime, a particular focus
+has been put on further developing training
+for the evaluation experts, including updating the existing training curricula by including
+aspects that have not been covered previously, such as return.
+
+4.5. EUROSUR Handbook
+The first edition of the EUROSUR Handbook,
+as required by Article 21 of the EUROSUR Regulation, was agreed upon by the end of 2014
+in meetings between the Member States, the
+Commission and Frontex. The Handbook will
+
+provide technical and operational guidelines,
+recommendations and best practices, including on cooperation with third countries. The
+European Commission shall adopt the Handbook in the form of a recommendation in the
+course of 2015.
+
+4.6. Roll-out and impact of Visa
+Information System
+The Visa Information System (VIS) will be
+rolled out, region by region, until all Schengen states’ consulates worldwide are connected. So far, the VIS has started operations
+in North Africa in October 2011; in the Near
+East in May 2012; in the Gulf region in October 2012; in West and Central Africa in March
+2013; in East and Southern Africa in June 2013;
+in South America in September 2013; and in
+Central and South East Asia and in the occupied Palestinian Territory in November 2013.
+The year 2014 saw the introduction of the VIS
+in Turkey and the Western Balkans.
+A new timetable was agreed upon for the final VIS roll outs during 2015. The latest time
+frame for the roll-out in regions 17–23 is as
+follows:
+n	June 2015 for region 17 (Armenia, Azerbaijan, Belarus, Georgia, Moldova, Ukraine);
+n	September 2015 for region 18 (the Russian
+Federation);
+n	October 2015 for region 19 (China, Japan, Mongolia, North Korea, South Korea, Taiwan);
+n	November 2015 for region 20 (Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri-Lanka), 21 (Andorra, Holy See,
+Monaco, San Marino), 22 (Ireland and the
+UK) and 23 (Schengen Member States).
+
+43 of 68
+
+Frontex · annual risk analysis 2015
+
+4.7. S
+ chengen visa policy
+developments
+On 17 March 2014, the European Parliament
+endorsed the Agreement between the EU
+and the Republic of Azerbaijan on the facilitation of the issuance of visas.
+* This designation is
+without prejudice to
+positions on status, and is
+in line with UNSCR 1244
+and the ICJ Opinion on
+the Kosovo declaration of
+independence.
+
+** Dominica, Grenada,
+Kiribati, Marshall Islands,
+Micronesia, Nauru, Palau,
+Saint Lucia, Saint Vincent
+and the Grenadines,
+Samoa, Solomon Islands,
+Timor-Leste, Tonga,
+Trinidad and Tobago,
+Tuvalu, and Vanuatu.
+
+44 of 68
+
+Progress reports on Kosovo*, Turkey and
+Georgia were published. Whilst the second
+progress report regarding Kosovo* notes good
+progress, the Commission considered that
+further efforts are required to obtain visafree travel for Kosovo* citizens. Turkey’s first
+progress report on fulfilment of the visa liberalisation roadmap was presented by the
+Commission on 20 October 2014. The Commission’s second progress report on Georgia’s implementation of Visa Liberalisation
+Action Plan (VLAP) has concluded that the
+first-phase requirements of the visa dialogue
+have been met and the second phase where
+implementation of benchmarks will be reviewed can therefore be launched.
+In 2014, an amendment to Regulation
+539/2001 was adopted which included additional 17 countries (16 Pacific and Caribbean island nations** and the United Arab
+Emirates) to the list of third countries whose
+nationals are exempt from the EU visa requirement. However, before this exemption
+can come into force the Commission must
+negotiate visa waiver agreements with each
+of these 17 countries. The processes for the
+various countries are currently ongoing and
+once negotiations are completed, they will be
+submitted for approval to the European Parliament and Council. Following this, and once
+the ratification procedures are completed in
+both the EU and the concerned third country, the visa waiver agreement will enter into
+force for the citizens of those countries, thus
+enabling visa-free travel. Negotiations for the
+various countries are at differing stages, but
+it is hoped that the visa-free travel for these
+
+countries will become a reality at various
+points in 2015. It is unlikely that visa-free status for these 17 countries will bring any additional risks in terms of migration and security.
+In the aforementioned amendment of Regulation 539/2001, Peru and Colombia were also
+included in the visa-free list. Following this,
+on 29 October 2014 the Commission adopted
+two reports concluding that Colombia and
+Peru met the criteria to start negotiating
+agreements allowing their citizens visa–free
+access to the Schengen area. They are now
+preparing a recommendation for a mandate
+from Council to open negotiations on the
+visa waiver. Once granted, the Commission
+will begin negotiations with both countries.
+Only after the short-stay visa waiver agreements enter into force will visa-free travel
+for the citizens of these countries become a
+reality. This could happen, at the very earliest, in the second half of 2015.
+The EU-Ukraine Association Agreement was
+signed in late 2014. Among other rules, the
+deal provides for greater movement of workers and sets targets for establishing a visafree travel regime and aligning the two sides’
+regulatory systems by laying down detailed
+timetables for Ukraine to transpose parts of
+the EU acquis legislation into its national laws
+and put them into effect.
+As a result of the Statement of the Heads of
+State or Government on Ukraine of 6 March
+2014 following the violation of Ukrainian
+sovereignty and territorial integrity by the
+Russian Federation, the visa liberalisation
+dialogue with the country was suspended.
+
+4.8. State of play concerning
+the ‘Smart Borders
+Package’ (entry/exit
+system and the registered
+traveller programme)
+The proposal for a Smart Borders Package
+was first examined by the European Parliament and Council in February 2014 and
+there they voiced technical, operational and
+cost concerns, mainly related to the overall
+feasibility of the proposed new systems. To
+counter these, the Commission subsequently
+initiated the proof of concept exercise which
+consisted of two stages.
+The first stage, consisting of a Commissionled Technical Study aimed at identifying and
+assessing the most suitable and promising
+options and solutions, was completed by
+late 2014. The results of which then fed into
+the second stage of the proof of concept: an
+eu-LISA run pilot project. This pilot project
+which will last for most of 2015 is aimed at
+verifying the feasibility of the options identified in the Technical Study and validating the
+selected concepts for both automated and
+manual border controls. This Pilot will be undertaken at various border crossing points of
+volunteering Member States/Schengen Associated Countries.
+Once the results of this pilot project are published by the end of 2015, legislative deliberations will restart in the European Parliament
+and the Council. However, it is not expected
+that any eventual system would be in place
+at the borders before 2020.
+
+4.9. Recast Eurodac Regulation
+The amendment of the Eurodac Regulation
+to allow law-enforcement authorities to consult the Eurodac database for the purpose of
+prevention, detection or investigation of terrorist offences and of other serious criminal
+offences was adopted in 2013. The new rules
+
+will only become applicable though from 20
+July 2015. The comparison of fingerprints in
+the possession of Member States’ designated
+law-enforcement authorities and Europol
+against those stored in the Eurodac database
+will only be possible where such a comparison is necessary in specific cases, under welldefined circumstances and conditions, and
+following prior checks of other databases.
+
+4.10. Asylum Procedures
+Directive changes
+The recast asylum acquis package brought
+about significant changes to the previous
+framework. Its updated requirements created a new environment for asylum systems
+of participating Member States and will continue to transform them as remaining transposition deadlines approach in July 2015.
+Of particular relevance are the revisions to
+the Dublin system, new rules regarding access
+to procedure, as well as a revised framework
+concerning border and accelerated procedures, including the situation of vulnerable
+applicants and applicants in need of special
+procedural guarantees.*
+The revised Dublin Regulation** is already
+applicable and it introduces additional guarantees to persons in a Dublin procedure (obligatory personal interview and information
+on the procedure for establishing the Member State responsible, extended options for
+reunifying family and relatives, and additional
+guarantees for minors, including best interest of a child determination and family tracking). The transfer to the Member States
+responsible under Dublin can now be appealed and a motion for suspensive effect of
+the appeal may be submitted (granting the
+right to remain within the territory while the
+court is determining the motion for suspension). Legal assistance free of charge is to be
+provided upon request and the overall duration of detention is strictly limited. More pre-
+
+* A comprehensive overview
+of changes brought about by
+the recast asylum acquis is
+available in the EASO Annual
+Report on the Situation
+of Asylum in the EU 2013,
+in particular section 3.1.1.
+Legislative: completion of
+CEAS (http://easo.europa.eu/
+wp-content/uploads/EASOAR-final1.pdf)
+
+** The recast Dublin
+Regulation is already
+applicable to applications
+for international
+protection lodged as
+of 1 January 2014 and
+to all requests to take
+back or take charge
+starting 1 January
+2014. An amended
+Dublin Implementing
+Regulation was adopted
+by European Commission
+on 30 January 2014
+and is applicable as of
+9 February 2014.
+
+45 of 68
+
+Frontex · annual risk analysis 2015
+
+cise deadlines are introduced for procedures
+between States. The Dublin Regulation, in its
+revised form, also covers applicants who could
+otherwise fall under the Return Directive as
+irregular migrants and be returned as such.
+* The recast Eurodac
+Regulation will take
+effect on 20 July 2015.
+
+The revised Eurodac Regulation* improves
+data protection standards and sets new time
+limits for transmitting fingerprint data to the
+central unit of Eurodac. National police services and Europol can access Eurodac data for
+the purposes of comparing Eurodac data with
+fingerprints linked to criminal investigations
+(though only if specific requirements are met,
+and only as concerns the most serious crimes
+as a last resort after checking other available
+databases. There is no possibility to share information with third countries).
+Article 6 of the recast Asylum Procedures Directive (APD) clarifies the responsibilities of
+state authorities in regard to ensuring access
+to the asylum procedure for those wishing to
+make an application, in particular the necessity for states to register all expressions of
+intent to apply made to whichever national
+authority is the first point of contact for the
+potential applicant. Article 8 stipulates that
+training must to be provided to officials who
+may come into contact with persons seeking
+international protection (in particular during the surveillance of land or maritime borders or during border checks) so that they
+are able, inter alia, to provide information on
+where and how an application can be lodged.
+The recast APD also states clearly that persons present in the territorial waters of a
+Member State who made an application for
+
+46 of 68
+
+international protection should be disembarked on land and have their applications
+examined. Moreover, the conditions and safeguards for applying border and accelerated
+procedures have now been clarified and, in
+particular, the grounds under which such
+procedures can be applied have been made
+exhaustive.
+New rules regarding identification and treatment of vulnerable groups have been put in
+place in the recast Reception Conditions Directive (obligation to conduct an individual
+assessment to identify the particular reception needs for vulnerable persons and ensure
+access to psychological support, legal assistance and information, as well as restrictions
+on detaining vulnerable persons, including
+minors). Applicants in need of special procedural guarantees, e.g. due to their age, disability, illness, sexual orientation or traumatic
+experiences, should be identified in due time
+and provided with adequate support such as
+sufficient time to make their claims in line
+with provisions of the recast APD. In practical terms, those new requirements combined
+may substantially limit the use of border and
+accelerated procedures with regard to certain groups of applicants.
+The recast Reception Conditions Directive
+also sets forth rules concerning qualifications
+required of the representatives of unaccompanied minors. This may be particularly relevant for Member States experiencing high
+numbers of unaccompanied minors who abscond after lodging an application, which
+may be linked to child trafficking and child
+smuggling.
+
+© Frontex, 2014
+
+5. Outlook
+Based on the descriptions of the situation in
+2014 and a review of the main factors, be it
+economic, legal or technical, that can contribute one way or another to irregular migration
+to the EU, this chapter reviews the possible
+evolution of the situation along the external
+border of the EU in the coming years. While
+some developments are likely to materialise, others seem possible, based on current
+knowledge. Finally, past experiences demonstrate that there are a large number of unforeseeable events and factors that can have
+a profound and unpredictable impact on the
+situation at the border.
+
+5.1. I llegal border-crossing
+expected to remain
+concentrated in southern
+and south-eastern borders
+of the EU
+The best forecasts – those likely to materialise and have a direct bearing on the situation
+at the external borders – are the continued
+use of the Mediterranean area as the main
+crossing points for irregular migration. At
+the same time, border-control authorities
+are expected to be increasingly engaged in
+search and rescue operations covering vast
+areas of the Mediterranean Sea, as well as
+being the first interlocutors for a growing
+number of persons presenting themselves
+at the EU borders in search of international
+protection.
+
+Irregular migratory flows are expected to
+follow known routes from North Africa and
+the Middle East to the EU, mostly by sea and
+through the south-eastern land border via
+Turkey. The main uncertainties concern the
+timing, as well as the size and composition
+of the flows. The composition and/or the size
+of the flow will vary in response to the developing situation in North Africa and in the
+Middle East, particularly in Syria and neighbouring countries.
+Swift diversification of modi operandi, possible displacement between routes or border
+types, and escalating attempts to evade detection or identification are all likely to occur
+in response to enhanced surveillance.
+Based on the location of the main countries
+of origin for irregular migration to the EU for
+the past five years, the border areas that are
+most likely to deal with illegal border-crossing
+remain the Southern Mediterranean coast,
+and the borders with Turkey. Migrants living
+in or having relatively easy/facilitated access
+to Turkey and/or North Africa will continue
+to be overrepresented in the flow of irregular migrants to the EU. In particular, departures of sub-Saharan migrants from Libya
+across the Central Mediterranean to reach Italy and arrivals of Syrians crossing the border
+illegally to apply for asylum in the EU – two
+phenomena already present in 2013 and 2014
+– are likely to continue in the near future.
+
+47 of 68
+
+Frontex · annual risk analysis 2015
+
+In addition, the increasing likelihood of family units crossing the border, means that border-control authorities need to be prepared
+to manage flow of vulnerable people, including numerous children. This makes it necessary to focus on the further development
+of specific mechanisms and procedures to
+tackle the needs of this vulnerable group at
+the EU external borders, including all air, land
+and sea borders.
+Central Mediterranean area
+In the Central Mediterranean, many areas on
+the North African coasts may be used as departure points for illegal border-crossing to
+the EU. North African countries may be used
+as transit countries for migrants from more
+southern African countries to sail across the
+Mediterranean. They may be used as transit
+by migrants from many different countries of
+origin, which complicate further predictions
+in terms of volume. However, with Egypt and
+Algeria now requiring visa for Syrian nationals,
+these countries are no longer practical transit countries on the way to Libya, the typical departure point in 2014. Turkey has no
+such visa requirements for Syrian nationals
+and this country may now become the main
+country of departure.
+The increasing complexity of irregular arrivals
+are expected to absorb significant resources.
+The broadening of the surveillance area along
+with increasing trend in boats seeking assistance, result in border assets being increasing mobilised in support of search and rescues
+activities. In addition, the profits generated
+by the use of old cargo ships for smuggling
+migrants may increase their use, including in
+the Central Mediterranean.
+Eastern Mediterranean area
+On the Eastern Mediterranean route, enhanced surveillance along the land borders
+with Turkey has resulted in a displacement
+
+48 of 68
+
+on the Eastern Aegean Sea. This is expected
+to put further pressure on the limited local
+reception facilities for undocumented migrants. The large number of migrants expected to cross illegally the external borders
+will also undermine systematic screening and
+debriefing activities. Nationality swapping is
+expected to remain an issue.
+In addition, an increasing number of migrants
+from North Africa and the Middle East are expected to transit to Turkey via the air border, before attempting to cross illegally the
+border to the EU, also by using forged document. Istanbul airport (IST) is an important
+hub for irregular migrants travelling by air to
+several Member States, with continuous increase in passenger flows for the past several
+years and Turkish Airlines’ expansion strategy
+towards Africa and the Middle East. Turkish
+airports are thus likely to remain common
+embarkation points for irregular migrants
+arriving in the EU.
+As a consequence, the number of migrants
+undertaking secondary movements through
+the Western Balkans is also expected to rise.
+
+5.2. Increased workload at the
+border
+Regular passenger flows across the external
+border will increase significantly in the coming years due to rising global mobility. Visa
+liberalisation processes and local border traffic agreements are placing also increasing responsibilities on border-control authorities.
+Increasingly, while movements across the
+external air borders are managed through a
+layered approach, where the border is divided
+into four components (in departure countries, at embarking airports, at the border
+and after border-crossing), the physical border is increasingly becoming a secondary layer
+for risk assessment, meaning that checking
+and screening start well before passengers
+
+cross border-control posts at airports. Border
+management will increasingly be risk-based,
+to ensure that interventions are focused on
+high-risk movements of people, while lowrisk movements are facilitated smoothly.
+
+of specific fraudulent techniques to fool biometric checks, like spoofed fingerprints, is
+also likely to increase.
+
+Air travel environment is becoming more
+complex with the growth of low-cost carriers. In addition, advances in travel complexity and increasing sophistication of criminal
+activities result in increasing workload for
+border-control officers and increasing difficulties in developing planes and passengers
+risk assessments.
+
+Overall, there is an underlying threat of terrorism-related travel movements especially
+due to the appeal of the Syrian conflict to
+both idealist and radicalised youths. The
+conflict in Syria has attracted thousands of
+foreign fighters, including EU citizens, dualnationality holders and other third-country nationals.
+
+In addition, the EU continues to receive a
+high number of asylum seekers. A substantial number of economic migrants appear
+to use the asylum procedure to try entering
+or staying on the territory of the EU. Their
+first interlocutors are often border-control
+authorities.
+
+Turkey has become the country most often
+used by foreign fighters to enter or exit Syria
+primarily because of its geographical location plus the availability of legal and cheap
+travel options.
+
+5.3. I ncreased abuse of
+fraudulent breeder*
+documents
+Given the increasing level of security features
+in modern travel documents and stricter migration policies across Member States, the
+misuse of genuine travel documents (which
+includes impersonation and fraudulently obtained documents) is likely to be an entry
+method which will steadily rise.
+Some of these issues will be addressed by the
+Visa Information System (VIS), which is operational and used by issuing authorities in 11 regions as of November 2013, and will be rolled
+out to additional regions in 2014 and 2015.
+The systematic check on arrivals of VIS visas is likely to result in increased abuse of
+fraudulent breeder documents required to
+obtain genuine VIS, as well as EU passports
+which do not require systematic biometric
+controls at the border. In addition, the use
+
+5.4. Movement of terrorists
+
+It is possible that foreign fighters use irregular
+migration routes and/or facilitation networks
+(irrespective of whether this is recommended
+by terrorist structures or not), especially when
+the associated risks and costs are perceived
+as low in comparison to legal travel options.
+Frontex is not in a position to identify, nor
+does it have any information that suggests,
+any nexus between terrorist travel and irregular migration routings and/or facilitation
+networks. Nonetheless, it cannot be excluded
+that EU-based fighters change their modi operandi of travel when faced with administrative and/or legal measures upon their return;
+or that may be reluctant to return home in
+fear of reprisal, which may induce them to
+resettle elsewhere.
+
+* supporting documents,
+such as birth certificates,
+presented to the
+authorities to obtain
+an authentic travel
+document
+
+5.5. Health risk assessment
+The main focus of Frontex is on strengthening border-control cooperation to facilitate
+bona fide migration management, combat
+cross-border crime and prevent threats to
+the Member States. This includes the pre-
+
+49 of 68
+
+Frontex · annual risk analysis 2015
+
+vention of threats to public health, as defined
+by the International Health Regulations of
+the World Health Organization. For the first
+time, the Annual Risk Analysis 2015 presents
+the WHO Regional Office for Europe’s review of the potential public health risks associated with the migration phenomena and
+ways to adequately address them, prepared
+under the project ‘Public Health Aspects of
+Migration in Europe’ (PHAME).
+As human mobility in Europe rises, health
+security attracts increasing attention as
+a means of safeguarding the health of the
+population. Health security has been traditionally considered a domestic concern.
+However, the public health challenges of human mobility and large migration have been
+as well recognised as foreign policy matters,
+claiming for a need of international cooperation to safeguard public health as a global
+common good. The analysis of health risks
+requires an overview of the health hazards
+arising in the countries of origin and transit, at the border and within the countries
+of destination.
+Migrants are exposed to a number of different health risks during the migration process.
+However, the impact of the journey varies
+depending on the category of the migrant,
+undocumented migrants being among the
+most vulnerable given the often harsh conditions of the journey and the limited access
+to health services. The following analysis,
+therefore, focuses on undocumented migration. The public health aspects of migration
+affect both health care and non-health care
+workers involved in the various stages of the
+migration process, as well as resident communities. In the countries of destination, migration often streches the capacity of health
+care systems to adapt to the additional demand for health services, and the unfamiliar and changing health profiles and needs.
+Due to the common lack of proper preparation and information, the health risks posed
+
+50 of 68
+
+by migrants are often overestimated by the
+receiving communities.
+5.5.1. Migrants
+Pre-departure
+The risk of acquiring vaccine-preventable diseases depends on the presence of susceptible
+individuals in the population and their epidemiological profile. In many countries of origin and transit the health care systems are
+weakened by civil unrest, wars, economic
+crisis and natural disasters. The provision of
+public health services including vaccination
+to the population is often interrupted or even
+withheld, resulting in a dramatic reduction
+of the immunisation coverage. For instance,
+in the Syrian Arab Republic, the immunisation coverage has fallen from 91% registered
+in 2011 to 68% in 2012. Although efforts have
+been made to improve immunisation coverage, there are still deep concerns on the immunisation status of Syrians, including those
+asking for asylum in European countries.
+In countries with high tuberculosis (TB) incidence and prevalence, large portions of the
+population have a status of latent TB infection that can be developed to TB disease, often contagious, in case of decreased immune
+response. Such situation may be created by
+the hard conditions of a journey which may
+start before crossing the border of the country of destination.
+Travel and transit
+Health risks at this phase vary depending on
+the conditions and duration of the travel. The
+conditions to which migrants are exposed to
+during the journey as well as in the countries
+of destination put them at risk of sexual victimisation, violence and sexual ill-health. Refugees, asylum seekers and undocumented
+migrants, especially women, infants and children, were identified as the most vulnerable
+
+ones. Other risks arising throughout the journey and specially during rescue operations
+include drowning, traumatism, burns, hypothermia, dehydration, heatstroke, foodborne
+diseases, respiratory and skin infections.
+Host community
+At reception centres, overcrowding and inadequate hygiene and sanitary conditions coupled with limited access to health care are
+well known risk factors for acquiring a variety of communicable diseases. The risk of
+measles, diphtheria and whooping cough is
+enhanced in the presence of susceptible individuals. Furthermore, scarce hygiene and
+sanitary conditions increase the risk of gastro-intestinal and skin infections.
+Mental health disorders and chronic diseases
+can be left undiagnosed and untreated, leading to further deterioration of the health
+condition of the migrants, even after reaching their destination. Even if chronic diseases
+are detected during the first screening procedures, lack of communication between reception centres where migrants are transferred
+to may cause the suspension of treatments
+with serious consequences. Potentially long
+and unspecified periods of stay, unclear legal
+status, communication difficulties and pasttraumatic experiences expose the migrants
+to mental health risks.
+Social, economic and political factors in origin and destination countries influence the
+risk of HIV infection of migrants. Isolation and
+stress may lead migrants to engage in behaviours – such as unsafe casual or commercial
+
+sex and drug use – which increase HIV risk.
+This risk is exacerbated by inadequate access
+to HIV services and fear of being stigmatised
+for seeking HIV-related information or support. Female migrants may be particularly
+vulnerable to HIV and susceptible to exploitation and/or physical and sexual violence.
+Migrants in a vulnerable situation may experience poor housing and working conditions,
+as well as limited access to health services,
+which may cause TB infection or the reactivation of a previous TB infection into disease.
+Same conditions can be cause of delays in diagnosis and premature interruptions of their
+treatment, which eventually could develop
+into a multi-drug resistent form of TB. Proper
+education and complete access to culturalsensitive quality and supportive services are
+of paramount importance.
+5.5.2. Workforce at the border and in
+the reception centres
+Health risks for health and non-health workforce vary depending on the resistance and
+vulnerability of each individual, the working
+conditions as well as the potential exposure
+to biological agents. Rescuers may be exposed
+to trauma, injuries, hypothermia, drowning
+and heatstroke during rescue operations. Due
+to their difficult working conditions, psychological support to the workers both at the
+border and in the migration centres is also
+relevant. Adequate screening procedures focused on communicable, non-communicable
+diseases as well as mental health should be
+performed when required and with full respect to human rights.
+
+51 of 68
+
+Frontex · annual risk analysis 2015
+
+6. S
+ elected recommendations
+for risk mitigation
+In an EU migration environment characterised by increasing pressures at the borders
+coupled with often decreasing resources for
+their handling, the challenge for border-control authorities is to become more effective
+and efficient whilst maintaining the necessary
+quality standards. Risk analysis must then be
+able to provide both short- and longer-term
+recommendations for decision makers. The
+following chapter provides a concise description of a selection of areas where risk mitigation initiatives could take place. Clearly there
+exist many areas where this could be recommended but the following chapter consists of
+one selection of issues identified and chosen
+on the basis of the Frontex risk analysis carried out throughout this year. The objective
+of this chapter is to ensure high-level awareness of selected areas for potential action and
+can serve as a practical example of how to
+follow on from risk analysis into corresponding risk mitigation decisions.
+
+6.1. Security aspects of border
+management
+
+* Regulation (EC) No
+562/2006, Schengen
+Borders Code, Recital 6
+
+Given the threats visible at the external borders of the EU, it is evident that border management has an important security
+component. Indeed, according to the Schengen Borders Code, officials at the borders are
+charged with helping to ‘combat illegal immigration and trafficking in human beings
+and to prevent any threat to the Member
+States’ internal security’.* However, in view
+of the increasing security threats witnessed
+at the external borders during the past year,
+it is necessary to further clarify the role of,
+and tools available to border management
+authorities in this area.
+What useful function can be played by the
+border authorities in the area of counter-ter-
+
+52 of 68
+
+rorism or combatting smuggling of weapons
+for instance? The threat of terrorist activities and the methods of entry into the EU
+have been much discussed during the past
+year due to several incidents which occurred
+within the EU in 2014 and early 2015. Delineating the tasks and the potential tools of
+those working at the borders in helping to
+combat this threat is an important discussion
+which should be undertaken. Given that 2015
+will also be the year in which the EU renews
+and updates the EU Internal Security Strategy and the European Commission will adopt
+a European Agenda on Security, this discussion would also be very appropriately timed.
+Certain cross-border crimes, such as trafficking in human beings, and the role to be played
+by border authorities in tackling them have
+been well addressed. Other areas could also
+benefit from further attention, for instance
+in the fight against smuggling of firearms and
+ammunition into the EU. Taking into account
+the dual circumstances of larger passenger
+flows at the borders and an increasing threat
+of small amounts of firearms and ammunition
+being smuggled by individuals, rather than
+as part of dedicated and larger shipments, it
+is clear that this represents an increasingly
+challenging phenomena for border guards
+to handle. There is a need then to address
+border management’s function in thwarting these criminal ambitions and preventing
+an increasing numbers of illicit firearms, its
+parts and ammunition from entering the EU.
+With the above issues in mind, specialised
+and integrated trainings across the EU and
+improved intelligence gathering and analysis
+would certainly help to provide for stronger
+cross-border crime prevention and detection.
+A stronger emphasis could be placed on increasing risk analysis capacities at a national
+
+© Frontex, 2013
+
+level. This could then be employed in, for instance, developing risk profiles of potential
+offenders and assessing passenger information. Improved knowledge on the security
+threats faced at the borders with information
+on the modalities, actions, and the modi operandi typically employed at the borders by
+offenders could all prove useful additions to
+the border control authorities’ cross-border
+crime tackling toolkit. These measures would
+all fall under the broader umbrella exercise
+of better defining and designing the security
+aspect of border management.
+
+6.2. Full identification of
+individuals entering the EU
+As previous chapters have discussed, 2014
+saw increased arrivals at the external borders
+of the EU, often in large, mixed and sometimes overwhelming influxes at particular
+borders. The corollary of this was the strain
+placed on border control authorities which
+left them with fewer resources available for
+identifying those attempting to enter the
+EU. This then resulted in some of the figures
+seen in the past year, where high numbers
+of entrants were not attributed a nationality. Pressures faced at a border can also lead
+to increases in the phenomenon of nationality swapping for the purposes fraudulent
+entry to the EU. Additionally it is an obligation stemming from the Schengen Borders
+Code that entrants must have their nationalities identified.
+
+why there is a strong need to ensure the correct and full identification of those arriving
+at the borders so as to provide the full necessary protection, where required. Secondly,
+the identification issue concerns the potential
+threat to internal security. With large numbers of arrivals remaining essentially unclassified for a variety of reasons – false or lack
+of identification documents, concerns over
+the validity of a claimed nationality etc. –
+there is clearly a risk that persons representing a security threat enter the EU. However,
+the challenge for the border guard is clear:
+how to differentiate for example, between
+the asylum seeker who arrives at the external border with no papers and the economic
+migrant or a migrant who might pose a security threat attempting to abuse the system
+by claiming a false nationality? This difficulty
+is clearly exacerbated in situations of intense
+migratory pressure.
+It is clear that in response to these challenges, greater emphasis must be placed on
+increased screening and debriefing teams.
+Second-line checks on arrivals are a crucial
+step in the identification process. They also
+provide an important source of information
+which can be further used for intelligence and
+risk analysis purposes. Improving intelligence
+and analytical capacities are thus also of great
+importance. The development of risk profiles
+of arrivals and training for border guards involved in these areas would also help to ensure greater identification.
+
+The importance of this issue is two-fold; there
+is both a humanitarian and a security rationale. Firstly, granting international protection
+to those in need is a legal obligation. Hence
+
+53 of 68
+
+Frontex · annual risk analysis 2015
+
+6.3. Knowledge management
+at operational and policy
+levels
+One improvement which has been evident
+in the preceding years has been the increasing sources of information and data from
+the external borders. Information is key to
+situational monitoring and for analytical
+purposes and so the improved availability
+of information is of significant importance.
+However, with greater information comes
+a greater challenge in effectively utilising it.
+This is especially the case in emergency situations when large amounts of information
+are available but time is scarce. It is in this
+context that data and situational information is sometimes not enough, but authorities will require the analysis and intelligence
+derived from it to make the fully informed
+decisions. The management of this knowledge process is critical.
+Methods for ensuring that the available and
+appropriate information reaches the authorities must be assured and must also be able to
+perform even in the context of time pressure.
+The cycle of information is an essential process for informed decision making: Ensuring
+that reliable and stable information from the
+screeners, debriefers and all those working on
+the front line is efficiently extracted and then
+analysed by the analytical services and transformed into workable and relevant knowledge
+for onward and timely transmission to decision makers is crucial. This process supposes
+the existence of capable analytical services
+and timely data collection. Also important in
+this regard is an exchange and sharing ‘culture’, where relevant information is transmitted amongst differing national and EU services.
+Another aspect of this issue can be seen at
+a higher policy level. It is still unclear how to
+transfer sufficient and relevant information
+and knowledge from border management
+into the articulation of informed and coherent
+
+54 of 68
+
+migration policies. The knowledge gained by
+border management officials, from the bottom up, should help feed into the devising of
+the higher level strategic policies taken at national and EU level. The analysis and intelligence should be a constant and reliable source
+when deciding on the future approaches in
+the area of migration management.
+
+6.4. Specific third-country
+border management and
+border security risks
+Building relations with countries outside the
+EU represents a very important method for
+effectively tackling irregular migration and
+cross-border crime and forms an important
+part of the EU’s Integrated Border Management (IBM) concept. Operational cooperation, regional capacity building projects and
+information exchange have all been of huge
+importance in ensuring efficient and effective border control systems for both the EU
+Member States and their counterparts. However, in these relations there has, at times,
+been a tendency to address the risks that the
+third countries’ border management circumstances represent to the EU borders. For instance, the focus might be overly placed on
+the third countries’ weak capacities, porous
+borders and population movements. It is a legitimate concern but it also can lead to a lack
+of incentive for third countries to cooperate if
+the approach is too EU-centric. The approach
+could be more focused on directly benefitting
+the specific border related needs of those third
+countries. The consequence of this would be
+to assist in improving and enhancing their
+border management in relation to the threats
+and needs of these third countries.
+Identifying the risks faced by third-country
+partners in terms of their border management and border security concerns, and then
+recommending local and regional actions for
+risk mitigation would then likely cascade and
+spread out to create reciprocal positive ben-
+
+efits for the EU borders. It would also help to
+ensure increased incentive for cooperation
+with the EU. This could be achieved through
+targeted capability building and technical assistance projects in third countries, based on a
+national appreciation of risk, which would aim
+to strengthen third-country migration management capacities, whilst, all the while, still
+imparting EU border management standards.
+As an initial proposal, Turkey would appear
+to be a reasonable candidate with whom to
+implement this working method of increased
+and targeted cooperation. This does not preclude the necessity to cooperate with other
+countries of origin and transit who play important roles and are crucial partners in the
+EU neighbourhood.
+
+6.5. Multidisciplinary
+integrated training for EU
+border-control authorities
+It has been seen in this year’s Annual Risk
+Analysis that the geopolitical environment
+surrounding the EU is becoming ever more
+complex. Given the proximity of conflict areas to the external borders of the EU, there
+is no doubt that the threat level to EU border security increases. With the situations
+in certain neighbouring countries constantly
+evolving, sometimes for the worse, so too the
+nature of the challenge for border authorities proves to be constantly shifting. This can
+be seen also in the sudden influxes faced at
+the external borders which have proved difficult to predict and thus, demand an effective and timely response. It can be a challenge
+to provide for the continuous functioning of
+border-control activities in a situation where
+thousands of migrants, of mixed backgrounds,
+circumstances and nationalities, arrive at the
+border in a very short space of time. It implies a certain level of inherent risk and vulnerability at the external borders.
+In response to constantly evolving location
+and scale of the threats witnessed, the au-
+
+thorities at the borders must have a capability for risk mitigation during moments
+of emergency. Often the response in such
+situations calls for intensified interagency
+cooperation. This is an important tool for
+responding when a particular border is under an inordinate strain. The difficulty that
+this method presents though is that the officials tasked with working in closer collaboration, whether they are from customs,
+security services, asylum authorities, or indeed border guards, are not trained to know
+the work of the other. The border guard will
+likely not have the necessary knowledge of
+the customs official’s functions and likewise,
+the police officer will not know all the procedures of the asylum official’s work – and
+vice versa. This can lead to misunderstandings, difficulties and delays when these authorities are required to assist one another
+during crises. When time is of the essence,
+and a potential humanitarian crisis is unfolding, processes must be as streamlined and as
+dependable as possible.
+A potential mitigation for this issue could
+be to complement interagency cooperation
+through an integrated multidisciplinary training. An integrated training for all officials
+working at the borders would aim to provide
+them with the skills found in one another’s
+respective disciplines. This could comprise
+of specialised courses to enable those undertaking them to gain a knowledge of the
+processes behind the work of their counterparts in the field. Ensuring that a border guard
+would be well versed in the work of a lawenforcement security officer, and have a secure grasp of the issues going into the fight
+against smuggling of weapons, for instance,
+would ensure that in his own work he could
+contribute to the work of the other. A better
+understanding of the needs of the other authorities in the field would certainly lead to
+an enhanced interagency cooperation which
+could help to mitigate the threat arising during emergencies at the borders.
+
+55 of 68
+
+Frontex · annual risk analysis 2015
+
+7. Statistical annex
+LEGEND
+Symbols and abbreviations: n.a.
+											:
+
+not applicable
+data not available
+
+Source: FRAN and EDF-RAN data as of 9 February 2015, unless otherwise indicated
+Note: 	‘Member States’ in the tables refer to FRAN Member States, including both
+28 EU Member States and three Schengen Associated Countries
+
+56 of 68
+
+Annex Table 1.Illegal border-crossing between BCPs
+Detections by border type and top ten nationalities at the external borders
+
+2011
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+All Borders
+Syria
+
+1 616
+
+7 903
+
+25 546
+
+79 169
+
+28
+
+210
+
+Eritrea
+
+1 572
+
+2 604
+
+11 298
+
+34 586
+
+12
+
+206
+
+0
+
+0
+
+0
+
+26 341
+
+9.3
+
+n.a.
+
+22 994
+
+13 169
+
+9 494
+
+22 132
+
+7.8
+
+133
+
+Unspecified sub-Saharan nationals
+Afghanistan
+
+540
+
+990
+
+6 357
+
+22 069
+
+7.8
+
+247
+
+Mali
+
+2 602
+
+657
+
+2 887
+
+10 575
+
+3.7
+
+266
+
+Albania
+
+5 138
+
+5 651
+
+9 021
+
+9 323
+
+3.3
+
+3.3
+
+Gambia
+
+599
+
+553
+
+2 817
+
+8 730
+
+3.1
+
+210
+
+Nigeria
+
+6 893
+
+826
+
+3 386
+
+8 715
+
+3.1
+
+157
+
+Somalia
+
+3 011
+
+5 038
+
+5 624
+
+7 676
+
+2.7
+
+36
+
+Others
+
+96 086
+
+35 046
+
+30 935
+
+54 216
+
+19
+
+75
+
+141 051
+
+72 437
+
+107 365
+
+283 532
+
+100
+
+164
+
+248
+
+Kosovo*
+
+Total all borders
+Land Border
+
+540
+
+990
+
+6 350
+
+22 069
+
+35
+
+1 254
+
+6 416
+
+8 601
+
+12 471
+
+20
+
+45
+
+20 396
+
+9 838
+
+4 392
+
+9 445
+
+15
+
+115
+
+5 076
+
+5 460
+
+8 833
+
+9 268
+
+15
+
+4.9
+
+652
+
+1 195
+
+723
+
+984
+
+1.6
+
+36
+
+Iraq
+
+1 094
+
+1 027
+
+413
+
+939
+
+1.5
+
+127
+
+Mali
+
+118
+
+235
+
+651
+
+786
+
+1.2
+
+21
+
+Cameroon
+
+152
+
+80
+
+125
+
+755
+
+1.2
+
+504
+
+Kosovo*
+Syria
+Afghanistan
+Albania
+Palestine
+
+13 781
+
+3 344
+
+3 211
+
+555
+
+0.9
+
+-83
+
+Guinea
+
+123
+
+64
+
+161
+
+394
+
+0.6
+
+145
+
+Others
+
+26 693
+
+20 534
+
+13 732
+
+5 672
+
+9
+
+-59
+
+Total land borders
+
+69 879
+
+49 183
+
+47 192
+
+63 338
+
+100
+
+34
+
+Syria
+
+362
+
+1 487
+
+16 945
+
+66 698
+
+30
+
+294
+
+Eritrea
+
+680
+
+1 942
+
+10 953
+
+34 323
+
+16
+
+213
+
+n.a
+
+n.a
+
+n.a
+
+26 341
+
+12
+
+n.a.
+
+Afghanistan
+
+2 598
+
+3 331
+
+5 102
+
+12 687
+
+5.8
+
+149
+
+Mali
+
+Pakistan
+
+Sea Border
+
+Unspecified sub-Saharan nationals
+
+2 484
+
+422
+
+2 236
+
+9 789
+
+4.4
+
+338
+
+Gambia
+
+511
+
+514
+
+2 722
+
+8 642
+
+3.9
+
+217
+
+Nigeria
+
+6 380
+
+575
+
+2 870
+
+8 490
+
+3.9
+
+196
+
+Somalia
+
+1 513
+
+3 480
+
+5 054
+
+7 440
+
+3.4
+
+47
+
+251
+
+448
+
+1 351
+
+6 418
+
+2.9
+
+375
+
+Palestine
+
+453
+
+145
+
+1 391
+
+4 769
+
+2.2
+
+243
+
+Others
+
+55 940
+
+10 910
+
+11 549
+
+34 597
+
+16
+
+200
+
+Total sea borders
+
+71 172
+
+23 254
+
+60 173
+
+220 194
+
+100
+
+266
+
+Senegal
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo
+declaration of independence.
+
+57 of 68
+
+Frontex · annual risk analysis 2015
+
+Annex Table 2.Clandestine entries at BCPs
+Detections reported by top ten nationalities at the external borders
+Share of
+total
+
+% change
+on prev. year
+
+2011
+
+2012
+
+2013
+
+2014
+
+Land
+
+159
+
+476
+
+558
+
+2 972
+
+97
+
+433
+
+Sea
+
+123
+
+115
+
+41
+
+80
+
+2.6
+
+95
+
+Border Type
+
+Top Ten Nationalities
+6
+
+36
+
+181
+
+1 091
+
+36
+
+503
+
+Afghanistan
+
+58
+
+190
+
+128
+
+1 022
+
+33
+
+698
+
+Algeria
+
+55
+
+61
+
+48
+
+120
+
+3.9
+
+150
+
+Iraq
+
+14
+
+14
+
+12
+
+85
+
+2.8
+
+608
+
+Myanmar
+
+0
+
+0
+
+2
+
+83
+
+2.7
+
+4 050
+
+Guinea
+
+0
+
+8
+
+4
+
+66
+
+2.2
+
+1 550
+
+Eritrea
+
+0
+
+1
+
+1
+
+66
+
+2.2
+
+6 500
+
+10
+
+24
+
+30
+
+63
+
+2.1
+
+110
+
+1
+
+5
+
+2
+
+62
+
+2
+
+3 000
+1 000
+
+Syria
+
+Pakistan
+Mali
+
+5
+
+5
+
+3
+
+33
+
+1.1
+
+Others
+
+133
+
+247
+
+188
+
+361
+
+12
+
+92
+
+Total
+
+282
+
+591
+
+599
+
+3 052
+
+100
+
+410
+
+Iran
+
+Annex Table 3.Facilitators
+Detections reported by place of detection and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+Place of Detection
+5 146
+
+5 076
+
+5 057
+
+6 828
+
+67
+
+35
+
+Land
+
+625
+
+903
+
+695
+
+1 214
+
+12
+
+75
+
+Land intra-EU
+
+365
+
+494
+
+566
+
+811
+
+7.9
+
+43
+
+Sea
+
+324
+
+471
+
+394
+
+585
+
+5.7
+
+48
+
+Not specified
+
+130
+
+320
+
+267
+
+457
+
+4.5
+
+71
+
+Air
+
+367
+
+358
+
+273
+
+339
+
+3.3
+
+24
+
+Morocco
+
+390
+
+455
+
+366
+
+959
+
+9.4
+
+162
+
+Not specified
+
+255
+
+514
+
+693
+
+681
+
+6.7
+
+-1.7
+
+Spain
+
+320
+
+498
+
+241
+
+510
+
+5
+
+112
+
+Italy
+
+568
+
+513
+
+675
+
+487
+
+4.8
+
+-28
+
+France
+
+404
+
+351
+
+271
+
+417
+
+4.1
+
+54
+
+Albania
+
+221
+
+241
+
+279
+
+413
+
+4
+
+48
+
+40
+
+79
+
+172
+
+398
+
+3.9
+
+131
+
+Turkey
+
+204
+
+232
+
+185
+
+396
+
+3.9
+
+114
+
+Egypt
+
+173
+
+188
+
+397
+
+352
+
+3.4
+
+-11
+
+Bulgaria
+
+178
+
+157
+
+211
+
+322
+
+3.1
+
+53
+
+Others
+
+4 204
+
+4 434
+
+3 762
+
+5 299
+
+52
+
+41
+
+Total
+
+6 957
+
+7 662
+
+7 252
+
+10 234
+
+100
+
+41
+
+Inland
+
+Top Ten Nationalities
+
+Syria
+
+58 of 68
+
+Annex Table 4.Illegal stay
+Detections reported by place of detection and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+Place of Detection
+283 308
+
+278 438
+
+291 188
+
+383 507
+
+87
+
+Air
+
+33 126
+
+35 410
+
+31 009
+
+33 789
+
+7.6
+
+9
+
+Land
+
+17 640
+
+19 883
+
+17 677
+
+15 345
+
+3.5
+
+-13
+
+9 230
+
+5 832
+
+3 216
+
+3 929
+
+0.9
+
+22
+
+2
+
+56
+
+38
+
+2 372
+
+0.5
+
+6142
+
+Inland
+
+Land intra-EU
+Not specified
+
+32
+
+Between BCPs
+
+1 049
+
+724
+
+574
+
+2 160
+
+0.5
+
+276
+
+Sea
+
+6 593
+
+4 585
+
+1 396
+
+678
+
+0.2
+
+-51
+
+Syria
+
+3 746
+
+11 967
+
+26 374
+
+74 723
+
+17
+
+183
+
+Eritrea
+
+6 803
+
+5 024
+
+8 486
+
+34 477
+
+7.8
+
+306
+
+21 887
+
+21 268
+
+26 254
+
+25 329
+
+5.7
+
+-3.5
+
+Top Ten Nationalities
+
+Morocco
+Not specified
+
+6 814
+
+9 126
+
+20 598
+
+24 461
+
+5.5
+
+19
+
+Afghanistan
+
+25 296
+
+24 395
+
+16 851
+
+23 393
+
+5.3
+
+39
+
+Albania
+
+10 207
+
+13 264
+
+16 175
+
+20 283
+
+4.6
+
+25
+
+Ukraine
+
+12 847
+
+13 081
+
+12 472
+
+16 744
+
+3.8
+
+34
+
+Algeria
+
+15 398
+
+15 776
+
+14 474
+
+12 993
+
+2.9
+
+-10
+
+Pakistan
+
+12 621
+
+18 334
+
+14 209
+
+11 650
+
+2.6
+
+-18
+
+Kosovo*
+
+2 728
+
+3 949
+
+6 349
+
+10 900
+
+2.5
+
+72
+
+Others
+
+232 601
+
+208 744
+
+182 856
+
+186 827
+
+42
+
+2.2
+
+Total
+
+350 948
+
+344 928
+
+345 098
+
+441 780
+
+100
+
+28
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence.
+
+59 of 68
+
+Frontex · annual risk analysis 2015
+
+Annex Table 5.Refusals of entry
+Refusals by border type and top ten nationalities at the external borders
+
+2011
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+2.6
+
+All Borders
+Ukraine
+
+15 811
+
+18 108
+
+16 380
+
+16 809
+
+15
+
+Albania
+
+15 983
+
+12 060
+
+11 564
+
+12 999
+
+11
+
+12
+
+Russian Federation
+
+9 225
+
+10 113
+
+22 698
+
+10 776
+
+9.4
+
+-53
+
+Serbia
+
+6 672
+
+5 652
+
+8 181
+
+8 657
+
+7.5
+
+5.8
+
+Belarus
+
+5 983
+
+5 035
+
+4 572
+
+5 172
+
+4.5
+
+13
+
+Georgia
+
+2 801
+
+8 846
+
+8 100
+
+5 100
+
+4.4
+
+-37
+
+Morocco
+
+4 168
+
+4 256
+
+5 372
+
+4 439
+
+3.9
+
+-17
+
+Bosnia and Herzegovina
+
+1 762
+
+1 693
+
+3 523
+
+4 010
+
+3.5
+
+14
+
+Turkey
+
+3 353
+
+3 086
+
+2 999
+
+3 048
+
+2.7
+
+1.6
+32
+
+Algeria
+
+1 270
+
+1 407
+
+2 075
+
+2 730
+
+2.4
+
+Others
+
+51 249
+
+46 268
+
+43 771
+
+41 147
+
+36
+
+-6
+
+118 277
+
+116 524
+
+129 235
+
+114 887
+
+100
+
+-11
+
+Total all borders
+Land Border
+
+14 697
+
+17 007
+
+15 375
+
+15 573
+
+24
+
+1.3
+
+Russian Federation
+
+5 913
+
+7 306
+
+20 236
+
+9 013
+
+14
+
+-55
+
+Serbia
+
+5 550
+
+4 810
+
+7 405
+
+7 868
+
+12
+
+6.3
+
+Albania
+
+8 978
+
+7 378
+
+6 504
+
+7 005
+
+11
+
+7.7
+
+Belarus
+
+5 840
+
+4 912
+
+4 430
+
+5 009
+
+7.9
+
+13
+
+Georgia
+
+2 571
+
+8 535
+
+7 742
+
+4 716
+
+7.4
+
+-39
+
+Bosnia and Herzegovina
+
+1 519
+
+1 532
+
+3 363
+
+3 843
+
+6
+
+14
+
+Morocco
+
+2 827
+
+2 738
+
+3 938
+
+2 975
+
+4.7
+
+-24
+
+FYR Macedonia
+
+2 648
+
+1 781
+
+1 758
+
+1 707
+
+2.7
+
+-2.9
+
+Turkey
+
+1 779
+
+1 479
+
+1 514
+
+1 634
+
+2.6
+
+7.9
+
+Others
+
+7 270
+
+7 627
+
+6 341
+
+4 358
+
+6.8
+
+-31
+
+59 592
+
+65 105
+
+78 606
+
+63 701
+
+100
+
+-19
+
+Albania
+
+3 303
+
+2 689
+
+3 159
+
+3 760
+
+8.1
+
+19
+
+Algeria
+
+1 191
+
+1 330
+
+2 001
+
+2 642
+
+5.7
+
+32
+
+United States
+
+2 219
+
+1 966
+
+2 305
+
+2 307
+
+5
+
+0.1
+
+Brazil
+
+4 697
+
+2 980
+
+2 481
+
+2 275
+
+4.9
+
+-8.3
+
+Not specified
+
+1 499
+
+1 948
+
+1 910
+
+1 668
+
+3.6
+
+-13
+
+Nigeria
+
+1 544
+
+1 709
+
+1 647
+
+1 653
+
+3.6
+
+0.4
+
+Russian Federation
+
+1 459
+
+1 650
+
+1 812
+
+1 588
+
+3.4
+
+-12
+
+China
+
+1 124
+
+1 195
+
+1 186
+
+1 422
+
+3.1
+
+20
+
+Turkey
+
+1 303
+
+1 422
+
+1 257
+
+1 226
+
+2.6
+
+-2.5
+
+Ukraine
+
+Total land borders
+Air Border
+
+1 049
+
+952
+
+838
+
+1 181
+
+2.6
+
+41
+
+Others
+
+30 031
+
+26 222
+
+26 189
+
+26 570
+
+57
+
+1.5
+
+Total air borders
+
+49 419
+
+44 063
+
+44 785
+
+46 292
+
+100
+
+3.4
+
+18
+
+India
+
+Sea border
+3 702
+
+1 993
+
+1 901
+
+2 234
+
+46
+
+Morocco
+
+334
+
+521
+
+471
+
+571
+
+12
+
+21
+
+Turkey
+
+271
+
+185
+
+228
+
+188
+
+3.8
+
+-18
+
+Albania
+
+1 853
+
+1 157
+
+650
+
+175
+
+3.6
+
+-73
+
+Tunisia
+
+126
+
+128
+
+139
+
+136
+
+2.8
+
+-2.2
+
+Syria
+
+102
+
+129
+
+125
+
+133
+
+2.7
+
+6.4
+
+Not specified
+
+150
+
+251
+
+165
+
+126
+
+2.6
+
+-24
+
+Ukraine
+
+156
+
+136
+
+84
+
+117
+
+2.4
+
+39
+
+India
+
+135
+
+258
+
+151
+
+83
+
+1.7
+
+-45
+
+Russian Federation
+
+60 of 68
+
+Algeria
+
+55
+
+45
+
+46
+
+72
+
+1.5
+
+57
+
+Others
+
+2 382
+
+2 553
+
+1 884
+
+1 059
+
+22
+
+-44
+
+Total sea borders
+
+9 266
+
+7 356
+
+5 844
+
+4 894
+
+100
+
+-16
+
+Annex Table 6.Reasons for refusals of entry
+Reasons for refusals of entry reported at the external borders
+Total
+Refusals
+
+Reasons for refusals of entry (see description below)
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+n.a.
+
+Total
+Reasons
+
+Top Ten Nationalities
+Ukraine
+
+16 809
+
+260
+
+146
+
+6 085
+
+21
+
+6 242
+
+1 174
+
+1 087
+
+730
+
+84
+
+1 155
+
+16 984
+
+Albania
+
+12 999
+
+125
+
+145
+
+228
+
+24
+
+3 016
+
+536
+
+2 505
+
+5 569
+
+223
+
+793
+
+13 164
+
+Russian Federation
+
+10 776
+
+165
+
+22
+
+7 932
+
+32
+
+915
+
+254
+
+382
+
+190
+
+720
+
+493
+
+11 105
+
+Serbia
+
+8 657
+
+165
+
+46
+
+423
+
+6
+
+1 708
+
+2 889
+
+1 555
+
+1 776
+
+132
+
+48
+
+8 748
+
+Belarus
+
+5 172
+
+223
+
+2
+
+2 575
+
+3
+
+886
+
+239
+
+544
+
+170
+
+214
+
+368
+
+5 224
+
+Georgia
+
+5 100
+
+8
+
+14
+
+4 599
+
+19
+
+300
+
+18
+
+44
+
+135
+
+4
+
+17
+
+5 158
+
+Morocco
+
+4 439
+
+1 354
+
+94
+
+958
+
+107
+
+475
+
+72
+
+164
+
+726
+
+487
+
+72
+
+4 509
+
+Bosnia and Herzegovina
+
+4 010
+
+957
+
+3
+
+132
+
+0
+
+177
+
+72
+
+1 472
+
+1 092
+
+83
+
+32
+
+4 020
+
+Turkey
+
+3 048
+
+245
+
+25
+
+1 758
+
+32
+
+366
+
+361
+
+109
+
+121
+
+61
+
+113
+
+3 191
+
+Algeria
+
+2 730
+
+85
+
+49
+
+597
+
+8
+
+1 304
+
+7
+
+580
+
+16
+
+11
+
+87
+
+2 744
+
+Others
+
+41 147
+
+2 746
+
+1 506
+
+9 554
+
+887
+
+9 178
+
+1 597
+
+2 428
+
+2 157
+
+734
+
+11 594
+
+42 381
+
+Total
+
+114 887
+
+6 333
+
+2 052
+
+34 841
+
+1 139
+
+24 567
+
+7 219
+
+10 870
+
+12 682
+
+2 753
+
+14 772
+
+117 228
+
+Descriptions of the reasons for refusal of entry:
+A has no valid travel document(s);
+B has a false / counterfeit / forged travel document;
+C has no valid visa or residence permit;
+D has a false / counterfeit / forged visa or residence permit;
+E has no appropriate documentation justifying the purpose and conditions of stay;
+F has already stayed for three months during a six months period on the territory of the Member States of the European Union;
+G does not have sufficient means of subsistence in relation to the period and form of stay, or the means to return to the country of origin or transit;
+H is a person for whom an alert has been issued for the purposes of refusing entry in the SIS or in the national register;
+I	is considered to be a threat for public policy, internal security, public health or the international relations of one or more Member States of the
+European Union;
+
+61 of 68
+
+Frontex · annual risk analysis 2015
+
+Annex Table 7.Reasons for refusals of entry
+Reasons for refusals of entry reported at the external borders by border type
+Share of
+total
+
+% change
+on prev. year
+
+2011
+
+2012
+
+2013
+
+2014
+
+C) No valid visa
+
+29 930
+
+35 966
+
+50 030
+
+34 841
+
+30
+
+-30
+
+E) No justification
+
+25 947
+
+25 309
+
+26 511
+
+24 567
+
+21
+
+-7.3
+
+Ukraine (25%)
+
+Reason not available
+
+12 861
+
+11 127
+
+12 449
+
+14 772
+
+13
+
+19
+
+United States (13%)
+
+H) Alert issued
+
+20 255
+
+15 712
+
+10 787
+
+12 682
+
+11
+
+18
+
+Albania (44%)
+
+G) No subsistence
+
+11 633
+
+11 029
+
+11 128
+
+10 870
+
+9.3
+
+-2.3
+
+Albania (23%)
+
+F) Over 3 month stay
+
+5 490
+
+5 367
+
+5 045
+
+7 219
+
+6.2
+
+43
+
+Serbia (40%)
+
+A) No valid document
+
+7 851
+
+7 866
+
+8 997
+
+6 333
+
+5.4
+
+-30
+
+Morocco (21%)
+
+I) Threat
+
+2 835
+
+3 271
+
+3 077
+
+2 753
+
+2.3
+
+-11
+
+Russian Federation (26%)
+
+B) False document
+
+2 801
+
+3 767
+
+2 571
+
+2 052
+
+1.8
+
+-20
+
+Not specified (14%)
+
+D) False visa
+
+1 824
+
+1 842
+
+1 552
+
+1 139
+
+1
+
+-27
+
+Morocco (9.4%)
+
+121 427
+
+121 256
+
+132 147
+
+117 228
+
+100
+
+-11
+
+18 495
+
+25 054
+
+40 163
+
+25 195
+
+39
+
+-37
+
+Russian Federation (28%)
+
+All Borders
+
+Highest share
+Nationality
+
+Total all borders
+Land Border
+
+Russian Federation (23%)
+
+Nationality
+
+C) No valid visa
+
+9 429
+
+11 849
+
+12 724
+
+10 688
+
+17
+
+-16
+
+Ukraine (55%)
+
+13 767
+
+11 258
+
+7 289
+
+9 094
+
+14
+
+25
+
+Albania (43%)
+
+G) No subsistence
+
+7 695
+
+7 486
+
+7 517
+
+6 594
+
+10
+
+-12
+
+Albania (25%)
+
+F) Over 3 month stay
+
+4 577
+
+4 518
+
+4 018
+
+5 566
+
+8.7
+
+39
+
+Serbia (49%)
+
+A) No valid document
+
+3 514
+
+3 498
+
+5 071
+
+3 275
+
+5.1
+
+-35
+
+Morocco (39%)
+
+I) Threat
+
+2 095
+
+2 073
+
+1 803
+
+1 615
+
+2.5
+
+-10
+
+Russian Federation (38%)
+
+595
+
+1 427
+
+2.2
+
+140
+
+Ukraine (58%)
+
+E) No justification
+H) Alert issued
+
+Reason not available
+
+1
+
+B) False document
+
+382
+
+1 407
+
+498
+
+393
+
+0.6
+
+-21
+
+Ukraine (35%)
+
+D) False visa
+
+505
+
+640
+
+434
+
+176
+
+0.3
+
+-59
+
+Morocco (14%)
+
+60 460
+
+67 783
+
+80 112
+
+64 023
+
+100
+
+-20
+
+Total land borders
+Air Border
+
+Nationality
+
+E) No justification
+
+15 880
+
+12 807
+
+12 930
+
+12 885
+
+27
+
+-0.3
+
+Albania (12%)
+
+Reason not available
+
+12 362
+
+10 713
+
+11 372
+
+12 641
+
+26
+
+11
+
+United States (15%)
+
+C) No valid visa
+
+9 184
+
+8 651
+
+8 372
+
+9 029
+
+19
+
+7.8
+
+Russian Federation (10%)
+
+G) No subsistence
+
+3 482
+
+3 297
+
+3 332
+
+3 649
+
+7.6
+
+9.5
+
+Algeria (16%)
+
+H) Alert issued
+
+3 354
+
+2 697
+
+2 335
+
+2 556
+
+5.3
+
+9.5
+
+Albania (37%)
+
+A) No valid document
+
+2 324
+
+2 612
+
+2 647
+
+2 443
+
+5.1
+
+-7.7
+
+Not specified (31%)
+
+B) False document
+
+2 311
+
+2 239
+
+2 009
+
+1 600
+
+3.3
+
+-20
+
+Not specified (16%)
+
+F) Over 3 month stay
+
+879
+
+834
+
+949
+
+1 565
+
+3.2
+
+65
+
+Turkey (19%)
+
+I) Threat
+
+709
+
+1 121
+
+1 149
+
+1 014
+
+2.1
+
+-12
+
+Suriname (15%)
+
+1 190
+
+1 126
+
+1 043
+
+854
+
+1.8
+
+-18
+
+Senegal (7.7%)
+
+51 675
+
+46 097
+
+46 138
+
+48 236
+
+100
+
+4.5
+
+638
+
+653
+
+857
+
+987
+
+20
+
+15
+
+Albania (68%)
+
+3 134
+
+1 757
+
+1 162
+
+982
+
+20
+
+-15
+
+Albania (72%)
+
+Reason not available
+
+498
+
+414
+
+482
+
+704
+
+14
+
+46
+
+Albania (27%)
+
+G) No subsistence
+
+456
+
+246
+
+279
+
+626
+
+13
+
+124
+
+Albania (84%)
+
+A) No valid document
+
+2 013
+
+1 756
+
+1 279
+
+615
+
+13
+
+-52
+
+Turkey (13%)
+
+C) No valid visa
+
+2 251
+
+2 261
+
+1 492
+
+610
+
+12
+
+-59
+
+Morocco (16%)
+
+31
+
+77
+
+125
+
+124
+
+2.5
+
+-0.8
+
+Albania (82%)
+
+129
+
+76
+
+75
+
+106
+
+2.2
+
+41
+
+Morocco (53%)
+
+D) False visa
+
+Total air borders
+Sea Border
+
+Nationality
+
+E) No justification
+H) Alert issued
+
+I) Threat
+D) False visa
+F) Over 3 month stay
+B) False document
+
+Total sea borders
+
+62 of 68
+
+34
+
+15
+
+78
+
+88
+
+1.8
+
+13
+
+Morocco (63%)
+
+108
+
+121
+
+64
+
+55
+
+1.1
+
+-14
+
+Not specified (47%)
+
+9 292
+
+7 376
+
+5 893
+
+4 897
+
+100
+
+-17
+
+Annex Table 8.Document fraudsters – external borders
+Detections on entry from third countries to EU or Schengen area by border type or nationality
+Share of
+total
+
+% change
+on prev. year
+
+2012
+
+2013
+
+2014
+
+Air
+
+4 401
+
+7 057
+
+6 477
+
+69
+
+Land
+
+2 994
+
+2 141
+
+2 484
+
+26
+
+16
+
+405
+
+596
+
+425
+
+4.5
+
+-29
+
+4
+
+10
+
+34
+
+0.4
+
+240
+
+Syria
+
+485
+
+1 209
+
+1 447
+
+15
+
+20
+
+Morocco
+
+397
+
+666
+
+767
+
+8.1
+
+15
+
+Not specified
+
+188
+
+1 197
+
+742
+
+7.9
+
+-38
+
+Albania
+
+2 108
+
+1 008
+
+574
+
+6.1
+
+-43
+
+Ukraine
+
+283
+
+536
+
+519
+
+5.5
+
+-3.2
+
+Nigeria
+
+276
+
+481
+
+516
+
+5.5
+
+7.3
+
+Iraq
+
+129
+
+149
+
+338
+
+3.6
+
+127
+
+Sri Lanka
+
+154
+
+126
+
+315
+
+3.3
+
+150
+
+Turkey
+
+190
+
+190
+
+294
+
+3.1
+
+55
+
+Iran
+
+243
+
+321
+
+263
+
+2.8
+
+-18
+
+Others
+
+3 351
+
+3 921
+
+3 645
+
+39
+
+-7
+
+Total
+
+7 804
+
+9 804
+
+9 420
+
+100
+
+-3.9
+
+Border Type
+
+Sea
+Unknown
+
+-8.2
+
+Top Ten Nationalities
+
+Annex Table 9.Fraudulent documents
+Detections of fraudulent documents on entry from third countries to EU or Schengen area by country of issuance and type of documents
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+Top Ten Countries of Issuance
+
+Highest share
+Document Type
+
+France
+
+689
+
+1 335
+
+1 164
+
+11
+
+-13
+
+Italy
+
+982
+
+1 048
+
+1 154
+
+11
+
+10
+
+Visas (30%)
+
+Spain
+
+488
+
+761
+
+1 019
+
+9.5
+
+34
+
+ID cards (34%)
+
+Greece
+
+Visas (30%)
+
+2 136
+
+1 390
+
+918
+
+8.5
+
+-34
+
+Stamps (38%)
+
+Morocco
+
+113
+
+116
+
+515
+
+4.8
+
+344
+
+Passports (98%)
+
+Poland
+
+237
+
+597
+
+492
+
+4.6
+
+-18
+
+Visa (74%)
+
+Germany
+
+436
+
+560
+
+396
+
+3.7
+
+-29
+
+Visa (41%)
+
+Belgium
+
+255
+
+465
+
+383
+
+3.6
+
+-18
+
+Residence permits (36%)
+
+Turkey
+
+243
+
+451
+
+320
+
+3
+
+-29
+
+Passports (74%)
+
+Sweden
+
+145
+
+374
+
+298
+
+2.8
+
+-20
+
+Passports (60%)
+
+3 433
+
+4 251
+
+4 110
+
+38
+
+-3.3
+
+Others
+
+Type of Document
+Passports
+
+Passports (73%)
+
+Type of Fraud
+3 161
+
+5 046
+
+4 953
+
+46
+
+-1.8
+
+Forged (41%)
+
+789
+
+1 816
+
+1 616
+
+15
+
+-11
+
+Counterfeit (52%)
+
+1 391
+
+1 763
+
+1 506
+
+14
+
+-15
+
+Counterfeit (44%)
+
+879
+
+1 112
+
+1 414
+
+13
+
+27
+
+Counterfeit (36%)
+
+2 674
+
+1 411
+
+1 047
+
+9.7
+
+-26
+
+Counterfeit (75%)
+
+Other
+
+263
+
+200
+
+233
+
+2.2
+
+17
+
+Counterfeit (63%)
+
+Total
+
+9 157
+
+11 348
+
+10 769
+
+100
+
+-5.1
+
+Visas
+Residence permits
+ID cards
+Stamps
+
+63 of 68
+
+Frontex · annual risk analysis 2015
+
+Annex Table 10.Return decisions issued
+Decisions issued by top ten nationalities
+
+2011
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+Top Ten Nationalities
+Syria
+
+2 672
+
+8 129
+
+12 599
+
+26 483
+
+11
+
+110
+
+Albania
+
+8 210
+
+15 356
+
+17 983
+
+21 286
+
+8.4
+
+18
+
+Morocco
+
+11 184
+
+15 436
+
+12 486
+
+19 785
+
+7.9
+
+58
+
+Pakistan
+
+26 604
+
+24 707
+
+16 567
+
+13 715
+
+5.4
+
+-17
+
+Afghanistan
+
+27
+
+27 274
+
+23 147
+
+9 301
+
+11 857
+
+4.7
+
+Ukraine
+
+8 453
+
+9 255
+
+9 242
+
+11 107
+
+4.4
+
+20
+
+India
+
+8 817
+
+10 628
+
+10 193
+
+8 856
+
+3.5
+
+-13
+
+Algeria
+
+12 336
+
+13 771
+
+8 732
+
+7 786
+
+3.1
+
+-11
+
+Nigeria
+
+7 357
+
+9 345
+
+8 549
+
+7 136
+
+2.8
+
+-17
+
+China
+
+4 603
+
+5 746
+
+5 309
+
+5 535
+
+2.2
+
+4.3
+
+Others
+
+113 875
+
+134 429
+
+113 344
+
+118 457
+
+47
+
+4.5
+
+Total
+
+231 385
+
+269 949
+
+224 305
+
+252 003
+
+100
+
+12
+
+Please note the nationality of returned migrants does not necessarily correspond to the country of return.
+
+Annex Table 11.Effective returns
+People effectively returned to third countries by top ten nationalities
+Share of
+total
+
+% change
+on prev. year
+
+2011
+
+2012
+
+2013
+
+2014
+
+Albania
+
+12 699
+
+13 149
+
+20 544
+
+26 442
+
+16
+
+29
+
+Pakistan
+
+6 253
+
+10 488
+
+12 127
+
+9 609
+
+6
+
+-21
+
+Ukraine
+
+6 500
+
+7 645
+
+7 763
+
+9 582
+
+5.9
+
+23
+
+Morocco
+
+6 905
+
+7 667
+
+6 758
+
+8 595
+
+5.3
+
+27
+
+India
+
+7 667
+
+8 946
+
+8 958
+
+7 609
+
+4.7
+
+-15
+
+Russian Federation
+
+6 221
+
+6 894
+
+8 216
+
+6 652
+
+4.1
+
+-19
+
+Serbia
+
+4 948
+
+7 520
+
+6 512
+
+6 243
+
+3.9
+
+-4.1
+
+Kosovo*
+
+3 196
+
+3 666
+
+4 537
+
+4 744
+
+2.9
+
+4.6
+
+Nigeria
+
+5 327
+
+4 658
+
+5 234
+
+4 349
+
+2.7
+
+-17
+
+Top Ten Nationalities
+
+China
+
+5 145
+
+5 254
+
+4 837
+
+4 268
+
+2.6
+
+-12
+
+Others
+
+84 184
+
+83 068
+
+74 932
+
+73 216
+
+45
+
+-2.3
+
+Total
+
+149 045
+
+158 955
+
+160 418
+
+161 309
+
+100
+
+1
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence.
+Please note the nationality of returned migrants does not necessarily correspond to the country of return.
+
+64 of 68
+
+Annex Table 12.Effective returns by type of return
+People effectively returned to third countries by type of return and top ten nationalities
+
+2011
+
+2012
+
+2013
+
+2014
+
+Share of
+total
+
+% change
+on prev. year
+
+TYPE OF RETURN
+Forced
+
+80 809
+
+82 061
+
+87 465
+
+69 400
+
+43
+
+-21
+
+69 982
+
+71 568
+
+76 062
+
+50 418
+
+73
+
+-34
+
+Not specified
+
+9 527
+
+8 759
+
+9 832
+
+17 014
+
+25
+
+73
+
+Enforced by Joint Operation
+
+1 300
+
+1 734
+
+1 571
+
+1 968
+
+2.8
+
+25
+
+Voluntary
+
+57 170
+
+65 596
+
+64 588
+
+63 896
+
+40
+
+-1.1
+
+Others
+
+32 140
+
+36 433
+
+34 615
+
+37 488
+
+59
+
+8.3
+
+Not specified
+
+11 122
+
+13 746
+
+13 938
+
+15 083
+
+24
+
+8.2
+
+IOM-assisted
+
+13 908
+
+15 417
+
+16 035
+
+11 325
+
+18
+
+-29
+
+11 066
+
+11 298
+
+8 365
+
+28 013
+
+17
+
+235
+
+149 045
+
+158 955
+
+160 418
+
+161 309
+
+100
+
+0.6
+
+143
+
+Enforced by Member State
+
+Not specified
+
+Total
+TOP TEN NATIONALITIES
+Forced
+
+2 852
+
+3 275
+
+2 943
+
+7 158
+
+10
+
+Albania
+
+12 232
+
+11 944
+
+19 296
+
+6 306
+
+9.1
+
+-67
+
+Serbia
+
+2 668
+
+2 943
+
+3 353
+
+3 164
+
+4.6
+
+-5.6
+
+Tunisia
+
+7 279
+
+5 137
+
+3 123
+
+3 048
+
+4.4
+
+-2.4
+
+Pakistan
+
+3 938
+
+7 178
+
+8 369
+
+2 942
+
+4.2
+
+-65
+
+Algeria
+
+2 072
+
+2 521
+
+2 617
+
+2 811
+
+4.1
+
+7.4
+
+Kosovo*
+
+1 626
+
+2 063
+
+2 266
+
+2 708
+
+3.9
+
+20
+
+Nigeria
+
+3 112
+
+2 714
+
+2 707
+
+2 488
+
+3.6
+
+-8.1
+
+India
+
+2 866
+
+3 427
+
+2 898
+
+2 314
+
+3.3
+
+-20
+
+Egypt
+
+2 307
+
+1 650
+
+2 349
+
+2 197
+
+3.2
+
+-6.5
+
+Others
+
+39 857
+
+39 209
+
+37 544
+
+34 264
+
+49
+
+-8.7
+
+Total Forced Returns
+
+80 809
+
+82 061
+
+87 465
+
+69 400
+
+43
+
+-21
+
+Ukraine
+
+4 716
+
+6 079
+
+6 248
+
+8 122
+
+13
+
+30
+
+India
+
+4 763
+
+5 462
+
+6 032
+
+5 111
+
+8
+
+-15
+
+Russian Federation
+
+4 944
+
+5 532
+
+6 715
+
+5 018
+
+7.9
+
+-25
+
+Pakistan
+
+2 230
+
+3 076
+
+3 663
+
+3 507
+
+5.5
+
+-4.3
+
+Serbia
+
+2 265
+
+4 552
+
+3 126
+
+3 020
+
+4.7
+
+-3.4
+
+China
+
+2 850
+
+2 702
+
+2 796
+
+2 391
+
+3.7
+
+-14
+
+Kosovo*
+
+1 570
+
+1 603
+
+2 271
+
+2 035
+
+3.2
+
+-10
+
+Albania
+
+414
+
+1 100
+
+1 171
+
+2 013
+
+3.2
+
+72
+
+Nigeria
+
+1 956
+
+1 642
+
+2 321
+
+1 767
+
+2.8
+
+-24
+-25
+
+Morocco
+
+Voluntary
+
+1 110
+
+1 427
+
+1 872
+
+1 402
+
+2.2
+
+Others
+
+30 352
+
+32 421
+
+28 373
+
+29 510
+
+46
+
+4
+
+Total Voluntary Returns
+
+57 170
+
+65 596
+
+64 588
+
+63 896
+
+40
+
+-1.1
+
+Bangladesh
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo
+declaration of independence.
+Please note the nationality of returned migrants does not necessarily correspond to the country of return.
+
+65 of 68
+
+Frontex · annual risk analysis 2015
+
+Annex Table 13.Passenger flow on entry (reported on voluntary basis)
+Data reported border type and top ten nationalities
+
+Air
+
+Land
+
+Sea
+
+Total 2014
+
+Top Ten Nationalities
+118 020 985
+
+12 808 360
+
+11 862 354
+
+142 691 699
+
+8 131 727
+
+10 913 256
+
+417 549
+
+19 462 532
+
+Ukraine
+
+193 219
+
+10 285 108
+
+50 207
+
+10 528 534
+
+Russian Federation
+
+579 054
+
+9 554 369
+
+303 693
+
+10 437 116
+
+Belarus
+
+45 696
+
+4 925 467
+
+2 030
+
+4 973 193
+
+Serbia
+
+15 298
+
+2 460 948
+
+3 387
+
+2 479 633
+
+9 148
+
+1 028 245
+
+418
+
+1 037 811
+
+United States
+
+250 836
+
+34 880
+
+84 770
+
+370 486
+
+Israel
+
+321 532
+
+22 305
+
+6 443
+
+350 280
+
+Turkey
+
+147 642
+
+157 063
+
+11 211
+
+315 916
+
+Others
+
+938 734
+
+688 820
+
+441 812
+
+2 069 366
+
+Total
+
+128 653 871
+
+52 878 821
+
+13 183 874
+
+194 716 566
+
+Not specified
+EU MSs and SACs
+
+Moldova
+
+Please see notes in sources and methods on the final page
+
+66 of 68
+
+Notes on FRAN data sources and methods
+The term Member States refers to FRAN
+Member States, which includes the 28 Member States and the three Schengen Associated Countries (Iceland, Norway and
+Switzerland). For the data concerning detections at the external borders of the EU,
+some of the border types are not applicable
+to all FRAN Member States. This pertains to
+data on all FRAN indicators since the data
+are provided disaggregated by border type.
+The definitions of detections at land borders are therefore not applicable (excluding
+borders with non-Schengen principalities)
+for Belgium, the Czech Republic, Denmark,
+France, Germany, Iceland, Ireland, Italy, Luxembourg, Malta, the Netherlands, Portugal, Sweden, Switzerland and the UK. For
+Cyprus, the land border refers to the Green
+Line demarcation with the area where the
+Government of the Republic of Cyprus does
+not exercise effective control. For sea borders, the definitions are not applicable for
+land-locked Member States including Austria, the Czech Republic, Hungary, Luxembourg, Slovakia and Switzerland.
+In addition, data on detections of illegal border-crossing at land, air and sea BCPs (1B) are
+not available for Iceland, Ireland and Spain,
+and in Greece these detections are included
+in the data for indicator 1A. Data for Norway only include detections of illegal border-crossing at land and sea BCPs (1B), not
+between BCPs (1A).
+Data on detections of illegal border-crossing between sea BCPs (1A) are not available for Ireland.
+Data on apprehension (FRAN Indicator 2) of
+facilitators are not available for Ireland. For
+Italy, the data are not disaggregated by border type, but are reported as total appre-
+
+hensions (not specified). Data for Italy and
+Norway also include the facilitation of illegal stay and work. For Romania, the data include land Intra-EU detections on exit at the
+border with Hungary.
+For the data concerning detections of illegal stay (FRAN Indicator 3), data on detections on exit are not available for Denmark,
+Ireland, Italy, Spain and the UK. For Greece,
+only detections of illegal stayers with false
+documents are reported at the air border as
+detections of illegal stay on exit. Data on detections of illegal stay inland have not been
+available from the Netherlands since 2012.
+Data on refusals of entry (FRAN Indicator 4)
+at the external EU borders are not disaggregated by reason of refusal for Ireland and
+the UK. Refusals of entry at the Spanish land
+borders at Ceuta and Melilla (without the issuance of a refusal form) are reported separately and are not included in the presented
+FRAN data.
+The data on passenger flow (shared on voluntary basis) are not available for Austria,
+Bulgaria, Croatia, Cyprus, Greece, Iceland, Ireland, Italy, Malta, Portugal, Sweden and the
+UK. Data on passenger flow at the air border are not available according to the definition for Spain. Data at the sea border are
+not available for Spain, the Netherlands, Romania and Denmark.
+For Ireland, data on persons using false documents are only available from February 2011
+(FRAN Indicator 6). In Sweden, the data on
+false document use are not presented since
+the reported detections do not distinguish between apprehensions of persons using false
+documents at the external border and those
+apprehended inland.
+
+67 of 68
+
+Frontex · annual risk analysis 2015
+
+68 of 68
+
+European Agency for the Management
+of Operational Cooperation
+at the External Borders of the Member
+States of the European Union
+
+For Public Release
+Risk Analysis Unit
+Reference number: 4613 / 2015
+
+Plac Europejski 6
+00-844 Warsaw, Poland
+T +48 22 205 95 00
+F +48 22 205 95 01
+frontex@frontex.europa.eu
+www.frontex.europa.eu
+
+Print version:
+TT-AC-15-001-EN-C
+ISBN 978-92-95205-20-8
+ISSN 1977-4451
+DOI 10.2819/65576
+
+Online version:
+TT-AC-15-001-EN-N
+ISBN 978-92-95205-19-2
+ISSN 1977-446X
+DOI 10.2819/95629
+
+Warsaw, April 2015
+
+

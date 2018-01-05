@@ -1,0 +1,839 @@
+General Report 2013
+
+Frontex · General Report 2013
+
+Table of contents
+1. Introduction #7
+2.	Developments at Policy Level #9
+3.	Developments at Agency Level #17
+4. Eurosur #23
+5. Building Capacity #27
+6.	Transparency and Access to Information #37
+7. Fundamental Rights #41
+8.	Internal Communication, Ethics and Integrity #45
+9.	Summary of Budgetary and HR Issues 2013 #47
+10. Annexes #51
+Annex A. List of Management Board Members #51
+Annex B. List of Management Board Decisions taken in 2013 #53
+Annex C. Situation at the external borders in 2013 #54
+Annex D. List of Joint Operational Activities 2013 #57
+Annex E. Comparative analysis of Joint Operational Activities #62
+Annex F. List of Research and Development Projects #65
+Annex G. Fundamental Rights Progress Report #68
+Annex H. Annual Report on Access to Documents #73
+Annex I. Appropriations 2013 #74
+Annex J. Breakdown of Staff by Unit as on 31 December 2013 #75
+Annex K. Breakdown of Temporary Agents as on 31 December 2013 #76
+
+© Frontex
+
+Abbreviations used in General Report 2013 #77
+
+1
+
+Frontex · General Report 2013
+
+2
+
+Frontex · General Report 2013
+
+Foreword from
+the Chair of the
+Management Board
+In 2013 the border police situation at the external borders of the Union was largely characterised by the precarious situation of refugees
+in Syria and the increasing amount of migrants
+coming via the southern Mediterranean region.
+This confronted the European Community with
+challenges, particularly after the tragic incident
+of Lampedusa, which are not to be overcome
+through border policing alone.
+EUROSUR, the European Border Surveillance
+System, whose successful implementation
+began in 2013, is intended to make an operational contribution in the future. The rapid
+exchange of information and the use of additional detection technology are supposed
+to support the operational capacities of the
+EU Member States and improve their effectiveness. EUROSUR will enable the competent authorities and Frontex to improve the
+situational awareness and to support searchand rescue situations at sea.
+In 2013, more than 37,000 persons were rescued in sea border surveillance operations
+coordinated by the Agency. However, it is
+important to remember that the border authorities and the EU agency Frontex have only
+limited possibilities to prevent future tragedies. Nevertheless, all means available must
+be used to further minimise the risks.
+Those in need of protection can only be identified and granted an orderly admission procedure if the EU's external borders are under
+intensive surveillance. The same applies when
+it comes to combating human smuggling as
+a complex, international, unscrupulous and
+organised business.
+In order to improve the situation of refugees
+sustainably and to fight all aspects of cross-
+
+border crime we need to step up and coordinate our cooperation with the relevant
+countries of origin, the transit of irregular
+migration and cross-border crime. The border police authorities of the Member States
+and the Agency assist third countries in capacity-building by bringing in their expertise.
+Further efforts must be made in this area to
+make the best possible use of the available
+resources.
+In 2013 an external review was initiated to
+evaluate the application of the Frontex Regulation, amended in 2011, to examine the Agency's efficiency and to assess added value and
+working practices. The review is also trying to
+find out to what extent the Charter of Fundamental Rights was respected when applying
+the Regulation. The review is accompanied
+by an independent study conducted by the
+European Commission. It is expected to receive the results later in 2014.
+In the first year after the Consultative Forum
+on Fundamental Rights and the Frontex Fundamental Rights Officer took up their work,
+there was an intensive exchange among the
+stakeholders concerned. The consultations
+led to constructive recommendations on how
+the Agency might perform its tasks, some of
+which have already been implemented. Apart
+from the monitoring function of the Fundamental Rights Officer, a binding code of conduct was established for Frontex-coordinated
+return operations and training measures on
+fundamental rights were developed further.
+Both institutions confirm that Frontex-coordinated measures comply fully with fundamental rights standards. The involvement of
+the Agency and the resulting presence of EU
+guest officers both make sure that these values are adhered to and respected.
+
+3
+
+Frontex · General Report 2013
+
+The flexible assistance with border surveillance
+for EU Member States under particular strain
+is a clear signal of European solidarity and an
+essential part of Europe's border management.
+I would especially like to thank the members
+of the Frontex Management Board who have
+always supported me in a constructive way.
+Furthermore, my thanks go to all employees
+of the Agency. With their great dedication
+and considerable expertise they have helped
+us to overcome last year's challenges. Once
+more they made a valuable contribution to
+the protection of Europe's external borders.
+
+4
+
+Ilkka Laitinen, the first Executive Director of
+Frontex, recently finished his term of office.
+Looking back on nine eventful and successful years, he has substantially contributed to
+the development of Frontex since its foundation. He succeeded in shaping Frontex in
+such a way that it has become an indispensable element of Europe's security architecture. On behalf of the Management Board,
+I would like to express my thanks and appreciation to him for all he has achieved.
+Ralf Göbel
+Chair of the Management Board
+
+Frontex · General Report 2013
+
+Foreword from the
+Executive Director
+Following a year of financial belt-tightening
+and rationalisation of agency priorities, 2013
+proved the need for flexibility. As the period of
+consolidation and zero-growth continued from
+2012, the fluid nature of border guarding again
+asserted itself, requiring targeted responses.
+The shift in routes of organised irregular migration, the changing nature of mixed flows,
+new tasks and responsibilities for the agency
+and, of course, unforeseeable events, all shaped
+what proved to be a very mixed year.
+The war in Syria continued to cast its shadow
+over the Middle East, neighbouring and partner countries and the EU itself. The challenge
+of increased flows, often including people in
+distress, required concerted support for Member States facing unfamiliar border situations.
+Rapid reinforcement was given to Bulgaria,
+one of the more active Member States in joint
+operations. The strengthening and reallocation of Joint Operation Poseidon Land was
+one example of European solidarity in action.
+Hungary, Greece and Italy also faced extraordinary situations and received Frontex support.
+The year was also marked by catastrophe. Not
+least of these was the disaster off the coast
+of Lampedusa that cost the lives of more
+than 360 people and brought home to Europe’s citizens the grim realities of migration
+by sea. The subsequent public reaction and
+the Commission’s response highlighted once
+more the need to adapt to circumstances and
+react swiftly. Frontex supported and advised
+the Task Force for the Mediterranean, instigated changes to existing sea operations and
+started work on refining and reinforcing the
+European Patrols Network to enhance patrolling of the Mediterranean.
+Away from the border too, Frontex remained
+committed to continuous improvement. The
+
+key change here was Eurosur. This stateof-the-art information-exchange platform,
+developed by Frontex over recent years, became fully operational in its first phase and
+will continue to be expanded Europe-wide
+during the coming year. Increased responsibilities for the agency in terms of Schengen Evaluation as well as its involvement
+in key processes such as the Common European Asylum System all involved Frontex
+expertise and required focussed attention.
+The revision of rules for maritime operations, the nascent ‘Smart Borders’ package
+and work towards the future of the Justice
+and Home Affairs area, similarly necessitated
+input at expert level and the commitment
+of specialists.
+Beyond the borders and their management
+per sé, Frontex developed its relations with
+international organisations and civil society,
+not least through the Consultative Forum on
+Fundamental Rights. This grouping of human
+rights advisors had its first full year of work, as
+did the agency’s Fundamental Rights Officer.
+New milestones were reached and goals set
+in this vital area as Frontex worked to meet
+its new obligations and fulfil new and challenging roles.
+Finally, Frontex’s new legal capacity to control its own resources was taken forward with
+the entry into service of Seconded Guest Officers. This new class of operational personnel has already added flexibility and speed to
+actions on the ground and will continue to
+yield benefits in the years to come. Work towards leasing surveillance services was also
+initiated in what will be seen in retrospect
+as a turning point for operational logistics.
+Ilkka Laitinen
+Executive Director
+
+5
+
+6
+
+1. Introduction
+Mission Statement
+
+Values
+
+Frontex supports, coordinates and develops
+European border management in line with
+the Charter of Fundamental Rights of the
+EU. Frontex supports the Member States*
+(MS) to achieve an efficient, high and uniform level of border control. Frontex coordinates operational and EU measures to jointly
+respond to exceptional situations at the external borders. Frontex develops capacities
+at the Member State and European level as
+combined instruments to tackle the challenges of migration flows and serious organised crime and terrorism at the external
+borders. The European Agency for the Management of Operational Cooperation at the
+External Borders of the Member States of the
+European Union was established by Council
+Regulation (EC) 2007 / 2004.
+
+Within a teamwork-focused framework,
+enabled by open communication, Frontex’s
+staff members share and live the corporate
+values. Consequently, they perform their
+activities in a highly professional manner.
+Humanity links Frontex’s activities with
+the promotion and respect of Fundamental Rights as an unconditional and integral
+component of effective integrated border
+management resulting in trust in Frontex.
+
+Vision
+Frontex is the trustworthy European Border
+Agency, strengthening the European area of
+Freedom, Security and Justice by supporting
+the Member States to meet their responsibilities. Frontex applies the concept of Integrated Border Management and promotes
+European border guard culture based on the
+full respect of EU Fundamental Rights. Professional staff and a set of operational and
+administrative capabilities enable Frontex to
+add value to the European Union.
+
+© Marcin Klepacki
+
+* The term ‘Member
+State’ includes the
+Member States of the
+European Union and the
+Schengen Associated
+Countries
+
+Purpose of the report
+Frontex General Report 2013 takes the Programme of Work 2013 as a reference but does
+not aim to report against each and every objective set. It gives the reader a broad overview of activities carried out during 2013, and
+additionally highlights individual operational
+activities and achievements. This information is then complemented with general financial information and annexes presenting
+lists of different types of activity, comparative analysis of joint operations and summaries of budgetary and human resources. Some
+information is repeated between chapters to
+provide context.
+The organisation of this year’s General Report is slightly altered from previous years
+with the ‘Situation at the external borders’
+section now in the Annexes, a separate section on Eurosur and, as last year, sub-chapters
+on fundamental rights and public access to
+documents. Additionally achievements were
+introduced in a form of text boxes throughout the report.
+
+7
+
+2.	Developments at Policy Level
+The year 2013 was an eventful one for political and legal developments affecting Frontex. New proposals were put forward by the
+European Commission and certain legislative
+files were adopted, whilst others will require
+further negotiation during 2014.
+The year brought an increased focus on the
+activities of Frontex and on EU migratory
+issues in general. One reason for this was a
+tragedy off the coast of the Italian island of
+Lampedusa, where 364 migrants drowned
+attempting to reach EU territory. This resulted in an increase in pressure to adopt
+legislation to reduce or eliminate the occurrence of such disasters. The immediate
+policy response came following the Justice
+and Home Affairs Council of 7-8 October
+2013, which established the Task Force Mediterranean (TFM) to develop and propose
+solutions. A European Commission Communication was published on 4 December 2013
+proposing various immediate and practical
+
+8
+
+solutions to complement ongoing activities
+in the Mediterranean.
+Five main areas of action were decided upon,
+namely: actions in cooperation with third
+countries; regional protection, resettlement
+and reinforced legal avenues to Europe; reinforcement of the fight against human
+trafficking, smuggling and organised crime;
+reinforced border surveillance contributing to
+an enhanced maritime situational picture and
+to the protection and saving of lives in the
+Mediterranean, and finally, assistance to and
+solidarity with Member States dealing with
+high migratory pressure. The task force’s recommendations were welcomed by the European Council in December.
+
+Eurosur
+The main policy development concerning Frontex during 2013 was the adoption of the European Border Surveillance System (Eurosur)
+
+Regulation (EU 1052/2013) and its entry into
+force on 2 December, thus providing the legal
+framework for a system which will aid Member
+States in border surveillance at, and situational
+awareness of, the external borders of the EU.
+The Eurosur Regulation puts in place a common framework for Member State authorities to exchange information with each other
+and with Frontex in order to improve situational awareness of the external borders of
+the Member States and increase their reaction capability in border control and the
+fight against cross-border crime.
+
+© Tomasz Mincer
+
+Rules of Maritime Surveillance
+Another legislative file which saw significant progress during 2013 was the new proposal for a regulation establishing rules for
+the surveillance of the external sea borders
+in the context of operational cooperation
+coordinated by Frontex. The proposal was
+extensively negotiated throughout the year
+in the relevant European Parliament committees and Council working parties. This
+regulation aims at replacing Council Decision 2010/252/EU annulled in September
+2012 by the Court of Justice of the European
+
+9
+
+Frontex · General Report 2013
+
+Union, which concluded that the rules required the consideration and approval of
+the European Parliament.
+
+Council Directive
+2005/85/EC on minimum
+standards on procedures
+for granting and
+withdrawing refugee
+status;
+1
+
+2
+Directive 2013/33/EU of
+the European Parliament
+and of the Council laying
+down standards for the
+reception of applicants
+for international
+protection (Recast)
+
+3
+Council Directive
+2004/83/EC on minimum
+standards for the
+qualification and status
+of third country nationals
+or stateless persons as
+refugees or as persons
+who otherwise need
+international protection
+and the content of the
+protection granted
+
+Council Regulation
+343/2003/EC
+establishing the criteria
+and mechanisms for
+determining the Member
+State responsible for
+examining an asylum
+application lodged in one
+of the Member States by
+a third-country national
+
+The Council and Parliament both agreed on
+versions though differences between them
+remained. Discussions will continue during
+meetings involving the Council and the European Parliament, the aim of which will be
+to find a compromise position and agreement
+by the end of April 2014.
+The aim of the new regulation is to resolve
+confusion over diverging national interpretations of international rules on maritime
+surveillance and to replace them with a single set of clearly defined rules to be followed during all Frontex-coordinated joint
+operations.
+The new rules — to be adopted in 2014 — are
+expected to reinforce the principle of ‘non-refoulement’ while underlining the legal obligation to perform search-and-rescue activities.
+It will also replace non-mandatory rules with
+legally binding ones specifying clear responsibilities and obligations, an annual report on
+the fulfilment of which will be submitted to
+the European Parliament.
+
+4
+
+5
+Council Regulation
+2725/2000/EC concerning
+the establishment
+of ‘Eurodac’ for
+the comparison of
+fingerprints for the
+effective application of
+the Dublin Convention
+
+10
+
+Smart Borders Package
+On 28 February, the European Commission
+proposed a 'Smart Borders Package' aimed
+at harnessing new technologies for the purpose of accelerating and simplifying, but also
+reinforcing, border checks for those crossing the EU external borders. This ‘package’
+is in fact two separate regulatory proposals
+put forward jointly by the Commission. The
+first, the Registered Traveller Programme,
+would allow frequent travellers who are not
+EU citizens to bypass lengthy passport lines
+upon arrival.
+The package also includes a proposal for an
+Entry/Exit System. This potential database
+
+would keep a record of the time and place
+of entry and exit of third-country nationals
+travelling to the EU. It would also replace the
+current manual system of stamping passports
+to calculate the length of the authorised stay
+of an individual with a simplified, electronic
+system. The data would then be made available to border control and immigration authorities. The stated objective of the smart
+borders package, is to create a more open
+and secure Europe relying on state-of-theart technologies. Progress on the matter was
+restricted to studies by the European Commission and one by the European Parliament.
+Because the Parliament and Council had not
+managed to discuss the proposals by yearend, these discussions are not expected to
+take place until after European Parliamentary elections in May 2014.
+
+Adoption of the Common
+European Asylum System,
+Phase II
+Since 1999, the EU has been working to create a Common European Asylum System and
+to improve the existing legislative framework. The year 2013 saw the completion of
+the second phase of adoption of the Common European Asylum System. In mid-2013
+the European Parliament gave its approval to
+adopt revised rules to the asylum package —
+a series of regulations and directives aimed at
+improving the existing legislative framework.
+The framework now includes revisions of the
+Asylum Procedures Directive1, the Receptions
+Conditions Directive2, the Qualifications Directive3 , the revised Dublin Regulation4 and
+the new revised Eurodac Regulation5 . The
+new regulations sought to clarify and standardise the rules relating to the reception of
+asylum seekers in the EU. The completion
+of this regulatory framework is a significant
+achievement and one that has been more
+than a decade in the making.
+
+Frontex · General Report 2013
+
+Council Regulation
+539/2001/EC listing the
+third countries whose
+nationals must be in
+possession of visas
+
+6
+
+Visa Safeguard Clause
+
+Main Developments under EU
+Policy Cycle
+
+A significant amending regulation regarding EU visa legislation was also adopted in
+2013. A Council Regulation6, listing the third
+countries whose nationals must be in possession of visas when crossing the external borders and those whose nationals are exempt
+from that requirement (PE-COS 65/13) was
+amended to allow for the temporary reintroduction of the visa requirement in specific
+circumstances. This will allow in the future
+for a Member State, when confronted over
+a six-month period with, “one or more well
+defined circumstances related to nationals
+of a third country leading to an emergency
+situation which it is unable to remedy on its
+own,” to request the Commission to suspend
+for a short period of time the visa waiver for
+the nationals of that country. However, the
+clause was clearly defined as a temporarily
+applicable measure of last resort.
+
+A fresh EU policy cycle started in 2013 on the
+fight against serious and organised crime. The
+previous policy cycle — the full process from
+identifying priorities through to implementing new action plans — was first established
+by Council on 9-10 June 2011. As 2013 was the
+final year of the first policy cycle, a new, fouryear cycle with revised priorities will be implemented between 2014 and 2017.
+This four-year plan for the EU-wide fight
+against serious and organised crime, is essentially based on Europol’s Serious and Organised Crime Threat Assessment (SOCTA)8,
+upon which the Justice and Home Affairs
+Council on 6 and 7 June set out nine priorities including disruption of organised crime
+groups involved in people-smuggling, trafficking in human beings, drug trafficking and
+the production and distribution of counterfeit goods. Each priority area is tackled by a
+separate operational action plan. To achieve
+these objectives, the EU policy cycle requires
+the full operational support of EU institutions,
+bodies and Justice and Home Affairs Agencies
+together with the Member States and their
+respective national organisations.
+
+The revised Schengen evaluation mechanism
+is based on new legislation7, which was approved at the end of 2013. It foresees, for the
+first time, a role for EU agencies and in particular for Frontex. The EU legislator recognised how the expertise and information held
+by the Agency can contribute to more effective implementation of the Schengen Acquis.
+Frontex must deliver two risk analyses on an
+annual basis: one to the European Commission and the Member States containing the
+priorities for the evaluation in the following
+year and one to the European Commission
+containing only the priorities for the implementation of unannounced visits (Frontex experts may also participate in the evaluation
+visits). The Agency will also continue to reinforce Schengen Evaluation training.
+
+8
+The EU Serious and
+Organised Crime Threat
+Assessment (SOCTA) is
+the product of systematic
+analysis of law enforcement
+information on criminal
+activities and groups
+affecting the EU. A new
+report is published every
+four years and updated
+every two years.
+
+© European Union
+
+Schengen Evaluation
+Mechanism
+
+7
+Council Regulation
+1053/2013/EC establishing
+an evaluation and
+monitoring mechanism
+to verify the application
+of the Schengen acquis
+and repealing the
+Decision of the Executive
+Committee of 16
+September 1998 setting
+up a Standing Committee
+on the evaluation and
+implementation of
+Schengen when crossing
+the external borders and
+those whose nationals
+are exempt from that
+requirement
+
+Cecilia Malmström gives a press conference on a smart border package
+
+11
+
+Frontex · General Report 2013
+
+JHA Agencies, the European Commission, Council Presidency, European Parliament and representatives of academia. The event was intended
+to identify future cooperation and coordination
+needs among national border management systems in the fields of operations, capacities and
+inter-agency cooperation, and the possible role
+of Frontex in matching these needs.
+
+The Future of the Justice and
+Home Affairs area
+From a wider EU policy perspective, discussions also began on the future direction for
+the field of Justice and Home Affairs (JHA)
+of Member States of the European Union.
+These talks are in view of the forthcoming
+close of the Stockholm Programme, which
+covers the period from 2010 until the end of
+2014. The existing programme emphasises
+finding common approaches and solutions
+to dealing with EU migration issues. Negotiations on the focus for the next five-year
+plan, which mirrors the length of mandate
+of Members of the European Parliament and
+Commission, will continue into 2014 and will
+be of great importance to Frontex and the
+policies affecting it over the next five years.
+
+Cooperation with Third
+Countries, EU Agencies and
+International Organisations
+In 2013, partnerships and cooperation were
+strengthened with competent authorities of
+third countries. Moreover, in April 2013, structured cooperation was expanded by concluding a working arrangement with the State
+Border Service of the Republic of Azerbaijan.
+Frontex succeeded in progressively developing sustainable partnerships beyond the
+EU external borders. Tangible results were
+achieved in the fields of information-sharing, training, joint operational activities and
+research and development.
+
+One aspect of the future of the JHA area related
+to border management and migration, and of
+central importance to Frontex, is the possible
+future development of a European System of
+Border Guards. To promote discussion of this
+topic among border management practitioners, Frontex organised a conference on the subject in Warsaw on 28-29 October involving all
+
+Further steps were taken in the implementation of the Memorandum of Understanding
+with the Ministry of Foreign Affairs of the Republic of Turkey. A series of activities were taken
+forward with the competent Turkish authorities, mainly in the fields of risk analysis, information exchange, training and joint operations.
+
+© Frontex
+
+* This designation is
+without prejudice to
+positions on status,
+and is in line with
+UNSCR 1244/99 and
+the ICJ Opinion on the
+Kosovo declaration of
+independence
+
+European System of Border Guards conference panelists during the debate,
+October 2013
+
+12
+
+Cooperation on risk analysis at regional level
+between Frontex and third country partners
+was further consolidated, especially under
+the Western Balkans Risk Analysis Network
+(WB-RAN). Following political developments
+in the region and the outcome of consultations made during the year, Frontex forged
+contacts with the Kosovo* Border Police in
+order to expand the WB-RAN network and
+to improve analytical activities on the migratory phenomena in the region.
+
+Frontex · General Report 2013
+
+With regard to the Western Balkan region,
+Frontex continued to play a role in the EU
+post-visa-liberalisation monitoring mechanism through risk analysis activities at the
+request of the European Commission.
+Contacts in the area of return with some key
+third countries, including Nigeria, were maintained. Best Practices for the organisation of joint
+return operations to Nigeria were agreed with
+the aim of harmonising procedures for effective management of return operations and
+formalised by signing a Note-Attestation in
+December 2013, further cementing Nigeria’s
+cooperation with Frontex.
+Particular and continuous attention was paid
+to third countries bordering the Mediterranean Sea, especially considering the humanitarian aspects of irregular migration along
+maritime routes.
+Frontex participated in European Commission-led initiatives within the framework of
+the EU Dialogue on Migration, Mobility and
+Security with Tunisia and Morocco, thus establishing and maintaining direct contacts
+with the competent authorities of those
+countries and exploring the possibility of
+launching formal negotiations for the conclusion of a working arrangement, based on
+the relevant mandates adopted by the Frontex Management Board.
+Furthermore, Frontex contributed to preparatory activities undertaken and coordinated by the European External Action
+
+© Frontex
+
+The Africa-Frontex Intelligence Community
+(AFIC) continued to expand — Cameroon, the
+Democratic Republic of Congo, and Mauritania joined as members while Libya also participated in a conference — at the same time
+consolidating its role as a unique platform for
+development and joint analysis between EU
+and African experts. The year 2013 saw the
+publication of AFIC’s second analytical report.
+
+The signature of the agreement on 'Best Practices for the Organisation of Joint
+Return Operations to Nigeria', December 2013
+
+Service (EEAS) aimed at launching a civilian
+Common Security and Defence Policy (CSDP)
+mission to Libya on border security. In this
+context, the Agency participated in an EEAS/
+Civilian Planning and Conduct Capability-led
+Technical Assessment Mission to Libya, with
+the purpose of outlining the main activities
+to be undertaken by the CSDP mission and
+preparing the proposal of capacity building
+activities to be implemented by Frontex under the mission. As a follow-up, a high-level
+Libyan delegation visited Frontex Headquarters and Libyan experts participated in two
+events organised by the Agency: the International Border Police Conference (IBPC) and
+the AFIC meeting.
+Frontex also focused in 2013 on establishing direct contacts with the authorities of
+third countries where important airport
+hubs are located with direct flight connections to Europe, including the United Arab
+Emirates, China and Thailand as well as with
+Hong Kong, in order to explore practical cooperation avenues in the areas of information exchange, risk analysis and air-border
+management.
+
+13
+
+Frontex · General Report 2013
+
+In the wider scope, Frontex was involved in
+key EU migration and border managementrelated initiatives and political dialogues such
+as the Mobility Partnerships, Rabat Process,
+Eastern Partnership, Prague Process and Budapest Process. Furthermore, Frontex was
+involved in JAIEX (JHA-External Relations)
+and other EU-level meetings focused on cooperation in the external dimension, e.g. the
+United States, Russian Federation and Western Balkans region. Contacts were also maintained and support provided to EU regional
+programmes, projects and missions in third
+countries, including EUROMED Migration,
+EUBAM, EULEX, BSRBCC, and BSCF.
+
+In the context of technical assistance initiatives, Frontex was directly awarded a EUR 4.5
+million grant by the European Commission’s
+Directorate General Development and Cooperation (DG DEVCO) to launch the Eastern
+Partnership IBM Capacity Building Project.
+The main aim of this project is to enable improved border security and to facilitate legitimate movement of people and goods in the
+region, while ensuring that respect for human rights and the fight against corruption
+are given necessary attention throughout
+the project. The project partners and cobeneficiaries are the World Customs Organisation and the International Organisation
+for Migration (IOM), as well as the International Centre for Migration Policy Development. The three-year project also foresees
+the involvement of other actors, including
+European and United Nations agencies, in
+implementing specific actions.
+
+Frontex contributed to the implementation
+of EU-funded capacity-building projects on
+border security benefiting third countries and
+implemented by the relevant international
+organisations which have concluded working arrangements with Frontex. In particular,
+Frontex delivered training on anti-trafficking in Georgia and Ukraine targeted to border guard officials of the Eastern Partnership
+countries under the International Centre for
+Migration Policy Development Eastern Partnership Integrated Border Management (IBM)
+Training project.
+
+© Frontex
+
+With the aim of promoting the strengthening of the international border guard community and offering the opportunity for
+sharing best practices globally, in November 2013 Frontex organised the 21st International Border Police Conference. The event
+gathered top-executive-level participants
+from 60 countries. The 2013 IBPC concentrated on global challenges for future border security with regard to key aspects seen
+from the angles of society, migration and
+transnational crime.
+
+First International Border Police Conference organised by Frontex, November 2013
+
+14
+
+This was the first time Frontex had organised the event, having taken it over from
+the Hungarian Police. A strategic decision
+was taken to revitalise the conference by
+increasing its relevance and appeal to thirdcountry attendees. The discussion topics
+approached global challenges in a holistic
+way rather than focusing on issues of particular importance to Europe. The speakers,
+meanwhile, reflected the conference’s international nature and wide scope of interest.
+
+Frontex · General Report 2013
+
+Frontex engaged with the European Asylum
+Support Office (EASO) in a technical assistance project aimed at familiarising Tunisia
+and Morocco with the work of both Agencies. The 18-month project, “Promoting the
+participation of Jordan in the work of EASO
+as well as the participation of Morocco and
+Tunisia in the work of EASO and Frontex” is
+funded by DG DEVCO. Frontex will focus on
+implementing awareness-raising activities in
+Morocco and Tunisia, laying the foundation
+for structured future cooperation.
+The cooperation plan signed with EASO in
+2013 addresses other important issues such
+as operations and capacity building. The first
+concrete step towards the implementation
+was made in the Frontex rapid-intervention exercise (REX 2013) in which EASO participated in the field operation. Two EASO
+experts were present during coordination
+meetings throughout the exercise. EASO representatives also participate in meetings of
+the Frontex Risk Analysis Network.
+Cooperation with other JHA agencies, EU institutions and bodies as well as with international
+organisations was developed throughout the
+year. The coordination between Frontex and
+other EU Justice and Home Affairs agencies focused in 2013 on information exchange, training and relations with third country partners.
+Specifically, Frontex and Eurojust signed a
+Memorandum of Understanding in December
+to enhance cooperation in the fight against
+
+serious cross-border crime, such as smuggling
+and trafficking in human beings.
+Cooperation with Europol continued through
+joint operations, risk analysis and implementation of the EU information management
+strategy. Frontex has been actively contributing to the "Illegal Immigration" Operational
+Action Plan (OAP) managed by the Council
+Standing Committee on Operational Cooperation on Internal Security (COSI).
+Frontex remains an active contributor to European Police College (CEPOL) training mainly
+related to the implementation of LETS — the
+Law Enforcement Training Scheme. In addition, Frontex cooperated with the European
+Maritime Safety Agency (EMSA) within the
+remit of Eurosur, in order to provide the European situational picture and the common
+application of surveillance tools.
+The year 2013 also saw the successful conclusion of negotiations for a working arrangement with the European Agency for
+the operational management of large-scale
+IT systems in the area of freedom, security
+and justice (eu-LISA). The agreement is to be
+signed in early 2014.
+Cooperation with Interpol, UNHCR and IOM
+covered, apart from sharing expertise, intensive operational cooperation and information
+exchange. In the last quarter of 2013, Frontex
+resumed negotiations on a working arrangement with the International Civil Aviation Organisation (ICAO).
+
+15
+
+3.	Developments at Agency
+Level
+Reinforcement of flexible
+operational support in the
+Mediterranean
+Due to increased activity on migratory routes
+in the Mediterranean Sea, Frontex developed additional operational response activities and provided tailored support to Italy
+and Greece by extending and reinforcing joint
+maritime operations. In particular, after the
+tragedy near Lampedusa on 3 October with
+the death of a high number of migrants, reinforced border surveillance and contribution to search-and-rescue (SAR) capacity
+was implemented in the Central and Eastern
+Mediterranean regions. For this purpose an
+additional budgetary allocation was received
+from the Commission, internal reallocations
+were made and activities re-prioritised.
+
+16
+
+Frontex actively participated in the Task Force
+for the Mediterranean, established by the
+Commission, contributing with the proposal
+of reinforcing the existing European Patrols
+Network (EPN) to extend its reach across the
+length of the Mediterranean border to better control irregular migration and contribute
+to SAR activities coordinated by the Member
+States in the Mediterranean Sea.
+The year was marked by an increase in irregular sea-border crossings and an unusually high death toll due to accidents involving
+overloaded and unseaworthy boats, in particular in the Central Mediterranean area.
+In the operational areas of Frontex-coordinated joint operations, there were 683 searchand-rescue incidents coordinated by Member
+States with more than 37 000 people rescued.
+
+© Jose Cordoba
+
+17
+
+Frontex · General Report 2013
+
+Cooperation was established for each joint
+operation with relevant EU Agencies, bodies and international organisations (e.g. Europol, EFCA, EMSA, CeCLAD(M), MAOC(N),
+Interpol, UNODC), which led to smooth information flow and exchange of best practices among partners responsible for fighting
+cross-border crime.
+
+Targeted response 

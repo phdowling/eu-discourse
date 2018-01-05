@@ -1,0 +1,379 @@
+Procedure file
+Basic information
+2016/0338(CNS)
+
+CNS - Consultation procedure
+Directive
+
+Procedure completed
+
+Tax dispute resolution mechanisms in the European Union
+
+Subject
+3.45.04 Company taxation
+
+Key players
+Committee responsible
+
+European Parliament
+
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+24/11/2016
+
+THEURER Michael
+Shadow rapporteur
+
+SCHWAB Andreas
+
+GILL Neena
+
+RUOHONEN-LERNER
+Pirkko
+
+URBÁN CRESPO
+Miguel
+
+URTASUN Ernest
+KAPPEL Barbara
+Committee for opinion
+IMCO
+
+Internal Market and Consumer Protection
+
+Rapporteur for opinion
+
+Appointed
+
+The committee decided not to
+give an opinion.
+
+Council of the European Union
+
+Key events
+25/10/2016
+
+Legislative proposal published
+
+01/03/2017
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+08/06/2017
+
+Vote in committee, 1st reading/single
+reading
+
+14/06/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+05/07/2017
+
+Debate in Parliament
+
+06/07/2017
+
+Results of vote in Parliament
+
+06/07/2017
+
+Decision by Parliament, 1st
+reading/single reading
+Act adopted by Council after consultation
+
+COM(2016)0686
+
+Summary
+
+A8-0225/2017
+
+Summary
+
+T8-0314/2017
+
+Summary
+
+10/10/2017
+
+of Parliament
+
+10/10/2017
+
+End of procedure in Parliament
+
+14/10/2017
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2016/0338(CNS)
+
+Procedure type
+
+CNS - Consultation procedure
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 115
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/08350
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0686
+
+25/10/2016
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2016)0343
+
+26/10/2016
+
+EC
+
+Document attached to the
+procedure
+
+SWD(2016)0344
+
+26/10/2016
+
+EC
+
+PE599.832
+
+28/02/2017
+
+NP
+
+Committee draft report
+
+PE599.632
+
+02/03/2017
+
+EP
+
+Amendments tabled in committee
+
+PE602.778
+
+30/03/2017
+
+EP
+
+Committee report tabled for
+plenary, 1st reading/single
+reading
+
+A8-0225/2017
+
+14/06/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T8-0314/2017
+
+06/07/2017
+
+EP
+
+Summary
+
+Commission response to text
+adopted in plenary
+
+SP(2017)538
+
+06/09/2017
+
+Reasoned opinion
+
+SE_PARLIAMENT
+
+Summary
+
+Final act
+Directive 2017/1852
+OJ L 265 14.10.2017, p. 0001 Summary
+
+2016/0338(CNS) - 25/10/2016 Legislative proposal
+PURPOSE: to establish an effective dispute resolution mechanism regarding double taxation for the proper functioning of the internal market.
+PROPOSED ACT: Council Directive.
+ROLE OF THE EUROPEAN PARLIAMENT: the Council adopts the act after consulting Parliament but without being obliged to follow the
+latters opinion.
+BACKGROUND: one of the main problems encountered by businesses operating across borders is double taxation. There are already
+mechanisms in place that deal with the resolution of double taxation disputes. These are the mutual agreement procedures that are provided
+in double taxation conventions (DTCs) entered into by Member States as well as in the Union Arbitration Convention on the elimination of
+
+double taxation in connection with the adjustment of profits of associated enterprises. The Commission considers that these mechanisms
+should be improved with respect to access for taxpayers to those mechanisms, coverage, timeliness and conclusiveness. Moreover, the
+traditional methods of resolving disputes no longer fully fit with the complexity and risks of the current global tax environment.
+In its communication of June 2015 on an action plan for a fair and efficient corporate tax system in the EU, the Commission indicated that its
+proposal for a Common Consolidated Corporate Tax Base (CCCTB), which will be adopted on the same day as this proposal, is a major step
+towards a better tax environment for business.
+IMPACT ASSESSMENT: the preferred option is to set up a mandatory binding effective dispute resolution mechanism, i.e. a mutual
+agreement procedure combined with an arbitration phase, with a clear time limit and an obligation of result for all Member States.
+In terms of economic impact, the proposal will reduce the compliance and litigation burden for companies operating in the EU as regards their
+cross-border activities.
+CONTENT: the draft directive aims to improve existing double taxation dispute resolution mechanisms in the EU in order to establish a fair and
+efficient tax system that increases legal certainty. It focuses on business and companies, the main stakeholders affected by double taxation
+situations. It builds on the existing Union Arbitration Convention, which already provides for a mandatory binding arbitration mechanism, but
+broadens its scope to all cross-border situations subject to double income tax imposed on business profits. However, it adds an explicit
+obligation regarding results for Member States as well as a clearly defined time limit. On the other hand, situations that involve double
+non-taxation or cases of fraud, wilful default or gross-negligence are excluded.
+In line with the Union Arbitration Convention, the draft Directive allows for a Mutual Agreement Procedure, initiated by the complaint of the
+taxpayer, under which the Member States shall freely cooperate and reach an agreement on the double taxation dispute within 2 years. If the
+Mutual Agreement Procedure fails, it automatically leads to a dispute resolution procedure with the issuance of a final mandatory binding
+decision by the competent authorities of the Member States involved.
+BUDGETARY IMPLICATIONS: the estimated impact of the proposal on the Union budget is EUR 0.097 million (human resources and
+administrative expenditure). This will be met within available resources.
+
+2016/0338(CNS) - 14/06/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted, following a special legislative procedure (Parliaments consultation), the report by
+Michael THEURER (ALDE, DE) on the proposal for a Council directive on double taxation dispute resolution mechanisms in the European
+Union.
+The committee called on the European Parliament to approve the Commission proposal as amended.
+Double taxation represents one of the biggest obstacles to the Single Market as it creates barriers for cross-border investments.
+The report noted that attempts to eliminate double taxation have often led to "double non-taxation", where, through the practice of base
+erosion and profit shifting, companies have managed to have their profits taxed in those Member States which have corporate taxes of close to
+zero. That ongoing practice distorts competition.
+Furthermore, current dispute resolution procedures are too long, costly and often do not result in an agreement, with some cases receiving no
+acknowledgement at all.
+For this reason, it is essential that mechanisms available in the Union ensure an effective, rapid and enforceable resolution of double taxation
+disputes and the effective and timely elimination of the double taxation at stake, with regular and effective communication to the taxpayer.
+The main amendments are as follows:
+CCCTB: in order to shape a fair, clear and stable tax environment and to reduce taxation disputes within the internal market, at least some
+minimum convergence in corporate tax policies is required. Members considered that the introduction of a common consolidated corporate tax
+base (CCCTB) as proposed by the Commission is the most effective way of eliminating the risk of double corporate taxation.
+Stricter deadlines: the report stated that the competent authorities of the Member States concerned shall take a decision on the acceptance
+and admissibility of the complaint of a taxpayer within three months (as opposed to six) of the receipt of the complaint and inform that taxpayer
+and the competent authorities of the other Member States in writing of their decision within two weeks. In this regard, Member States should
+dedicate an adequate level of human, technical and financial resources.
+Sanctions: when a taxpayer submits a complaint requesting the resolution of the double taxation, Members considered that it is vital not to
+impose sanctions on the taxpayer in relation to the same matters until a binding decision is taken.
+Central contact point: in order to create a harmonised and transparent framework of the double taxation dispute resolution mechanisms,
+Members proposed that the Commission shall host a central contact point in all official languages of the Union, which is easily accessible to
+the public with up-to-date contact information for each competent authority and a full overview of applicable Union legislation and tax treaties.
+Review: the Commission shall review the application of this Directive after five years with regard to the possible extension of its scope to cover
+all cross-border double taxation situations and double non-taxation, and if appropriate, an amending legislative proposal.
+
+2016/0338(CNS) - 06/07/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 535 votes to 73, with 25 abstentions, following the consultation procedure, a legislative resolution on the
+proposal for a Council directive on double taxation dispute resolution mechanisms in the European Union.
+Double taxation represents one of the biggest obstacles to the Single Market as it creates barriers for cross-border investments.
+Members noted that attempts to eliminate double taxation have often led to "double non-taxation", where, through the practice of base erosion
+
+and profit shifting, companies have managed to have their profits taxed in those Member States which have corporate taxes of close to zero.
+That ongoing practice distorts competition.
+Furthermore, current dispute resolution procedures are too long, costly and often do not result in an agreement, with some cases receiving no
+acknowledgement at all.
+For this reason, Parliament considered it essential that mechanisms available in the Union ensure an effective, rapid and enforceable
+resolution of double taxation disputes and the effective and timely elimination of the double taxation at stake, with regular and effective
+communication to the taxpayer.
+Parliament approved the Commission proposal subject to the following amendments:
+Complaints (time delays and procedure): any taxpayer subject to double taxation shall be entitled to submit a complaint to each of the
+competent authorities of the Member States concerned:
+each competent authority shall acknowledge receipt of the complaint in writing and notify the competent authorities of the other
+Member States concerned within two weeks of receipt of the complaint;
+the competent authorities of the Member States concerned shall take a decision on the acceptance and admissibility of the complaint
+of a taxpayer within three months of the receipt of the complaint (compared to six months) and inform that taxpayer and the competent
+authorities of the other Member States in writing of their decision within two weeks;
+where the competent authorities of the Member States concerned decide to accept the complaint, they shall endeavour to eliminate
+the double taxation by mutual agreement procedure within one year starting from the last notification of one of the Member States
+decision on the acceptance of the complaint. The period of one year may be extended by up to three months.
+The competent authorities shall inform the taxpayer of the reasons for the rejection of the complaint. In the event of rejection of the complaint,
+the taxpayer shall be entitled to make an appeal to either competent authority.
+Central contact point: in order to create a harmonised and transparent framework of the double taxation dispute resolution mechanisms,
+Parliament proposed that the Commission shall host a central contact point in all official languages of the Union, which is easily accessible to
+the public with up-to-date contact information for each competent authority and a full overview of applicable Union legislation and tax treaties.
+Advisory committee: the Advisory Committee shall consist of a chairman, two representatives from each competent authority concerned and
+one or two independent persons appointed by each competent authority.
+Members suggested that the Commission check the information concerning the independent persons of standing nominated by Member
+States. Where the Commission has doubts as to the independence of the nominated persons, it can request a Member State to provide
+additional information and, if doubts remain, it may ask the Member State to remove that person from the list and appoint someone else.
+Review: the Commission shall review the application of this Directive after five years with regard to the possible extension of its scope to cover
+all cross-border double taxation situations and double non-taxation, and if appropriate, an amending legislative proposal.
+Lastly, Parliament stated that the introduction of a common consolidated corporate tax base (CCCTB) as proposed by the Commission is the
+most effective way of eliminating the risk of double corporate taxation.
+
+2016/0338(CNS) - 10/10/2017 Final act
+PURPOSE: to establish an effective dispute resolution mechanism regarding double taxation in the EU.
+LEGISLATIVE ACT: Council Directive (EU) 2017/1852 on tax dispute resolution mechanisms in the European Union.
+CONTENT: the Directive strengthens the mechanisms used to resolve disputes arising from the interpretation of agreements on the
+elimination of double taxation. The mechanisms currently provided for in bilateral tax treaties and in the Union Arbitration Convention might not
+achieve the effective resolution of such disputes in all cases in a timely manner. The aim is to encourage investment by putting in place a more
+favourable tax environment and reducing costs for businesses.
+Scope: while the scope of the Union Arbitration Convention is limited to disputes over transfer pricing and the allocation of profits to permanent
+establishments, the Directive shall apply to all tax payers that are subject to taxes on income and capital covered by bilateral tax treaties and
+the Union Arbitration Convention.
+Tax dispute settlement mechanisms: the purpose of the Directive is to establish a procedure under which, as a first step, the case is submitted
+to the tax authorities of the Member States concerned, with a view to settling the dispute by using a mutual agreement procedure. In the
+absence of an agreement within a certain time frame, the case should be submitted to a dispute resolution procedure.
+Any affected person shall be entitled to submit a complaint on a question in dispute to each of the competent authorities of each of the
+Member States concerned, requesting the resolution thereof. Each competent authority shall acknowledge receipt of the complaint within 2
+months from the receipt of the complaint and shall inform the competent authorities of the other Member States.
+Where the competent authorities of the Member States concerned accept a complaint, they shall endeavour to resolve the question in dispute
+by mutual agreement within 2 years, starting from the last notification of a decision of one of the Member States on the acceptance of the
+complaint. The period of 2 years may be extended by up to 1 year at the request of a competent authority.
+In case of rejection of the complaint by at least one Member State or in the absence of an amicable agreement, the person may request the
+establishment of an Advisory Commission composed of representatives of the tax authorities concerned and independent persons.
+The competent authorities of the Member States concerned may agree to set up an alternative dispute resolution commission instead of an
+Advisory Commission to deliver an opinion on how to resolve the question. The competent authorities of the Member States may also agree to
+set up an Alternative Dispute Resolution Commission in the form of a committee that is of a permanent nature.
+An Advisory Commission or Alternative Dispute Resolution Commission shall deliver its opinion to the competent authorities of the Member
+States concerned no later than 6 months after the date on which it was set up.
+
+The competent authorities of each of the Member States concerned shall take a decision on the acceptance or rejection of the complaint within
+6 months of the receipt. The competent authorities shall inform the affected person and the competent authorities of the other Member States
+of their decision without delay. The competent authority may decide to resolve the question in dispute on a unilateral basis, without involving
+the other competent authorities of the Member States concerned. In such case, the relevant competent authority shall notify the affected
+person and the other competent authorities of the Member States concerned without delay, following which the proceedings under this
+Directive shall be terminated.
+Each Member State shall provide that its competent authority shall notify the final decision on the resolution of the question in dispute to the
+affected person without delay. The final decision shall be binding on the Member States concerned.
+By 30 June 2024 at the latest, the Commission shall assess the implementation of the Directive and report to the Council.
+ENTRY INTO FORCE: 3.11.2017. The Directive shall apply to any complaint submitted from 1 July 2019 onwards relating to questions of
+dispute relating to income or capital earned in a tax year commencing on or after 1 January 2018. Competent authorities of Member States
+concerned may however agree to apply this Directive with regard to any complaint that was submitted prior to that day or to earlier tax years.
+TRANSPOSITION: no later than 30.6.2019.
+
+

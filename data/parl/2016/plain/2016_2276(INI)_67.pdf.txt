@@ -1,0 +1,456 @@
+Procedure file
+Basic information
+2016/2276(INI)
+
+INI - Own-initiative procedure
+
+Procedure completed
+
+Online platforms and the digital single market
+
+Subject
+2.40 Free movement of services, freedom to provide
+3.30.06 Information and communication technologies
+3.30.25 International information networks and society, internet
+
+Key players
+European Parliament
+
+Committee responsible
+ITRE
+
+Rapporteur
+
+Industry, Research and Energy
+
+Appointed
+17/06/2016
+
+JUVIN Philippe
+
+17/06/2016
+
+VIRKKUNEN Henna
+Shadow rapporteur
+
+BLANCO LÓPEZ José
+
+GUTIÉRREZ PRIETO
+Sergio
+
+DALTON Daniel
+
+VAN BOSSUYT
+Anneleen
+
+KALLAS Kaja
+
+MLINAR Angelika
+
+DE JONG Dennis
+
+MATIAS Marisa
+
+REDA Julia
+
+REIMON Michel
+
+BORRELLI David
+
+ZULLO Marco
+IMCO
+
+Internal Market and Consumer Protection
+
+17/06/2016
+VIRKKUNEN Henna
+Shadow rapporteur
+
+BLANCO LÓPEZ José
+
+GUTIÉRREZ PRIETO
+Sergio
+
+DALTON Daniel
+
+VAN BOSSUYT
+Anneleen
+
+KALLAS Kaja
+
+MLINAR Angelika
+
+DE JONG Dennis
+
+MATIAS Marisa
+
+REDA Julia
+
+REIMON Michel
+
+BORRELLI David
+
+ZULLO Marco
+Committee for opinion
+
+Rapporteur for opinion
+
+EMPL
+
+Employment and Social Affairs
+
+The committee decided not to
+give an opinion.
+
+REGI
+
+Regional Development
+
+The committee decided not to
+give an opinion.
+
+JURI
+
+Legal Affairs
+
+Appointed
+
+16/02/2017
+LE GRIP Constance
+
+Key events
+25/05/2016
+
+Non-legislative basic document published
+
+24/11/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+24/11/2016
+
+Referral to joint committee announced in
+Parliament
+
+18/05/2017
+
+Vote in committee, 1st reading/single
+reading
+
+31/05/2017
+
+Committee report tabled for plenary,
+single reading
+
+09/06/2017
+
+Debate in Council
+
+14/06/2017
+
+Debate in Parliament
+
+15/06/2017
+
+Results of vote in Parliament
+
+15/06/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+15/06/2017
+
+End of procedure in Parliament
+
+COM(2016)0288
+
+Summary
+
+A8-0204/2017
+
+Summary
+
+T8-0272/2017
+
+Summary
+
+Technical information
+Procedure reference
+
+2016/2276(INI)
+
+Procedure type
+
+INI - Own-initiative procedure
+
+Procedure subtype
+
+Initiative
+
+Legal basis
+
+Rules of Procedure of the European Parliament EP 052; Rules of Procedure
+of the European Parliament EP 055
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+CJ18/8/08311
+
+Documentation gateway
+Non-legislative basic document
+
+COM(2016)0288
+
+25/05/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0172
+
+26/05/2016
+
+EC
+
+Committee draft report
+
+PE599.814
+
+28/02/2017
+
+EP
+
+Amendments tabled in committee
+
+PE602.752
+
+27/03/2017
+
+EP
+
+Amendments tabled in committee
+
+PE602.753
+
+27/03/2017
+
+EP
+
+PE601.100
+
+08/05/2017
+
+EP
+
+Committee report tabled for plenary, single
+reading
+
+A8-0204/2017
+
+31/05/2017
+
+EP
+
+Summary
+
+Text adopted by Parliament, single reading
+
+T8-0272/2017
+
+15/06/2017
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2017)574
+
+20/11/2017
+
+Committee opinion
+
+JURI
+
+Summary
+
+2016/2276(INI) - 25/05/2016 Non-legislative basic document
+PURPOSE: to present a targeted approach in order to respond to questions related to online platforms.
+BACKGROUND: in its communication setting out a strategy for the digital single market , the Commission committed itself to undertaking a
+comprehensive assessment of the role of platforms, including in the sharing economy, and of online intermediaries.
+Online platforms play a key role in innovation and growth in the Digital Single Market. They have revolutionised access to information and have
+connected buyers and sellers in a better and more efficient way. The growing importance of the digital economy linked with the diversity and
+fast changing nature of platform ecosystems also raise new policy and regulatory challenges.
+A number of globally competitive platforms originated in Europe, for example Skyscanner and BlaBlaCar. However, on the whole, the EU
+currently represents only 4% of the total market capitalisation of the largest online platforms: the vast majority of platforms originate in the US
+and Asia.
+Creating the right framework conditions and the right environment is essential to retain, grow and foster the emergence of new online platforms
+in Europe.
+CONTENT: based on the results of a wide-ranging public consultation, the Commission Communication: (i) outlines the key issues identified in
+the assessment of online platforms; (ii) presents the Commissions position on both the innovation opportunities and the regulatory challenges
+presented by online platforms, and sets out its approach to supporting their further development in Europe.
+This communication underlines the need to adopt policy and regulatory approaches that respond directly to the challenges, and which are
+flexible and future-proof. Where appropriate, self-regulation and co-regulation can often achieve better outcomes for enabling the development
+of strong platform ecosystems in Europe and can complement or reinforce the existing legislation that already governs certain activities of
+online platforms.
+As a general rule, when elaborating responses to issues related to online platforms, the Commission will take the following principles into
+account:
+1) A level playing field for comparable digital services: many online platforms have challenged conventional business models. Yet these new
+services are not subject to the same rules as traditional telecommunications services.
+As a general principle, comparable digital services should be subject to the same or similar rules, duly considering opportunities for reducing
+the scope and extent of existing regulation. To achieve a level playing field, there may be a need to simplify, modernise and lighten existing
+
+regulation, but avoid imposing a disproportionate burden on new as well as traditional business models.
+The Commission will apply these principles to the current reviews of the EU telecoms rules and as part of the review of the ePrivacy Directive
+in 2016, for example when it reviews rules relating to confidentiality regarding OTT online communications services.
+(2) Responsible behaviour of online platforms: compared with 2010, children aged 11 to 16 are now up to 20% more likely to be exposed to
+hate messages. Children are also more easily exposed to adult material online, often with unrestricted access. As of July 2015, more than 400
+hours of video content was uploaded to YouTube every minute. Rights holders across several content sectors claimed that their content is
+used by some online platforms without authorisation.
+The dialogue with IT companies towards a code of conduct on illegal hate speech online, the EU Internet Forum on terrorism content and the
+CEO Coalition to make the internet a better place for children are important examples of multi-stakeholder engagement processes aimed at
+finding common solutions to voluntarily detect and fight illegal or harmful material online.
+The Commission will maintain the existing intermediary liability regime. It intends to:
+suggest, in its proposal for an updated Audio-visual Media Services Directive, that video sharing platforms put in place measures to
+protect minors from harmful content and to protect everyone from incitement to hatred;
+achieve, in the next copyright package, a fairer allocation of value generated by the online distribution of copyright protected content;
+encourage coordinated EU-wide self regulatory efforts by online platforms;
+explore the need for guidance on the liability of online platforms when putting in place voluntary, good-faith measures to fight illegal
+content online;
+review the need for formal notice-and-action procedures.
+3) Confidence, transparency and fairness: a 2016 Eurobarometer survey on online platforms showed that 72% of responding consumers were
+concerned about the data collected about them or their activities. Over 75% of respondents among the general public consider that more
+transparency is needed, in particular on how platform remuneration influences the listing of search engine results, on identification of the
+actual supplier of services or products, and on possible misleading practices including fake reviews.
+Commission action will focus on:
+a legislative proposal revising the Regulation on Consumer Protection Cooperation, to facilitate more efficient enforcement of EU
+consumer law in cross-border situations;
+the review of the guidance on the Unfair Commercial Practices Directive, an update of existing consumer protection rules in relation to
+platforms, and monitoring the implementation of the principles for comparison tools ;
+encouraging online platforms to recognise other electronic identification (eID) means that offer the same reassurance as their own.
+4) Safeguarding a fair and innovation-friendly business environment: the Commission will carry out a targeted fact-finding exercise on B2B
+practices in the online platforms environment, e.g. (voluntary) dispute resolution mechanisms, transparency and better information measures
+or guidance. In particular, the Commission will engage closely with stakeholders and public authorities. By spring 2017, the Commission will
+determine whether additional EU action is needed.
+5) Keeping markets open and non-discriminatory to foster a data-driven economy: as part of the free flow of data initiative scheduled for the
+end of 2016, the Commission will consider options for effective approaches, including technical standards, to facilitate switching and portability
+of data among different online platform and cloud computing services, both for business and private users.
+The Commission considers it important to ensure that future developments of digital technologies remain open.
+
+2016/2276(INI) - 31/05/2017 Committee report tabled for plenary, single reading
+The Committee on Industry, Research and Energy and the Committee on the Internal Market and Consumer Protection adopted an
+own-initiative report by Henna VIRKKUNEN (EPP, FI) and Philippe JUVIN (EPP, FR) on online platforms and the digital single market.
+The report has been adopted pursuant to Rule 55 of the Rules of Procedure of the European Parliament (Joint committee meetings).
+Members noted that the evolving development and use of internet platforms for a wide set of activities, including commercial activities and
+sharing goods and services, have changed the ways in which users and companies interact with content providers, traders and other
+individuals offering goods and services.
+However, online platforms present new policy and regulatory challenges.
+While welcoming the different initiatives already proposed under the Digital Single Market Strategy for Europe, Members stressed the
+importance of coordination and consistency between these initiatives. Although many EU policies also apply to online platforms, in some cases
+the legislation is not enforced properly or is interpreted in a different manner in the Member States. In this respect, Members called for an
+effective and attractive regulatory environment for the development of online and digital business in Europe.
+Definition of platforms: the report stated that one single EU definition or one size fits all approach would not help the EU succeed in the
+platform economy due to factors such as the great variety of types of existing online platforms and their areas of activity, as well as the
+fast-changing environment of the digital world.
+Members are aware of the importance of avoiding the fragmentation of the EU internal market which could occur through a proliferation of
+regional or national rules and definitions, as well as of the need to provide certainty and a level playing field for both businesses and
+consumers.
+Therefore, they called for online platforms to be distinguished and defined in relevant sector-specific legislation at EU level according to their
+characteristics, classifications and principles and following a problem-driven approach.
+The report welcomed the Commission's ongoing work on online platforms, including consultations of stakeholders and carrying out an impact
+assessment. It called on it to propose, if necessary, regulatory or other measures based on this in-depth analysis.
+
+Members considered that a clear difference should be made between B2C and B2B platforms, in light of the emerging B2B online platforms
+which are key to the development of the industrial internet, such as cloud-based services or data-sharing platforms enabling communication
+between internet of things (IoT) products. The Commission should address the barriers in the single market that are hindering the growth of
+such platforms.
+Fair competition: the report stressed the importance of fair and effective competition between online platforms in order to promote consumer
+choice and avoid the creation of monopolies or dominant positions that distort markets. There is a need for net neutrality and fair and
+non-discriminatory access to online platforms as a prerequisite for innovation and a truly competitive market. The Commission is urged to
+streamline the funding schemes for related initiatives facilitating the digitisation process.
+Clarifying the liability of intermediaries: the report noted that the current EU intermediary limited liability regime is one of the issues raised by
+certain stakeholders and that it should be further clarified. Guidance is needed from the Commission on the implementation of the intermediary
+liability framework in order to allow online platforms to comply with their responsibilities and the rules on liability, enhance legal certainty, and
+increase user confidence.
+The Commission is called on to develop further steps to that effect, recalling that platforms not playing a neutral role as defined in the
+e-commerce Directive cannot claim liability exemption.
+Members urged online platforms to strengthen measures to tackle illegal and harmful content online and welcomed the Commission's intention
+to propose measures for video-sharing platforms in order to protect minors and for taking down content related to hate speech.
+They considered that the liability rules for online platforms should allow the tackling of issues related to illegal content and goods in an efficient
+manner, for instance by applying due diligence while maintaining a balanced and innovation-friendly approach.
+They also stressed the importance of taking action against the dissemination of fake news and called on the online platforms to provide users
+with tools to denounce fake news in such a way that other users can be informed that the veracity of the content has been contested.
+The Commission is called on to analyse in depth the current situation and legal framework with regard to fake news, and to verify the
+possibility of legislative intervention to limit the dissemination and spreading of fake content.
+Moreover, Members stressed the need for online platforms to combat illegal goods and content and unfair practices (e.g. the reselling of
+entertainment tickets at extortionate prices), through regulatory measures complemented by effective self-regulatory measures (e.g. through
+clear terms of use and appropriate mechanisms to identify repeat offenders, or by setting up specialised content moderation teams and tracing
+dangerous products) or hybrid measures.
+As regards data ownership, the report noted that compliance with the General Data Protection Regulation (GDPR) and the Network and
+Information Security (NIS) Directive is essential. There is a need to inform users of the exact nature of the data collected and the ways it will be
+used.
+Informing and empowering citizens and consumers: the report underlined that the internet of the future cannot succeed without users' trust in
+online platforms. Online platforms are encouraged to offer customers clear, comprehensive and fair terms and conditions and ensure
+user-friendly ways of presenting their terms and conditions, processing of data, legal and commercial guarantees and possible costs.
+Lastly, Members called for an assessment of current legislation and self-regulation mechanisms in order to determine whether they provide
+adequate protection to users, consumers and businesses, against the backdrop of an increasing number of complaints and the investigations
+opened by the Commission into several platforms.
+
+2016/2276(INI) - 15/06/2017 Text adopted by Parliament, single reading
+The European Parliament adopted by 393 votes to 146 with 74 abstentions a resolution on online platforms and the digital single market.
+Members considered that e-platforms are beneficial to the digital economy and to today's society because they offer consumers a wider range
+of choices and create new markets. However, they posed new policy and regulatory challenges.
+Although many EU policies also apply to online platforms, in some cases the legislation is not correctly applied or interpreted differently across
+the Member States. In this regard, Members called for an effective and attractive regulatory environment to help develop digital and online
+activities in Europe.
+Definition of platforms: Parliament agreed that one single EU definition or one size fits all approach would not help the EU succeed in the
+platform economy due to the wide variety of platform types and their areas of activity, as well as the rapidly changing environment of the digital
+world.
+However, MEPs are aware of the importance of avoiding the fragmentation of the EU's internal market as well as of the need to provide
+certainty and a level playing field for both businesses and consumers.
+They therefore suggested that e-platforms should be distinguished and defined in the relevant sectoral legislation at EU level according to their
+characteristics, classifications and principles and following a problem-driven approach. They called on the Commission to propose, where
+appropriate, regulatory or other measures based on a thorough impact assessment.
+Parliament believed that a clear distinction should be drawn between B2C and B2B platforms
+in light of the emerging B2B online platforms which are key to the development of the industrial internet, such as cloud-based services or
+data-sharing platforms enabling communication between internet of things (IoT) products. The Commission should address barriers in the
+single market that hinder the growth of these platforms.
+A level playing field: the resolution stressed the importance of fair and effective competition between online platforms in order to promote
+consumer choice and to avoid the creation of monopolies or dominant positions that distort markets. Network neutrality and equitable and
+non-discriminatory access to online platforms is a prerequisite for innovation and a truly competitive market.
+Members urge the Commission to prioritise actions that allow European start-ups and online platforms to emerge and scale up.
+
+Clarifying intermediaries' liability: Parliament noted that the current limited liability regime for intermediaries was one of the issues raised by
+some stakeholders and needed to be clarified. It stressed the following points:
+the Commission should provide guidance to enable online platforms to comply with their responsibilities, improve legal certainty and
+increase user confidence;
+platforms should strengthen measures to combat illegal and harmful online content: Members welcomed the Commission's intention to
+propose measures for video sharing platforms to protect and remove content related to hate speech;
+liability rules for on-line platforms should address issues related to illegal content and goods: the Commission should define and clarify
+notification and withdrawal procedures to combat such content;
+platforms should provide users with tools to report false news so that other users are informed: the Commission should analyse the
+possibility of legislative intervention to limit the spread of false content.
+In addition, Members stressed the need to:
+set up online platforms to combat illegal goods and content and unfair practices (for example, resale of entertainment tickets at
+exorbitant prices) through regulatory measures supplemented by regulatory measures, (e.g. to identify repeat offenders, or by setting
+up specialised content moderation teams and tracing dangerous products) or hybrid measures;
+ensure compliance with the General Data Protection Regulation and the Directive on Network and Information Security, underlining
+the need to inform users of the exact nature of the data collected and the ways they will be used.
+Informing and empowering citizens and consumers: the resolution underlined that the internet of the future cannot succeed without users trust
+in online platforms. Online platforms should offer customers clear, comprehensive and fair terms and conditions and ensure user-friendly ways
+of presenting their terms and conditions, processing of data, legal and commercial guarantees and possible costs, while avoiding complex
+terminology.
+Lastly, Members called for an assessment of current legislation and self-regulatory mechanisms to determine whether they provide adequate
+protection for users, consumers and businesses in the context of a growing number of complaints and investigations initiated by the
+Commission concerning several platforms.
+
+

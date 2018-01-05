@@ -1,0 +1,406 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Directive
+
+2016/0363(COD)
+
+Procedure completed, awaiting publication in Official Journal
+25/10/2017: Decision to enter into interinstitutional negotiations confirmed
+by plenary (Rule 69c)
+
+Bank recovery and resolution: ranking of unsecured debt instruments in
+insolvency hierarchy
+Amending Directive 2014/59/EU 2012/0150(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.04 Banks and credit
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+Legislative priorities
+Joint Declaration 2017
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+24/11/2016
+
+HÖKMARK Gunnar
+Shadow rapporteur
+
+SILVA PEREIRA Pedro
+
+KAMALL Syed
+
+CORNILLET Thierry
+
+SCHIRDEWAN Martin
+
+URTASUN Ernest
+
+VALLI Marco
+ZANNI Marco
+Committee for opinion
+BUDG
+
+JURI
+
+Budgets
+
+Legal Affairs
+
+Council of the European Union
+Commission DG
+European Commission
+Financial Stability, Financial Services and Capital
+Markets Union
+
+European Economic and
+Social Committee
+
+Key events
+
+Rapporteur for opinion
+The committee decided not to
+give an opinion.
+The committee decided not to
+give an opinion.
+
+Commissioner
+DOMBROVSKIS Valdis
+
+Appointed
+
+23/11/2016
+
+Legislative proposal published
+
+COM(2016)0853
+
+Summary
+
+16/01/2017
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+10/10/2017
+
+Vote in committee, 1st reading/single
+reading
+
+10/10/2017
+
+Committee decision to open
+interinstitutional negotiations with report
+adopted in committee
+
+13/10/2017
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0302/2017
+
+Summary
+
+21/11/2017
+
+Approval in committee of the text agreed
+at 1st reading interinstitutional
+negotiations
+
+PE613.527 GEDA/A/(2017)010686
+
+30/11/2017
+
+Debate in Parliament
+
+30/11/2017
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/12/2017
+
+Act adopted by Council after Parliament's
+1st reading
+
+12/12/2017
+
+Final act signed
+
+12/12/2017
+
+End of procedure in Parliament
+
+Summary
+
+T8-0470/2017
+
+Technical information
+Procedure reference
+
+2016/0363(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Directive
+Amending Directive 2014/59/EU 2012/0150(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed, awaiting publication in Official Journal
+
+Committee dossier
+
+ECON/8/08557
+
+Documentation gateway
+Legislative proposal
+
+COM(2016)0853
+
+23/11/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0377
+
+23/11/2016
+
+EC
+
+Document attached to the procedure
+
+SWD(2016)0378
+
+23/11/2016
+
+EC
+
+CON/2017/0006
+OJ C 132 26.04.2017, p. 0001
+
+08/03/2017
+
+ECB
+
+Committee draft report
+
+PE606.264
+
+04/07/2017
+
+EP
+
+Amendments tabled in committee
+
+PE609.639
+
+08/09/2017
+
+EP
+
+A8-0302/2017
+
+13/10/2017
+
+EP
+
+European Central Bank: opinion, guideline, report
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+Summary
+
+Summary
+
+Summary
+
+Coreper letter confirming interinstitutional
+agreement
+Text adopted by Parliament, 1st reading/single
+reading
+
+GEDA/A/(2017)010686
+
+15/11/2017
+
+CSL
+
+T8-0470/2017
+
+30/11/2017
+
+EP
+
+Summary
+
+2016/0363(COD) - 23/11/2016 Legislative proposal
+PURPOSE: to harmonise the priority ranking of unsecured debt instruments in insolvency hierarchy.
+PROPOSED ACT: Directive of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with Council.
+BACKGROUND: following the adoption of the total loss absorbing capacity (TLAC) standard by the G20, and in order to facilitate a more
+efficient path towards compliance with TLAC, a number of EU Member States have amended (or are in the process of amending) the ranking
+of creditor claims under their national insolvency law, creating significant divergences. Such discrepancies have the potential to amplify
+uncertainty for debt issuers, investors and resolution authorities and to make the application of the bail-in tool in cross-border resolution cases
+legally more complex and less transparent. At the same time, the buyer side would experience information asymmetry among different EU
+jurisdictions, rendering the process of pricing the risk more cumbersome. The resulting uncertainty could also trigger competitive distortions
+because unsecured debt holders could be treated differently in different Member States and the Minimum Requirement for own funds and
+Eligible Liabilities (MREL) compliance costs for banks may be different according to the location of the issuance.
+In its Communication of 24 November 2015, the Commission recognised the need for further risk reduction and committed bringing forward a
+legislative proposal that would build on internationally agreed standards.
+IMPACT ASSESSMENT: several policy alternatives were considered. The impact assessment concludes that the creation of a specific
+'unpreferred' senior class for unsecured debt is the most cost effective way to comply with the requirement of subordination of the TLAC
+standard for G-SIIs and with the case-by-case request of resolution authorities to request compliance with the MREL through subordinated
+debt.
+CONTENT: the proposed amendments to Directive 2014/59/EU (the Bank Recovery and Resolution Directive or BRRD) propose a
+harmonised national insolvency ranking of unsecured debt instruments to facilitate banks' issuance of such loss absorbing debt instruments.
+This would enable banks to issue debt in a new statutory category of unsecured debt available in all EU Member States which would rank just
+below the most senior debt and other senior liabilities for the purposes of resolution, while still being part of the senior unsecured debt category
+(only as an un-preferred tier senior debt). Clear, harmonised rules on the position of bond holders in the bank creditors' hierarchy in insolvency
+and resolution could facilitate the way bail-in is applied, by providing greater legal certainty and reducing the risk of legal challenges.
+The EU harmonised approach will not affect the existing stock of bank debt and will apply to any new issuance of bank debt in the relevant
+category following the date of application of this amendment as provided in the proposal.
+These proposed amendments to Directive 2014/59/EU (the Bank Recovery and Resolution Directive) are part of a legislative package that
+includes also amendments to Regulation (EU) No 575/2013 (the Capital Requirements Regulation), to Directive 2013/36/EU (the Capital
+Requirements Directive) and to Regulation (EU) 806/2014 (the Single Resolution Mechanism Regulation).
+
+2016/0363(COD) - 08/03/2017 European Central Bank: opinion, guideline, report
+Opinion of the European Central Bank (ECB) on a proposal for a directive of the European Parliament and of the Council on amending
+Directive 2014/59/EU as regards the ranking of unsecured debt instruments in insolvency hierarchy.
+The European Central Bank received a request from the Council (on 3 January 2017) and the European Parliament (on 17 February 2017)
+respectively for an opinion on the abovementioned proposal.
+The ECB made the following observations:
+The ECB welcomed the proposed directive, which sets out amendments to Directive 2014/59/EU of the European Parliament and of the
+Council relating to the insolvency ranking of holders of debt instruments issued by Union credit institutions, and certain other institutions.
+The proposed amendments aim to enhance the implementation of the bail-in tool provided for under Directive 2014/59/EU and to facilitate the
+application of the minimum requirement for own funds and eligible liabilities (MREL) and the forthcoming total loss-absorbing capacity (TLAC)
+requirement concerning the loss-absorption and recapitalisation capacity of credit institutions and investment firms.
+As such, the amendments provide an additional means for credit institutions and certain other institutions to comply with the forthcoming TLAC
+and MREL requirements and improve their resolvability, without constraining their respective funding strategies. This reform should be adopted
+as soon as possible to assist credit institutions in their preparations for meeting the new requirements, especially where such institutions are
+faced with a shortfall in building up the necessary levels of loss-absorbing liabilities (where subordination is required), and in light of potential
+constraints on the capacity of markets to rapidly absorb large volumes of new issuances
+The ECB considered that this reform should be adopted as soon as possible to assist credit institutions in their preparations for meeting the
+new requirements. It considered that the proposed directive only provides for partial harmonisation and that additional reforms would be useful
+to promote further harmonisation in the hierarchy of creditor claims in bank insolvency.
+The ECB made specific observations on:
+
+the proposal to create a new asset class of non-preferred senior debt instruments with a lower rank than ordinary senior unsecured
+debt instruments in insolvency: the ECB is of the opinion that credit institutions and certain other institutions should be allowed to issue
+non-preferred senior debt instruments with initial maturities that are either more than or less than one year;
+the need for clarity regarding the envisaged transitional arrangements applicable to senior unsecured debt instruments that are
+outstanding at the point in time when the new regime takes effect, including any grandfathering regime required;
+the merit in the introduction of a general depositor preference, based on a tiered approach , in the Union. This would be
+complementary to the proposals set out in the proposed directive: the ECB suggested establishing a general depositor preference,
+based on a tiered approach, across the Union would promote further harmonisation in the Union as regards the hierarchy of creditor
+claims in bank insolvency;
+the need to enhance the harmonisation by requiring that national insolvency regimes be aligned in such a way that Tier 2 instruments
+are treated differently and rank below other subordinated liabilities.
+
+2016/0363(COD) - 13/10/2017 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Gunnar HÖKMARK (EPP, SE) on the proposal for a directive of the
+European Parliament and of the Council on amending Directive 2014/59/EU of the European Parliament and of the Council as regards the
+ranking of unsecured debt instruments in insolvency hierarchy.
+As a reminder, the proposed amendments to Directive 2014/59/EU is part of the efforts to implement in the European Union the standard the
+Total Absorption Loss Capacity (TLAC) standard adopted by the G20.
+In order to enhance the operational execution and robustness of bail-in powers and to avoid legal uncertainty, the TLAC standard requires that
+liabilities may be eligible for TLAC only if they are subordinated to other liabilities, i.e. if they absorb losses in insolvency or in resolution prior to
+other preferred liabilities that are explicitly excluded from TLAC eligibility, such as derivatives, covered deposits or tax liabilities.
+The TLAC standard provides, therefore, for a subordination requirement subject to certain exemptions, but it is not prescriptive on the way to
+achieve it.
+The committee recommended that European Parliaments position adopted at first reading under the ordinary legislative procedure, should
+amend the Commission proposal as follows.
+Objective of the Directive: it is specified that the amending Directive shall lay down harmonised rules for the insolvency ranking of unsecured
+debt instruments for the purposes of the Union recovery and resolution framework especially with regard to ensuring a credible bail-in regime.
+The objective of the TLAC standard is to ensure that global systemically important banks (G-SIBs), referred to as global systemically important
+institutions (G-SIIs) in the Union framework, have the loss-absorbing and recapitalisation capacity necessary to help ensure that, in and
+immediately following a resolution, critical functions can be continued without public finances or financial stability being put at risk.
+To ensure that the new 'non-preferred' senior class of debt instruments meet the eligibility criteria as described in the TLAC standard, Member
+States shall:
+ensure that those debt instruments are not derivatives and contain no embedded derivatives;
+ensure that the relevant contractual documentation related to their issuance and, where applicable, the prospectus, explicitly refers to
+their lower ranking under normal insolvency proceedings.
+To enhance legal certainty for investors, Member States shall ensure that ordinary senior debt instruments and other unsecured ordinary
+senior liabilities that are not debt instruments have a higher priority ranking in their national insolvency laws than the new 'non-preferred' senior
+class of debt.
+Review: at the latest three years after the date of entry into force of the Directive, the Commission shall assess whether it is necessary to
+make further amendments with regard to the ranking of deposits in insolvency. The Commission shall submit a report thereon to the European
+Parliament and to the Council
+Transposition: Member States shall comply with the Directive no later than one year after the date of entry into force.
+
+2016/0363(COD) - 30/11/2017 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 523 votes to 113, with 8 abstentions, a legislative resolution on the proposal for a directive of the
+European Parliament and of the Council on amending Directive 2014/59/EU of the European Parliament and of the Council as regards the
+ranking of unsecured debt instruments in insolvency hierarchy.
+As a reminder, the proposed amendments to Directive 2014/59/EU is part of the efforts to implement in the European Union the standard the
+Total Absorption Loss Capacity (TLAC) standard adopted by the G20.
+In order to enhance the operational execution and robustness of bail-in powers and to avoid legal uncertainty, the TLAC standard requires that
+liabilities may be eligible for TLAC only if they are subordinated to other liabilities, i.e. if they absorb losses in insolvency or in resolution prior to
+other preferred liabilities that are explicitly excluded from TLAC eligibility, such as derivatives, covered deposits or tax liabilities.
+The TLAC standard provides, therefore, for a subordination requirement subject to certain exemptions, but it is not prescriptive on the way to
+achieve it.
+The proposed Directive require Member States to create a new class of non-preferred senior debt that should rank in insolvency above own
+funds instruments and subordinated liabilities that do not qualify as own funds instruments, but below other senior liabilities.
+The European Parliaments position adopted at first reading under the ordinary legislative procedure amended the Commission proposal as
+follows.
+
+Objective of the Directive: it is specified that the amending Directive shall lay down harmonised rules for the insolvency ranking of unsecured
+debt instruments for the purposes of the Union recovery and resolution framework, in particular to improve the effectiveness of the bail-in
+regime.
+The amended Directive introduces a new provision specifying the priority ranking in insolvency hierarchy.
+New class of non-preferred senior debt securities: to ensure that it fulfils the eligibility criteria described in the TLAC standard, it is specified
+that Member States shall ensure:
+that those debt instruments have an original contractual maturity of at least one year, do not contain embedded derivatives and are not
+derivatives themselves;
+that the relevant contractual documentation related to their issuance and, where applicable, the prospectus explicitly refer to their
+lower ranking under normal insolvency proceedings.
+In order to enhance legal certainty for investors, Member States shall ensure that ordinary senior debt instruments and other unsecured
+ordinary senior liabilities that are not debt instruments have a higher priority ranking in their national insolvency laws than the new
+'non-preferred' senior class of debt.
+Maintaining eligibility: in order to ensure legal certainty for TLAC-regulated markets and entities, the amended text introduces appropriate
+grandfathering provisions for the eligibility of liabilities issued before the revised eligibility criteria come into effect.
+Review: at the latest three years after the date of entry into force of the Directive, the Commission review the application of Directive
+2014/59/EU in particular as regards the need for any further amendments with regard to the ranking of deposits in insolvency.
+Transposition and entry into force: Member States shall comply with the Directive no later than 12 months from the date of entry into force of
+this amending Directive or 1 January 2019, whichever is the earlier.
+In order to ensure legal certainty for markets and individual institutions and to facilitate the effective application of the bail-in tool, this Directive
+should enter into force on the day following that of its publication.
+
+

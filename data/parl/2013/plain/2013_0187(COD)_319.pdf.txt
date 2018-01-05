@@ -1,0 +1,320 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2013/0187(COD)
+
+Awaiting Council 1st reading position / budgetary conciliation
+convocation
+
+Aerodromes, air traffic management and air navigation services: simplifying
+and clarifying the legal framework
+Amending Regulation (EC) No 216/2008 2005/0228(COD)
+Subject
+3.20.01 Air transport and air freight
+3.20.01.01 Air safety
+3.20.15 Transport agreements and cooperation
+8.40.08 Agencies and bodies of the EU
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Transport and Tourism
+
+Rapporteur
+
+Appointed
+
+S&D SASSOLI David-Maria
+
+10/07/2013
+
+Shadow rapporteur
+PPE MARINESCU
+Marian-Jean
+ALDE MEISSNER Gesine
+Verts/ALE LICHTENBERGER
+Eva
+ECR FOSTER Jacqueline
+GUE/NGL KOHLÍČEK Jaromír
+
+Council of the European Union
+Commission DG
+European Commission
+Mobility and Transport
+
+Commissioner
+KALLAS Siim
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+11/06/2013
+
+Legislative proposal published
+
+01/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+30/01/2014
+
+Vote in committee, 1st reading/single
+reading
+
+10/02/2014
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+11/03/2014
+
+Debate in Parliament
+
+12/03/2014
+
+Results of vote in Parliament
+
+12/03/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+COM(2013)0409
+
+Summary
+
+A7-0098/2014
+
+Summary
+
+T7-0221/2014
+
+Summary
+
+Technical information
+Procedure reference
+
+2013/0187(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EC) No 216/2008 2005/0228(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 100-p2
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Awaiting Council 1st reading position / budgetary conciliation convocation
+
+Committee dossier
+
+TRAN/7/13006
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0409
+
+11/06/2013
+
+EC
+
+Summary
+
+Committee draft report
+
+PE521.780
+
+04/11/2013
+
+EP
+
+Amendments tabled in committee
+
+PE522.854
+
+06/12/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0098/2014
+
+10/02/2014
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T7-0221/2014
+
+12/03/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in plenary
+
+SP(2014)455
+
+10/06/2014
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+2013/0187(COD) - 11/06/2013 Legislative proposal
+PURPOSE: to harmonise the content of Regulation (EC) No 216/2008 of the European Parliament and of the Council on common rules in the
+area of civil aviation and establishing a European Agency for Aviation Safety with that of four regulations in regard to the Single European Sky.
+PROPOSED ACT: Regulation of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: the development of the European Aviation Safety Agency (EASA) framework, set out in particular in Regulation EC No
+216/2008, is intertwined with the development of the Single European Sky (SES) initiative the recast of which is currently the subject of a
+proposal.
+In 2009, Regulation (EC) No 1108/2009 extended the competences of EASA to include air traffic management and air navigation services
+(ATM/ANS). Whilst this also implied the incorporation of various ATM/ANS technical regulation elements into the scope of EASA, the
+corresponding changes to the four SES Regulations were not completed simultaneously.
+The legislators addressed this overlap in the Regulations by inserting a new Article 65a into Regulation (EC) No 216/2008. This article requires
+the Commission to propose amendments to the four SES Regulations to take into account the requirements of Regulation (EC) No 216/2008.
+Secondly, there is a more general mismatch between the approach used for all other sectors of aviation (airworthiness, crew licensing, air
+operations etc.) in the EASA framework and air traffic management (ATM/ANS).
+In the area of ATM/ANS (as far as the SES is concerned), the technical regulations stem from various sources. The Commission recommends
+introducing a harmonised approach towards this important regulatory area, so that all consultations are conducted with the same
+
+thoroughness, all rules fit in the same structure and serve the same objectives, making life easier for those responsible for applying the rules
+and finally to ensure that the impending wave of technological innovations stemming from the SESAR initiative can be implemented in a
+co-ordinated manner in both airborne and ground equipage and procedures.
+IMPACT ASSESSMENT: the Commission undertook an impact assessment to support legislative proposals for improving the efficiency, safety
+and competitiveness of the Single European Sky. The amendments to Regulation (EC) No 216/2008 in this package intend to address issues
+that were left over from a previous amendment through Regulation (EC) No 1108/2009, notably Article 65a. Those amendments were covered
+by the 2008 impact assessment leading up to the approval of Regulation (EC) No 1108/2009.
+LEGAL BASIS: Article 100(2) of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: this proposed Regulation aims to fulfil the requirement of article 65a, by deleting the overlaps between the SES and EASA
+Regulations and simplifying and clarifying the border line between EASA and SES legal frameworks.
+The amendment also supports the political objective of ensuring clarity of tasks between the Commission, EASA and the Eurocontrol
+organisation: (i) the Commission would focus on economic and technical regulation; (ii) EASA would act as its agent on technical regulation
+drafting and oversight; and (iii) Eurocontrol would focus on operational tasks, in particular built around the Network Manager concept 5
+As well as deleting SES provisions as part of the SES recast, some minor adaptations are also required to Regulation (EC) No 216/2008,
+because previously the text of this Regulation relied on the terminology of some SES provisions, in particular in the area of interoperability.
+Hence the same terminology needs to be introduced in Regulation (EC) No 216/2008, now that it is being repealed from the four SES
+Regulations.
+BUDGETARY IMPLICATION: the proposal has no budgetary implication.
+DELEGATED ACTS: the proposal contains provisions empowering the Commission to adopt delegated acts in accordance with Article 290 of
+the Treaty on the Functioning of the European Union.
+
+2013/0187(COD) - 10/02/2014 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Transport and Tourism adopted the report by David-Maria SASSOLI (EPP, IT) on the proposal for a Regulation of the
+European Parliament and Council modifying Regulation (EC) No 216/2008 on aerodromes, air traffic management and air navigation services.
+The parliamentary committee recommended that the position of the European Parliament adopted at first reading under the ordinary legislative
+procedure modify the Commission proposal as follows.
+Role of the European Aviation Safety Agency (EASA): Members underlined that safety should remain the priority mission of the Agency. The
+Regulation should also promote sustainable development, performance, interoperability, climate protection, environmental friendliness and
+energy saving.
+They also proposed reinforcing the international role of the Agency: this last should promote Union aviation standards and rules at the
+international level and the movement worldwide of the Union's aeronautical products, professionals and services with a view to facilitating their
+access to new growing markets.
+Delegation of powers: the decision to suspend the delegation of the appointing authority powers to the Executive Director and the
+sub-delegation of these powers must be taken by an absolute majority of the Management Board.
+Executive Board: the Members wished to ensure openness and transparency for every Member State when decisions are taken at the EASA
+Management Board.
+The Executive Board shall be composed of the Chairperson of the Management Board, one representative of the Commission to the
+Management Board, and five other members appointed by the Management Board for a term of two years, among its members with the right
+to vote. The term of the five appointees of the Management Board may be renewed on an unlimited number of occasions.
+The term of office of the Chairperson of the Executive Board shall be the same as his/ her term of office as the Chairperson of the
+Management Board. The term of office of the representative of the Commission shall be the same as his/her term of office on the Management
+Board.
+Executive Director: before appointment, the candidate selected by the Management Boardshall make a statement before the competent
+committee of the European Parliament and answer questions put by its members.
+Mid-term, the Commission shall draw up a report evaluating the Executive Director's performance and the Agency's future tasks and
+challenges. This evaluation report shall be presented to the competent committee of the European Parliament.
+The Executive Director shall be assisted by one Deputy Executive.
+Revenues of the Agency: these may be provided for by grants. These grants constitute an indispensable part of the Agency's budget, allowing
+it to perform various aviation safety related projects, mainly with third countries.
+Conflicts of interest: the Members introduced an amendment proposing the legal ground for the Agency to implement a complete set of rules
+for managing and avoiding conflicts of interest. The governing bodies of the Agency shall be responsible of developing and implementing this
+policy taking into consideration the particularities of the Agency to get the best technical knowledge as well as sensitive, classified and
+commercial information that might be involved.
+Finally, the Agency must maintain a real flexibility regarding the management of staff dedicated to activities strongly linked to market demands.
+
+2013/0187(COD) - 12/03/2014 Text adopted by Parliament, 1st reading/single reading
+
+The European Parliament adopted by 614 votes to 56 with 8 abstentions, a legislative resolution on the proposal for a Regulation of the
+European Parliament and Council modifying Regulation (EC) No 216/2008 on aerodromes, air traffic management and air navigation services.
+Parliaments position in first reading following the ordinary legislative procedure amended the Commission proposal as follows:
+Scope: the regulation should promote safety, sustainable development, performance, interoperability, climate protection, environmental
+friendliness and energy saving, in a manner proportionate to the nature of each particular activity.
+Role of the European Aviation Safety Agency (EASA): in order to ensure the proper functioning and development of civil aviation, and
+particularly safety, the EASA must promote Union aviation standards and rules at international level by establishing the appropriate
+cooperation with third countries and international organisations, and thereby promote the movement of the Union's aeronautical products,
+professionals and services with a view to facilitating their access to new growing markets worldwide.
+The EASA must also perform the accreditation of the national aviation authorities.
+Pilots: when adopting delegated acts, the Commission shall take specific care that they reflect the state of the art, including best practices and
+scientific and technical progress in the field of pilot training, an enhanced culture of safety and fatigue management systems.
+Delegation of powers: the decision to suspend the delegation of the appointing authority powers to the Executive Director and the
+sub-delegation of these powers must be taken by an absolute majority of the Management Board.
+Executive Board: Parliament wished to ensure openness and transparency for every Member State when decisions are taken at the EASA
+Management Board.
+The Executive Board shall be composed of the Chairperson of the Management Board, one representative of the Commission to the
+Management Board, and five other members appointed by the Management Board for a term of two years, among its members with the right
+to vote. The term of the five appointees of the Management Board may be renewed on an unlimited number of occasions.
+The term of office of the Chairperson of the Executive Board shall be the same as his/ her term of office as the Chairperson of the
+Management Board. The term of office of the representative of the Commission shall be the same as his/her term of office on the Management
+Board.
+Executive Director: before appointment, the candidate selected by the Management Board shall make a statement before the competent
+committee of the European Parliament and answer questions put by its members.
+Mid-term, the Commission shall draw up a report evaluating the Executive Director's performance and the Agency's future tasks and
+challenges. This evaluation report shall be presented to the competent committee of the European Parliament.
+The Executive Director shall be assisted by one Deputy Executive.
+Revenues of the Agency: these may be provided for by grants. These grants constitute an indispensable part of the Agency's budget, allowing
+it to perform various aviation safety related projects, mainly with third countries.
+Conflicts of interest: Parliament introduced an amendment proposing the legal ground for the Agency to implement a complete set of rules for
+managing and avoiding conflicts of interest. The Executive Director and officials seconded by Member States and the Commission on a
+temporary basis shall make a declaration of commitments and a declaration of interests indicating the absence of any direct or indirect
+interests, which might be considered prejudicial to their independence. Those declarations shall be made in writing on their entry into service
+and shall be renewed in the event of a change in their personal circumstances. The Management Board shall implement a policy to manage
+and avoid conflicts of interest.
+Lastly, the Agency must maintain a real flexibility regarding the management of staff dedicated to activities strongly linked to market demands.
+
+

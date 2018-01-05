@@ -1,0 +1,310 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Regulation
+
+2015/0295(COD)
+
+Procedure completed
+
+Prudential requirements for credit institutions and investment firms:
+exemptions for commodity dealers
+Amending Regulation (EU) No 575/2013 2011/0202(COD)
+Subject
+2.50.03 Securities and financial markets, stock exchange, CIUTS,
+investments
+2.50.04 Banks and credit
+2.50.05 Insurance, pension funds
+2.50.08 Financial services, financial reporting and auditing
+2.50.10 Financial supervision
+
+Key players
+European Parliament
+
+Committee responsible
+ECON
+
+Rapporteur
+
+Economic and Monetary Affairs
+
+Appointed
+21/01/2016
+
+LOONES Sander
+Shadow rapporteur
+
+PIETIKÄINEN Sirpa
+
+FERREIRA Elisa
+
+THEURER Michael
+
+MATIAS Marisa
+
+LAMBERTS Philippe
+KAPPEL Barbara
+
+Council of the European Union
+Commission DG
+European Commission
+
+Commissioner
+
+Internal Market, Industry, Entrepreneurship and SMEs BIEŃKOWSKA Elżbieta
+
+European Economic and
+Social Committee
+
+Key events
+16/12/2015
+
+Legislative proposal published
+
+18/01/2016
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+08/03/2016
+
+Vote in committee, 1st reading/single
+reading
+
+21/03/2016
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+11/05/2016
+
+Results of vote in Parliament
+
+COM(2015)0648
+
+Summary
+
+A8-0064/2016
+
+Summary
+
+11/05/2016
+
+Decision by Parliament, 1st
+reading/single reading
+
+30/05/2016
+
+Act adopted by Council after Parliament's
+1st reading
+
+08/06/2016
+
+Final act signed
+
+08/06/2016
+
+End of procedure in Parliament
+
+29/06/2016
+
+Final act published in Official Journal
+
+Summary
+
+T8-0214/2016
+
+Technical information
+Procedure reference
+
+2015/0295(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Regulation
+Amending Regulation (EU) No 575/2013 2011/0202(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 114
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+ECON/8/05356
+
+Documentation gateway
+Legislative proposal
+
+COM(2015)0648
+
+16/12/2015
+
+EC
+
+PE576.876
+
+11/02/2016
+
+EP
+
+CON/2016/0010
+OJ C 130 13.04.2016, p. 0001
+
+03/03/2016
+
+ECB
+
+Summary
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A8-0064/2016
+
+21/03/2016
+
+EP
+
+Summary
+
+Economic and Social Committee: opinion, report
+
+CES0642/2016
+
+27/04/2016
+
+ESC
+
+Text adopted by Parliament, 1st reading/single
+reading
+
+T8-0214/2016
+
+11/05/2016
+
+EP
+
+Committee draft report
+European Central Bank: opinion, guideline, report
+
+Summary
+
+Summary
+
+Final act
+Regulation 2016/1014
+OJ L 171 29.06.2016, p. 0153 Summary
+
+2015/0295(COD) - 16/12/2015 Legislative proposal
+PURPOSE: to extend the period during which commodity dealers are exempted from certain requirements laid down in Regulation (EU) nº
+575/2013 on capital requirements (the 'Capital Requirements Regulation' or 'CRR').
+PROPOSED ACT: Regulation of the European Parliament and of the council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+
+BACKGROUND: Articles 493(1) and 498(1) of Regulation (EU) nº 575/2013 (CRR) exempt commodity dealers from large exposures
+requirements and from own funds requirements respectively. Both exemptions expire on 31 December 2017. This 'sunset clause' was
+originally included in the CRR in order to allow time for regulators to determine a prudential regulation adapted to the risk profile of commodity
+dealers. To this end, the CRR mandates the Commission to prepare reports by the end of 2015. On the basis of those reports, the
+Commission may decide to submit proposals to amend the CRR.
+The prudential framework applicable to investment firms (including commodity dealers) laid down in the CRR and Directive 2013/36/EC (the
+Capital Requirements Directive) is currently under review. The results will determine the appropriate prudential treatment of commodity
+dealers. The investment firms review is a complex project. The finalisation of the review and the adoption of new legislation that may be
+required in light of that review will be concluded only after 31 December 2017.
+It is therefore highly improbable that any legislation that may result from this review can be prepared, adopted and applied before the current
+exemptions expire. This has implications for commodity dealers: if no specific prudential framework that may result from the investment firm
+review would be in place by then, they would be subject to the full CRR/CRD requirements starting from 1 January 2018. This could force them
+to significantly increase the amount of own funds that they need to have in order to continue their activities and could therefore increase the
+related costs of performing those activities.
+To prevent this situation arising, the Commission feels it opportune to extend the existing exemptions laid down in the CRR, while taking into
+account the amount of time that will be necessary to conclude the investment firms review and to prepare, adopt and apply any legislation that
+may result from that review.
+CONTENT: the proposed provisions aim to extend the exemptions laid down in the CRR for commodity dealers from the large exposures and
+own funds requirements and accordingly, amend Regulation 575/2013.
+These exemptions apply until 31 December 2020 or the date of entry into force of any amendments, whichever is the earlier.
+
+2015/0295(COD) - 03/03/2016 European Central Bank: opinion, guideline, report
+OPINION OF THE EUROPEAN CENTRAL BANK on a proposal for a regulation amending Regulation (EU) No 575/2013 as regards
+exemptions for commodity dealers.
+The ECB considered that while the large exposures and own funds requirements of Regulation (EU) No 575/2013 do not seem to be
+tailor-made for commodity dealers, a decision to extend the exemptions from these prudential requirements should take into consideration any
+potential systemic risks posed by commodity dealers. Such risks could stem from a number of sources.
+The ECB has so far not identified any concrete indications of systemic risk created by commodity dealers that would make it strictly necessary
+at this stage to remove the exemptions for requirements concerning large exposures and own funds that apply at present.
+Despite the considerable growth of the commodity derivatives markets over the past 15 years, there is no conclusive evidence, according to
+the ECB, that commodity derivatives trading has adverse effects on the wider financial system.
+However, a detailed impact analysis appears to be a necessary step in terms of taking the most appropriate decision regarding the removal or
+the temporary extension of the exemptions. In particular, the ECB stated that consideration should be given to level playing-field issues relative
+to credit institutions which trade in commodities.
+The ECB considered that the exemptions should indeed only be of temporary nature. The European Commission is expected to present a
+proposal for a comprehensive review of the prudential regulation of investment firms. The rationale for, and the objective of, a temporary
+extension of the exemptions should be confined to the avoidance of significant regulatory changes before such a comprehensive review, which
+should be carried out as soon as possible.
+
+2015/0295(COD) - 21/03/2016 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Economic and Monetary Affairs adopted the report by Sander LOONES (ECR, BE) on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 575/2013 as regards exemptions for commodity dealers.
+The committee recommended that the European Parliament adopt its position at first reading, taking over the Commission proposal.
+To recall, the proposed Regulation aims to extend the exemptions laid down in the CRR for commodity dealers from the large exposures and
+own funds requirements and accordingly, amend Regulation 575/2013.
+The prudential framework applicable to investment firms (including commodity dealers) laid down in the CRR and Directive 2013/36/EC (the
+Capital Requirements Directive) is currently under review.
+However, it is highly improbable that any legislation that may result from this review can be prepared, adopted and applied before the current
+exemptions expire (31 December 2017).
+This situation could force them to significantly increase the amount of own funds that they need to have in order to continue their activities and
+could therefore increase the related costs of performing those activities.
+In order to prevent this situation from arising, the Commission considered it necessary to extend the existing exemptions laid down in the CRR
+and that account should be taken of the amount of time that will be necessary to conclude the investment firms review and to prepare, adopt
+and apply any legislation that may result from that review.
+
+2015/0295(COD) - 11/05/2016 Text adopted by Parliament, 1st reading/single reading
+
+The European Parliament adopted by 547 votes to 60, with 50 abstentions, a legislative resolution on the proposal for a regulation of the
+European Parliament and of the Council amending Regulation (EU) No 575/2013 as regards exemptions for commodity dealers.
+Parliament adopted its position at first reading under the ordinary legislative procedure, taking over the Commission proposal.
+Regulation (EU) nº 575/2013 of the European Parliament and of the Council (CRR) exempt commodity dealers from large exposures
+requirements and from own funds requirements respectively. Both exemptions expire on 31 December 2017.
+The prudential framework applicable to investment firms (including commodity dealers) is currently under review. The finalisation of the review
+and the adoption of new legislation that may be required in light of that review will be concluded only after 31 December 2017.
+Therefore, the proposed Regulation seeks to extend the exemptions laid down in the CRR for commodity dealers from the large exposures
+and own funds requirements until 31 December 2020 and accordingly, amend Regulation 575/2013.
+
+2015/0295(COD) - 08/06/2016 Final act
+PURPOSE: to extend the period during which commodity dealers are exempted from certain requirements laid down in Regulation (EU) nº
+575/2013 on capital requirements (the 'Capital Requirements Regulation' or 'CRR').
+LEGISLATIVE ACT: Regulation (EU) 2016/1014 of the European Parliament and of the Council amending Regulation (EU) No 575/2013 as
+regards exemptions for commodity dealers.
+CONTENT: this Regulation amends Regulation (EU) nº 575/2013 in order to extend the exemptions laid down in the CRR for commodity
+dealers from the large exposures and own funds requirements. These exemptions apply until 31 December 2020 or the date of entry into force
+of any amendments, whichever is the earlier.
+To recall, Regulation (EU) nº 575/2013 of the European Parliament and of the Council exempt commodity dealers from large exposures
+requirements and from own funds requirements respectively. Both exemptions expire on 31 December 2017.
+The prudential framework applicable to investment firms (including commodity dealers) is currently under review. The results will determine the
+appropriate prudential treatment of commodity dealers. The finalisation of the review and the adoption of new legislation that may be required
+in light of that review will be concluded only after 31 December 2017.
+A decision to apply the requirements for large exposures and own funds requirements to commodity dealers should be a thoroughly reasoned
+one, based on conclusions of the investment firms review, and should be clearly expressed in legislation.
+ENTRY INTO FORCE: 19.7.2016.
+
+

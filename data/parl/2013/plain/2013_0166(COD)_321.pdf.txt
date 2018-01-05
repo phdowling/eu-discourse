@@ -1,0 +1,407 @@
+Procedure file
+Basic information
+COD - Ordinary legislative procedure (ex-codecision
+procedure)
+Decision
+
+2013/0166(COD)
+
+Procedure completed
+
+Deployment of the interoperable EU-wide eCall service
+See also 2013/0165(COD)
+Subject
+2.40.02 Public services, of general interest, universal service
+3.20.06 Transport regulations, road safety, roadworthiness tests, driving
+licence
+3.30.03.04 Telecommunication networks
+3.30.05 Electronic and mobile communications, personal communications
+
+Key players
+European Parliament
+
+Committee responsible
+TRAN
+
+Transport and Tourism
+
+Rapporteur
+
+Appointed
+
+ALDE DE BACKER Philippe
+
+03/09/2013
+
+Shadow rapporteur
+PPE KOCH Dieter-Lebrecht
+S&D GURMAI Zita
+Verts/ALE TAYLOR Keith
+ECR ROSBACH Anna
+Committee for opinion
+ITRE
+IMCO
+
+Rapporteur for opinion
+
+Appointed
+
+Industry, Research and Energy
+
+ALDE VĂLEAN Adina-Ioana
+
+11/09/2013
+
+Internal Market and Consumer Protection
+
+S&D SEHNALOVÁ Olga
+
+09/07/2013
+
+Council of the European Union
+Commission DG
+European Commission
+Mobility and Transport
+
+Commissioner
+KALLAS Siim
+
+European Economic and
+Social Committee
+European Committee of the
+Regions
+
+Key events
+13/06/2013
+
+Legislative proposal published
+
+01/07/2013
+
+Committee referral announced in
+Parliament, 1st reading/single reading
+
+17/12/2013
+
+Vote in committee, 1st reading/single
+reading
+
+20/12/2013
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+25/02/2014
+
+Debate in Parliament
+
+15/04/2014
+
+Decision by Parliament, 1st
+reading/single reading
+
+08/05/2014
+
+Act adopted by Council after Parliament's
+1st reading
+
+COM(2013)0315
+
+Summary
+
+A7-0482/2013
+
+Summary
+
+T7-0359/2014
+
+Summary
+
+15/05/2014
+
+Final act signed
+
+15/05/2014
+
+End of procedure in Parliament
+
+03/06/2014
+
+Final act published in Official Journal
+
+Technical information
+Procedure reference
+
+2013/0166(COD)
+
+Procedure type
+
+COD - Ordinary legislative procedure (ex-codecision procedure)
+
+Procedure subtype
+
+Legislation
+
+Legislative instrument
+
+Decision
+See also 2013/0165(COD)
+
+Legal basis
+
+Treaty on the Functioning of the EU TFEU 091
+
+Modified legal basis
+
+Rules of Procedure of the European Parliament EP 150
+
+Mandatory consultation of other institutions
+
+European Economic and Social Committee
+European Committee of the Regions
+
+Stage reached in procedure
+
+Procedure completed
+
+Committee dossier
+
+TRAN/7/13029
+
+Documentation gateway
+Legislative proposal
+
+COM(2013)0315
+
+13/06/2013
+
+EC
+
+CES5038/2013
+
+19/09/2013
+
+ESC
+
+PE521.535
+
+16/10/2013
+
+EP
+
+PE521.607
+
+28/11/2013
+
+EP
+
+PE522.913
+
+02/12/2013
+
+EP
+
+PE519.838
+
+04/12/2013
+
+EP
+
+Committee report tabled for plenary, 1st
+reading/single reading
+
+A7-0482/2013
+
+20/12/2013
+
+EP
+
+Summary
+
+Text adopted by Parliament, 1st
+reading/single reading
+
+T7-0359/2014
+
+15/04/2014
+
+EP
+
+Summary
+
+Commission response to text adopted in
+plenary
+
+SP(2014)471
+
+09/07/2014
+
+Economic and Social Committee: opinion,
+report
+Committee draft report
+Committee opinion
+
+IMCO
+
+Amendments tabled in committee
+Committee opinion
+
+ITRE
+
+Additional information
+National parliaments
+
+IPEX
+
+European Commission
+
+EUR-Lex
+
+Final act
+Decision 2014/585
+OJ L 164 03.06.2014, p. 0006 Summary
+Final legislative act with provisions for delegated acts
+
+Summary
+
+2013/0166(COD) - 13/06/2013 Legislative proposal
+PURPOSE: to ensure the coordinated and coherent deployment of the interoperable EU-wide eCall service and to guarantee interoperability
+and continuity of the service throughout Europe.
+PROPOSED ACT: Decision of the European Parliament and of the Council.
+ROLE OF THE EUROPEAN PARLIAMENT: the European Parliament decides in accordance with the ordinary legislative procedure and on an
+equal footing with the Council.
+BACKGROUND: road safety is one of the major elements of the European Unions transport policy. In 2011 around 30 000 people were killed
+and more than 1.5 million injured in about 1.1 million traffic accidents on EU roads. In this context, eCall can significantly contribute to the
+reduction of road fatalities and alleviation of severity of road injuries.
+Therefore, the harmonised implementation of an interoperable EU-wide eCall service in the EU has been in the agenda of the Commission
+since 2005. Given the absence of any significant progress in the voluntary deployment of eCall by the end of 2009, the Commission decided to
+conduct an Impact Assessment in order to assess the most appropriate policy option to implement the EU-wide eCall service in Europe.
+The Commission unveiled on 8 September 2011 its strategy on regulatory measures for eCall, together with the adoption of the first
+part of this strategy, which consisted of a Commission Recommendation on support for an EU-wide eCall service in electronic
+communication networks for the transmission of in-vehicle emergency calls based on 112 (eCalls).
+In its non-legislative resolution report on eCall: a new 112 service for citizens adopted on 3 July 2012, the European Parliament stated
+that eCall should be a public EU-wide emergency call system, embedded in the vehicle and based on 112 and on common
+pan-European standards. It urged the Commission to submit a proposal within the framework of Directive 2007/46/EC in order to
+ensure the mandatory deployment of a public, 112-based eCall system by 2015 in all new type-approved cars and in all Member
+States,
+On 26 November 2012, the Commission adopted the Delegated Regulation (EU) No 305/2013 supplementing Directive 2010/40/EU of
+the European Parliament and of the Council with regard to the harmonised provision for an interoperable EU-wide eCall.
+IMPACT ASSESSMENT: the impact assessment concluded that the best option to implement eCall effectively is a regulatory approach. eCall
+will then be based on the installation of type-approved equipment for the Single European Emergency Number 112 in all vehicles, starting with
+certain categories of vehicles, and a framework for handling eCalls in the telecommunication networks and PSAPs; the ability of mobile
+network operators to transmit messages in a certain format and, lastly, the capacity of the emergency call response centres (also known as
+PSAPs Public Safety Answering Points) to handle these messages. The system can only be operational if all three parts are in operation
+simultaneously.
+The estimated costs of upgrading PSAPs average around EUR 1.1 million per Member State. The benefits identified include:
+reduction in fatalities (with all vehicles eCall-equipped, between 1% and 10% depending on country population density and road and
+emergency response infrastructure);
+reduction in the seriousness of the injuries (between 2% and 15%);
+reduction in congestion costs caused by traffic accidents;
+facilitation of rescue services;
+reduced SOS roadside infrastructure.
+LEGAL BASIS: Article 91 of the Treaty on the Functioning of the European Union (TFEU).
+CONTENT: this proposal addresses the part concerning the Public Safety Answering Points (PSAPs) infrastructure in the Commission
+strategy on eCall, based on a three-pronged regulatory approach encompassing the in-vehicle system, the telecommunications networks and
+the PSAPs.
+The current proposal calls on Member States to deploy the necessary eCall PSAP infrastructure required for the proper receipt and handling of
+all eCalls on their territory no later than 1 October 2015, in accordance with the specifications laid down by Commission Delegated Regulation
+(EU) No 305/2013 supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to harmonised provision for
+an interoperable EU-wide eCall, in order to ensure the compatibility, interoperability and continuity of the EU-wide eCall service.
+Each Member State will be able to organise its emergency services in the way most cost effective and appropriate to its needs, including the
+possibility to filter calls that are not emergency calls and may not be handled by eCall PSAPs, in particular in the case of manually triggered
+eCalls.
+The Commission is proposing this piece of legislation in parallel to a proposed Regulation of the European Parliament and of the Council
+introducing in the EC motor vehicle type-approval system a requirement for fitting an eCall in-vehicle system.
+BUDGETARY IMPLICATION: there are no budgetary implications for the EU budget.
+
+2013/0166(COD) - 20/12/2013 Committee report tabled for plenary, 1st reading/single reading
+The Committee on Transport and Tourism adopted the report by Philippe DE BACKER (ADLE, BE) on the proposal for a decision of the
+European Parliament and of the Council on the deployment of the interoperable EU-wide eCall.
+The parliamentary committee recommended that the European Parliaments position adopted at first reading under the ordinary legislative
+procedure should be to amend the Commissions proposal as follows:
+Members adopted an amendment stipulating that, by 1 October 2015, Member States should deploy the necessary eCall PSAP infrastructure
+required for the proper receipt and handling of all eCalls, purged of non-emergency and false calls, on their territory.
+The report also stipulated that Member States should:
+
+have the option to outsource all or some 112 eCall services, through public service delegation, to assistance providers recognised by
+that Member State;
+that data transmitted via the eCall service are used exclusively for rescue and traffic management purposes following an emergency
+call;
+ensure that eCall service is free of charge for eCall users.
+Members added two recitals stressing:
+the importance of an awareness raising campaign preceding the deployment of the eCall service to explain the benefits, the
+functionalities and the data protection safeguards of the new system to citizens;
+the need to ensure equivalent access to 112 and emergency services for all citizens, the level of accuracy and reliability of caller
+location of a call to 112 with a GNSS-enabled mobile terminal should be equivalent to that of an eCall.
+
+2013/0166(COD) - 15/04/2014 Text adopted by Parliament, 1st reading/single reading
+The European Parliament adopted by 538 votes to 126, with 10 abstentions, a legislative resolution on the proposal for a decision of the
+European Parliament and of the Council on the deployment of the interoperable EU-wide eCall.
+Parliament adopted its position at first reading under the ordinary legislative procedure. The amendments adopted at plenary are the result of
+an agreement reached between the European Parliament and the Council. They amended the proposal as follows:
+The co-legislators agreed that Member States should deploy on their territory, at least six months before the date of application of the
+Regulation of the European Parliament and of the Council concerning the type-approval requirements for the deployment of the eCall
+in-vehicle system and in any case no later than 1 October 2017, the eCall PSAP infrastructure required for the proper receipt and handling of
+all eCalls.
+The main aim should be to ensure the full functionality, compatibility, interoperability, continuity and conformity of the service throughout the
+Union.
+Depending on the organisation of the handling of emergency calls in each Member State, such calls can be first received under the
+responsibility of a public authority or a private organisation recognised by the Member State concerned.
+Moreover, the amended text stipulated that:
+the processing of personal data in the context of handling eCalls fully complies with the personal data protection rules provided for in
+Directive 95/46/EC of the European Parliament and of the Council and in Directive 2002/58/EC of the European Parliament and of the
+Council;
+data transmitted via the eCall service are used exclusively for the attainment of the objectives of this Decision;
+the handling of eCalls is provided free of charge to users of the EU-wide eCall service;
+eCalls can originate from anywhere in their territory, provided there is at least one public mobile wireless communications network
+available.
+Since not all Union citizens are familiar with the use of the EU-wide eCall service, its deployment should be preceded by an awareness-raising
+campaign supported by the Commission, explaining to citizens the benefits, functionalities and data protection safeguards of the new system.
+The campaign should take place in Member States and should aim at informing users on how to use the system properly and how to avoid
+false alarms.
+
+2013/0166(COD) - 15/05/2014 Final act
+PURPOSE: ensure the coordinated and coherent deployment of the interoperable EU-wide eCall service and ensure the full functionality,
+compatibility, interoperability, continuity and conformity of the service throughout the Union
+LEGISLATIVE ACT: Decision No 585/2014/EU of the European Parliament and of the Council on the deployment of the interoperable EU-wide
+eCall service
+CONTENT: this Decision introduces a mandatory EU-wide system to handle emergency calls sent automatically by cars or triggered manually
+by people in the car in case of a crash (eCalls). The eCall is expected to speed up the emergency services' response time bringing down the
+number of fatalities and reducing the severity of injuries suffered in road accidents. Throughout the EU.
+The Decision provides that Member States must have the Public Safety Answering Point (PSAP) infrastructure to handle eCalls in place at
+least 6 months before the type-approval requirements for the corresponding in-vehicle device start to apply, and in any case no later than 1
+October 2017.
+The technical requirements for eCall devices, which are to be fitted to all new cars and light vans, are contained in a separate proposal.
+Each Member State:
+·
+
+may organise its emergency services in the way most cost effective and appropriate to its needs , including the possibility of filtering
+calls that are not emergency calls and may not be handled by eCall PSAPs, in particular in the case of manually triggered eCalls;
+
+·
+
+may allow private organisations recognised by it to deal with the receipt and handling of some or all eCalls.
+
+The Decision also contains the following points:
+·
+
+data transmitted via the EU-wide eCall service are used exclusively to attain the objectives of the Decision. The processing of
+personal data in the context of handling eCalls must fully comply with the personal data protection rules provided for in Directive
+
+95/46/EC of the European Parliament and of the Council and in Directive 2002/58/EC of the European Parliament and of the
+Council;
+·
+
+the handling of eCalls should be provided free of charge to users of the EU-wide eCall service;
+
+·
+
+eCalls can originate from anywhere in Member States territory, provided there is at least one public mobile wireless communications
+network available.
+
+Deployment of the eCall service should be preceded by an awareness-raising campaign supported by the Commission, explaining to citizens
+the benefits, functionalities and data protection safeguards of the new system.
+By 24 December 2015, Member States shall report to the Commission on the state of implementation of the Decision.
+ENTRY INTO FORCE: 23.06.2014.
+
+
