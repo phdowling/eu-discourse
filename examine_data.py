@@ -10,6 +10,8 @@ import string
 YEARS = [2013, 2014, 2015, 2016]
 SOURCES = ["frontex", "parl", "lex"]
 
+SEPARATOR = "."
+
 def load_models():
     with open("models/lsa.model", "rb") as inf:
         lsa = pickle.load(inf)
@@ -114,16 +116,16 @@ def compute_probabilites(words, data_global, data_filtered):
         p_f = p_filtered[word]
         p_g = p_global[word]
         if p_f > p_g:
-            print("%s: %.8s -> %.8s. Increase by factor %.8s" % (word, p_f, p_g, p_f / p_g))
+            print("%s: %s -> %s. Increase by factor %.8s" % (word, str(p_g), p_f, p_f / p_g))
         else:
-            print("%s: %.8s -> %.8s. Decrease by factor %.8s" % (word, p_f, p_g, p_g / p_f))
+            print("%s: %s -> %s. Decrease by factor %.8s" % (word, str(p_g), p_f, p_g / p_f))
 
 
-def output_probs_table(filename, table, dec_sep=","):
+def output_probs_table(filename, table):
     with open(filename, "w") as outf:
         outf.write("sep=;\n")
         for word in table:
-            outf.write("%s;%s\n" % (word, ";".join(map(str,table[word])).replace(".", dec_sep)))
+            outf.write("%s;%s\n" % (word, ";".join(map(str,table[word])).replace(".", SEPARATOR)))
 
 
 def probability_breakdown_by_year(words, data):
@@ -270,15 +272,32 @@ def get_typical_contexts(data, words, window=10, minsup=5):
                     for year in YEARS
                 ]
                 linestr = ";".join(
-                    ["%s;%s" % (other_word, str(importance).replace(".", ",")) for (other_word, importance) in row_data]
+                    ["%s;%s" % (other_word, str(importance).replace(".", SEPARATOR)) for (other_word, importance) in row_data]
                 )
                 outf.write("%s;%s\n" % (top, linestr))
 
             outf.write("\n")
 
 
-
-
+def examine_contexts(word_pairs, data, year, window=10, full=False):
+    translator = str.maketrans('', '', string.punctuation)
+    data_this_year = [d for d in data if d["year"] == year]
+    text_this_year = [d["text"].translate(translator) for d in data_this_year]
+    for word1, word2 in word_pairs:
+        print((word1, word2))
+        for text, doc in zip(text_this_year, data_this_year):
+            t = text.lower().split()
+            try:
+                i = t.index(word1)
+            except:
+                continue
+            context = t[max(i - window, 0):min(i + window, len(t))]
+            if word2 in context:
+                if full:
+                    print("\t%s: %s (%s)" % (doc["source"], " ".join(context), " ".join(doc["title"].split())))
+                    print(doc)
+                else:
+                    print("\t%s: %s (%s)" % (doc["source"], " ".join(context), " ".join(doc["title"].split())))
 
 if __name__ == '__main__':
     SELECTED_TOPIC_NUMS = [29, 30, 33, 41, 48, 49, 4, 5, 7]
@@ -298,8 +317,22 @@ if __name__ == '__main__':
 
     data_subselected = select_documents_for_topics(X_topics, SELECTED_TOPIC_NUMS)
     get_typical_contexts(data_subselected, words=WORDS)
-    # compute_probabilites(WORDS, data, data_subselected)
-    # probability_breakdown_by_year(WORDS, data_subselected)
+    compute_probabilites(WORDS, data, data_subselected)
+    probability_breakdown_by_year(WORDS, data_subselected)
+    pairs = [
+        ("illegal", "body"),
+        ("territory","expulsion"),
+        ("territory", "dynamic"),
+        ("protection", "exploitation"),
+        ("protection", "peace"),
+        ("security", "freedom"),
+        ("security", "biometrics"),
+        ("migrants", "fingerprint"),
+        ("migrants", "monitor")
+    ]
+    examine_contexts(pairs, data_subselected, 2016)
+    examine_contexts([("migrants", "countermeasures")], data_subselected, 2015)
+    examine_contexts([("illegal", "arms")], data_subselected, 2015, full=True)
 
     # with open("docs_out.csv", "w") as outf:
     #     for i, doc in enumerate(data_subselected):
